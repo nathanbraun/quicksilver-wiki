@@ -1,0 +1,573 @@
+site_name: Quicksilver Wiki
+site_url: https://quicksilver.wiki/
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.indexes
+nav: 
+  - Home: index.md
+  - Quicksilver:
+    - quicksilver/index.md
+    - Characters: stephenson-neal-quicksilver-list-of-people.md
+    - Annotations:
+      - quicksilver/annotations/index.md
+      - v - Baroque Cycle: quicksilver/annotations/stephenson-neal-quicksilver-v-baroque-cycle-neal-stephenson.md
+      - vii - To the woman upstairs: quicksilver/annotations/stephenson-neal-quicksilver-vii-to-the-woman-upstairs-jeremy-bornstein.md
+      - ix - Many other scholarly works: quicksilver/annotations/stephenson-neal-quicksilver-ix-many-other-scholarly-works-jeremy-bornstein.md
+      - xiii - Invocation: quicksilver/annotations/stephenson-neal-quicksilver-xiii-invocation-neal-stephenson.md
+      - xvi - The London Map: quicksilver/annotations/stephenson-neal-quicksilver-xvi-the-london-map-dame.md
+
+      - 1 - Those who assume hypotheses...:  quicksilver/annotations/stephenson-neal-quicksilver-1-those-who-assume-hypotheses-neal-stephenson.md
+      - 3 - October 12, 1713, 10:33:52 A.M.: quicksilver/annotations/stephenson-neal-quicksilver-3-october-12-1713-10-33-52-a-m-alan-sinder.md
+      - 3 - Jack Ketch: quicksilver/annotations/stephenson-neal-quicksilver-3-jack-ketch-neal-stephenson.md
+      - 3 - ...dollop of hills...: quicksilver/annotations/stephenson-neal-quicksilver-3-dollop-of-hills-neal-stephenson.md
+      - 3 - ...a squadron of lobsterbacks...: quicksilver/annotations/stephenson-neal-quicksilver-3-a-squadron-of-lobsterbacks-dennis-traub.md
+      - 4 - ...On Sir Isaac Newton's temperature scale...: quicksilver/annotations/stephenson-neal-quicksilver-4-on-sir-isaac-newton-s-temperature-scale-alan-sinder.md
+      - 4 - new quicksilver-filled, sealed-tube thermometers: quicksilver/annotations/stephenson-neal-quicksilver-4-new-quicksilver-filled-sealed-tube-thermometers-alan-sinder.md
+      - 4 - ...pale gray eyes...: quicksilver/annotations/stephenson-neal-quicksilver-4-pale-gray-eyes-andux.md
+      - 5 - ...the preacher's rantings...: quicksilver/annotations/stephenson-neal-quicksilver-5-the-preacher-s-rantings-alan-sinder.md
+      - 5 - ...the last one...: quicksilver/annotations/stephenson-neal-quicksilver-5-the-last-one-neal-stephenson.md
+      - 5 - ...seen more than one city burn...: quicksilver/annotations/stephenson-neal-quicksilver-5-seen-more-than-one-city-burn-alan-sinder.md
+      - 6 - Cartesian number-line: quicksilver/annotations/stephenson-neal-quicksilver-6-cartesian-number-line-neal-stephenson.md
+      - 6 - bits of slaughtered animals: quicksilver/annotations/stephenson-neal-quicksilver-6-bits-of-slaughtered-animals-alan-sinder.md
+      - 7 - Ben. Son of Josaiah. : quicksilver/annotations/stephenson-neal-quicksilver-7-ben-son-of-josaiah-gary-thompson.md
+      - 8 - Barker: quicksilver/annotations/stephenson-neal-quicksilver-8-barker-neal-stephenson.md
+      - 8 - King Carlos the Sufferer: quicksilver/annotations/stephenson-neal-quicksilver-8-king-carlos-the-sufferer-alan-sinder.md
+      - 9 - a loud fellow: quicksilver/annotations/stephenson-neal-quicksilver-9-a-loud-fellow-alan-sinder.md
+      - 9 - Charing Cross: quicksilver/annotations/stephenson-neal-quicksilver-9-charing-cross-neal-stephenson.md
+      - 9 - Restoration: quicksilver/annotations/stephenson-neal-quicksilver-9-restoration-jeremy-bornstein.md
+      - 10 - D.G. HISPAN ET IND REX: quicksilver/annotations/stephenson-neal-quicksilver-10-d-g-hispan-et-ind-rex-alan-sinder.md
+      - 11 - Hypothesis of Vortices: quicksilver/annotations/stephenson-neal-quicksilver-11-hypothesis-of-vortices-neal-stephenson.md
+      - 11 - Gold knows...: quicksilver/annotations/stephenson-neal-quicksilver-11-gold-knows-alan-sinder.md
+      - 12 - Minerva...: quicksilver/annotations/stephenson-neal-quicksilver-12-minerva-alan-sinder.md
+      - 13 - Some Irish, the rest Angolan...: quicksilver/annotations/stephenson-neal-quicksilver-13-some-irish-the-rest-angolan-alan-sinder.md
+      - 15 - Daniel Waterhouse: quicksilver/annotations/stephenson-neal-quicksilver-15-daniel-waterhouse-neal-stephenson.md
+      - 16 - Massachusetts Bay Colony Institute of Technologickal Arts: quicksilver/annotations/stephenson-neal-quicksilver-16-massachusetts-bay-colony-institute-of-technologickal-arts-neal-stephenson.md
+      - 16 - Massachusetts Bay Colony Institute of Technologickal Arts : quicksilver/annotations/stephenson-neal-quicksilver-16-massachusetts-bay-colony-institute-of-technologickal-arts-patrick-tufts.md
+      - 17 - ...Oh Dear...: quicksilver/annotations/stephenson-neal-quicksilver-17-oh-dear-alan-sinder.md
+      - 18 - ...a specimen of white phosphorus...: quicksilver/annotations/stephenson-neal-quicksilver-18-a-specimen-of-white-phosphorus-alan-sinder.md
+      - 18 - ...heard by their future Queen... : quicksilver/annotations/stephenson-neal-quicksilver-18-heard-by-their-future-queen-chris-swingley.md
+      - 18 - ...heard by their future Queen...: quicksilver/annotations/stephenson-neal-quicksilver-18-heard-by-their-future-queen-alan-sinder.md
+      - 18 - ..behaving as if Queen Anne were already dead and buried,...: quicksilver/annotations/stephenson-neal-quicksilver-18-behaving-as-if-queen-anne-were-already-dead-and-buried-alan-sinder.md
+      - 20 - most disorderly: quicksilver/annotations/stephenson-neal-quicksilver-20-most-disorderly-alan-sinder.md
+      - 20 - Ask your father: quicksilver/annotations/stephenson-neal-quicksilver-20-ask-your-father-alan-sinder.md
+      - 20 - A harder question: quicksilver/annotations/stephenson-neal-quicksilver-20-a-harder-question-jeremy-bornstein.md
+      - 21 - Killed a great deal of Irishmen: quicksilver/annotations/stephenson-neal-quicksilver-21-killed-a-great-deal-of-irishmen-alan-sinder.md
+      - 21 - granted all men - even Jews - the right to worship: quicksilver/annotations/stephenson-neal-quicksilver-21-granted-all-men-even-jews-the-right-to-worship-alan-sinder.md
+      - 21 - Navigation Act: quicksilver/annotations/stephenson-neal-quicksilver-21-navigation-act-alan-sinder.md
+      - 21 - Mister Clarke had to get in line: quicksilver/annotations/stephenson-neal-quicksilver-21-mister-clarke-had-to-get-in-line-alan-sinder.md
+      - 21 - Francis Bacon, Galileo, Descartes: quicksilver/annotations/stephenson-neal-quicksilver-21-francis-bacon-galileo-descartes-alan-sinder.md
+      - 21 - John Comstock and Thomas More Anglesey: quicksilver/annotations/stephenson-neal-quicksilver-21-john-comstock-and-thomas-more-anglesey-neal-stephenson.md
+      - 22 - Monsieur Le Febure: quicksilver/annotations/stephenson-neal-quicksilver-22-monsieur-le-febure-neal-stephenson.md
+      - 22 - T'was all rubbish: quicksilver/annotations/stephenson-neal-quicksilver-22-t-was-all-rubbish-alan-sinder.md
+      - 22 - anointed him with angelbalm, a thousand years old: quicksilver/annotations/stephenson-neal-quicksilver-22-anointed-him-with-angelbalm-a-thousand-years-old-alan-sinder.md
+      - 22 - John Wilkins...Cryptonomicon: quicksilver/annotations/stephenson-neal-quicksilver-22-john-wilkins-cryptonomicon-neal-stephenson.md
+      - 22 - Wizard's robes: quicksilver/annotations/stephenson-neal-quicksilver-22-wizard-s-robes-alan-sinder.md
+      - 25 - Clarke: quicksilver/annotations/stephenson-neal-quicksilver-25-clarke-neal-stephenson.md
+      - 26 - Cha, or chai, or the, or tay: quicksilver/annotations/stephenson-neal-quicksilver-26-cha-or-chai-or-the-or-tay-sorenson.md
+      - 29 - ...rub his prisoner's face...: quicksilver/annotations/stephenson-neal-quicksilver-29-rub-his-prisoner-s-face-neal-stephenson.md
+      - 29 - lace: quicksilver/annotations/stephenson-neal-quicksilver-29-lace-alan-sinder.md
+      - 31 - the muse: quicksilver/annotations/stephenson-neal-quicksilver-31-the-muse-alan-sinder.md
+      - 33 - show the boy Euclid...: quicksilver/annotations/stephenson-neal-quicksilver-33-show-the-boy-euclid-alan-sinder.md
+      - 35 - Sir John Floyer just invented it: quicksilver/annotations/stephenson-neal-quicksilver-35-sir-john-floyer-just-invented-it-alan-sinder.md
+      - 36 - According to what scheme?: quicksilver/annotations/stephenson-neal-quicksilver-36-according-to-what-scheme-alan-sinder.md
+      - 36 - It is the product of five primes. : quicksilver/annotations/stephenson-neal-quicksilver-36-it-is-the-product-of-five-primes-gary-thompson.md
+      - 36 - No linear indexing system : quicksilver/annotations/stephenson-neal-quicksilver-36-no-linear-indexing-system-edward-vielmetti.md
+      - 37 - ...less fraught with seasickness, pirates, scurvy, mass drownings...: quicksilver/annotations/stephenson-neal-quicksilver-37-less-fraught-with-seasickness-pirates-scurvy-mass-drownings-alan-sinder.md
+      - 40 - The priority dispute has turned vicious: quicksilver/annotations/stephenson-neal-quicksilver-40-the-priority-dispute-has-turned-vicious-alan-sinder.md
+      - 40 - Hercules: quicksilver/annotations/stephenson-neal-quicksilver-40-hercules-alan-sinder.md
+      - 43 - Fellow Armenian: quicksilver/annotations/stephenson-neal-quicksilver-43-fellow-armenian-jeremy-bornstein.md
+      - 48 - Demolishing the cathedral: quicksilver/annotations/stephenson-neal-quicksilver-48-demolishing-the-cathedral-jeremy-bornstein.md
+      - 46 - ...campus of domed pavilions: quicksilver/annotations/stephenson-neal-quicksilver-46-campus-of-domed-pavilions-alan-sinder.md
+      - 49 - John Comstock, drawn up an Act of Uniformity: quicksilver/annotations/stephenson-neal-quicksilver-49-john-comstock-drawn-up-an-act-of-uniformity-alan-sinder.md
+      - 60 - Isaac was pale and starlight: quicksilver/annotations/stephenson-neal-quicksilver-60-isaac-was-pale-and-starlight-ghash.md
+      - 61 - a certain natural wave: quicksilver/annotations/stephenson-neal-quicksilver-61-a-certain-natural-wave-alan-sinder.md
+      - 64 - Mrs. Goose: quicksilver/annotations/stephenson-neal-quicksilver-64-mrs-goose-neal-stephenson.md
+      - 64 - a Free Will man?: quicksilver/annotations/stephenson-neal-quicksilver-64-a-free-will-man-alan-sinder.md
+      - 67 - Godfrey can imagine a hero-father: quicksilver/annotations/stephenson-neal-quicksilver-67-godfrey-can-imagine-a-hero-father-alan-sinder.md
+      - 69 - well-trimmed ship: quicksilver/annotations/stephenson-neal-quicksilver-69-well-trimmed-ship-neal-stephenson.md
+      - 69 - lascars: quicksilver/annotations/stephenson-neal-quicksilver-69-lascars-jeremy-bornstein.md
+      - 71 - eyeball experiments : quicksilver/annotations/stephenson-neal-quicksilver-71-eyeball-experiments-brett-kuehner.md
+      - 74 - wheel by which the ship is steered: quicksilver/annotations/stephenson-neal-quicksilver-74-wheel-by-which-the-ship-is-steered-neal-stephenson.md
+      - 75 - sundial synchronization : quicksilver/annotations/stephenson-neal-quicksilver-75-sundial-synchronization-bill-seitz.md
+      - 78 - Isaac Barrow: quicksilver/annotations/stephenson-neal-quicksilver-78-isaac-barrow-neal-stephenson.md
+      - 80 - Stourbridge Fair: quicksilver/annotations/stephenson-neal-quicksilver-80-stourbridge-fair-alan-sinder.md
+      - 83 - Translated into the Analytical language...: quicksilver/annotations/stephenson-neal-quicksilver-83-translated-into-the-analytical-language-alan-sinder.md
+      - 86 - Ashkenazi: quicksilver/annotations/stephenson-neal-quicksilver-86-ashkenazi-jeremy-bornstein.md
+      - 91 - Atlantic is striped with currents : quicksilver/annotations/stephenson-neal-quicksilver-91-atlantic-is-striped-with-currents-chris-swingley.md
+      - 92 - The page ends abruptly. : quicksilver/annotations/stephenson-neal-quicksilver-92-the-page-ends-abruptly-scott-elkin.md
+      - 93 - The Plague Year: quicksilver/annotations/stephenson-neal-quicksilver-93-the-plague-year-alan-sinder.md
+      - 94 - found God: quicksilver/annotations/stephenson-neal-quicksilver-94-found-god-neal-stephenson.md
+      - 96 - YOU AND I ARE BUT EARTH : quicksilver/annotations/stephenson-neal-quicksilver-96-you-and-i-are-but-earth-gary-thompson.md
+      - 99 - end of days: quicksilver/annotations/stephenson-neal-quicksilver-99-end-of-days-alan-sinder.md
+      - 105 - rain of ticks: quicksilver/annotations/stephenson-neal-quicksilver-105-rain-of-ticks-alan-sinder.md
+      - 105 - grown from the corpses of rats: quicksilver/annotations/stephenson-neal-quicksilver-105-grown-from-the-corpses-of-rats.md
+      - 108 - Mayflower: quicksilver/annotations/stephenson-neal-quicksilver-108-mayflower-alan-sinder.md
+      - 110 - Walbrook : quicksilver/annotations/stephenson-neal-quicksilver-110-walbrook-lotzmana.md
+      - 112 - at Epsom: quicksilver/annotations/stephenson-neal-quicksilver-112-at-epsom-neal-stephenson.md
+      - 114 - Hooke approaches: quicksilver/annotations/stephenson-neal-quicksilver-114-hooke-approaches-neal-stephenson.md
+      - 124 - Word arrived that Fermat had died : quicksilver/annotations/stephenson-neal-quicksilver-124-word-arrived-that-fermat-had-died-t-whalen.md
+      - 124 - Punishments: quicksilver/annotations/stephenson-neal-quicksilver-124-punishments-neal-stephenson.md
+      - 128 - Fly stuck to quill: quicksilver/annotations/stephenson-neal-quicksilver-128-fly-stuck-to-quill-neal-stephenson.md
+      - 139 - Systematic Alphabet : quicksilver/annotations/stephenson-neal-quicksilver-139-systematic-alphabet-jonnay.md
+      - 142 - symmetry of snowflakes: quicksilver/annotations/stephenson-neal-quicksilver-142-symmetry-of-snowflakes-jeremy-bornstein.md
+      - 146 - the western horizon : quicksilver/annotations/stephenson-neal-quicksilver-146-the-western-horizon-armaced.md
+      - 150 - Newton at Woolsthorpe: quicksilver/annotations/stephenson-neal-quicksilver-150-newton-at-woolsthorpe-neal-stephenson.md
+      - 150 - Newton at Woolsthorpe: quicksilver/annotations/stephenson-neal-quicksilver-150-newton-at-woolsthorpe-alan-sinder.md
+      - 160 - Regents Firewall : quicksilver/annotations/stephenson-neal-quicksilver-160-regents-firewall-simon.md
+      - 161 - Blunderbuss : quicksilver/annotations/stephenson-neal-quicksilver-161-blunderbuss-professor-bikey-bike.md
+      - 165 - Zeno's Paradox : quicksilver/annotations/stephenson-neal-quicksilver-165-zeno-s-paradox-matt-zwolinski.md
+      - 166 - Schooners: quicksilver/annotations/stephenson-neal-quicksilver-166-schooners-alan-sinder.md
+      - 166 - Schooners: quicksilver/annotations/stephenson-neal-quicksilver-166-schooners-neal-stephenson.md
+      - 166 - Strange information: quicksilver/annotations/stephenson-neal-quicksilver-166-strange-information-neal-stephenson.md
+      - 166 - flashes of light: quicksilver/annotations/stephenson-neal-quicksilver-166-flashes-of-light-alan-sinder.md
+      - 166 - Teach: quicksilver/annotations/stephenson-neal-quicksilver-166-teach-neal-stephenson.md
+      - 170 - CABAL: quicksilver/annotations/stephenson-neal-quicksilver-170-cabal-neal-stephenson.md
+      - 170 - John Locke was writing a constitution for Carolina: quicksilver/annotations/stephenson-neal-quicksilver-170-john-locke-was-writing-a-constitution-for-carolina-mike-lorrey-alan-sinder.md
+      - 173 - Coffee: quicksilver/annotations/stephenson-neal-quicksilver-173-coffee-alan-sinder.md
+      - 176 - Black Velvet : quicksilver/annotations/stephenson-neal-quicksilver-176-black-velvet-scott-elkin.md
+      - 181 - In the House of Monsieur Le Febure: quicksilver/annotations/stephenson-neal-quicksilver-181-in-the-house-of-monsieur-le-febure-neal-stephenson.md
+      - 182 - Ned Ward: quicksilver/annotations/stephenson-neal-quicksilver-182-ned-ward-neal-stephenson.md
+      - 183 - Meeting of the Society: quicksilver/annotations/stephenson-neal-quicksilver-183-meeting-of-the-society-neal-stephenson.md
+      - 185 - Tarantella: quicksilver/annotations/stephenson-neal-quicksilver-185-tarantella-alan-sinder.md
+      - 187 - Samuel Pepys : quicksilver/annotations/stephenson-neal-quicksilver-187-samuel-pepys-joe-goldberg.md
+      - 195 - Comstock House: quicksilver/annotations/stephenson-neal-quicksilver-195-comstock-house-neal-stephenson.md
+      - 197 - Knott Bolstrood: quicksilver/annotations/stephenson-neal-quicksilver-197-knott-bolstrood-neal-stephenson.md
+      - 197 - Knott Bolstrood: quicksilver/annotations/stephenson-neal-quicksilver-197-knott-bolstrood-jeremy-bornstein.md
+      - 215 - The dog shit in the boat: quicksilver/annotations/stephenson-neal-quicksilver-215-the-dog-shit-in-the-boat-neal-stephenson.md
+      - 222 - The sun becomes an oval : quicksilver/annotations/stephenson-neal-quicksilver-222-the-sun-becomes-an-oval-john-b.md
+      - 233 - Chirurgeon: quicksilver/annotations/stephenson-neal-quicksilver-233-chirurgeon-jeremy-bornstein.md
+      - 236 - Once More Into the Breeches: quicksilver/annotations/stephenson-neal-quicksilver-236-once-more-into-the-breeches-neal-stephenson.md
+      - 246 - Apthorp---the second A: quicksilver/annotations/stephenson-neal-quicksilver-246-apthorp-the-second-a-neal-stephenson.md
+      - 253 - What is to come? : quicksilver/annotations/stephenson-neal-quicksilver-253-what-is-to-come-eric-s-raymond.md
+      - 257 - Jeova Sanctus Unus : quicksilver/annotations/stephenson-neal-quicksilver-257-jeova-sanctus-unus-professorbikeybike.md
+      - 270 - John Wilkins... : quicksilver/annotations/stephenson-neal-quicksilver-270-john-wilkins-pronoiac.md
+      - 271 - Daniel saw gears, cranks, shafts. : quicksilver/annotations/stephenson-neal-quicksilver-271-daniel-saw-gears-cranks-shafts-trismegis2.md
+      - 278 - ...truth can be grasped as if pictured on paper.: quicksilver/annotations/stephenson-neal-quicksilver-278-truth-can-be-grasped-as-if-pictured-on-paper-gary-thompson.md
+      - 299 - When you turn the crank?: quicksilver/annotations/stephenson-neal-quicksilver-299-when-you-turn-the-crank-alan-sinder.md
+      - 305 - The Bernoullis : quicksilver/annotations/stephenson-neal-quicksilver-305-the-bernoullis-jonnay.md
+      - 308 - Richard Comstock: quicksilver/annotations/stephenson-neal-quicksilver-308-richard-comstock.md
+      - 316 - the first few terms of a series : quicksilver/annotations/stephenson-neal-quicksilver-316-the-first-few-terms-of-a-series-jere7my-tho-rpe.md
+      - 318 - ...the monster: quicksilver/annotations/stephenson-neal-quicksilver-318-the-monster-alan-sinder.md
+      - 343 - Jack Ketch : quicksilver/annotations/stephenson-neal-quicksilver-343-jack-ketch-the-shabby-sheik.md
+      - 367 - Imp of the Perverse: quicksilver/annotations/stephenson-neal-quicksilver-367-imp-of-the-perverse-neal-stephenson.md
+      - 370 - Qwghlm: quicksilver/annotations/stephenson-neal-quicksilver-370-qwghlm-neal-stephenson.md
+      - 379 - ...elaborate lace undergarments : quicksilver/annotations/stephenson-neal-quicksilver-379-elaborate-lace-undergarments-michael-turyn.md
+      - 383 - Merry madrigal tunes : quicksilver/annotations/stephenson-neal-quicksilver-383-merry-madrigal-tunes-jeffrey-radcliffe.md
+      - 385 - Bartholomew Fair : quicksilver/annotations/stephenson-neal-quicksilver-385-bartholomew-fair-user-69-68-134-7.md
+      - 385 - Bartholomew Fair: quicksilver/annotations/stephenson-neal-quicksilver-385-bartholomew-fair-alan-sinder.md
+      - 391 - Haiduks : quicksilver/annotations/stephenson-neal-quicksilver-391-haiduks-professorbikeybike.md
+      - 391 - Watered steel-blade: quicksilver/annotations/stephenson-neal-quicksilver-391-watered-steel-blade-neal-stephenson.md
+      - 397 - J'ai besoin...: quicksilver/annotations/stephenson-neal-quicksilver-397-j-ai-besoin-jeremy-bornstein.md
+      - 398 - ...Frenchman wears those sabots : quicksilver/annotations/stephenson-neal-quicksilver-398-frenchman-wears-those-sabots-professorbikeybike.md
+      - 400 - Winston Churchill: quicksilver/annotations/stephenson-neal-quicksilver-400-winston-churchill-neal-stephenson.md
+      - 422 - fine golden beer from Pilsen : quicksilver/annotations/stephenson-neal-quicksilver-422-fine-golden-beer-from-pilsen-david-c-weichert.md
+      - 424 - Chinese fortune-teller: quicksilver/annotations/stephenson-neal-quicksilver-424-chinese-fortune-teller-jeremy-bornstein.md
+      - 427 - Fuggers and Hacklhebers: quicksilver/annotations/stephenson-neal-quicksilver-427-fuggers-and-hacklhebers-neal-stephenson.md
+      - 427 - Potosi in Peru: quicksilver/annotations/stephenson-neal-quicksilver-427-potosi-in-peru-neal-stephenson.md
+      - 442 - arsch-leders: quicksilver/annotations/stephenson-neal-quicksilver-442-arsch-leders-jeremy-bornstein.md
+      - 444 - sabotage : quicksilver/annotations/stephenson-neal-quicksilver-444-sabotage-david-c-weichert.md
+      - 449 - wedges-and-sledgehammers trick : quicksilver/annotations/stephenson-neal-quicksilver-449-wedges-and-sledgehammers-trick-professorbikeybike.md
+      - 450 - Walpurgisnacht: quicksilver/annotations/stephenson-neal-quicksilver-450-walpurgisnacht-jeremy-bornstein.md
+      - 460 - that bloke in the myth: quicksilver/annotations/stephenson-neal-quicksilver-460-that-bloke-in-the-myth-jeremy-bornstein.md
+      - 463 - L'Emmerdeur: quicksilver/annotations/stephenson-neal-quicksilver-463-l-emmerdeur-jeremy-bornstein.md
+      - 475 - half a mile of Sophie: quicksilver/annotations/stephenson-neal-quicksilver-475-half-a-mile-of-sophie-alan-sinder.md
+      - 476 - Damplatz : quicksilver/annotations/stephenson-neal-quicksilver-476-damplatz-neville-kuyt.md
+      - 477 - Ijselmeer : quicksilver/annotations/stephenson-neal-quicksilver-477-ijselmeer-neville-kuyt.md
+      - 487 - old musketeer hat : quicksilver/annotations/stephenson-neal-quicksilver-487-old-musketeer-hat-quillman.md
+      - 512 - Ambassadorial standoff: quicksilver/annotations/stephenson-neal-quicksilver-512-ambassadorial-standoff-neal-stephenson.md
+      - 513 - d'Avaux: quicksilver/annotations/stephenson-neal-quicksilver-513-d-avaux-neal-stephenson.md
+      - 517 - Sluys: quicksilver/annotations/stephenson-neal-quicksilver-517-sluys-neal-stephenson.md
+      - 518 - Ultima Ratio Regum: quicksilver/annotations/stephenson-neal-quicksilver-518-ultima-ratio-regum-jeremy-bornstein.md
+      - 520 - Spij : quicksilver/annotations/stephenson-neal-quicksilver-520-spij-sander-van-malssen.md
+      - 533 - nerf du boeuf : quicksilver/annotations/stephenson-neal-quicksilver-533-nerf-du-boeuf-jere7my-tho-rpe.md
+      - 536 - O wha-at the Hell was on God's mind...: quicksilver/annotations/stephenson-neal-quicksilver-536-o-wha-at-the-hell-was-on-god-s-mind-jeremy-bornstein.md
+      - 552 - Duc d'Arcachon: quicksilver/annotations/stephenson-neal-quicksilver-552-duc-d-arcachon-neal-stephenson.md
+      - 552 - master-stroke: quicksilver/annotations/stephenson-neal-quicksilver-552-master-stroke-jeremy-bornstein.md
+      - 559 - Hotel d'Arcachon: quicksilver/annotations/stephenson-neal-quicksilver-559-hotel-d-arcachon-neal-stephenson.md
+      - 576 - rotten fish: quicksilver/annotations/stephenson-neal-quicksilver-576-rotten-fish-neal-stephenson.md
+      - 578 - over the horizon: quicksilver/annotations/stephenson-neal-quicksilver-578-over-the-horizon-jeremy-bornstein.md
+      - 588 - cancaniers: quicksilver/annotations/stephenson-neal-quicksilver-588-cancaniers-jeremy-bornstein.md
+      - 598 - If you are going to tap me on the shoulder: quicksilver/annotations/stephenson-neal-quicksilver-598-if-you-are-going-to-tap-me-on-the-shoulder-jeremy-bornstein.md
+      - 605 - Hava Nagila: quicksilver/annotations/stephenson-neal-quicksilver-605-hava-nagila-alan-sinder.md
+      - 613 - the previous twelve years: quicksilver/annotations/stephenson-neal-quicksilver-613-the-previous-twelve-years-neal-stephenson.md
+      - 614 - Knott had attempted to indict Nell Gwyn: quicksilver/annotations/stephenson-neal-quicksilver-614-knott-had-attempted-to-indict-nell-gwyn-neal-stephenson.md
+      - 621 - Brevis Demonstratio Erroris... : quicksilver/annotations/stephenson-neal-quicksilver-621-brevis-demonstratio-erroris-craig-stuntz.md
+      - 622 - Drs. Hammond and Griffin: quicksilver/annotations/stephenson-neal-quicksilver-622-drs-hammond-and-griffin-neal-stephenson.md
+      - 622 - Sizar : quicksilver/annotations/stephenson-neal-quicksilver-622-sizar-quillman.md
+      - 631 - Feversham: quicksilver/annotations/stephenson-neal-quicksilver-631-feversham-neal-stephenson.md
+      - 638 - comte de Beziers: quicksilver/annotations/stephenson-neal-quicksilver-638-comte-de-beziers-neal-stephenson.md
+      - 641 - Wilkins cypher: quicksilver/annotations/stephenson-neal-quicksilver-641-wilkins-cypher-neal-stephenson.md
+      - 645 - Vôtre Majesté : quicksilver/annotations/stephenson-neal-quicksilver-645-vôtre-majesté-st-countzero.md
+      - 646 - Oyonnax and Ozoir: quicksilver/annotations/stephenson-neal-quicksilver-646-oyonnax-and-ozoir-neal-stephenson.md
+      - 647 - Boullaye and Beber: quicksilver/annotations/stephenson-neal-quicksilver-647-boullaye-and-beber-neal-stephenson.md
+      - 652 - Edouard de Gex: quicksilver/annotations/stephenson-neal-quicksilver-652-edouard-de-gex-neal-stephenson.md
+      - 654 - a frightful purplish swelling : quicksilver/annotations/stephenson-neal-quicksilver-654-a-frightful-purplish-swelling-al-ju.md
+      - 654 - a certain déshabille : quicksilver/annotations/stephenson-neal-quicksilver-654-a-certain-déshabille-st-countzero.md
+      - 660 - What of Newton?: quicksilver/annotations/stephenson-neal-quicksilver-660-what-of-newton-neal-stephenson.md
+      - 660 - Elixir Vitae and usquebaugh : quicksilver/annotations/stephenson-neal-quicksilver-660-elixir-vitae-and-usquebaugh-jere7my-tho-rpe.md
+      - 662 - De Motu Corporum in Gyrum : quicksilver/annotations/stephenson-neal-quicksilver-662-de-motu-corporum-in-gyrum-craig-stuntz.md
+      - 673 - I have met the Duke of Monmouth...: quicksilver/annotations/stephenson-neal-quicksilver-673-i-have-met-the-duke-of-monmouth-jeremy-bornstein.md
+      - 674 - LIBRI I. CONICORUM APOLLONII: quicksilver/annotations/stephenson-neal-quicksilver-674-libri-i-conicorum-apollonii-neal-stephenson.md
+      - 677 - Wren library : quicksilver/annotations/stephenson-neal-quicksilver-677-wren-library-doug-miller.md
+      - 688 - Theologians? Sorcerers?: quicksilver/annotations/stephenson-neal-quicksilver-688-theologians-sorcerers-neal-stephenson.md
+      - 688 - hypotheses non fingo : quicksilver/annotations/stephenson-neal-quicksilver-688-hypotheses-non-fingo-steven-horst.md
+      - 697 - Dorset, June 1685 : quicksilver/annotations/stephenson-neal-quicksilver-697-dorset-june-1685-pronoiac.md
+      - 704 - King's Own Black Torrent Guards: quicksilver/annotations/stephenson-neal-quicksilver-704-king-s-own-black-torrent-guards-neal-stephenson.md
+      - 705 - made a slave.: quicksilver/annotations/stephenson-neal-quicksilver-705-made-a-slave-neal-stephenson.md
+      - 707 - Huygens's house: quicksilver/annotations/stephenson-neal-quicksilver-707-huygens-s-house-neal-stephenson.md
+      - 724 - the Book is consumed by the flames: quicksilver/annotations/stephenson-neal-quicksilver-724-the-book-is-consumed-by-the-flames-neal-stephenson.md
+      - 735 - Fall of Batavia: quicksilver/annotations/stephenson-neal-quicksilver-735-fall-of-batavia-neal-stephenson.md
+      - 740 - polder : quicksilver/annotations/stephenson-neal-quicksilver-740-polder-quillman.md
+      - 744 - letters to William of Orange: quicksilver/annotations/stephenson-neal-quicksilver-744-letters-to-william-of-orange-neal-stephenson.md
+      - 747 - A Swiss mathematician named Fatio: quicksilver/annotations/stephenson-neal-quicksilver-747-a-swiss-mathematician-named-fatio-neal-stephenson.md
+      - 772 - Sghr: quicksilver/annotations/stephenson-neal-quicksilver-772-sghr-jeremy-bornstein.md
+      - 804 - in fact it was a vector : quicksilver/annotations/stephenson-neal-quicksilver-804-in-fact-it-was-a-vector-olivier-gerard.md
+      - 811 - Bonaventure Rossignol: quicksilver/annotations/stephenson-neal-quicksilver-811-bonaventure-rossignol-neal-stephenson.md
+      - 826 - crypto-embroidery: quicksilver/annotations/stephenson-neal-quicksilver-826-crypto-embroidery-neal-stephenson.md
+      - 829 - Eliza's journal entries: quicksilver/annotations/stephenson-neal-quicksilver-829-eliza-s-journal-entries-neal-stephenson.md
+      - 839 - Ernst von Pfung: quicksilver/annotations/stephenson-neal-quicksilver-839-ernst-von-pfung-neal-stephenson.md
+      - 839 - The Saarland: quicksilver/annotations/stephenson-neal-quicksilver-839-the-saarland-dame.md
+      - 847 - Belgian river-boats : quicksilver/annotations/stephenson-neal-quicksilver-847-belgian-river-boats-st-countzero.md
+      - 850 - Eleanor and Caroline: quicksilver/annotations/stephenson-neal-quicksilver-850-eleanor-and-caroline-neal-stephenson.md
+      - 855 - banger: quicksilver/annotations/stephenson-neal-quicksilver-855-banger-jeremy-bornstein.md
+      - 855 - King of England in waterfront bar fight: quicksilver/annotations/stephenson-neal-quicksilver-855-king-of-england-in-waterfront-bar-fight-neal-stephenson.md
+      - 857 - blowout fracture : quicksilver/annotations/stephenson-neal-quicksilver-857-blowout-fracture-henry-pollock.md
+      - 860 - Castle Upnor: quicksilver/annotations/stephenson-neal-quicksilver-860-castle-upnor-neal-stephenson.md
+      - 864 - Glorious Revolution...Moment It All Happened: quicksilver/annotations/stephenson-neal-quicksilver-864-glorious-revolution-moment-it-all-happened-neal-stephenson.md
+      - 883 - bhang : quicksilver/annotations/stephenson-neal-quicksilver-883-bhang-quillman.md
+      - 886 - cosh: quicksilver/annotations/stephenson-neal-quicksilver-886-cosh-quillman.md
+      - 916 - time time: quicksilver/annotations/stephenson-neal-quicksilver-916-time-time-quillman.md
+      - 921 - Cromwell, Roger...: quicksilver/annotations/stephenson-neal-quicksilver-921-cromwell-roger-alan-sinder.md
+  - The Confusion:
+    - the-confusion/index.md
+    - Characters: stephenson-neal-the-confusion-dramatis-personæ.md
+  - The System of the World: the-system-of-the-world.md
+plugins:
+  - search
+  - redirects:
+      redirect_maps:
+        # 'quicksilver.md': 'stephenson-neal-quicksilver.md'
+        # 'quicksilver/index.md': 'stephenson-neal-quicksilver.md'
+        # 'quicksilver/annotations/index.md': 'stephenson-neal-quicksilver-all-annotations-by-page-number.md'
+        'the-confusion.md': 'stephenson-neal-the-confusion.md'
+        'the-system-of-the-world.md': 'stephenson-neal-the-system-of-the-world.md'
+        'stephenson-neal-quicksilver-v-baroque-cycle-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-v-baroque-cycle-neal-stephenson.md'
+        'stephenson-neal-quicksilver-vii-to-the-woman-upstairs-jeremy-bornstein.md': 'quicksilver/annotations/stephenson-neal-quicksilver-vii-to-the-woman-upstairs-jeremy-bornstein.md'
+        'stephenson-neal-quicksilver-ix-many-other-scholarly-works-jeremy-bornstein.md': 'quicksilver/annotations/stephenson-neal-quicksilver-ix-many-other-scholarly-works-jeremy-bornstein.md'
+        'stephenson-neal-quicksilver-xiii-invocation-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-xiii-invocation-neal-stephenson.md'
+        'stephenson-neal-quicksilver-xvi-the-london-map-dame.md': 'quicksilver/annotations/stephenson-neal-quicksilver-xvi-the-london-map-dame.md'
+        'stephenson-neal-quicksilver-1-those-who-assume-hypotheses-neal-stephenson.md': ' quicksilver/annotations/stephenson-neal-quicksilver-1-those-who-assume-hypotheses-neal-stephenson.md'
+        'stephenson-neal-quicksilver-3-october-12-1713-10-33-52-a-m-alan-sinder.md': '3:52 A.M.: quicksilver/annotations/stephenson-neal-quicksilver-3-october-12-1713-10-33-52-a-m-alan-sinder.md'
+        'stephenson-neal-quicksilver-3-jack-ketch-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-3-jack-ketch-neal-stephenson.md'
+        'stephenson-neal-quicksilver-3-dollop-of-hills-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-3-dollop-of-hills-neal-stephenson.md'
+        'stephenson-neal-quicksilver-3-a-squadron-of-lobsterbacks-dennis-traub.md': 'quicksilver/annotations/stephenson-neal-quicksilver-3-a-squadron-of-lobsterbacks-dennis-traub.md'
+        'stephenson-neal-quicksilver-4-on-sir-isaac-newton-s-temperature-scale-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-4-on-sir-isaac-newton-s-temperature-scale-alan-sinder.md'
+        'stephenson-neal-quicksilver-4-new-quicksilver-filled-sealed-tube-thermometers-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-4-new-quicksilver-filled-sealed-tube-thermometers-alan-sinder.md'
+        'stephenson-neal-quicksilver-4-pale-gray-eyes-andux.md': 'quicksilver/annotations/stephenson-neal-quicksilver-4-pale-gray-eyes-andux.md'
+        'stephenson-neal-quicksilver-5-the-preacher-s-rantings-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-5-the-preacher-s-rantings-alan-sinder.md'
+        'stephenson-neal-quicksilver-5-the-last-one-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-5-the-last-one-neal-stephenson.md'
+        'stephenson-neal-quicksilver-5-seen-more-than-one-city-burn-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-5-seen-more-than-one-city-burn-alan-sinder.md'
+        'stephenson-neal-quicksilver-6-cartesian-number-line-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-6-cartesian-number-line-neal-stephenson.md'
+        'stephenson-neal-quicksilver-6-bits-of-slaughtered-animals-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-6-bits-of-slaughtered-animals-alan-sinder.md'
+        'stephenson-neal-quicksilver-7-ben-son-of-josaiah-gary-thompson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-7-ben-son-of-josaiah-gary-thompson.md'
+        'stephenson-neal-quicksilver-8-barker-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-8-barker-neal-stephenson.md'
+        'stephenson-neal-quicksilver-8-king-carlos-the-sufferer-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-8-king-carlos-the-sufferer-alan-sinder.md'
+        'stephenson-neal-quicksilver-9-a-loud-fellow-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-9-a-loud-fellow-alan-sinder.md'
+        'stephenson-neal-quicksilver-9-charing-cross-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-9-charing-cross-neal-stephenson.md'
+        'stephenson-neal-quicksilver-9-restoration-jeremy-bornstein.md': 'quicksilver/annotations/stephenson-neal-quicksilver-9-restoration-jeremy-bornstein.md'
+        'stephenson-neal-quicksilver-10-d-g-hispan-et-ind-rex-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-10-d-g-hispan-et-ind-rex-alan-sinder.md'
+        'stephenson-neal-quicksilver-11-hypothesis-of-vortices-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-11-hypothesis-of-vortices-neal-stephenson.md'
+        'stephenson-neal-quicksilver-11-gold-knows-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-11-gold-knows-alan-sinder.md'
+        'stephenson-neal-quicksilver-12-minerva-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-12-minerva-alan-sinder.md'
+        'stephenson-neal-quicksilver-13-some-irish-the-rest-angolan-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-13-some-irish-the-rest-angolan-alan-sinder.md'
+        'stephenson-neal-quicksilver-15-daniel-waterhouse-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-15-daniel-waterhouse-neal-stephenson.md'
+        'stephenson-neal-quicksilver-16-massachusetts-bay-colony-institute-of-technologickal-arts-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-16-massachusetts-bay-colony-institute-of-technologickal-arts-neal-stephenson.md'
+        'stephenson-neal-quicksilver-16-massachusetts-bay-colony-institute-of-technologickal-arts-patrick-tufts.md': 'quicksilver/annotations/stephenson-neal-quicksilver-16-massachusetts-bay-colony-institute-of-technologickal-arts-patrick-tufts.md'
+        'stephenson-neal-quicksilver-17-oh-dear-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-17-oh-dear-alan-sinder.md'
+        'stephenson-neal-quicksilver-18-a-specimen-of-white-phosphorus-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-18-a-specimen-of-white-phosphorus-alan-sinder.md'
+        'stephenson-neal-quicksilver-18-heard-by-their-future-queen-chris-swingley.md': 'quicksilver/annotations/stephenson-neal-quicksilver-18-heard-by-their-future-queen-chris-swingley.md'
+        'stephenson-neal-quicksilver-18-heard-by-their-future-queen-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-18-heard-by-their-future-queen-alan-sinder.md'
+        'stephenson-neal-quicksilver-18-behaving-as-if-queen-anne-were-already-dead-and-buried-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-18-behaving-as-if-queen-anne-were-already-dead-and-buried-alan-sinder.md'
+        'stephenson-neal-quicksilver-20-most-disorderly-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-20-most-disorderly-alan-sinder.md'
+        'stephenson-neal-quicksilver-20-ask-your-father-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-20-ask-your-father-alan-sinder.md'
+        'stephenson-neal-quicksilver-20-a-harder-question-jeremy-bornstein.md': 'quicksilver/annotations/stephenson-neal-quicksilver-20-a-harder-question-jeremy-bornstein.md'
+        'stephenson-neal-quicksilver-21-killed-a-great-deal-of-irishmen-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-21-killed-a-great-deal-of-irishmen-alan-sinder.md'
+        'stephenson-neal-quicksilver-21-granted-all-men-even-jews-the-right-to-worship-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-21-granted-all-men-even-jews-the-right-to-worship-alan-sinder.md'
+        'stephenson-neal-quicksilver-21-navigation-act-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-21-navigation-act-alan-sinder.md'
+        'stephenson-neal-quicksilver-21-mister-clarke-had-to-get-in-line-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-21-mister-clarke-had-to-get-in-line-alan-sinder.md'
+        'stephenson-neal-quicksilver-21-francis-bacon-galileo-descartes-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-21-francis-bacon-galileo-descartes-alan-sinder.md'
+        'stephenson-neal-quicksilver-21-john-comstock-and-thomas-more-anglesey-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-21-john-comstock-and-thomas-more-anglesey-neal-stephenson.md'
+        'stephenson-neal-quicksilver-22-monsieur-le-febure-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-22-monsieur-le-febure-neal-stephenson.md'
+        'stephenson-neal-quicksilver-22-t-was-all-rubbish-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-22-t-was-all-rubbish-alan-sinder.md'
+        'stephenson-neal-quicksilver-22-anointed-him-with-angelbalm-a-thousand-years-old-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-22-anointed-him-with-angelbalm-a-thousand-years-old-alan-sinder.md'
+        'stephenson-neal-quicksilver-22-john-wilkins-cryptonomicon-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-22-john-wilkins-cryptonomicon-neal-stephenson.md'
+        'stephenson-neal-quicksilver-22-wizard-s-robes-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-22-wizard-s-robes-alan-sinder.md'
+        'stephenson-neal-quicksilver-25-clarke-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-25-clarke-neal-stephenson.md'
+        'stephenson-neal-quicksilver-26-cha-or-chai-or-the-or-tay-sorenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-26-cha-or-chai-or-the-or-tay-sorenson.md'
+        'stephenson-neal-quicksilver-29-rub-his-prisoner-s-face-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-29-rub-his-prisoner-s-face-neal-stephenson.md'
+        'stephenson-neal-quicksilver-29-lace-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-29-lace-alan-sinder.md'
+        'stephenson-neal-quicksilver-31-the-muse-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-31-the-muse-alan-sinder.md'
+        'stephenson-neal-quicksilver-33-show-the-boy-euclid-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-33-show-the-boy-euclid-alan-sinder.md'
+        'stephenson-neal-quicksilver-35-sir-john-floyer-just-invented-it-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-35-sir-john-floyer-just-invented-it-alan-sinder.md'
+        'stephenson-neal-quicksilver-36-according-to-what-scheme-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-36-according-to-what-scheme-alan-sinder.md'
+        'stephenson-neal-quicksilver-36-it-is-the-product-of-five-primes-gary-thompson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-36-it-is-the-product-of-five-primes-gary-thompson.md'
+        'stephenson-neal-quicksilver-36-no-linear-indexing-system-edward-vielmetti.md': 'quicksilver/annotations/stephenson-neal-quicksilver-36-no-linear-indexing-system-edward-vielmetti.md'
+        'stephenson-neal-quicksilver-37-less-fraught-with-seasickness-pirates-scurvy-mass-drownings-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-37-less-fraught-with-seasickness-pirates-scurvy-mass-drownings-alan-sinder.md'
+        'stephenson-neal-quicksilver-40-the-priority-dispute-has-turned-vicious-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-40-the-priority-dispute-has-turned-vicious-alan-sinder.md'
+        'stephenson-neal-quicksilver-40-hercules-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-40-hercules-alan-sinder.md'
+        'stephenson-neal-quicksilver-43-fellow-armenian-jeremy-bornstein.md': 'quicksilver/annotations/stephenson-neal-quicksilver-43-fellow-armenian-jeremy-bornstein.md'
+        'stephenson-neal-quicksilver-48-demolishing-the-cathedral-jeremy-bornstein.md': 'quicksilver/annotations/stephenson-neal-quicksilver-48-demolishing-the-cathedral-jeremy-bornstein.md'
+        'stephenson-neal-quicksilver-46-campus-of-domed-pavilions-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-46-campus-of-domed-pavilions-alan-sinder.md'
+        'stephenson-neal-quicksilver-49-john-comstock-drawn-up-an-act-of-uniformity-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-49-john-comstock-drawn-up-an-act-of-uniformity-alan-sinder.md'
+        'stephenson-neal-quicksilver-60-isaac-was-pale-and-starlight-ghash.md': 'quicksilver/annotations/stephenson-neal-quicksilver-60-isaac-was-pale-and-starlight-ghash.md'
+        'stephenson-neal-quicksilver-61-a-certain-natural-wave-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-61-a-certain-natural-wave-alan-sinder.md'
+        'stephenson-neal-quicksilver-64-mrs-goose-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-64-mrs-goose-neal-stephenson.md'
+        'stephenson-neal-quicksilver-64-a-free-will-man-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-64-a-free-will-man-alan-sinder.md'
+        'stephenson-neal-quicksilver-67-godfrey-can-imagine-a-hero-father-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-67-godfrey-can-imagine-a-hero-father-alan-sinder.md'
+        'stephenson-neal-quicksilver-69-well-trimmed-ship-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-69-well-trimmed-ship-neal-stephenson.md'
+        'stephenson-neal-quicksilver-69-lascars-jeremy-bornstein.md': 'quicksilver/annotations/stephenson-neal-quicksilver-69-lascars-jeremy-bornstein.md'
+        'stephenson-neal-quicksilver-71-eyeball-experiments-brett-kuehner.md': 'quicksilver/annotations/stephenson-neal-quicksilver-71-eyeball-experiments-brett-kuehner.md'
+        'stephenson-neal-quicksilver-74-wheel-by-which-the-ship-is-steered-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-74-wheel-by-which-the-ship-is-steered-neal-stephenson.md'
+        'stephenson-neal-quicksilver-75-sundial-synchronization-bill-seitz.md': 'quicksilver/annotations/stephenson-neal-quicksilver-75-sundial-synchronization-bill-seitz.md'
+        'stephenson-neal-quicksilver-78-isaac-barrow-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-78-isaac-barrow-neal-stephenson.md'
+        'stephenson-neal-quicksilver-80-stourbridge-fair-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-80-stourbridge-fair-alan-sinder.md'
+        'stephenson-neal-quicksilver-83-translated-into-the-analytical-language-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-83-translated-into-the-analytical-language-alan-sinder.md'
+        'stephenson-neal-quicksilver-86-ashkenazi-jeremy-bornstein.md': 'quicksilver/annotations/stephenson-neal-quicksilver-86-ashkenazi-jeremy-bornstein.md'
+        'stephenson-neal-quicksilver-91-atlantic-is-striped-with-currents-chris-swingley.md': 'quicksilver/annotations/stephenson-neal-quicksilver-91-atlantic-is-striped-with-currents-chris-swingley.md'
+        'stephenson-neal-quicksilver-92-the-page-ends-abruptly-scott-elkin.md': 'quicksilver/annotations/stephenson-neal-quicksilver-92-the-page-ends-abruptly-scott-elkin.md'
+        'stephenson-neal-quicksilver-93-the-plague-year-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-93-the-plague-year-alan-sinder.md'
+        'stephenson-neal-quicksilver-94-found-god-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-94-found-god-neal-stephenson.md'
+        'stephenson-neal-quicksilver-96-you-and-i-are-but-earth-gary-thompson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-96-you-and-i-are-but-earth-gary-thompson.md'
+        'stephenson-neal-quicksilver-99-end-of-days-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-99-end-of-days-alan-sinder.md'
+        'stephenson-neal-quicksilver-105-rain-of-ticks-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-105-rain-of-ticks-alan-sinder.md'
+        'stephenson-neal-quicksilver-105-grown-from-the-corpses-of-rats.md': 'quicksilver/annotations/stephenson-neal-quicksilver-105-grown-from-the-corpses-of-rats.md'
+        'stephenson-neal-quicksilver-108-mayflower-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-108-mayflower-alan-sinder.md'
+        'stephenson-neal-quicksilver-110-walbrook-lotzmana.md': 'quicksilver/annotations/stephenson-neal-quicksilver-110-walbrook-lotzmana.md'
+        'stephenson-neal-quicksilver-112-at-epsom-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-112-at-epsom-neal-stephenson.md'
+        'stephenson-neal-quicksilver-114-hooke-approaches-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-114-hooke-approaches-neal-stephenson.md'
+        'stephenson-neal-quicksilver-124-word-arrived-that-fermat-had-died-t-whalen.md': 'quicksilver/annotations/stephenson-neal-quicksilver-124-word-arrived-that-fermat-had-died-t-whalen.md'
+        'stephenson-neal-quicksilver-124-punishments-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-124-punishments-neal-stephenson.md'
+        'stephenson-neal-quicksilver-128-fly-stuck-to-quill-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-128-fly-stuck-to-quill-neal-stephenson.md'
+        'stephenson-neal-quicksilver-139-systematic-alphabet-jonnay.md': 'quicksilver/annotations/stephenson-neal-quicksilver-139-systematic-alphabet-jonnay.md'
+        'stephenson-neal-quicksilver-142-symmetry-of-snowflakes-jeremy-bornstein.md': 'quicksilver/annotations/stephenson-neal-quicksilver-142-symmetry-of-snowflakes-jeremy-bornstein.md'
+        'stephenson-neal-quicksilver-146-the-western-horizon-armaced.md': 'quicksilver/annotations/stephenson-neal-quicksilver-146-the-western-horizon-armaced.md'
+        'stephenson-neal-quicksilver-150-newton-at-woolsthorpe-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-150-newton-at-woolsthorpe-neal-stephenson.md'
+        'stephenson-neal-quicksilver-150-newton-at-woolsthorpe-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-150-newton-at-woolsthorpe-alan-sinder.md'
+        'stephenson-neal-quicksilver-160-regents-firewall-simon.md': 'quicksilver/annotations/stephenson-neal-quicksilver-160-regents-firewall-simon.md'
+        'stephenson-neal-quicksilver-161-blunderbuss-professor-bikey-bike.md': 'quicksilver/annotations/stephenson-neal-quicksilver-161-blunderbuss-professor-bikey-bike.md'
+        'stephenson-neal-quicksilver-165-zeno-s-paradox-matt-zwolinski.md': 'quicksilver/annotations/stephenson-neal-quicksilver-165-zeno-s-paradox-matt-zwolinski.md'
+        'stephenson-neal-quicksilver-166-schooners-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-166-schooners-alan-sinder.md'
+        'stephenson-neal-quicksilver-166-schooners-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-166-schooners-neal-stephenson.md'
+        'stephenson-neal-quicksilver-166-strange-information-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-166-strange-information-neal-stephenson.md'
+        'stephenson-neal-quicksilver-166-flashes-of-light-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-166-flashes-of-light-alan-sinder.md'
+        'stephenson-neal-quicksilver-166-teach-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-166-teach-neal-stephenson.md'
+        'stephenson-neal-quicksilver-170-cabal-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-170-cabal-neal-stephenson.md'
+        'stephenson-neal-quicksilver-170-john-locke-was-writing-a-constitution-for-carolina-mike-lorrey-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-170-john-locke-was-writing-a-constitution-for-carolina-mike-lorrey-alan-sinder.md'
+        'stephenson-neal-quicksilver-173-coffee-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-173-coffee-alan-sinder.md'
+        'stephenson-neal-quicksilver-176-black-velvet-scott-elkin.md': 'quicksilver/annotations/stephenson-neal-quicksilver-176-black-velvet-scott-elkin.md'
+        'stephenson-neal-quicksilver-181-in-the-house-of-monsieur-le-febure-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-181-in-the-house-of-monsieur-le-febure-neal-stephenson.md'
+        'stephenson-neal-quicksilver-182-ned-ward-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-182-ned-ward-neal-stephenson.md'
+        'stephenson-neal-quicksilver-183-meeting-of-the-society-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-183-meeting-of-the-society-neal-stephenson.md'
+        'stephenson-neal-quicksilver-185-tarantella-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-185-tarantella-alan-sinder.md'
+        'stephenson-neal-quicksilver-187-samuel-pepys-joe-goldberg.md': 'quicksilver/annotations/stephenson-neal-quicksilver-187-samuel-pepys-joe-goldberg.md'
+        'stephenson-neal-quicksilver-195-comstock-house-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-195-comstock-house-neal-stephenson.md'
+        'stephenson-neal-quicksilver-197-knott-bolstrood-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-197-knott-bolstrood-neal-stephenson.md'
+        'stephenson-neal-quicksilver-197-knott-bolstrood-jeremy-bornstein.md': 'quicksilver/annotations/stephenson-neal-quicksilver-197-knott-bolstrood-jeremy-bornstein.md'
+        'stephenson-neal-quicksilver-215-the-dog-shit-in-the-boat-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-215-the-dog-shit-in-the-boat-neal-stephenson.md'
+        'stephenson-neal-quicksilver-222-the-sun-becomes-an-oval-john-b.md': 'quicksilver/annotations/stephenson-neal-quicksilver-222-the-sun-becomes-an-oval-john-b.md'
+        'stephenson-neal-quicksilver-233-chirurgeon-jeremy-bornstein.md': 'quicksilver/annotations/stephenson-neal-quicksilver-233-chirurgeon-jeremy-bornstein.md'
+        'stephenson-neal-quicksilver-236-once-more-into-the-breeches-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-236-once-more-into-the-breeches-neal-stephenson.md'
+        'stephenson-neal-quicksilver-246-apthorp-the-second-a-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-246-apthorp-the-second-a-neal-stephenson.md'
+        'stephenson-neal-quicksilver-253-what-is-to-come-eric-s-raymond.md': 'quicksilver/annotations/stephenson-neal-quicksilver-253-what-is-to-come-eric-s-raymond.md'
+        'stephenson-neal-quicksilver-257-jeova-sanctus-unus-professorbikeybike.md': 'quicksilver/annotations/stephenson-neal-quicksilver-257-jeova-sanctus-unus-professorbikeybike.md'
+        'stephenson-neal-quicksilver-270-john-wilkins-pronoiac.md': 'quicksilver/annotations/stephenson-neal-quicksilver-270-john-wilkins-pronoiac.md'
+        'stephenson-neal-quicksilver-271-daniel-saw-gears-cranks-shafts-trismegis2.md': 'quicksilver/annotations/stephenson-neal-quicksilver-271-daniel-saw-gears-cranks-shafts-trismegis2.md'
+        'stephenson-neal-quicksilver-278-truth-can-be-grasped-as-if-pictured-on-paper-gary-thompson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-278-truth-can-be-grasped-as-if-pictured-on-paper-gary-thompson.md'
+        'stephenson-neal-quicksilver-299-when-you-turn-the-crank-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-299-when-you-turn-the-crank-alan-sinder.md'
+        'stephenson-neal-quicksilver-305-the-bernoullis-jonnay.md': 'quicksilver/annotations/stephenson-neal-quicksilver-305-the-bernoullis-jonnay.md'
+        'stephenson-neal-quicksilver-308-richard-comstock.md': 'quicksilver/annotations/stephenson-neal-quicksilver-308-richard-comstock.md'
+        'stephenson-neal-quicksilver-316-the-first-few-terms-of-a-series-jere7my-tho-rpe.md': 'quicksilver/annotations/stephenson-neal-quicksilver-316-the-first-few-terms-of-a-series-jere7my-tho-rpe.md'
+        'stephenson-neal-quicksilver-318-the-monster-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-318-the-monster-alan-sinder.md'
+        'stephenson-neal-quicksilver-343-jack-ketch-the-shabby-sheik.md': 'quicksilver/annotations/stephenson-neal-quicksilver-343-jack-ketch-the-shabby-sheik.md'
+        'stephenson-neal-quicksilver-367-imp-of-the-perverse-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-367-imp-of-the-perverse-neal-stephenson.md'
+        'stephenson-neal-quicksilver-370-qwghlm-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-370-qwghlm-neal-stephenson.md'
+        'stephenson-neal-quicksilver-379-elaborate-lace-undergarments-michael-turyn.md': 'quicksilver/annotations/stephenson-neal-quicksilver-379-elaborate-lace-undergarments-michael-turyn.md'
+        'stephenson-neal-quicksilver-383-merry-madrigal-tunes-jeffrey-radcliffe.md': 'quicksilver/annotations/stephenson-neal-quicksilver-383-merry-madrigal-tunes-jeffrey-radcliffe.md'
+        'stephenson-neal-quicksilver-385-bartholomew-fair-user-69-68-134-7.md': 'quicksilver/annotations/stephenson-neal-quicksilver-385-bartholomew-fair-user-69-68-134-7.md'
+        'stephenson-neal-quicksilver-385-bartholomew-fair-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-385-bartholomew-fair-alan-sinder.md'
+        'stephenson-neal-quicksilver-391-haiduks-professorbikeybike.md': 'quicksilver/annotations/stephenson-neal-quicksilver-391-haiduks-professorbikeybike.md'
+        'stephenson-neal-quicksilver-391-watered-steel-blade-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-391-watered-steel-blade-neal-stephenson.md'
+        'stephenson-neal-quicksilver-397-j-ai-besoin-jeremy-bornstein.md': 'quicksilver/annotations/stephenson-neal-quicksilver-397-j-ai-besoin-jeremy-bornstein.md'
+        'stephenson-neal-quicksilver-398-frenchman-wears-those-sabots-professorbikeybike.md': 'quicksilver/annotations/stephenson-neal-quicksilver-398-frenchman-wears-those-sabots-professorbikeybike.md'
+        'stephenson-neal-quicksilver-400-winston-churchill-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-400-winston-churchill-neal-stephenson.md'
+        'stephenson-neal-quicksilver-422-fine-golden-beer-from-pilsen-david-c-weichert.md': 'quicksilver/annotations/stephenson-neal-quicksilver-422-fine-golden-beer-from-pilsen-david-c-weichert.md'
+        'stephenson-neal-quicksilver-424-chinese-fortune-teller-jeremy-bornstein.md': 'quicksilver/annotations/stephenson-neal-quicksilver-424-chinese-fortune-teller-jeremy-bornstein.md'
+        'stephenson-neal-quicksilver-427-fuggers-and-hacklhebers-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-427-fuggers-and-hacklhebers-neal-stephenson.md'
+        'stephenson-neal-quicksilver-427-potosi-in-peru-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-427-potosi-in-peru-neal-stephenson.md'
+        'stephenson-neal-quicksilver-442-arsch-leders-jeremy-bornstein.md': 'quicksilver/annotations/stephenson-neal-quicksilver-442-arsch-leders-jeremy-bornstein.md'
+        'stephenson-neal-quicksilver-444-sabotage-david-c-weichert.md': 'quicksilver/annotations/stephenson-neal-quicksilver-444-sabotage-david-c-weichert.md'
+        'stephenson-neal-quicksilver-449-wedges-and-sledgehammers-trick-professorbikeybike.md': 'quicksilver/annotations/stephenson-neal-quicksilver-449-wedges-and-sledgehammers-trick-professorbikeybike.md'
+        'stephenson-neal-quicksilver-450-walpurgisnacht-jeremy-bornstein.md': 'quicksilver/annotations/stephenson-neal-quicksilver-450-walpurgisnacht-jeremy-bornstein.md'
+        'stephenson-neal-quicksilver-460-that-bloke-in-the-myth-jeremy-bornstein.md': 'quicksilver/annotations/stephenson-neal-quicksilver-460-that-bloke-in-the-myth-jeremy-bornstein.md'
+        'stephenson-neal-quicksilver-463-l-emmerdeur-jeremy-bornstein.md': 'quicksilver/annotations/stephenson-neal-quicksilver-463-l-emmerdeur-jeremy-bornstein.md'
+        'stephenson-neal-quicksilver-475-half-a-mile-of-sophie-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-475-half-a-mile-of-sophie-alan-sinder.md'
+        'stephenson-neal-quicksilver-476-damplatz-neville-kuyt.md': 'quicksilver/annotations/stephenson-neal-quicksilver-476-damplatz-neville-kuyt.md'
+        'stephenson-neal-quicksilver-477-ijselmeer-neville-kuyt.md': 'quicksilver/annotations/stephenson-neal-quicksilver-477-ijselmeer-neville-kuyt.md'
+        'stephenson-neal-quicksilver-487-old-musketeer-hat-quillman.md': 'quicksilver/annotations/stephenson-neal-quicksilver-487-old-musketeer-hat-quillman.md'
+        'stephenson-neal-quicksilver-512-ambassadorial-standoff-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-512-ambassadorial-standoff-neal-stephenson.md'
+        'stephenson-neal-quicksilver-513-d-avaux-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-513-d-avaux-neal-stephenson.md'
+        'stephenson-neal-quicksilver-517-sluys-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-517-sluys-neal-stephenson.md'
+        'stephenson-neal-quicksilver-518-ultima-ratio-regum-jeremy-bornstein.md': 'quicksilver/annotations/stephenson-neal-quicksilver-518-ultima-ratio-regum-jeremy-bornstein.md'
+        'stephenson-neal-quicksilver-520-spij-sander-van-malssen.md': 'quicksilver/annotations/stephenson-neal-quicksilver-520-spij-sander-van-malssen.md'
+        'stephenson-neal-quicksilver-533-nerf-du-boeuf-jere7my-tho-rpe.md': 'quicksilver/annotations/stephenson-neal-quicksilver-533-nerf-du-boeuf-jere7my-tho-rpe.md'
+        'stephenson-neal-quicksilver-536-o-wha-at-the-hell-was-on-god-s-mind-jeremy-bornstein.md': 'quicksilver/annotations/stephenson-neal-quicksilver-536-o-wha-at-the-hell-was-on-god-s-mind-jeremy-bornstein.md'
+        'stephenson-neal-quicksilver-552-duc-d-arcachon-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-552-duc-d-arcachon-neal-stephenson.md'
+        'stephenson-neal-quicksilver-552-master-stroke-jeremy-bornstein.md': 'quicksilver/annotations/stephenson-neal-quicksilver-552-master-stroke-jeremy-bornstein.md'
+        'stephenson-neal-quicksilver-559-hotel-d-arcachon-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-559-hotel-d-arcachon-neal-stephenson.md'
+        'stephenson-neal-quicksilver-576-rotten-fish-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-576-rotten-fish-neal-stephenson.md'
+        'stephenson-neal-quicksilver-578-over-the-horizon-jeremy-bornstein.md': 'quicksilver/annotations/stephenson-neal-quicksilver-578-over-the-horizon-jeremy-bornstein.md'
+        'stephenson-neal-quicksilver-588-cancaniers-jeremy-bornstein.md': 'quicksilver/annotations/stephenson-neal-quicksilver-588-cancaniers-jeremy-bornstein.md'
+        'stephenson-neal-quicksilver-598-if-you-are-going-to-tap-me-on-the-shoulder-jeremy-bornstein.md': 'quicksilver/annotations/stephenson-neal-quicksilver-598-if-you-are-going-to-tap-me-on-the-shoulder-jeremy-bornstein.md'
+        'stephenson-neal-quicksilver-605-hava-nagila-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-605-hava-nagila-alan-sinder.md'
+        'stephenson-neal-quicksilver-613-the-previous-twelve-years-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-613-the-previous-twelve-years-neal-stephenson.md'
+        'stephenson-neal-quicksilver-614-knott-had-attempted-to-indict-nell-gwyn-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-614-knott-had-attempted-to-indict-nell-gwyn-neal-stephenson.md'
+        'stephenson-neal-quicksilver-621-brevis-demonstratio-erroris-craig-stuntz.md': 'quicksilver/annotations/stephenson-neal-quicksilver-621-brevis-demonstratio-erroris-craig-stuntz.md'
+        'stephenson-neal-quicksilver-622-drs-hammond-and-griffin-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-622-drs-hammond-and-griffin-neal-stephenson.md'
+        'stephenson-neal-quicksilver-622-sizar-quillman.md': 'quicksilver/annotations/stephenson-neal-quicksilver-622-sizar-quillman.md'
+        'stephenson-neal-quicksilver-631-feversham-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-631-feversham-neal-stephenson.md'
+        'stephenson-neal-quicksilver-638-comte-de-beziers-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-638-comte-de-beziers-neal-stephenson.md'
+        'stephenson-neal-quicksilver-641-wilkins-cypher-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-641-wilkins-cypher-neal-stephenson.md'
+        'stephenson-neal-quicksilver-645-vôtre-majesté-st-countzero.md': 'quicksilver/annotations/stephenson-neal-quicksilver-645-vôtre-majesté-st-countzero.md'
+        'stephenson-neal-quicksilver-646-oyonnax-and-ozoir-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-646-oyonnax-and-ozoir-neal-stephenson.md'
+        'stephenson-neal-quicksilver-647-boullaye-and-beber-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-647-boullaye-and-beber-neal-stephenson.md'
+        'stephenson-neal-quicksilver-652-edouard-de-gex-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-652-edouard-de-gex-neal-stephenson.md'
+        'stephenson-neal-quicksilver-654-a-frightful-purplish-swelling-al-ju.md': 'quicksilver/annotations/stephenson-neal-quicksilver-654-a-frightful-purplish-swelling-al-ju.md'
+        'stephenson-neal-quicksilver-654-a-certain-déshabille-st-countzero.md': 'quicksilver/annotations/stephenson-neal-quicksilver-654-a-certain-déshabille-st-countzero.md'
+        'stephenson-neal-quicksilver-660-what-of-newton-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-660-what-of-newton-neal-stephenson.md'
+        'stephenson-neal-quicksilver-660-elixir-vitae-and-usquebaugh-jere7my-tho-rpe.md': 'quicksilver/annotations/stephenson-neal-quicksilver-660-elixir-vitae-and-usquebaugh-jere7my-tho-rpe.md'
+        'stephenson-neal-quicksilver-662-de-motu-corporum-in-gyrum-craig-stuntz.md': 'quicksilver/annotations/stephenson-neal-quicksilver-662-de-motu-corporum-in-gyrum-craig-stuntz.md'
+        'stephenson-neal-quicksilver-673-i-have-met-the-duke-of-monmouth-jeremy-bornstein.md': 'quicksilver/annotations/stephenson-neal-quicksilver-673-i-have-met-the-duke-of-monmouth-jeremy-bornstein.md'
+        'stephenson-neal-quicksilver-674-libri-i-conicorum-apollonii-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-674-libri-i-conicorum-apollonii-neal-stephenson.md'
+        'stephenson-neal-quicksilver-677-wren-library-doug-miller.md': 'quicksilver/annotations/stephenson-neal-quicksilver-677-wren-library-doug-miller.md'
+        'stephenson-neal-quicksilver-688-theologians-sorcerers-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-688-theologians-sorcerers-neal-stephenson.md'
+        'stephenson-neal-quicksilver-688-hypotheses-non-fingo-steven-horst.md': 'quicksilver/annotations/stephenson-neal-quicksilver-688-hypotheses-non-fingo-steven-horst.md'
+        'stephenson-neal-quicksilver-697-dorset-june-1685-pronoiac.md': 'quicksilver/annotations/stephenson-neal-quicksilver-697-dorset-june-1685-pronoiac.md'
+        'stephenson-neal-quicksilver-704-king-s-own-black-torrent-guards-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-704-king-s-own-black-torrent-guards-neal-stephenson.md'
+        'stephenson-neal-quicksilver-705-made-a-slave-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-705-made-a-slave-neal-stephenson.md'
+        'stephenson-neal-quicksilver-707-huygens-s-house-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-707-huygens-s-house-neal-stephenson.md'
+        'stephenson-neal-quicksilver-724-the-book-is-consumed-by-the-flames-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-724-the-book-is-consumed-by-the-flames-neal-stephenson.md'
+        'stephenson-neal-quicksilver-735-fall-of-batavia-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-735-fall-of-batavia-neal-stephenson.md'
+        'stephenson-neal-quicksilver-740-polder-quillman.md': 'quicksilver/annotations/stephenson-neal-quicksilver-740-polder-quillman.md'
+        'stephenson-neal-quicksilver-744-letters-to-william-of-orange-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-744-letters-to-william-of-orange-neal-stephenson.md'
+        'stephenson-neal-quicksilver-747-a-swiss-mathematician-named-fatio-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-747-a-swiss-mathematician-named-fatio-neal-stephenson.md'
+        'stephenson-neal-quicksilver-772-sghr-jeremy-bornstein.md': 'quicksilver/annotations/stephenson-neal-quicksilver-772-sghr-jeremy-bornstein.md'
+        'stephenson-neal-quicksilver-804-in-fact-it-was-a-vector-olivier-gerard.md': 'quicksilver/annotations/stephenson-neal-quicksilver-804-in-fact-it-was-a-vector-olivier-gerard.md'
+        'stephenson-neal-quicksilver-811-bonaventure-rossignol-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-811-bonaventure-rossignol-neal-stephenson.md'
+        'stephenson-neal-quicksilver-826-crypto-embroidery-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-826-crypto-embroidery-neal-stephenson.md'
+        'stephenson-neal-quicksilver-829-eliza-s-journal-entries-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-829-eliza-s-journal-entries-neal-stephenson.md'
+        'stephenson-neal-quicksilver-839-ernst-von-pfung-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-839-ernst-von-pfung-neal-stephenson.md'
+        'stephenson-neal-quicksilver-839-the-saarland-dame.md': 'quicksilver/annotations/stephenson-neal-quicksilver-839-the-saarland-dame.md'
+        'stephenson-neal-quicksilver-847-belgian-river-boats-st-countzero.md': 'quicksilver/annotations/stephenson-neal-quicksilver-847-belgian-river-boats-st-countzero.md'
+        'stephenson-neal-quicksilver-850-eleanor-and-caroline-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-850-eleanor-and-caroline-neal-stephenson.md'
+        'stephenson-neal-quicksilver-855-banger-jeremy-bornstein.md': 'quicksilver/annotations/stephenson-neal-quicksilver-855-banger-jeremy-bornstein.md'
+        'stephenson-neal-quicksilver-855-king-of-england-in-waterfront-bar-fight-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-855-king-of-england-in-waterfront-bar-fight-neal-stephenson.md'
+        'stephenson-neal-quicksilver-857-blowout-fracture-henry-pollock.md': 'quicksilver/annotations/stephenson-neal-quicksilver-857-blowout-fracture-henry-pollock.md'
+        'stephenson-neal-quicksilver-860-castle-upnor-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-860-castle-upnor-neal-stephenson.md'
+        'stephenson-neal-quicksilver-864-glorious-revolution-moment-it-all-happened-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-864-glorious-revolution-moment-it-all-happened-neal-stephenson.md'
+        'stephenson-neal-quicksilver-883-bhang-quillman.md': 'quicksilver/annotations/stephenson-neal-quicksilver-883-bhang-quillman.md'
+        'stephenson-neal-quicksilver-886-cosh-quillman.md': 'quicksilver/annotations/stephenson-neal-quicksilver-886-cosh-quillman.md'
+        'stephenson-neal-quicksilver-916-time-time-quillman.md': 'quicksilver/annotations/stephenson-neal-quicksilver-916-time-time-quillman.md'
+        'stephenson-neal-quicksilver-921-cromwell-roger-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-921-cromwell-roger-alan-sinder.md'
+        'the-confusion-s-dramatis-personæ.md': 'stephenson-neal-the-confusion-dramatis-personæ.md'
+        'apocalypse.md': 'stephenson-neal-quicksilver-99-end-of-days-alan-sinder.md'
+        'ben-franklin.md': 'benjamin-franklin.md'
+        'gulliver-s-travels.md': 'lemuel-gulliver.md'
+        'elizabeth-i.md': 'elizabeth-i-of-england.md'
+        'immortality.md': 'stephenson-neal-quicksilver-20-ask-your-father-alan-sinder.md'
+        'daniel-waterhouse.md': 'stephenson-neal-quicksilver-daniel-waterhouse.md'
+        'george-i-of-great-britain.md': 'george-i-of-england'
+        'godfrey-waterhouse.md': 'stephenson-neal-quicksilver-godfrey-william-waterhouse.md'
+        'euclid.md': 'stephenson-neal-quicksilver-33-show-the-boy-euclid-alan-sinder.md'
+        'descartes.md': 'rene-descartes.md'
+        'george-i': 'george-i-of-england'
+        'waterhouse-family.md': 'stephenson-neal-quicksilver-waterhouse-family.md'
+        'stephenson-neal-quicksilver-oyonnax.md': 'stephenson-neal-quicksilver-646-oyonnax-and-ozoir-neal-stephenson.md'
+        'algiers.md': 'stephenson-neal-the-confusion-8-algiers-alan-sinder.md'
+        'qwghlm.md': 'stephenson-neal-quicksilver-qwghlm.md'
+        'energy.md': 'kinetic-energy.md'
+        'battle-of-the-boyne.md': 'battle-of-the-boyne.md'
+        'thomas-newcomen.md': 'stephenson-neal-the-system-of-the-world-3-newcomen-alan-sinder.md'
+        'william-laud.md': 'archbishop-laud.md'
+        'sir-christopher-wren.md': 'christopher-wren.md'
+        'newton-vs-leibniz.md': 'stephenson-neal-quicksilver-40-the-priority-dispute-has-turned-vicious-alan-sinder.md'
+        'flea.md': 'stephenson-neal-quicksilver-105-rain-of-ticks-alan-sinder.md'
+        'east-india-company.md': 'british-east-indies-company.md'
+        'john-comstock.md': 'stephenson-neal-quicksilver-john-comstock.md'
+        'the-great-simoleon-caper.md': 'stephenson-neal-the-great-simoleon-caper.md'
+        'baruch-spinoza.md': 'baruch-de-spinoza.md'
+        'spinoza.md': 'baruch-de-spinoza.md'
+        'eliza.md': 'stephenson-neal-quicksilver-eliza.md'
+        'bob-shaftoe.md': 'stephenson-neal-quicksilver-bob-shaftoe.md'
+        'coffee.md': 'stephenson-neal-quicksilver-173-coffee-alan-sinder.md'
+        'baroque-cycle.md': 'stephenson-neal-baroque-cycle.md'
+        'baroque-era.md': 'baroque.md'
+        'royal-society.md': 'royal-society-of-london-for-the-improvement-of-natural-knowledge.md'
+        'rat.md': 'stephenson-neal-quicksilver-105-grown-from-the-corpses-of-rats.md'
+        'epistola-de-tolerentia.md': 'a-letter-concerning-toleration.md'
+        'queen-elizabeth-i.md': 'elizabeth-i.md'
+        'charles-white.md': 'stephenson-neal-the-confusion-charles-white.md'
+        'knights-templar.md': 'lothar-von-hacklheber.md'
+        'free-will.md': 'stephenson-neal-quicksilver-64-a-free-will-man-alan-sinder.md'
+        'stephenson-neal-quicksilver-d-avaux.md': 'stephenson-neal-quicksilver-513-d-avaux-neal-stephenson.md'
+        'arithmetickal-engine.md': 'stephenson-neal-quicksilver-299-when-you-turn-the-crank-alan-sinder.md'
+        'jew.md': 'judaism.md'
+        'meters.md': 'meter.md'
+        'hudson-s-bay-company.md': 'hudson-bay-company.md'
+        'merrano.md': 'marrano.md'
+        'eliza-de-la-zeur.md': 'stephenson-neal-quicksilver-eliza.md'
+        'barker.md': 'stephenson-neal-quicksilver-barker.md'
+        'orbit.md': 'low-earth-orbit-leo.md'
+        'alchemy.md': 'stephenson-neal-quicksilver-22-t-was-all-rubbish-alan-sinder.md'
+        'time-travel.md': 'stephenson-neal-quicksilver-20-most-disorderly-alan-sinder.md'
+        'mercury-chemical-element.md': 'quicksilver-or-mercury.md'
+        'drake-waterhouse.md': 'stephenson-neal-quicksilver-drake-waterhouse.md'
+        'james-i.md': 'james-i-of-england.md'
+        'peter-the-great.md': 'tsar-peter-i.md'
+        'cádiz-spain.md': 'stephenson-neal-the-confusion-84-bonanza-neal-stephenson.md'
+        'jack-shaftoe.md': 'stephenson-neal-quicksilver-jack-shaftoe.md'
+        'stephenson-neal-quicksilver-time-travel.md': 'stephenson-neal-quicksilver-20-most-disorderly-alan-sinder.md'
+        'stephenson-neal-the-system-of-the-world-658-jack-has-learnt-the-art-of-making-red-phosphorus.md': 'stephenson-neal-quicksilver-18-a-specimen-of-white-phosphorus-alan-sinder.md'
+        'george-iii.md': 'george-iii-of-the-united-kingdom.md'
+        'james-ii.md': 'james-ii-of-england.md'
+        'roger-comstock.md': 'stephenson-neal-quicksilver-roger-comstock.md'
+        'captain-van-hoek.md': 'stephenson-neal-quicksilver-captain-van-hoek.md'
+        'esphahnians.md': 'the-esphahnians.md'
+        'japan.md': 'kamakura-bakufu.md'
+        'leibniz.md': 'gottfried-wilhelm-von-leibniz.md'
+        'the-priority-dispute.md': 'stephenson-neal-quicksilver-40-the-priority-dispute-has-turned-vicious-alan-sinder.md'
+        'philosopher-s-stone.md': 'stephenson-neal-the-system-of-the-world-685-is-known-as-the-philosopher-s-stone-or-other-terms.md'
+        'shaftoe-family.md': 'stephenson-neal-quicksilver-shaftoe-family.md'
+        'caduceus.md': 'stephenson-neal-quicksilver-faith-page-waterhouse.md'
+        'archbishop-laud.md': 'stephenson-neal-quicksilver-9-a-loud-fellow-alan-sinder.md'
+        'great-fire-of-london.md': 'stephenson-neal-quicksilver-160-regents-firewall-simon.md'
+        'hermes.md': 'hermes-myth.md'
+        'the-baroque-cycle.md': 'baroque-cycle.md'
+        'stephenson-neal-quicksilver-d-arcachon.md': 'stephenson-neal-quicksilver-552-duc-d-arcachon-neal-stephenson.md'
+        'thermometers.md': 'daniel-gabriel-fahrenheit.md'
+        'edmond-halley.md': 'edmund-halley.md'
+        'mercury.md': 'quicksilver-or-mercury.md'
+        'sophia-of-hanover.md': 'stephenson-neal-quicksilver-475-half-a-mile-of-sophie-alan-sinder.md: '
+        'black-plague.md': 'stephenson-neal-quicksilver-93-the-plague-year-alan-sinder.md'
+        'charles-ii.md': 'charles-ii-of-england.md'
+        'enoch-root.md': 'stephenson-neal-quicksilver-enoch-root.md'
+        'galileo.md': 'galileo-galilei.md'
+        'titanomachia.md': 'titanomachy.md'
+        'tess-charter.md': 'stephenson-neal-quicksilver-tess-charter.md'
+        'george-ii.md': 'king-george-ii-of-great-britain.md'
+        'cardinal-richelieu.md': 'richelieu.md'
+        'newton.md': 'isaac-newton.md'
+        'stephenson-neal-quicksilver-etienne-d-arcachon.md': 'stephenson-neal-quicksilver-552-duc-d-arcachon-neal-stephenson.md'
+        'leathergoods-historical.md': 'stephenson-neal-quicksilver-6-bits-of-slaughtered-animals-alan-sinder.md'
+
