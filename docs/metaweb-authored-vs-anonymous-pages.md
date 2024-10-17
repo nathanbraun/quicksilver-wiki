@@ -1,0 +1,22 @@
+
+# Metaweb:Authored vs anonymous pages
+
+(Redirected from [Metaweb: authored vs anonymous pages](/metaweb-authored-vs-anonymous-pages))
+
+This is a discussion of authored vs anonymous pages.
+
+One of the reasons we ([User:Nealstephenson](/user-nealstephenson), Danny Hillis, [User:Patrick Tufts](/user-patrick-tufts), [User:Tpierce](/user-tpierce), and others) started this site was to give a voice to particular authors and viewpoints. So we created a place for authored contributions as well as a place for community (that is, shared, neutral, effectively anonymous) contributions.
+
+But what about users who wish to be anonymous or untracked, but still want to create entries with strong points of view? Is there a good way to allow these users to contribute in a way that reflects that their pieces express an opinion, yet are not authored in the sense that there is an associated name? --[Pat](/user-patrick-tufts) 09:58, 17 Oct 2003 (PDT)
+
+Yes. What is required is a good way to deal with collective opinion, both stated up front as that of a group, and noted by others as having a persistent [tendency](/metaweb-tendency) to some belief or other. This deals neatly with [groupthink](/groupthink) by a bunch of people or "parties" not explicitly co-operating, and also with those who wish to remain anonymous, while still making it possible to track persistent [bias](/bias) introduced by a lot of such contributors co-operating (again "party" works nicely as a word). There are three distinctions possible:
+
+1. Between the policy and the discussion of the policy - many things are really dialogues and so should go in [Metaweb\_talk:](/metaweb-talk) files associated with each [Metaweb:](/metaweb) policy, or [Talk:](/talk) with each article. These are often just tire-kicking, points of view on problems, not a coherent statement of the issues, not an essay, and often anonymous even if the party normally goes by another name.
+
+2. Between an authored entry which expresses a view that [Metaweb:some body](/metaweb-some-body) is committed to, and a consensus or default view of perhaps [Metaweb:no body](/metaweb-no-body) in particular. We all have views that may be those of "no body", they may be [straw man](/metaweb-straw-man) or [best practices](/metaweb-best-practice) that we know of but have not personally tested, or they may be fictional characters we have invented - even if like [George Psalamanazar](/george-psalamanazar) we pretend "they are us"! So it should be a choice to make a stand on one's own part, or for a party or group, vs. simply stating something as seed or straw man communally.
+
+3. Between any [Metaweb:community](/metaweb-community) which implies agreement to co-operate, and the larger [Metaweb:contributor](/metaweb-contributor) base which may or may not be co-operating, but perhaps is competing, sabotaging, attacking, trolling, vandalizing, etc., and in their own way driving things forward. The use of "community" words is very prejudicial to outsiders and may encourage [groupthink](/groupthink) by the insiders - e.g. sysops may assume moral authority or credibility that they simply don't have.
+
+For these reasons, the draft policies laid out, which have been largely hammered out with long experience in other open wikis, were proposed, as straw men in themselves. In line with the need not to exclude even the saboteur or vandal as a form of "contributor", even if only reactively, we will avoid stating from this IP range whether we are friendly or hostile to the project as defined... assuming we are hostile may be wise, as we are explicitly stating we are the view of [no body](/metaweb-no-body).
+
+I would suggest that while unauthored pages might be left open to anonymous posters (and I am highly critical even of this given the ongoing problem of wikispam we've been dealing with), authored pages should be editable by the authors named in the title, ONLY. The problem of abandoned work is solved easily: enable new contributing individuals to copy wikicode to a new authored page that is authored by them, but to leave the original authored page alone, though I'm kinda critical of this idea too, in seeing individuals copying an authors whole work, changing or formatting a few things, then calling it their own. This could be solved by all derivative pages showing unremovable text that denotes which other authored pages they were derived from (with link to the original work, of course).[Mike Lorrey](/user-mlorrey) 18:40, 7 Jun 2005 (PDT)

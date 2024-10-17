@@ -1,0 +1,18 @@
+
+# Turkey
+
+From the Quicksilver Metaweb.
+
+The modern state of **Turkey** is the remnant of the [Ottoman Empire](/ottoman-empire) that collapsed in [1918](/1918). That empire usurped the [Islamic caliphate](/islamic-caliphate) and later reached its height around the time of the [Seige of Vienna](/seige-of-vienna). It lasted well over five centuries and combined religious and political authority over much of the [Muslim World](/muslim-world). Its influence was pervasive and extremely oppressive on independent thought and research of all kinds - a marked contrast to the lively [medieval Islamic civilization](/medieval-islamic-civilization) that it had more or less inherited. There was however some lively culture, all of it focused on courts and the Sultans.
+
+Through the [Baroque](/baroque) period, conflicts with the [Russian Empire](/russian-empire) and [Austro-Hungarian Empire](/austro-hungarian-empire), and [British Empire](/british-empire), which bordered it, were common. However, hostility to Austria more or less ended after the [Seign of Vienna](/seign-of-vienna) and there was much cultural exchange (including "Turkish" influence on fashion notable in some art works and operas). 
+
+[Germany](/germany), when it took its modern form in 1870, became a default ally, in part because of the continuing hostility with Britain and Russia that made the two more or less allies. When [World War I](/world-war-i) began, there were prayers for "Holy Gilliom" ([Wilhelm I](/wilhelm-i)) in the major mosque in [Damascus](/damascus), which was at that time an Ottoman province. 
+
+Some believe that Wilhelm more or less lured the Ottomans into the war with some absurd rhetoric about a [jihad](/jihad) - which was blasphemous considering that fellow Muslims who were allied with Russia or Britain would be first in line to be slaughtered. The Ottoman Empire was poorly led, and was defeated in that war, and dismantled after, to create the modern states of Turkey, [Iraq](/iraq), [Syria](/syria) (initially including [Lebanon](/lebanon)), [Palestine](/palestine) (now also [Israel](/israel)), [Jordan](/jordan), and [Saudi Arabia](/saudi-arabia). [Kuwait](/kuwait) had been independent for over a century, and [Egypt](/egypt) had been taken by the British from the French.
+
+Meanwhile in Turkey, in the 1920s, [Emil Ataturk](/emil-ataturk) literally ended Ottoman history with several major reforms designed to turn Turkey into a modern European-style secular state. These included changing the alphabet so that old texts could no longer be read within a generation, it included a constitution which gave the military a role to counter religious institutions and ensure the state would remain secular, it included a complete separation of religion and state modelled on [France](/france)'s. This need for a nationalist ethic however led to suppression of minorities such as the [Kurds](/kurd) and [Armenians](/armenian). The new regime was simply not democratic, more of a military dictatorship, and remained so until quite recent times.
+
+Until the 1990s, any expression of religious sentiment in Turkey as part of public life was uncommon. However, minorities and [Islamists](/islamist) became more united and vocal over time, and now tend to be in the vanguard of [human rights](/human-rights) movements in the country. This is quite the reverse of the situation in many other Muslim states where minorities and Islamists are quite backward looking and calling for a return to some older traditions they feel have been abandoned.
+
+Today, Turkey actively seeks to join the [European Union](/european-union), and prevent the formation of any independent state of [Kurdistan](/kurdistan) which might someday claim part of Turkey for itself.

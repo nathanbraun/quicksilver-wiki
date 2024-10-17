@@ -1,0 +1,10 @@
+
+# Stephenson:Neal:Quicksilver:370:Qwghlm (Neal Stephenson)
+
+From the Quicksilver Metaweb.
+
+Almost all readers are content to interpret [Qwghlm](/stephenson-neal-quicksilver-qwghlm) as a wholly fictitious and fanciful invention, which is correct. From time to time someone will get it into their head that it is a veiled description of some real place, and so let me just state here flat-out that it is not meant that way at all. It is made-up.
+
+It is a pair of islands situated off the northwestern coast of Britain (the "[Outer Qwghlm](/outer-qwghlm)" entry states that the location is closest to the Battle of the Atlantic, which should be the southwestern tip of Britain, however the generous use of consonants in Qwglmian does reflect Welsh influence, or vice versa). Inner Qwghlm is linked to the mainland by a sandspit near the town of Utter Maurby (which is an Anglicized rendering of the Qwghlmian name, Gttr Mnhrbgh). [Outer Qwghlm](/outer-qwghlm) lies twenty miles offshore and is difficult to reach because of the reefs that surround it, and because of the vicious currents---it lies in the middle of a persistent flow of Arctic water, analogous to the Gulf Stream, except that where the Gulf Stream is warm and brings anomalously balmy weather, the flow that bathes Outer Qwghlm is icy cold and gives the island a climate much chillier than one might expect from its latitude.
+
+The Qwghlmian language is unrelated to any of the other tongues spoken in Northwestern Europe. It employs several sounds that cannot really be pronounced by one who was not born and raised speaking the language. The word Qwghlm begins with a tongue-click and ends with a swallowing noise. English people who attempt to duplicate this frequently come out with something that sounds like TAG'em. Though this really does not sound anything like the correct pronunciation, Qwghlmians who hear it from the mouth of an Englishman will usually understand that their interlocutor is trying to say the name of their island, and more or less hide their disdain.
