@@ -27,10 +27,11 @@ Eventually it covered the second ([The Confusion](the-confusion)) and third
     Mainly Stephenson books —
     [Cryptonomicon](stephenson-neal-cryptonomicon.md), [The Diamond Age](diamond-age.md), [Snow Crash](stephenson-neal-snow-crash.md) — but also a few [other](wallace-david-infinite-jest.md) [ones](abbey-edward-the-monkey-wrench-gang.md).
 
-The wiki — initially called Metaweb and later the [Quicksilver
-Wiki](metaweb-site-renaming-patrick-tufts.md) — was active from 2003 to 2006,
-but is no longer online except at the Internet Archive, which is cumbersome to
-access.
+The wiki — initially called
+[Metaweb](metaweb-metaweb-introduction-neal-stephenson.md) and later the
+[Quicksilver Wiki](metaweb-site-renaming-patrick-tufts.md) — was active from
+2003 to 2006, but is no longer online except at the Internet Archive, which is
+cumbersome to access.
 
 ### Reboot
 
