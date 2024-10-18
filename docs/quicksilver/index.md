@@ -7,7 +7,9 @@ This is a page for **Quicksilver**, a novel by Neal Stephenson
 ### Stephensonia
 
 
-*This book introduces new characters few are ancestors of characters from [Cryptonomicon](/cryptonomicon)'s slightly parallel universe  who interact with [Leibniz](/leibniz) and [Newton](/newton) in the Seventeenth Century. It further explores the mystery of [Enoch Root](/enoch-root).*![C-QSmw.jpg](/images/C-QSmw.jpg)  
+*This book introduces new characters few are ancestors of characters from [Cryptonomicon](/cryptonomicon)'s slightly parallel universe  who interact with [Leibniz](/leibniz) and [Newton](/newton) in the Seventeenth Century. It further explores the mystery of [Enoch Root](/enoch-root).*
+
+![C-QSmw.jpg](/images/C-QSmw.jpg)  
 **UK Quicksilver Cover**
 
 ### Authored entries (not covered by the [Annotations page](/stephenson-neal-quicksilver-all-annotations-by-page-number))
@@ -21,7 +23,7 @@ This is a page for **Quicksilver**, a novel by Neal Stephenson
 * [Gedankenexperiment (Jeremy Bornstein)](/gedankenexperiment-jeremy-bornstein)
 * [Isaac Newton (Alan Sinder)](/isaac-newton-alan-sinder)
 * [Leibniz and the Christianization of China (Ken Levasseur)](/leibniz-and-the-christianization-of-china-ken-levasseur)
-* [Leibniz  and Black Humor (Alan Sinder)](/leibniz-and-black-humor-alan-sinder)
+* [Leibniz and Black Humor (Alan Sinder)](/leibniz-and-black-humor-alan-sinder)
 * [Battle of Sedgemoor (Cheryl Morgan)](/battle-of-sedgemoor-cheryl-morgan)
 * [Judge Jeffreys (Alan Sinder)](/judge-jeffreys-alan-sinder)
 * [Eliza and Abolition (Alan Sinder)](/eliza-and-abolition-alan-sinder) & [Barbary pirates](/barbary-pirates)
@@ -44,7 +46,10 @@ A book by [Neal Stephenson](/user-nealstephenson), Volume I in a series called [
 ### The Metaweb Looks Beyond Quicksilver
 
 
-From [Monty Python](/leibniz-and-black-humor-alan-sinder) to [the Vigenère Cipher](/the-vigenère-cipher), from [Tycho Brahe](/tycho-brahe) to [Richard Feynman](/richard-feynman), we are slowly building a knowledge base. [Annotations of books other than Quicksilver](/annotations-of-books-other-than-quicksilver) explores Homer, Robert Heinlein, Edward Abbey as well as [Cryptonomicon](/cryptonomicon), [Snow Crash](/stephenson-neal-snow-crash), and [The Diamond Age, or A Young Lady's Illustrated Primer](/stephenson-neal-the-diamond-age-or-a-young-lady-s-illustrated-primer).![C-QS-USmw.jpg](/images/C-QS-USmw.jpg)  
+From [Monty Python](/leibniz-and-black-humor-alan-sinder) to [the Vigenère Cipher](/the-vigenère-cipher), from [Tycho Brahe](/tycho-brahe) to [Richard Feynman](/richard-feynman), we are slowly building a knowledge base. [Annotations of books other than Quicksilver](/annotations-of-books-other-than-quicksilver) explores Homer, Robert Heinlein, Edward Abbey as well as [Cryptonomicon](/cryptonomicon), [Snow Crash](/stephenson-neal-snow-crash), and [The Diamond Age, or A Young Lady's Illustrated Primer](/stephenson-neal-the-diamond-age-or-a-young-lady-s-illustrated-primer).
+
+![C-QS-USmw.jpg](/images/C-QS-USmw.jpg)  
+
 **US Quicksilver Cover  
 Similar to the Deluxe Edition  
 Limited 1000 now available**

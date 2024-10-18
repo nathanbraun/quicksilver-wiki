@@ -5,8 +5,10 @@ theme:
   features:
     - navigation.instant
     - navigation.indexes
+markdown_extensions:
+  - footnotes
 nav: 
-  - Home: index.md
+  - About: index.md
   - Quicksilver:
     - quicksilver/index.md
     - Annotations:
