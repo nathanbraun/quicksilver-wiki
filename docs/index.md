@@ -1,8 +1,8 @@
 # Quicksilver Wiki
 
 This site is a mirror of the original Metaweb/Quicksilver Wiki, which is no
-longer online. While the Metaweb was originally a more ambitious project, this
-is essentially a site to help you follow along while reading the Baroque Cycle.
+longer online. It's meant to help you follow along while reading the Baroque
+Cycle.
 
 A good starting point would be the page (or annotations) for the book in the
 series you're reading:
