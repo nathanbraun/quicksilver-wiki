@@ -341,7 +341,7 @@ nav:
       - 848 - dust of Solomonic Gold : the-system-of-the-world/annotations/stephenson-neal-the-system-of-the-world-848-dust-of-solomonic-gold-daniel9223.md
       - 875 - Leibniz-Archiv : the-system-of-the-world/annotations/stephenson-neal-the-system-of-the-world-875-leibniz-archiv-paulj.md
       - 886 - The journey began with a wizard walking into his door : the-system-of-the-world/annotations/the-system-of-the-world/annotations/stephenson-neal-the-system-of-the-world-886-the-journey-began-with-a-wizard-walking-into-his-door-paulj.md
-    - Characters: stephenson-neal-the-system-of-the-world-dramatis-personæ/
+    - Characters: stephenson-neal-the-system-of-the-world-dramatis-personæ.md
 plugins:
   - search
   - redirects:
