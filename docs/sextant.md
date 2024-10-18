@@ -10,7 +10,7 @@ place holder for **sextant**
 
 From Wikipedia, the free encyclopedia. 
 
-![Sextant.gif](/https://web.archive.org/web/20060725234414im_/http://en.wikipedia.org/upload/0/07/Sextant.gif)
+![Sextant.gif](/images/Sextant.gif)
 A sextant is a measuring instrument used to measure the angle of elevation of a celestial object, traditionally the Sun above the horizon. Knowing the angle and time of day, traditionally mid-day for the sun, one can calculate the degree of latitude. See celestial navigation for more discussion. 
 
 Two different men independently invented the sextant around 1730: John Hadley (1682-1744), an English mathematician, and Thomas Godfrey (1704-1749), an American inventor. The sextant replaced the astrolabe as the main instrument for navigation.

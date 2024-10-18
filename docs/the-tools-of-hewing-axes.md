@@ -4,22 +4,6 @@
 From the Quicksilver Metaweb.
 
 
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 A discussion of tools](/)
-
-
-[1.1 The Felling Axe](/)
-[1.2 The Broad Axe](/)
-
-[1.2.1 The Three Curves of the Broadaxe](/)
-
- |
-
-
 # A discussion of tools
 
 
@@ -27,7 +11,7 @@ At it's most basic, this is a [Felling Axe](/http-treemanknives-com-tek9-asp-pg-
 ## The Felling Axe
 
 
-The Felling axe is fairly simple. It's the one axe that most people are familiar with. ![Felling_Axe.jpg](/https://web.archive.org/web/20060726001614im_/http://www.metaweb.com/wiki/upload/5/5c/Felling_Axe.jpg)
+The Felling axe is fairly simple. It's the one axe that most people are familiar with. ![Felling_Axe.jpg](/images/Felling_Axe.jpg)
   
  My preferred axe is different that most of those commonly available at the Local Hardware stores across much of the US of A, in that it is a Full Three pounds, and then some, and it's Bit -- that part which supports the Edge, is a good deal fuller than the "New", or, modern styles.
 
@@ -42,7 +26,7 @@ Many times the changes people note in their abilities are far less attributable 
 ## The Broad Axe
 
 
-Probably the most important tool to speak of next, and one which people have the least familiarity with, is the Broad Axe.![GooseWing_Axe.jpg](/https://web.archive.org/web/20060726001614im_/http://www.metaweb.com/wiki/upload/c/cd/GooseWing_Axe.jpg)
+Probably the most important tool to speak of next, and one which people have the least familiarity with, is the Broad Axe.![GooseWing_Axe.jpg](/images/GooseWing_Axe.jpg)
   
 The type of Broad Axe you use really depends on the style of Hewing you do, this can be the "Rough - Hewn" 
 look, which is fairly accurate in it's description; it's rough, and it's what everyone thinks of as "Hewn". It's a Dust catcher, and a clothing ripper, and it takes about as long to produce as you would think from looking at it.

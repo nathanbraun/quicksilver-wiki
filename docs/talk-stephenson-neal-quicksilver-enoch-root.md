@@ -171,7 +171,7 @@ Enoch Root dies, but doesn't. Hmm
 
 Two recent obit struck me as pertinent:
 
-![14837279.jpg](/https://web.archive.org/web/20060725222906im_/http://www.latimes.com/media/photo/2004-10/14837279.jpg)  
+![14837279.jpg](/images/14837279.jpg)  
 
 A Papuan leads an Australian infantryman to a  
 

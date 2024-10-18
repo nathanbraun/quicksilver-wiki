@@ -35,7 +35,7 @@ At the outset of the conflict, although the Royal Navy and most English cities f
 Parliament did, however, have more resources at its disposal, due to its possession of all major cities including the large arsenals at Hull and London. For his part, Charles hoped that quick victories would negate Parliament's advantage in material, which precipitated the first battle, the first siege of Hull in July 1642 which provided a decisive victory for Parliament. 
 
 A later battle at Edgehill was inconclusive, but regarded by the Royalists as a victory. One of the king's outstanding leaders was his nephew, Prince Rupert of the Palatinate, a dashing cavalry commander. Playing a minor part in the battle on the other side was a cavalry troop raised by a country gentleman, evangelical puritan, and former Member of Parliament named [Oliver Cromwell](/oliver-cromwell). Oliver Cromwell was later to devise the **New Model Army** system still evident in military organisation today. This was characterised by a unified command structure and professionalism, which would firmly swing military advantage towards Parliament. The second action of the war was the stand-off at Turnham Green which saw Charles forced to withdraw to Oxford. This was to be his base for the remainder of the war.
-![Roundhead.jpg](/https://web.archive.org/web/20060725172313im_/http://www.metaweb.com/wiki/upload/8/85/Roundhead.jpg)  
+![Roundhead.jpg](/images/Roundhead.jpg)  
 Armored Lord Protector Cromwell on Horse
 
 In 1643 the Royalist forces won at Adwalton Moor and gained control of most of Yorkshire. Subsequent victories in the west of England at Lansdowne and at Roundway Down also went to the Royalists. Prince Rupert then was able to take Bristol. In the same year, Oliver Cromwell formed his troop of **Ironsides**, a disciplined unit which demonstrated his military ability. With their assistance, he was victorious at the Battle of Gainsborough in July.
@@ -80,7 +80,7 @@ The victory made him very unpopular in Scotland and Ireland which, as nominally 
 
  
 Prior to the 1640s, there was no standing **Parliament** in England. The word 'parliament' designated one of a series of temporary committees, summoned occasionally at the pleasure of the King. Parliaments had no right to give orders to the King, and no means to enforce their wills. Their power was based primarily on the fact that the King, lacking a centralized bureaucratic government, greatly needed the willing and sympathetic cooperation of the English gentry in order to govern. Their power also had some basis in the prestige they held in the eyes of many Englishmen. By the early 17th century a King who mistreated his parliaments courted unpopularity.
-![Westminster_Parliament_Copyright_20030922_Kaihsu_Tai.jpg](/https://web.archive.org/web/20060725172313im_/http://en.wikipedia.org/upload/a/a3/Westminster_Parliament_Copyright_20030922_Kaihsu_Tai.jpg)  
+![Westminster_Parliament_Copyright_20030922_Kaihsu_Tai.jpg](/images/Westminster_Parliament_Copyright_20030922_Kaihsu_Tai.jpg)  
 The Houses of Parliament ( Palace of Westminster ) in 2003,  
 with The London Eye in the background.
 

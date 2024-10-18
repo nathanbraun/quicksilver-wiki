@@ -3,25 +3,6 @@
 
 From the Quicksilver Metaweb.
 
-
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 Stephensonia](/)
-
-
-[2 Community Entry: L Bob Rife](/)
-
-
-[3 Ted Turner](/)
-
-
-[4 L Ron Hubbard](/)
- |
-
-
 ## Stephensonia
 
 

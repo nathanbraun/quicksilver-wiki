@@ -4,24 +4,6 @@
 From the Quicksilver Metaweb.
 
 
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 Stephensonia](/)
-
-
-[2 Protocol Enforcement](/)
-
-
-[2.1 Related Entries:](/)
-
-
-[3 External Links](/)
- |
-
-
 ## Stephensonia
 
 

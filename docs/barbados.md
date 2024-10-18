@@ -23,7 +23,7 @@ soon
 
 
 The Arawaks were short, olive-skinned people who bound their foreheads during infancy to slope it into a point. They considered this along with black and white body painting to be attractive. The CaÏques chiefs and influential members of the tribe wore nose plugs and/or rings made of copper and gold alloys. They were an agricultural people and grew cotton, cassava, corn, peanuts, guavas, and papaws (papaya). The cotton was woven and used for armbands and hammocks. Cassava was ground and grated to be made into casareep, a seasoning used in cooking. The Arawaks also used harpoons, nets, and hooks, to fish for food.
- ![Barbados_coa.png](/https://web.archive.org/web/20060725171616im_/http://en.wikipedia.org/upload/8/8e/Barbados_coa.png)  
+ ![Barbados_coa.png](/images/Barbados_coa.png)  
 **The Barbados'  
 Coat of Arms**
 

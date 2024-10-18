@@ -25,7 +25,7 @@ a stub for **George Berkeley**
 ### [Wikipedia: George Berkeley](/)
 
 
-![BishBerk.jpg](/https://web.archive.org/web/20060725171719im_/http://en.wikipedia.org/upload/6/6a/BishBerk.jpg)  
+![BishBerk.jpg](/images/BishBerk.jpg)  
 **BISHOP  
 GEORGE BERKELEY**
 **George Berkeley** (Bark'-lee) (March 12, 1685 - January 14, 1753), also known as Bishop Berkeley, was an influential Irish philosopher whose primary philosophical achievement is the advancement of what has come to be called subjective idealism, summed up in his dictum, "To be is to be perceived." He wrote a number of works, the most widely-read of which are his Treatise Concerning the Principles of Human Knowledge (1710) and Three Dialogues between Hylas and Philonous (1713) (Philonous, the "lover of the mind", representing Berkeley himself). In 1734 he published The Analyst, a critique of the foundations of science, which was very influential in the subsequent development of mathematics.

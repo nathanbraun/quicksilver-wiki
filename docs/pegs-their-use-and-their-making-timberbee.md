@@ -3,39 +3,6 @@
 
 From the Quicksilver Metaweb.
 
-
-
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 A question of Pegs](/)
-
-
-[1.1 The Role of the Peg](/)
-
-[1.1.1 Draw Bore](/)
-
-[1.1.1.1 Misconceptions](/)
-[1.1.1.2 What it Does](/)
-[1.1.1.3 Objections to Draw Boring within the Timber Framing Community](/)
-
-
-[1.2 Why Johny Doesn't Draw Bore -- It's the Peg](/)
-
-[1.2.1 Riven Vs. Sawn](/)
-
-[1.2.1.1 The Sawn Peg](/)
-[1.2.1.2 The Riven Peg](/)
-
-[1.2.2 How this Answers the Question of Breakage](/)
-[1.2.3 Breakage, Draw Boring, and the Sawn Peg](/)
-
-[1.3 Conclusion](/)
- |
-
-
 # A question of Pegs
 
 

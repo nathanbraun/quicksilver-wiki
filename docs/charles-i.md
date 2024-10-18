@@ -25,7 +25,7 @@ From Wikipedia, the free encyclopedia.
 Charles I (November 19, 1600 - January 30, 1649) was King of Scotland, England, and Ireland (March 27, 1625 - January 30, 1649), and is most notable for being the only British monarch to be overthrown and beheaded. He was the son and successor of James VI and I. 
 
 
-![Chas1.JPG](/https://web.archive.org/web/20060725171614im_/http://en.wikipedia.org/upload/8/8f/Chas1.JPG)  
+![Chas1.JPG](/images/Chas1.JPG)  
 **Charles I**  
 King of England, Scotland, and Ireland
 

@@ -25,7 +25,7 @@ The ***[Quicksilver](/quicksilver)*** page for **[Galileo](/galileo-galilei)'s I
 grabbed from Wikipedia
 
 Christiaan Huygens (April 14, 1629 - July 8, 1695) was a Dutch mathematician and physicist; born in The Hague. Huygens is commonly associated with the Scientific Revolution. He was the son of Constantijn Huygens. 
-![Huygens.jpg](/https://web.archive.org/web/20060725171502im_/http://en.wikipedia.org/upload/3/36/Huygens.jpg)  
+![Huygens.jpg](/images/Huygens.jpg)  
 *Christiaan Huygens*
 
 Christiaan is generally given minor credit for his role in the development of modern calculus. He is also notable for his arguments that light consisted of waves; see: wave-particle duality. In 1655, he discovered Saturn's moon Titan. He also examined Saturn's planetary rings, and in 1656 he found out those rings consisted of rocks. In the same year he observed the Orion Nebula. Using his modern telescope he was able to divide the nebula into different stars. The brighter interior of the Orion Nebula is called the Huygens Region. He also discovered several interstellar nebulae and some double stars. 

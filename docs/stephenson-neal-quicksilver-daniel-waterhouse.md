@@ -49,7 +49,7 @@ This is a page for **Daniel Waterhouse**
 ### Community entry: Daniel Waterhouse
 
 
-**Daniel Waterhouse** is a fictitious character in *Quicksilver*. He is the son of [Drake](/stephenson-neal-quicksilver-drake-waterhouse) and the ancestor of [Cryptonomicon](/stephenson-neal-cryptonomicon)'s [Lawrence](/stephenson-neal-cryptonomicon-lawrence-waterhouse) and also of Lawrence's grandson [Randy](/stephenson-neal-cryptonomicon-randy-waterhouse). He is the *heir* of Lord Chester [John Wilkins](/john-wilkins)' desire for the advance of science.![Daniel%26LordChesterMW.jpg](/https://web.archive.org/web/20060725165550im_/http://www.metaweb.com/wiki/upload/7/77/Daniel%26LordChesterMW.jpg)  
+**Daniel Waterhouse** is a fictitious character in *Quicksilver*. He is the son of [Drake](/stephenson-neal-quicksilver-drake-waterhouse) and the ancestor of [Cryptonomicon](/stephenson-neal-cryptonomicon)'s [Lawrence](/stephenson-neal-cryptonomicon-lawrence-waterhouse) and also of Lawrence's grandson [Randy](/stephenson-neal-cryptonomicon-randy-waterhouse). He is the *heir* of Lord Chester [John Wilkins](/john-wilkins)' desire for the advance of science.![Daniel%26LordChesterMW.jpg](/images/Daniel%26LordChesterMW.jpg)  
 **Daniel Listens to Lord Chester  
 Oliver Reed really looks like Wilkins - eh?  
 Is this the Sorceror and his apprentice?**

@@ -13,7 +13,7 @@ a page for **Charles Babbage**
 ### Early Years
 
 
-Born in Teignmouth, Devonshire, he was an alumnus of Trinity College, Cambridge and of Peterhouse, Cambridge . He graduated from Cambridge in 1814 . In that same year, he married Georgiana Whitmore. They had eight children, but only three lived to adulthood. Mrs Babbage died in 1827.![Ch-Babbage.jpg](/https://web.archive.org/web/20060725172119im_/http://en.wikipedia.org/upload/0/09/Ch-Babbage.jpg)  
+Born in Teignmouth, Devonshire, he was an alumnus of Trinity College, Cambridge and of Peterhouse, Cambridge . He graduated from Cambridge in 1814 . In that same year, he married Georgiana Whitmore. They had eight children, but only three lived to adulthood. Mrs Babbage died in 1827.![Ch-Babbage.jpg](/images/Ch-Babbage.jpg)  
 **Charles Babbage**
 
 ### Design of Computers

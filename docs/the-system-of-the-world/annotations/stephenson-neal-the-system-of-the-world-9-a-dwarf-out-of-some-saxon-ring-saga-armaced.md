@@ -6,27 +6,6 @@ From the Quicksilver Metaweb.
 Daniel shares many traits with his descendant, [Randy Waterhouse](/randy-waterhouse). Surprisingly, among these is an affinity for classifying people based on Tolkienish mythology (nearly two centuries before the birth of Tolkien). Below are some pre-Tolkien examples of "some Saxon ring saga" that may have inspired such thoughts for Daniel.
 
 
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 Saxon Ring Sagas (Pre-Tolkien)](/)
-
-
-[2 Origin of the Mythical Dwarf](/)
-
-
-[3 Related Entries](/)
-
-
-[4 External Links](/)
-
-
-[5 Note](/)
- |
-
-
 ### Saxon Ring Sagas (Pre-Tolkien)
 
 

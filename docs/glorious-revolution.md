@@ -25,7 +25,7 @@ Paraphrased from JP Kenyon
 
 Those events of 1688-89 that resulted in the deposition of [James II of England](/james-ii-of-england) and the accession of [William III](/william-iii) and [Mary II](/mary-ii) to the English throne. It is also called the Bloodless Revolution. The restoration of [Charles II](/charles-ii) in 1660 was met with misgivings by many Englishmen who suspected the Stuarts of Roman Catholic and absolutist leanings. Charles II increased this distrust by not being responsive to Parliament, by his toleration of Catholic dissent, and by favoring alliances with Catholic powers in Europe.
 
-![Wm_mary.jpg](/https://web.archive.org/web/20060725172632im_/http://www.metaweb.com/wiki/upload/6/6d/Wm_mary.jpg)  
+![Wm_mary.jpg](/images/Wm_mary.jpg)  
 
 William and Mary
 

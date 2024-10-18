@@ -12,27 +12,6 @@ this isnt perhaps the right place to write about this, but i think i can help a 
 I could be mistaken, but this is a Wiki site. See [http://www.wiki.org](/http-www-wiki-org) for more information.
 
 
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 Not just any old wiki!](/) 
-
-
-[2 A surprising end to a chapter (Page 92)](/) 
-
-
-[3 The Eating Habits of Monsieur le Duc D'Arcachon](/)
-
-
-[4 Quicksilver as the source of an explanation of the world ?](/)
-
-
-[5 Quicksilver, mercury, and philosophikal mercury](/) 
- |
-
-
 ## Not just any old wiki!
 
 

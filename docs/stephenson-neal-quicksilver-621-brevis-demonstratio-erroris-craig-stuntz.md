@@ -1,8 +1,1 @@
-
-# Stephenson:Neal:Quicksilver:621:Brevis Demonstratio Erroris... (Craig Stuntz)
-
-From the Quicksilver Metaweb.
-
-***Brevis Demonstratio Erroris Memorabilis Cartesii et Aliorum Circa Legem Naturae*** ("Brief Demonstration of the Memorable Error of Descartes and Others About the Law of Nature") - [Leibniz's](/gottfried-wilhelm-von-leibniz) first public challenge to Cartesian mechanics.
-
-[Encyclopædia Britannica](/http-www-britannica-com-eb-article-tocid-9047669):  ... Leibniz' noted *Meditationes de Cognitione, Veritate et Ideis* (Reflections on Knowledge, Truth, and Ideas) appeared at this time and defined his theory of knowledge: things are not seen in God  as Nicolas Malebranche suggested  but rather there is an analogy, a strict relation, between God's ideas and man's, an identity between God's logic and man's. In February 1686, Leibniz wrote his *Discours de métaphysique* (Discourse on Metaphysics). In the March publication of *Acta*, he disclosed his dynamics in a piece entitled ***Brevis Demonstratio Erroris Memorabilis Cartesii et Aliorum Circa Legem Naturae*** (Brief Demonstration of the Memorable Error of Descartes and Others About the Law of Nature). A further development of Leibniz' views, revealed in a text written in 1686 but long unpublished, was his generalization concerning propositions that in every true affirmative proposition, whether necessary or contingent, the predicate is contained in the notion of the subject. It can be said that, at this time, with the exception of the word monad (which did not appear until 1695), his philosophy of monadology was defined. ...
+Redirected

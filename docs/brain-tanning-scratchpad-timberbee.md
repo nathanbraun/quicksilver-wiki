@@ -4,34 +4,6 @@
 From the Quicksilver Metaweb.
 
 
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 Obtaining The Hide](/)
-
-
-[2 Dryscraping](/)
-
-
-[2.1 Soaking the Hide](/)
-[2.2 Fleshing](/)
-
-[2.2.1 The Fleshing Beam](/)
-[2.2.2 The Scraper](/)
-[2.2.3 The Process](/)
-
-[2.3 The Rack](/)
-[2.4 Racking the Hide](/)
-[2.5 Scrapping](/)
-[2.6 Brains](/)
-[2.7 Smoking](/)
-[2.8 Related Articles](/)
-[2.9 External Links](/)
- |
-
-
 ## Obtaining The Hide
 
 

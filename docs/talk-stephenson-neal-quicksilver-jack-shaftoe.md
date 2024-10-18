@@ -91,13 +91,13 @@ Yeah, hope I didn't blow any of the story for you. Pg561 of the US hardbound edi
 
 
 
-![SamuraiShaftoe.jpg](/https://web.archive.org/web/20060725222507im_/http://www.metaweb.com/wiki/upload/6/66/SamuraiShaftoe.jpg)  
+![SamuraiShaftoe.jpg](/images/SamuraiShaftoe.jpg)  
 
 ## ***Samurai Jack* and the younger BoomstickeerJack below**
 
   
 
-![BoomstickeerJack.jpg](/https://web.archive.org/web/20060725222507im_/http://www.metaweb.com/wiki/upload/e/ec/BoomstickeerJack.jpg)  
+![BoomstickeerJack.jpg](/images/BoomstickeerJack.jpg)  
   
  - [Sparky](/user-stsparky) 01:20, 2004 Jul 18 (PDT)
 

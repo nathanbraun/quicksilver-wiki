@@ -17,5 +17,5 @@ Membranophones are instruments whose sound is produced by a vibrating membrane u
 * **[Where to get a kazoo!](/http-www-kazoos-com-best-htm)**
 
 
-![Zoboex-mw.jpg](/https://web.archive.org/web/20060725231852im_/http://www.metaweb.com/wiki/upload/c/cb/Zoboex-mw.jpg)  
+![Zoboex-mw.jpg](/images/Zoboex-mw.jpg)  
 **A Zobo**

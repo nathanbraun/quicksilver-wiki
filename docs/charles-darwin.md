@@ -13,12 +13,12 @@ This is an [Baroque Cycle](/baroque-cycle) page for **Charles Darwin**.
 * [Carl Linnaeus (Andrew\_Berry)](/carl-linnaeus-andrew-berry)
 
 
-![HMSBeagle.jpeg](/https://web.archive.org/web/20060725170959im_/http://upload.wikimedia.org/wikipedia/en/6/6e/HMSBeagle.jpeg)  
+![HMSBeagle.jpeg](/images/HMSBeagle.jpeg)  
 HMS Beagle
 ### [Wikipedia: Charles Darwin](/http-en-wikipedia-org-wiki-charles-darwin)
 
 
-**Charles Robert Darwin** (February 12, 1809 - April 19, 1882) was a revolutionary British geologist and naturalist who laid the foundation for both the modern theory of evolution and the principle of common descent with his proposal of natural selection as a mechanism. He published this proposal in 1859 in the book Origin of Species, which remains his most famous work. A worldwide sea voyage aboard the H.M.S. Beagle and observations on the Galapagos Islands in particular provided inspiration and much of the data on which he based his theory. ![Charles_Darwin_1854.jpg](/https://web.archive.org/web/20060725170959im_/http://en.wikipedia.org/upload/3/3e/Charles_Darwin_1854.jpg)  
+**Charles Robert Darwin** (February 12, 1809 - April 19, 1882) was a revolutionary British geologist and naturalist who laid the foundation for both the modern theory of evolution and the principle of common descent with his proposal of natural selection as a mechanism. He published this proposal in 1859 in the book Origin of Species, which remains his most famous work. A worldwide sea voyage aboard the H.M.S. Beagle and observations on the Galapagos Islands in particular provided inspiration and much of the data on which he based his theory. ![Charles_Darwin_1854.jpg](/images/Charles_Darwin_1854.jpg)  
 **Darwin after  
 sailing on the  
 HMS Beagle**
@@ -57,7 +57,7 @@ In 1842, Darwin formulated a short "Pencil Sketch" of his theory and by 1844 had
 Darwin published other treatises in science, including an explanation for the creation of coral atolls in the South Pacific, and the story of his voyage aboard the Beagle. 
 
 Darwin married his cousin Emma Wedgwood in 1839. After living for a number of years in London, the couple eventually moved to Down House, in Downe, Kent (which is now open to public visits, south of Orpington). Darwin and his wife had ten children, three of whom died early. Between 1839 and 1843, Darwin's Zoology of the Voyage of H.M.S. Beagle was published in five volumes. 
-![Evolution_drawing.png](/https://web.archive.org/web/20060725170959im_/http://internet-encyclopedia.org/upload/b/bd/Evolution_drawing.png)  
+![Evolution_drawing.png](/images/Evolution_drawing.png)  
 
 **Schematic drawing of the evolution process  
 
@@ -110,7 +110,7 @@ Today, whilst the overwhelming majority of biologists consider Darwin's basic th
 
 Contrary to popular opinion, Darwin did not "discover" evolution as it was accepted by many since the beginning of the 1800s. Instead, he and Wallace discovered the first really coherent mechanism that explains how evolution occurs (natural selection). 
 
-Other important aspects of Darwin's overall theory were: common descent, sexual selection, gradualism, and pangenesis. It is important to remember that Darwin's version of natural selection was different from that presented by Wallace in that he held that natural selection was continuously operating, whereas Wallace argued that selection only occurred when the environment changed.![Darwin_ape.jpg](/https://web.archive.org/web/20060725170959im_/http://upload.wikimedia.org/wikipedia/commons/9/9c/Darwin_ape.jpg)  
+Other important aspects of Darwin's overall theory were: common descent, sexual selection, gradualism, and pangenesis. It is important to remember that Darwin's version of natural selection was different from that presented by Wallace in that he held that natural selection was continuously operating, whereas Wallace argued that selection only occurred when the environment changed.![Darwin_ape.jpg](/images/Darwin_ape.jpg)  
 **Caricature of Darwin as an ape in the  
 *Hornet* magazine. (*Image in the PD*)**
 

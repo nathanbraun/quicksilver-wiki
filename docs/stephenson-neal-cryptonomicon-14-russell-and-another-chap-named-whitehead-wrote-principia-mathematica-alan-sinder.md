@@ -74,7 +74,7 @@ This is the [Cryptonomicon](/cryptonomicon) page for **Bertrand Russell**
 ### [Wikipedia: Bertrand Russell](/http-en-wikipedia-org-wiki-bertrand-russell)
 
 
-![Russell2.jpg](/https://web.archive.org/web/20060725224832im_/http://en.wikipedia.org/upload/0/0d/Russell2.jpg)  
+![Russell2.jpg](/images/Russell2.jpg)  
 **Bertrand Arthur William Russell  
 3rd Earl Russell  
 Author of *Principia Mathematica*  
@@ -140,7 +140,7 @@ Politically he envisioned a kind of benevolent democratic socialism. He was extr
 ### Russell's life
 
 
-![BertrandRussell1.jpg](/https://web.archive.org/web/20060725224832im_/http://en.wikipedia.org/upload/2/2d/BertrandRussell1.jpg)  
+![BertrandRussell1.jpg](/images/BertrandRussell1.jpg)  
  **A young Russell**
 
 Bertrand Russell was from an aristocratic English family. His paternal grandfather Lord John Russell had been a prime minister in the 1840s, and was himself the second son of the 6th Duke of Bedford, of a leading Whig/ Liberal family. His mother Viscountess Amberley (who died when he was 2) was herself from an aristocratic family, and was the sister of Rosalind, Countess of Carlisle. His parents were extremely radical for their times; his father Viscount Amberley (who died when Bertrand was 4) was an atheist who had consented to his wife's affair with their children's tutor. His godfather was Utilitarian philosopher John Stuart Mill. His early years were spent at Pembroke Lodge in Richmond Park.
@@ -153,7 +153,7 @@ Russell studied philosophy and logic at Cambridge University, starting in 1890. 
 
 In 1921, after Russell had lost his professorship, he divorced Alys and married Dora Russell nee Dora Black. Their children were John Conrad Russell (who briefly succeeded his father as 4th Earl Russell) and Lady Katherine Russell, now Lady Katherine Tait). Russell supported himself during this time by writing popular books explaining matters of physics, ethics and education to the layman. Together with Dora, he founded the experimental Beacon Hill school in 1927.
 
-Upon the death of his elder brother in 1931, Russell became 3rd Earl Russell. It is, however, quite rare for him to be referred to by this title.![BertrandRussell2.jpg](/https://web.archive.org/web/20060725224832im_/http://en.wikipedia.org/upload/4/42/BertrandRussell2.jpg)  
+Upon the death of his elder brother in 1931, Russell became 3rd Earl Russell. It is, however, quite rare for him to be referred to by this title.![BertrandRussell2.jpg](/images/BertrandRussell2.jpg)  
 **An old Russell**
 
 After Russell's marriage to Dora broke up over her adultery with an American journalist, in 1936 he took as his third wife, an Oxford undergraduate named Patricia ("Peter") Spence. She had been his children's governess in the summer of 1930. Russell and Peter had one son, Conrad.

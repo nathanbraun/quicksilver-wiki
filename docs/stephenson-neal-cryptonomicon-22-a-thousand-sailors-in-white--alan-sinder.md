@@ -30,7 +30,7 @@ The [Cryptonomicon](/cryptonomicon) page on the **Hindenburg disaster** that sho
 ### Hindenburg disaster
 
 
-On May 6, 1937, at 19:25 the German zeppelin Hindenburg caught fire and was utterly destroyed within a minute while attempting to dock with its mooring mast at Lakehurst Naval Air Station in New Jersey. Of the 97 people on board, 35 died (13 passengers, 22 crew-members and one ground crew member).![hind1.jpg](/https://web.archive.org/web/20060725223626im_/http://ntap.k12.ca.us/whs/projects/history/himages/hind1.jpg)  
+On May 6, 1937, at 19:25 the German zeppelin Hindenburg caught fire and was utterly destroyed within a minute while attempting to dock with its mooring mast at Lakehurst Naval Air Station in New Jersey. Of the 97 people on board, 35 died (13 passengers, 22 crew-members and one ground crew member).![hind1.jpg](/images/hind1.jpg)  
 **Infamous Hindenburg Zeppelin which on May 6, 1937 was  
 destroyed when its hydrogen gas-filled envelope caught fire**
 
@@ -62,7 +62,7 @@ Questions and controversy surround the accident to this day. There are two major
 
 At the time, sabotage was commonly put forward as the cause of the fire, in particular by Hugo Eckener, former head of the Zeppelin company and the "old man" of the German airships. The Zeppelin airships were widely seen as symbols of German and Nazi power. As such, they would have made tempting targets for opponents of the Nazis. However, no firm evidence supporting this theory was produced at the formal hearings on the matter.
 
-![Hindenburg.jpg](/https://web.archive.org/web/20060725223626im_/http://en.wikipedia.org/upload/a/ae/Hindenburg.jpg)  
+![Hindenburg.jpg](/images/Hindenburg.jpg)  
 **Smaller Public Domain  
 Image of the Disaster**
 

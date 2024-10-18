@@ -4,24 +4,6 @@
 (Redirected from [A Glossary of Terms For Traditional Timberframing (Timberbee)](/a-glossary-of-terms-for-traditional-timberframing-timberbee))
 
 
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 Joinery Terms](/)
-
-
-[2 Parts](/)
-
-
-[3 General Terms](/)
-
-
-[4 Tools](/)
- |
-
-
 ## Joinery Terms
 
 

@@ -24,7 +24,7 @@ This is an intermediate page for the city of **London**.
 
 
 
-![London-1604mw.jpg](/https://web.archive.org/web/20060725222031im_/http://www.metaweb.com/wiki/upload/2/22/London-1604mw.jpg)  
+![London-1604mw.jpg](/images/London-1604mw.jpg)  
 **Jacobean London circa 1604 CE**
 London is one of the world's great cities. It was arguably the most important city in the world during the [Baroque](/baroque) period, when English sea power was rising, and, the [Royal Society](/royal-society) was one of the most pre-eminent places to exchange knowledge in Europe.
 

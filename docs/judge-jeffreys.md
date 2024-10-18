@@ -25,7 +25,7 @@ This is an [intermediate page](/metaweb-intermediate-page) for
 
 Even before Sedgemoor, Jeffreys was feared. He even had [Isaac Newton](/isaac-newton) before his bench. A notoriously cruel judge, he presided over many of the trials connected with the Popish Plot and was responsible for the judicial murder of Sidney Algernon; And for the brutal trials of Richard Baxter and many others. He was created baron in 1685 and was soon sent to W England to punish those concerned in the rebellion of the duke of [Monmouth](/monmouth).
 
-![h88_cont_judgelee.jpg](/https://web.archive.org/web/20060725221125im_/http://www.visimag.com/shivers/images/h88_cont_judgelee.jpg)  
+![h88_cont_judgelee.jpg](/images/h88_cont_judgelee.jpg)  
 Christopher Lee  
 The Bloody Judge
 
@@ -36,7 +36,7 @@ The Bloody Judge
 While Newton[[1]](/http-en-wikipedia-org-wiki-isaac-newton-in-depth-biography-conflict-between-the-university-and-james-ii) was writing the second and third books of the *[Principia](/principia-mathematica)*, a very important event occurred at Cambridge which had the effect of bringing him before the public in a new light. [James II](/james-ii) had already, in 1686, in open violation of the law, conferred the deanery of Christ Church at Oxford on John Massey, a person whose sole qualification was that he was a member of the Church of Rome; and the king had boasted to the pope's legate that "what he had done at Oxford would very soon be done at Cambridge." In accordance with this boast, in February 1687 he issued a mandate directing that Father Alban Francis, a Benedictine monk, should be admitted a master of arts of the university of Cambridge, without taking the oaths of allegiance and supremacy. 
 
 Upon receiving the mandamus Doctor Pechell, the master of Magdalene College, who was vice-chancellor, sent a messenger to the duke of Albemarle, the chancellor, to request him to get the mandamus recalled; and the registrary and the bedell waited upon Francis to offer him instant admission to the degree if only he would take the necessary oaths. Both the king and the monk were inexorable. The court and the university were thus placed on a collision course. A menacing letter was despatched by Sunderland to shake the firmness of the universitybut, though humble and respectful explanations were returned, the university showed no sign of compliance, nor even of a desire to suggest a compromise. In consequence the vice-chancellor and deputies from the senate were summoned to appear before the High Commission Court at Westminster. Newton was one of the eight deputies appointed by the senate for this purpose.
-![judge_jeffreys_200x135.jpg](/https://web.archive.org/web/20060725221125im_/http://www.bbc.co.uk/wales/northeast/guides/halloffame/historical/images/judge_jeffreys_200x135.jpg)  
+![judge_jeffreys_200x135.jpg](/images/judge_jeffreys_200x135.jpg)  
 Jeffreys with a Judge's wig
 
 The deputies, before starting for London, held a meeting to prepare their case for the court. A compromise which was put forward by one of them was stoutly and successfully resisted by Isaac Newton. 

@@ -4,25 +4,6 @@
 From the Quicksilver Metaweb.
 
 
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 List of Characters in Neal Stephensons "The Diamond Age"](/)
-
-
-[1.1 Characters around Nell](/)
-[1.2 Characters around Hackworth](/)
-[1.3 Characters around Miranda](/)
-[1.4 Dovetailers](/)
-[1.5 Characters around Judge Fang](/)
-[1.6 Characters around Doctor X](/)
-[1.7 Other Neo-Victorians](/)
-[1.8 Personages of the Land Beyond](/)
- |
-
-
 ## List of Characters in Neal Stephensons "The Diamond Age"
 
 

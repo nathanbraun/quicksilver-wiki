@@ -21,36 +21,6 @@ For style issues regarding the typesetting of math, see [Wikipedia:WikiProject M
 Regarding color, notice that this page is a special page (its name begins with "Wikipedia:") and has therefore a yellow background. Normal Wikipedia pages are white, just like the formulas, so don't worry.
 
 
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 Special characters](/) 
-
-
-[2 Subscripts, superscripts](/) 
-
-
-[3 Fractions, matrices, multilines](/) 
-
-
-[4 Fonts](/) 
-
-
-[5 Parenthesizing big expressions](/) 
-
-
-[6 Spacing](/) 
-
-
-[7 See also:](/) 
-
-
-[8 External Links](/) 
- |
-
-
 ## Special characters
 
 

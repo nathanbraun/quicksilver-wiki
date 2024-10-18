@@ -62,7 +62,7 @@ Kris are trademark accessories of Javanese aristocrats. Several kris are conside
 
 Malabar is a region along the southwest coast of the Indian peninsula, which forms the northern part of present-day Kerala state. The region was a part of the Madras presidency until the Indian state of Kerala was formed in 1956, when this area and the erstwhile Thiru-Kochi (Travancore-Cochin) kingdom were united.
 
-![Bekalfortbeach.JPG](/https://web.archive.org/web/20060725165720im_/http://upload.wikimedia.org/wikipedia/en/c/cb/Bekalfortbeach.JPG)  
+![Bekalfortbeach.JPG](/images/Bekalfortbeach.JPG)  
 
 **Bekal Fort Beach**
 

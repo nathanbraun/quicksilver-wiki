@@ -7,34 +7,6 @@ This is a list of the **dramatis personæ** in *The Baroque Cycle* who have entr
 
 Characters who are based directly on actual historical persons of the same name are in **bold**. All other characters are purely fictional constructs or are based loosely on classes of people who existed at the time.
 
-
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 Natural Philosophers](/)
-
-
-[2 Aristocrats, Politicians, and Clerics](/)
-
-
-[3 Businessmen](/)
-
-
-[4 Soldiers, Sailors, Slaves, Vagabonds, and Assorted Wanderers](/)
-
-
-[5 Women of Note](/)
-
-
-[6 Very Minor Characters](/)
-
-
-[7 See also](/) 
- |
-
-
 ### Natural Philosophers
 
 

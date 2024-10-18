@@ -10,30 +10,6 @@ Some pages are specific to a particular work. All such pages should follow the c
 Furthermore, some entries are "authored" entries. This means that they represent the opinions of a specific person. These entries are indicated by the presence of the author's name, in parentheses, as the final component of the page title. No colon is used to separate this from the name of the topic.
 
 
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 Intermediate pages](/)
-
-
-[2 Page annotations](/)
-
-
-[3 People](/)
-
-
-[4 Places](/)
-
-
-[5 Dates](/)
-
-
-[6 Everything else](/)
- |
-
-
 ### Intermediate pages
 
 

@@ -10,7 +10,7 @@ For more information, go to this link: [http://www.hangman.info/hangman2.htm](/h
 ---
 
 
-Above Link seems broken. ![beefeater.jpg](/https://web.archive.org/web/20060725221122im_/http://www.discoverbritishislestravel.com/britain/beefeater.jpg)  
+Above Link seems broken. ![beefeater.jpg](/images/beefeater.jpg)  
 **A Beefeater**
 
 

@@ -12,7 +12,7 @@ The grille method, was developed by the French Cardinal [Richelieu](/richelieu) 
 
 A grille message can be created in two different ways: Write a message and then create a grille card just for that message, or create a master grille card and write message to fit within the predetermined hole punched locations.
 
-![Grille.jpg](/https://web.archive.org/web/20060725221930im_/http://www.metaweb.com/wiki/upload/b/be/Grille.jpg)
+![Grille.jpg](/images/Grille.jpg)
 
 In the example above the message was written out and the grille card was punched out as needed to create the secret message. Since the message was fairly long it was easy to get all the necessary characters to create the secret message "Is it not human to err." However, the encipherer now needs to create a second grille card for the recipient and must get both the grille card and the secret message to the recipient using separate means. Otherwise an interception could easily mean the message is successfuly deciphered. 
 

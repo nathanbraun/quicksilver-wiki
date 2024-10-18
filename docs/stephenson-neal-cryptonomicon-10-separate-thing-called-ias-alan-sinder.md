@@ -9,7 +9,7 @@ This is the [Cryptonomicon](/cryptonomicon) page for the **Institute for Advance
 
 
 *A modestly curious person should note both the InterLibrary Loan (ILL) and the IAS are both mentioned in [George Dyson](/http-www-amazon-com-exec-obidos-search-handle-url-index-books-field-author-dyson-george-b-104-8931055-5532701)'s **Darwin Among the Machines, the Evolution of Global Intelligence**. [Lawrence Waterhouse](/lawrence-waterhouse) ends up in Princeton for a year as a way to make him more **worldly**:
-![IAS-clocktowerMW.jpg](/https://web.archive.org/web/20060725224736im_/http://www.metaweb.com/wiki/upload/4/49/IAS-clocktowerMW.jpg)  
+![IAS-clocktowerMW.jpg](/images/IAS-clocktowerMW.jpg)  
 **All Around the Clocktower**  
 ** Now Princeton was an august school and going there was a great honor, but no one got around to mentioning either of these facts to Lawrence, who had no way of knowing. This had bad and good consequences. He accepted the scholarship with a faintness of gratitude that infuriated the oat lord. On the other hand, he adjusted to Princeton easily because it was just another place. It reminded him of the nicer bits of Virginia, and there were some nice pipe organs in town, though he was not all that happy with his engineering homework of bridge-designing and sprocket-cutting problems. As always, these eventually came down to math, most of which he could handle easily. From time to time he would get stuck, though, which led him to the Fine Hall: the headquarters of the Math Department.  
 

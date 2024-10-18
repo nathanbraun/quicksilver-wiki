@@ -8,7 +8,7 @@ Odalisque *(being the third book of Quicksilver)*
   
 
 
-![a34.jpg](/https://web.archive.org/web/20060725222130im_/http://alloilpaint.com/orientalist/a34.jpg)  
+![a34.jpg](/images/a34.jpg)  
 ***Le Grande Odalisque*  
 Jean-Auguste-Dominique Ingres 1814  
 Oil on canvas. Louvre, Paris, France**

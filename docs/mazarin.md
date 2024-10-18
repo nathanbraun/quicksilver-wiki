@@ -29,7 +29,7 @@ Controversy over the Cardinal's policies, and the weakness of the regency, resul
 
  
 Cardinal Mazarin's wealth and his niece's beauty, made for notable family connections, marital and extramarital:
-![Mazarin_family.png](/https://web.archive.org/web/20060725224011im_/http://en.wikipedia.org/upload/8/8f/Mazarin_family.png)  
+![Mazarin_family.png](/images/Mazarin_family.png)  
 The Mazarin Family Tree
 
 His niece Olympe Mancini, Countess of Soissons, was the mother of the famous Prince Eugene.
@@ -37,7 +37,7 @@ His niece Olympe Mancini, Countess of Soissons, was the mother of the famous Pri
 ### Eugene of Savoy
 
 
-**François-Eugène, Prince of Savoy-Carignan**, also *Franz Eugen* in German (October 16, 1663 - April 24, 1736). Born in Paris, and a prince of the House of Savoy, Eugene was the son of the Comte de Soissons, a French nobleman. It was rumoured that he was the illegitimate son of Louis XIV, however, and Louis strove mightily to keep down his supposed by-blow. Eugene was rebuffed from a commission in the French army and, frustrated, joined the Austrian army as an officer in 1683. He would spend the rest of his life opposing Louis XIV and French ambition in Europe. ![Eugene_of_savoy_statue_small.jpg](/https://web.archive.org/web/20060725224011im_/http://en.wikipedia.org/upload/c/cf/Eugene_of_savoy_statue_small.jpg)  
+**François-Eugène, Prince of Savoy-Carignan**, also *Franz Eugen* in German (October 16, 1663 - April 24, 1736). Born in Paris, and a prince of the House of Savoy, Eugene was the son of the Comte de Soissons, a French nobleman. It was rumoured that he was the illegitimate son of Louis XIV, however, and Louis strove mightily to keep down his supposed by-blow. Eugene was rebuffed from a commission in the French army and, frustrated, joined the Austrian army as an officer in 1683. He would spend the rest of his life opposing Louis XIV and French ambition in Europe. ![Eugene_of_savoy_statue_small.jpg](/images/Eugene_of_savoy_statue_small.jpg)  
 Eugene of Savoy  
 (part of a statue in front of the Hofburg in Vienna)
 

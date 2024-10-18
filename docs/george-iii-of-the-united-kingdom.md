@@ -9,7 +9,7 @@ From the Quicksilver Metaweb.
 
 From Wikipedia, the free encyclopedia. 
 
-George III (4 June 1738 - 29 January 1820), the third king of the House of Hanover, ruled the Kingdoms of Great Britain and Ireland (from 1801 a single kingdom known as the United Kingdom of Great Britain and Ireland) and was also the Duke and Elector (King from 1816) of Hanover from 25 October 1760 until his death on 29 January 1820. During his reign, however, his son, the Prince of Wales, later King George IV, ruled the country as regent briefly in 1787-1788 and again from 5 February 1811 to 29 January 1820, after the king was rendered mentally incapable by illness (now thought by many to have been porphyria).![George_iii_england.JPG](/https://web.archive.org/web/20060725171222im_/http://en.wikipedia.org/upload/3/37/George_iii_england.JPG)  
+George III (4 June 1738 - 29 January 1820), the third king of the House of Hanover, ruled the Kingdoms of Great Britain and Ireland (from 1801 a single kingdom known as the United Kingdom of Great Britain and Ireland) and was also the Duke and Elector (King from 1816) of Hanover from 25 October 1760 until his death on 29 January 1820. During his reign, however, his son, the Prince of Wales, later King George IV, ruled the country as regent briefly in 1787-1788 and again from 5 February 1811 to 29 January 1820, after the king was rendered mentally incapable by illness (now thought by many to have been porphyria).![George_iii_england.JPG](/images/George_iii_england.JPG)  
 **George III**  
 King of Great Britain, Ireland until 1800  
 King of the United Kingdom of Great Britain  

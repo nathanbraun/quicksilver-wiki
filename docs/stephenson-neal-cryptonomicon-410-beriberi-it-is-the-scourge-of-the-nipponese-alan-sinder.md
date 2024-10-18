@@ -7,7 +7,7 @@ This is [Cryptonomicon](/cryptonomicon) page page for **beriberi** that spans to
 ### Stephensonia
 
 
-![logo2.gif](/https://web.archive.org/web/20060725224753im_/http://www.electricinca.com/56/images/logo2.gif)  
+![logo2.gif](/images/logo2.gif)  
 **For good reason **Yamamoto** is a buzz word among the **[Secret Admirers](/http-www-electricinca-com-56)****
 *In WWII  some of the **enemy** were too smart for their own good ...
      ... Yamamoto's feet hurt like hell. Like everyone else within a thousand miles, he has a tropical disease; in his case, beriberi. It is the scourge of the Nipponese and especially of the Navy, because they eat too much polished rice, not enough fish and vegetables. His long nerves have been corroded by lactic acid, so his hands quiver. His failing heart can't shove fluid through his extremities, so his feet swell. He needs to change his shoes several times a day, but he doesn't have room here; he is encumbered not only by the curvature of the plane's greenhouse, but also by his sword.

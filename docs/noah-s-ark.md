@@ -23,7 +23,7 @@ From the Quicksilver Metaweb.
 
 [Noah](/noah) is considered a [Prophet](/noah-in-islam) in [Islam](/islam), and the male progenitor of all living human beings on Earth in fundamentalist [Judaism](/judaism) and [Christianity](/christianity).
 
-![Noahs_ark.jpg](/https://web.archive.org/web/20060725223455im_/http://www.metaweb.com/wiki/upload/6/60/Noahs_ark.jpg)  
+![Noahs_ark.jpg](/images/Noahs_ark.jpg)  
 How some imagine the ark on Mount Ararat
 
 Accordingly, he is quite important, and his ethic of [stewardship](/six-principles) is likely under-explored and under-appreciated as an influence on religious thought over the centuries.
@@ -44,7 +44,7 @@ Traditional pictures of the ark typically show something shaped like a boat, tho
 
 The directions given by God appear to be for an oblong three-storey structure, with a door in the side and a window in the roof. Though, just what the window was, is debated, as there is only one dimension given to the window. The Hebrew word for window, "tsohar", merely indicates a "light aperture", giving no indication of its size or shape. God gave him the direction to "complete it to the extent of a cubit upward". The use of the words "extent" and "upward" seem to indicate much work and raising rather than building the window, which suggest the possibility that the window may have extended around the whole of the roof, which would act as an exhaust and make fresh air more available to the family and animals aboard. Though no certainty on the subject can be determined. There is no mention of a cover or door for the window. 
 
-![cs-noahs_ark2.jpg](/https://web.archive.org/web/20060725223455im_/http://biblicalstudies.qldwide.net.au/cs-noahs_ark2.jpg)  
+![cs-noahs_ark2.jpg](/images/cs-noahs_ark2.jpg)  
 
 *Animals entering the Ark.*
 

@@ -5,7 +5,7 @@ From the Quicksilver Metaweb.
 
 In [mathematics](/mathematics), an **ellipse** is a figure resembling a circle which has been stretched in one direction. This is an example of a conic section and can be defined as the locus of all points, in a plane, which have the same sum of distances from two given fixed points (called **foci**, plural of **focus**). According to [Kepler's laws](/kepler-s-laws-of-planetary-motion), the orbit of a planet is an ellipse with the Sun at one of the foci.
 
-![Elpsfoci.png](/https://web.archive.org/web/20060725172347im_/http://en.wikipedia.org/upload/6/6b/Elpsfoci.png)
+![Elpsfoci.png](/images/Elpsfoci.png)
 
 If the two foci coincide, then the ellipse becomes a circle; such an ellipse is the roundest possible ellipse; and may arguably no longer be a "true" ellipse. The eccentricity of an ellipse is greater than zero]] and smaller than one. 
 
@@ -13,7 +13,7 @@ The line which passes through the foci is the **major axis** and also the longes
 
 The size and shape of an ellipse are determined by two constants, conventionally denoted *a* and *b*. The constant *a* equals the length of the semimajor axis; The constant *b* equals the length of the semiminor axis.
 
-![Elpsminr.png](/https://web.archive.org/web/20060725172347im_/http://en.wikipedia.org/upload/7/7a/Elpsminr.png)
+![Elpsminr.png](/images/Elpsminr.png)
 
 An ellipse centred at the origin of an *x*-*y* coordinate system with its major axis along the *x*-axis is defined by the equation
 
@@ -35,7 +35,7 @@ The distance between the foci is 2*ae*.
 
 The **semi-latus rectum** of an ellipse, usually denoted *l* (a lowercase L), is the distance from a focus of the ellipse to the ellipse itself, measured along a line perpendicular to the major axis. It is related to *a* and *b* by the formula *al* = *b*2.
 
-![Elps-slr.png](/https://web.archive.org/web/20060725172347im_/http://en.wikipedia.org/upload/8/8a/Elps-slr.png)
+![Elps-slr.png](/images/Elps-slr.png)
 
 In polar coordinates, an ellipse with one focus at the origin and the other on the negative *x*-axis is given by the equation
  *r*(1 + *e*cosθ) = *l*

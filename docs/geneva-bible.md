@@ -3,30 +3,6 @@
 
 From the Quicksilver Metaweb.
 
-
-
-
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 Stephensonia](/)
-
-
-[2 Authored entries](/)
-
-
-[3 Community entry: Geneva Bible](/)
-
-
-[4 Related entries](/)
-
-
-[5 External Links](/)
- |
-
-
 ### Stephensonia
 
 

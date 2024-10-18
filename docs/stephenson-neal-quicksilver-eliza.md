@@ -11,7 +11,7 @@ This is an evolving page for **Eliza**.
 ### Stephensonia
 
 
-*"Heel hickies" says it all. Seems [Kinakuta](/stephenson-neal-cryptonomicon-248-kinakuta-alan-sinder)'s highest mountain was **Eliza Peak** - time to re-read [Cryptonomicon](/cryptonomicon)!*![Harem2.jpg](/https://web.archive.org/web/20060725165643im_/http://www.metaweb.com/wiki/upload/c/cb/Harem2.jpg)  
+*"Heel hickies" says it all. Seems [Kinakuta](/stephenson-neal-cryptonomicon-248-kinakuta-alan-sinder)'s highest mountain was **Eliza Peak** - time to re-read [Cryptonomicon](/cryptonomicon)!*![Harem2.jpg](/images/Harem2.jpg)  
 ***Tamest Harem Image Googled*  
 *Ever***
 
@@ -41,7 +41,7 @@ This is an evolving page for **Eliza**.
 
 
 When she was five years old, Eliza and her (unnamed) mother were kidnapped from the "beaches" of [Qwghlm](/stephenson-neal-quicksilver-qwghlm) by a mysterious Personage, after which she was sold into slavery. Eliza's purpose in life is to revenge herself against this mysterious Personage and also to end the institution of slavery entirely. Much of [Quicksilver](/stephenson-neal-quicksilver)'s book two relates these adventures. She also ponders if she should offer *uptight* [Daniel Waterhouse](/daniel-waterhouse) the same treatment she gave Jack. And [Fatio](/nicolas-fatio-de-duillier) even informs her he has his own *calculus* maybe to excite the geek-friendly lass.  
-![Eliza-de-la-Zeur.jpg](/https://web.archive.org/web/20060725165643im_/http://www.metaweb.com/wiki/upload/5/51/Eliza-de-la-Zeur.jpg)  
+![Eliza-de-la-Zeur.jpg](/images/Eliza-de-la-Zeur.jpg)  
 **[The Return of the Musketeers](/http-us-imdb-com-title-tt0098194)' Kim Catrall**  
 **in a way captures my mental image of Eliza**
 

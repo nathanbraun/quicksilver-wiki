@@ -7,7 +7,7 @@ This is the [Cryptonomicon](/cryptonomicon) page for the **ABC - Atanasoff Berry
 ### Stephensonia
 
 
-*Like many, [Lawrence Waterhouse](/lawrence-waterhouse) misunderstands the super vision powers of [Superman](/http-en-wikipedia-org-wiki-superman)  specifically his X-Ray Vision. Objects as dense or denser than lead can impede this ability. Contrary to some beliefs, lead objects are not invisible to [Superman's X-Ray Vision](/http-en-wikipedia-org-wiki-superman-superman-27s-abilities); they simply appear opaque to him. Nor do his eyes actually emit X-rays.*![ABComputer.GIF](/https://web.archive.org/web/20060725224804im_/http://www.scl.ameslab.gov/Projects/ABC/gifs/ABComputer.GIF)  
+*Like many, [Lawrence Waterhouse](/lawrence-waterhouse) misunderstands the super vision powers of [Superman](/http-en-wikipedia-org-wiki-superman)  specifically his X-Ray Vision. Objects as dense or denser than lead can impede this ability. Contrary to some beliefs, lead objects are not invisible to [Superman's X-Ray Vision](/http-en-wikipedia-org-wiki-superman-superman-27s-abilities); they simply appear opaque to him. Nor do his eyes actually emit X-rays.*![ABComputer.GIF](/images/ABComputer.GIF)  
 **Atanasoff Berry Computer**  
 
      *** When not marching back and forth on the flood plain of the [Skunk River](/http-en-wikipedia-org-wiki-skunk-river) making loud dinging noises, Lawrence was majoring in mechanical engineering. He ended up doing poorly in this area because he had fallen in with a Bulgarian professor named [John Vincent Atanasoff](/http-en-wikipedia-org-wiki-john-vincent-atanasoff) and his graduate student, [Clifford Berry](/http-en-wikipedia-org-wiki-clifford-e-berry), who were building a machine that was intended to automate the solution of some especially tedious differential equations.***  
@@ -27,7 +27,7 @@ This is the [Cryptonomicon](/cryptonomicon) page for the **ABC - Atanasoff Berry
 
 
 
-**Atanasoff Berry Computer** is the name applied, long after the fact, to an experimental machine for solving systems of simultaneous linear equations, developed in 1938-42 at Iowa State University by **Dr. John Vincent Atanasoff** and **Clifford E. Berry**.![John_Atanasoff.gif](/https://web.archive.org/web/20060725224804im_/http://en.wikipedia.org/upload/7/72/John_Atanasoff.gif)  
+**Atanasoff Berry Computer** is the name applied, long after the fact, to an experimental machine for solving systems of simultaneous linear equations, developed in 1938-42 at Iowa State University by **Dr. John Vincent Atanasoff** and **Clifford E. Berry**.![John_Atanasoff.gif](/images/John_Atanasoff.gif)  
 **John Vincent Atanasoff**
 
 The Atanasoff-Berry Computer, constructed in the basement of the Physics building at Iowa State University, took over two years to complete. It was first demonstrated in November of 1939. The computer weighed more than seven hundred pounds (320 kg). It contained approximately 1 mile (1.6 km) of wire, 280 dual-triode vacuum tubes, 31 thyratrons, and was about the size of a desk.

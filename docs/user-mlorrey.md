@@ -4,24 +4,6 @@
 From the Quicksilver Metaweb.
 
 
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 Specs](/)
-
-
-[2 Known for](/)
-
-
-[3 Metaweb pages authored](/)
-
-
-[4 Other Published Articles Elsewhere](/)
- |
-
-
 ## Specs
 
 

@@ -166,7 +166,7 @@ A Marine Expeditionary Force (MEF), as deployed in Iraq in 2003, comprises a Mar
 ### [Wikipedia: Marine Raiders](/)
 
 
-The **Marine Raiders** were an elite unit established by the United States Marine Corps during World War II and disbanded by the end of the war. The Raiders were created by an order from President Franklin Delano Roosevelt , acting on advice from (later, Brigadier General) Evans F. Carlson . Carlson, an ex-Marine, had spent years observing the tactics and strategy of Communist Chinese irregulars ( Zhu De and the 8th Route Army in particular) as they fought the occupying Japanese, and had become enthralled with their version of guerilla warfare . Carlson rejoined the Marines in April 1941, gaining a commission from the Commandant as a reserve major.![Marine-raiders.jpg](/https://web.archive.org/web/20060725222538im_/http://en.wikipedia.org/upload/9/9a/Marine-raiders.jpg)  
+The **Marine Raiders** were an elite unit established by the United States Marine Corps during World War II and disbanded by the end of the war. The Raiders were created by an order from President Franklin Delano Roosevelt , acting on advice from (later, Brigadier General) Evans F. Carlson . Carlson, an ex-Marine, had spent years observing the tactics and strategy of Communist Chinese irregulars ( Zhu De and the 8th Route Army in particular) as they fought the occupying Japanese, and had become enthralled with their version of guerilla warfare . Carlson rejoined the Marines in April 1941, gaining a commission from the Commandant as a reserve major.![Marine-raiders.jpg](/images/Marine-raiders.jpg)  
 **Bougainville, Solomon Islands, January 1944  
 U.S. Marine Raiders gathered in front of a Imperial Japanese Army dugout on  
 Cape Totkina on Bougainville, Solomon Islands, which they helped to take** 
@@ -191,7 +191,7 @@ They arrived on December 1 and were assigned to protect the naval station at Olo
 ### [Last WWII Comanche 'code talker' dies](/)
 
 
-![Charles_Chibitty.jpg](/https://web.archive.org/web/20060725222538im_/http://upload.wikimedia.org/wikipedia/en/7/78/Charles_Chibitty.jpg)  
+![Charles_Chibitty.jpg](/images/Charles_Chibitty.jpg)  
 **Charles Chibitty**
 **[Charles Chibitty](/)**, the last surviving member of the group of 17 who served in World War II as the Comanche "code talkers" died in a Tulsa, Oklahoma nursing home July 20. He was 83.
 

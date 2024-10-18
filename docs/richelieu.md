@@ -22,7 +22,7 @@ From Wikipedia, the free encyclopedia.
 
 Armand-Jean du Plessis de Richelieu (September 9, 1585 - December 4, 1642) was a French Cardinal, Duke, and politician, usually known as Cardinal de Richelieu. He was a prominent theorist of nationalism. Richelieu served as Louis XIII's chief minister from 1624-'42. Richelieu was succeeded by Cardinal [Mazarin](/mazarin). 
 
-![Cardinal_Richelieu.jpg](/https://web.archive.org/web/20060725223639im_/http://en.wikipedia.org/upload/d/da/Cardinal_Richelieu.jpg)
+![Cardinal_Richelieu.jpg](/images/Cardinal_Richelieu.jpg)
   
 Cardinal Richelieu's portrait 
 To reduce the power of provincial dukes and princes, Richelieu ordered the destruction of such Vendean castles as Talmont, La Garnache, Les Essarts, and Chateau Apremont. As a result of this, and other actions such as the use of internal spies -- ( think police state), France became increasingly centralized.

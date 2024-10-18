@@ -28,7 +28,7 @@ The proof of the first proposition in the palimpsest is very beautiful, and appe
 **The first proposition in the palimpsest**
 
 The curve in this figure is a parabola.
-![Archie1small.png](/https://web.archive.org/web/20060725171100im_/http://en.wikipedia.org/upload/5/5b/Archie1small.png)
+![Archie1small.png](/images/Archie1small.png)
 
 The points *A* and *B* are on the curve. The line *AC* is *parallel to the axis* of the parabola. The line *BC* is **tangent** to the parabola. The first proposition states:
 

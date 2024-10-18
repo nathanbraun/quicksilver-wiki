@@ -8,7 +8,7 @@ This is just a nit I want to pick  **[corporate](/http-en-wikipedia-org-wiki-c
 * A **corporation** is a legal entity (distinct from a natural person) which often has similar rights in law to those of a person. Critics view this *"corporate personhood"* as a fundamental flaw in the nature of corporations. Civil law systems may refer to corporations as moral persons; they may also go by the name "SA" (society anonymous) or something similar, depending on language.
 
 
-* **Imperialism** is the acquisition and maintenance of empires, and also the political theory of such behavior. The term is used by some to describe the policy of a country in maintaining colonies and dominance over distant lands, regardless of whether the country calls itself an empire.- [Sparky](/user-stsparky) 19:23, 2004 Mar 25 (PST)![100px-Uk_flag_1606.png](/https://web.archive.org/web/20060726003016im_/http://en.wikipedia.org/upload/thumb/a/a8/100px-Uk_flag_1606.png)  
+* **Imperialism** is the acquisition and maintenance of empires, and also the political theory of such behavior. The term is used by some to describe the policy of a country in maintaining colonies and dominance over distant lands, regardless of whether the country calls itself an empire.- [Sparky](/user-stsparky) 19:23, 2004 Mar 25 (PST)![100px-Uk_flag_1606.png](/images/100px-Uk_flag_1606.png)  
 **British Kindness**
 
 
@@ -33,7 +33,7 @@ If you chose to AUTHOR a page - yes. A polite person would ammend their entries 
 
 
 It's merely that the [MetaWeb](/main-page) is not an [InterNet Encyclopedia](/http-recyclopedia-info-wiki-wiki-phtml-title-main-page) per se that we need to use the other Wiki GDL sources that are. It's a different information resource. The links are there for others to make up their own minds - so having both the WikiInfo and Recyclopedia as well as Wikipedia as resources are good. We've all access to the 1911 encyclopedia and even other more bizarre and exotic sources. Bearing in mind that [British Raj](/http-en-wikipedia-org-wiki-british-raj) and the earlier [British East Indies Charter](/http-en-wikipedia-org-wiki-british-east-india-company) were tools of *said* [Imperialism](/http-en-wikipedia-org-wiki-imperialism) starting with [Elizabeth I](/elizabeth-i) before they were any other influence. Even now [Commonwealth](/http-en-wikipedia-org-wiki-commonwealth-of-nations) nations are under the thumb of the [UK](/http-en-wikipedia-org-wiki-british-empire). It harkens back to the [Navigation Act](/http-en-wikipedia-org-wiki-navigation-acts).
-![Gb_heic.png](/https://web.archive.org/web/20060726003016im_/http://upload.wikimedia.org/wikipedia/en/8/82/Gb_heic.png)  
+![Gb_heic.png](/images/Gb_heic.png)  
 **British East Indies Company Flag**  
 ***Even More British Kindness***
 

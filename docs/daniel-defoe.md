@@ -19,7 +19,7 @@ This is a page for **Daniel Defoe**
 ### [Daniel Defoe](/http-en-wikipedia-org-wiki-daniel-defoe)
 
 
-Mostly from Wikipedia, the free encyclopedia.![Defoe-pillory.jpg](/https://web.archive.org/web/20060725172412im_/http://www.metaweb.com/wiki/upload/1/13/Defoe-pillory.jpg)
+Mostly from Wikipedia, the free encyclopedia.![Defoe-pillory.jpg](/images/Defoe-pillory.jpg)
   
 **Daniel Defoe**  
 **pilloried for dissent while a crowd of sympathizers  
@@ -57,7 +57,7 @@ Defoe wrote an account of the [Great Plague](/black-plague) of 1665: *[A Journal
 
 He also wrote ***Moll Flanders*** (1722), a picaresque first-person narration of the fall and eventual redemption of a lone woman in 17th century England. She appears as a whore, bigamist and thief, commits adultery and incest, yet manages to keep the reader's sympathy. Both this work and *Roxana, The Fortunate Mistress* (1724) offer remarkable examples of the way in which Defoe seems to inhabit his fictional (yet "drawn from life") characters, not least in that they are women. 
 
-Daniel Defoe died on April 21, 1731 and was interred in Bunhill Fields, London, England. Some experts think Defoe was the Captain Charles Johnson who wrote "A General History of the Robberies and Murders of the Most Notorious Pyrates" If Johnson did exist, nothing is known of him apart from the fact that he is supposedly the author of this work and possibly the writer of a play about a pirate, called Avery. Some historians, though not all, attribute the work to Daniel Defoe on the basis of style and circumstantial evidence.![DefoeMW.jpg](/https://web.archive.org/web/20060725172412im_/http://www.metaweb.com/wiki/upload/8/8c/DefoeMW.jpg)  
+Daniel Defoe died on April 21, 1731 and was interred in Bunhill Fields, London, England. Some experts think Defoe was the Captain Charles Johnson who wrote "A General History of the Robberies and Murders of the Most Notorious Pyrates" If Johnson did exist, nothing is known of him apart from the fact that he is supposedly the author of this work and possibly the writer of a play about a pirate, called Avery. Some historians, though not all, attribute the work to Daniel Defoe on the basis of style and circumstantial evidence.![DefoeMW.jpg](/images/DefoeMW.jpg)  
 **Daniel Defoe**
 
 ### Quotations

@@ -24,7 +24,7 @@ King George II (November 10, 1683 - October 25, 1760 - reigned June 11, 1727 - O
 
 George Augustus was the son of George Louis, heir-apparent to the electorate of Hanover. He was born at Schloss Herrenhausen, Hanover, and was christened George Augustus. He arrived in Britain as Prince of Wales in 1714, when his father acceded to the throne on the death of Queen Anne, as George I of Great Britain. The prince was by this time a man of thirty, and had been married for several years to [Caroline of Ansbach](/caroline-of-ansbach) with whom he had three sons and five daughters.: 
 
-![George_ii_england.JPG](/https://web.archive.org/web/20060725221541im_/http://en.wikipedia.org/upload/9/93/George_ii_england.JPG)  
+![George_ii_england.JPG](/images/George_ii_england.JPG)  
 **George II**  
 King of Great Britain, Ireland  
 Elector of Hanover

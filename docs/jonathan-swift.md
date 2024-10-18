@@ -22,7 +22,7 @@ From the Quicksilver Metaweb.
 from Wikipedia the free encyclopedia.  
 
 (November 30, 1667 - October 19, 1745), Irish writer and satirist.
-![Jonathan_swift.JPG](/https://web.archive.org/web/20060725223339im_/http://en.wikipedia.org/upload/e/eb/Jonathan_swift.JPG)
+![Jonathan_swift.JPG](/images/Jonathan_swift.JPG)
 
 Jonathan Swift was born on November 30, 1667 (after his father's death) by English parents, and educated by his Uncle Godwin. After a not very successful career at Trinity College, Dublin, he went to stay with his mother, Abigail Erick, at Leicester. 
 

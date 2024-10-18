@@ -7,7 +7,7 @@ A [Snow Crash](/stephenson-neal-snow-crash) page for **Raven**
 ### Stephensonia
 
 
-![iceland1.jpg](/https://web.archive.org/web/20060725222444im_/http://www.roadrunnerrecords.nl/shared/pictures/TypeONegative/iceland1.jpg)  
+![iceland1.jpg](/images/iceland1.jpg)  
 **A Possible Raven  
 Peter Steele, singer  
 Type O Negative**

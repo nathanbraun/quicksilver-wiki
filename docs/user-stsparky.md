@@ -6,7 +6,7 @@ From the Quicksilver Metaweb.
 I hope I'm not all alone - [Sparky](/user-stsparky) 02:46, 2004 Apr 11 (PDT)  
 
 
-![UpliftwhelanbrinMW.jpg](/https://web.archive.org/web/20060725171213im_/http://www.metaweb.com/wiki/upload/1/1b/UpliftwhelanbrinMW.jpg)  
+![UpliftwhelanbrinMW.jpg](/images/UpliftwhelanbrinMW.jpg)  
 Michael Whelan's cover to THE UPLIFT WAR by that Brin guy.  
 
 
@@ -26,7 +26,7 @@ Who was the Royal Society member who'd lend Enoch a fine steed (ala Shadowfax)? 
 
 An interesting question, as said RS member would not be a member of the Harvard faculty. I would venture instead that, as Enoch came from NYC, that it is a dutchman or other continental, perhaps a beneficiary of Sophie, et al. or an RS finance type, setting up Wall Street. Getting a horse is not a matter that one must go to a Royal Governor for. Recall that Root is seeking out Daniel at the behest of the Charlotte/Sophie bunch to mediate the Newton/Leibniz dispute. Young Hackleheber may have merely sent Enoch a bill of exchange for a horse that he could cash in with the other dutchmen on Wall Street - [Uncle Mike](/user-mlorrey)
 
-![QS_000.jpg](/https://web.archive.org/web/20060725171213im_/http://www.metaweb.com/wiki/upload/8/8c/QS_000.jpg)  
+![QS_000.jpg](/images/QS_000.jpg)  
 My QS Hardcover:  
 Orange Post-its are  
 the marginalia for the  

@@ -28,4 +28,4 @@ Links
 
 Image  
 
-![Sprat.JPG](/https://web.archive.org/web/20060725234536im_/http://www.princeton.edu/~his291/Jpegs/Sprat.JPG)  
+![Sprat.JPG](/images/Sprat.JPG)  

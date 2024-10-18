@@ -4,24 +4,6 @@
 From the Quicksilver Metaweb.
 
 
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 Hamlet](/)
-
-
-[2 Henry V](/)
-
-
-[3 Tosca](/)
-
-
-[4 1984](/)
- |
-
-
 ## Hamlet
 
 

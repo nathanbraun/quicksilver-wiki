@@ -22,7 +22,7 @@ This is an [intermediate page](/metaweb-intermediate-page) for
 this entry edited from the Wikipedia entry of King James Version of the Bible
 
 
-![Kjv.png](/https://web.archive.org/web/20060726000826im_/http://en.wikipedia.org/upload/8/86/Kjv.png)
+![Kjv.png](/images/Kjv.png)
   
 Frontispiece by Rob't Barker  
 

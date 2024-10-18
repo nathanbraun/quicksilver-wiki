@@ -89,7 +89,7 @@ same time that $50k is a months salary to the average bloke...[Mike Lorrey](/use
 ### Americas Space Prize
 
 
-![aviation0305big_485x326.jpg](/https://web.archive.org/web/20060725165509im_/http://img.timeinc.net/popsci/images/aviation/aviation0305big_485x326.jpg)  
+![aviation0305big_485x326.jpg](/images/aviation0305big_485x326.jpg)  
 **Former NASA engineer William Schneider (above) designed the modules that Las Vegas mogul  
 Robert Bigelow hopes will constitute the worlds first orbital hotel.**
 *...After TransHab was cancelled, Bigelow bought the exclusive development rights from NASA and entered into a Space Act Agreement with the agency to allow him to work with former TransHab engineers still employed there. And he tracked down Schneider, by then retired from NASA and teaching at Texas A&M University. Schneider was surprised when he got the call, but he agreed to see for himself what Bigelow was up to. The modules Bigelow has on display, though empty except for floors and structural elements, had their intended effect on Schneider. And god, he recalls now, when I walked in here, boom! It was mind-boggling, because this is the vision that I really wanted. Heres these things, all sitting there, and of course some of them are mock-ups, but the rest were inflatable, and I said, Man, hes serious. Hes not playing around.  These days Schneider and his former TransHab colleagues visit the plant every few weeks to provide guidance to Bigelows engineers. For Schneider, its a chance to follow through on some unfinished business. Its kind of like you want to see your child grow up to maturity, he says, not be stopped in its adolescence." ...*
@@ -118,7 +118,7 @@ Photographs from the descent spotted river systems and mountainous terrain, but 
 ### Cassini-Huygens
 
 
-* [http://astron.berkeley.edu/~madamkov/titan/](/http-astron-berkeley-edu-madamkov-titan) ![Cassini-spacecraftMW.jpg](/https://web.archive.org/web/20060725165509im_/http://www.metaweb.com/wiki/upload/1/17/Cassini-spacecraftMW.jpg)  
+* [http://astron.berkeley.edu/~madamkov/titan/](/http-astron-berkeley-edu-madamkov-titan) ![Cassini-spacecraftMW.jpg](/images/Cassini-spacecraftMW.jpg)  
 **Moon Phoebe and  
 the Cassini Spacecraft  
 More information and images from the  
@@ -169,7 +169,7 @@ Created in May 1996 and initially called just X PRIZE, it was renamed ANSARI X P
 
 The X PRIZE Foundation, (based in St. Louis, Missouri), maintains a list of organizations registered to compete for the prize. Some companies developed their craft in secret, not publicly announcing their plans until they're ready to request air/space permission from their local government. Such is the case with Scaled Composites, a company that remained unknown as a competitor until April 2003. This list notably does not include traditional space access companies like Boeing and Lockheed, which many in the industry believe to be incapable of replacing their present space transportation vehicles with low-cost alternatives. These critics claim as evidence the companies' several failed attempts to do so, such as the X-33 project, on contract from NASA and other U.S. government agencies. However, the X Prize Foundation itself does not bar these companies from applying, so long as they can prove their efforts on this project would be free of government funding. 
 
-Currently, the X Prize's funding will expire on January 1, 2005. Therefore, most of the teams that are still in the running are scurrying to launch before then. While the list of teams in the forefront might seem obvious based on news reports and updates on the team web sites, any teams developing in secret might appear suddenly on the playing field.![X_Prize_logo_stars_small.jpg](/https://web.archive.org/web/20060725165509im_/http://en.wikipedia.org/upload/7/76/X_Prize_logo_stars_small.jpg)
+Currently, the X Prize's funding will expire on January 1, 2005. Therefore, most of the teams that are still in the running are scurrying to launch before then. While the list of teams in the forefront might seem obvious based on news reports and updates on the team web sites, any teams developing in secret might appear suddenly on the playing field.![X_Prize_logo_stars_small.jpg](/images/X_Prize_logo_stars_small.jpg)
 
 #### List of Contestants
 
@@ -201,7 +201,7 @@ Currently, the X Prize's funding will expire on January 1, 2005. Therefore, most
 * [TGV Rockets](/http-www-tgv-rockets-com)
 * Vanguard Spacecraft
 
-![SpaceShipOne-09G.jpg](/https://web.archive.org/web/20060725165509im_/http://en.wikipedia.org/upload/1/14/SpaceShipOne-09G.jpg)  
+![SpaceShipOne-09G.jpg](/images/SpaceShipOne-09G.jpg)  
 
 **SpaceShipOne over the Mojave Desert**   
 
@@ -237,7 +237,7 @@ A third flight was made on May 13, 2004, this time reaching Mach 2.5 and an apog
 
 A flight scheduled for June 21, 2004 is expected to reach 100 km (62.5 miles) altitude, the first threshhold for the X Prize, although the flight was not registered with the X PRIZE Foundation as an official competitive flight. 
 
-![SpaceShipOne_WhiteKnight.jpg](/https://web.archive.org/web/20060725165509im_/http://en.wikipedia.org/upload/4/47/SpaceShipOne_WhiteKnight.jpg)  
+![SpaceShipOne_WhiteKnight.jpg](/images/SpaceShipOne_WhiteKnight.jpg)  
 
 **SpaceShipOne and White Knight during a captive carry test**
 

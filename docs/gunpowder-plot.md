@@ -21,7 +21,7 @@ a bit more than a stub for **the Guy**
 from the Wikipedia
 
 The Gunpowder Plot of 1605, involved a desperate but failed attempt by a group of provincial English Catholics to kill King [James I of England](/james-i-of-england), his family, and most of the Protestant aristocracy in one fell swoop by blowing up the Houses of Parliament during the state opening.
-![Plotters-mw.jpg](/https://web.archive.org/web/20060725171445im_/http://www.metaweb.com/wiki/upload/2/2c/Plotters-mw.jpg)  
+![Plotters-mw.jpg](/images/Plotters-mw.jpg)  
 The Conspirators in the Gunpowder Plot
 
 The conspirators had become disillusioned by James's failure to give equal rights to Catholics. The plot was intended to spark a rebellion during which, they hoped, James's daughter Elizabeth would be installed as a Catholic head of state. The plot miscarried on November 5 hours before the plot was to have been enacted. 
@@ -35,7 +35,7 @@ The plotters were able to rent a cellar in the house adjacent to the old House o
 By March 1605 they had filled the cellar underneath the House of Lords with 36 barrels (approximately 2.5 tonnes) of gunpowder, concealed under a store of winter fuel. Yet a fear for the Catholic lords who would inevitably be killed led to someone (possibly Francis Tresham) writing a letter of warning to a prominent Catholic, Lord Monteagle, who received it on Saturday, October 26. The conspirators learned of the letter the following day, but resolved to go ahead with their plan, especially after Fawkes inspected the cellar and found nothing had been touched. Meanwhile, however, Monteagle showed the letter to Robert Cecil, the secretary of state. 
 
 Due to this tip-off, the cellar was raided on the morning of the 5th of November by Thomas Knyvet, a justice of the peace, who found conspirator Guy Fawkes in a cellar below the Parliament building and ordered a search of the area. The authorities found the barrels of gunpowder and placed Fawkes under arrest. Guy Fawkes was tortured on the rack until he confessed to his involvement in the plot and to the names of the other conspirators; the King signed a specific order allowing for torture, otherwise outlawed in England. All the conspirators were soon caught, and were executed or killed during interrogation. 
-![Guido-Fawkes.jpg](/https://web.archive.org/web/20060725171445im_/http://www.metaweb.com/wiki/upload/9/96/Guido-Fawkes.jpg)  
+![Guido-Fawkes.jpg](/images/Guido-Fawkes.jpg)  
 **Guy Fawkes**  
 Creeping Through The Cellars
 
@@ -74,7 +74,7 @@ The plot is immortalised in the popular verse:
 
 The plot backfired spectacularly upon England's Catholics. It halted any moves towards Catholic emancipation: they would have to wait another 200 years until they received approximately equal rights.
 
-![0930289528.01.LZZZZZZZ.jpg](/https://web.archive.org/web/20060725171445im_/http://images.amazon.com/images/P/0930289528.01.LZZZZZZZ.jpg)  
+![0930289528.01.LZZZZZZZ.jpg](/images/0930289528.01.LZZZZZZZ.jpg)  
 **V FOR VENDETTA**  
 The Protagonist in his Guy Fawkes Mask
 

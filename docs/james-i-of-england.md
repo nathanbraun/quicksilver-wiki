@@ -15,7 +15,7 @@ This is an [intermediate page](/metaweb-intermediate-page) for
 
 
 none yet
-![James_I_of_England.JPG](/https://web.archive.org/web/20060725172337im_/http://upload.wikimedia.org/wikipedia/en/3/31/James_I_of_England.JPG)  
+![James_I_of_England.JPG](/images/James_I_of_England.JPG)  
 *James I*
 
 
@@ -24,7 +24,7 @@ none yet
 
 **James VI of Scotland** (June 19, 1566 - March 27, 1625, reigned July 24, 1567 - March 27, 1625) and **James I of England and Ireland** (reigned March 24, 1603-March 27, 1625) was the first king of both England and Scotland. James succeeded Elizabeth I as the closest living relative of the unmarried childless English monarch, through his descent from Henry VIII's sister Margaret Tudor. He was a popular monarch, but less skilled at governing than Elizabeth I had been. His taste for political absolutism, his mismanagement of the kingdom's funds, and his cultivation of unpopular favorites laid much of the groundwork that would lead to the deposition and execution of his son Charles I during the English Civil War. During James' own life, however, the government of the kingdom was relatively stable. 
 
-![james.jpg](/https://web.archive.org/web/20060725172337im_/http://tudorhistory.org/people/james4/james.jpg)  
+![james.jpg](/images/james.jpg)  
 **James VI**  
 King of Scotland from 1567  
 **James I**  

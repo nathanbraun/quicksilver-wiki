@@ -17,7 +17,7 @@ A Possible Qwghlmian Alphabet
 
      Indeed the Encyclopedia Qwghlmiana features a lengthy article about the local system of runes. The author of this article has such a chip on his shoulder that the thing is almost physically painful to read. The Qwghlmian practice of eschewing the use of curves and loops, forming all glyphs out of straight lines, far from being crude--as some English scholars have asserted--gives the script a limpid austerity. It is an admirably functional style of writing in a place where (after all the trees were cut down by the English) most of the literate intellectual class suffered from chronic bilateral frostbite.
 
-![Anglosaxonrunes.JPG](/https://web.archive.org/web/20060725222422im_/http://upload.wikimedia.org/wikipedia/en/0/03/Anglosaxonrunes.JPG)  
+![Anglosaxonrunes.JPG](/images/Anglosaxonrunes.JPG)  
 
 **Actual Anglo Saxon Runes  
 

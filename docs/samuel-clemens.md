@@ -12,7 +12,7 @@ A page for **Samuel Clemens**
 ### Samuel Clemens
 
 
-Samuel Clemens was an author. He wrote ***Huckleberry Finn*** using the pseudonym [Mark Twain](/mark-twain). ![Mark_twain.jpg](/https://web.archive.org/web/20060725223737im_/http://en.wikipedia.org/upload/a/a9/Mark_twain.jpg)  
+Samuel Clemens was an author. He wrote ***Huckleberry Finn*** using the pseudonym [Mark Twain](/mark-twain). ![Mark_twain.jpg](/images/Mark_twain.jpg)  
 **Samuel Langhorne Clemens  
 *Mark Twain***
 
@@ -50,7 +50,7 @@ Perhaps most controversial of all was Mark Twain's 1879 humorous talk at the Sto
 
 In his late life, Twain was a very depressed man. He lost 3 out of 4 of his children, and his beloved wife, Olivia Langdon, before his death in 1910. He also had some very bad times with his businesses. His publishing company ended up going bankrupt, and he lost thousands of dollars on one typesetting machine that was never finished. He also lost a great deal of revenue on royalties from his books being plagiarized before he even had a chance to publish them himself. 
 
-Twain's Hartford, Connecticut home is a museum and National Historic Landmark, known as The Mark Twain House.![aa_twain_subj_m.jpg](/https://web.archive.org/web/20060725223737im_/http://www.americaslibrary.gov/assets/aa/twain/aa_twain_subj_m.jpg)  
+Twain's Hartford, Connecticut home is a museum and National Historic Landmark, known as The Mark Twain House.![aa_twain_subj_m.jpg](/images/aa_twain_subj_m.jpg)  
 **Relaxing  
 *Mark Twain***
 

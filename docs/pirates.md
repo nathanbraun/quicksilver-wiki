@@ -25,7 +25,7 @@ Bloody **Pirates**
 
 
 A pirate is a robber attacking from a ship or boat. Pirates usually attack other vessels, usually with the intention of looting their cargo, but may also attack targets on shore. They were termed buccaneers if they operated in the West Indies. 
-![Kidd-Bucc-MW.jpg](/https://web.archive.org/web/20060725221755im_/http://www.metaweb.com/wiki/upload/6/63/Kidd-Bucc-MW.jpg)  
+![Kidd-Bucc-MW.jpg](/images/Kidd-Bucc-MW.jpg)  
 **Two Romantic Images of Pirates: Captain Kidd and a Colorful Buccanner  
 Illustrated by Howard Pyle**
 
@@ -73,7 +73,7 @@ A factor that pushed many patriot privateers into outlaw piracy was the peace tr
 
 
 The Jolly Roger is the traditional flag of European and American pirates, envisioned today as a skull over crossed bones, on a black field. However, there were many variations and additional emblems on actual Jolly Rogers. Calico Jack Rackham and Thomas Tew used variations with swords. Edward Teach (a.k.a. Blackbeard) used a skeleton holding an hourglass in one hand and a spear or dart in the other while standing beside a bleeding heart. Bartholomew Roberts (a.k.a. Black Bart) had two variations: a man and a skeleton, who held a spear or dart in one hand, holding either an hourglass or a cup while toasting death or an armed man standing on two skulls over the letters ABH and AMH (a warning to residents of Barbados and Martinique that death awaited them). Dancing skeletons signified that the pirates cared little for their fate. 
-![Jolly-roger.png](/https://web.archive.org/web/20060725221755im_/http://en.wikipedia.org/upload/1/1e/Jolly-roger.png)  
+![Jolly-roger.png](/images/Jolly-roger.png)  
 **The Jolly Roger**
 
 ### William Kidd
@@ -123,7 +123,7 @@ Legend has romanticized Blackbeard, and he has been the subject of book, movies,
 
 
 Bartholomew Roberts, also known as Black Bart, was easily one of the most successful and deadly pirates in all of history. He went to sea at a young age and quickly assumed the position of Third Mate. After his ship was taken by pirates, and he was made to join their ranks, Roberts proved himself and was elected captain in 1719. He later stated that "It is better to be a commander than a common man, since I have dipped my hands in muddy water and must be a pirate." Most figure that he was the inspiration for William Goldman's *The Princess Bride's* **Dread Pirate Roberts**.
-![Roberts_ImprovementMW.jpg](/https://web.archive.org/web/20060725221755im_/http://www.metaweb.com/wiki/upload/e/ef/Roberts_ImprovementMW.jpg)  
+![Roberts_ImprovementMW.jpg](/images/Roberts_ImprovementMW.jpg)  
 **Bartholomew Roberts AKA *Black Bart* Set on Improving His Crew**
 
 Two years after Roberts was made captain he had accumulated over 51 million pounds worth of treasure and had taken close to 400 ships throughout the Americas, Africa and Europe. His skill had nearly halted Spanish importing and exporting while having lasted this time traveling the Navy Plagued waters, the Caribbean. By this time he had renamed himself Bartholomew Roberts and acquired the nickname "Black Bart."

@@ -26,7 +26,7 @@ Bobby responds, "Like a Marine, only more so."*
 
 
 
-*I'm going on memory for this;* Bobby was not the first Shaftoe we meet in [Cryptonomicon](/cryptonomicon), chronologically he is earliest but he is presented in one in a line of impressive individuals ... Bobby is a mirror of his precedent Bob Shaftoe, in [Quicksilver](/stephenson-neal-quicksilver), driven by duty but capable of extensive personal initiative based acts. ![BobbyShaftoeMW.jpg](/https://web.archive.org/web/20060725165735im_/http://www.metaweb.com/wiki/upload/4/4c/BobbyShaftoeMW.jpg)  
+*I'm going on memory for this;* Bobby was not the first Shaftoe we meet in [Cryptonomicon](/cryptonomicon), chronologically he is earliest but he is presented in one in a line of impressive individuals ... Bobby is a mirror of his precedent Bob Shaftoe, in [Quicksilver](/stephenson-neal-quicksilver), driven by duty but capable of extensive personal initiative based acts. ![BobbyShaftoeMW.jpg](/images/BobbyShaftoeMW.jpg)  
 **The face of Bobby Shaftoe?  
 No one could blend *stupid* and competent as well as Anderson**
 
@@ -216,7 +216,7 @@ The Navajo spoken code is not very complex by cryptographic standards, and would
 #### [Last WWII Comanche 'code talker' dies](/)
 
 
-![Charles_Chibitty.jpg](/https://web.archive.org/web/20060725165735im_/http://upload.wikimedia.org/wikipedia/en/7/78/Charles_Chibitty.jpg)  
+![Charles_Chibitty.jpg](/images/Charles_Chibitty.jpg)  
 **Charles Chibitty**
 **[Charles Chibitty](/)**, the last surviving member of the group of 17 who served in World War II as the Comanche "code talkers" died in a Tulsa, Oklahoma nursing home July 20. He was 83.
 

@@ -4,27 +4,6 @@
 From the Quicksilver Metaweb.
 
 
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 Community Entry](/)
-
-
-[2 Medterms.com Medical Definition of Fever Therapy](/)
-
-
-[3 Now Known As "The Issels Therapy" For Treating Cancer](/)
-
-
-[4 References:](/) 
-
-
-[5 Modern Practice of Fever Therapy At Home](/)
- |
-
-
 ### Community Entry
 
 

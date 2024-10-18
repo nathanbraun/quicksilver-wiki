@@ -14,33 +14,6 @@ For more complicated articles, you may want to copy the markup of some existing 
 In particular, see the [metaweb:intermediate page](/metaweb-intermediate-page) template for intermediate pages that link together several entries on a topic.
 
 
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 Introductory material](/)
-
-
-[2 Lists](/)
-
-
-[3 Structure of the article](/)
-
-
-[4 Quotations](/)
-
-
-[5 Related topics](/)
-
-
-[6 References](/)
-
-
-[7 External links](/)
- |
-
-
 ## Introductory material
 
 

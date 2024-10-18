@@ -4,20 +4,6 @@
 From the Quicksilver Metaweb.
 
 
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 List of Gadgets and Technology in Neal Stephensons "The Diamond Age"](/) 
-
-
-[1.1 Nanotech](/)
-[1.2 Uses of nanotechnology](/)
-[1.3 External Sources](/)
- |
-
-
 ## List of Gadgets and Technology in Neal Stephensons "The Diamond Age"
 
 

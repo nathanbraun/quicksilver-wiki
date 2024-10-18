@@ -4,30 +4,6 @@
 From the Quicksilver Metaweb.
 
 
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 Fort William and Mary](/)
-
-
-[2 Before the Raid](/)
-
-
-[3 The Raid on Fort William and Mary](/)
-
-
-[4 Aftermath](/)
-
-
-[5 FOOTNOTES](/)
-
-
-[6 Related Pages](/)
- |
-
-
 ## Fort William and Mary
 
 

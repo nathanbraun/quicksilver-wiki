@@ -24,7 +24,7 @@ This is an intermediate page for **Erasmus Darwin**.
 
 From Wikipedia, the free encyclopedia. 
 
-**Erasmus Darwin** (December 12, 1731 - April 18, 1802) trained as a physician and wrote extensively on medicine and botany, as well as poetry. Living in Birmingham and Lichfield, England. He was one of the founder members of the Lunar Society which links him to [Ben Franklin](/ben-franklin).![Erasdarwin1.jpg](/https://web.archive.org/web/20060725172642im_/http://en.wikipedia.org/upload/b/bb/Erasdarwin1.jpg)  
+**Erasmus Darwin** (December 12, 1731 - April 18, 1802) trained as a physician and wrote extensively on medicine and botany, as well as poetry. Living in Birmingham and Lichfield, England. He was one of the founder members of the Lunar Society which links him to [Ben Franklin](/ben-franklin).![Erasdarwin1.jpg](/images/Erasdarwin1.jpg)  
 **Erasmus Darwin**
 
 He was born near Nottingham, and studied at Cambridge and Edingurgh. He practised medicine in Lichfield in Staffordshire for twenty years; [George III](/george-iii-of-the-united-kingdom) invited him to be royal physician but he declined. 

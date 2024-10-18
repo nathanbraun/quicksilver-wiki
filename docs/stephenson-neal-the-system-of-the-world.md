@@ -28,7 +28,7 @@ Novel = [romance](/stephenson-neal-quicksilver-1-those-who-assume-hypotheses-nea
 ### The System of the World
 
 
-![0434011770.02.LZZZZZZZ.jpg](/https://web.archive.org/web/20060725165439im_/http://images-eu.amazon.com/images/P/0434011770.02.LZZZZZZZ.jpg)  
+![0434011770.02.LZZZZZZZ.jpg](/images/0434011770.02.LZZZZZZZ.jpg)  
 **The System of the World (UK)**
 Nor was [Isaac Newton](/isaac-newton) the first to even entitle his theories with the appellation.
 

@@ -6,27 +6,6 @@ From the Quicksilver Metaweb.
 This is a Metaweb page for *Jews*. 
 
 
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 Disclaimer](/)
-
-
-[2 Major characters](/)
-
-
-[3 Authored entries](/)
-
-
-[4 Glossary / Potential entries](/)
-
-
-[5 External links](/)
- |
-
-
 ### Disclaimer
 
 

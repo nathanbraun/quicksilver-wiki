@@ -7,7 +7,7 @@ This is the [Cryptonomicon](/cryptonomicon) page for the **Republic of the Phili
 ### Stephensonia
 
 
-![PI_typhoon_signalMW.jpg](/https://web.archive.org/web/20060725224051im_/http://www.metaweb.com/wiki/upload/5/50/PI_typhoon_signalMW.jpg)  
+![PI_typhoon_signalMW.jpg](/images/PI_typhoon_signalMW.jpg)  
 **Old street scene depicting  
 typhoon warnings**
 *[Neal Stephenson](/neal-stephenson)'s **Hacker Tourist** travels documented in **[Mother Earth Mother Board](/http-www-wired-com-wired-archive-4-12-ffglass-pr-html)** took him to this island nation. It is one of the principal locations in [Cryptonomicon](/cryptonomicon). And the **Spratlys** would be ideal for the fictional **[Kinakuta](/kinakuta)**. **[Avi](/avi-halaby) rattles off canned justifications: office space is much cheaper in Intramuros. Government ministries are closer. Makati, the gleaming new business district, is too isolated from the real [Philippines](/philippines). [Randy](/randy-waterhouse) pays no attention to it.  
@@ -100,7 +100,7 @@ The judiciary branch of the government is headed by the [Supreme Court](/http-en
 
 
 
-![Ph_general_map.png](/https://web.archive.org/web/20060725224051im_/http://en.wikipedia.org/upload/8/86/Ph_general_map.png)
+![Ph_general_map.png](/images/Ph_general_map.png)
 
 **Local Government**: The Philippines is divided into a hierarchy of local government units (LGUs) with the [province](/http-en-wikipedia-org-wiki-provinces-of-the-philippines) as the primary unit. As of 2002, there are 79 provinces in the country. Provinces are further subdivided into [cities](/http-en-wikipedia-org-wiki-cities-of-the-philippines) and [municipalities](/http-en-wikipedia-org-wiki-philippine-municipality), which are in turn, composed of [barangays](/http-en-wikipedia-org-wiki-barangay). The barangay is the smallest local government unit.
 
@@ -222,7 +222,7 @@ In April of 1941, Japan and the USSR signed a neutrality pact and Japan increase
 US Army Chief of Staff General George C. Marshall states, "Adequate reinforcements for the Philippines, at this time, would have left the United States in a position of great peril, should there be a break in the defense of Great Britain." 
 
 The Japanese Conquest and World War II (1941-1945): Philippines during World War II: The invasion by Japan began in December of 1941. As the Japanese forced advanced, Manila was declared an open city to prevent it from destruction, meanwhile, the government was moved to Corregidor.
-![CorregidorMW.jpg](/https://web.archive.org/web/20060725224051im_/http://www.metaweb.com/wiki/upload/0/07/CorregidorMW.jpg)  
+![CorregidorMW.jpg](/images/CorregidorMW.jpg)  
 **War Propaganda**
 
 In March of 1942 U.S. General [Douglas MacArthur](/douglas-macarthur) and President Quezon fled the country. The cruelty of the Japanese military occupation of the Philippines is legendary. Guerilla units harassed the Japanese when they could, and on Luzon native resistance was strong enough that the Japanese never did get control of a large part of the island. **Corregidor** is an island in the Philippines' Manila Bay. The island is shaped like a tadpole, with its tail running eastward. It is doubtful that this island measures even 14 km² in area. Along with Caballo, which lies 2 km south of the "tail's" tip, this island partially blocks the entrance to Manila Bay, and thus forming a northern and southern entrance. 
@@ -235,7 +235,7 @@ During World War II on March 11, 1942, General Douglas MacArthur abandoned Corre
 
 Captured Japanese documents bearing dates between last Dec. 23, 1944 and Feb. 14, 1945 strongly suggested today that wholesale atrocities on civilians in Manila were the result of orders issued to the Nipponese garrison. The atrocities were not, the reports indicated, the work of isolated groups of Japanese who took matters into their own hands, although at the time a good many of them so appeared. Included in the documentary reports of Japanese slaughter of helpless civilians in the downtown battlefield were Nipponese documents and orders captured by soldiers of the U.S. Army's 14th Corps, some of them mimeographed and bound.[[1]](/http-members-aol-com-bcmfofnm-atrocities2-html)
 
-The pattern of atrocities as described in the affidavit reports is so similar as to indicate strongly they were by general order to all Japanese troops. Everyone was considered an enemy guerilla fighter and treated accordingly. The lucky in the Intramuras merely starved to death locked in their homes. Others were bayonetted and then burned alive in a degrading manner considered economic saving ammo for combat.![SmallOCS.jpg](/https://web.archive.org/web/20060725224051im_/http://en.wikipedia.org/upload/3/30/SmallOCS.jpg)   
+The pattern of atrocities as described in the affidavit reports is so similar as to indicate strongly they were by general order to all Japanese troops. Everyone was considered an enemy guerilla fighter and treated accordingly. The lucky in the Intramuras merely starved to death locked in their homes. Others were bayonetted and then burned alive in a degrading manner considered economic saving ammo for combat.![SmallOCS.jpg](/images/SmallOCS.jpg)   
 **These Filipino soldiers would be sent from  
 Brisbane, Australia to the Philippines  
 by submarine, prior to the invasion**

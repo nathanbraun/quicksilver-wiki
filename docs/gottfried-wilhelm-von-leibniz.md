@@ -42,7 +42,7 @@ The novel [satirizes](/http-en-wikipedia-org-wiki-satire) the philosophy of Gott
 From Wikipedia, the free encyclopedia. 
 
 **Gottfried Wilhelm von Leibniz** (July 1, 1646 in Leipzig -November 14, 1716 in Hanover) was a German philosopher, scientist, mathematician, diplomat, librarian, and lawyer of Sorb descent. Leibniz is credited with the term "function" (1694), which he used to describe a quantity related to a curve; such as a curve's slope or a specific point of said curve. Leibniz is generally, with Newton, jointly credited for the development of modern [calculus](/calculus); in particular, for his development of the integral and the Product rule. 
-![LeibnizMW.jpg](/https://web.archive.org/web/20060725165728im_/http://www.metaweb.com/wiki/upload/c/c0/LeibnizMW.jpg)  
+![LeibnizMW.jpg](/images/LeibnizMW.jpg)  
 **The Doctor**  
 **Gottfried Wilhelm von Leibniz**
 

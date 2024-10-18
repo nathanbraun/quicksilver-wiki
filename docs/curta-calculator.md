@@ -8,7 +8,7 @@ A stub for the **curta calculator**
 
 
 
-![curta.gif](/https://web.archive.org/web/20060725171757im_/http://www.vcalc.net/images2/curta.gif)
+![curta.gif](/images/curta.gif)
 Image belongs to link below:
 **[The ultimate & complete Curta Reference page](/http-www-vcalc-net-cu-htm)**
 It has a beautiful CG ray-traced image of a Curta.

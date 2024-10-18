@@ -19,7 +19,7 @@ This page is about **Gödel's Incompleteness Theorem**
 ### Composites Instead of Monads
 
 
-Daniel's scheme is suspicously similar to the technique used by **[Kurt Gödel](/http-en-wikipedia-org-wiki-kurt-gödel)** in his [Incompleteness Theorem](/http-en-wikipedia-org-wiki-gödel-s-incompleteness-theorem). And given [Daniel Waterhouse](/daniel-waterhouse)'s links to computational machinery and later discussions with [Leibniz](/leibniz), this is not a coincidence. ![KurtGodel.jpg](/https://web.archive.org/web/20060725171449im_/http://upload.wikimedia.org/wikipedia/nl/7/70/KurtGodel.jpg)  
+Daniel's scheme is suspicously similar to the technique used by **[Kurt Gödel](/http-en-wikipedia-org-wiki-kurt-gödel)** in his [Incompleteness Theorem](/http-en-wikipedia-org-wiki-gödel-s-incompleteness-theorem). And given [Daniel Waterhouse](/daniel-waterhouse)'s links to computational machinery and later discussions with [Leibniz](/leibniz), this is not a coincidence. ![KurtGodel.jpg](/images/KurtGodel.jpg)  
 **Kurt Gödel  
 proved fundamental results about  
 axiomatic systems showing in any  

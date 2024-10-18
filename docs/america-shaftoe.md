@@ -20,7 +20,7 @@ This is a page for Randy's sweetheart - **America Amy Shaftoe**
 ### The Wanting of *America*
 
 
-Initially one wants to consider **America Amy Shaftoe** as a geekboy's wet dream; exotic and comfortably American. She's technical, but not threatening.![America-ShaftoeMW.jpg](/https://web.archive.org/web/20060725172303im_/http://www.metaweb.com/wiki/upload/6/62/America-ShaftoeMW.jpg)  
+Initially one wants to consider **America Amy Shaftoe** as a geekboy's wet dream; exotic and comfortably American. She's technical, but not threatening.![America-ShaftoeMW.jpg](/images/America-ShaftoeMW.jpg)  
 **Lexa Doig: She'll run you off the road to get your full attention  
 And she can *sure* cook a yummy bowl of oatmeal  I really don't like casting   
 *Imaginary* films guessing at but as really unsuitable choices have been  
@@ -85,7 +85,7 @@ She doesn't need a *White Knight* and is pained when Randy acts that way when co
 ### It's All Her Fault, Really
 
 
-![Sonjawalger.jpg](/https://web.archive.org/web/20060725172303im_/http://www.metaweb.com/wiki/upload/d/d8/Sonjawalger.jpg)  
+![Sonjawalger.jpg](/images/Sonjawalger.jpg)  
 **Sonya Walger: She's got a big knife,  
 and knows how to use it.  
 She taught Noah Wiley's character in  

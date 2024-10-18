@@ -36,7 +36,7 @@ Something alike "Me" is used in a novel by [Walter Jon Williams](/walter-jon-wil
 ### Ishtar *or* Inanna
 
 
-![Ancient_ishtar.JPG](/https://web.archive.org/web/20060725223507im_/http://en.wikipedia.org/upload/1/11/Ancient_ishtar.JPG)
+![Ancient_ishtar.JPG](/images/Ancient_ishtar.JPG)
 **Ishtar**, also known as **Htar** (or **Inanna** in Sumerian mythology) , the name of the chief goddess of Babylonia and Assyria, the counterpart of the Phoenician **Astarte**. The meaning of the name is not known, though it is possible that the underlying stem is the same as that of Assur, which would thus make her the "leading one" or "chief." At all events it is now generally recognized that the name is Semitic in its origin. Where the name originated is likewise uncertain, but the indications point to Erech where we find the worship of a great mother goddess independent of any association with a male counterpart flourishing in the oldest period of Babylonian history. She appears under various names, among which are Nanã, Innanna, Nina and Anunit. As early as the days of Khammurabi we find these various names which represented originally different goddesses, though all manifest as the chief trait the life-giving power united in Ishtar. Even when the older names are employed it is always the great mother-goddess who is meant. Ishtar is the one goddess in the pantheon who retains her independent position despite and throughout all changes that the Babylonian-Assyrian religion undergoes. Even when Ishtar is viewed as the consort of some chief — of Marduk occasionally in the south, of Assur more frequently in the north — the consciousness that she has a personality of her own apart from this association is never lost sight of. 
 
 With Adbeel (Gen. xxv. 13) may be identified Idibi'il (-ba'il) a tribe, employed by Tiglath-Pileser IV (733 BCE) to watch the frontier of Musri (Sinaitic peninsula or Northern Arabia). This is suggested by the fact that Ashurbanipal (7th century) mentions as the name of their deity Atar-Samain (i.e. "Ishtar of the heavens"). 
@@ -78,7 +78,7 @@ He was also known as the inventor of the pickaxe (favorite tool of the Sumerians
 
 
 Nammu also gave birth to **Enki**, god of the watery abyss, or the Abzu. Enki also controlled the Me, holy decrees that governed such basic things as physics and complex things such as social order and law. This accounts for the origin of most of the world as we know it.
-![WhatsUpWithEnkiMW.jpg](/https://web.archive.org/web/20060725223507im_/http://www.metaweb.com/wiki/upload/a/ac/WhatsUpWithEnkiMW.jpg)  
+![WhatsUpWithEnkiMW.jpg](/images/WhatsUpWithEnkiMW.jpg)  
  **Images of Enki and Ea**
 
 He was later known as **Ea**. The main temple to Enki was in Eridu. His symbols included a goat and a fish, which later combined into a single beast, the Capricorn, which became one of the signs of the zodiac. Male presence, god of water and the creation. He had sexual relations with his female kids during various generations.

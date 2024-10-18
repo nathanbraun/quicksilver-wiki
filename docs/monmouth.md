@@ -21,7 +21,7 @@ This is an intermediate page for **James Scott, 1st Duke of Monmouth**.
 ### Community entry
 
 
-James, Duke of Monmouth was the bastard son of [Charles II](/charles-ii) by his mistress, [Lucy Walter](/lucy-walter). Monmouth was born in Amsterdam and raised a Protestant. When Charles was invited back to England young James was brought to join him and named Duke of Monmouth, but he was not recognised as a legitimate heir. Monmouth was forced to flee England in 1683 after being implicated in a plot to kill the king. When James II, a devout Catholic, became king Monmouth became a champion of the Protestant cause and launched an invasion. However, his effort was poorly planned and funded, obtained little support from the nobility, and came to grief at the [Battle of Sedgemoor](/battle-of-sedgemoor).![Duke_of_monmouthMW.jpg](/https://web.archive.org/web/20060725221112im_/http://www.metaweb.com/wiki/upload/9/9f/Duke_of_monmouthMW.jpg)  
+James, Duke of Monmouth was the bastard son of [Charles II](/charles-ii) by his mistress, [Lucy Walter](/lucy-walter). Monmouth was born in Amsterdam and raised a Protestant. When Charles was invited back to England young James was brought to join him and named Duke of Monmouth, but he was not recognised as a legitimate heir. Monmouth was forced to flee England in 1683 after being implicated in a plot to kill the king. When James II, a devout Catholic, became king Monmouth became a champion of the Protestant cause and launched an invasion. However, his effort was poorly planned and funded, obtained little support from the nobility, and came to grief at the [Battle of Sedgemoor](/battle-of-sedgemoor).![Duke_of_monmouthMW.jpg](/images/Duke_of_monmouthMW.jpg)  
 **Duke of Monmouth**
 
 ### James Scott, 1st Duke of Monmouth
@@ -53,83 +53,3 @@ Following the discovery of the so-called Rye House Plot in 1683, Monmouth was ob
 
 
 * [James, Duke of Monmouth (Wikipedia)](/http-www-wikipedia-org-wiki-james-duke-of-monmouth)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[We are delicate. We do not delete your content.]
-[l\_sp979]
-[indoor tanning beds](/http-sitepalace-com-indoortanningbeds)
-[daybed comforter sets](/http-sitepalace-com-cleo-daybedcomfortersets)
-[southwestern bedding](/http-sitepalace-com-cleo-southwesternbedding)
-[leather sectional sofa](/http-sitepalace-com-cleo-leathersectionalsofa)
-[thomasville bedding](/http-home-graffiti-net-thomasville-bedding)
-[naturalizer shoes](/http-home-graffiti-net-naturalizer-shoes)
-[designer dog beds](/http-home-graffiti-net-designer-dog-beds)
-[k1 visa](/http-mujweb-cz-www-k1visa)
-[fiancee visa](/http-mujweb-cz-www-k1visa-fiancee-visa)
-[rivotril](/http-rivotril-google-if-ua)
-[cingular ringtone](/http-republika-pl-cleo06-cingular-ringtone-htm)
-[nail fungus](/http-republika-pl-cleo06-nail-fungus-htm)
-[bridesmaid dress](/http-republika-pl-cleo06-bridesmaid-dress-htm)
-[formal prom dresses](/http-republika-pl-cleo06-formal-prom-dresses-htm)
-[bcbg shoes](/http-republika-pl-cleo06-bcbg-shoes-htm)
-[tramadol hcl](/http-mysite-com-ua-xdem8200-pagesxdem8200-1-1-html)
-[cingular ringtone](/http-mywebpage-netscape-com-burochka-cingular-ringtone-htm)
-[bcbg shoes](/http-mywebpage-netscape-com-burochka-bcbg-shoes-htm)
-[bridesmaid dress](/http-mywebpage-netscape-com-burochka-bridesmaid-dress-htm)
-[formal prom dresses](/http-mywebpage-netscape-com-burochka-formal-prom-dresses-htm)
-[nail fungus](/http-mywebpage-netscape-com-burochka-nail-fungus-htm)
-[tanning bed](/http-www-buddyprofile-com-viewprofile-php-username-tanningbed)
-[bcbg shoes](/http-www-buddyprofile-com-viewprofile-php-username-bcbgshoes)
-[naturalizer shoes](/http-www-buddyprofile-com-viewprofile-php-username-naturalizershoes)
-[leather sectional sofa](/http-www-buddyprofile-com-viewprofile-php-username-leathersectionalsofa)
-[designer dog beds](/http-www-buddyprofile-com-viewprofile-php-username-designerdogbeds)
-[heated mattress pad](/http-www-buddyprofile-com-viewprofile-php-username-heatedmattresspad)
-[bridesmaid dress](/http-www-buddyprofile-com-viewprofile-php-username-bridesmaiddress)
-[2006 prom dresses](/http-www-buddyprofile-com-viewprofile-php-username-2006promdresses)
-[formal prom dresses](/http-www-buddyprofile-com-viewprofile-php-username-formalpromdresses)
-[sexy prom dresses](/http-www-buddyprofile-com-viewprofile-php-username-sexypromdresses)
-[cheap prom dresses](/http-www-buddyprofile-com-viewprofile-php-username-cheappromdresses)
-[nextel ringtone](/http-www-buddyprofile-com-viewprofile-php-username-nextelringtone)
-[verizon ringtone](/http-www-buddyprofile-com-viewprofile-php-username-verizonringtones)
-[cingular ringtone](/http-www-buddyprofile-com-viewprofile-php-username-cingularringtone)
-[free sprint ringtone](/http-www-buddyprofile-com-viewprofile-php-username-freesprintringtone)
-[free nextel ringtone](/http-www-buddyprofile-com-viewprofile-php-username-freenextelringtone)
-[dianabol](/http-dianabol-google-if-ua)
-[tribulus terrestris](/http-tribulus-terrestris-blogs-eurosport-com)
-[nutrex lipo 6](/http-nutrex-lipo-6-blogs-eurosport-com)
-[Tribex](/http-tribex-blogs-eurosport-com)
-[Xyience](/http-xyience-blogs-eurosport-com)
-[Vasopro](/http-vasopro-blogs-eurosport-com)
-[caffeine pills](/http-caffeine-blogs-eurosport-com)
-[scifit](/http-scifit-blogs-eurosport-com)
-[twinlab](/http-twinlab-blogs-eurosport-com)
-[faxless payday loans](/http-imean-com-blog-faxlesspaydayloans)
-[cingular ringtone](/http-cingularringtone-blogs-eurosport-com)
-[free verizon ringtone](/http-freeverizonringtone-blogs-eurosport-com)
-[free kyocera ringtone](/http-freekyoceraringtone-blogs-eurosport-com)
-[free sprint ringtone](/http-freesprintringtone-blogs-eurosport-com)
-[kyocera ringtone](/http-kyoceraringtone-blogs-eurosport-com)
-[ringtone maker](/http-ringtonemaker-blogs-eurosport-com)
-[monophonic ringtone](/http-monophonicringtone-blogs-eurosport-com)
-[us cellular ringtone](/http-uscellularringtone-blogs-eurosport-com)

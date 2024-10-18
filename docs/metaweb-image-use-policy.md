@@ -6,45 +6,6 @@ From the Quicksilver Metaweb.
 For the basics of using images, see also [Metaweb:How to edit a page](/metaweb-how-to-edit-a-page).
 
 
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 Rules of thumb](/) 
-
-
-[2 Copyright](/) 
-
-
-[3 Editing Images](/) 
-
-
-[4 Deleting Images](/) 
-
-
-[5 Image titles](/) 
-
-
-[6 Format](/) 
-
-
-[7 Markup](/) 
-
-
-[8 Size](/) 
-
-
-[8.1 Resizing](/) 
-
-
-[9 Revision history of articles containing images](/) 
-
-
-[10 Recommended software](/) 
- |
-
-
 ## Rules of thumb
 
 

@@ -4,24 +4,6 @@
 From the Quicksilver Metaweb.
 
 
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 Stephensonia](/)
-
-
-[2 Community Entry: nanosite](/)
-
-
-[3 Nanosites as used in Mobile Marketing](/)
-
-
-[4 Related Pages](/)
- |
-
-
 ### Stephensonia
 
 

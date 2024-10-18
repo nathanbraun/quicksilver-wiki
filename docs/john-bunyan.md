@@ -21,7 +21,7 @@ a page for **Everyman**
 From Wikipedia, the free encyclopedia. 
 
 **John Bunyan** (November 30, 1628 -August 31, 1688), a [Christian](/christianity) writer and preacher, was born at Harrowden (1 mile south-east of Bedford), in the Parish of Elstow, England. He wrote *The Pilgrim's Progress*, arguably the most famous published Christian allegory.
-![Bunyan.jpg](/https://web.archive.org/web/20060725231735im_/http://www.metaweb.com/wiki/upload/6/69/Bunyan.jpg)  
+![Bunyan.jpg](/images/Bunyan.jpg)  
 
 **JOHN BUNYAN**
 
@@ -65,7 +65,7 @@ Two other works of Bunyan's would have given him fame, but not as wide as that h
 The book which lays bare Bunyan's inner life and reveals his preparation for his appointed work is *Grace Abounding to the chief of sinners* (1666). It is very prolix, and being all about himself, in a man less holy would be intolerably egotistic, but as Bunyan plainly had the motive in writing it to exalt the grace of God and to comfort those passing through experiences somewhat like his own, his egotism makes no disagreeable impression. 
 
 The works just named have appeared in numerous editions, and are accessible to all. There are several noteworthy collections of editions of *The Pilgrim's Progress*, e.g., in the British Museum and in the New York Public Library, collected by the late James Lenox.
-![Vanity-FairMW.jpg](/https://web.archive.org/web/20060725231735im_/http://www.metaweb.com/wiki/upload/5/5a/Vanity-FairMW.jpg)  
+![Vanity-FairMW.jpg](/images/Vanity-FairMW.jpg)  
 
 **Two Scenes from Vanity Fair**
 

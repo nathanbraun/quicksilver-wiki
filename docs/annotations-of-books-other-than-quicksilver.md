@@ -6,25 +6,6 @@ From the Quicksilver Metaweb.
 The Metaweb can be used for other purposes than posting annotations to one novel. It can be used to annotate other books, or to post explanations of any topic that a contributor might wish to explain. 
 
 
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 Neal Stephenson works](/)
-
-
-[2 Works by other authors](/)
-
-
-[2.1 Have Space Suit Will Travel](/)
-[2.2 The Monkey Wrench Gang](/)
-[2.3 Time Enough for Love, the Lives of Lazarus Long](/)
-[2.4 The Iliad of Homer (Lattimore translation)](/)
-[2.5 Infinite Jest](/)
- |
-
-
 ## Neal Stephenson works
 
 

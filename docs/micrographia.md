@@ -26,7 +26,7 @@ Placeholder for Hooke's **Micrographia**
 
 
 
-![bigflea.jpg](/https://web.archive.org/web/20060725222757im_/http://www.wwnorton.com/nael/images/18thc/bigflea.jpg)  
+![bigflea.jpg](/images/bigflea.jpg)  
 Hooke's Flea from the Octavio Fascimile - identical to the CD ROM
 
 In 1665, Robert Hooke published a book entitled Micrographia, which contained a number of microscopic and telescopic observations, and some original biology. Indeed, the biological term cell is attributed to Hooke. Hooke's seminal discovery of the feasibility of microscopy, soon to become a great engine of research, is matched by his intuitive correlations with other phenomena. Hooke proved that this device could reveal minute new worlds. Curator of experiments at the [Royal Society](/royal-society), Hooke (16351703) made unprecedented and accurate drawings of the diminutive creatures he had discovered. He also created a new taste for appreciating unheeded wonders of nature, from the endlessly varied patterns of snowflakes to the strength and beauty of the flea or the life cycles of mites. 

@@ -16,7 +16,7 @@ Mary II (April 30, 1662 - December 28, 1694), Queen of England, Scotland and Ire
   
 
 ```
-![Mary_ii_england.JPG](/https://web.archive.org/web/20060725231538im_/http://en.wikipedia.org/upload/8/89/Mary_ii_england.JPG)  
+![Mary_ii_england.JPG](/images/Mary_ii_england.JPG)  
 **Mary II**  
 Queen of England, Ireland and ScotlandMary was born in London, the daughter of the then Duke of York and his first wife, Anne Hyde (whose father, Edward Hyde, 1st Earl of Clarendon, was chief adviser to King Charles II. Mary and her younger sister, Anne, were brought up in the Protestant faith of their mother. They were the only children of this marriage to survive into adulthood, and were not considered likely ever to accede to the throne. However, following their mother's death, their father married the Roman Catholic Mary of Modena, which helped confirm him in his own Catholic faith. Following his accession to the throne on February 6, 1685, concern grew that he planned to turn the clock back and restore Catholicism to Britain. When his second wife gave birth to a son and heir on June 10, 1688 (see James Francis Edward Stuart), the event added urgency to the popular movement to overthrow him. 
 

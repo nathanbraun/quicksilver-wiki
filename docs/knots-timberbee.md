@@ -4,26 +4,6 @@
 From the Quicksilver Metaweb.
 
 
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 Overview](/)
-
-
-[1.1 Grain](/)
-
-[1.1.1 Hewing Towards the Knot](/)
-
-[1.2 Hewing the Center](/)
-[1.3 Passing the Knot](/)
-
-[1.3.1 A Quick Look at Form](/)
-
- |
-
-
 ## Overview
 
 

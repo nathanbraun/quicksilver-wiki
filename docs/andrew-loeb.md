@@ -23,7 +23,7 @@ In many ways, though, Andrew Loeb more closely resembles the figure of Dona Sole
 ### Community entries:Andrew Loeb
 
 
-In the mid 1980's Andrew Loeb's eccentric Master's Degree Project to determine the energy expenditure budgets of Local Native Peoples would establish his first meeting at the Inter Library Loan (ILL) Department of the University of Washington in Seattle with Randy Waterhouse.![CrossAndrewLoebMW.jpg](/https://web.archive.org/web/20060725171338im_/http://www.metaweb.com/wiki/upload/e/ee/CrossAndrewLoebMW.jpg)  
+In the mid 1980's Andrew Loeb's eccentric Master's Degree Project to determine the energy expenditure budgets of Local Native Peoples would establish his first meeting at the Inter Library Loan (ILL) Department of the University of Washington in Seattle with Randy Waterhouse.![CrossAndrewLoebMW.jpg](/images/CrossAndrewLoebMW.jpg)  
 **Andrew Loeb  
 was meant to be protrayed  
 by David Cross**

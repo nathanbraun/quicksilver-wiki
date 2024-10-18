@@ -9,7 +9,7 @@ This is an [intermediate page](/metaweb-intermediate-page) for The Confusion, a 
 
 
 *TBA*
-![0434008788.02.LZZZZZZZ.jpg](/https://web.archive.org/web/20060725165506im_/http://images-eu.amazon.com/images/P/0434008788.02.LZZZZZZZ.jpg)  
+![0434008788.02.LZZZZZZZ.jpg](/images/0434008788.02.LZZZZZZZ.jpg)  
 **[Cover to THE CONFUSION (UK)](/the-confusion)  
 Volume II of  
 [Neal Stephenson](/neal-stephenson)'s [Baroque Cycle](/stephenson-neal-baroque-cycle)**

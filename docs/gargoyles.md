@@ -7,56 +7,6 @@ From the Quicksilver Metaweb.
 Gargoyle Spouts at Notre Dame
 
 
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 Stephensonia](/)
-
-
-[2 Related Authored Pages](/)
-
-
-[3 Description](/)
-
-
-[4 Historical Roots](/)
-
-
-[5 Plot Analysis](/)
-
-
-[5.1 Invisibile Raincoats](/)
-
-
-[6 Wikipedia: Gargoyle](/)
-
-
-[7 Gargoyles (animated series)](/)
-
-
-[8 Wikipedia: Wearable Computing](/)
-
-
-[9 Wearables in Science Fiction](/)
-
-
-[10 Related Links](/)
-
-
-[11 External Links](/)
-
-
-[12 Gargoyles and Grotesques](/)
-
-
-[13 Borganisms and Wearable Computing](/)
-
-
-[14 References](/)
- |
-
-
 ### Stephensonia
 
 
@@ -106,7 +56,7 @@ Quoting from "Sturgis' *Illustrated Dictionary of Architecture and Building*":
 
 While this is meant to describe specifically carved creatures that spout water, the word usage in [Snow Crash](/snow-crash) is apt in that a [CIC](/cic) [stringer](/http-www-hyperdictionary-com-search-aspx-define-freelance) who is a **gargoyle** acts as a waterspout of information who does not attempt, usually, to filter out noise or extraneous data from the binary flow. Because of this they are seen as ugly by the [Central Intelligence Corporation](/central-intelligence-corporation) from a quality of work point of view as well as ugly physically by those they encounter due to their bulky borg-like wearables.
 
-![Gargoyle.600px.jpg](/https://web.archive.org/web/20060725165628im_/http://upload.wikimedia.org/wikipedia/en/b/b2/Gargoyle.600px.jpg)  
+![Gargoyle.600px.jpg](/images/Gargoyle.600px.jpg)  
 **Gargoyle, Sacre Coeur, Paris. Photograph by Michael Reeve, 30 January 2004  
 Permission is granted to copy, distribute and/or modify this document under the terms of the  
 GNU Free Documentation License,**
@@ -146,7 +96,7 @@ While optical camouflage may not yet exist, it is worthwhile to point out that c
 ### [Wikipedia: Gargoyle](/)
 
 
-![Himeji_Castle_gargoyle.jpg](/https://web.archive.org/web/20060725165628im_/http://upload.wikimedia.org/wikipedia/en/d/da/Himeji_Castle_gargoyle.jpg)  
+![Himeji_Castle_gargoyle.jpg](/images/Himeji_Castle_gargoyle.jpg)  
 A [Japanese](/) gargoyle adorning [Himeji Castle](/)
 In [architecture](/), **gargoyles**, or gurgoyles (from the [French language|French](/) *gargouille,* originally the throat or gullet, cf. [Latin](/) *gurgulio, gula,* and similar words derived from root *gar,* to swallow, the word representing the gurgling sound of water; Ital. *doccione;* Ger. *Ausguss*), are the carved terminations to a spout which conveys water away from the [gutters](/).
 
@@ -164,7 +114,7 @@ Statues representing gargoyle-like creatures are popular sales items, particular
 **Gargoyles** is an acclaimed Walt Disney superhero animated series that aired from October 24, 1994 to 1997 featuring a clan of six warrior creatures that were turned to stone during the day. Led by the gargoyle Goliath in the year 994, they protected Castle Wyvern and its resident humans on the coast of Scotland until betrayal allowed a Viking massacre to destroy almost all of their clan and a magic spell forced them to sleep in their stone forms for a millennium until the castle could rise above the clouds.
 In 1994, a billonaire named David Xanatos purchased the castle and had it moved to the top of his skyscraper to fulfill the conditions of the spell. Waking up in modern day Manhattan, the gargoyles must adapt to this new world as they protect the citizens of New York (most of whom don't even believe they exist) and face both new and old enemies with the help of their new human friend (and possible love interest for Goliath), NYPD detective Elisa Maza.
 
-![Gargroup.JPG](/https://web.archive.org/web/20060725165628im_/http://upload.wikimedia.org/wikipedia/en/5/52/Gargroup.JPG)  
+![Gargroup.JPG](/images/Gargroup.JPG)  
 **A screen shot from the Gargoyles television series.  
 Should be fair use.**
 Gargoyles in medieval Scotland didn't have names, as it wasn't their custom. Goliath only had one because it was given to him by Prince Malcolm. In the modern world they find that having names would make things easier for their humans friends (particularly Elisa), so the five choose names from New York landmarks.
@@ -238,7 +188,7 @@ Whereas the Borg as a plot concept had been heavily used in the Star Trek shows 
 * [Sheela Na Gig](/)
 * [Hunky Punk](/)
 
-![Notre_dame-paris-view.jpg](/https://web.archive.org/web/20060725165628im_/http://upload.wikimedia.org/wikipedia/commons/e/e4/Notre_dame-paris-view.jpg)  
+![Notre_dame-paris-view.jpg](/images/Notre_dame-paris-view.jpg)  
 **View west over the city of Paris from the Notre Dame's Galerie des Chimères.  
 One of the famous gargoyles (chimères) of the cathedral can be seen at the  
 left of the photograph. The River Seine is visible at the bottom of the photograph. The  

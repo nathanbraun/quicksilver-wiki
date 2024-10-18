@@ -21,7 +21,7 @@ From the Quicksilver Metaweb.
 
 grabbed from various sources in Wikipedia
 
-![jj1.jpg](/https://web.archive.org/web/20060725221119im_/http://www.somersetgateway.com/images/sommag/june2000/jj1.jpg)  
+![jj1.jpg](/images/jj1.jpg)  
 **Judge Jeffreys**  
 Seems Neal had the bit about the eyebrows right
 

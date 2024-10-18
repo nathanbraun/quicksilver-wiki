@@ -12,26 +12,7 @@ He has written numerous other books, including the Rama novels and several seque
 There is an asteroid named in his honor, 4923 Clarke, as well as a species of Ceratopsian dinosaur, Serendipaceratops arthurcclarkei, discovered in Inverloch, Australia.
 
 
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 Biography](/)
-
-
-[1.1 Bibliography](/)
-
-
-[2 Related entries](/)
-
-
-[3 External links](/)
- |
-
-
 ### Biography
-
 
 
 [![ACCsmile.jpg](/web/20060725171715im_/http://www.metaweb.com/wiki/upload/5/57/ACCsmile.jpg)](accsmile-jpg)  

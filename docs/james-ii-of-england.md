@@ -28,7 +28,7 @@ From Wikipeda
 James II of England (James VII of Scotland), James Stuart, (October 14, 1633 - September 16, 1701), was a King of England, Scotland and Ireland. He succeeded on the throne on February 6, 1685. On December 11, 1688 he fled Britain, an event that effectively ended his reign there. The Parliament of England declared his abdication on January 28, 1689. The Estates of Scotland followed on April 11, 1689. He continued to reign in Ireland until the Battle of the Boyne on July 1, 1690. He never officially abdicated and continued to claim the thrones of England, Scotland and Ireland until his death on September 16, 1701. He was born at St. James's Palace and died in exile at Saint-Germain-en-Laye, near Paris, France.
 
 
-![James_ii_england.JPG](/https://web.archive.org/web/20060725172025im_/http://en.wikipedia.org/upload/a/a9/James_ii_england.JPG)
+![James_ii_england.JPG](/images/James_ii_england.JPG)
   
 **James II**  
 King of England, Ireland  

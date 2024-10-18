@@ -38,7 +38,7 @@ This is an intermediate page for **Isaac Newton**.
 
 
 There is tons of stuff on Newton online. Consider this a digest of the more offbeat ideas.
-![Newtn3_f.jpg](/https://web.archive.org/web/20060725165652im_/http://www.metaweb.com/wiki/upload/e/e9/Newtn3_f.jpg)  
+![Newtn3_f.jpg](/images/Newtn3_f.jpg)  
 **SIR ISAAC NEWTON**  
 ***a portrait***
 

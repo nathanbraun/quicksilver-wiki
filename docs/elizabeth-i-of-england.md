@@ -8,7 +8,7 @@ placeholder for **Elizabeth I of England**
 ### [Wikipedia: Elizabeth I of England](/)
 
 
-![Elizabeth_I_coronation.jpg](/https://web.archive.org/web/20060725172245im_/http://upload.wikimedia.org/wikipedia/en/a/ae/Elizabeth_I_coronation.jpg)  
+![Elizabeth_I_coronation.jpg](/images/Elizabeth_I_coronation.jpg)  
 **Coronation Painting  
 Queen Elizabeth I  
 Queen of England, Ireland and France (nominal)** **Elizabeth I** (September 7, 1533 - March 24, 1603) was Queen of England (reigned November 17, 1558 - March 24, 1603) and the last Tudor ruler. Elizabeth, sometimes called "The Virgin Queen", ruled a religiously divided England at the end of the 16th century. She is often considered one of the greatest British monarchs as she presided over an immense flourishing of culture and economics, and has been voted the "greatest Briton" of all time. The period of her reign is now known as the Elizabethan era of British history. 
@@ -105,70 +105,3 @@ Elizabeth is included in the top 10 of the 100 Greatest Britons poll sponsored b
 * **[Mary, Queen of Scots](/http-en2-wikipedia-org-wiki-mary-queen-of-scots-movie)**
 * **[Shakespeare in Love](/http-en-wikipedia-org-wiki-shakespeare-in-love)**
 * **[Orlando](/http-en2-wikipedia-org-wiki-orlando)**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[We are delicate. We do not delete your content.]
-[l\_sp4]
-
-
-[waterford crystal](/http-www-buddyprofile-com-viewprofile-php-username-waterfordcrystal)
-[swarovski crystal bead](/http-www-buddyprofile-com-viewprofile-php-username-swarovskicrystal)
-[mesothelioma lawsuits](/http-www-buddyprofile-com-viewprofile-php-username-mesotheliomalawsuits)
-[mesothelioma symptoms](/http-www-buddyprofile-com-viewprofile-php-username-mesotheliomasymptoms)
-[mesothelioma diagnosis](/http-www-buddyprofile-com-viewprofile-php-username-mesotheliomadiag)
-[wacoal bras](/http-www-buddyprofile-com-viewprofile-php-username-wacoalbras)
-[teen bra](/http-www-buddyprofile-com-viewprofile-php-username-teenbra)
-[unsecured signature loan](/http-www-buddyprofile-com-viewprofile-php-username-unsecuredloan)
-[Countrywide Home Loans](/http-www-buddyprofile-com-viewprofile-php-username-homeloans)
-[Formal Prom Dresses](/http-blog-moddingplanet-it-w-formalpromdresses)
-[Sexy Prom Dress](/http-blog-moddingplanet-it-w-sexypromdress)
-[cocktail dresses](/http-blog-moddingplanet-it-w-cocktaildresses)
-[TMobile](/http-www-buddyprofile-com-viewprofile-php-username-telmobile)
-[water softener](/http-www-buddyprofile-com-viewprofile-php-username-watersoftener)
-[tankless water heater](/http-www-buddyprofile-com-viewprofile-php-username-tanklesswaterheater)
-[rockport shoes](/http-www-buddyprofile-com-viewprofile-php-username-rockportshoes)
-[reverse osmosis water filter](/http-www-buddyprofile-com-viewprofile-php-username-osmosiswaterfilter)
-[merrell shoes](/http-www-buddyprofile-com-viewprofile-php-username-merrellshoes)
-[oscar dresses](/http-www-buddyprofile-com-viewprofile-php-username-oscardresses)
-[easter dresses](/http-www-buddyprofile-com-viewprofile-php-username-easterdresses)
-[flyfone voip](/http-flyfone-blox-pl-resource-flyfonevoip-htm)
-[plus size prom dresses](/http-www-buddyprofile-com-viewprofile-php-username-plussizepromdresses)
-[discount prom dresses](/http-www-buddyprofile-com-viewprofile-php-username-discountpromdresses)
-[Hooters Casino Las Vegas](/http-blog-moddingplanet-it-w-hooterscasinolas)
-[grand casino mille lacs](/http-blog-moddingplanet-it-w-grandcasinomille)
-[las vegas casino coupons](/http-blog-moddingplanet-it-w-lasvegascasino)
-[online poker aide](/http-blog-moddingplanet-it-w-onlinepokeraide)
-[pechanga casino](/http-www-donx-de-blog-pechangacasino)
-[grand victoria casino](/http-www-donx-de-blog-grandvictoriacasino)
-[ball gowns](/http-www-donx-de-blog-ballgowns)
-[rtg casino bonus](/http-www-privetparis-com-blog-rtgcasinobonus)
-
-[rtg casino bonus](/http-blog-moddingplanet-it-w-rtgcasinobonus)
-[grand casino coushatta](/http-blog-moddingplanet-it-w-grandcasinocoushat)
-[grand casino hinckley](/http-blog-moddingplanet-it-w-grandcasinohinckle)
-[isle of capri casino](/http-blog-moddingplanet-it-w-isleofcapricasino)
-[mohegan sun casino](/http-blog-moddingplanet-it-w-mohegansuncasino)
-[pala casino](/http-blog-moddingplanet-it-w-palacasino)
-[roulette wheels](/http-blog-moddingplanet-it-w-roulettewheels)
-[winstar casino](/http-blog-moddingplanet-it-w-winstarcasino)
-[Cheap Prom Dresses](/http-blog-moddingplanet-it-w-cheappromdresses)
-[informal wedding dresses](/http-blog-moddingplanet-it-w-informalweddingdre)
-[oscar dresses](/http-blog-moddingplanet-it-w-oscardresses)
-[evening gowns](/http-blog-moddingplanet-it-w-eveninggowns)

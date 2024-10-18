@@ -36,7 +36,7 @@ This is an intermediate page for
 
 
 Robert Hooke (July 18, 1635 - March 3, 1703) was one of the greatest experimental scientists of the seventeenth century, and hence one of the key figures in the Scientific revolution.
-![Hookeyoungmtwb.jpg](/https://web.archive.org/web/20060725165648im_/http://www.metaweb.com/wiki/upload/5/5c/Hookeyoungmtwb.jpg)
+![Hookeyoungmtwb.jpg](/images/Hookeyoungmtwb.jpg)
   
 **Robert Hooke  
 Based on the Recently Found  
@@ -53,7 +53,7 @@ Robert Hooke also achieved fame as the chief assistant of [Christopher Wren](/ch
 The other importance of **Micrographia** is that it is the **first scientific text** published in **English** and not **Latin**. The image below is a photo of the **flea** seen in [Quicksilver](/stephenson-neal-quicksilver) and a replica of the compound microscope Hooke used to observe the specimens illustrated in Micrographia. There is a lens at either end of the instrument and a third inside the barrel. The bone flea-glass telescope performs both as a telescope and a microscope. When the telescope tube is unscrewed a simple microscope, or flea-glass, is revealed. By placing a specimen on the pin, it can be magnified using the small lens. This method of observation was also used by Hooke when making his drawings for Micrographia.
 
 Micrographia contains observations made with the aid of magnifying lenses; some of these on very small things, some on astronomical bodies. Hooke's image of a flea (justly so - as we can all see here or in Neal's book) is famous; perhaps less well-known is his invention of the term 'cell' in a biological context as a result of his studies of cork. Micrographia includes a series of observations of lunar craters, and his speculation as to the origin of these features. [Micrographia Restaurata](/http-www-roberthooke-org-uk-rest2-htm) is a condensed version published in 1745; it has briefer explanations, but has all the figures, nearly all of which were printed from Hooke's original plates.
-![Flea-%26-glass.jpg](/https://web.archive.org/web/20060725165648im_/http://www.metaweb.com/wiki/upload/d/d0/Flea-%26-glass.jpg)  
+![Flea-%26-glass.jpg](/images/Flea-%26-glass.jpg)  
 
 **A flea from Micrographia with a replica of Robert Hookes compound microscope**  
 (based on an original dating from about 1665) 

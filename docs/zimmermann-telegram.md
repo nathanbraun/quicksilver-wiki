@@ -22,14 +22,14 @@ Although the telegram began by stating that Germany was most interested in maint
 
 German submarines had previously attacked US ships near England, so the telegram was not the only cause of the war; it was, however, critical for US public opinion. It was perceived as especially perfidious that the telegram was first transferred from the US embassy in Berlin to the German embassy in Washington before being passed on to Mexico. Once the American public believed the telegram to be real, it became all but inevitable that the US would join the Great War. 
 
-![Ztel1b.jpg](/https://web.archive.org/web/20060725221938im_/http://en.wikipedia.org/upload/c/ce/Ztel1b.jpg)  
+![Ztel1b.jpg](/images/Ztel1b.jpg)  
 
 *The Zimmermann telegram as it was sent from the German ambassador in Washington to Mexico. Every word was encrypted into a four or five digit number, using a codebook.  
 
-![Ztel2.jpg](/https://web.archive.org/web/20060725221938im_/http://en.wikipedia.org/upload/1/14/Ztel2.jpg)  
+![Ztel2.jpg](/images/Ztel2.jpg)  
 
 The telegram as decrypted by the British Naval Intelligence codebreakers. The word Arizona was not in the German codebook and was therefore split into smaller parts.  
 
-![Zimmermann-telegramm-offen.jpg](/https://web.archive.org/web/20060725221938im_/http://en.wikipedia.org/upload/7/7e/Zimmermann-telegramm-offen.jpg)  
+![Zimmermann-telegramm-offen.jpg](/images/Zimmermann-telegramm-offen.jpg)  
 
 The telegram, completely decrypted and translated.*

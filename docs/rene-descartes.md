@@ -38,7 +38,7 @@ From Wikipedia, the free encyclopedia.
 **René Descartes** ( March 31 ,1596 -February 11 ,1650 ), also known as **Cartesius**, worked as a philosopher and mathematician. While most notable for his groundbreaking work in philosophy, he has achieved wide fame as the inventor of the Cartesian coordinate system, which influenced the development of modern calculus.
 
 Descartes, sometimes called *the founder of modern philosophy* and the *Father of Modern Mathematics*, ranks as one of the most important and influential thinkers in human history. He also inspired his contemporaries and following generations of philosophers, leading them to form what we know today as **Continental Rationalism**, a philosophical position in 17th and 18th century Europe. 
-![Descartes.jpg](/https://web.archive.org/web/20060725223420im_/http://en.wikipedia.org/upload/9/99/Descartes.jpg)  
+![Descartes.jpg](/images/Descartes.jpg)  
 René Descartes 
 
 ### Descartes' Life

@@ -6,28 +6,6 @@ From the Quicksilver Metaweb.
 While the Metaweb runs on MediaWiki, the same software as Wikipedia, and so has a similar appearance, the two projects have different philosophies and goals. This page is a summary of the major differences.
 
 
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 Neutral point of view only (W) vs essays and neutral point of view (M)](/)
-
-
-[1.1 Authored pages](/)
-[1.2 Intermediate pages](/)
-
-
-[2 Single entry per topic (W) vs multiple entries per topic (M)](/) 
-
-
-[3 All entries collaboratively edited (W) vs typical entry edited only by author (M)](/)
-
-
-[4 Goal: encyclopedia (W) vs goal: structured, typed-link database (M)](/)
- |
-
-
 ## Neutral point of view only (W) vs essays and neutral point of view (M)
 
 

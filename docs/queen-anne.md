@@ -24,7 +24,7 @@ From the Quicksilver Metaweb.
 
 Queen Anne (February 6, 1665 - August 1, 1714) the first Monarch of the Kingdom of Great Britain, and also separately Queen of Ireland (March 8, 1702 - August 1, 1714), was the second daughter of King [James II](/james-ii) of England from his first, Protestant, wife. At the time her parents were Duke and Duchess of York, the monarchy had only recently been restored, and there was still every prospect of King [Charles II of England](/charles-ii-of-england), Anne's uncle, producing a male heir. 
 
-![Queen_anne_england.JPG](/https://web.archive.org/web/20060725221544im_/http://en.wikipedia.org/upload/f/f3/Queen_anne_england.JPG)  
+![Queen_anne_england.JPG](/images/Queen_anne_england.JPG)  
 **Anne**  
 Queen of England, Ireland and Scotland until 1707  
 Queen of Great Britain, Ireland from 1707

@@ -8,39 +8,6 @@ This is a place for discussing the Metaweb, its user interface, and naming conve
 The original discussions are on [Metaweb:Meta-Metaweb/archive](/metaweb-meta-metaweb-archive).
 
 
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 New front page](/) 
-
-
-[2 Recent links](/) 
-
-
-[3 Authored vs anonymous pages](/) 
-
-
-[4 Metaweb in the news](/) 
-
-
-[5 Printable version of all page annotations](/) 
-
-
-[6 All Pages Index](/)
-
-
-[7 Administrative issues](/)
-
-
-[8 Federation of Metawebs](/)
-
-
-[9 Featured Article of the Month](/)
- |
-
-
 ### New front page
 
 

@@ -29,7 +29,7 @@ The origins of the Royal Society lie in a group of men who began meeting around 
 
 [Wilkins](/john-wilkins) presented Thomas Spratt's *The History of the Royal Society of London for the Improving of Natural Knowledge* to their royal sponsor. 
 
-![Sprat.JPG](/https://web.archive.org/web/20060725165732im_/http://www.princeton.edu/~his291/Jpegs/Sprat.JPG)  
+![Sprat.JPG](/images/Sprat.JPG)  
 **Frontispiece of Pratt's The History of the Royal Society of London for the Improving of Natural Knowledge**  
 by Wenceslaus Hollar
 

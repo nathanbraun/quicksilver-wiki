@@ -3,28 +3,6 @@
 
 From the Quicksilver Metaweb.
 
-
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 Stephensonia](/) 
-
-
-[2 Basic Definition](/) 
-
-
-[3 Background](/) 
-
-
-[4 Related Entries](/)
-
-
-[5 External Links](/)
- |
-
-
 ## Stephensonia
 
 

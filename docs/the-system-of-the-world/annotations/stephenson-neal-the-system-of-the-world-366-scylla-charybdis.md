@@ -6,28 +6,6 @@ From the Quicksilver Metaweb.
 [Stephenson:Neal](/stephenson-neal):[The System of the World](/stephenson-neal-the-system-of-the-world):366:Scylla! Charybdis!
 
 
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 Stephensonia](/)
-
-
-[2 Wikipedia](/)
-
-
-[2.1 Scylla](/)
-
-[2.1.1 External link](/)
-
-[2.2 Charybdis](/)
-
-
-[3 References](/)
- |
-
-
 ## Stephensonia
 
 

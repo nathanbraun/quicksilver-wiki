@@ -26,7 +26,7 @@ From [Wikipedia](/http-en-wikipedia-org), the free encyclopedia.
 
 Willem III, Prince of Orange (November 14, 1650 - March 8, 1702), also known as King William III of England, Scotland, and Ireland, was a Prince of the House of Orange (November 14, 1650 - March 8, 1702), and Dutch Stadtholder (June 28, 1672 - March 8, 1702) and (jointly with his wife Mary II until her death) King of England, Scotland, and Ireland (February 13, 1689 - March 8, 1702). 
 
-![William_iii_england.JPG](/https://web.archive.org/web/20060725223342im_/http://en.wikipedia.org/upload/b/b6/William_iii_england.JPG)  
+![William_iii_england.JPG](/images/William_iii_england.JPG)  
 **King William III**
 
 William of Orange was born in The Hague eight days after the death of his father from smallpox. His mother was Mary Stuart [1](/http-www-guide2womenleaders-com-womeninpower-womeninpower1640-htm), daughter of Charles I of England. She died in 1660, also from smallpox. His grandfather was [William I of Orange](/william-i-of-orange), who led the Dutch forces to victory in the early stages of the [Eighty Years War](/eighty-years-war) for Dutch independence.

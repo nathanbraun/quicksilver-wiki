@@ -4,30 +4,6 @@
 From the Quicksilver Metaweb.
 
 
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 Stephensonia](/)
-
-
-[2 Living La Vida U-Stor-It](/)
-
-
-[3 Affordable Housing](/)
-
-
-[3.1 Specifications for Spacebox unit; 18 m² mode1](/)
-
-
-[4 Related Entries](/)
-
-
-[5 External Links](/)
- |
-
-
 ### Stephensonia
 
 

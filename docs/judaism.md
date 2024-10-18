@@ -34,7 +34,7 @@ A Jew who ceases practicing Judaism and becomes a non-practicing Jew is still re
 ### Holy Books
 
 
-![Shefa_Tal.png](/https://web.archive.org/web/20060725222818im_/http://upload.wikimedia.org/wikipedia/en/0/0b/Shefa_Tal.png)  
+![Shefa_Tal.png](/images/Shefa_Tal.png)  
 *These hands are divided into twenty-eight sections, each containing  
 a Hebrew letter. Twenty-eight, in Hebrew numbers, spells the word  
 Koach = strength. At the bottom of the hand, the two letters on each  

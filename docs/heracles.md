@@ -25,7 +25,7 @@ This [Cryptonomicon](/cryptonomicon) page is for Athena's protege - **Hercules**
 
 
 From Wikipedia, the free encyclopedia.
-![Hercules2.jpg](/https://web.archive.org/web/20060725171546im_/http://www.metaweb.com/wiki/upload/6/6a/Hercules2.jpg)  
+![Hercules2.jpg](/images/Hercules2.jpg)  
 ***Hercules***
 
 In Greek mythology, Heracles ("glory of Hera") was the demigod son of Zeus and Alcmene, the grand-daughter of Perseus and the wife of Amphitryon. In Roman mythology he was called Hercules. He was, arguably, the greatest of the mythical Greek heroes, best known for his superhuman strength and many stories are told of his life. The most famous group of stories tell of The Twelve Labors of Hercules. His Etruscan equivalent was Hercle, a son of Tinia and Uni. He was also identified with Heryshaf (Egyptian mythology).
@@ -83,7 +83,7 @@ After Heracles caught the Erymanthian Boar, he went back to Eurystheus who was f
 The fifth task set to Heracles was to clean the Augean stables in a single day. The reasoning behind this labor was twofold, firstly, all the previous labors only exalted Heracles in eyes of the people so this one would surely degrade him; secondly, the stables of Augeas (King of Elis) housed the single greatest number of cattle in the country and, having never been cleaned, this task was surely impossible. Heracles, however, rerouted two rivers (Alpheus and Peneus) and cleaned the stables quickly and easily. Augeas was irate because he had promised Heracles one-tenth of his land if the job was finished in one day. He refused to honor the agreement and was killed by Heracles, who gave his kingdom to Augeas' son, Phyleus, who had been exiled for supporting Heracles against his father. 
 
 In commemoration of this feat, Heracles founded the Olympic Games.
-![Hercules1.jpg](/https://web.archive.org/web/20060725171546im_/http://www.metaweb.com/wiki/upload/a/a3/Hercules1.jpg)  
+![Hercules1.jpg](/images/Hercules1.jpg)  
 **Hercules Fights The Hydra**
 
 #### Sixth Labor: the Stymphalian Birds
@@ -197,7 +197,7 @@ In Roman mythology, Acca Larentia was Hercules' mistress. She was married to Tar
 #### Modern and Ancient Intepretations
 
 
-![Mighty-Hercules-mw.jpg](/https://web.archive.org/web/20060725171546im_/http://www.metaweb.com/wiki/upload/3/31/Mighty-Hercules-mw.jpg)  
+![Mighty-Hercules-mw.jpg](/images/Mighty-Hercules-mw.jpg)  
 ***The Mighty Hercules***
 Later interpretations of Heracles' legend cast him as a wise leader and a good friend (many of the movie and TV adaptations cast him in this light, especially the recent syndicated TV series **[Hercules: The Legendary Journeys](/http-en-wikipedia-org-wiki-hercules-the-legendary-journeys)**, but in the original legend Heracles was as often foolish as wise; he was often seen as rash, egotistical, prone to wild berserker rages, and petty. While he was a champion and a great warrior, he was not above cheating and using any unfair trick to his advantage. This hardly put him on a level below the Greek gods themselves, as their faults were certainly on par with Heracles. However, he was renowned as having made the world safe for man by destroying many dangerous monsters, and he was also held up as an example for never having attacked first, but for having conquered all merely by defending himself when attacked. His legend endures, though often co-opted to suit the political fashion of the day. 
 

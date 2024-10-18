@@ -27,7 +27,7 @@ This is an [intermediate page](/metaweb-intermediate-page) for
 
 Charles II (May 29, 1630 - February 6, 1685) was King of England, Scotland and Ireland (proclaimed by monarchists January 30, 1649; assumed throne at the restoration May 29, 1660 - February 6, 1685). He was the eldest son of King Charles I of England and Queen Henrietta Maria. Although he took the title of Prince of Wales, he was never formally invested with it, partly because of the civil war that was brewing during his childhood and broke out violently in 1642. By the time his father, the King, was executed on January 30, 1649, Charles had only just reached maturity (though he already had considerable military experience). He had been forced to flee to France in 1646. 
 
-![Chas2.JPG](/https://web.archive.org/web/20060725172238im_/http://en.wikipedia.org/upload/6/61/Chas2.JPG)  
+![Chas2.JPG](/images/Chas2.JPG)  
 **Charles II**  
 King of England, Ireland and Scotland
 

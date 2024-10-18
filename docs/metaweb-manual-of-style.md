@@ -13,60 +13,6 @@ Please see [metaweb:Guide to Layout](/metaweb-guide-to-layout) for some simple s
 *Note to contributors to this article: We should keep this "manual" simple and straightforward, with anything TOO hairy (table styles, for instance) relegated to a linked page.* 
 
 
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 Article introduction](/) 
-
-
-[2 Headline style](/)
-
-
-[3 Caption style](/) 
-
-
-[4 Style for words as words](/)
-
-
-[5 Spelling style](/)
-
-
-[6 Punctuation style](/)
-
-
-[7 Capitalization of job titles](/)
-
-
-[8 Free link style](/)
-
-
-[9 "See also" and "Related topics" styles](/)
-
-
-[10 Related topics [This is an example, not a section of the article Metaweb:Manual of Style]](/)
-
-
-[11 URL and World Wide Web style](/)
-
-
-[12 Simple tabulation](/)
-
-
-[13 Miscellaneous](/)
-
-
-[14 When all else fails](/)
-
-
-[15 Don't get fancy](/)
-
-
-[16 For further information](/)
- |
-
-
 ## Article introduction
 
 

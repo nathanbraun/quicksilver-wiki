@@ -6,34 +6,6 @@ From the Quicksilver Metaweb.
 For general info on **redirects** in [MediaWiki](/mediawiki), see [meta:redirect](/) - part of the [MediaWiki User's Guide](/). This article discusses policy on the use and abuse of redirects on the English Wikipedia. Other MediaWiki projects may have different approaches.
 
 
-
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 What do we use redirects for?](/) 
-
-
-[1.1 Renamings and merges](/) 
-
-
-[2 When should we delete a redirect?](/) 
-
-
-[3 What needs to be done on pages that are targets of redirects?](/) 
-
-
-[4 Self-links, duplicate links](/) 
-
-
-[4.1 Double redirects](/) 
-
-
-[5 Related topics](/) 
- |
-
-
 ## What do we use redirects for?
 
 

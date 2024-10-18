@@ -11,7 +11,7 @@ the **Maids of Tauton**.
 
 
 The Monmouth Rebellion of 1685 was led by James, Duke of [Monmouth](/monmouth), an illegitimate son of King Charles II of England who claimed to be rightful heir to the throne and attempted to displace Charles's unpopular successor, the Roman Catholic [James II](/james-ii). James II sent a large troop of cavalry under Colonel Kirke to "teach the rebels a lesson". It was a lesson in barbarity and corruption.
-![James_ii_england.JPG](/https://web.archive.org/web/20060725221109im_/http://en.wikipedia.org/upload/a/a9/James_ii_england.JPG)  
+![James_ii_england.JPG](/images/James_ii_england.JPG)  
 **James the II**  
 Nasty and Ratlike to let Kirke and Jeffreys do the dirty work?
 

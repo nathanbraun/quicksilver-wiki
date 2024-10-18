@@ -20,7 +20,7 @@ From the Quicksilver Metaweb.
 
 **George I of Great Britain** (May 28, 1660 - June 11, 1727) was the first Hanoverian king of Great Britain (as well as King of Ireland) from August 1, 1714, to June 11, 1727. George, unlike most British kings in the past 300 years, did not speak English -- he spoke German and was ridiculed by many of his subjects for this and the harem of German women he maintained, earning him the nickname Geordie Whelps. 
 
-![George_i_england.JPG](/https://web.archive.org/web/20060725172606im_/http://en.wikipedia.org/upload/f/f2/George_i_england.JPG)  
+![George_i_england.JPG](/images/George_i_england.JPG)  
 **George I**  
 King of Great Britain, Ireland  
 Elector of Hanover

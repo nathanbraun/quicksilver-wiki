@@ -26,7 +26,7 @@ This is an intermediate page for
 from various Wikipedia sources
 
 **Oliver Cromwell** (April 25, 1599 - September 3, 1658) was an English politician; who, as Lord Protector following the overthrow of the British Monarchy, ruled England, Scotland and Ireland from December 16, 1653, until his death. 
-![Oliver_Cromwell.jpg](/https://web.archive.org/web/20060725165524im_/http://www.metaweb.com/wiki/upload/4/4e/Oliver_Cromwell.jpg)
+![Oliver_Cromwell.jpg](/images/Oliver_Cromwell.jpg)
 
 When the English Civil War broke out, Cromwell raised a cavalry troop which became the basis of his **Ironsides**[[1]](/http-en2-wikipedia-org-wiki-ironside). It was at the Battle of Marston Moor (1644) that Cromwell came to prominence. As a leader of the Parliamentarian cause, and commander of the **New Model Army** which he was instrumental in forming, he defeated King Charles I's forces, thus bringing to an end the absolute power of the English monarchy. 
 
@@ -50,7 +50,7 @@ Cromwell merged men from multiple regiments into a single one and provisioned th
 
 Prince Rupert, one of the King's followers, nicknamed them as Ironsides. However, this was more due to their ability to cut through opposing forces than their armor, as has been sometimes claimed; their armor was composed of leather jerkins. 
 
-Tactics of the New Model Army were based on fast hit-an-run attacks against the flanks of the enemy. Frontal attack would have meant exposing them to the Royalist artillery. Cromwell specifically forbade them to pursue a fleeing enemy and hold the battlefield.![Roundhead_knight.jpg](/https://web.archive.org/web/20060725165524im_/http://www.metaweb.com/wiki/upload/6/60/Roundhead_knight.jpg)  
+Tactics of the New Model Army were based on fast hit-an-run attacks against the flanks of the enemy. Frontal attack would have meant exposing them to the Royalist artillery. Cromwell specifically forbade them to pursue a fleeing enemy and hold the battlefield.![Roundhead_knight.jpg](/images/Roundhead_knight.jpg)  
 **Cromwell and his Kinghts  
 Ironsides and his Ironsides**
 
@@ -110,7 +110,7 @@ This should have been the end of the story but in 1661 Oliver Cromwell's body wa
 ### Modern View
 
  
-In 2003, Cromwell came 10th in a popular BBC poll of "Great Britons".![Oliver%26RichardMW.jpg](/https://web.archive.org/web/20060725165524im_/http://www.metaweb.com/wiki/upload/5/5b/Oliver%26RichardMW.jpg)  
+In 2003, Cromwell came 10th in a popular BBC poll of "Great Britons".![Oliver%26RichardMW.jpg](/images/Oliver%26RichardMW.jpg)  
 **Oliver and Richard Cromwell  
 The Lord Protector and his Son**
 

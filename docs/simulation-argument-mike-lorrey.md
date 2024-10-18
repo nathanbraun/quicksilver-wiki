@@ -3,36 +3,6 @@
 
 From the Quicksilver Metaweb.
 
-
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 Stephensonia](/)
-
-
-[2 The Simulation Argument, i.e The Matrix Metaphor](/)
-
-
-[2.1 Proposition 1](/)
-[2.2 Proposition 2](/)
-
-[2.2.1 It's Impossible](/)
-[2.2.2 It's Just Wrong](/)
-[2.2.3 It's Too Expensive](/)
-
-[2.3 Proposition 3](/)
-[2.4 But Does It Matter?](/)
-
-
-[3 Related Entries](/)
-
-
-[4 External Links](/)
- |
-
-
 ## Stephensonia
 
 

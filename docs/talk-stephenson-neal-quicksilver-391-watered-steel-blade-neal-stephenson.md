@@ -9,7 +9,7 @@ From the Quicksilver Metaweb.
   
 
 who has a this version
-![burton2.jpg](/https://web.archive.org/web/20060725230040im_/http://adamjones.freeservers.com/burton2.jpg)  
+![burton2.jpg](/images/burton2.jpg)  
 **Sir Richard Francis Burton (March 19, 1821 - October 19, 1890)  
 British consul, explorer, translator, and Orientalist was born at  
 Barham House, Hertfordshire, England.  

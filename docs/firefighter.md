@@ -8,39 +8,6 @@ From the Quicksilver Metaweb.
 Firefighting is the process and profession of extinguishing fires. Firefighting is important in urban areas where firefighters are on constant standby; in wildland areas, and on board ship. 
 
 
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 Fire-fighting Skills](/)
-
-
-[2 Prevention](/)
-
-
-[3 Self Preservation](/)
-
-
-[4 Rescue](/)
-
-
-[5 Property](/)
-
-
-[6 Fire Control](/)
-
-
-[7 Miscellanea](/)
-
-
-[8 Related Entries](/)
-
-
-[9 External links](/)
- |
-
-
 ### Fire-fighting Skills
 
  

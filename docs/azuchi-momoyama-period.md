@@ -21,7 +21,7 @@ This is an [intermediate page](/metaweb-intermediate-page) for the **Azuchi-Momo
 
 
 The Azuchi-Momoyama period is a division of Japanese history running from approximately 1568 to 1600. The period marks the governance of Oda Nobunaga and Toyotomi Hideyoshi in the capital of Kyoto. The name Azuchi-Momoyama comes from the names of their respective castles, Azuchi castle and Momoyama castle. 
-![Katana.jpg](/https://web.archive.org/web/20060725172343im_/http://en.wikipedia.org/upload/c/c3/Katana.jpg)
+![Katana.jpg](/images/Katana.jpg)
 
 The Azuchi-Momoyama period began out of the late Muromachi period, known also as the Sengoku period, in 1568 when the armies of Nobunaga entered Kyoto and reestablished the Ashikaga Shogunate under the 15th and last shogun Ashikaga Yoshiaki. The puppet shogunate lasted for 5 years until Yoshiaki was driven out of the capital in Kyoto by Nobunaga in 1573. 
 

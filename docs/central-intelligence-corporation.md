@@ -4,7 +4,7 @@
 (Redirected from [Central Intelligence Corporation](/central-intelligence-corporation))
 
 A [Cryptonomicon](/cryptonomicon) and [Snow Crash](/snow-crash) spanning page on **Intelligence Agencies**
-![IAO-logo.png](/https://web.archive.org/web/20060725171944im_/http://upload.wikimedia.org/wikipedia/en/d/d1/IAO-logo.png)  
+![IAO-logo.png](/images/IAO-logo.png)  
 **Information Awareness Office logo**  
 Note which part of the world the eye is looking at....
 ### Stephensonia

@@ -19,7 +19,7 @@ placeholder for **Athena**
 ### Community entry: Wikipedia: Athena
 
 
-![0434011770.02.LZZZZZZZ.jpg](/https://web.archive.org/web/20060725171441im_/http://images-eu.amazon.com/images/P/0434011770.02.LZZZZZZZ.jpg)  
+![0434011770.02.LZZZZZZZ.jpg](/images/0434011770.02.LZZZZZZZ.jpg)  
 Cover of [The System of the World](/the-system-of-the-world) (UK)  
 is a collage with a detail from  
 "The Goddess Athena Diguissing Ulysses  
@@ -56,7 +56,7 @@ In earlier, archaic portraits of Athena in vase-paintings, the goddess retains s
 ### Appellations
 
 
-![449px-Athena_type_Velletri.jpg](/https://web.archive.org/web/20060725171441im_/http://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Athena_type_Velletri.jpg/449px-Athena_type_Velletri.jpg)  
+![449px-Athena_type_Velletri.jpg](/images/449px-Athena_type_Velletri.jpg)  
 [Helmeted Athena](/http-upload-wikimedia-org-wikipedia-commons-b-b9-athena-type-velletri-jpg), of the Velletri type.  
 Roman copy (1st century CE) of a Greek original by Kresilas  
 dating from 430 BC (Louvre Museum) It is interesting to note that, while Homer's epithet ("glaucopis") for Athena is usually translated "grey-eyed," "owl-visaged" suggests her archaic images with the bird of night perched on her head. 

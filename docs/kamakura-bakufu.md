@@ -21,7 +21,7 @@ this is a page for the **Kamakura bakafu**
 From Wikipedia, the free encyclopedia. 
 
 The Kamakura shogunate (鎌倉幕府) was a feudal military dictatorship ruled by the shoguns of the Minamoto family from 1185 to 1333 AD. Based in Kamakura, Japan, this period draws its name from the capital and is known as the Kamakura period.
-![Katana.jpg](/https://web.archive.org/web/20060725223453im_/http://en.wikipedia.org/upload/c/c3/Katana.jpg)
+![Katana.jpg](/images/Katana.jpg)
 ### Shogunate
 
 

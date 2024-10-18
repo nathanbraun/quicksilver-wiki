@@ -18,7 +18,7 @@ From the Quicksilver Metaweb.
 ### [Wikipedia: Peter I of Russia](/)
 
 
-![Tsar_peter_i.jpg](/https://web.archive.org/web/20060725223330im_/http://www.metaweb.com/wiki/upload/c/c0/Tsar_peter_i.jpg)  
+![Tsar_peter_i.jpg](/images/Tsar_peter_i.jpg)  
 **Young Peter**
 **Peter I "The Great"** (May 30, [(O.S.)](/julian-calendar) = June 9, 1672 - January 28, [(O.S.)](/julian-calendar) = February 8, 1725), Tsar of Russia (from 1682) and first Emperor of the Russian Empire (1721 -25), is still acclaimed as one of the greatest leaders his country ever had. 
 
@@ -52,7 +52,7 @@ At the beginning of Peters reign, most Russians, including the nobility, were 
 12. Introduced Western dress, food, and customs
 
 
-After returning to Russia, where he reformed the coin along the lines shown him by Isaac Newton and squelched a rebellion of the *Streltsy* (the Russian imperial guard), Peter declared war on Sweden, which had seized Russian territory on the Baltic Sea more than 50 years before. This was an affront to Peter and a major obstacle to his dream of Russia as a sea power. But the war would prove long and difficult. Sweden was the dominant military power of eastern Europe and was led by the young but brilliant King Charles XII of Sweden, who was to prove to be a worthy adversary for Peter.![Pgreat.jpg](/https://web.archive.org/web/20060725223330im_/http://en.wikipedia.org/upload/f/f0/Pgreat.jpg)  
+After returning to Russia, where he reformed the coin along the lines shown him by Isaac Newton and squelched a rebellion of the *Streltsy* (the Russian imperial guard), Peter declared war on Sweden, which had seized Russian territory on the Baltic Sea more than 50 years before. This was an affront to Peter and a major obstacle to his dream of Russia as a sea power. But the war would prove long and difficult. Sweden was the dominant military power of eastern Europe and was led by the young but brilliant King Charles XII of Sweden, who was to prove to be a worthy adversary for Peter.![Pgreat.jpg](/images/Pgreat.jpg)  
 **TSAR PETER I**
 
 Russia turned out to be ill-prepared to fight the well-trained Swedes, and their first attempt at seizing the Baltic coast ended in disaster at the Battle of Narva in 1700. Charles then took the offensive against Peter and his ally, King Augustus II of Poland. For the next eight years, Swedes ravaged Poland and Saxony, finally forcing Augustus off the Polish throne. Finally, in 1708, Charles invaded Russia seeking to capture Moscow and depose Peter. 

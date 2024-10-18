@@ -19,7 +19,7 @@ This is a page for **Pearl Harbor**
 
 
 From Wikipedia, the free encyclopedia. 
-![Pearl_Harbor_aerial.jpg](/https://web.archive.org/web/20060725165616im_/http://en.wikipedia.org/upload/0/0b/Pearl_Harbor_aerial.jpg)  
+![Pearl_Harbor_aerial.jpg](/images/Pearl_Harbor_aerial.jpg)  
 **Aerial view of Pearl Harbor, Ford Island in center.  
  Arizona memorial is the small white blob just  
 below island, on the right side.**
@@ -35,7 +35,7 @@ The United States of America and the Hawaiian Kingdom signed the *Reciprocity Tr
 
 After annexation, Pearl Harbor was refitted to allow for more navy ships. Schofield Barracks, constructed in 1909 to house artillery, cavalry and infantry units, became the largest Army post of its day. 
 
-In 1917 Ford Island in the middle of Pearl Harbor was purchased for joint Army and Navy use in the development of military aviation. As Japanese presence increased in the Pacific, the US increased the ships' presence there.![PearlHarbor_Sm.jpg](/https://web.archive.org/web/20060725165616im_/http://upload.wikimedia.org/wikipedia/en/7/7a/PearlHarbor_Sm.jpg)  
+In 1917 Ford Island in the middle of Pearl Harbor was purchased for joint Army and Navy use in the development of military aviation. As Japanese presence increased in the Pacific, the US increased the ships' presence there.![PearlHarbor_Sm.jpg](/images/PearlHarbor_Sm.jpg)  
  **[Satellite image of Pearl Harbor](/http-en-wikipedia-org-upload-7-7a-pearlharbor-sm-jpg)**
 
 With tensions rising between the United States and Japan in 1940, the US began training operations at the base. Pearl Harbor was the site of a surprise attack on the United States by Japanese military forces on Dec. 7, 1941. Japanese ships and airplanes attacked the United States naval base at Pearl Harbor on the island of Oahu in Hawaii. The attack caused heavy casualties and destroyed much of the American Pacific Fleet. The attack also brought the United States into World War II. "Remember Pearl Harbor" became the rallying cry for the country. American participation was a crucial reason why the embattled Allied nations, including the United Kingdom (U.K.) and Soviet Union, turned the tide and defeated the Axis nations, headed by Japan and Germany. 
@@ -58,7 +58,7 @@ On November 26 a fleet of six [aircraft carriers](/http-en-wikipedia-org-wiki-ai
 
 The Japanese aircraft carriers were: *[Akagi](/http-en-wikipedia-org-japanese-aircraft-carrier-akagi), [Hiryu](/http-en-wikipedia-org-wiki-japanese-aircraft-carrier-hiryu), [Kaga](/http-en-wikipedia-org-wiki-japanese-aircraft-carrier-kaga), [Shokaku](/http-en-wikipedia-org-wiki-japanese-aircraft-carrier-shokaku), [Soryu](/http-en-wikipedia-org-wiki-japanese-aircraft-carrier-soryu), [Zuikaku](/http-en-wikipedia-org-japanese-aircraft-carrier-zuikaku)*. Together they had a total of 441 planes, including fighters, torpedo-bombers, dive-bombers, and fighter-bombers. The planes attacked in two waves, and Admiral Nagumo decided to forego a third attack in favor of withdrawing. Of these, 55 were lost during the battle.
 
-![USSArizonaPearlHarbor.jpg](/https://web.archive.org/web/20060725165616im_/http://en.wikipedia.org/upload/3/3a/USSArizonaPearlHarbor.jpg)  
+![USSArizonaPearlHarbor.jpg](/images/USSArizonaPearlHarbor.jpg)  
 *The USS* Arizona *burning after the Japanese attack on Pearl Harbor*
 
 ### Strategy
@@ -100,7 +100,7 @@ This battle, like the [Battle of Lexington and Concord](/http-en-wikipedia-org-b
 ### Aftermath
 
 
-Despite the perception of this battle as a devastating blow to America, only five ships were permanently lost to the Navy. These were the battleships [USS *Arizona*](/http-en-wikipedia-org-wiki-uss-arizona-bb-39), [USS *Oklahoma*](/http-en-wikipedia-org-wiki-uss-oklahoma-bb-37), the old target ship [USS *Utah*](/http-en-wikipedia-org-wiki-uss-utah-bb-31), and the destroyers [USS *Cassin*](/http-en-wikipedia-org-wiki-uss-cassin-dd-372) and [USS *Downes*](/http-en-wikipedia-org-uss-downes-dd-375); nevertheless, much usable material was salvaged from them, including the two aft main turrets from the *Arizona*. Four ships sunk during the attack were later raised and returned to duty, including the battleships [*USS California*](/http-en-wikipedia-org-wiki-uss-california-bb-44), [USS *West Virginia*](/http-en-wikipedia-org-wiki-uss-west-virginia-bb-48) and [USS *Nevada*](/http-en-wikipedia-org-wiki-uss-nevada-bb-36). Of the 22 Japanese ships that took part in the attack, only one survived the war.![Uss_utah_bb_capsizing.jpg](/https://web.archive.org/web/20060725165616im_/http://en.wikipedia.org/upload/f/fd/Uss_utah_bb_capsizing.jpg)  
+Despite the perception of this battle as a devastating blow to America, only five ships were permanently lost to the Navy. These were the battleships [USS *Arizona*](/http-en-wikipedia-org-wiki-uss-arizona-bb-39), [USS *Oklahoma*](/http-en-wikipedia-org-wiki-uss-oklahoma-bb-37), the old target ship [USS *Utah*](/http-en-wikipedia-org-wiki-uss-utah-bb-31), and the destroyers [USS *Cassin*](/http-en-wikipedia-org-wiki-uss-cassin-dd-372) and [USS *Downes*](/http-en-wikipedia-org-uss-downes-dd-375); nevertheless, much usable material was salvaged from them, including the two aft main turrets from the *Arizona*. Four ships sunk during the attack were later raised and returned to duty, including the battleships [*USS California*](/http-en-wikipedia-org-wiki-uss-california-bb-44), [USS *West Virginia*](/http-en-wikipedia-org-wiki-uss-west-virginia-bb-48) and [USS *Nevada*](/http-en-wikipedia-org-wiki-uss-nevada-bb-36). Of the 22 Japanese ships that took part in the attack, only one survived the war.![Uss_utah_bb_capsizing.jpg](/images/Uss_utah_bb_capsizing.jpg)  
 **The USS Utah Capsizing During  
 The Attack On Pearl Harbor  
 Public domain photo from the [NHC](/http-www-history-navy-mil)**

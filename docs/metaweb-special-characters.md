@@ -23,39 +23,6 @@ Generally speaking, Western European languages such as Spanish, French, and Germ
 For the purpose of searching, a word with a special character can best be written using the first method. If the second method is used a word like Odiliënberg can only be found by searching for Odili, euml and/or nberg; this is actually a bug that should be fixed -- the entities should be folded into their raw character equivalents so all searches on them are equivalent. See also [Wikipedia:Searching](/wikipedia-searching).
 
 
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 ISO-8859-1 Characters](/) 
-
-
-[1.1 Unsafe characters](/) 
-
-
-[2 Possibly usable non-ISO characters](/) 
-
-
-[2.1 Typeset-style Punctuation](/) 
-
-
-[3 Greek letters and math symbols](/) 
-
-
-[4 Other common symbols](/) 
-
-
-[5 Unicode](/) 
-
-
-[6 Advanced Entities](/) 
-
-
-[7 CJK characters](/)
- |
-
-
 ## ISO-8859-1 Characters
 
 

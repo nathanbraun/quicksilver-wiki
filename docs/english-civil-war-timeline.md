@@ -21,7 +21,7 @@ This is an intermediate page for
 
 
 The **English Civil War**[[1]](/http-en-wikipedia-org-wiki-english-civil-war) broke out in 1642, largely as a result of an ongoing series of conflicts between the then King [Charles I](/charles-i) and Parliament. The Parliamentarian army was commanded by [Oliver Cromwell](/oliver-cromwell), which after much bloodshed and destruction, was ultimately victorious. The capture and subsequent trial of Charles I led to his execution by beheading in January 1649 at Whitehall Gate in London.
-![Parliment.horseMW.jpg](/https://web.archive.org/web/20060725171836im_/http://www.metaweb.com/wiki/upload/c/c0/Parliment.horseMW.jpg)  
+![Parliment.horseMW.jpg](/images/Parliment.horseMW.jpg)  
 Lord Protector Cromwell & Parliment Horse Guard
 
 ### 1642

@@ -48,7 +48,7 @@ my page on **Daniel**
 ### Daniel in the Lions' Den
 
 
-Daniel has no shortage of people with mad plans for his future. He was bred to assist with the **Armegeddon** and **Revelation** that his father [Drake Waterhouse](/stephenson-neal-quicksilver-drake-waterhouse) *mathematically* expected in the year 1666.![Daniel-WaterhouseMW.jpg](/https://web.archive.org/web/20060725172309im_/http://www.metaweb.com/wiki/upload/a/a8/Daniel-WaterhouseMW.jpg)  
+Daniel has no shortage of people with mad plans for his future. He was bred to assist with the **Armegeddon** and **Revelation** that his father [Drake Waterhouse](/stephenson-neal-quicksilver-drake-waterhouse) *mathematically* expected in the year 1666.![Daniel-WaterhouseMW.jpg](/images/Daniel-WaterhouseMW.jpg)  
 **DANIEL WATERHOUSE**  
 **as I see the man in his lab clothes  
 Leather Gloves & Apron**

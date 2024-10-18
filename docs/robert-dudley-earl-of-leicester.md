@@ -17,7 +17,7 @@ this is an intermediate page for
 From Wikipedia, the free encyclopedia. 
 
 Robert Dudley, Earl of Leicester, (circa 1532 - 1588) was the long-standing favourite of Queen Elizabeth I of England and almost became her husband. 
-![Dudley%26Glorianna-web.jpg](/https://web.archive.org/web/20060725165621im_/http://www.metaweb.com/wiki/upload/3/3f/Dudley%26Glorianna-web.jpg)  
+![Dudley%26Glorianna-web.jpg](/images/Dudley%26Glorianna-web.jpg)  
 
 Robert Dudley, Earl of Leicester and Elizabeth I aged 14
 

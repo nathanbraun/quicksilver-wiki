@@ -9,7 +9,7 @@ A page for **Faith Waterhouse**
 
 *Following where the caduceus is stinks of Stephensonia ...*
 
-![Silver-caduceus-hairpin.jpg](/https://web.archive.org/web/20060725222831im_/http://www.metaweb.com/wiki/upload/2/2c/Silver-caduceus-hairpin.jpg)  
+![Silver-caduceus-hairpin.jpg](/images/Silver-caduceus-hairpin.jpg)  
 **Some Faint Idea of What  
 The Hairpin May Appear Like**
 

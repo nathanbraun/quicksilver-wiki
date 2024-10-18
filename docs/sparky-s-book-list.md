@@ -4,16 +4,16 @@
 From the Quicksilver Metaweb.
 
 
-![Avatar2.jpg](/https://web.archive.org/web/20060725235329im_/http://www.metaweb.com/wiki/upload/e/e8/Avatar2.jpg) ![SparkySnapTee.jpg](/https://web.archive.org/web/20060725235329im_/http://www.metaweb.com/wiki/upload/a/a0/SparkySnapTee.jpg) 
+![Avatar2.jpg](/images/Avatar2.jpg) ![SparkySnapTee.jpg](/images/SparkySnapTee.jpg) 
 Sparky Today  
 
-![MT04984MW.jpg](/https://web.archive.org/web/20060725235329im_/http://www.metaweb.com/wiki/upload/4/40/MT04984MW.jpg) ![Hiromi_Miho.jpg](/https://web.archive.org/web/20060725235329im_/http://www.metaweb.com/wiki/upload/3/30/Hiromi_Miho.jpg) 
+![MT04984MW.jpg](/images/MT04984MW.jpg) ![Hiromi_Miho.jpg](/images/Hiromi_Miho.jpg) 
 The spouse  
 
-![Butaban.gif](/https://web.archive.org/web/20060725235329im_/http://www.metaweb.com/wiki/upload/c/c0/Butaban.gif) [the plane of my dreams ...](/http-porco-anime-ru)
-![Porco-and-planeMT.jpg](/https://web.archive.org/web/20060725235329im_/http://www.metaweb.com/wiki/upload/3/38/Porco-and-planeMT.jpg)  
+![Butaban.gif](/images/Butaban.gif) [the plane of my dreams ...](/http-porco-anime-ru)
+![Porco-and-planeMT.jpg](/images/Porco-and-planeMT.jpg)  
 
-![MrMuffinTrike.jpg](/https://web.archive.org/web/20060725235329im_/http://www.metaweb.com/wiki/upload/b/ba/MrMuffinTrike.jpg)  
+![MrMuffinTrike.jpg](/images/MrMuffinTrike.jpg)  
 
 ### Recommendations by others
 
@@ -76,8 +76,8 @@ Can't find images of the volume 2 hardcover
 [ISBN 193226504X](/) Heroes & Monsters: The Unofficial Companion to the League of Extraordinary Gentlemen  
 
 
-![1563898586.01.LZZZZZZZ.jpg](/https://web.archive.org/web/20060725235329im_/http://images.amazon.com/images/P/1563898586.01.LZZZZZZZ.jpg)
-![193226504X.01.LZZZZZZZ.jpg](/https://web.archive.org/web/20060725235329im_/http://images.amazon.com/images/P/193226504X.01.LZZZZZZZ.jpg)
+![1563898586.01.LZZZZZZZ.jpg](/images/1563898586.01.LZZZZZZZ.jpg)
+![193226504X.01.LZZZZZZZ.jpg](/images/193226504X.01.LZZZZZZZ.jpg)
 
 ```
  
@@ -126,13 +126,13 @@ Please visit [Jess Online](/http-www-geocities-com-athens-olympus-7160-league1-h
 **Odd & Ends**: Google "masonspeak" and tell me if you find something different that what I did. Colin Bruce (by way of Sherlock Holmes) explores Einstein in The Strange Case of Mrs. Hudson's Cat is a help to understand the end of the Newtonian Universe; now known under a new title -- The Einstein Paradox And Other Science Mysteries Solved By Sherlock Holmes.  
 
 
-![1038026228_LargoRes.jpg](/https://web.archive.org/web/20060725235329im_/http://images.quizilla.com/A/amethystheartkawi/1038026228_LargoRes.jpg)  
+![1038026228_LargoRes.jpg](/images/1038026228_LargoRes.jpg)  
 **brought to you by [Quizilla](/http-quizilla-com)**
 [Which MegaTokyo Character are you?](/http-quizilla-com-users-amethystheartkawi-quizzes-which-megatokyo-character-are-you)
 
 Putting edited stuff here for the moment.
 
-![MT04984MW.jpg](/https://web.archive.org/web/20060725235329im_/http://www.metaweb.com/wiki/upload/4/40/MT04984MW.jpg)  
+![MT04984MW.jpg](/images/MT04984MW.jpg)  
 **Go to [Megatokyo!](/http-www-megatokyo-com) now!  
 Miho is the Queen  
 of the undead...  
@@ -144,5 +144,5 @@ for it members
 Bigger image [here](/http-www-metaweb-com-wiki-upload-7-7e-mtmiho-jpg)**
 * [The Necrowombicom](/http-www-megatokyo-com-strips-0096-gif) - A [Megatokyo](/http-www-megatokyo-com) strip mining the same source.
 
-![Test.png](/https://web.archive.org/web/20060725235329im_/http://www.metaweb.com/wiki/upload/d/d9/Test.png)
-![John_Vernon.jpg](/https://web.archive.org/web/20060725235329im_/http://www.metaweb.com/wiki/upload/1/1c/John_Vernon.jpg)
+![Test.png](/images/Test.png)
+![John_Vernon.jpg](/images/John_Vernon.jpg)

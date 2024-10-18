@@ -19,7 +19,7 @@ This is a page for **Tokugawa Ieyasu** and the **Tokugawa Shogunate**
 ### [Tokugawa Ieyasu](/http-en-wikipedia-org-wiki-tokugawa-ieyasu)
 
 
-**Tokugawa Ieyasu** (徳川 家康 January 30, 1543 - June 1, 1616) was the most powerful man in Japan after Hideyoshi had died in 1598. Against his promises he did not respect Hideyoshi's successor Hideyori because he wanted to become the absolute ruler of Japan.![IeyasuMW.jpg](/https://web.archive.org/web/20060725223628im_/http://www.metaweb.com/wiki/upload/a/a2/IeyasuMW.jpg)  
+**Tokugawa Ieyasu** (徳川 家康 January 30, 1543 - June 1, 1616) was the most powerful man in Japan after Hideyoshi had died in 1598. Against his promises he did not respect Hideyoshi's successor Hideyori because he wanted to become the absolute ruler of Japan.![IeyasuMW.jpg](/images/IeyasuMW.jpg)  
 **Tokugawa Ieyasu  
 The [Napoleon](/http-en-wikipedia-org-wiki-napoleon-bonaparte) of Japan**
 
@@ -53,7 +53,7 @@ Ieyasu brought the whole country under tight control. He cleverly redistributed 
 
 Ieyasu continued to promote foreign trade. He established relations with the English and the Dutch. On the other hand, he enforced the suppression and persecution of [Christianity](/christianity) from 1614 on. 
 
-After the destruction of the Toyotomi clan in 1615 when Ieyasu captured [Osaka Castle](/http-en-wikipedia-org-wiki-osaka-castle) (大坂城 *Ôsakajô*), he and his successors had practically no rivals anymore, and peace prevailed throughout the Edo period. Therefore, the warriors (samurai) were educating themselves not only in the martial arts but also in literature, philosophy and the arts, e.g. the tea ceremony.![Osaka-castleMW.jpg](/https://web.archive.org/web/20060725223628im_/http://www.metaweb.com/wiki/upload/1/13/Osaka-castleMW.jpg)  
+After the destruction of the Toyotomi clan in 1615 when Ieyasu captured [Osaka Castle](/http-en-wikipedia-org-wiki-osaka-castle) (大坂城 *Ôsakajô*), he and his successors had practically no rivals anymore, and peace prevailed throughout the Edo period. Therefore, the warriors (samurai) were educating themselves not only in the martial arts but also in literature, philosophy and the arts, e.g. the tea ceremony.![Osaka-castleMW.jpg](/images/Osaka-castleMW.jpg)  
 **Osaka Castle**
 
 In 1633, shogun Iemitsu forbade travelling abroad and almost completely isolated Japan in 1639 by reducing the contacts to the outside world to very limited trade relations with China and the Netherlands in the port of Nagasaki. In addition, all foreign books were banned.
@@ -85,9 +85,9 @@ In 1867-68, the Tokugawa government fell because of heavy political pressure, an
 
 Tokugawa was enshrined in [Nikko](/http-en-wikipedia-org-wiki-nikko) (日光市; -shi) after his death. The city located in the mountains of Tochigi prefecture, Japan. It is a popular destination for Japanese tourists, housing his mausoleum (Nikko Toshogu), as well as the Futarasan Jinja shrine which dates to the year 767. There are also many famous hot springs (onsen) in the area. The mountains west of the city are part of Nikko National Park and contain some of the country's most spectacular waterfalls and scenic trails. Sargent (1894; *The Forest Flora of Japan*) recorded that a Daimyo who was too poor to offer a stone lantern at the funeral, requested instead to be allowed to plant an avenue of [Sugi](/http-en-wikipedia-org-wiki-sugi) - a large Japanese evergreen, 'that future visitors might be protected from the heat of the sun'. The offer was accepted; the avenue, which still exists, is over 65km (40 miles) long, and 'has not its equal in stately grandeur'. As of 2003, the city has an estimated population of 16,751 and a density of 52.19 persons per km². The total area is 320.98 km². The city was founded on February 1, 1954. 
 
-![250px-Nikko1.jpg](/https://web.archive.org/web/20060725223628im_/http://en.wikipedia.org/upload/thumb/b/ba/250px-Nikko1.jpg)
-![120px-Nikko3.jpg](/https://web.archive.org/web/20060725223628im_/http://en.wikipedia.org/upload/thumb/f/fb/120px-Nikko3.jpg)
-![250px-Nikko2.jpg](/https://web.archive.org/web/20060725223628im_/http://en.wikipedia.org/upload/thumb/b/bf/250px-Nikko2.jpg)
+![250px-Nikko1.jpg](/images/250px-Nikko1.jpg)
+![120px-Nikko3.jpg](/images/120px-Nikko3.jpg)
+![250px-Nikko2.jpg](/images/250px-Nikko2.jpg)
 
 
 ### References

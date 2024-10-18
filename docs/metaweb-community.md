@@ -6,24 +6,6 @@ From the Quicksilver Metaweb.
 This is in [Metaweb:intermediate form](/metaweb-intermediate-form).
 
 
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 authored entries](/) 
-
-
-[2 communal entry](/) 
-
-
-[3 related entries](/) 
-
-
-[4 external links](/) 
- |
-
-
 ## [authored entries](/metaweb-authored-entry)
 
 

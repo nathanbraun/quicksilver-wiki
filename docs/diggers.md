@@ -3,53 +3,6 @@
 
 From the Quicksilver Metaweb.
 
-
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 The Diggers, aka The "True Levellers"](/)
-
-
-[2 From Wikipedia:](/)
-
-
-[3 Historical background](/)
-
-
-[4 Theory](/)
-
-
-[5 Practice](/)
-
-
-[5.1 St. George's Hill near Cobham, Surrey](/)
-[5.2 Little Heath near Cobham, Surrey](/)
-[5.3 Wellingborough, Northamptonshire](/)
-[5.4 Iver, Buckinghamshire](/)
-[5.5 End of the Movement](/)
-
-
-[6 Writings](/)
-
-
-[7 Revival of the name Diggers](/)
-
-
-[8 Diggers influence on literature and popular culture](/)
-
-
-[9 Bibliography](/)
-
-
-[10 External links](/) 
-
-
-[11 Footnotes](/)
- |
-
-
 ## The Diggers, aka The "True Levellers"
 
 

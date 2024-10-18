@@ -42,7 +42,7 @@ This is the [Quicksilver](/quicksilver) page for **Benjamin Franklin**.
 
 Ben studied philosophy and science extensively. His practical experimentation lead to the development of uniquely Benjamin Franklin inventions. Such as: the chimney-on-the-bottom "Franklin Stove," bifocal eyeglasses, even a [Glass Harmonica](/http-en-wikipedia-org-wiki-glass-harmonica).
 
-![Benjaminfranklin.jpg](/https://web.archive.org/web/20060725165548im_/http://en.wikipedia.org/upload/9/96/Benjaminfranklin.jpg)  
+![Benjaminfranklin.jpg](/images/Benjaminfranklin.jpg)  
 
 Benjamin Franklin
 This musical instrument, the "armonica", was so intense that some regions outlawed it's use for fear that people would pass out and go into trances listening to it.
@@ -95,7 +95,7 @@ Franklin established two major fields of physical science, electricity and meteo
 As a printer and a publisher of a newspaper, Franklin frequented the farmers' markets in Philadelphia to gather news. One day Franklin inferred that reports of a storm elsewhere in Pennsylvania must be the storm that visited the Philadelphia area in recent days. This initiated the notion that some storms travel, eventually leading to the synoptic charts of dynamic meteorology, replacing sole dependence upon the charts of climatology. 
 
 In 1751 Franklin and Dr. Thomas Bond obtained a charter from the Pennsylvania legislature to establish a hospital. Pennsylvania Hospital was the first hospital in what was to become the United States of America.
-![Joinordie.gif](/https://web.archive.org/web/20060725165548im_/http://en.wikipedia.org/upload/f/f5/Joinordie.gif)  
+![Joinordie.gif](/images/Joinordie.gif)  
 **Political cartoon by Ben Franklin**  
  *This cartoon urged the colonies to join together  
  because of the French and Indian war*

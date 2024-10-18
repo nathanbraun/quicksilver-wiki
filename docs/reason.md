@@ -122,7 +122,7 @@ The GAU-8/A produced by General Dynamics Armament and Technical Products (GDATP)
 
 A **railgun** (not to be confused with a Gauss gun, which is another name for a [coilgun](/)), is a form of [gun](/) that converts electrical [energy](/) into [projectile](/) [kinetic energy](/kinetic-energy), rather than the more conventional [chemical](/) energy from an [explosive](/) [propellant](/).
 
-![MW-Rg_front_2.jpg](/https://web.archive.org/web/20060725221723im_/http://www.metaweb.com/wiki/upload/8/8a/MW-Rg_front_2.jpg)  
+![MW-Rg_front_2.jpg](/images/MW-Rg_front_2.jpg)  
 Homebrew Prototype RailgunRailguns utilize a magnetic force termed "[Lorentz force](/)" to propel an electrically conductive projectile that is initially part of the current path. The current flowing through the rails sets up a magnetic field between them and through the projectile perpendicularly to the current in the rail. This results in a mutual repulsion of the rails and the acceleration of the projectile along them.
 
 #### Theory and construction
@@ -132,7 +132,7 @@ Although conceptually simple, the operation of a railgun involves several factor
 
 A wire carrying an [electrical current](/), when in a [magnetic field](/), experiences a [force](/acceleration) [perpendicular](/) to the direction of the current and the direction of the magnetic field. This is the principle behind the operation of an [electric motor](/), where fixed [magnets](/) create a magnetic field, and a coil of wire is carried upon a shaft that is free to rotate. When electricity is applied to the coil of wire a current flows, causing it to experience a force due to the magnetic field; the wires of the coil are arranged such that all the forces on the wires act to make the shaft rotate, and so the motor runs.
 
-A railgun is even simpler than a motor. It consists of two [parallel](/) metal rails (hence the name) connected to an electrical [power supply](/). When a conductive projectile is inserted between the rails (from the end connected to the power supply), it completes the circuit. Electrical current runs from the [positive](/) terminal of the power supply up the positive rail, across the projectile, and down the [negative](/) rail back to the power supply again.![Railgun-DrBob.png](/https://web.archive.org/web/20060725221723im_/http://www.metaweb.com/wiki/upload/f/fd/Railgun-DrBob.png)  
+A railgun is even simpler than a motor. It consists of two [parallel](/) metal rails (hence the name) connected to an electrical [power supply](/). When a conductive projectile is inserted between the rails (from the end connected to the power supply), it completes the circuit. Electrical current runs from the [positive](/) terminal of the power supply up the positive rail, across the projectile, and down the [negative](/) rail back to the power supply again.![Railgun-DrBob.png](/images/Railgun-DrBob.png)  
 Schematic diagram of a railgun by WikiPedia's [DrBob](/http-en-wikipedia-org-wiki-user-drbob)
 
 This flow of current makes the railgun act like an [electromagnet](/), creating a powerful magnetic field in the region of the rails up to the position of the projectile. In accordance with the [right-hand rule](/), the created magnetic field circulates around each conductor. Since the current flows in opposite direction along each rail, the net magnetic field between the rails (**B**) is directed vertically. In combination with the current (**I**) flowing across the projectile, this produces a Lorentz force which accelerates the projectile along the rails. There are also forces acting on the rails attempting to push them apart, but since the rails are firmly mounted they cannot move. The projectile is able to slide up the rails away from the end with the power supply.
@@ -175,7 +175,7 @@ Also, railguns may be used to initiate [fusion](/) reactions, by firing pellets 
 #### Railguns in science fiction
 
 
-![MW_Eraser3.jpg](/https://web.archive.org/web/20060725221723im_/http://www.metaweb.com/wiki/upload/0/07/MW_Eraser3.jpg)  
+![MW_Eraser3.jpg](/images/MW_Eraser3.jpg)  
 Eraser's Mobile Railgun
 Railguns have started to appear in sci-fi and become a mainstream idea. However, they have not always been portrayed accurately.
 
@@ -195,7 +195,7 @@ In the video game, Halo 2, there are orbital MAC (Magnetically Accelerated Canno
 
 In Starsiege Tribes there are railguns, which are just modified versions of laser rifles, with different projectile than its design (It uses explosive bullets, not laser projectiles) and quite often is designed and programmed with another weapon attached to it.
 
-In the [anime](/) Gasaraki, railguns were mounted on robots. The projectile left a red streak and melted through everything it penetrates. In the anime [Gundam Seed](/), railguns (in some cases referred to as linear guns or gun launchers, though in the context of the series there seems to be little if any difference between them) of various sizes are commonly mounted on both space warships and smaller one-man machines called [mobile suits](/) and mobile armors. The projectile is typically animated as a yellow streak.![MWgame-railgun.jpg](/https://web.archive.org/web/20060725221723im_/http://www.metaweb.com/wiki/upload/f/fa/MWgame-railgun.jpg)  
+In the [anime](/) Gasaraki, railguns were mounted on robots. The projectile left a red streak and melted through everything it penetrates. In the anime [Gundam Seed](/), railguns (in some cases referred to as linear guns or gun launchers, though in the context of the series there seems to be little if any difference between them) of various sizes are commonly mounted on both space warships and smaller one-man machines called [mobile suits](/) and mobile armors. The projectile is typically animated as a yellow streak.![MWgame-railgun.jpg](/images/MWgame-railgun.jpg)  
 Quake III Railgun
 
 However, man-portable railguns will not be revolutionary weapons; if power supply technology ever lets us make a railgun supply small enough to be carried then rail-handguns will probably only be able to fire projectiles at speeds not much higher than currently achieved with chemical propellants. The simple reason is that the destructive power of a [handgun](/) or [long gun](/) is limited as much by [recoil](/) as anything else; we can quite happily build a handgun that fires 20 mm cannon shells, but you couldn't fire it without having your hand broken.

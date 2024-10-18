@@ -25,7 +25,7 @@ The **Black Frigate** was a *Meta-metaphor* for the funneling of genres in comic
 
 Real life Jack Kennedy was a sailor adrift at sea. In [Cryptonomicon](/cryptonomicon), being lost at sea, often without boat or hope *happens*.
 
-We first meet Dengo as an ex-miner become soldier *cum* poet unafraid of interaction with his *enemy* **[Bobby Shaftoe](/bobby-shaftoe)**. Going so far as to teach *haiku* to the *Alley Oop*-like Marine Raider.![Goto-DengoAF-MW.jpg](/https://web.archive.org/web/20060725171528im_/http://www.metaweb.com/wiki/upload/7/79/Goto-DengoAF-MW.jpg)  
+We first meet Dengo as an ex-miner become soldier *cum* poet unafraid of interaction with his *enemy* **[Bobby Shaftoe](/bobby-shaftoe)**. Going so far as to teach *haiku* to the *Alley Oop*-like Marine Raider.![Goto-DengoAF-MW.jpg](/images/Goto-DengoAF-MW.jpg)  
 **Takara's Japanese WW2  
 Infantryman**
 

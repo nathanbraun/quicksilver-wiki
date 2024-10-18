@@ -69,7 +69,7 @@ Over the years a large number of Chinese took up residency at the International 
 The Council was formally abolished twice. In July 1943 it was retroceded to the City Government of Shanghai, then in the hands of the pro-Japanese Wang Jingwei government, by its then Japanese leaders on the Council. Anglo-American influence had effectively ended after 8th December 1941, when Japanese troops entered and occupied the city. Although senior Allied personnel and councillors were removed from their posts, most Allied nationals working for the administration remained in their jobs until they were interned after February 1943. The Settlement was also returned to Chinese control in the Sino-British Friendship Treaty of February 1943 between Britain and the legitimate National Government of China. After the war a Liquidation Commission fitfully met to discuss the remaining details of the handover. The Council's headquarters building still stands in downtown Shanghai.
 [![Shanghai1.jpg](/web/20060725235315im_/http://www.metaweb.com/wiki/upload/d/dc/Shanghai1.jpg)](shanghai1-jpg)  
 **Map of Shanghai, 1933**
-![141779864_bce8f5f02b_o.jpg](/https://web.archive.org/web/20060725235315im_/http://static.flickr.com/49/141779864_bce8f5f02b_o.jpg)  
+![141779864_bce8f5f02b_o.jpg](/images/141779864_bce8f5f02b_o.jpg)  
 **What the above Map of Shanghai is based on.**
 Shanghai was then the biggest financial city in the Far East. Under the Republic of China, Shanghai was made a special city in 1927, and a municipality in May 1930. Shanghai was occupied by Japan in 1937 until its surrender in 1945. 
 
@@ -81,7 +81,7 @@ November 28, 1941 is the day U.S. Marines left Shanghai, the era of the China Ma
 ### Why Shanghai invokes Tintin
 
 
-![BlueLotusMW.jpg](/https://web.archive.org/web/20060725235315im_/http://www.metaweb.com/wiki/upload/c/cf/BlueLotusMW.jpg)  
+![BlueLotusMW.jpg](/images/BlueLotusMW.jpg)  
 **Tintin Became Political  
 With This Adventure**
 ***The Blue Lotus*** (originally *Le Lotus Bleu*) is a comic strip album in the [Tintin](/http-en-wikipedia-org-wiki-tintin) series by [Hergé](/http-en-wikipedia-org-wiki-hergé). It is the second half of a story, the first half being told in *[Cigars of the Pharaoh](/http-en-wikipedia-org-wiki-cigars-of-the-pharaoh)*. The Blue Lotus is generally considered to be a pivotal work in Hergé's carreer.
@@ -122,7 +122,7 @@ Oddly enough, according to [Tintin's Ideology](/http-www-eader-nl-onderzoek-tint
 ### Terry and the Pirates
 
 
-![TerryMW.jpg](/https://web.archive.org/web/20060725235315im_/http://www.metaweb.com/wiki/upload/e/ee/TerryMW.jpg)  
+![TerryMW.jpg](/images/TerryMW.jpg)  
 **Issue 23 of *Terry and the Pirates*  
 Adventure looms with Connie, Terry Lee,  
 Normandie Drake, Pat Ryan and Big Stoop**
@@ -140,7 +140,7 @@ In 1953, Canada Dry offered a "premium giveaway" (freebie) with a case of its gi
 
 
 If the Japanese treatment of Jews seems odd  know that an American Jew helped with financing their war against [Russia](/http-en-wikipedia-org-wiki-russo-japanese-war) in 1905. In 1919, White Russians introduced the Japanese to the book, "[The Protocols of the Elders of Zion](/http-en-wikipedia-org-wiki-the-protocols-of-the-elders-of-zion)." The Japanese called their plan for Jewish settlement "The Fugu Plan." "Fugu" is highly poisonous blowfish. After the toxin-containing organs are painstakingly removed, it is used as a food in Japan, and is considered an exquisite delicacy. If it is not prepared carefully, however, its poison can kill a person. Ten thousand displaced people were relocated to Shanghai during its implementation with two thousand Jews housed in the Kansai region. What the Japanese didn't know was there were already Jews in Shanghai who traveled the Silk Road 25 to 15 centuries earlier. There was a thriving community in Kobe of Japanese Jews. Today, only one member of the clan seems active.
-![SilkroadMW.jpg](/https://web.archive.org/web/20060725235315im_/http://www.metaweb.com/wiki/upload/d/db/SilkroadMW.jpg)  
+![SilkroadMW.jpg](/images/SilkroadMW.jpg)  
 **Route Nomad Jewish Traders Took East**  
 
 
@@ -162,7 +162,7 @@ A year before he died in 1986, Yad Vashem, the Holocaust Martyrs' and Heroes' Re
 ### Related entries
 
 
-![TintinandSnowyMW.jpg](/https://web.archive.org/web/20060725235315im_/http://www.metaweb.com/wiki/upload/3/3e/TintinandSnowyMW.jpg)  
+![TintinandSnowyMW.jpg](/images/TintinandSnowyMW.jpg)  
 **Tintin and Snowy**
 * [Avi Halaby](/avi-halaby)
 * [Judaism](/judaism)

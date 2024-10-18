@@ -27,7 +27,7 @@ This is an intermediate page for **Gabriel Goto** - one of ***the cabal of ten**
 ### Gabriel Goto
 
 
-![SagarifujiwaraMW.jpg](/https://web.archive.org/web/20060725172200im_/http://www.metaweb.com/wiki/upload/9/9b/SagarifujiwaraMW.jpg)  
+![SagarifujiwaraMW.jpg](/images/SagarifujiwaraMW.jpg)  
 
 ***Tachibana  
 *The Japanese Etrog****
@@ -53,7 +53,7 @@ Curious how [Christianity](/christianity) loses and then regains the fictional G
 ### [Judaism](/judaism) and [Shinto](/http-en-wikipedia-org-wiki-shinto)
 
 
-![JinmuMW.jpg](/https://web.archive.org/web/20060725172200im_/http://www.metaweb.com/wiki/upload/1/1a/JinmuMW.jpg)  
+![JinmuMW.jpg](/images/JinmuMW.jpg)  
 **Samurai**
 [Many of the traditional ceremonies in Japan](/http-www5-ocn-ne-jp-magi9-isracame-htm) seem to indicate that the Lost Tribes of Israel came to ancient Japan. There's a bit of a mystery here. Even [PBS](/http-www-pbs-org-wgbh-nova-israel-losttribes3-html-japan)'s NOVA has visited this idea. Some Japanese suspect the **Ark of the Covenant** is hidden in the Mount Aso area.  There are those who claim that the Mikado, the Japanese emperor, is a descendant of the Hebrew tribe of Gad. 'Mikado' recalls the Hebrew word for 'his majesty the king,' 'Malchuto'. 
 

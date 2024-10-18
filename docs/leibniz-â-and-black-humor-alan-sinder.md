@@ -34,7 +34,7 @@ We can see humor often degenerates to *the other guy' slipping on a banana peel*
 ### [The Funniest Joke in the World](/http-en-wikipedia-org-wiki-the-funniest-joke-in-the-world)
 
  
-From Wikipedia, the free encyclopedia.![ernestsc.jpg](/https://web.archive.org/web/20060725223337im_/http://www.intriguing.com/mp/_pictures/compdiff/ernestsc.jpg)  
+From Wikipedia, the free encyclopedia.![ernestsc.jpg](/images/ernestsc.jpg)  
 **Ernest Scribbler**
 
 **The Funniest Joke in the World** is a **[Monty Python](/http-en-wikipedia-org-wiki-monty-pythons-flying-circus)** sketch in which, during World War II, British scientist Ernest Scribbler creates the funniest joke in the world and then dies laughing.

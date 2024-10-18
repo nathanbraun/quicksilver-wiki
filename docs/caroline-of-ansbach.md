@@ -22,7 +22,7 @@ From Wikipedia mostly, the free encyclopedia
 Caroline of Ansbach (or Anspach)(Wilhelmine-Caroline of Brandenburg) was the queen consort of [King George II of Great Britain](/king-george-ii-of-great-britain) 1727 -1737.
 
 
-![CarolineAnspachweb.jpg](/https://web.archive.org/web/20060725171601im_/http://www.metaweb.com/wiki/upload/f/f0/CarolineAnspachweb.jpg)
+![CarolineAnspachweb.jpg](/images/CarolineAnspachweb.jpg)
   
 **Caroline of Ansbach**  
 Queen Consort to King George II of Great Britain

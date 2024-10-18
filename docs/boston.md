@@ -35,7 +35,7 @@ Map seem to possess details from [Sir Robert Dudley](/sir-robert-dudley)'s carto
 
 Native Americans had been living on the Boston peninsula for more than 2,000 years when Captain John Smith, famous for helping lead the settlement of Virginia to the south, sailed into the harbor in 1614. Smith mapped the area between Cape Ann to the north and Cape Cod to the south and called it New England. The *Indians* had called it Shawmut. John Smith named the largest river in the area, the Charles, after his Prince. In 1620, the Puritans, chased out of England for their religious beliefs, landed their ship, the Mayflower, in nearby Plymouth, and founded the first permanent European settlement in the Boston area. Founded in 1630, **Boston** is named for Boston, England, the town in Lincolnshire from which the Pilgrim Fathers originated, which in turn had been named after **Saint Botolph**, the patron saint of fishing. Boston grew rapidly and became wealthy as the primary port for ships bound to Great Britain and the West Indies from the colonies. During the first 200 years, the city was primarily composed of English [Puritans](/puritan).
 
-![Bostontoday.jpg](/https://web.archive.org/web/20060725171841im_/http://www.metaweb.com/wiki/upload/1/14/Bostontoday.jpg)  
+![Bostontoday.jpg](/images/Bostontoday.jpg)  
 
 Boston's Charles River Today
 

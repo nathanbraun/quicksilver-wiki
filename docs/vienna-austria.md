@@ -11,7 +11,7 @@ The **Battle of Vienna** (as distinct from the Siege of Vienna some hundred-fift
 
 The battle, which took place on September 12, 1683 pitted a large Austrian and German army of about 100,000 troops and their allies, a 30,000-man relief force under [Jan Sobieski](/http-en-wikipedia-org-wiki-john-iii-sobieski), King of [Poland](/http-en-wikipedia-org-wiki-poland), against their Turkish besiegers. The Turks, commanded by Pasha Kara Mustafa, numbered approximately 140,000 men, although a large portion of them played no part in the battle.
 
-![Sobieski_vsKaraMustafa.jpg](/https://web.archive.org/web/20060725223343im_/http://www.metaweb.com/wiki/upload/2/24/Sobieski_vsKaraMustafa.jpg)  
+![Sobieski_vsKaraMustafa.jpg](/images/Sobieski_vsKaraMustafa.jpg)  
 
 Jan III Sobieski versus Pasha Kara Mustafa
 

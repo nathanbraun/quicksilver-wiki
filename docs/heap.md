@@ -1,51 +1,8 @@
 
 # Stephenson:Neal:Cryptonomicon:401:HEAP?(Alan Sinder)
 
-(Redirected from [HEAP](/heap))
-
 This is the [Cryptonomicon](/cryptonomicon) page for **HEAP**.
-![MW-MTolerance.jpg](/https://web.archive.org/web/20060725171512im_/http://www.metaweb.com/wiki/upload/f/fb/MW-MTolerance.jpg)
-
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 Stephensonia](/)
-
-
-[2 Authored entries](/)
-
-
-[3 Simon Wiesenthal Center](/)
-
-
-[4 Wikipedia: Simon Wiesenthal](/)
-
-
-[5 Hillbilly Rifling a Kentucky Rifle Barrel](/)
-
-
-[6 For the Intelligent Rifler](/)
-
-
-[6.1 Easy Polygonal Rifling for the Home Machinist](/)
-
-
-[7 Unrifled Weapons](/)
-
-
-[7.1 Gyrojet Pistol](/)
-[7.2 Shotguns](/)
-[7.3 Unrifled military weapons](/)
-
-
-[8 Related entries](/)
-
-
-[9 External links](/)
- |
-
+![MW-MTolerance.jpg](/images/MW-MTolerance.jpg)
 
 ### Stephensonia
 
@@ -64,7 +21,7 @@ This is the [Cryptonomicon](/cryptonomicon) page for **HEAP**.
 ### Simon Wiesenthal Center
 
 
-![MH4mw.jpg](/https://web.archive.org/web/20060725171512im_/http://www.metaweb.com/wiki/upload/7/78/MH4mw.jpg)  
+![MH4mw.jpg](/images/MH4mw.jpg)  
 **Rabbi Marvin Hier**
 
 The Simon Wiesenthal Center is an international Jewish human rights organization dedicated to preserving the memory of the Holocaust by fostering tolerance and understanding through community involvement, educational outreach and social action. The Center confronts important contemporary issues including racism, antisemitism, terrorism and genocide and is accredited as an NGO both at the United Nations and UNESCO. With a membership of over 400,000 families, the Center is headquartered in Los Angeles and maintains offices in New York, Toronto, Miami, Jerusalem, Paris and Buenos Aires.
@@ -87,7 +44,7 @@ Several years ago Rabbi Hier keynoted an historic conference on antisemitism and
 
 
 Simon Wiesenthal, KBE (December 31, 1908  September 20, 2005), was an Austrian Nazi hunter. Wiesenthal dedicated most of his life to tracking down and gathering information on fugitive Nazi war criminals so that they could be brought to trial.
-![Simon_Wiesenthal.jpg](/https://web.archive.org/web/20060725171512im_/http://upload.wikimedia.org/wikipedia/en/7/76/Simon_Wiesenthal.jpg)  
+![Simon_Wiesenthal.jpg](/images/Simon_Wiesenthal.jpg)  
 **Simon Wiesenthal**
 
 Wiesenthal himself is a survivor of the Holocaust: He was interned in several concentration camps, but was liberated by American forces in 1945. In 1977, he established the Simon Wiesenthal Center, a Holocaust memorial agency named after himself, as well as a documentation center dedicated to tracking down Nazi war criminals.
@@ -105,7 +62,7 @@ The character of Yakov Liebermann in Ira Levin's novel The Boys from Brazil is m
 ### Hillbilly Rifling a Kentucky Rifle Barrel
 
 
-![logo1.gif](/https://web.archive.org/web/20060725171512im_/http://www.electricinca.com/56/images/logo1.gif)  
+![logo1.gif](/images/logo1.gif)  
 **Proto-HEAP types  
 like the  
  [Secret Admirers](/http-www-electricinca-com-56)  
@@ -196,7 +153,7 @@ Finally: you need to mill out the proper chamber dimensions. The SAAMI manual li
 #### Gyrojet Pistol
 
 
-![007YOLTposter.jpg](/https://web.archive.org/web/20060725171512im_/http://www.metaweb.com/wiki/upload/5/54/007YOLTposter.jpg)  
+![007YOLTposter.jpg](/images/007YOLTposter.jpg)  
 **Truly Few Attain the Level  
 of Cool, Boomer kids assocciate with  
 James Bond**

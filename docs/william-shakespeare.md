@@ -11,7 +11,7 @@ From Wikipedia
 
 William Shakespeare (baptized April 26, 1564 ([O.S.](/julian-calendar)) - April 23, 1616 (O.S.)) is considered by many to have been the greatest writer the English language has ever known. As a playwright, he wrote not only some of the most powerful tragedies, but also many of the funniest comedies ever to appear on an English stage.
 
-![Shakespeare.jpg](/https://web.archive.org/web/20060725232141im_/http://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg)  
+![Shakespeare.jpg](/images/Shakespeare.jpg)  
 **The Beard of Avon?**
 
 He also wrote 154 sonnets and several major poems, some of which are considered to be the most brilliant pieces of English literature ever written, because of Shakespeare's ability to rise beyond the narrative and describe the innermost and the most profound aspects of the human nature. Some of the most famous examples of his ability can be found in quotations from Shakespearean plays. He is believed to have written most of his works between 1585-1610, although the exact dates and chronology of the plays attributed to him are not accurately known.

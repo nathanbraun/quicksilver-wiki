@@ -4,32 +4,6 @@
 From the Quicksilver Metaweb.
 
 
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 Stephensonia](/)
-
-
-[2 Community Entry: Hoplite Battle Armor](/)
-
-
-[2.1 Exoskeleton](/)
-
-[2.1.1 Exoskeletons in modern and near-future technology](/)
-[2.1.2 Human exoskeletons in science fiction](/)
-
-[2.2 Body Armor](/)
-
-[2.2.1 Beyond Kevlar](/)
-
-
-
-[3 External Links](/)
- |
-
-
 ## Stephensonia
 
 

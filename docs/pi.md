@@ -7,7 +7,7 @@ This page will discuss **Pi.**
 ### Stephensonia
 
 
-![Letter-Pi-Serif.png](/https://web.archive.org/web/20060726000545im_/http://www.metaweb.com/wiki/upload/1/15/Letter-Pi-Serif.png)  
+![Letter-Pi-Serif.png](/images/Letter-Pi-Serif.png)  
 **The minuscule,  
 or lower-case, pi**
 *[Enoch Root](/enoch-root) found π to be entertainment. I've always used 22/7 as the way to describe Pi.*

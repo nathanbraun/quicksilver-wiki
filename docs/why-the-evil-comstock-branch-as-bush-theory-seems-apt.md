@@ -9,7 +9,7 @@ Let's consider this a [HEAP](/heap) orientated [Cryptonomicon](/cryptonomicon) a
 
 
 *It's all about fighting evil. But if you want to talk about Presidents and blowjobs instead I'll understand ...* 
-![header-1.gif](/https://web.archive.org/web/20060725221715im_/http://www.clamormagazine.org/images/header-1.gif)
+![header-1.gif](/images/header-1.gif)
 
 ## Toby Rogers' [Heir to the Holocaust: Prescott Bush, $1.5 million, and Auschwitz: how the Bush family wealth is linked to the holocaust](/http-www-clamormagazine-org-issues-14-feature3-shtml)
 
@@ -177,6 +177,6 @@ There is no question that the Bush family needs to donate at least $1.5 million 
 
 *Special thanks to John Loftus, Emmy winning journalist, author and current president of the Florida Holocaust Museum.*
 
-![header-2.gif](/https://web.archive.org/web/20060725221715im_/http://www.clamormagazine.org/images/header-2.gif)
-![header-3.gif](/https://web.archive.org/web/20060725221715im_/http://www.clamormagazine.org/images/header-3.gif)
-![header-4.gif](/https://web.archive.org/web/20060725221715im_/http://www.clamormagazine.org/images/header-4.gif)
+![header-2.gif](/images/header-2.gif)
+![header-3.gif](/images/header-3.gif)
+![header-4.gif](/images/header-4.gif)

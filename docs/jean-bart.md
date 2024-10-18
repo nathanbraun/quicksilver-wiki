@@ -23,7 +23,7 @@ This is [The Confusion](/the-confusion) page for **Jean Bart**
 ### [Wikipedia: Jean Bart](/http-en-wikipedia-org-wiki-jean-bart)
 
 
-**Jean Bart** (October 21, 1651 - April 27, 1702) was a French naval commander.![JbartMW.jpg](/https://web.archive.org/web/20060725172400im_/http://www.metaweb.com/wiki/upload/7/72/JbartMW.jpg)  
+**Jean Bart** (October 21, 1651 - April 27, 1702) was a French naval commander.![JbartMW.jpg](/images/JbartMW.jpg)  
 **Pirate Jean  
 Dunkirk's Beamish Boy**
 
@@ -65,7 +65,7 @@ Jean Bart's success was attributed to Dunkirk's numerous population of sailors w
 ### Fighting the Dutch 1672 -78
 
 
-Jean Bart was rapidly promoted. In 1674, he got his own ship "le roi David" . Colbert soon noticed his successes in fighting heavily armed Dutch naval ships, and in bringing home Dutch merchant vessels with cargoes of cacao beans, timber, hides, coal, and wine. He married a local inn-keeper's daughter, had a son, François, and by the end of the war was Dunkirk's most celebrated corsair with 81 prizes and a victory at the Battle of the Texel (1674) to his credit. ![BattleOfTexelSmall.jpeg](/https://web.archive.org/web/20060725172400im_/http://en.wikipedia.org/upload/c/c7/BattleOfTexelSmall.jpeg)  
+Jean Bart was rapidly promoted. In 1674, he got his own ship "le roi David" . Colbert soon noticed his successes in fighting heavily armed Dutch naval ships, and in bringing home Dutch merchant vessels with cargoes of cacao beans, timber, hides, coal, and wine. He married a local inn-keeper's daughter, had a son, François, and by the end of the war was Dunkirk's most celebrated corsair with 81 prizes and a victory at the Battle of the Texel (1674) to his credit. ![BattleOfTexelSmall.jpeg](/images/BattleOfTexelSmall.jpeg)  
 **The Battle at Texel  
 Willem van de Velde, 1683  
 [Click for a Larger Version](/http-en-wikipedia-org-upload-5-51-battleoftexel-jpeg)**
@@ -103,7 +103,7 @@ Louis entrusted Jean Bart with a fleet of light vessels which could skim over th
 ### End of Dunkirk as a Pirates' Nest
 
 
-Attacks from Dunkirk's corsairs so annoyed the English and Dutch, that when peace was made in the [Treaty of Utrecht](/treaties-of-utrecht) in 1713, they insisted that the fortifications were destroyed and the harbour filled in. France was not allowed to use Dunkirk as a naval base. The town was made into a desert, and the desperate inhabitants turned their seafaring skills back to deep-sea fishing. They built up the risky trade of sailing out to the North Sea cod shoals around Iceland.![MapDetailDunkirkMW.jpg](/https://web.archive.org/web/20060725172400im_/http://www.metaweb.com/wiki/upload/9/92/MapDetailDunkirkMW.jpg)  
+Attacks from Dunkirk's corsairs so annoyed the English and Dutch, that when peace was made in the [Treaty of Utrecht](/treaties-of-utrecht) in 1713, they insisted that the fortifications were destroyed and the harbour filled in. France was not allowed to use Dunkirk as a naval base. The town was made into a desert, and the desperate inhabitants turned their seafaring skills back to deep-sea fishing. They built up the risky trade of sailing out to the North Sea cod shoals around Iceland.![MapDetailDunkirkMW.jpg](/images/MapDetailDunkirkMW.jpg)  
 **A Detail From the Rhine Valley Map  
 With Dunkirk Highlighted**
 

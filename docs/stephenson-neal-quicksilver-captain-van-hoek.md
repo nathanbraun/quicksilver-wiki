@@ -27,7 +27,7 @@ This is an [intermediate page](/metaweb-intermediate-page) for
 
 Operator of a very high tech ship, Captain van Hoek amusingly possesses an interchangable prosthesis which is normally a hook. He can be mistaken for a stout boy of ten so he must be short of stature. He *might* be a Dutch byblow of the wee [Charles I](/charles-i-of-england) and thus the inspiration for the pirate "Captain Hook.[1](/http-en2-wikipedia-org-wiki-charles-i-of-england)" Which is rather ironic as he is a captain with very anti-pirate views forged some 20 years earlier. ***1690** was the start of the Golden Age of Piracy according to some; Many more feel The Treaty of [Utrecht](/utrecht) in 1713 started it. Those nations who did sign the treaty were promising not to charter 'privateers.'*
 
-![Dappa%26VanHoekMW.jpg](/https://web.archive.org/web/20060725222923im_/http://www.metaweb.com/wiki/upload/f/fe/Dappa%26VanHoekMW.jpg)  
+![Dappa%26VanHoekMW.jpg](/images/Dappa%26VanHoekMW.jpg)  
 
 **Dappa and the Captain make it happen  
 *One does wonder about Captain Crunch*  

@@ -26,7 +26,7 @@ This is the [Baroque Cycle](/baroque-cycle)'s [The System of the World](/the-sys
 
 
 **George Frideric Handel** (German Georg Friedrich Händel), (February 23, 1685 - April 14, 1759) was a German-born British Baroque music composer. His best-known work is *[Messiah](/http-en-wikipedia-org-wiki-messiah-handel)*, an oratorio set to texts from the King James Bible. It is customarily performed at Christmas time.
-![210px-Handel.jpg](/https://web.archive.org/web/20060725171754im_/http://upload.wikimedia.org/wikipedia/en/thumb/a/ae/210px-Handel.jpg)  
+![210px-Handel.jpg](/images/210px-Handel.jpg)  
  **[George Frideric Handel](/http-upload-wikimedia-org-wikipedia-en-5-5d-handel-jpg)  
 Close to [Queen Anne](/queen-anne)  
 and the Hanovers**

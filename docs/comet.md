@@ -17,7 +17,7 @@ Comets are thought of as debris leftover from the condensation of a solar nebula
 
 
 
-![Giotto_halley.jpg](/https://web.archive.org/web/20060725171115im_/http://en.wikipedia.org/upload/0/0e/Giotto_halley.jpg)  
+![Giotto_halley.jpg](/images/Giotto_halley.jpg)  
 
 *Comet Halley as taken with the Halley Multicolor Camera on the ESA mission Giotto. The nucleus is sunlit from the left, and several bright jets of gas and dust are visible.*
 

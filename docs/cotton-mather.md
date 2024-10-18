@@ -40,7 +40,7 @@ Mather was influential in early American science as well. In 1716, as the result
 
 Of Mather's three wives and fifteen children, only one wife and two children survived him. Mather was buried on Copp's Hill.
 
-![f0105s.jpg](/https://web.archive.org/web/20060725171950im_/http://www.loc.gov/exhibits/religion/f0105s.jpg)  
+![f0105s.jpg](/images/f0105s.jpg)  
 A Sermon by Cotton Mather
 
 ### Mather's Major Works By Date

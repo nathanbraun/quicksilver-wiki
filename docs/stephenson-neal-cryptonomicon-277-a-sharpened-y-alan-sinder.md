@@ -24,7 +24,7 @@ a page for the **giant lizard**
 
 The **Megalania Prisca** was a giantsized bulky monitor lizard. A reptile reaching 30 feet in length and weighing at least 1,000 pounds or more. The Komodo dragon is roughly the size of a lion, but megalania was bigger than an average dairy cow. Extinct megalania is listed with the many casualties of the Ice Age. Or is it extinct? The creature has been sighted many times in the last century, and some sightings suggest that it lives also in New Guinea.  
 
-![MP2mw.jpg](/https://web.archive.org/web/20060725223721im_/http://www.metaweb.com/wiki/upload/4/46/MP2mw.jpg)  
+![MP2mw.jpg](/images/MP2mw.jpg)  
 **A Happy Ambush Predator**
 China Raider [Bobby Shaftoe](/bobby-shaftoe) has a recurring nightmare involving a *Big Lizard*:  
 
@@ -68,7 +68,7 @@ The name Megalania prisca means the *ancient giant butcher*. and this may ce
 Fossil skeletons suggests Megalania was a *beefy* animal, much more bulky than the Komodo Dragon and probably at least one third longer (4 to 5 meters). Like its modern counterparts Megalania probably scavenged from dead animals, but would have also been able to hunt and kill quite large prey. Komodo Dragons hunt by ambush and have been known to kill large deer, buffalo and even people. Whether Megalania killed Diprotodon, the largest of the megafauna is a matter of speculation; However it was capable of doing so. 
 
 It would also have competed for prey with other large carnivores such as the Marsupial Lion, *Thylacoleo carnifex*. The fossil record indicates that the geographic range of Megalania was quite broad including sites in Queensland, central Australia and New South Wales. Until recently this animal was not thought to have inhabited the southern part of the continent. However a fossil found at Naracoorte in 2000 extends its range much further. 
-![Bobbie%26LizardMW.jpg](/https://web.archive.org/web/20060725223721im_/http://www.metaweb.com/wiki/upload/d/d2/Bobbie%26LizardMW.jpg)  
+![Bobbie%26LizardMW.jpg](/images/Bobbie%26LizardMW.jpg)  
 **Bobby Shaftoe's Nightmarish Big Lizard With Saberlike Septic Teeth**
 
 It is a beloved animal for cryptozoologists. The last *sightings* were from the 1970s. There have been sightings of large lizards in the Australian outback for some time. In 1961 three woodcutters were scared by a lizard they thought to be about 4 meters long. In July 1979, cryptozoologist Rex Gilroy[[1]](/http-www-internetezy-com-au-mj129-amazing-creatures-lizards-html) was called to a freshly-plowed field by a farmer. Across the field were 30 or so tracks from what looked like an enormous lizard. While most of the tracks had been ruined by rain, Gilroy was able to make a plaster cast of one that had been preserved. The footprint looked surprisingly like something that might have been made by a Megalania. *While it sounds like a bigfoot sighting  it is grounded in better scientific evidence.*
@@ -124,7 +124,7 @@ The Komodo monitor was first reported by a European in 1910. The creatures were 
 ### With a view to the *Fortean*
 
 
-Komodo Dragons (Varanus komodoensis) were one of the cryptozoological surprises of the 20th century. Before 1912 the species was completely unknown and large lizards were thought to be extinct. Then, in that year, a party of pearl fishermen anchored at an almost entirely-unknown isle in a chain of islands called the Lesser Sundas. The fishermen brought back stories of an enormous, prehistoric creature living there. The island's name was Komodo.![Komodo_MW.jpg](/https://web.archive.org/web/20060725223721im_/http://www.metaweb.com/wiki/upload/a/a4/Komodo_MW.jpg)  
+Komodo Dragons (Varanus komodoensis) were one of the cryptozoological surprises of the 20th century. Before 1912 the species was completely unknown and large lizards were thought to be extinct. Then, in that year, a party of pearl fishermen anchored at an almost entirely-unknown isle in a chain of islands called the Lesser Sundas. The fishermen brought back stories of an enormous, prehistoric creature living there. The island's name was Komodo.![Komodo_MW.jpg](/images/Komodo_MW.jpg)  
 **Head and Shoulders of a Komodo**  
 ***Who'd have thought Jonny Quest was based on reality?***
 

@@ -4,36 +4,6 @@
 From the Quicksilver Metaweb.
 
 
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 Leveller](/)
-
-
-[2 The Putney Debates](/)
-
-
-[3 The Mutinies of the New Model Army](/)
-
-
-[4 Cromwell's Suppression](/)
-
-
-[5 Historical Impact](/)
-
-
-[6 Related Articles](/)
-
-
-[7 External Articles](/)
-
-
-[8 References](/)
- |
-
-
 ## Leveller
 
 

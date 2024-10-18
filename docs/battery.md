@@ -41,7 +41,7 @@ Initial research indicates that nanotechnology batteries employing carbon nanotu
 ### Electrical Component
 
 
-![Battery.png](/https://web.archive.org/web/20060725171552im_/http://en.wikipedia.org/upload/6/6d/Battery.png)  
+![Battery.png](/images/Battery.png)  
 *Circuit symbol for a battery  
 (+ and - signs are optional)*
 
@@ -52,7 +52,7 @@ A battery can be modelled as a perfect voltage source (i.e. one with zero intern
 ### Common battery types
 
 
-![Batteries.jpg](/https://web.archive.org/web/20060725171552im_/http://en.wikipedia.org/upload/3/3b/Batteries.jpg)  
+![Batteries.jpg](/images/Batteries.jpg)  
 *various batteries*
 
 From a user's viewpoint, at least, batteries can be generally divided into two main types - **rechargeable** and **non-rechargeable** (disposable). Each is in wide usage.

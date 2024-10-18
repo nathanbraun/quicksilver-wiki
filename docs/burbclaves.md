@@ -4,24 +4,6 @@
 From the Quicksilver Metaweb.
 
 
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 Stephensonia](/)
-
-
-[2 Definition](/)
-
-
-[3 Political Contracts](/)
-
-
-[4 Examples](/)
- |
-
-
 ### Stephensonia
 
 

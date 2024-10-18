@@ -6,24 +6,6 @@ From the Quicksilver Metaweb.
 The **Mohawk [hairstyle](/hairstyle)** is traditionally thought to be a hair style worn by the [Mohegan](/mohegan) and [Mohawk tribes](/mohawk-tribe).
 
 
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 Stephensonia](/)
-
-
-[2 In reality](/)
-
-
-[3 Reference](/)
-
-
-[4 External link](/)
- |
-
-
 ## Stephensonia
 
 

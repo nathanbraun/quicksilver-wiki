@@ -10,7 +10,7 @@ Placeholder for **Hermes**
 *[Enoch the Red](/stephenson-neal-quicksilver-enoch-root) knows all about the different manifestations of **Hermês**.*  
 
 
-![hermes.jpg](/https://web.archive.org/web/20060725172011im_/http://gallery.euroweb.hu/art/s/spranger/hermes.jpg)  
+![hermes.jpg](/images/hermes.jpg)  
 
 ***Hermes, Conductor of Souls with Athena, Goddess of Macrame and War*  
 
@@ -57,7 +57,7 @@ In addition to the syrinx and the lyre, Hermês invented many types of racing an
 
 In very ancient Greece, before his role as protector of merchants and travelers, Hermês was a phallic god, associated with fertility, luck, roads and borders. His name comes the word herma referring to a square or rectangular pillar of stone, or bronze; a bust of Hermês' head, usually with a beard, sat on the top of the pillar, and male genitals adorned the base. The hermai were used to mark roads and borders. In Athens, they were placed outside houses for good luck. 
 
-In 415 BCE, when the Athenian fleet was about to set sail for Syracuse during the Peloponnesian War, all of the Athenian hermai were vandalized. Though it was never proven, the Athenians at the time believed it was the work of saboteurs, either from Syracuse or anti-war doves from Athens itself.![PanpipesMW.jpg](/https://web.archive.org/web/20060725172011im_/http://www.metaweb.com/wiki/upload/1/1b/PanpipesMW.jpg)  
+In 415 BCE, when the Athenian fleet was about to set sail for Syracuse during the Peloponnesian War, all of the Athenian hermai were vandalized. Though it was never proven, the Athenians at the time believed it was the work of saboteurs, either from Syracuse or anti-war doves from Athens itself.![PanpipesMW.jpg](/images/PanpipesMW.jpg)  
 **Incan Wind Instrument  
 Similar To Panpipes**
 
@@ -76,7 +76,7 @@ While Hermês was stealing Apollo's cattle, a shepherd named Battus witnessed it
 ### Adulthood
 
  
-Hermês later invented the flute, which he bartered with Apollo (or Zeus) for, gaining a golden wand that Hermês used as his staff (see [caduceus](/caduceus)).![Caduceus1MW.jpg](/https://web.archive.org/web/20060725172011im_/http://www.metaweb.com/wiki/upload/3/3e/Caduceus1MW.jpg)  
+Hermês later invented the flute, which he bartered with Apollo (or Zeus) for, gaining a golden wand that Hermês used as his staff (see [caduceus](/caduceus)).![Caduceus1MW.jpg](/images/Caduceus1MW.jpg)  
 **The Caduceus Staff  
 *(Kerykeion In Greek)*  
 The Two Snakes Wrapped Around It  
@@ -176,7 +176,7 @@ During the Middle ages and the Renaissance, the hermetic scriptures enjoyed grea
 ### Sequential Art & Fiction: Bacchus AKA Deadface
 
 
-![dhp76.jpg](/https://web.archive.org/web/20060725172011im_/http://images.darkhorse.com/covers/d/dhp76.jpg)  
+![dhp76.jpg](/images/dhp76.jpg)  
 **Hermes VS the Eyeball Kid  
 The Kid is the son of Argus - the many-eyed  
 who has killed the more powerful Greco-Roman gods  

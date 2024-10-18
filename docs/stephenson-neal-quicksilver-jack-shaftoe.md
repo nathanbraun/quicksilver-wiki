@@ -42,7 +42,7 @@ This is the [Quicksilver](/quicksilver) page for **Jack Shaftoe**
 * [Stephenson:Neal:Quicksilver:673:I have met the Duke of Monmouth... (Jeremy Bornstein)](/stephenson-neal-quicksilver-673-i-have-met-the-duke-of-monmouth-jeremy-bornstein)
 
 
-![CWmusketeersMW.jpg](/https://web.archive.org/web/20060725165740im_/http://www.metaweb.com/wiki/upload/4/47/CWmusketeersMW.jpg)  
+![CWmusketeersMW.jpg](/images/CWmusketeersMW.jpg)  
 
 **Though Half-cocked, Jack Knew His Musketry  
 A Likely Instructor Would Have Been One of The Lads Above  
@@ -58,7 +58,7 @@ When he admits to losing a piece of his manhood in the hopes of curing the Frenc
 
 In the German States, they encounter [the Doctor](/gottfried-wilhelm-von-leibniz); And run into [Enoch Root](/enoch-root) near the House of Hacklheber. The two have other adventures together and apart until [Eliza](/eliza-de-la-zeur) tossed a harpoon at him to express her frustration with him vis a vis the issue of Slavery. *Could this be love?*
 
-Jack has a more *reliable* brother called [Bob](/stephenson-neal-quicksilver-bob-shaftoe) who borrows his name to woo a Taunton Schoolgirl.![JackTheMusketeerMW.jpg](/https://web.archive.org/web/20060725165740im_/http://www.metaweb.com/wiki/upload/2/20/JackTheMusketeerMW.jpg)  
+Jack has a more *reliable* brother called [Bob](/stephenson-neal-quicksilver-bob-shaftoe) who borrows his name to woo a Taunton Schoolgirl.![JackTheMusketeerMW.jpg](/images/JackTheMusketeerMW.jpg)  
 **Detail: The Smartest of the Musketmen  
 If I'd draw Jack - he'd be the model**
 

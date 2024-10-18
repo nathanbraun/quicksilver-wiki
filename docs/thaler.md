@@ -13,7 +13,7 @@ a [Baroque Cycle](/baroque-cycle) spanning page on pieces of silver - the Thaler
 ### [Wikipedia: Thaler](/)
 
 
-![Wiki-thalers.jpg](/https://web.archive.org/web/20060725232607im_/http://upload.wikimedia.org/wikipedia/en/f/fa/Wiki-thalers.jpg)  
+![Wiki-thalers.jpg](/images/Wiki-thalers.jpg)  
 Various thalers from Germany and Austria with size comparison to an  
 United States quarter (bottom center). Clockwise from top left:  
 Saxe-Altenburg 1616 Thaler reverse, 1592 Saxony Three Brothers  
@@ -33,7 +33,7 @@ The final thaler of Germany was issued in 1871, Austria's ended in 1867. No curr
 
 
 
-![800px-MTThaler.jpg](/https://web.archive.org/web/20060725232607im_/http://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/800px-MTThaler.jpg)  
+![800px-MTThaler.jpg](/images/800px-MTThaler.jpg)  
 
 **Maria Theresa Thaler. Mint of Rome**
 The **Maria Theresa Thaler** (MTT) coin, which has been used in world trade continuously since the first minted in 1741, has considerably extended the fame of Empress Maria Theresa, who ruled Austria, Hungary, and Bohemia from 1740 to 1780. Since 1780 the coin has always been dated 1780 and has been made by the following mints: Birmingham, Bombay, Brussels, London, Paris, Rome and Utrecht, in addition to the Hapsburg mints in Hall, Gunzberg, Kremnitz, Karlsberg, Milan, Prague and Vienna. Between 1751 and 2000 some 389 million have been minted. Since 1946, the Vienna Mint has produced over 49 million. For much of the early 1900s it was the official money of Ethiopia, with the Bank of Abyssinia issuing bank notes denominated in Thalers. It was one of the first coins used in the United States and probably contributed (along with the Spanish eight-bit dollar and the Straits dollar) to the US choice of a dollar as the main unit of currency. The Maria Theresa dollar was formerly the currency of Muscat and Oman, as well.

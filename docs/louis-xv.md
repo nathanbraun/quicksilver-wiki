@@ -7,7 +7,7 @@ A stub for the **Well-Beloved** of despots 
 ### [Louis XV of France](/)
 
 
-![Louis15-1.jpg](/https://web.archive.org/web/20060726011213im_/http://upload.wikimedia.org/wikipedia/en/a/a4/Louis15-1.jpg)  
+![Louis15-1.jpg](/images/Louis15-1.jpg)  
 **Louis XV in 1748:  
 a pastel portrait by Maurice Quentin de La Tour  
 (Louvre Museum)**

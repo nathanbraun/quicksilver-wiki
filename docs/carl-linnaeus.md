@@ -24,7 +24,7 @@ One visiting naturalist described him as somewhat aged, not a large man with d
 
 
 If [Newton](/isaac-newton) stood on the shoulders of giants in his field, [John Ray](/john-ray) - the English Naturalist would be the shoulders upon whom Carl Linnaeus took his stand. 
-![Linnaeus.jpg](/https://web.archive.org/web/20060725172000im_/http://en.wikipedia.org/upload/5/56/Linnaeus.jpg)  
+![Linnaeus.jpg](/images/Linnaeus.jpg)  
 **CAROLUS LINNAEUS**  
 **The Orginizational Man**
 
@@ -45,7 +45,7 @@ Linnaeus named taxa in ways that personally struck him as common-sensical; for e
 In 1739 Linnaeus married Sara Morea, daughter of a physician. He ascended the chair of medicine at Uppsala two years later, soon exchanging it for the chair of Botany. He continued to work on his classifications, extending them to the kingdom of animals and the kingdom of minerals. The last strikes us as somewhat odd, but evolution was still a long time away - and indeed, the Lutheran Linnaeus would have been horrified by it - and so Linnaeus was only attempting a convenient way of categorizing the natural world. 
 
 Carl Linnaeus was a very popular teacher and natural history was the fashion of the day. Students of all faculties crowded to his lectures, crowned heads corresponded with him, the King and Queen of Sweden were his patrons, and in 1755 he was made a nobleman taking the less clerical name of von Linné. He was knighted in 1757, under his Swedish name, Carl von Linné.
-![Autograph_of_Carolus_Linnaeus.jpg](/https://web.archive.org/web/20060725172000im_/http://en.wikipedia.org/upload/1/1a/Autograph_of_Carolus_Linnaeus.jpg)  
+![Autograph_of_Carolus_Linnaeus.jpg](/images/Autograph_of_Carolus_Linnaeus.jpg)  
 *Autograph of Carolus Linnaeus*
 
 * Linnaeus' original botanical garden may still be seen in Uppsala.

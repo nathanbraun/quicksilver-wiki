@@ -4,27 +4,6 @@
 From the Quicksilver Metaweb.
 
 
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 The Battle of Bunker Hill](/)
-
-
-[2 The First Assault](/)
-
-
-[3 The Second Assault](/)
-
-
-[4 The Third Assault](/)
-
-
-[5 Aftermath](/)
- |
-
-
 ## The Battle of Bunker Hill
 
 

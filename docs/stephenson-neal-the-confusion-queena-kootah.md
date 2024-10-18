@@ -4,27 +4,6 @@
 From the Quicksilver Metaweb.
 
 
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 Stephensonia](/)
-
-
-[2 Authored entries](/)
-
-
-[3 Queena-Kootah: Treasure Island](/)
-
-
-[4 Related entries](/)
-
-
-[5 External links](/)
- |
-
-
 ### Stephensonia
 
 

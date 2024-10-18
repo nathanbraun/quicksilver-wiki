@@ -35,7 +35,7 @@ Richard Feynman married Gweneth Howarth, a son, Carl Richard (born 22nd April 19
 grabbed from various Wikipedia sources
 
 **Richard Phillips Feynman** (May 11 ,1918 -February 15 ,1988) (last name pronounced "fine-man") was one of the most influential American physicists of the 20th century, expanding greatly the knowledge of quantum electrodynamics. As well as being an inspiring lecturer and musician, he helped in the development of the [atomic bomb](/http-en-wikipedia-org-wiki-nuclear-weapon) and was later a member of the panel which investigated the [Space Shuttle Challenger](/http-en-wikipedia-org-wiki-space-shuttle-challenger) disaster. For his work on quantum electrodynamics, Feynman was one of the recipients of the Nobel Prize in Physics for 1965. He is also famous for his many adventures, detailed in the books *Surely You're Joking, Mr Feynman!*, *What Do You Care What Other People Think?* and *Tuva Or Bust!*
-![Sm.feynman.jpg](/https://web.archive.org/web/20060725222114im_/http://www.metaweb.com/wiki/upload/b/be/Sm.feynman.jpg)  
+![Sm.feynman.jpg](/images/Sm.feynman.jpg)  
 Richard Phillips Feynman
 
 ### Biography
@@ -112,7 +112,7 @@ In this sense, they are perhaps best known because of a speech by physicist [Ric
 #### Works about Feynman
 
 
-![15545771_6f084481d4_o.jpg](/https://web.archive.org/web/20060725222114im_/http://photos12.flickr.com/15545771_6f084481d4_o.jpg)  
+![15545771_6f084481d4_o.jpg](/images/15545771_6f084481d4_o.jpg)  
 **The Feynman Stamp**
 A movie was made about Feynman's life in 1996. Called *Infinity* and starring Matthew Broderick, the movie focused on Feynman's relationship with his first wife, Arlene, with his work on the Manhattan Project serving as a backdrop for what was essentially a love story. The film received mixed reviews, however, and did poorly at the box office. 
 

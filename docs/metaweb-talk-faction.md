@@ -117,7 +117,7 @@ Rape comix and all? OK, at least they're just comix.
   
 
 NO, no, no. YOU have the semantics wrong. A [tribe](/http-en-wikipedia-org-wiki-tribe) is a sort of degraded phyle that shares ethnicity and culture but not a single coherent value system. When someone comes along who opposes the ethnicity and fights the culture but shares all the values, a [phyle](/phyle) welcomes them, but a [tribe](/http-en-wikipedia-org-wiki-tribe) kills them. Completely different.
-* Not observed the above. Know that [female circumcision](/http-en-wikipedia-org-wiki-female-circumcision) STILL occurs in Africa![180px-Fgm_map.gif](/https://web.archive.org/web/20060725231218im_/http://en.wikipedia.org/upload/thumb/e/e0/180px-Fgm_map.gif)  
+* Not observed the above. Know that [female circumcision](/http-en-wikipedia-org-wiki-female-circumcision) STILL occurs in Africa![180px-Fgm_map.gif](/images/180px-Fgm_map.gif)  
 **Prevalence of female  
 cirumcision in Africa**
 1. [Metaweb:Factions](/metaweb-faction) are welcome. I'd prefer a way of identification which perserved their [Anonymity](/http-en-wikipedia-org-wiki-anonymity) tho such as **[Anomynous User Alpha NaughtNaught](/http-en-wikipedia-org-wiki-anonymous-coward)**, **[Anomynous User Alpha NaughtOne](/http-en-wikipedia-org-wiki-anonymous-coward)**, and so forth. So far  we've the one [troll](/http-en-wikipedia-org-wiki-internet-troll). I don't care if an opinion is promoted by a faction, tribe, chop shop or phyle. I would like to see honesty about their [goal](/http-en-wikipedia-org-wiki-purpose) or agenda.

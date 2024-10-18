@@ -32,7 +32,7 @@ From the Quicksilver Metaweb.
 ### Newton
 
 
-Sir [Isaac Newton](/isaac-newton) (1642-1727), a scientist, astronomer, and mathematician, invented a new kind of mathematics, discovered the secrets of light and color, and showed how the universe is held together. Described as "one of the greatest names in the history of human thought" because of his great contributions to mathematics, physics, and astronomy. *Clearly he thought more highly of himself than did many* and in the end may retain his fame *more* because of his *spats* with other gifted polymaths.![NewtSparkyMW.jpg](/https://web.archive.org/web/20060725165723im_/http://www.metaweb.com/wiki/upload/2/26/NewtSparkyMW.jpg)  
+Sir [Isaac Newton](/isaac-newton) (1642-1727), a scientist, astronomer, and mathematician, invented a new kind of mathematics, discovered the secrets of light and color, and showed how the universe is held together. Described as "one of the greatest names in the history of human thought" because of his great contributions to mathematics, physics, and astronomy. *Clearly he thought more highly of himself than did many* and in the end may retain his fame *more* because of his *spats* with other gifted polymaths.![NewtSparkyMW.jpg](/images/NewtSparkyMW.jpg)  
 **Isaac as a Gentleman**  
 ***He's wearing a sword***
 
@@ -88,7 +88,7 @@ Isaac Newton was born on Christmas Day, 1642 [OS](/julian-calendar), at Woolstho
 
 After a rudimentary education in local schools, he was sent at the age of 12 to the King's School in Grantham, where he lived in the home of an apothecary named Clark. It was from Clark's stepdaughter that Newton's biographer William Stukeley learned many years later of the boy's interest in her father's chemical library and laboratory and of the windmill run by a live mouse, the floating lanterns, sundials, and other mechanical contrivances Newton built to amuse her. Although she married someone else and he never married, she was the one woman for whom Newton ever seems to have had a romantic attachment. 
 
-At birth Newton was heir to the modest estate which, when he came of age, he was expected to manage. But during a trial period midway in his course at King's School, it became apparent that farming was not his métier. In 1661, at the age of 19, he entered Trinity College, Cambridge. There the questioning of long-accepted beliefs was beginning to be apparent in new attitudes toward man's environment, expressed in the attention given to mathematics and science.![Newton-telescopeMW.jpg](/https://web.archive.org/web/20060725165723im_/http://www.metaweb.com/wiki/upload/5/51/Newton-telescopeMW.jpg)  
+At birth Newton was heir to the modest estate which, when he came of age, he was expected to manage. But during a trial period midway in his course at King's School, it became apparent that farming was not his métier. In 1661, at the age of 19, he entered Trinity College, Cambridge. There the questioning of long-accepted beliefs was beginning to be apparent in new attitudes toward man's environment, expressed in the attention given to mathematics and science.![Newton-telescopeMW.jpg](/images/Newton-telescopeMW.jpg)  
 **Two Views of Newton's Telescope**  
 **The Light Gathering Parabolic Mirror is 2" Wide**
 

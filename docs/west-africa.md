@@ -3,25 +3,6 @@
 
 From the Quicksilver Metaweb.
 
-
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 West Africa](/)
-
-
-[2 History](/)
-
-
-[3 Prehistory](/)
-
-
-[4 Miscellaneous](/)
- |
-
-
 ### West Africa
 
 

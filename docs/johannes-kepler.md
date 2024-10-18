@@ -43,9 +43,9 @@ From the point of view of [Quicksilver](/stephenson-neal-quicksilver) and other 
 5. He was the very first person to say  (according to *Lewis Thomas*) that the entire [Earth](/http-en-wikipedia-org-wiki-earth) was one giant living round *cell*  the thesis of very much later [Gaia philosophy](/gaia-philosophy).
 
 
-![Johannes_kepler_o.gif](/https://web.archive.org/web/20060725223445im_/http://www.metaweb.com/wiki/upload/7/76/Johannes_kepler_o.gif)
-![Kepler_bild.gif](/https://web.archive.org/web/20060725223445im_/http://www.metaweb.com/wiki/upload/e/e7/Kepler_bild.gif)
-![Johannes_Kepler.jpg](/https://web.archive.org/web/20060725223445im_/http://en.wikipedia.org/upload/d/d5/Johannes_Kepler.jpg)
+![Johannes_kepler_o.gif](/images/Johannes_kepler_o.gif)
+![Kepler_bild.gif](/images/Kepler_bild.gif)
+![Johannes_Kepler.jpg](/images/Johannes_Kepler.jpg)
   
 
 

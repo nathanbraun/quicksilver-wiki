@@ -33,7 +33,7 @@ Voltaire was sent home, and for a time pretended to work in a Parisian lawyer's 
 
 Ever after his exit from the Bastille in April 1718 he was known as Arouet de Voltaire, or simply Voltaire, though legally he never abandoned his patronymic. The origin of the name has been much debated, and attempts have been made to show that it existed in the Daumart pedigree or in some territorial designation. Some maintain that it was an abbreviation of a childish nickname, "le petit volontaire". The balance of opinion has, however, always inclined to the hypothesis of an anagram on the name "Arouet le jeune" or "Arouet l.j.", 'u' being changed to 'v' and 'j' to 'i' according to the ordinary rules of the game
 
-![FMA-Voltaire.jpg](/https://web.archive.org/web/20060725223341im_/http://en.wikipedia.org/upload/e/e2/FMA-Voltaire.jpg)  
+![FMA-Voltaire.jpg](/images/FMA-Voltaire.jpg)  
 Arouet AKA Voltaire
 
 [Complete Wikipedia entry](/http-en-wikipedia-org-wiki-voltaire)

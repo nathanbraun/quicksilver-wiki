@@ -4,33 +4,6 @@
 From the Quicksilver Metaweb.
 
 
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 What is a talk page?](/) 
-
-
-[2 What is it used for?](/) 
-
-
-[3 User talk pages](/) 
-
-
-[4 "Post a comment" feature](/)
-
-
-[5 Standards and conventions of writing and layout](/) 
-
-
-[6 Example](/) 
-
-
-[7 Refactoring talk pages](/) 
- |
-
-
 ## What is a talk page?
 
 

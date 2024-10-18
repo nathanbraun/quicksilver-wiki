@@ -36,7 +36,7 @@ This is the [Cryptonomicon](/cryptonomicon) page for **The Epiphyte Corporation*
 ### [Wikipedia: Epiphyte](/http-en-wikipedia-org-wiki-epiphyte)
 
 
-The term **epiphyte** refers to any [plant](/http-en-wikipedia-org-wiki-plant) that grows upon or attached to another living plant. The term stems from the Greek *epi-* (meaning 'upon') and *phyton* (meaning 'plant'). These plants are sometimes called "air plants" because they do not root in soil. However, there are many species of [algae](/http-en-wikipedia-org-wiki-alga), including [seaweeds](/http-en-wikipedia-org-wiki-seaweed), that are *epiphytes* on other aquatic plants (seaweeds or aquatic [angiosperms](/http-en-wikipedia-org-wiki-angiosperms)).![Epiphytes.jpg](/https://web.archive.org/web/20060727110733im_/http://en.wikipedia.org/upload/7/70/Epiphytes.jpg)  
+The term **epiphyte** refers to any [plant](/http-en-wikipedia-org-wiki-plant) that grows upon or attached to another living plant. The term stems from the Greek *epi-* (meaning 'upon') and *phyton* (meaning 'plant'). These plants are sometimes called "air plants" because they do not root in soil. However, there are many species of [algae](/http-en-wikipedia-org-wiki-alga), including [seaweeds](/http-en-wikipedia-org-wiki-seaweed), that are *epiphytes* on other aquatic plants (seaweeds or aquatic [angiosperms](/http-en-wikipedia-org-wiki-angiosperms)).![Epiphytes.jpg](/images/Epiphytes.jpg)  
 **An epiphyte assemblage of orchids and bromeliads  
 
 Photograph taken by Eric Guinther of epihytes (bromeliads  

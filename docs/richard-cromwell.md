@@ -20,7 +20,7 @@ To follow soon
 
 
 **[Oliver Cromwell](/oliver-cromwell)** and the army emerged as the power in the land. Cromwell dissolved parliament with the words "Depart I say, and let us have done with you. In the name of God , go!" It was the start of England's only period of dictatorship Cromwell was unable to find anything to replace the monarchy. When he died in 1658 his son Richard suceeded him, but "Tumbledown Dick" was not a man to rule Britain, and in 1660 [Charles II](/charles-ii) was restored to the throne his father had died for.
-![RichardCromwell.jpeg](/https://web.archive.org/web/20060725222416im_/http://en.wikipedia.org/upload/7/74/RichardCromwell.jpeg)  
+![RichardCromwell.jpeg](/images/RichardCromwell.jpeg)  
 Portrait of Richard Cromwell
 
 ### Richard Cromwell

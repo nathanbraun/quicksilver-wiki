@@ -108,25 +108,6 @@ Pat? I have no idea as to how to archive any of this? Can you point me in a dire
 Seems we're seeing spammers again. - [Sparky](/user-stsparky) 13:13, 2005 Dec 20 (PST)
 
 
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 Patrick, did you go to EO Smith?](/) 
-
-
-[1.1 be back annotating soon](/)
-
-
-[2 Royal Society Minutes](/) 
-
-
-[2.1 Spamming](/)
-[2.2 Any guidelines](/)
- |
-
-
 ## Patrick, did you go to EO Smith?
 
 

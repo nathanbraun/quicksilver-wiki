@@ -25,7 +25,7 @@ This is [The Confusion](/the-confusion)'s page about **Algiers**
 ### [Wikipedia: Algiers](/http-en-wikipedia-org-wiki-algiers)
 
 
-**Algiers** (Fr. *Alger*, Arab. الجزائر *El-Jezair*, i.e. The Islands), is the capital and largest city of Algeria, North Africa. It is situated on the west side of a bay of the Mediterranean Sea, to which it gives its name, in 36 deg. 47' N., 3 deg. 4' E., and is built on the slopes of the Sahel, a chain of hills parallel to the coast.![AlgiersMW.jpg](/https://web.archive.org/web/20060725232605im_/http://www.metaweb.com/wiki/upload/e/ee/AlgiersMW.jpg)  
+**Algiers** (Fr. *Alger*, Arab. الجزائر *El-Jezair*, i.e. The Islands), is the capital and largest city of Algeria, North Africa. It is situated on the west side of a bay of the Mediterranean Sea, to which it gives its name, in 36 deg. 47' N., 3 deg. 4' E., and is built on the slopes of the Sahel, a chain of hills parallel to the coast.![AlgiersMW.jpg](/images/AlgiersMW.jpg)  
 **Ships in the Harbor of Algiers**
 
 The city consists of two parts; the modern part, built on the level ground by the seashore, and the ancient city of the deys, which climbs the steep hill behind the modern town and is crowned by the casbah or citadel, 400 ft. above the sea. The casbah forms the apex of a triangle of which the quays form the base. The **Casbah** (French) or more correctly **Qasbah** (from Arabic *qasbah*, قصبة, 'citadel') is specifically the citadel of [Algiers](/algiers) and the traditional quarter clustered round it. More generally, *kasbah* denotes the walled citadel of many North African cities and towns. The word made its way into English from French in the late 19th century (the *O.E.D.* says 1895), hence its conventional English spelling. In Rabat, since 1912 the capital of Morocco, the **Casbah** of the Oudaya is the military barracks encircled by walls with gates, built in the 16th and 17th centuries on ancient foundations.
@@ -74,7 +74,7 @@ Algiers, however, continued of comparatively little importance until after the e
 
 
 At about the time Spain was establishing its presidios in the Maghrib, the Muslim privateer brothers Aruj and Khair ad Din--the latter known to Europeans as Barbarossa, or Red Beard--were operating successfully off Tunisia under the Hafsids. In 1516 Aruj moved his base of operations to Algiers, but was killed in 1518 during his invasion of Tlemcen. Khair ad Din succeeded him as military commander of Algiers. The Ottoman sultan gave him the title of beylerbey (provincial governor) and a contingent of some 2,000 janissaries, well-armed Ottoman soldiers. With the aid of this force, Khair ad Din subdued the coastal region between Constantine and Oran (although the city of Oran remained in Spanish hands until 1791). Under Khair ad Din's regency, Algiers became the center of Ottoman authority in the Maghrib, from which Tunis, Tripoli, and Tlemcen would be overcome and Morocco's independence would be threatened.
-![Khair_ad_Din.jpg](/https://web.archive.org/web/20060725232605im_/http://en.wikipedia.org/upload/4/4e/Khair_ad_Din.jpg)  
+![Khair_ad_Din.jpg](/images/Khair_ad_Din.jpg)  
 **Khair ad Din**
 
 So successful was Khair ad Din at Algiers that he was recalled to Constantinople in 1533 by the sultan, Süleyman I (r. 1520-66), known in Europe as Süleyman the Magnificent, and appointed admiral of the Ottoman fleet. The next year he mounted a successful seaborne assault on Tunis. 

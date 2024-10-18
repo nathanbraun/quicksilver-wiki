@@ -3,62 +3,6 @@
 
 From the Quicksilver Metaweb.
 
-
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 Stephensonia](/)
-
-
-[2 Description](/)
-
-
-[3 Categories of FOQNEs](/)
-
-
-[3.1 Burbclaves](/)
-
-[3.1.1 Definition](/)
-[3.1.2 Examples](/)
-
-[3.2 Franchulate](/)
-
-[3.2.1 Definition](/)
-[3.2.2 Examples](/)
-
-[3.3 Private Road Networks](/)
-
-
-[4 Theoretical Basis](/)
-
-
-[5 The Problem of Allodial Title](/)
-
-
-[6 Real World Implementation of FOQNEs](/)
-
-
-[6.1 Historical](/)
-[6.2 Current Day Examples](/)
-
-
-[7 The Gated Community as Proto-Burbclave (WikiPedia entry)](/)
-
-
-[7.1 A worldwide phenomenon](/)
-[7.2 Analysis](/)
-[7.3 Examples](/)
-
-
-[8 Related Links:](/)
-
-
-[8.1 External Links:](/)
- |
-
-
 ## Stephensonia
 
 

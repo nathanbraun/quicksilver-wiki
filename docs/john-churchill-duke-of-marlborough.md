@@ -26,7 +26,7 @@ This is a page for the **1st Duke of Marlborough**
 ### [Wikipedia: John Churchill, 1st Duke of Marlborough](/http-en-wikipedia-org-wiki-john-churchill-1st-duke-of-marlborough)
 
 
-John Churchill, 1st Duke of Marlborough (May 26, 1650 - June 16, 1722), in full Captain-General Sir John Churchill, K.G., P.C., 1st Duke of Marlborough, Earl of Marlborough, Baron Churchill of Sandridge in Hertfordshire, Lord Churchill of Eyemouth (in addition to these English and Scottish titles he was also Prince of Mindelheim and a Prince of the Holy Roman Empire), was an English military officer during the War of the Spanish Succession.![MarlboroughMW.jpg](/https://web.archive.org/web/20060725223646im_/http://www.metaweb.com/wiki/upload/b/bb/MarlboroughMW.jpg)  
+John Churchill, 1st Duke of Marlborough (May 26, 1650 - June 16, 1722), in full Captain-General Sir John Churchill, K.G., P.C., 1st Duke of Marlborough, Earl of Marlborough, Baron Churchill of Sandridge in Hertfordshire, Lord Churchill of Eyemouth (in addition to these English and Scottish titles he was also Prince of Mindelheim and a Prince of the Holy Roman Empire), was an English military officer during the War of the Spanish Succession.![MarlboroughMW.jpg](/images/MarlboroughMW.jpg)  
 **John Churchill  
 1st Duke of Marlborough**
 
@@ -53,7 +53,7 @@ Anne died shortly thereafter, and once again Marlborough was back in favour of B
 
 The Dukedom of Marlborough is a hereditary title of British nobility. The first holder of the title was John Churchill, 1st Duke of Marlborough (1650 - 1722), the noted English/British general, and indeed an unqualified reference to the Duke of Marlborough in a historical text will almost certainly be a reference to this man.
 
-![Marlboroughseal.jpg](/https://web.archive.org/web/20060725223646im_/http://www.metaweb.com/wiki/upload/1/19/Marlboroughseal.jpg)  
+![Marlboroughseal.jpg](/images/Marlboroughseal.jpg)  
 **The Family Crest**
 
 The Duke of Marlborough holds certain subsidiary titles: Marquess of Blandford (created 1702), Earl of Sunderland (1643), Earl of Marlborough (1689), Baron Spencer of Wormleighton (1603) and Lord Churchill (1685). (The Lordship of Churchill is in the Scottish peerage, while the rest are in the English peerage.) The title Marquess of Blandford is used as the courtesy title for the Duke's eldest son and heir. 

@@ -25,7 +25,7 @@ Time zones are areas of the Earth that follow the same definition of time. Forme
 
 All time zones are defined relative to Coordinated Universal Time (UTC). The reference point for Time Zones is the Prime Meridian (longitude 000) which passes through inside the Royal Greenwich Observatory in Greenwich, London, England [1]. The reference time was originally called Greenwich Mean Time (GMT), but is now referred to as Coordinated Universal Time (UTC) to distinguish it from the local time in London which may be adjusted for daylight saving time. 
 
-![Timezones_small.png](/https://web.archive.org/web/20060725222943im_/http://en.wikipedia.org/upload/3/37/Timezones_small.png)  
+![Timezones_small.png](/images/Timezones_small.png)  
 
 *A map of the world's time zones, [Larger image](/http-en-wikipedia-org-upload-4-4b-timezones-png)*
 

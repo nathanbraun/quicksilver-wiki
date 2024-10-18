@@ -40,8 +40,8 @@ The Principia only covered set theory, cardinal numbers, ordinal numbers and rea
 The questions remained whether a contradiction could be derived from the Principia's axioms, and whether there exists a mathematical statement which could neither be proven nor disproven in the system. These questions were settled, in a rather disappointing way, by [Gödel's incompleteness theorem](/http-en-wikipedia-org-wiki-gödel-s-incompleteness-theorem) in 1931.
 
 
-![Russell2.jpg](/https://web.archive.org/web/20060725171046im_/http://en.wikipedia.org/upload/0/0d/Russell2.jpg)
-![Whitehead_an.jpg](/https://web.archive.org/web/20060725171046im_/http://en.wikipedia.org/upload/c/ca/Whitehead_an.jpg)  
+![Russell2.jpg](/images/Russell2.jpg)
+![Whitehead_an.jpg](/images/Whitehead_an.jpg)  
 
 **RUSSELL and WHITEHEAD**  
 

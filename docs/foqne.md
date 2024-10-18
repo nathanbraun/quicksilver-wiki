@@ -6,48 +6,6 @@
 NOTE: The proper term is Franchise-ORGANIZED Quasi-National Entities, according to Snow Crash. I happen to think "Operated" is a better term, but I'm not the Author.
 
 
-
-|  |
-| --- |
-| **Table of contents** showTocToggle("show","hide") |
-| 
-[1 Related Authored Entries](/)
-
-
-[2 Stephensonia](/)
-
-
-[3 Description](/)
-
-
-[4 Theoretical Basis](/)
-
-
-[5 The Problem of Allodial Title](/)
-
-
-[6 Real World Implementation of FOQNEs](/)
-
-
-[6.1 Historical](/)
-[6.2 Current Day Examples](/)
-
-
-[7 The Gated Community as Proto-Burbclave (WikiPedia entry)](/)
-
-
-[7.1 A worldwide phenomenon](/)
-[7.2 Analysis](/)
-[7.3 Examples](/)
-
-
-[8 Related Links:](/)
-
-
-[8.1 External Links:](/)
- |
-
-
 ## Related Authored Entries
 
 
