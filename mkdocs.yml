@@ -9,7 +9,6 @@ nav:
   - Home: index.md
   - Quicksilver:
     - quicksilver/index.md
-    - Characters: stephenson-neal-quicksilver-list-of-people.md
     - Annotations:
       - quicksilver/annotations/index.md
       - v - Baroque Cycle: quicksilver/annotations/stephenson-neal-quicksilver-v-baroque-cycle-neal-stephenson.md
@@ -240,8 +239,60 @@ nav:
       - 886 - cosh: quicksilver/annotations/stephenson-neal-quicksilver-886-cosh-quillman.md
       - 916 - time time: quicksilver/annotations/stephenson-neal-quicksilver-916-time-time-quillman.md
       - 921 - Cromwell, Roger...: quicksilver/annotations/stephenson-neal-quicksilver-921-cromwell-roger-alan-sinder.md
+    - Characters: stephenson-neal-quicksilver-list-of-people.md
   - The Confusion:
     - the-confusion/index.md
+    - Annotations:
+      - the-confusion/annotations/index.md
+      - 1 - Giovanni Francesco Gemelli Careri : the-confusion/annotations/stephenson-neal-the-confusion-1-giovanni-francesco-gemelli-careri-neal-stephenson.md
+      - 3 - Cannons : the-confusion/annotations/stephenson-neal-the-confusion-3-cannons-philb.md
+      - 3 - curiously modified : the-confusion/annotations/stephenson-neal-the-confusion-3-curiously-modified-alan-sinder.md
+      - 5 - outlandish johnson : the-confusion/annotations/stephenson-neal-the-confusion-5-outlandish-johnson-alan-sinder.md
+      - 7 - The new Pasha : the-confusion/annotations/stephenson-neal-the-confusion-7-the-new-pasha-neal-stephenson.md
+      - 8 - Algiers : the-confusion/annotations/stephenson-neal-the-confusion-8-algiers-alan-sinder.md
+      - 8 - Moseh de la Cruz : the-confusion/annotations/stephenson-neal-the-confusion-8-moseh-de-la-cruz-alan-sinder.md
+      - 8 - Bull's penis : the-confusion/annotations/stephenson-neal-the-confusion-8-bull-s-penis-neal-stephenson.md
+      - 9 - Syphilis cured by fever : the-confusion/annotations/stephenson-neal-the-confusion-9-syphilis-cured-by-fever-neal-stephenson.md
+      - 9 - Diseases : the-confusion/annotations/stephenson-neal-the-confusion-9-diseases-neal-stephenson.md
+      - 29 - Jeronimo : the-confusion/annotations/stephenson-neal-the-confusion-29-jeronimo-neal-stephenson.md
+      - 32 - St. Lemuel : the-confusion/annotations/stephenson-neal-the-confusion-32-st-lemuel-alan-sinder.md
+      - 35 - The Cathedral of Mexico : the-confusion/annotations/stephenson-neal-the-confusion-35-the-cathedral-of-mexico-neal-stephenson.md
+      - 35 - the Viceroy and his wife : the-confusion/annotations/stephenson-neal-the-confusion-35-the-viceroy-and-his-wife-neal-stephenson.md
+      - 44 - Partry : the-confusion/annotations/stephenson-neal-the-confusion-44-partry-neal-stephenson.md
+      - 51 - praising Lieutenant Bart in a letter : the-confusion/annotations/stephenson-neal-the-confusion-51-praising-lieutenant-bart-in-a-letter-alan-sinder.md
+      - 67 - de Crépy and de Gex : the-confusion/annotations/stephenson-neal-the-confusion-67-de-crépy-and-de-gex-neal-stephenson.md
+      - 84 - Bonanza : the-confusion/annotations/stephenson-neal-the-confusion-84-bonanza-neal-stephenson.md
+      - 84 - Guadalquivir : the-confusion/annotations/stephenson-neal-the-confusion-84-guadalquivir-alan-sinder.md
+      - 85 - Bar of the Guadalquivir : the-confusion/annotations/stephenson-neal-the-confusion-85-bar-of-the-guadalquivir-neal-stephenson.md
+      - 88 - Ali Zaybak : the-confusion/annotations/stephenson-neal-the-confusion-88-ali-zaybak-neal-stephenson.md
+      - 93 - Chateau Juvisy : the-confusion/annotations/stephenson-neal-the-confusion-93-chateau-juvisy-neal-stephenson.md
+      - 96 - de la Vegas : the-confusion/annotations/stephenson-neal-the-confusion-96-de-la-vegas-neal-stephenson.md
+      - 102 - Gerhard Mann : the-confusion/annotations/stephenson-neal-the-confusion-102-gerhard-mann-neal-stephenson.md
+      - 117 - stables of Versailles : the-confusion/annotations/stephenson-neal-the-confusion-117-stables-of-versailles-neal-stephenson.md
+      - 123 - La Dunette : the-confusion/annotations/stephenson-neal-the-confusion-123-la-dunette-neal-stephenson.md
+      - 132 - Bart's promotion to Captain : the-confusion/annotations/stephenson-neal-the-confusion-132-bart-s-promotion-to-captain-neal-stephenson.md
+      - 142 - Plateau of Satory : the-confusion/annotations/stephenson-neal-the-confusion-142-plateau-of-satory-neal-stephenson.md
+      - 144 - La Dunette : the-confusion/annotations/stephenson-neal-the-confusion-144-la-dunette-joel-finkle.md
+      - 145 - the death of the Prince of Orange : the-confusion/annotations/stephenson-neal-the-confusion-145-the-death-of-the-prince-of-orange-neal-stephenson.md
+      - 146 - toast the victory of the French, the free English: the-confusion/annotations/stephenson-neal-the-confusion-146-toast-the-victory-of-the-french-the-free-english-alan-sinder.md
+      - 150 - Upnor's anecdote : the-confusion/annotations/stephenson-neal-the-confusion-150-upnor-s-anecdote-neal-stephenson.md
+      - 153 - Dead things...sauced : the-confusion/annotations/stephenson-neal-the-confusion-153-dead-things-sauced-neal-stephenson.md
+      - 153 - de Jonzac : the-confusion/annotations/stephenson-neal-the-confusion-153-de-jonzac-neal-stephenson.md
+      - 157 - de Sluys fire : the-confusion/annotations/stephenson-neal-the-confusion-157-de-sluys-fire-neal-stephenson.md
+      - 301 - decompose such a number into its prime factors : the-confusion/annotations/stephenson-neal-the-confusion-301-decompose-such-a-number-into-its-prime-factors-electricinca.md
+      - 360 - Rameau: the-confusion/annotations/stephenson-neal-the-confusion-360-rameau.md
+      - 494 - the Barton Road : the-confusion/annotations/stephenson-neal-the-confusion-494-the-barton-road-philb.md
+      - 504 - Arianism: the-confusion/annotations/stephenson-neal-the-confusion-504-arianism-joel-finkle.md
+      - 579 - A woman you saw once: the-confusion/annotations/stephenson-neal-the-confusion-579-a-woman-you-saw-once-joel-finkle.md
+      - 582 - Theatrum Chemicum : the-confusion/annotations/stephenson-neal-the-confusion-582-theatrum-chemicum-alan-sinder.md
+      - 591 - Prehensile tails: the-confusion/annotations/stephenson-neal-the-confusion-591-prehensile-tails-david-mix-barrington.md
+      - 617 - I have seen this very Lady in plays : the-confusion/annotations/stephenson-neal-the-confusion-617-i-have-seen-this-very-lady-in-plays-paulj.md
+      - 681 - after we had installed Mr. Foot as Sultan : the-confusion/annotations/stephenson-neal-the-confusion-681-after-we-had-installed-mr-foot-as-sultan-paulj.md
+      - 691 - yo-yo : the-confusion/annotations/stephenson-neal-the-confusion-691-yo-yo-alan-sinder.md
+      - 693 - The only one who survived was one Elizabeth de Obregon : the-confusion/annotations/stephenson-neal-the-confusion-693-the-only-one-who-survived-was-one-elizabeth-de-obregon-paulj.md
+      - 711 - thin sheets of gold : the-confusion/annotations/stephenson-neal-the-confusion-711-thin-sheets-of-gold-electricinca.md
+      - 751 - The globe : the-confusion/annotations/stephenson-neal-the-confusion-751-the-globe-armaced.md
+      - 754 - Two ships in the Pacifc : the-confusion/annotations/stephenson-neal-the-confusion-754-two-ships-in-the-pacifc-armaced.md
     - Characters: stephenson-neal-the-confusion-dramatis-personæ.md
   - The System of the World: the-system-of-the-world.md
 plugins:
@@ -250,9 +301,10 @@ plugins:
       redirect_maps:
         # 'quicksilver.md': 'stephenson-neal-quicksilver.md'
         # 'quicksilver/index.md': 'stephenson-neal-quicksilver.md'
-        # 'quicksilver/annotations/index.md': 'stephenson-neal-quicksilver-all-annotations-by-page-number.md'
-        'the-confusion.md': 'stephenson-neal-the-confusion.md'
+        # 'the-confusion.md': 'stephenson-neal-the-confusion.md'
         'the-system-of-the-world.md': 'stephenson-neal-the-system-of-the-world.md'
+        'stephenson-neal-the-confusion-all-annotations-by-page-number.md': 'the-confusion/annotations/index.md'
+        'stephenson-neal-quicksilver-all-annotations-by-page-number.md': 'quicksilver/annotations/index.md'
         'stephenson-neal-quicksilver-v-baroque-cycle-neal-stephenson.md': 'quicksilver/annotations/stephenson-neal-quicksilver-v-baroque-cycle-neal-stephenson.md'
         'stephenson-neal-quicksilver-vii-to-the-woman-upstairs-jeremy-bornstein.md': 'quicksilver/annotations/stephenson-neal-quicksilver-vii-to-the-woman-upstairs-jeremy-bornstein.md'
         'stephenson-neal-quicksilver-ix-many-other-scholarly-works-jeremy-bornstein.md': 'quicksilver/annotations/stephenson-neal-quicksilver-ix-many-other-scholarly-works-jeremy-bornstein.md'
@@ -480,6 +532,55 @@ plugins:
         'stephenson-neal-quicksilver-886-cosh-quillman.md': 'quicksilver/annotations/stephenson-neal-quicksilver-886-cosh-quillman.md'
         'stephenson-neal-quicksilver-916-time-time-quillman.md': 'quicksilver/annotations/stephenson-neal-quicksilver-916-time-time-quillman.md'
         'stephenson-neal-quicksilver-921-cromwell-roger-alan-sinder.md': 'quicksilver/annotations/stephenson-neal-quicksilver-921-cromwell-roger-alan-sinder.md'
+        'stephenson-neal-the-confusion-1-giovanni-francesco-gemelli-careri-neal-stephenson.md': 'the-confusion/annotations/stephenson-neal-the-confusion-1-giovanni-francesco-gemelli-careri-neal-stephenson.md'
+        'stephenson-neal-the-confusion-3-cannons-philb.md': 'the-confusion/annotations/stephenson-neal-the-confusion-3-cannons-philb.md'
+        'stephenson-neal-the-confusion-3-curiously-modified-alan-sinder.md': 'the-confusion/annotations/stephenson-neal-the-confusion-3-curiously-modified-alan-sinder.md'
+        'stephenson-neal-the-confusion-5-outlandish-johnson-alan-sinder.md': 'the-confusion/annotations/stephenson-neal-the-confusion-5-outlandish-johnson-alan-sinder.md'
+        'stephenson-neal-the-confusion-7-the-new-pasha-neal-stephenson.md': 'the-confusion/annotations/stephenson-neal-the-confusion-7-the-new-pasha-neal-stephenson.md'
+        'stephenson-neal-the-confusion-8-algiers-alan-sinder.md': 'the-confusion/annotations/stephenson-neal-the-confusion-8-algiers-alan-sinder.md'
+        'stephenson-neal-the-confusion-8-moseh-de-la-cruz-alan-sinder.md': 'the-confusion/annotations/stephenson-neal-the-confusion-8-moseh-de-la-cruz-alan-sinder.md'
+        'stephenson-neal-the-confusion-8-bull-s-penis-neal-stephenson.md': 'the-confusion/annotations/stephenson-neal-the-confusion-8-bull-s-penis-neal-stephenson.md'
+        'stephenson-neal-the-confusion-9-syphilis-cured-by-fever-neal-stephenson.md': 'the-confusion/annotations/stephenson-neal-the-confusion-9-syphilis-cured-by-fever-neal-stephenson.md'
+        'stephenson-neal-the-confusion-9-diseases-neal-stephenson.md': 'the-confusion/annotations/stephenson-neal-the-confusion-9-diseases-neal-stephenson.md'
+        'stephenson-neal-the-confusion-29-jeronimo-neal-stephenson.md': 'the-confusion/annotations/stephenson-neal-the-confusion-29-jeronimo-neal-stephenson.md'
+        'stephenson-neal-the-confusion-32-st-lemuel-alan-sinder.md': 'the-confusion/annotations/stephenson-neal-the-confusion-32-st-lemuel-alan-sinder.md'
+        'stephenson-neal-the-confusion-35-the-cathedral-of-mexico-neal-stephenson.md': 'the-confusion/annotations/stephenson-neal-the-confusion-35-the-cathedral-of-mexico-neal-stephenson.md'
+        'stephenson-neal-the-confusion-35-the-viceroy-and-his-wife-neal-stephenson.md': 'the-confusion/annotations/stephenson-neal-the-confusion-35-the-viceroy-and-his-wife-neal-stephenson.md'
+        'stephenson-neal-the-confusion-44-partry-neal-stephenson.md': 'the-confusion/annotations/stephenson-neal-the-confusion-44-partry-neal-stephenson.md'
+        'stephenson-neal-the-confusion-51-praising-lieutenant-bart-in-a-letter-alan-sinder.md': 'the-confusion/annotations/stephenson-neal-the-confusion-51-praising-lieutenant-bart-in-a-letter-alan-sinder.md'
+        'stephenson-neal-the-confusion-67-de-crépy-and-de-gex-neal-stephenson.md': 'the-confusion/annotations/stephenson-neal-the-confusion-67-de-crépy-and-de-gex-neal-stephenson.md'
+        'stephenson-neal-the-confusion-84-bonanza-neal-stephenson.md': 'the-confusion/annotations/stephenson-neal-the-confusion-84-bonanza-neal-stephenson.md'
+        'stephenson-neal-the-confusion-84-guadalquivir-alan-sinder.md': 'the-confusion/annotations/stephenson-neal-the-confusion-84-guadalquivir-alan-sinder.md'
+        'stephenson-neal-the-confusion-85-bar-of-the-guadalquivir-neal-stephenson.md': 'the-confusion/annotations/stephenson-neal-the-confusion-85-bar-of-the-guadalquivir-neal-stephenson.md'
+        'stephenson-neal-the-confusion-88-ali-zaybak-neal-stephenson.md': 'the-confusion/annotations/stephenson-neal-the-confusion-88-ali-zaybak-neal-stephenson.md'
+        'stephenson-neal-the-confusion-93-chateau-juvisy-neal-stephenson.md': 'the-confusion/annotations/stephenson-neal-the-confusion-93-chateau-juvisy-neal-stephenson.md'
+        'stephenson-neal-the-confusion-96-de-la-vegas-neal-stephenson.md': 'the-confusion/annotations/stephenson-neal-the-confusion-96-de-la-vegas-neal-stephenson.md'
+        'stephenson-neal-the-confusion-102-gerhard-mann-neal-stephenson.md': 'the-confusion/annotations/stephenson-neal-the-confusion-102-gerhard-mann-neal-stephenson.md'
+        'stephenson-neal-the-confusion-117-stables-of-versailles-neal-stephenson.md': 'the-confusion/annotations/stephenson-neal-the-confusion-117-stables-of-versailles-neal-stephenson.md'
+        'stephenson-neal-the-confusion-123-la-dunette-neal-stephenson.md': 'the-confusion/annotations/stephenson-neal-the-confusion-123-la-dunette-neal-stephenson.md'
+        'stephenson-neal-the-confusion-132-bart-s-promotion-to-captain-neal-stephenson.md': 'the-confusion/annotations/stephenson-neal-the-confusion-132-bart-s-promotion-to-captain-neal-stephenson.md'
+        'stephenson-neal-the-confusion-142-plateau-of-satory-neal-stephenson.md': 'the-confusion/annotations/stephenson-neal-the-confusion-142-plateau-of-satory-neal-stephenson.md'
+        'stephenson-neal-the-confusion-144-la-dunette-joel-finkle.md': 'the-confusion/annotations/stephenson-neal-the-confusion-144-la-dunette-joel-finkle.md'
+        'stephenson-neal-the-confusion-145-the-death-of-the-prince-of-orange-neal-stephenson.md': 'the-confusion/annotations/stephenson-neal-the-confusion-145-the-death-of-the-prince-of-orange-neal-stephenson.md'
+        'stephenson-neal-the-confusion-146-toast-the-victory-of-the-french-the-free-english-alan-sinder.md': 'the-confusion/annotations/stephenson-neal-the-confusion-146-toast-the-victory-of-the-french-the-free-english-alan-sinder.md'
+        'stephenson-neal-the-confusion-150-upnor-s-anecdote-neal-stephenson.md': 'the-confusion/annotations/stephenson-neal-the-confusion-150-upnor-s-anecdote-neal-stephenson.md'
+        'stephenson-neal-the-confusion-153-dead-things-sauced-neal-stephenson.md': 'the-confusion/annotations/stephenson-neal-the-confusion-153-dead-things-sauced-neal-stephenson.md'
+        'stephenson-neal-the-confusion-153-de-jonzac-neal-stephenson.md': 'the-confusion/annotations/stephenson-neal-the-confusion-153-de-jonzac-neal-stephenson.md'
+        'stephenson-neal-the-confusion-157-de-sluys-fire-neal-stephenson.md': 'the-confusion/annotations/stephenson-neal-the-confusion-157-de-sluys-fire-neal-stephenson.md'
+        'stephenson-neal-the-confusion-301-decompose-such-a-number-into-its-prime-factors-electricinca.md': 'the-confusion/annotations/stephenson-neal-the-confusion-301-decompose-such-a-number-into-its-prime-factors-electricinca.md'
+        'stephenson-neal-the-confusion-360-rameau.md': 'the-confusion/annotations/stephenson-neal-the-confusion-360-rameau.md'
+        'stephenson-neal-the-confusion-494-the-barton-road-philb.md': 'the-confusion/annotations/stephenson-neal-the-confusion-494-the-barton-road-philb.md'
+        'stephenson-neal-the-confusion-504-arianism-joel-finkle.md': 'the-confusion/annotations/stephenson-neal-the-confusion-504-arianism-joel-finkle.md'
+        'stephenson-neal-the-confusion-579-a-woman-you-saw-once-joel-finkle.md': 'the-confusion/annotations/stephenson-neal-the-confusion-579-a-woman-you-saw-once-joel-finkle.md'
+        'stephenson-neal-the-confusion-582-theatrum-chemicum-alan-sinder.md': 'the-confusion/annotations/stephenson-neal-the-confusion-582-theatrum-chemicum-alan-sinder.md'
+        'stephenson-neal-the-confusion-591-prehensile-tails-david-mix-barrington.md': 'the-confusion/annotations/stephenson-neal-the-confusion-591-prehensile-tails-david-mix-barrington.md'
+        'stephenson-neal-the-confusion-617-i-have-seen-this-very-lady-in-plays-paulj.md': 'the-confusion/annotations/stephenson-neal-the-confusion-617-i-have-seen-this-very-lady-in-plays-paulj.md'
+        'stephenson-neal-the-confusion-681-after-we-had-installed-mr-foot-as-sultan-paulj.md': 'the-confusion/annotations/stephenson-neal-the-confusion-681-after-we-had-installed-mr-foot-as-sultan-paulj.md'
+        'stephenson-neal-the-confusion-691-yo-yo-alan-sinder.md': 'the-confusion/annotations/stephenson-neal-the-confusion-691-yo-yo-alan-sinder.md'
+        'stephenson-neal-the-confusion-693-the-only-one-who-survived-was-one-elizabeth-de-obregon-paulj.md': 'the-confusion/annotations/stephenson-neal-the-confusion-693-the-only-one-who-survived-was-one-elizabeth-de-obregon-paulj.md'
+        'stephenson-neal-the-confusion-711-thin-sheets-of-gold-electricinca.md': 'the-confusion/annotations/stephenson-neal-the-confusion-711-thin-sheets-of-gold-electricinca.md'
+        'stephenson-neal-the-confusion-751-the-globe-armaced.md': 'the-confusion/annotations/stephenson-neal-the-confusion-751-the-globe-armaced.md'
+        'stephenson-neal-the-confusion-754-two-ships-in-the-pacifc-armaced.md': 'the-confusion/annotations/stephenson-neal-the-confusion-754-two-ships-in-the-pacifc-armaced.md'
         'the-confusion-s-dramatis-personæ.md': 'stephenson-neal-the-confusion-dramatis-personæ.md'
         'apocalypse.md': 'stephenson-neal-quicksilver-99-end-of-days-alan-sinder.md'
         'ben-franklin.md': 'benjamin-franklin.md'
