@@ -1,23 +1,21 @@
 # Quicksilver Wiki
 
 This site is a mirror of the original Metaweb/Quicksilver Wiki, which is no
-longer online. It's meant to help you follow along while reading the Baroque
-Cycle.
+longer online. While the Metaweb was originally a more ambitious project, this
+is essentially a site to help you follow along while reading the Baroque Cycle.
 
-A good starting point would be the page (or annotations) for the book you're
-reading:
+A good starting point would be the page (or annotations) for the book in the
+series you're reading:
 
 - [Quicksilver](quicksilver) ([annotations](quicksilver/annotations) and [characters](stephenson-neal-quicksilver-list-of-people))
 - [The Confusion](the-confusion) ([annotations](the-confusion/annotations) and [characters](stephenson-neal-the-confusion-dramatis-personæ))
 - [The System of the World](the-system-of-the-world) ([annotations](the-system-of-the-world/annotations) and [characters](stephenson-neal-the-system-of-the-world-dramatis-personæ))
 
 ## More info and history
-### Baroque Cycle Books
+### The Baroque Cycle and Metaweb
 
 In 2003 [Neal Stephenson](neal-stephenson) published [Quicksilver](quicksilver), the first
 novel in his historical fiction series the [Baroque Cycle](stephenson-neal-baroque-cycle.md).
-
-### The original Quicksilver Wiki aka the Metaweb
 
 As part of this release, Stephenson set up a [wiki](metaweb-metaweb-introduction-neal-stephenson.md) with annotations and info on
 the book. This wiki was edited both by Stephenson and community of readers.
