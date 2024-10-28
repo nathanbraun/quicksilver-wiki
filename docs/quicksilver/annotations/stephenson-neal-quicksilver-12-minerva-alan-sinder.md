@@ -9,23 +9,14 @@ This is an intermediate page for **Minerva**.
 
 ### Stephensonia
 
-
-*Besides being the showcase high tech marvel Merchant Ship — [Minerva](/minerva) is the Roman [Athena](/athena). That [Daniel Waterhouse](/daniel-waterhouse) spies an a Rubens painting that seems to be Minerva and Mercury conduct the Duke of Buckingham to the Temple of Virtue at one point in his London wonderings should MEAN something! Minerva is often paired with [Mercury](/quicksilver-or-mercury). Macrame and speed?*![Mini-MinervaFH-MW.jpg](/https://web.archive.org/web/20060725170907im_/http://www.metaweb.com/wiki/upload/0/0f/Mini-MinervaFH-MW.jpg)  
-**MINERVA**  
-**as a figurehead**
-
-### Authored entries
-
-
-* [Captain van Hoek](/stephenson-neal-quicksilver-captain-van-hoek)
-* [Stephenson:Neal:Quicksilver:69:well-trimmed ship (Neal Stephenson)](/stephenson-neal-quicksilver-69-well-trimmed-ship-neal-stephenson)
-* [Stephenson:Neal:Quicksilver:74:wheel by which the ship is steered (Neal Stephenson)](/stephenson-neal-quicksilver-74-wheel-by-which-the-ship-is-steered-neal-stephenson)
-* [Stephenson:Neal:Quicksilver:166:Schooners (Alan Sinder)](/stephenson-neal-quicksilver-166-schooners-alan-sinder)
-* [Stephenson:Neal:Quicksilver:166:Teach (Neal Stephenson)](/stephenson-neal-quicksilver-166-teach-neal-stephenson)
-
+Besides being the showcase high tech marvel Merchant Ship — [Minerva](/minerva)
+is the Roman [Athena](/athena). That [Daniel Waterhouse](/daniel-waterhouse)
+spies an a Rubens painting that seems to be Minerva and Mercury conduct the
+Duke of Buckingham to the Temple of Virtue at one point in his London
+wonderings should MEAN something! Minerva is often paired with
+[Mercury](/quicksilver-or-mercury). Macrame and speed?
 
 ### The Merchant Ship Minerva
-
 
 Minerva seems to be a three masted Barquentine retrofitted with rot resistant Malabar teak and odd modern improvements such as a *new-fangled* balanced ship's wheel. This fine vessel is commandered by [pirate](/pirates)-hating [Captain van Hoek](/stephenson-neal-quicksilver-captain-van-hoek).
 
@@ -38,14 +29,9 @@ The British-built ship French Guinea slaver *La Concorde*, destined to become Bl
 
 She was in the style of a Dutch flute, which had been a popular design for European merchant ships in the early 1700's. Not content with the 26 cannons she was already carrying, Blackbeard increased the number to 40. Any Dutch Flute was a prize in the early 18th Century.
 ![MerchantshipMW.jpg](/https://web.archive.org/web/20060725170907im_/http://www.metaweb.com/wiki/upload/a/a2/MerchantshipMW.jpg)  
- **A Dutch-style Flute  
-identified as being a replica  
-of the HMAV Bounty**
-
 Primarily a prize for the shipping world, the Flute was an impressive 300 ton, 80 foot ship that proved inexpensive to build as well as man. The Flute needed only a dozen seamen. With a flat bottom, broad beams, and a round stern, this ship soon became the favored model of a cargo ship. A large part of the popularity of the Flute for commerce was her incredible cargo capacity; about 150% that of similar ships. In this, they soon became a common prey for savvy pirates.
 
 ### The Flute-ship
-
 
 One suspect the actual name of the van Hoek's ship would be the *Juffrouw Minerva*. And a Dutch designed ship would be bigger than the the British *La Concorde*. 
 

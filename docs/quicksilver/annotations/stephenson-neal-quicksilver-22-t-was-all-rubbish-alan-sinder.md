@@ -4,28 +4,8 @@
 From the Quicksilver Metaweb.
 
 Placeholder for **Alchemy**
-### Stephensonia
-
-
-*[Enoch the Red](/stephenson-neal-quicksilver-enoch-root) seemed quite the Alchemist.*
-
-### Authored entries
-
-
-* [Boyle's Law, aka Hooke's, Boyle's, and Mariotte's Law (Neal Stephenson)](/boyle-s-law-aka-hooke-s-boyle-s-and-mariotte-s-law-neal-stephenson)
-* [Isaac Newton (Alan Sinder)](/isaac-newton-alan-sinder)
-* [Stephenson:Neal:Quicksilver:4:...On Sir Isaac Newton's temperature scale... (Alan Sinder)](/stephenson-neal-quicksilver-4-on-sir-isaac-newton-s-temperature-scale-alan-sinder)
-* [Stephenson:Neal:Quicksilver:11:Gold knows... (Alan Sinder)](/stephenson-neal-quicksilver-11-gold-knows-alan-sinder)
-* [Stephenson:Neal:Quicksilver:20:Ask your father (Alan Sinder)](/stephenson-neal-quicksilver-20-ask-your-father-alan-sinder)
-* [Stephenson:Neal:Quicksilver:18:...a specimen of white phosphorus... (Alan Sinder)](/stephenson-neal-quicksilver-18-a-specimen-of-white-phosphorus-alan-sinder)
-* [Stephenson:Neal:Quicksilver:83:Translated into the Analytical language...(Alan Sinder)](/stephenson-neal-quicksilver-83-translated-into-the-analytical-language-alan-sinder)
-* [Stephenson:Neal:Quicksilver:181:In the House of Monsieur Le Febure (Neal Stephenson)](/stephenson-neal-quicksilver-181-in-the-house-of-monsieur-le-febure-neal-stephenson)
-* [Stephenson:Neal:Quicksilver:257:Jeova Sanctus Unus (Professorbikeybike)](/stephenson-neal-quicksilver-257-jeova-sanctus-unus-professorbikeybike)
-* [Stephenson:Neal:Quicksilver:688:Theologians? Sorcerers? (Neal Stephenson)](/stephenson-neal-quicksilver-688-theologians-sorcerers-neal-stephenson)
-
 
 ### Community entry: Overview of Alchemy
-
 
 In a sense, alchemists, the practitioners of alchemy, can now be regarded as proto-scientists applying a fusion of science, art, and religion to chemical physics, and alchemy can be regarded as the precursor of the modern science of chemistry prior to the formulation of the scientific method. 
 
@@ -108,35 +88,3 @@ Indeed, the remnants of alchemical traditions can still be seen in modern medici
 While the Paracelsian interpretation led to the development of modern medicine, a different offshoot led to modern chemistry. [Robert Boyle](/robert-boyle) (1627-1691) is well known for his studies of gases, leading to [Boyles law](/boyle-s-law), but few realize the importance of this man to modern chemistry. In the early 1600s, alchemy was synonymous with medicine and chemistry. By Boyle's time, alchemists had disposed of most of the occultist beliefs that once plagued the Art, but still they clung to the hermetical beliefs that had been carried down through the millennia. Boyle did away with this. He assumed nothing in his experiments and compiled every piece of relevant data; in a typical experiment, Boyle would collect data on the place in which the experiment was carried out, the wind characteristics, the position of the sun and moon, and the barometer reading, all just in case they proved to be relevant. (Pilkington p.11) 
 
 It is important to know that up to the 18th century, alchemy was considered serious science; for instance, Isaac Newton devoted a great time to alchemy. With the birth of modern chemistry, alchemy was made impotent. As scientists began to discover and rationalize the clockwork of the universe, alchemical theories were thrown in the waste basket, unneeded and forgotten. It is sobering to observe that alchemy, after having such a rich and colorful two thousand years of history - during which it enjoyed the preeminent position among scientific studies - could be so easily and totally ostracized by scientists and common citizens.
-
-### Related entries
-
-
-* [Isaac Newton](/isaac-newton)
-* [Enoch Root](/enoch-root)
-* [Rene Descartes](/rene-descartes)
-* [Elias Ashmole](/elias-ashmole)
-* [Robert Boyle](/robert-boyle)
-* [Boyle's Law](/boyle-s-law)
-* [Quicksilver, or mercury](/quicksilver-or-mercury)
-* [The Confusion](/stephenson-neal-the-confusion)
-* [Gunpowder Plot](/gunpowder-plot)
-* [Nicolas Fatio de Duillier](/nicolas-fatio-de-duillier)
-* [Micrographia](/micrographia)
-* [Francis Bacon](/francis-bacon)
-* [Daniel Gabriel Fahrenheit](/daniel-gabriel-fahrenheit)
-* [A Fan's Review of Snow Crash](/stephenson-neal-snow-crash-review-206-116-174-7)
-* [Metaphysics](/metaphysics)
-* [Tycho Brahe](/tycho-brahe)
-* [Metallurgy](/metallurgy)
-* [Talk:Scientific principles](/talk-scientific-principles)
-* [Talk:Stephenson:Neal:Quicksilver:Enoch Root](/talk-stephenson-neal-quicksilver-enoch-root)
-* [Talk:Stephenson:Neal:Quicksilver:List of people](/talk-stephenson-neal-quicksilver-list-of-people)
-* [Talk:Stephenson:Neal:Snow Crash:Review (206.116.174.7)](/talk-stephenson-neal-snow-crash-review-206-116-174-7)
-
-
-### External links
-
-
-* **[Alchemy's Symbols](/http-www-chemsoc-org-viselements-pages-alchemist-alchemy-html)**
-* [The Chymistry of Isaac Newton](/http-webapp1-dlib-indiana-edu-newton-index-jsp): A growing collection of Isaac Newton's original alchemy notes, being prepared jointly by Indiana University and the National Science Foundation. Includes a complete scan of Newton's most complete laboratory notebook.

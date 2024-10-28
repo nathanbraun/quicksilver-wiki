@@ -30,8 +30,6 @@ The annotations refer to the American hardcover edition, [ISBN
 
 [1 - Those who assume hypotheses... (Neal Stephenson)](stephenson-neal-quicksilver-1-those-who-assume-hypotheses-neal-stephenson)
 
-[3 - October 12, 1713, 10:33:52 A.M. (Alan Sinder)](stephenson-neal-quicksilver-3-october-12-1713-10-33-52-a-m-alan-sinder)
-
 [3 - Jack Ketch (Neal Stephenson)](stephenson-neal-quicksilver-3-jack-ketch-neal-stephenson)
 
 [3 - ...dollop of hills... (Neal Stephenson)](stephenson-neal-quicksilver-3-dollop-of-hills-neal-stephenson)
@@ -40,19 +38,13 @@ The annotations refer to the American hardcover edition, [ISBN
 
 [4 - ...On Sir Isaac Newton's temperature scale... (Alan Sinder)](stephenson-neal-quicksilver-4-on-sir-isaac-newton-s-temperature-scale-alan-sinder)
 
-[4 - new quicksilver-filled, sealed-tube thermometers(Alan Sinder)](stephenson-neal-quicksilver-4-new-quicksilver-filled-sealed-tube-thermometers-alan-sinder)
-
 [4 - ...pale gray eyes... (Andux)](stephenson-neal-quicksilver-4-pale-gray-eyes-andux)
 
 [5 - ...the preacher's rantings... (Alan Sinder)](stephenson-neal-quicksilver-5-the-preacher-s-rantings-alan-sinder)
 
 [5 - ...the last one... (Neal Stephenson)](stephenson-neal-quicksilver-5-the-last-one-neal-stephenson)
 
-[5 - ...seen more than one city burn... (Alan Sinder)](stephenson-neal-quicksilver-5-seen-more-than-one-city-burn-alan-sinder)
-
 [6 - Cartesian number-line (Neal Stephenson)](stephenson-neal-quicksilver-6-cartesian-number-line-neal-stephenson)
-
-[6 - bits of slaughtered animals(Alan Sinder)](stephenson-neal-quicksilver-6-bits-of-slaughtered-animals-alan-sinder)
 
 [7 - Ben. Son of Josaiah. (Gary Thompson)](stephenson-neal-quicksilver-7-ben-son-of-josaiah-gary-thompson)
 
@@ -70,8 +62,6 @@ The annotations refer to the American hardcover edition, [ISBN
 
 [11 - Hypothesis of Vortices (Neal Stephenson)](stephenson-neal-quicksilver-11-hypothesis-of-vortices-neal-stephenson)
 
-[11 - Gold knows... (Alan Sinder)](stephenson-neal-quicksilver-11-gold-knows-alan-sinder)
-
 [12 - Minerva... (Alan Sinder)](stephenson-neal-quicksilver-12-minerva-alan-sinder)
 
 [13 - Some Irish, the rest Angolan... (Alan Sinder)](stephenson-neal-quicksilver-13-some-irish-the-rest-angolan-alan-sinder)
@@ -82,31 +72,9 @@ The annotations refer to the American hardcover edition, [ISBN
 
 [16 - Massachusetts Bay Colony Institute of Technologickal Arts (Patrick Tufts)](stephenson-neal-quicksilver-16-massachusetts-bay-colony-institute-of-technologickal-arts-patrick-tufts)
 
-[17 - ...Oh Dear...(Alan Sinder)](stephenson-neal-quicksilver-17-oh-dear-alan-sinder)
-
-[18 - ...a specimen of white phosphorus... (Alan Sinder)](stephenson-neal-quicksilver-18-a-specimen-of-white-phosphorus-alan-sinder)
-
 [18 - ...heard by their future Queen... (Chris Swingley)](stephenson-neal-quicksilver-18-heard-by-their-future-queen-chris-swingley)
 
-[18 - ...heard by their future Queen... (Alan Sinder)](stephenson-neal-quicksilver-18-heard-by-their-future-queen-alan-sinder)
-
-[18 - ...behaving as if Queen Anne were already dead and buried,... (Alan Sinder)](stephenson-neal-quicksilver-18-behaving-as-if-queen-anne-were-already-dead-and-buried-alan-sinder)
-
-[20 - most disorderly(Alan Sinder)](stephenson-neal-quicksilver-20-most-disorderly-alan-sinder)
-
-[20 - Ask your father (Alan Sinder)](stephenson-neal-quicksilver-20-ask-your-father-alan-sinder)
-
 [20 - A harder question (Jeremy Bornstein)](stephenson-neal-quicksilver-20-a-harder-question-jeremy-bornstein)
-
-[21 - Killed a great deal of Irishmen(Alan Sinder)](stephenson-neal-quicksilver-21-killed-a-great-deal-of-irishmen-alan-sinder)
-
-[21 - granted all men - even Jews - the right to worship(Alan Sinder)](stephenson-neal-quicksilver-21-granted-all-men-even-jews-the-right-to-worship-alan-sinder)
-
-[21 - Navigation Act(Alan Sinder)](stephenson-neal-quicksilver-21-navigation-act-alan-sinder)
-
-[21 - Mister Clarke had to get in line(Alan Sinder)](stephenson-neal-quicksilver-21-mister-clarke-had-to-get-in-line-alan-sinder)
-
-[21 - Francis Bacon, Galileo, Descartes(Alan Sinder)](stephenson-neal-quicksilver-21-francis-bacon-galileo-descartes-alan-sinder)
 
 [21 - John Comstock and Thomas More Anglesey (Neal Stephenson)](stephenson-neal-quicksilver-21-john-comstock-and-thomas-more-anglesey-neal-stephenson)
 
@@ -118,33 +86,20 @@ The annotations refer to the American hardcover edition, [ISBN
 
 [22 - John Wilkins...Cryptonomicon (Neal Stephenson)](stephenson-neal-quicksilver-22-john-wilkins-cryptonomicon-neal-stephenson)
 
-[22 - Wizard's robes (Alan Sinder)](stephenson-neal-quicksilver-22-wizard-s-robes-alan-sinder)
-
 [25 - Clarke (Neal Stephenson)](stephenson-neal-quicksilver-25-clarke-neal-stephenson)
 
 [26 - Cha, or chai, or the, or tay(Sorenson)](stephenson-neal-quicksilver-26-cha-or-chai-or-the-or-tay-sorenson)
 
 [29 - ...rub his prisoner's face... (Neal Stephenson)](stephenson-neal-quicksilver-29-rub-his-prisoner-s-face-neal-stephenson)
 
-[29 - lace (Alan Sinder)](stephenson-neal-quicksilver-29-lace-alan-sinder)
-
-[31 - the muse (Alan Sinder)](stephenson-neal-quicksilver-31-the-muse-alan-sinder)
-
 [33 - show the boy Euclid...(Alan Sinder)](stephenson-neal-quicksilver-33-show-the-boy-euclid-alan-sinder)
 
-[35 - Sir John Floyer just invented it(Alan Sinder)](stephenson-neal-quicksilver-35-sir-john-floyer-just-invented-it-alan-sinder)
-
-[36 - According to what scheme? (Alan Sinder)](stephenson-neal-quicksilver-36-according-to-what-scheme-alan-sinder)
 
 [36 - It is the product of five primes. (Gary Thompson)](stephenson-neal-quicksilver-36-it-is-the-product-of-five-primes-gary-thompson)
 
 [36 - No linear indexing system (Edward Vielmetti)](stephenson-neal-quicksilver-36-no-linear-indexing-system-edward-vielmetti)
 
-[37 - ...less fraught with seasickness, pirates, scurvy, mass drownings... (Alan Sinder)](stephenson-neal-quicksilver-37-less-fraught-with-seasickness-pirates-scurvy-mass-drownings-alan-sinder)
-
 [40 - The priority dispute has turned vicious (Alan Sinder)](stephenson-neal-quicksilver-40-the-priority-dispute-has-turned-vicious-alan-sinder)
-
-[40 - Hercules(Alan Sinder)](stephenson-neal-quicksilver-40-hercules-alan-sinder)
 
 [43 - Fellow Armenian (Jeremy Bornstein)](stephenson-neal-quicksilver-43-fellow-armenian-jeremy-bornstein)
 
@@ -152,17 +107,9 @@ The annotations refer to the American hardcover edition, [ISBN
 
 [46 - ...campus of domed pavilions (Alan Sinder)](stephenson-neal-quicksilver-46-campus-of-domed-pavilions-alan-sinder)
 
-[49 - John Comstock, drawn up an Act of Uniformity (Alan Sinder)](stephenson-neal-quicksilver-49-john-comstock-drawn-up-an-act-of-uniformity-alan-sinder)
-
 [60 - Isaac was pale and starlight(ghash)](stephenson-neal-quicksilver-60-isaac-was-pale-and-starlight-ghash)
 
-[61 - a certain natural wave(Alan Sinder)](stephenson-neal-quicksilver-61-a-certain-natural-wave-alan-sinder)
-
 [64 - Mrs. Goose (Neal Stephenson)](stephenson-neal-quicksilver-64-mrs-goose-neal-stephenson)
-
-[64 - a Free Will man?(Alan Sinder)](stephenson-neal-quicksilver-64-a-free-will-man-alan-sinder)
-
-[67 - Godfrey can imagine a hero-father(Alan Sinder)](stephenson-neal-quicksilver-67-godfrey-can-imagine-a-hero-father-alan-sinder)
 
 [69 - well-trimmed ship (Neal Stephenson)](stephenson-neal-quicksilver-69-well-trimmed-ship-neal-stephenson)
 
@@ -178,27 +125,15 @@ The annotations refer to the American hardcover edition, [ISBN
 
 [80 - Stourbridge Fair (Alan Sinder)](stephenson-neal-quicksilver-80-stourbridge-fair-alan-sinder)
 
-[83 - Translated into the Analytical language...(Alan Sinder)](stephenson-neal-quicksilver-83-translated-into-the-analytical-language-alan-sinder)
-
 [86 - Ashkenazi (Jeremy Bornstein)](stephenson-neal-quicksilver-86-ashkenazi-jeremy-bornstein)
 
 [91 - Atlantic is striped with currents (Chris Swingley)](stephenson-neal-quicksilver-91-atlantic-is-striped-with-currents-chris-swingley)
 
 [92 - The page ends abruptly. (Scott Elkin)](stephenson-neal-quicksilver-92-the-page-ends-abruptly-scott-elkin)
 
-[93 - The Plague Year (Alan Sinder)](stephenson-neal-quicksilver-93-the-plague-year-alan-sinder)
-
 [94 - found God (Neal Stephenson)](stephenson-neal-quicksilver-94-found-god-neal-stephenson)
 
 [96 - YOU AND I ARE BUT EARTH (Gary Thompson)](stephenson-neal-quicksilver-96-you-and-i-are-but-earth-gary-thompson)
-
-[99 - end of days (Alan Sinder)](stephenson-neal-quicksilver-99-end-of-days-alan-sinder)
-
-[105 - rain of ticks (Alan Sinder)](stephenson-neal-quicksilver-105-rain-of-ticks-alan-sinder)
-
-[105 - grown from the corpses of rats](stephenson-neal-quicksilver-105-grown-from-the-corpses-of-rats)
-
-[108 - Mayflower (Alan Sinder)](stephenson-neal-quicksilver-108-mayflower-alan-sinder)
 
 [110 - Walbrook (Lotzmana)](stephenson-neal-quicksilver-110-walbrook-lotzmana)
 
@@ -220,29 +155,21 @@ The annotations refer to the American hardcover edition, [ISBN
 
 [150 - Newton at Woolsthorpe (Neal Stephenson)](stephenson-neal-quicksilver-150-newton-at-woolsthorpe-neal-stephenson)
 
-[150 - Newton at Woolsthorpe (Alan Sinder)](stephenson-neal-quicksilver-150-newton-at-woolsthorpe-alan-sinder)
-
 [160 - Regents Firewall (Simon)](stephenson-neal-quicksilver-160-regents-firewall-simon)
 
 [161 - Blunderbuss (Professor Bikey Bike)](stephenson-neal-quicksilver-161-blunderbuss-professor-bikey-bike)
 
 [165 - Zeno's Paradox (Matt Zwolinski)](stephenson-neal-quicksilver-165-zeno-s-paradox-matt-zwolinski)
 
-[166 - Schooners (Alan Sinder)](stephenson-neal-quicksilver-166-schooners-alan-sinder)
-
 [166 - Schooners (Neal Stephenson)](stephenson-neal-quicksilver-166-schooners-neal-stephenson)
 
 [166 - Strange information (Neal Stephenson)](stephenson-neal-quicksilver-166-strange-information-neal-stephenson)
-
-[166 - flashes of light (Alan Sinder)](stephenson-neal-quicksilver-166-flashes-of-light-alan-sinder)
 
 [166 - Teach (Neal Stephenson)](stephenson-neal-quicksilver-166-teach-neal-stephenson)
 
 [170 - CABAL (Neal Stephenson)](stephenson-neal-quicksilver-170-cabal-neal-stephenson)
 
 [170 - John Locke was writing a constitution for Carolina(Mike Lorrey & Alan Sinder)](stephenson-neal-quicksilver-170-john-locke-was-writing-a-constitution-for-carolina-mike-lorrey-alan-sinder)
-
-[173 - Coffee (Alan Sinder)](stephenson-neal-quicksilver-173-coffee-alan-sinder)
 
 [176 - Black Velvet (Scott Elkin)](stephenson-neal-quicksilver-176-black-velvet-scott-elkin)
 

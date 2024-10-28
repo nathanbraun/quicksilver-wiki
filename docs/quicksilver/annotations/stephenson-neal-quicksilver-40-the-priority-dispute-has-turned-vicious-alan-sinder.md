@@ -4,34 +4,11 @@
 From the Quicksilver Metaweb.
 
 placeholder for **Newton VERSUS Leibniz**
+
 ### Stephensonia
 
 
-*This is the reason [Daniel Waterhouse](/daniel-waterhouse) is traveling to England in 1713. [Enoch Root](/stephenson-neal-quicksilver-enoch-root) has suggested that the [Massachusetts Bay Colony Institute of Technologickal Arts](/massachusetts-bay-colony-institute-of-technologickal-arts) is suffering *birth pains* because of the pan-Anglo (colonists as well as proud Britons) view [Gottfried Wilhelm von Leibniz](/gottfried-wilhelm-von-leibniz) as a plagarist.*
-
-### Authored entries
-
-
-* [Daniel Waterhouse (Alan Sinder)](/daniel-waterhouse-alan-sinder)
-* [Isaac Newton (Alan Sinder)](/isaac-newton-alan-sinder)
-* [Stephenson:Neal:Quicksilver:1:Those who assume hypotheses... (Neal Stephenson)](/stephenson-neal-quicksilver-1-those-who-assume-hypotheses-neal-stephenson)
-* [Stephenson:Neal:Quicksilver:16:Massachusetts Bay Colony Institute of Technologickal Arts (Neal Stephenson)](/stephenson-neal-quicksilver-16-massachusetts-bay-colony-institute-of-technologickal-arts-neal-stephenson)
-* [Stephenson:Neal:Quicksilver:16:Massachusetts Bay Colony Institute of Technologickal Arts (Patrick Tufts)](/stephenson-neal-quicksilver-16-massachusetts-bay-colony-institute-of-technologickal-arts-patrick-tufts)
-* [Stephenson:Neal:Quicksilver:83:Translated into the Analytical language...(Alan Sinder)](/stephenson-neal-quicksilver-83-translated-into-the-analytical-language-alan-sinder)
-* [Stephenson:Neal:Quicksilver:257:Jeova Sanctus Unus (Professorbikeybike)](/stephenson-neal-quicksilver-257-jeova-sanctus-unus-professorbikeybike)
-* [Stephenson:Neal:Quicksilver:278:...truth can be grasped as if pictured on paper.(Gary Thompson)](/stephenson-neal-quicksilver-278-truth-can-be-grasped-as-if-pictured-on-paper-gary-thompson)
-* [Stephenson:Neal:Quicksilver:299:When you turn the crank?(Alan Sinder)](/stephenson-neal-quicksilver-299-when-you-turn-the-crank-alan-sinder)
-* [Stephenson:Neal:Quicksilver:316:the first few terms of a series (jere7my tho?rpe)](/stephenson-neal-quicksilver-316-the-first-few-terms-of-a-series-jere7my-tho-rpe)
-* [Stephenson:Neal:Quicksilver:318:...the monster (Alan Sinder)](/stephenson-neal-quicksilver-318-the-monster-alan-sinder)
-* [Stephenson:Neal:Quicksilver:613:the previous twelve years (Neal Stephenson)](/stephenson-neal-quicksilver-613-the-previous-twelve-years-neal-stephenson)
-* [Stephenson:Neal:Quicksilver:621:Brevis Demonstratio Erroris... (Craig Stuntz)](/stephenson-neal-quicksilver-621-brevis-demonstratio-erroris-craig-stuntz)
-* [Stephenson:Neal:Quicksilver:660:What of Newton? (Neal Stephenson)](/stephenson-neal-quicksilver-660-what-of-newton-neal-stephenson)
-* [Stephenson:Neal:Quicksilver:662:De Motu Corporum in Gyrum (Craig Stuntz)](/stephenson-neal-quicksilver-662-de-motu-corporum-in-gyrum-craig-stuntz)
-* [Stephenson:Neal:Quicksilver:674:LIBRI I. CONICORUM APOLLONII (Neal Stephenson)](/stephenson-neal-quicksilver-674-libri-i-conicorum-apollonii-neal-stephenson)
-* [Stephenson:Neal:Quicksilver:688:Theologians? Sorcerers? (Neal Stephenson)](/stephenson-neal-quicksilver-688-theologians-sorcerers-neal-stephenson)
-* [Stephenson:Neal:Quicksilver:747:A Swiss mathematician named Fatio (Neal Stephenson)](/stephenson-neal-quicksilver-747-a-swiss-mathematician-named-fatio-neal-stephenson)
-* [Stephenson:Neal:Quicksilver:804:in fact it was a vector (Olivier Gerard)](/stephenson-neal-quicksilver-804-in-fact-it-was-a-vector-olivier-gerard)
-
+This is the reason [Daniel Waterhouse](/daniel-waterhouse) is traveling to England in 1713. [Enoch Root](/stephenson-neal-quicksilver-enoch-root) has suggested that the [Massachusetts Bay Colony Institute of Technologickal Arts](/massachusetts-bay-colony-institute-of-technologickal-arts) is suffering *birth pains* because of the pan-Anglo (colonists as well as proud Britons) view [Gottfried Wilhelm von Leibniz](/gottfried-wilhelm-von-leibniz) as a plagarist.
 
 ### Who's on First? Chicken or Egg
 
