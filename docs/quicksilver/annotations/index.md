@@ -179,8 +179,6 @@ The annotations refer to the American hardcover edition, [ISBN
 
 [183 - Meeting of the Society (Neal Stephenson)](stephenson-neal-quicksilver-183-meeting-of-the-society-neal-stephenson)
 
-[185 - Tarantella (Alan Sinder)](stephenson-neal-quicksilver-185-tarantella-alan-sinder)
-
 [187 - Samuel Pepys (Joe Goldberg)](stephenson-neal-quicksilver-187-samuel-pepys-joe-goldberg)
 
 [195 - Comstock House (Neal Stephenson)](stephenson-neal-quicksilver-195-comstock-house-neal-stephenson)
@@ -209,7 +207,7 @@ The annotations refer to the American hardcover edition, [ISBN
 
 [278 - ...truth can be grasped as if pictured on paper.(Gary Thompson)](stephenson-neal-quicksilver-278-truth-can-be-grasped-as-if-pictured-on-paper-gary-thompson)
 
-[299 - When you turn the crank?(Alan Sinder)](stephenson-neal-quicksilver-299-when-you-turn-the-crank-alan-sinder)
+[299 - When you turn the crank?(Alan Sinder)](stephenson-neal-quicksilver-299-when-you-turn-the-crank-alan-sinder)
 
 [305 - The Bernoullis (Jonnay)](stephenson-neal-quicksilver-305-the-bernoullis-jonnay)
 [308 - Richard Comstock](stephenson-neal-quicksilver-308-richard-comstock)
@@ -262,7 +260,7 @@ The annotations refer to the American hardcover edition, [ISBN
 
 [463 - L'Emmerdeur (Jeremy Bornstein)](stephenson-neal-quicksilver-463-l-emmerdeur-jeremy-bornstein)
 
-[475 - half a mile of Sophie (Alan Sinder)](stephenson-neal-quicksilver-475-half-a-mile-of-sophie-alan-sinder)
+[475 - half a mile of Sophie (Alan Sinder)](stephenson-neal-quicksilver-475-half-a-mile-of-sophie-alan-sinder)
 
 [476 - Damplatz (Neville Kuyt)](stephenson-neal-quicksilver-476-damplatz-neville-kuyt)
 

@@ -1,29 +1,19 @@
 
-# Stephenson:Neal:Quicksilver:475:half a mile of Sophie (Alan Sinder)
+# Stephenson:Neal:Quicksilver:475: half a mile of Sophie (Alan Sinder)
 
 From the Quicksilver Metaweb.
 
 The [Quicksilver](/quicksilver) page for **Sophie of Hannover**
-### Stephensonia
 
+### Stephensonia
 
 *She ennobled [the Doctor](/gottfried-wilhelm-von-leibniz) so she could have a decent conversation once in a while.*
 
-### Authored entries
-
-
-* [Stephenson:Neal:Quicksilver:18:...heard by their future Queen... (Chris Swingley)](/stephenson-neal-quicksilver-18-heard-by-their-future-queen-chris-swingley)
-* [Stephenson:Neal:Quicksilver:18:...behaving as if Queen Anne were already dead and buried,... (Alan Sinder)](/stephenson-neal-quicksilver-18-behaving-as-if-queen-anne-were-already-dead-and-buried-alan-sinder)
-* [Stephenson:Neal:Quicksilver:18:...a specimen of white phosphorus... (Alan Sinder)](/stephenson-neal-quicksilver-18-a-specimen-of-white-phosphorus-alan-sinder)
-
-
 ### [Wikipedia: Sophia of Hanover](/http-en-wikipedia-org-wiki-sophia-of-hanover)
 
+![Sophia_of_Hanover.jpg](http://upload.wikimedia.org/wikipedia/en/9/9b/Sophia_of_Hanover.jpg)  
 
-
-![Sophia_of_Hanover.jpg](/https://web.archive.org/web/20060725170726im_/http://upload.wikimedia.org/wikipedia/en/9/9b/Sophia_of_Hanover.jpg)  
-
-**Young Sophia  
+Young Sophia  
 
 12th child of the  
 "Winter King" Frederick V, Elector Palatine of the Rhine**
@@ -39,21 +29,4 @@ The Act of Settlement restricts the throne to the "Protestant heirs" of Sophia o
 
 Before her marriage, Sophia, as the daughter of Frederick V, Elector Palatine of the Rhine, was referred to as Sophie, Princess Palatine of the Rhine, or as Sophia of the Palatinate.
 
-### Related entries
-
-
-* [Schloss Herrenhausen](/schloss-herrenhausen)
-* [Cryptonomicon](/cryptonomicon)
-* [Daniel Waterhouse](/daniel-waterhouse)
-* [Princess Caroline](/caroline-of-ansbach)
-* [The Priority Dispute](/the-priority-dispute)
-* [Enoch Root](/stephenson-neal-quicksilver-enoch-root)
-* [Charles II](/charles-ii)
-* [Isaac Newton](/isaac-newton)
-* [Philosophick Mercury](/quicksilver-or-mercury)
-
-
-### External Links
-
-
-* [The Houses of Welf Hohenzollern](/http-www-nealstephenson-com-family-welfhohenzollern-htm)
+https://en.wikipedia.org/wiki/Sophia_of_Hanover

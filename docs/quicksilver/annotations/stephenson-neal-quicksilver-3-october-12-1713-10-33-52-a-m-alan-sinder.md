@@ -6,11 +6,9 @@ From the Quicksilver Metaweb.
 **Timestamp**
 ### Stephensonia
 
-
 *¿ - How is the first chapter SO precisely timed on Columbus Day 1713?*
 
 ### Accurate Timestamp
-
 
 Is part of the advanced tech [Enoch Root](/stephenson-neal-quicksilver-enoch-root) MIGHT HAVE an item that will give him a solution to the Longitude problem. Is this time based upon the Prime Meridian or local East Coast time? On land, Galileo's method of sighting the Jovian Moons had been used as of 1650 in Europe[[1]](/http-www-amazon-com-exec-obidos-tg-detail-0140258795-qid-1071050236-sr-1-2-ref-sr-1-2-103-8140691-3696657-v-glance-s-books).
 
@@ -36,7 +34,6 @@ When his astronomical information fell short he carefully examined and sifted al
 Longitude may be determined by calcuating the time difference between the location a person is in and Coordinated Universal Time (UTC). Since there are 24 hours in a day and 360 degrees in a circle, the sun moves 15 degrees per hour (360°/24 hours = 15° per hour). So if the time zone a person is in is three hours ahead of UTC then that person is at 45° longitude (3 hours × 15° per hour = 45°). In order to perform this calculation, however, a person needs to have a chronometer (watch) set to UTC and needs to determine local time by solar observation or astronomical observation. 
 
 A line of constant longitude is a meridian, and half of a great circle. 
-
 
 This measurement is important to navigation; the discovery of how to measure it accurately was one of the more important discoveries of the 1700s. 
 
