@@ -31,7 +31,7 @@ The Shaftoes are a fictional family, though Stephenson may be familiar with the 
 
 The Shaftoes have a complicated multigenerational relationship with the [Waterhouse family](/stephenson-neal-quicksilver-waterhouse-family).
 
-Bobby Shaftoe may be a reference to the old nursery rhyme / folk song "Bobby Shaftoe" [[1]](/http-www-personal-umich-edu-pfa-dreamhouse-nursery-rhymes-shaftoe-html):
+Bobby Shaftoe may be a reference to the old nursery rhyme / folk song "Bobby Shaftoe" [[1]](http://www.personal.umich.edu/pfa-dreamhouse-nursery-rhymes-shaftoe.html):
 
  Bobby Shaftoe went to sea,
  Silver buckles on his knee.
@@ -43,7 +43,7 @@ Bobby Shaftoe may be a reference to the old nursery rhyme / folk song "Bobby Sha
  He's my friend for evermore,
  Pretty Bobby Shaftoe.
 
-and alternately [[2]](/http-www-downingm-freeserve-co-uk-rhyme006-htm):
+and alternately [[2]](http://www.downingm.freeserve.co.uk/rhyme006.htm):
 
  Bobby Shaftoe's gone to Sea,
  Silver buckles on his knee,
@@ -64,7 +64,7 @@ As with most folk songs, there are several variations.
 
 The song apparantly was adapted by Robert Shaftoe as an electioneering song in 1761 from an older work entitled "Brave Willie Forster," the earliest record of which dates from 1694. Mr Robert Shaftoe was a County Durham MP elected in 1761, and apparently used the song as an election jingle. [http://www.farneweblog.com/discuss/msgReader$497]
 
-Another source states that, "The original Bobby Shaftoe lived in Wicklow early in the 1700s" and gives yet another variation on the [lyrics](/http-www-ucamusic-com-textdocs-mother-goose-pdf)
+Another source states that, "The original Bobby Shaftoe lived in Wicklow early in the 1700s" and gives yet another variation on the [lyrics](http://www.ucamusic.com/textdocs-mother-goose.pdf)
 
 [![The Cryptonomicon-era Shaftoe family tree](/web/20060725165805im_/http://www.metaweb.com/wiki/upload/d/db/MCMShaftoeFamilyTreeSC.png)](the-cryptonomicon-era-shaftoe-family-tree)  
 **Twentieth-century Shaftoe family tree**  
@@ -74,12 +74,12 @@ The lyrics of this song seem to accurately parallel the Bobby / Glory / Doug sto
 ### The Manila Shaftoes
 
 
- Uncle Jack is the last of the Manila Shaftoes, a branch of the family spawned by Nimrod Shaftoe of the [Tennessee Volunteers](/http-home-freeuk-com-gazkhan-tenn-brief-htm). Nimrod took a bullet in his right arm somewhere around Quingua, courtesy of some rebellious Filipino riflemen. Recovering in a Manila hospital, old Nimrod, or 'Lefty" as he was called by that point, decided that he liked the pluck of these Filipino men, in order to kill whom a whole new class of ridiculously powerful sidearm (the [Colt .45](/colt-45)) had had to be invented. Not only that, he liked the looks of their women. Promptly discharged from the service, he found that full disability pay would go a long way on the local economy. He set up an export business along the Pasig riverfront, married a half-Spanish woman, and sired a son (Jack) and two daughters. The daughters ended up in the States, back in the Tennessee mountains that have been the ancestral wellspring of all Shaftoes ever since they broke out of the indentured servitude racket back in the 1700s. Jack stayed in Manila and inherited Nimrod's business, but never *married*. 
+ Uncle Jack is the last of the Manila Shaftoes, a branch of the family spawned by Nimrod Shaftoe of the [Tennessee Volunteers](http://home.freeuk.com/gazkhan-tenn-brief.htm). Nimrod took a bullet in his right arm somewhere around Quingua, courtesy of some rebellious Filipino riflemen. Recovering in a Manila hospital, old Nimrod, or 'Lefty" as he was called by that point, decided that he liked the pluck of these Filipino men, in order to kill whom a whole new class of ridiculously powerful sidearm (the [Colt .45](/colt-45)) had had to be invented. Not only that, he liked the looks of their women. Promptly discharged from the service, he found that full disability pay would go a long way on the local economy. He set up an export business along the Pasig riverfront, married a half-Spanish woman, and sired a son (Jack) and two daughters. The daughters ended up in the States, back in the Tennessee mountains that have been the ancestral wellspring of all Shaftoes ever since they broke out of the indentured servitude racket back in the 1700s. Jack stayed in Manila and inherited Nimrod's business, but never *married*. 
 
 ### The Tennessee Shaftoes
 
 
- The Shaftoes are [Tennessee](/http-en-wikipedia-org-wiki-tennessee) mountain people--miners, among other things. About the time Nimrod Shaftoe went to the [Philippines](/philippines), a couple of his brothers moved up to western Wisconsin to work in lead mines. One of them--Bobby's grandpa--became a foreman. Sometimes he would go to Oconomowoc to pay a visit to the owner of the mine, who had a summer house on one of the lakes. They would go out in a boat and fish for pike. Frequently the mine owner's neighbors--owners of banks and breweries--would come along. That is how the Shaftoes moved to Oconomowoc, and got out of mining, and became fishing and hunting guides. The family has been scrupulous about holding on to the ancestral twang, and to certain other traditions such as military service. One of his sisters and two of his brothers are still living there with Mom and Dad, and his two older brothers are in the Army. Bobby's not the first to have won a Silver Star, though he is the first to have won the Navy Cross. 
+ The Shaftoes are [Tennessee](https://en.wikipedia.org/wiki/tennessee) mountain people--miners, among other things. About the time Nimrod Shaftoe went to the [Philippines](/philippines), a couple of his brothers moved up to western Wisconsin to work in lead mines. One of them--Bobby's grandpa--became a foreman. Sometimes he would go to Oconomowoc to pay a visit to the owner of the mine, who had a summer house on one of the lakes. They would go out in a boat and fish for pike. Frequently the mine owner's neighbors--owners of banks and breweries--would come along. That is how the Shaftoes moved to Oconomowoc, and got out of mining, and became fishing and hunting guides. The family has been scrupulous about holding on to the ancestral twang, and to certain other traditions such as military service. One of his sisters and two of his brothers are still living there with Mom and Dad, and his two older brothers are in the Army. Bobby's not the first to have won a Silver Star, though he is the first to have won the Navy Cross. 
 
 ### Oconomowoc, Wisconson
 
@@ -100,7 +100,7 @@ Fueled by its growing reputation, Oconomowoc entered a new era marked by the tit
 * [Bobby Shaftoe](/bobby-shaftoe)
 * [America Shaftoe](/america-shaftoe)
 * [Douglas MacArthur Shaftoe](/douglas-macarthur-shaftoe)
-* Nimrod Shaftoe - [Nimrod](/http-en-wikipedia-org-wiki-nimrod-king) is a mythic hunter (which is why ***Bugs Bunny*** calls ***Elmer Fudd*** that nickname) as well as the king who builds the [Tower of Babel](/http-en-wikipedia-org-wiki-tower-of-babel) ; However, this links [Cryptonomicon](/cryptonomicon) with [Snow Crash](/stephenson-neal-snow-crash) in a small way. Maybe [Randy Waterhouse](/randy-waterhouse)'s and [America Shaftoe](/america-shaftoe)'s actions prevent that distopia from happening
+* Nimrod Shaftoe - [Nimrod](https://en.wikipedia.org/wiki/nimrod-king) is a mythic hunter (which is why ***Bugs Bunny*** calls ***Elmer Fudd*** that nickname) as well as the king who builds the [Tower of Babel](https://en.wikipedia.org/wiki/tower-of-babel) ; However, this links [Cryptonomicon](/cryptonomicon) with [Snow Crash](/stephenson-neal-snow-crash) in a small way. Maybe [Randy Waterhouse](/randy-waterhouse)'s and [America Shaftoe](/america-shaftoe)'s actions prevent that distopia from happening
 * Robin Shaftoe
 * Marcus Aurelius Shaftoe
 * Uncle Jack Shaftoe
@@ -110,18 +110,18 @@ Fueled by its growing reputation, Oconomowoc entered a new era marked by the tit
 ### External links
 
 
-* [Tennessee Volunteer Infantry Regiment](/http-home-freeuk-com-gazkhan-tenn-brief-htm)
-* [Tower of Babel](/http-en-wikipedia-org-wiki-tower-of-babel)
-* [Nimrod](/http-en-wikipedia-org-wiki-nimrod-king)
+* [Tennessee Volunteer Infantry Regiment](http://home.freeuk.com/gazkhan-tenn-brief.htm)
+* [Tower of Babel](https://en.wikipedia.org/wiki/tower-of-babel)
+* [Nimrod](https://en.wikipedia.org/wiki/nimrod-king)
 
 
 #### Shaftoe folk songs and nursery rhymes
 
 
-* 1. [Folk Archive Resource North East](/http-www-farneweblog-com) Origin of songs seems to be ***Brave Willie Forster***
-* [http://www.farneweblog.com/discuss/msgReader](/http-www-farneweblog-com-discuss-msgreader)$497
-* [folk song](/http-www-personal-umich-edu-pfa-dreamhouse-nursery-rhymes-shaftoe-html)
-* [variant folk song](/http-www-downingm-freeserve-co-uk-rhyme006-htm)
-* [third variant, as children's rhyme](/http-www-ucamusic-com-textdocs-mother-goose-pdf)
-* [Modern day mudlarking for a good cause](/http-www-london-se1-co-uk-news-view-php-artid-156)
-* [The Mudlark](/http-www-cesc-net-cinqueportsweb-mudlark-margin-html)
+* 1. [Folk Archive Resource North East](http://www.farneweblog.com) Origin of songs seems to be ***Brave Willie Forster***
+* [http://www.farneweblog.com/discuss/msgReader](http://www.farneweblog.com/discuss-msgreader)$497
+* [folk song](http://www.personal.umich.edu/pfa-dreamhouse-nursery-rhymes-shaftoe.html)
+* [variant folk song](http://www.downingm.freeserve.co.uk/rhyme006.htm)
+* [third variant, as children's rhyme](http://www.ucamusic.com/textdocs-mother-goose.pdf)
+* [Modern day mudlarking for a good cause](http://www.london.se1.co.uk/news-view-php-artid-156)
+* [The Mudlark](http://www.cesc.net/cinqueportsweb-mudlark-margin.html)

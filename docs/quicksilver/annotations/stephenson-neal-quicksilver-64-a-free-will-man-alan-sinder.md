@@ -15,15 +15,15 @@ This expresses **Free Will**
 * [Stephenson:Neal:Quicksilver:165:Zeno's Paradox (Matt Zwolinski)](/stephenson-neal-quicksilver-165-zeno-s-paradox-matt-zwolinski)
 
 
-### [Enhanced Wikipedia: Free will](/http-en-wikipedia-org-wiki-free-will)
+### [Enhanced Wikipedia: Free will](https://en.wikipedia.org/wiki/free-will)
 
 
-**Free will** is the [philosophical](/http-en-wikipedia-org-wiki-philosophy) doctrine that our choices are, ultimately, "up to us ". Consequently, an unfree action must be somehow "up to "something else. The phrase "up to us" is deliberately vague, and, just like free will itself, admits of a variety of interpretations. We can ask several logically independent questions about free will.
+**Free will** is the [philosophical](https://en.wikipedia.org/wiki/philosophy) doctrine that our choices are, ultimately, "up to us ". Consequently, an unfree action must be somehow "up to "something else. The phrase "up to us" is deliberately vague, and, just like free will itself, admits of a variety of interpretations. We can ask several logically independent questions about free will.
 
 ### Determinism vs. indeterminism
 
  
-Determinism holds that each state of affairs is necessitated (determined) by all the states of affairs that came before it. In other words, what happens next is completely fixed by what came before. Indeterminism holds that some states of affairs contain elements that were not necessitated by the previous states of affairs. In other words, what happens next is not completely fixed by what came before. The idea of determinism is sometimes illustrated by the story of [Laplace's demon](/http-en-wikipedia-org-wiki-pierre-simon-laplace), who knows all the facts about the past and present and all the natural laws that govern our world, and uses this knowledge to see the future, down to every detail. 
+Determinism holds that each state of affairs is necessitated (determined) by all the states of affairs that came before it. In other words, what happens next is completely fixed by what came before. Indeterminism holds that some states of affairs contain elements that were not necessitated by the previous states of affairs. In other words, what happens next is not completely fixed by what came before. The idea of determinism is sometimes illustrated by the story of [Laplace's demon](https://en.wikipedia.org/wiki/pierre-simon-laplace), who knows all the facts about the past and present and all the natural laws that govern our world, and uses this knowledge to see the future, down to every detail. 
 
 Many philosophers hold that determinism is at odds with free will. After all, if everything that happens is completely determined by the past, how can our choices be free? Wouldn't our choices just be one more outcome determined by the past? According to determinism, we can't just decide to disobey the immutable laws that govern the universe. So if determinism were true, then we would be trapped by the past and free will would be an illusion. This position is usually called "incompatibilism." "Hard determinists", such as d'Holbach, are those incompatibilists who reject free will. **"Libertarians"**, such as van Inwagen, are those incompatibilists who accept free will and deny determinism *(this kind of libertarianism should not be confused with the **political position** of the same name)*. 
 
@@ -78,11 +78,11 @@ Some philosophers believe that free will is equivalent to having a soul, and thu
 ### External links
 
 
-* [Free will and the problem of evil](/http-en-wikipedia-org-wiki-the-problem-of-evil)
-* [Consciousness](/http-en-wikipedia-org-wiki-consciousness)
-* [Gödel, Escher, Bach](/http-en-wikipedia-org-wiki-gödel-escher-bach) Wonder if [Cryptonomicon](/cryptonomicon)'s Dr. G. E. B. Kivistik hides a secret?
-* [Randomness](/http-en-wikipedia-org-wiki-randomness)
-* [Block time](/http-en-wikipedia-org-wiki-block-time)
-* [Newcomb's paradox](/http-en-wikipedia-org-wiki-newcomb-s-paradox)
-* [Elbow Room](/http-en-wikipedia-org-wiki-elbow-room) a book by [Daniel Dennett](/http-en-wikipedia-org-wiki-daniel-dennett)
-* [d'Holbach](/http-en-wikipedia-org-wiki-baron-d-holbach)
+* [Free will and the problem of evil](https://en.wikipedia.org/wiki/the-problem-of-evil)
+* [Consciousness](https://en.wikipedia.org/wiki/consciousness)
+* [Gödel, Escher, Bach](https://en.wikipedia.org/wiki/gödel-escher-bach) Wonder if [Cryptonomicon](/cryptonomicon)'s Dr. G. E. B. Kivistik hides a secret?
+* [Randomness](https://en.wikipedia.org/wiki/randomness)
+* [Block time](https://en.wikipedia.org/wiki/block-time)
+* [Newcomb's paradox](https://en.wikipedia.org/wiki/newcomb-s-paradox)
+* [Elbow Room](https://en.wikipedia.org/wiki/elbow-room) a book by [Daniel Dennett](https://en.wikipedia.org/wiki/daniel-dennett)
+* [d'Holbach](https://en.wikipedia.org/wiki/baron-d-holbach)

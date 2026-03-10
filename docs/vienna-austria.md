@@ -7,9 +7,9 @@ This is a page for **Vienna** but specifically about the **battle of the city**
 ### Battle of Vienna
 
 
-The **Battle of Vienna** (as distinct from the Siege of Vienna some hundred-fifty years earlier), marked the final turning point in a 250-year struggle between the forces of [Christian](/http-en-wikipedia-org-wiki-christian) [Europe](/http-en-wikipedia-org-wiki-europe) and the [Ottoman Empire](/http-en-wikipedia-org-wiki-ottoman-empire). Over the 16 years following the battle, the Turks would be permanently driven south of the Danube River, never to threaten central Europe again. 
+The **Battle of Vienna** (as distinct from the Siege of Vienna some hundred-fifty years earlier), marked the final turning point in a 250-year struggle between the forces of [Christian](https://en.wikipedia.org/wiki/christian) [Europe](https://en.wikipedia.org/wiki/europe) and the [Ottoman Empire](https://en.wikipedia.org/wiki/ottoman-empire). Over the 16 years following the battle, the Turks would be permanently driven south of the Danube River, never to threaten central Europe again. 
 
-The battle, which took place on September 12, 1683 pitted a large Austrian and German army of about 100,000 troops and their allies, a 30,000-man relief force under [Jan Sobieski](/http-en-wikipedia-org-wiki-john-iii-sobieski), King of [Poland](/http-en-wikipedia-org-wiki-poland), against their Turkish besiegers. The Turks, commanded by Pasha Kara Mustafa, numbered approximately 140,000 men, although a large portion of them played no part in the battle.
+The battle, which took place on September 12, 1683 pitted a large Austrian and German army of about 100,000 troops and their allies, a 30,000-man relief force under [Jan Sobieski](https://en.wikipedia.org/wiki/john-iii-sobieski), King of [Poland](https://en.wikipedia.org/wiki/poland), against their Turkish besiegers. The Turks, commanded by Pasha Kara Mustafa, numbered approximately 140,000 men, although a large portion of them played no part in the battle.
 
 ![Sobieski_vsKaraMustafa.jpg](/images/Sobieski_vsKaraMustafa.jpg)  
 
@@ -28,4 +28,4 @@ The Turks lost about 15,000 men in the fighting, compared to approximately 4,000
 ### External Link
 
 
-* **[For an excellent first-hand account of the Siege of Vienna (1683)](/http-www-hillsdale-edu-dept-history-war-louisxiv-1683-vienna-siege-htm)**
+* **[For an excellent first-hand account of the Siege of Vienna (1683)](http://www.hillsdale.edu/dept-history-war-louisxiv-1683-vienna-siege.htm)**

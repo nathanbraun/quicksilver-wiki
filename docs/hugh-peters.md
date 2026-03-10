@@ -17,5 +17,5 @@ Samuel Pepys mentioned his capture in his diary. A broadside pamphlet The Wels
 
   
 
-* some info grabbed from Wikipedia - [http://en.wikipedia.org/wiki/Richard\_Cromwell](/http-en-wikipedia-org-wiki-richard_cromwell)
-* external link: [http://www.british-civil-wars.co.uk/biog/regicides8.htm](/http-www-british-civil-wars-co-uk-biog-regicides8-htm)
+* some info grabbed from Wikipedia - [http://en.wikipedia.org/wiki/Richard\_Cromwell](https://en.wikipedia.org/wiki/richard_cromwell)
+* external link: [http://www.british-civil-wars.co.uk/biog/regicides8.htm](http://www.british.civil.wars.co.uk/biog-regicides8.htm)

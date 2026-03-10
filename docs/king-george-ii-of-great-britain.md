@@ -68,4 +68,4 @@ He was succeeded by his grandson, George III of the United Kingdom.
 ### External Links
 
 
-* **[Charles Edward Stuart](/http-www-genuki-org-uk-big-royalty-othern-z-html-youngpretender)** Bonnie Prince Charlie
+* **[Charles Edward Stuart](http://www.genuki.org.uk/big-royalty-othern-z-html-youngpretender)** Bonnie Prince Charlie

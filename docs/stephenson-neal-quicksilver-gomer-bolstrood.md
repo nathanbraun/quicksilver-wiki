@@ -32,8 +32,8 @@ The Shakers, being an offshoot of the Quaker movement, might be a better analog 
 * Garret Johnson: UK furniture maker
 * Jacques Dubois
 * Gillows furniture makers
-* [Thomas Chippendale](/http-www-cartage-org-lb-en-themes-biographies-mainbiographies-c-chippendale-chippendale1-htm): UK
-* [Thomas Elfe](/http-www-cartage-org-lb-en-themes-biographies-mainbiographies-e-elfe-elfe-htm): American furniture maker
+* [Thomas Chippendale](http://www.cartage.org/lb-en-themes-biographies-mainbiographies-c-chippendale-chippendale1.htm): UK
+* [Thomas Elfe](http://www.cartage.org/lb-en-themes-biographies-mainbiographies-e-elfe-elfe.htm): American furniture maker
 * J. Baumhauer: French ebeniste
 * George Seddon: UK cabinet maker
 * Townsend-Goddard: America
@@ -139,11 +139,11 @@ The Windsor chair dates from this period also.
 ### Link
 
 
-* [History of Ethan Allen](/http-www-uvm-edu-vhnet-hertour-eallen-eahistory-html)
-* [Good review of CRYPTONOMICON](/http-www-themodernword-com-review-cryptonomicon-html)
-* [Bwahaha! Though once *normals* get it ...](/http-www-astrogirl-com-entry-001004-html)
-* [Shakers](/http-religiousmovements-lib-virginia-edu-nrms-shakers-html)
-* [Ethan Allen Furniture](/http-www-ethanallen-com-ea-com-ethanallen-ecom-homepageservlet)
-* [Dana Robes Furniture](/http-www-danarobes-com)
-* [The Whole Tree Studio](/http-www-thewholetree-com)
-* [The Woodworkers of Windsor: A Community of Craftsmen, 1635-1715 Exhibition Explores Puritan Furniture and Life](/http-www-zwire-com-site-news-cfm-newsid-10888510-brd-1633-pag-461-dept-id-11608-rfi-6)
+* [History of Ethan Allen](http://www.uvm.edu/vhnet-hertour-eallen-eahistory.html)
+* [Good review of CRYPTONOMICON](http://www.themodernword.com/review-cryptonomicon.html)
+* [Bwahaha! Though once *normals* get it ...](http://www.astrogirl.com/entry-001004.html)
+* [Shakers](http://religiousmovements.lib.virginia.edu/nrms-shakers.html)
+* [Ethan Allen Furniture](http://www.ethanallen.com/ea-com-ethanallen-ecom-homepageservlet)
+* [Dana Robes Furniture](http://www.danarobes.com)
+* [The Whole Tree Studio](http://www.thewholetree.com)
+* [The Woodworkers of Windsor: A Community of Craftsmen, 1635-1715 Exhibition Explores Puritan Furniture and Life](http://www.zwire.com/site-news-cfm-newsid-10888510-brd-1633-pag-461-dept-id-11608-rfi-6)

@@ -33,4 +33,4 @@ Compare the process of successive edits to achieve a "perfect" texts with the de
 ### External Links
 
 
-* [Neal Stephenson's Smileys comments](/http-www-nealstephenson-com-content-author-smileys-htm)
+* [Neal Stephenson's Smileys comments](http://www.nealstephenson.com/content-author-smileys.htm)

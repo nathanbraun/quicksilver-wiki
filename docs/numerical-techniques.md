@@ -41,4 +41,4 @@ Engineering math describes physical processes, and so is often indistinguishable
 ### [External links](/metaweb-external-links)
 
 
-* [http://en2.wikipedia.org/wiki/Mathematics](/http-en2-wikipedia-org-wiki-mathematics)
+* [http://en2.wikipedia.org/wiki/Mathematics](https://en.wikipedia.org/wiki/mathematics)

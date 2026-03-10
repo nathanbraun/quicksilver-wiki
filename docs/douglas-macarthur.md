@@ -45,10 +45,10 @@ From Wikipedia, the free encyclopedia.
 
 MacArthur grew up on Army bases. He entered the United States Military Academy at West Point in 1898 and graduated first in his class in 1903, as a 2nd Lieutenant of engineers.
 
-### [World War I](/http-en-wikipedia-org-wiki-world-war-i)
+### [World War I](https://en.wikipedia.org/wiki/world-war-i)
 
 
-MacArthur held the rank of major when the United States entered World War I in April 1917. He became chief of staff of the 42nd Division, nicknamed the [Rainbow Division](/http-en-wikipedia-org-wiki-rainbow-division), and served in [France](/http-en-wikipedia-org-wiki-france). MacArthur became known as an outstanding combat leader, especially in the St.-Mihiel and Meuse-Argonne offensives. He was wounded twice and received many decorations for bravery. By June 1918, MacArthur had risen to the rank of brigadier general. His promotion to Brigadier General (the youngest ever in the United States Army ), occured as commander of the 84th Infantry Brigade. He spent most of the inter-war period on different assignments in the Philippines. He was twice wounded and much decorated. He left the U.S. Army in 1937 to command the Philippines Army, but returned in July of 1941 as commander of US Army Forces - Far East. ![DouglasMacArthurMW.jpg](/images/DouglasMacArthurMW.jpg)  
+MacArthur held the rank of major when the United States entered World War I in April 1917. He became chief of staff of the 42nd Division, nicknamed the [Rainbow Division](https://en.wikipedia.org/wiki/rainbow-division), and served in [France](https://en.wikipedia.org/wiki/france). MacArthur became known as an outstanding combat leader, especially in the St.-Mihiel and Meuse-Argonne offensives. He was wounded twice and received many decorations for bravery. By June 1918, MacArthur had risen to the rank of brigadier general. His promotion to Brigadier General (the youngest ever in the United States Army ), occured as commander of the 84th Infantry Brigade. He spent most of the inter-war period on different assignments in the Philippines. He was twice wounded and much decorated. He left the U.S. Army in 1937 to command the Philippines Army, but returned in July of 1941 as commander of US Army Forces - Far East. ![DouglasMacArthurMW.jpg](/images/DouglasMacArthurMW.jpg)  
 
 **Corn Cob and all  
 General Douglas *"[Big Lizard](/megalania-prisca)"* MacArthur**
@@ -56,14 +56,14 @@ General Douglas *"[Big Lizard](/megalania-prisca)"* MacArthur**
 ### Between World Wars
 
 
-After occupation duty in [Germany](/http-en-wikipedia-org-wiki-germany), MacArthur served as superintendent of the U.S. Military Academy from 1919 to 1922. Later in the 1920's, he served in the Philippines and again in the United States. 
+After occupation duty in [Germany](https://en.wikipedia.org/wiki/germany), MacArthur served as superintendent of the U.S. Military Academy from 1919 to 1922. Later in the 1920's, he served in the Philippines and again in the United States. 
 
-In 1930, at the age of 50, MacArthur became chief of staff of the U.S. Army. The Great Depression, a worldwide economic slump, hampered his efforts to modernize and expand the Army during his five years in this office. From 1935 to 1941, MacArthur served as military adviser to the [Commonwealth of the Philippines](/http-en-wikipedia-org-wiki-commonwealth-of-the-philippines). The Philippines, which had been a U.S. possession since 1898, were being prepared for independence. 
+In 1930, at the age of 50, MacArthur became chief of staff of the U.S. Army. The Great Depression, a worldwide economic slump, hampered his efforts to modernize and expand the Army during his five years in this office. From 1935 to 1941, MacArthur served as military adviser to the [Commonwealth of the Philippines](https://en.wikipedia.org/wiki/commonwealth-of-the-philippines). The Philippines, which had been a U.S. possession since 1898, were being prepared for independence. 
 
-### [World War II](/http-en-wikipedia-org-wiki-world-war-ii)
+### [World War II](https://en.wikipedia.org/wiki/world-war-ii)
 
 
-In July 1941, President [Franklin D. Roosevelt](/http-en-wikipedia-org-wiki-franklin-d-roosevelt) made MacArthur commander of the Army forces in the Far East. On Dec. 7, 1941, Japanese planes bombed the U.S. naval base at [Pearl Harbor](/pearl-harbor) in Hawaii and attacked American air bases in the Philippines. The United States entered World War II when it declared war on Japan on December 8. A major Japanese invasion of the Philippines began two weeks later. 
+In July 1941, President [Franklin D. Roosevelt](https://en.wikipedia.org/wiki/franklin-d-roosevelt) made MacArthur commander of the Army forces in the Far East. On Dec. 7, 1941, Japanese planes bombed the U.S. naval base at [Pearl Harbor](/pearl-harbor) in Hawaii and attacked American air bases in the Philippines. The United States entered World War II when it declared war on Japan on December 8. A major Japanese invasion of the Philippines began two weeks later. 
 
 #### MacArthur Led the Defense of the Philippines
 
@@ -74,7 +74,7 @@ MacArthur received the Medal of Honor for his defense of the Philippines. His fa
 
 Roosevelt appointed MacArthur commander of the Allied forces in the Southwest Pacific, and the general began an offensive against Japan. Early in 1943, MacArthur's forces drove the Japanese from southeast New Guinea. His troops then seized northeast New Guinea, western New Britain, and the Admiralty Islands. These victories isolated the Japanese base at Rabaul, the chief port of New Britain. By September 1944, MacArthur had also recaptured western New Guinea and Morotai. 
 
-On Oct. 20, 1944, MacArthur and his forces landed on the Philippine island of [Leyte](/battle-of-leyte), thus carrying out his pledge to return. His troops landed on Mindoro in the central Philippines in December. MacArthur became a five-star general that same month. His troops invaded Luzon in January 1945 and recaptured most of that island by the time the war ended in August. He also retook the southern Philippines and [Borneo](/http-en-wikipedia-org-wiki-borneo). 
+On Oct. 20, 1944, MacArthur and his forces landed on the Philippine island of [Leyte](/battle-of-leyte), thus carrying out his pledge to return. His troops landed on Mindoro in the central Philippines in December. MacArthur became a five-star general that same month. His troops invaded Luzon in January 1945 and recaptured most of that island by the time the war ended in August. He also retook the southern Philippines and [Borneo](https://en.wikipedia.org/wiki/borneo). 
 
 Japan surrendered in August 1945, and MacArthur was appointed Allied supreme commander. He presided over the surrender ceremony aboard the U.S.S. Missouri on September 2 and then took over as commander of the Allied occupation forces in Japan. 
 
@@ -85,10 +85,10 @@ From 1945 to 1951, MacArthur headed the Allied occupation of Japan. The occupati
 
 The occupation programs removed from power supporters of military conquest and reduced the control that a small group of Japanese families had over the nation's industry. A land reform program enabled farmers to own their own land. Labor unions were recognized, the government improved public health and education, and women received the right to vote. A new Japanese constitution went into effect in 1947. MacArthur also headed the U.S. Far East Command from 1947 to 1951. 
 
-### [The Korean War](/http-en-wikipedia-org-wiki-korean-war)
+### [The Korean War](https://en.wikipedia.org/wiki/korean-war)
 
 
-The Korean War began on June 25, 1950, when North Korean troops crossed the 38th parallel, the border between North and South Korea. President [Harry S. Truman](/http-en-wikipedia-org-wiki-harry-s-truman) appointed MacArthur head of the military force that the [United Nations (UN)](/http-en-wikipedia-org-wiki-united-nations) sent to defend South Korea. MacArthur led a surprise landing behind enemy lines at the South Korean port of Inchon. This move changed the course of the war, enabling the UN forces to capture Seoul and causing an almost total collapse of the North Korean army. MacArthur then invaded North Korea. 
+The Korean War began on June 25, 1950, when North Korean troops crossed the 38th parallel, the border between North and South Korea. President [Harry S. Truman](https://en.wikipedia.org/wiki/harry-s-truman) appointed MacArthur head of the military force that the [United Nations (UN)](https://en.wikipedia.org/wiki/united-nations) sent to defend South Korea. MacArthur led a surprise landing behind enemy lines at the South Korean port of Inchon. This move changed the course of the war, enabling the UN forces to capture Seoul and causing an almost total collapse of the North Korean army. MacArthur then invaded North Korea. 
 
 Appointed superintendent of West Point after the war, he instituted reforms in curriculum, teaching methods, and standards of performance that began to restore West Point to an academic respectability badly eroded by wartime policies. After the surprise attack of the North Korean army in June 1950 started the Korean War, the United Nations General Assembly authorized a United Nations (UN) force to help South Korea. MacArthur led the U.N. coalition counter-offensive, noted for an amphibious landing behind North Korean lines at Inchon. As his forces approached the Korea- China border, the Chinese warned they would become involved. During his trip to Wake Island to meet with President Truman, he was specifically asked by President Truman about Chinese involvement in the war. MacArthur was dismissive. On October 25 ,1951, the People's Liberation Army attacked across the Yalu River, forcing the U.N forces to embark on a lengthy retreat. MacArthur sought an extension of the conflict into China, but President Truman relieved him of his duty in April 1951. Recently declassified documents indicate that MacArthur planned to drop many nuclear bombs on China (some sources put this number at 50). Truman did not agree, fearing a nuclear exchange with the Soviet Union and needless Chinese deaths. General Matthew B. Ridgway replaced MacArthur and stabilized the situation near the 38th parallel. MacArthur made his last public appearance in a farewell address to Congress, interrupted by thirty ovations. 
 
@@ -153,4 +153,4 @@ The Old Soldier has a tunnel named for him on the Park Presidio leading north to
 ### External link
 
 
-* [General MacArthur's famous valedictory speech at West Point](/http-members-tripod-com-darto-macarthur-macarthur-html)
+* [General MacArthur's famous valedictory speech at West Point](http://members.tripod.com/darto-macarthur-macarthur.html)

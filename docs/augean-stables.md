@@ -23,8 +23,8 @@ The fifth task set to Heracles was to clean the Augean stables in a single day. 
 
 In commemoration of this feat, Heracles founded the [Olympic Games](/olympic-games).
 
-*Original text from [Wikipedia](/http-www-wikipedia-org), the free encyclopedia.*
+*Original text from [Wikipedia](http://www.wikipedia.org), the free encyclopedia.*
 ### External link
 
 
-* **[Metis explained](/http-markpasc-org-blog-gems-athena-html)**
+* **[Metis explained](http://markpasc.org/blog-gems-athena.html)**

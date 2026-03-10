@@ -46,12 +46,12 @@ Map of Kinakuta's geographic region
 ### External links
 
 
-* [Wikipedia: Spratly Islands](/http-en-wikipedia-org-wiki-spratly-islands) - basis for this entry, and also a better title...
-	+ [Geography](/http-en-wikipedia-org-wiki-geography-of-the-spratly-islands)
-	+ [Economy](/http-en-wikipedia-org-wiki-economy-of-the-spratly-islands)
-	+ [Transportation](/http-en-wikipedia-org-wiki-transportation-in-the-spratly-islands)
-* [Paracel Islands](/http-en-wikipedia-org-wiki-paracel-islands)
-* [Macclesfield Bank](/http-en-wikipedia-org-wiki-macclesfield-bank)
-* [Pratas Islands](/http-en-wikipedia-org-wiki-pratas-islands)
-* [Coming Attractions](/http-www-comebackalive-com-df-attractn-htm)
-* [The Solomons](/http-en-wikipedia-org-wiki-solomon-islands)
+* [Wikipedia: Spratly Islands](https://en.wikipedia.org/wiki/spratly-islands) - basis for this entry, and also a better title...
+	+ [Geography](https://en.wikipedia.org/wiki/geography-of-the-spratly-islands)
+	+ [Economy](https://en.wikipedia.org/wiki/economy-of-the-spratly-islands)
+	+ [Transportation](https://en.wikipedia.org/wiki/transportation-in-the-spratly-islands)
+* [Paracel Islands](https://en.wikipedia.org/wiki/paracel-islands)
+* [Macclesfield Bank](https://en.wikipedia.org/wiki/macclesfield-bank)
+* [Pratas Islands](https://en.wikipedia.org/wiki/pratas-islands)
+* [Coming Attractions](http://www.comebackalive.com/df-attractn.htm)
+* [The Solomons](https://en.wikipedia.org/wiki/solomon-islands)

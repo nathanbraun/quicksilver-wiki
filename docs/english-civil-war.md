@@ -136,7 +136,7 @@ While the monarchy was subsequently restored, the civil wars effectively set Bri
 ### External links
 
 
-* [Re-inacting Society](/http-en-wikipedia-org-wiki-the-english-civil-war-society)
-* [Re-inacting Society](/http-en-wikipedia-org-wiki-the-sealed-knot)
-* [Admiral Robert Blake](/http-en2-wikipedia-org-wiki-admiral-robert-blake)
-* [Parliment of the UK](/http-en-wikipedia-org-wiki-parliament-of-the-united-kingdom)
+* [Re-inacting Society](https://en.wikipedia.org/wiki/the-english-civil-war-society)
+* [Re-inacting Society](https://en.wikipedia.org/wiki/the-sealed-knot)
+* [Admiral Robert Blake](https://en.wikipedia.org/wiki/admiral-robert-blake)
+* [Parliment of the UK](https://en.wikipedia.org/wiki/parliament-of-the-united-kingdom)

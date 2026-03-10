@@ -16,7 +16,7 @@ The [Quicksilver](/quicksilver) page about **lace** as a metaphor about the doub
 * [Stephenson:Neal:Quicksilver:826:crypto-embroidery (Neal Stephenson)](/stephenson-neal-quicksilver-826-crypto-embroidery-neal-stephenson)
 
 
-### [Wikipedia: Lace-making](/http-en-wikipedia-org-wiki-lace-making)
+### [Wikipedia: Lace-making](https://en.wikipedia.org/wiki/lace-making)
 
 
 **Lace-making** is an ancient craft.![lace.jpg](/https://web.archive.org/web/20060725170416im_/http://www.aloratile.com/lace.jpg)  
@@ -24,13 +24,13 @@ The [Quicksilver](/quicksilver) page about **lace** as a metaphor about the doub
 
 Needle Lace: The most time-consuming but the most flexible of the lace-making arts, needle lace is regarded by purists as the height of lace-making. There are many types of needle lace  i.e. lace made using a needle and thread. Some of these laces can be made much more quickly than the finest of bobbin laces. On the other hand, some antique needle lace is made from a very fine thread that is not manufactured today. It is truly the pinnacle of lace-making arts, as it is the most flexible, and also the most time-consuming. It consists of using a needle to stitch up hundreds and hundreds of little stitches to form the lace itself. Work is generally started by securing the main, heavier guiding threads onto a stiff background (eg thick paper) with stitches that can later be removed. The work then in a variety of stitches - the most basic being a variety of blanket stitch. When the entire area is covered with the stitching, the stay-stitches are released an the lace comes away from the paper. 
 
-[Bobbin Lace](/http-en-wikipedia-org-wiki-bobbin-lace): As the name suggests, bobbin lace is made with bobbins and pillows. The bobbins, turned from wood, bone or plastic, hold threads which are woven together and held in place with pins stuck in the pattern on the pillow. The pillows contain straw, preferably oat straw or other materials such as sawdust, insulation styrofoam or ethafoam. Bobbin lace can also be made using copper or silver wire instead of thread. The advent of machine lace at first pushed lace-makers into more complicated designs (ones that the machines couldn't handle) and then eventually pushed them out of business almost entirely. The resurgence of lace-making is a recent phenomenon and is mostly confined to a "hobby" status these days. 
+[Bobbin Lace](https://en.wikipedia.org/wiki/bobbin-lace): As the name suggests, bobbin lace is made with bobbins and pillows. The bobbins, turned from wood, bone or plastic, hold threads which are woven together and held in place with pins stuck in the pattern on the pillow. The pillows contain straw, preferably oat straw or other materials such as sawdust, insulation styrofoam or ethafoam. Bobbin lace can also be made using copper or silver wire instead of thread. The advent of machine lace at first pushed lace-makers into more complicated designs (ones that the machines couldn't handle) and then eventually pushed them out of business almost entirely. The resurgence of lace-making is a recent phenomenon and is mostly confined to a "hobby" status these days. 
 
 Crochet Lace is simply an application of the art of crochet. Generally it uses finer threads and more decorative styles of stitching - often with flowing lines or scalloped edges to give interest. Variation of the size of the holes also gives a piece a "lacy' look. This includes Irish crochet. 
 
 Tatting is a technique for handcrafting lace that can be documented approximately to the early 1800's. The instrument that is used is called a shuttle. A tatting shuttle is normally a metal or plastic pointed oval shape less than 3 inches long, but shuttles come in a variety of shapes and materials. Shuttles often have a point or hook on one end to aid in the construction of the lace. Tatting can be used to make lace edging as well as doilies, collars, and other decorative pieces. To make the lace, the tatter wraps the thread around one hand and manipulates the shuttle with the other hand. No tools other than the thread, the hands, and the shuttle are used, though a crochet hook may be necessary if the shuttle does not have a point or hook. The lace is formed by a pattern of rings and chains formed from lark's head knots, called stitches. Gaps can be left between the stitches to form picots, which are used for practical construction as well as decorative effect. It may also use tatting needles instead of shuttles to make lace. A tatting needle is a long needle that does not change thickness at the eye of the needle. The needle used must match the thickness of the thread chosen for the project. Shuttle and needle-tatted lace look almost identical, but they differ in structure. Contrary to popular belief, many people around the world actively participate in the art of tatting, and the craft is experiencing a resurgence in interest around the world. Some believe that tatting may have developed from netting as sailors and fishers would put together motifs for girlfriends and wives at home. Tatting instructions and patterns can be found all over the web, including some streamlined video instructions. 
 
-### [Wikipedia: Deoxyribonucleic acid (DNA)](/http-en-wikipedia-org-wiki-dna)
+### [Wikipedia: Deoxyribonucleic acid (DNA)](https://en.wikipedia.org/wiki/dna)
 
 
 Deoxyribonucleic acid (DNA) is the primary chemical component of chromosomes and is the material of which genes are made. It is sometimes called the "molecule of heredity," because parents transmit copied portions of their own DNA to offspring during reproduction, and because they propagate their traits by doing so.![Dna-split.png](/https://web.archive.org/web/20060725170416im_/http://en.wikipedia.org/upload/0/08/Dna-split.png)  
@@ -133,10 +133,10 @@ Watson, Crick, and Wilkins were awarded a Nobel Prize in 1962, by which time Fra
 ### External link
 
 
-* [The Lace Guild](/http-www-laceguild-demon-co-uk)
+* [The Lace Guild](http://www.laceguild.demon.co.uk)
 * [ISBN 0-375-41546-7](/) DNA: The Secret of Life, by James D. Watson.
-* [DNA: PDB molecule of the month](/http-nist-rcsb-org-pdb-molecules-pdb23-1-html)
-* Google: [Nucleic Acids](/http-directory-google-com-top-science-biology-biochemistry-and-molecular-biology-biomolecules-nucleic-acids)
-* [17 April, 2003, BBC News: Most ancient DNA ever?](/http-news-bbc-co-uk-1-hi-sci-tech-2949629-stm)
-* [My First Book About DNA](/http-www-myfirstbookaboutdna-com)
-* Watson, James, and Francis Crick, "*[Molecular structure of nucleic acids](/http-biocrs-biomed-brown-edu-books-chapters-ch-8-dh-paper-html), A structure for Deoxyribose Nucleic Acid*". April 2, 1953. (paper on the structure of DNA)
+* [DNA: PDB molecule of the month](http://nist.rcsb.org/pdb-molecules-pdb23-1.html)
+* Google: [Nucleic Acids](http://directory.google.com/top-science-biology-biochemistry-and-molecular-biology-biomolecules-nucleic-acids)
+* [17 April, 2003, BBC News: Most ancient DNA ever?](http://news.bbc.co.uk/1-hi-sci-tech-2949629-stm)
+* [My First Book About DNA](http://www.myfirstbookaboutdna.com)
+* Watson, James, and Francis Crick, "*[Molecular structure of nucleic acids](http://biocrs.biomed.brown.edu/books-chapters-ch-8-dh-paper.html), A structure for Deoxyribose Nucleic Acid*". April 2, 1953. (paper on the structure of DNA)

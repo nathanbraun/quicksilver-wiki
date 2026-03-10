@@ -8,12 +8,12 @@ From the Quicksilver Metaweb.
 ## Shameless Self-Promotion:
 
 
-* [Meepo.DNSAlias.Org](/http-meepo-dnsalias-org) (Uptime: 60% on a good day.)
-* [Daggerfall Studio](/http-www-svatopluk-com-andux)
+* [Meepo.DNSAlias.Org](http://meepo.dnsalias.org) (Uptime: 60% on a good day.)
+* [Daggerfall Studio](http://www.svatopluk.com/andux)
 
 
 
 
 |  |  |
 | --- | --- |
-| W | [Wikipedia](/wikipedia) has a user page related to:***[Andux](/http-en-wikipedia-org-wiki-user-andux)*** |
+| W | [Wikipedia](/wikipedia) has a user page related to:***[Andux](https://en.wikipedia.org/wiki/user-andux)*** |

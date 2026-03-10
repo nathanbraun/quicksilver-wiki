@@ -3,7 +3,7 @@
 
 From the Quicksilver Metaweb.
 
-From [Wikipedia](/http-en-wikipedia-org-wiki-bhang)
+From [Wikipedia](https://en.wikipedia.org/wiki/bhang)
 
 Bhang is a preparation derived from the leaf and flower of a male cannabis plant. Bhang is commonly used to make Bhang Lassi, a drink popular in India. It is a brewed beverage made with milk, almonds, and spices. Although it is illegal in some parts of the country, it is widely available, and there is only a mild social stigma attached to drinking it.
 

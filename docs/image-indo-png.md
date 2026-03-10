@@ -5,7 +5,7 @@ From the Quicksilver Metaweb.
 
 Map: Southeast Asia
 
-This is a heavily edited version of [the CIA World Book's Southeast Asia map](/http-www-cia-gov-cia-publications-factbook-reference-maps-southeast-asia-html); this has Kinakuta & Macclesfield Bank sketched in. The Indonesian map under the [Kinakuta](/kinakuta) entry was mostly irrelevant.
+This is a heavily edited version of [the CIA World Book's Southeast Asia map](http://www.cia.gov/cia-publications-factbook-reference-maps-southeast-asia.html); this has Kinakuta & Macclesfield Bank sketched in. The Indonesian map under the [Kinakuta](/kinakuta) entry was mostly irrelevant.
 
 ## Image history
 

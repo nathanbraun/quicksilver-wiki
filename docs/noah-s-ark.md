@@ -74,12 +74,12 @@ As Noah and his family were talented in the use of large timbers, it was likely 
 #### Many Flood Accounts
 
  
-Although many cultures have stories of a great flood, the story of Noahs Ark is probably the best-known of these. The next most notable is the Sumerian story of Utnapishtim (found in the **[Epic of Gilgamesh](/http-en2-wikipedia-org-wiki-epic-of-gilgamesh)**) which has broadly the same structure and plot as Noahs Ark, suggesting the possibility that the Biblical account has drawn influence from the archaeologically older Sumerian depiction. Noah also has a counterpart in Greek mythology, Deucalion. In Indian scriptures, a terrible flood was supposed to have left only one survivor - a saint named Manu, who was saved by the god Vishnu in the form of a fish. Many hundreds more extra-biblical variations of the flood account exist in cultures around the world. 
+Although many cultures have stories of a great flood, the story of Noahs Ark is probably the best-known of these. The next most notable is the Sumerian story of Utnapishtim (found in the **[Epic of Gilgamesh](https://en.wikipedia.org/wiki/epic-of-gilgamesh)**) which has broadly the same structure and plot as Noahs Ark, suggesting the possibility that the Biblical account has drawn influence from the archaeologically older Sumerian depiction. Noah also has a counterpart in Greek mythology, Deucalion. In Indian scriptures, a terrible flood was supposed to have left only one survivor - a saint named Manu, who was saved by the god Vishnu in the form of a fish. Many hundreds more extra-biblical variations of the flood account exist in cultures around the world. 
 
 ### Ethnic Oral Accounts
 
 
-People saw *big* floods which predate historical written accounts that relate to the big thaws at the end of the last big Ice Age. A global flood to a specific ethnic group meant *their* world got flooded -- not the *literal* planet. A global flood would kill most sea life. **[Bob Ballard's](/http-www-nationalgeographic-com-blacksea-ax-frame-html)** **[Black Sea expeditions](/http-www-expedition2003-org)** make sense in regard to the Sumerian depiction. A flood there would directly affect the *Fertile Crescent* area and nowhere else. As the Marta peoples surrounding Ur in Sumeria became the core of the new Hebrews -- the *flood* tale would be included in their *Creation* myths.
+People saw *big* floods which predate historical written accounts that relate to the big thaws at the end of the last big Ice Age. A global flood to a specific ethnic group meant *their* world got flooded -- not the *literal* planet. A global flood would kill most sea life. **[Bob Ballard's](http://www.nationalgeographic.com/blacksea-ax-frame.html)** **[Black Sea expeditions](http://www.expedition2003.org)** make sense in regard to the Sumerian depiction. A flood there would directly affect the *Fertile Crescent* area and nowhere else. As the Marta peoples surrounding Ur in Sumeria became the core of the new Hebrews -- the *flood* tale would be included in their *Creation* myths.
 
 ### Related entries
 
@@ -92,12 +92,12 @@ People saw *big* floods which predate historical written accounts that relate to
 ### External links
 
 
-* **[Snow Crash](/http-en-wikipedia-org-wiki-snow-crash)**
-* **[Epic of Gilgamesh](/http-en2-wikipedia-org-wiki-epic-of-gilgamesh)**
-* **[Skeptic's Dictionary re:Noah's Ark](/http-skepdic-com-noahsark-html)**
-* **[Problem re: Global Flood](/http-www-talkorigins-org-faqs-faq-noahs-ark-html)**
-* **[Tracking the myth](/http-www-flood-myth-com-flyer-htm) Ziusudra Epic of 2900 BCE**
-* **[National Geographic Bob Ballard page](/http-www-nationalgeographic-com-blacksea-ax-frame-html)**
-* **[2003 Black Sea expedition](/http-www-expedition2003-org)**
-* **[Robert Ballard Wikipedia entry](/http-en2-wikipedia-org-wiki-robert-ballard)**
-* **[Imaginary Ark construction](/http-www-mishkanministries-org-noahs-ark-htm)**
+* **[Snow Crash](https://en.wikipedia.org/wiki/snow-crash)**
+* **[Epic of Gilgamesh](https://en.wikipedia.org/wiki/epic-of-gilgamesh)**
+* **[Skeptic's Dictionary re:Noah's Ark](http://skepdic.com/noahsark.html)**
+* **[Problem re: Global Flood](http://www.talkorigins.org/faqs-faq-noahs-ark.html)**
+* **[Tracking the myth](http://www.flood.myth.com/flyer.htm) Ziusudra Epic of 2900 BCE**
+* **[National Geographic Bob Ballard page](http://www.nationalgeographic.com/blacksea-ax-frame.html)**
+* **[2003 Black Sea expedition](http://www.expedition2003.org)**
+* **[Robert Ballard Wikipedia entry](https://en.wikipedia.org/wiki/robert-ballard)**
+* **[Imaginary Ark construction](http://www.mishkanministries.org/noahs-ark.htm)**

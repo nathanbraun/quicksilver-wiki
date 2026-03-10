@@ -25,6 +25,6 @@ A character in the novel (not the primary user) defines it:
 
 
 * [Groklaw](/)
-* [Groks and the Vanguard of Science](/http-www-ocf-berkeley-edu-clgroks-page2-html), essay from [Berkeley Groks](/http-www-groks-net) science radio program
-* [Grok definition](/http-catb-org-esr-jargon-html-g-grok-html) in the [Jargon File](/)
-* [WikiQuote on Stranger in a Strange Land](/http-en-wikiquote-org-wiki-stranger-in-a-strange-land) includes many uses of *grok*
+* [Groks and the Vanguard of Science](http://www.ocf.berkeley.edu/clgroks-page2.html), essay from [Berkeley Groks](http://www.groks.net) science radio program
+* [Grok definition](http://catb.org/esr-jargon-html-g-grok.html) in the [Jargon File](/)
+* [WikiQuote on Stranger in a Strange Land](http://en.wikiquote.org/wiki-stranger-in-a-strange-land) includes many uses of *grok*

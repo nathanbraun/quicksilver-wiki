@@ -32,8 +32,8 @@ The word algebra is also used for various algebraic structures:
 
 
 See also: 
-* **[Diophantus](/http-en-wikipedia-org-wiki-diophantus)**, "father of Algebra"
-* Mohammed **[al-Khwarizmi](/http-en2-wikipedia-org-wiki-al-khwarizmi)**, who probably deserves the title more.
+* **[Diophantus](https://en.wikipedia.org/wiki/diophantus)**, "father of Algebra"
+* Mohammed **[al-Khwarizmi](https://en.wikipedia.org/wiki/al-khwarizmi)**, who probably deserves the title more.
 
 
 ### Related entries
@@ -47,5 +47,5 @@ See also:
 ### External links
 
 
-* **[Diophantus](/http-en-wikipedia-org-wiki-diophantus)**
-* **[Al-Khwarizmi](/http-en2-wikipedia-org-wiki-al-khwarizmi)**
+* **[Diophantus](https://en.wikipedia.org/wiki/diophantus)**
+* **[Al-Khwarizmi](https://en.wikipedia.org/wiki/al-khwarizmi)**

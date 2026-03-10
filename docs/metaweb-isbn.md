@@ -13,4 +13,4 @@ Some think that this is useful, as it allows readers to go to online stores and 
 
 The text and links for the special page can be found at [Wikipedia:Book sources](/wikipedia-book-sources). To suggest additions to the page, see [Wikipedia talk:Book sources](/wikipedia-talk-book-sources).
 
-*This entry originally from the [Wikipedia](/http-www-wikipedia-org)*
+*This entry originally from the [Wikipedia](http://www.wikipedia.org)*

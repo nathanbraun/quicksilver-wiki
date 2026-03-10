@@ -18,9 +18,9 @@ a page for **Nell Gwyn**
 ### Wikipedia: Nell Gwyn (enhanced)
 
 
-**Nell Gwyn** (February 1650 - November 14, 1687) or **Nell Gwynne** was a beautiful actress and undoubtedly the most famous mistress of the *Merry Monarch* King [Charles II](/charles-ii). Her frank recklessness, generosity, invariable good temper, ready wit, infectious high spirits, and amazing indiscretions appealed irresistibly to a generation that welcomed in her the living antithesis of [Puritanism](/puritan). [[1]](/http-www-britannica-com-eb-article-eu-39424) ![NellGMW.jpg](/images/NellGMW.jpg)  
+**Nell Gwyn** (February 1650 - November 14, 1687) or **Nell Gwynne** was a beautiful actress and undoubtedly the most famous mistress of the *Merry Monarch* King [Charles II](/charles-ii). Her frank recklessness, generosity, invariable good temper, ready wit, infectious high spirits, and amazing indiscretions appealed irresistibly to a generation that welcomed in her the living antithesis of [Puritanism](/puritan). [[1]](http://www.britannica.com/eb-article-eu-39424) ![NellGMW.jpg](/images/NellGMW.jpg)  
 **Nell Gwyn  
-The liveliest portrait at the [NPG](/http-www-npg-org-uk)**
+The liveliest portrait at the [NPG](http://www.npg.org/uk)**
 
 Her full name was Eleanor Gwyn and she was born in Hereford, probably of Welsh ancestry, her father being a Thomas Gwyn who died in debtor's prison in Oxford. Her mother operated a brothel, Gwyn pulled herself out of poverty by launching a successful acting career. Gwyn, who had initially worked in the theater for the legendary Mary Meggs (aka "Orange Mall") as an orange salesgirl and perhaps a prostitute, made her stage debut in the mid-1660s, when women were first allowed on the English stage. Having first made a living selling oranges, she became an actress (not at that time a respectable profession) when she was fifteen. In acting, her professional roles, which were, for the most part, limited to comedy.
 
@@ -75,12 +75,12 @@ She died in November 1687, and was buried on the 17th, according to her own requ
 ### Footnotes and External links
 
 
-* 1 [Nell Gwyn](/http-www-britannica-com-eb-article-eu-39424)
+* 1 [Nell Gwyn](http://www.britannica.com/eb-article-eu-39424)
 * Painted Ladies: Women at the Court of Charles II ran 11 October 2001 - 6 January 2002 Wolfson Gallery in London
-* [Wikipedia's entry: Nell Gywn](/http-en-wikipedia-org-wiki-nell-gwyn)
-* [1911 Enclycopedia:Nell Gywn](/http-56-1911encyclopedia-org-g-gw-gwyn-nell-htm)
-* [ISBN 0750927046](/) [Nell Gwyn](/http-www-amazon-com-exec-obidos-tg-detail-0750927046-104-8931055-5532701-v-glance) Author: Derek Parker; Publisher: Sutton Publishing; (July 1, 2001)
-* [ISBN 0375725539](/) [Samuel Pepys: The Unequaled Self](/http-www-amazon-com-exec-obidos-tg-detail-0375725539-qid-1080175694-sr-8-1-ref-pd-ka-1-104-8931055-5532701-v-glance-s-books-n-507846) Author: Claire Tomalin; Publisher: Vintage; (November 11, 2003)
+* [Wikipedia's entry: Nell Gywn](https://en.wikipedia.org/wiki/nell-gwyn)
+* [1911 Enclycopedia:Nell Gywn](http://56.1911encyclopedia.org/g-gw-gwyn-nell.htm)
+* [ISBN 0750927046](/) [Nell Gwyn](http://www.amazon.com/exec-obidos-tg-detail-0750927046-104-8931055-5532701-v-glance) Author: Derek Parker; Publisher: Sutton Publishing; (July 1, 2001)
+* [ISBN 0375725539](/) [Samuel Pepys: The Unequaled Self](http://www.amazon.com/exec-obidos-tg-detail-0375725539-qid-1080175694-sr-8-1-ref-pd-ka-1-104-8931055-5532701-v-glance-s-books-n-507846) Author: Claire Tomalin; Publisher: Vintage; (November 11, 2003)
 
 
 ### References

@@ -32,5 +32,5 @@ This is an [intermediate page](/metaweb-intermediate-page) for
 #### [External links](/metaweb-external-links)
 
 
-* [Biography](/http-etext-virginia-edu-subjects-eaw-bios-wardbio-html)
-* [A Trip to New England](/http-etext-virginia-edu-subjects-eaw-essays-wardtext-html)
+* [Biography](http://etext.virginia.edu/subjects-eaw-bios-wardbio.html)
+* [A Trip to New England](http://etext.virginia.edu/subjects-eaw-essays-wardtext.html)

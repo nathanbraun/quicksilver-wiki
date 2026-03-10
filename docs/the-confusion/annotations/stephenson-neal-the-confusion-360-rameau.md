@@ -81,9 +81,9 @@ At his death in 1764, over 1500 people attended Rameau's memorial service in Par
 ### External links
 
 
-* [Bio - Jean-Philippe Rameau](/http-www-baroquemusic-org-bqxrameau-html)
-* [musicologie.org](/http-www-musicologie-org-biographies-rameau-jp-html)
+* [Bio - Jean-Philippe Rameau](http://www.baroquemusic.org/bqxrameau.html)
+* [musicologie.org](http://www.musicologie.org/biographies-rameau-jp.html)
 * [Jean-Philippe Rameau / Discography](/http-farhad-efka-club-fr-rameau-index-htm)
 * [Rameau - Portraits](/http-jp-rameau-free-fr-rameauportraitsgb-htm) Portrait Gallery
-* [His catalog](/http-www-cduniverse-com-classical-asp-ht-search-info-rameau-ht-search-composer-image-x-0-image-y-0-cart-264021588-style-classical-ctype-parse)
-* [Catalog of his rival](/http-www-cduniverse-com-classical-asp-ctype-comp-exact-y-sf-monteclair-michel-cart-264021588-style-classical)
+* [His catalog](http://www.cduniverse.com/classical-asp-ht-search-info-rameau-ht-search-composer-image-x-0-image-y-0-cart-264021588-style-classical-ctype-parse)
+* [Catalog of his rival](http://www.cduniverse.com/classical-asp-ctype-comp-exact-y-sf-monteclair-michel-cart-264021588-style-classical)

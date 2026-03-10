@@ -16,7 +16,7 @@ This is a page for **Daniel Defoe**
 * [Stephenson:Neal:Quicksilver:93:The Plague Year (Alan Sinder)](/stephenson-neal-quicksilver-93-the-plague-year-alan-sinder)
 
 
-### [Daniel Defoe](/http-en-wikipedia-org-wiki-daniel-defoe)
+### [Daniel Defoe](https://en.wikipedia.org/wiki/daniel-defoe)
 
 
 Mostly from Wikipedia, the free encyclopedia.![Defoe-pillory.jpg](/images/Defoe-pillory.jpg)
@@ -25,7 +25,7 @@ Mostly from Wikipedia, the free encyclopedia.![Defoe-pillory.jpg](/images/Defoe-
 **pilloried for dissent while a crowd of sympathizers  
 attempt to give him food and water**
 
-**Daniel Defoe** (1660 - April 21, 1731), the English writer, gained fame for his novel ***[Robinson Crusoe](/http-en-wikipedia-org-wiki-robinson-crusoe)***. 
+**Daniel Defoe** (1660 - April 21, 1731), the English writer, gained fame for his novel ***[Robinson Crusoe](https://en.wikipedia.org/wiki/robinson-crusoe)***. 
 
 ### Biography
 
@@ -49,11 +49,11 @@ Harley was dismissed from the government in 1708. Defoe then left his employ and
 ### Writing
 
 
-Defoe's famous work, arguably the first novel written in English, Robinson Crusoe (1719), tells of a man's shipwreck on a desert island and his subsequent adventures. The author may have based his narrative on the true story of the marooning of Alexander Selkirk. [[1]](/http-en-wikipedia-org-wiki-robinson-crusoe-selkirk-as-the-inspiration-for-crusoe)
+Defoe's famous work, arguably the first novel written in English, Robinson Crusoe (1719), tells of a man's shipwreck on a desert island and his subsequent adventures. The author may have based his narrative on the true story of the marooning of Alexander Selkirk. [[1]](https://en.wikipedia.org/wiki/robinson-crusoe-selkirk-as-the-inspiration-for-crusoe)
 
-Defoe wrote an account of the [Great Plague](/black-plague) of 1665: *[A Journal of the Plague Year](/http-en-wikipedia-org-wiki-a-journal-of-the-plague-year)*. 
+Defoe wrote an account of the [Great Plague](/black-plague) of 1665: *[A Journal of the Plague Year](https://en.wikipedia.org/wiki/a-journal-of-the-plague-year)*. 
 
-***[A Journal of the Plague Year](/http-ibiblio-org-gutenberg-etext95-jplag10-txt)*** is a novel by Daniel Defoe:  *... the fury of the contagion was such at some particular times, and people sickened so fast and died so soon, that it was impossible, and indeed to no purpose, to go about to inquire who was sick and who was well, or to shut them up with such exactness as the thing required, almost every house in a whole street being infected, and in many places everyperson in some of the houses; and that which was still worse, by the time that the houses were known to be infected, most of the persons infected would be stone dead, and the rest run away for fear of being shut up; so that it was to very small purpose to call them infected houses and shut them up, the infection having ravaged and taken its leave of the house before it was really known that the family was any way touched.* 
+***[A Journal of the Plague Year](http://ibiblio.org/gutenberg-etext95-jplag10.txt)*** is a novel by Daniel Defoe:  *... the fury of the contagion was such at some particular times, and people sickened so fast and died so soon, that it was impossible, and indeed to no purpose, to go about to inquire who was sick and who was well, or to shut them up with such exactness as the thing required, almost every house in a whole street being infected, and in many places everyperson in some of the houses; and that which was still worse, by the time that the houses were known to be infected, most of the persons infected would be stone dead, and the rest run away for fear of being shut up; so that it was to very small purpose to call them infected houses and shut them up, the infection having ravaged and taken its leave of the house before it was really known that the family was any way touched.* 
 
 He also wrote ***Moll Flanders*** (1722), a picaresque first-person narration of the fall and eventual redemption of a lone woman in 17th century England. She appears as a whore, bigamist and thief, commits adultery and incest, yet manages to keep the reader's sympathy. Both this work and *Roxana, The Fortunate Mistress* (1724) offer remarkable examples of the way in which Defoe seems to inhabit his fictional (yet "drawn from life") characters, not least in that they are women. 
 
@@ -86,10 +86,10 @@ The latter has the largest congregation.
 ### Footnotes and External links
 
 
-* 1 [Selkirk](/http-en-wikipedia-org-wiki-robinson-crusoe-selkirk-as-the-inspiration-for-crusoe)
-* [Crusoe](/http-en-wikipedia-org-wiki-robinson-crusoe)
-* [Blackbeard](/http-www-fortunecity-co-uk-amusement-golf-200-teach-html)
-* [e-texts of some of Daniel Defoe's works](/http-onlinebooks-library-upenn-edu-webbin-gutbook-author-name-defoe-daniel)
-* [Introduction to the Decameron](/http-www-fordham-edu-halsall-source-decameronintro-html)
-* *[The Fortunes and Misfortunes of the Famous Moll Flanders](/http-ibiblio-org-gutenberg-etext95-mollf11-txt)*, from *[the works of Daniel Defoe](/http-onlinebooks-library-upenn-edu-webbin-gutbook-author-name-defoe-daniel)*
-* [Full text of *Robinson Crusoe*, in multiple formats](/http-pdreader-org-details-asp-id-521)
+* 1 [Selkirk](https://en.wikipedia.org/wiki/robinson-crusoe-selkirk-as-the-inspiration-for-crusoe)
+* [Crusoe](https://en.wikipedia.org/wiki/robinson-crusoe)
+* [Blackbeard](http://www.fortunecity.co.uk/amusement-golf-200-teach.html)
+* [e-texts of some of Daniel Defoe's works](http://onlinebooks.library.upenn.edu/webbin-gutbook-author-name-defoe-daniel)
+* [Introduction to the Decameron](http://www.fordham.edu/halsall-source-decameronintro.html)
+* *[The Fortunes and Misfortunes of the Famous Moll Flanders](http://ibiblio.org/gutenberg-etext95-mollf11.txt)*, from *[the works of Daniel Defoe](http://onlinebooks.library.upenn.edu/webbin-gutbook-author-name-defoe-daniel)*
+* [Full text of *Robinson Crusoe*, in multiple formats](http://pdreader.org/details-asp-id-521)

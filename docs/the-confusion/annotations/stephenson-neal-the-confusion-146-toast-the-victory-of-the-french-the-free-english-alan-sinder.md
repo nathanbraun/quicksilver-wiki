@@ -24,7 +24,7 @@ This is [The Confusion](/the-confusion) page for **Battle of the Boyne**
 * [Judge Jeffreys (Alan Sinder)](/judge-jeffreys-alan-sinder)
 
 
-### [Wikipedia: Battle of the Boyne](/http-en-wikipedia-org-wiki-battle-of-the-boyne): Those Kings Also Killed Irishmen
+### [Wikipedia: Battle of the Boyne](https://en.wikipedia.org/wiki/battle-of-the-boyne): Those Kings Also Killed Irishmen
 
  
 A series of Penal Laws discriminated against all [Christian](/christianity) faiths other than the established Church of Ireland. The principal victims of these laws were Roman Catholicism and Presbyterianism. Ireland played a crucial role in the [Glorious Revolution](/glorious-revolution) of 1689, when the Roman Catholic King [James II](/james-ii)/VII (of England and Scotland) was deposed by Parliament and replaced by joint monarchs, James' protestant daughter Queen [Mary II](/mary-ii) and her husband, King [William III](/william-iii) of Orange. James and William fought for the English, Scottish and Irish thrones in a series of battles in Ireland, most famously **the Battle of the Boyne**. 
@@ -65,4 +65,4 @@ Both the Duke of Schomberg and the Reverend George Walker were killed in the fig
 ### External links
 
 
-* [BBC History link: Battle of the Boyne](/http-www-bbc-co-uk-history-timelines-ni-battle-boyne-shtml)
+* [BBC History link: Battle of the Boyne](http://www.bbc.co.uk/history-timelines-ni-battle-boyne-shtml)

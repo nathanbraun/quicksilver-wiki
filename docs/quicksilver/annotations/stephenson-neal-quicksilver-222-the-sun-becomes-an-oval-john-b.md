@@ -6,7 +6,7 @@ From the Quicksilver Metaweb.
 I think more needs to be said about the illusion that the sun, and the easier-to-observe moon, have a different size or shape when viewed at the horizon. It is not true that atmospheric refraction plays the most significant role (of course it plays some). While the sun and moon do become ovals at the horizon, more noticeable is their change in apparent size, which is often attributed to atmospheric distortion.
 
 This is a very involved issue, and the best explanations are to be found at 
-[http://www.lhup.edu/~dsimanek/3d/moonillu.htm](/http-www-lhup-edu-dsimanek-3d-moonillu-htm)
+[http://www.lhup.edu/~dsimanek/3d/moonillu.htm](http://www.lhup.edu/dsimanek-3d-moonillu.htm)
 
 There are several optical illusions (especially the Ponzo Illusion) that are invoked to explain why the sun and moon appear to have different sizes at different places in the sky. Here is one explanation. The sky is a hemisphere above you, a perfect half of a sphere. And yet it is perceived as more of a bowl. The top of the sky seems less distant than the sky at the horizon. However, this is not so. 
 

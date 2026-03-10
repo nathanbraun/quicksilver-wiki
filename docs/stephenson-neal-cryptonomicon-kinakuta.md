@@ -47,11 +47,11 @@ Got to figure as it being safer than Sealand from hostile forces ...*
 ### External links
 
 
-* [Geography of the Spratly Islands](/http-en-wikipedia-org-wiki-geography-of-the-spratly-islands)
-* [Economy of the Spratly Islands](/http-en-wikipedia-org-wiki-economy-of-the-spratly-islands)
-* [Transportation in the Spratly Islands](/http-en-wikipedia-org-wiki-transportation-in-the-spratly-islands)
-* [Paracel Islands](/http-en-wikipedia-org-wiki-paracel-islands)
-* [Macclesfield Bank](/http-en-wikipedia-org-wiki-macclesfield-bank)
-* [Pratas Islands](/http-en-wikipedia-org-wiki-pratas-islands)
-* [Coming Attractions](/http-www-comebackalive-com-df-attractn-htm)
-* [The Solomons](/http-en-wikipedia-org-wiki-solomon-islands)
+* [Geography of the Spratly Islands](https://en.wikipedia.org/wiki/geography-of-the-spratly-islands)
+* [Economy of the Spratly Islands](https://en.wikipedia.org/wiki/economy-of-the-spratly-islands)
+* [Transportation in the Spratly Islands](https://en.wikipedia.org/wiki/transportation-in-the-spratly-islands)
+* [Paracel Islands](https://en.wikipedia.org/wiki/paracel-islands)
+* [Macclesfield Bank](https://en.wikipedia.org/wiki/macclesfield-bank)
+* [Pratas Islands](https://en.wikipedia.org/wiki/pratas-islands)
+* [Coming Attractions](http://www.comebackalive.com/df-attractn.htm)
+* [The Solomons](https://en.wikipedia.org/wiki/solomon-islands)

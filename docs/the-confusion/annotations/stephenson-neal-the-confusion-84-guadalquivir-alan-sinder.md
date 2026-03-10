@@ -24,15 +24,15 @@ This is [The Confusion](/the-confusion) page for **Guadalquivir**
 ## Guadalquivir
 
 
-**[Guadalquivir](/http-en-wikipedia-org-wiki-guadalquivir)** is one of the major rivers of [Spain](/http-en-wikipedia-org-wiki-spain).
+**[Guadalquivir](https://en.wikipedia.org/wiki/guadalquivir)** is one of the major rivers of [Spain](https://en.wikipedia.org/wiki/spain).
 *Wad al-kebir* is acctually "the great river" in Arabic.
-It passes through Córdoba and Seville and ends in the Atlantic Ocean. **[Cádiz](/http-en-wikipedia-org-wiki-cádiz)** (population 160,000) is a coastal city in south-west Spain, in the region of Andalusia. It is the capital of the province also named **Cádiz** in southern Spain, in the southwestern part of the autonomous community of Andalusia.![CordobaRomanBridge.jpg](/https://web.archive.org/web/20060725222631im_/http://en.wikipedia.org/upload/b/b3/CordobaRomanBridge.jpg)  
+It passes through Córdoba and Seville and ends in the Atlantic Ocean. **[Cádiz](https://en.wikipedia.org/wiki/cádiz)** (population 160,000) is a coastal city in south-west Spain, in the region of Andalusia. It is the capital of the province also named **Cádiz** in southern Spain, in the southwestern part of the autonomous community of Andalusia.![CordobaRomanBridge.jpg](/https://web.archive.org/web/20060725222631im_/http://en.wikipedia.org/upload/b/b3/CordobaRomanBridge.jpg)  
 **Ancient Roman Bridge  
 Spans The Guadalquivir**
 
 **Andalusia** (*Andalucía* in Spanish) is one of the seventeen autonomous communities that constitute Spain. Located in the south of the country, Andalusia it is bounded on the north by Extremadura and Castile-La Mancha, on the east by Murcia, on the south by the Mediterranean Sea and Gibraltar, and on the west by Portugal. Its capital is Sevilla.
 
-## [Seville](/http-en-wikipedia-org-wiki-seville)
+## [Seville](https://en.wikipedia.org/wiki/seville)
 
 
 **Seville** (Spanish: *Sevilla*) is the artistic, cultural, and financial capital of southern Spain, crossed by the river Guadalquivir. It is the capital of Andalusia and of the province of Sevilla. The inhabitants of the city are known as Sevillanos. The population is about 700,000 people, making it the fourth largest city in Spain; the metropolitan area has a population close to 1,300,000. 
@@ -54,7 +54,7 @@ The city was long an important sea port, prior to the silting up of the Guadalqu
 
 The city's great Cathedral was built from 1401 - 1519 after the Reconquista on the former site of the city's mosque. The interior is lavishly decorated, with a large quantity of gold evident. The Cathedral reused some columns and elements from the old mosque, and most famously the *Giralda*, originally a minaret, was converted into a bell tower. It is topped with a statue representing Faith. The Giralda is the city's most famous symbol. 
 
-The **[Alcazar](/http-en-wikipedia-org-wiki-alcazar)**  (Arabic القصر) means 'fortress  is the city's old Moorish Palace; construction was begun in 1181. Additional construction continued for over 500 years. The Alcazar of Seville was finished in the 1360s by Moorish craftsmen for [Pedro the Cruel](/http-en-wikipedia-org-wiki-peter-i-of-castile) who, with his mistress, Maria de Padilla, lived in and ruled from the Alcazar, and often remodeled. Now it is an UNESCO World Heritage site. The *Parque Maria Louisa* was built for the 1929 Exposición Ibero-Americana World's Fair, and now is landscaped with attractive monuments and museums.![SevillaGiralda.jpg](/https://web.archive.org/web/20060725222631im_/http://en.wikipedia.org/upload/d/da/SevillaGiralda.jpg)  
+The **[Alcazar](https://en.wikipedia.org/wiki/alcazar)**  (Arabic القصر) means 'fortress  is the city's old Moorish Palace; construction was begun in 1181. Additional construction continued for over 500 years. The Alcazar of Seville was finished in the 1360s by Moorish craftsmen for [Pedro the Cruel](https://en.wikipedia.org/wiki/peter-i-of-castile) who, with his mistress, Maria de Padilla, lived in and ruled from the Alcazar, and often remodeled. Now it is an UNESCO World Heritage site. The *Parque Maria Louisa* was built for the 1929 Exposición Ibero-Americana World's Fair, and now is landscaped with attractive monuments and museums.![SevillaGiralda.jpg](/https://web.archive.org/web/20060725222631im_/http://en.wikipedia.org/upload/d/da/SevillaGiralda.jpg)  
 **Sevilla**
 
 ### Pedro *the Cruel* AKA Peter I of Castile
@@ -103,7 +103,7 @@ Via the Carthaginians it fell in hands of the Romans, who called it Gades. Gadir
 
 Trocadero (*Trocadéro* in French) was a fortified position on the bay of Cadiz in the south of Spain. Captured by France on August 31, 1823 by forces led by the duke d'Angoulême. The goal was to intervene against the liberal Spanish who were rebelling against the autocracy of Ferdinand VII. 
 
-## [Tartessos](/http-en-wikipedia-org-wiki-tartessos)
+## [Tartessos](https://en.wikipedia.org/wiki/tartessos)
 
 
 **Tartessos** (also **Tartessus**) was a harbor city on the south coast of Spain, at the mouth of the Guadalquivir. It probably existed already before 1000 BCE, and its inhabitants were traders, who seem to have been the ones to discover the route to the Tin Islands (Britain or more precisely the Scilly Islands). Tin was a much-wanted product in those days, as it was necessary for the production of bronze, and the people from Tartessos became important trading partners of the Phoenicians, who nearby built a harbor of their own, Gades (current-day Cadiz). In the 6th century BCE, Tartessos disappears rather suddenly from history. The Romans called the wide bay the Tartessius Sinus though the city was no more. 
@@ -123,7 +123,7 @@ Rio Tinto's runoff is considered so toxic as to be unearthly, scientists hunt ex
 ### Links to Atlantis
 
 
-Tartessian enthusiasts imagine it trading with Atlantis and link obscure finds with the highly problematic [Lady of Elche](/http-en-wikipedia-org-wiki-lady-of-elche). The name El Carpio survives, transferred to a site in a bend of the Guadalquivir, but the origin of its name has been associated with its imposing oldest feature, a Moorish tower erected in 1325 by the engineer responsible for the alcazar of Seville. In the Bible, Tartessos is known under the name of Tarshish, where [Phoenicians](/phoenicia) traded ores during the rule of [Solomon](/solomon).
+Tartessian enthusiasts imagine it trading with Atlantis and link obscure finds with the highly problematic [Lady of Elche](https://en.wikipedia.org/wiki/lady-of-elche). The name El Carpio survives, transferred to a site in a bend of the Guadalquivir, but the origin of its name has been associated with its imposing oldest feature, a Moorish tower erected in 1325 by the engineer responsible for the alcazar of Seville. In the Bible, Tartessos is known under the name of Tarshish, where [Phoenicians](/phoenicia) traded ores during the rule of [Solomon](/solomon).
 Although several finds have been made in southern Spain that are ascribed to the Tartessan culture, the city itself has not been recovered by professional archeologists.
 
 ## Pillars of Hercules
@@ -149,7 +149,7 @@ When Hercules had to perform twelve labours, one of them was to fetch the Cattle
 
 The pillars are also mentioned at some places as portals, or gates to different locations on Earth. When the Carthaginian admiral Himilco was sent to explore the area of the Muddy Sea (a shallow plateau that lies to the southwest of the Pillars) his report included the words "Many seaweeds grow in the troughs between the waves, which slow the ship like bushes {...} Here the beasts of the sea move slowly hither and thither, and great monsters swim languidly among the sluggishly creeping ships" (Rufus Festus Avienus) This description accurately resembles the Sargasso Sea rather than the Muddy Sea.
 
-#### In [Dante's Inferno](/http-en-wikipedia-org-wiki-the-divine-comedy)
+#### In [Dante's Inferno](https://en.wikipedia.org/wiki/the-divine-comedy)
 
 
 When describing his circles of hell, Dante mentions Ulysses and his voyage past the Pillars of Hercules (once considered the western end of the world). Ulysses justifies endangering his sailors by the fact that his goal is to gain knowledge of the unknown. After five months of navigation in the ocean, Ulysses detects the Purgatorial but encounters a whirlwind that sinks his ship.
@@ -169,10 +169,10 @@ When describing his circles of hell, Dante mentions Ulysses and his voyage past 
 ### External links
 
 
-* [Spain](/http-en-wikipedia-org-wiki-spain)
-* [Cádiz](/http-en-wikipedia-org-wiki-cádiz)
+* [Spain](https://en.wikipedia.org/wiki/spain)
+* [Cádiz](https://en.wikipedia.org/wiki/cádiz)
 * [ISBN 9004100946](/) Pedro the Cruel of Castile 1350-1369
 * [ISBN 0-8008-8324-1](/) Doñana, Spain's Wildlife Wilderness, Juan Antonio Fernández, Taplinger Publishing Company, New York, 1974, hardcover, 253 pages,
-* [Donana](/http-www-andalucia-com-environment-protect-donana-htm)
+* [Donana](http://www.andalucia.com/environment-protect-donana.htm)
 * [Tartessian speculations, with good maps](/http-digilander-libero-it-theghost63-tartessus-tartessus-eng-htm)
-* [*Jewish Encyclopedia*:](/http-www-jewishencyclopedia-com-view-jsp-artid-73-letter-t) Tarshish, a distant maritime district famed for its metalwork, considered by the contributors in 1901-1906 to be largely mythical; Old Testament references.
+* [*Jewish Encyclopedia*:](http://www.jewishencyclopedia.com/view-jsp-artid-73-letter-t) Tarshish, a distant maritime district famed for its metalwork, considered by the contributors in 1901-1906 to be largely mythical; Old Testament references.

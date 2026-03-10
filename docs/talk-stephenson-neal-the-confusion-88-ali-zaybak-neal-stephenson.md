@@ -59,7 +59,7 @@ Out there on the dunes
 ---
 
 
-* [The Adventures of Mercury Ali of Cairo](/http-www-globusz-com-ebooks-1001v6-00000026-htm) who has a this:
+* [The Adventures of Mercury Ali of Cairo](http://www.globusz.com/ebooks-1001v6-00000026.htm) who has a this:
 
 "[Watered steel-blade](/stephenson-neal-quicksilver-391-watered-steel-blade-neal-stephenson), the world perfection calls, 
 Drunk with the viper poison foes appals,
@@ -70,9 +70,9 @@ Aught save the Godhead of Allmighty Might;
 And shun ill practices and never show 
 Through life but generous gifts to human sight.
 
-* [Free e-Books](/http-www-globusz-com)
-* [This odd link](/http-www-muse-apprentice-guild-com)
-* [The Book of the Thousand Nights and a Night, V7 - Page 5](/http-library-floresca-net-1060-5-html) - Another list of [free e-Books](/http-library-floresca-net-index-htm)
+* [Free e-Books](http://www.globusz.com)
+* [This odd link](http://www.muse.apprentice.guild.com)
+* [The Book of the Thousand Nights and a Night, V7 - Page 5](http://library.floresca.net/1060-5.html) - Another list of [free e-Books](http://library.floresca.net/index.htm)
 
 
 

@@ -56,4 +56,4 @@ George I died at Osnabrück in 1727 from a stroke while on his way to Hanover, w
 ### External Links
 
 
-* **[Leibniz and George I](/http-www-hfac-uh-edu-gbrown-philosophers-leibniz-georgludwig-georgludwig-html)**
+* **[Leibniz and George I](http://www.hfac.uh.edu/gbrown-philosophers-leibniz-georgludwig-georgludwig.html)**

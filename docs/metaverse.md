@@ -52,8 +52,8 @@ As well it should. While the real world grasps the meaning of what a true Metave
 
 Trying to market a Metaverse is the same as trying to market the Internet as a product. It simply cannot be done. You cannot limit the capacity of such a system by saying "Look here, it's a game!" or "It's a training tool." The Metaverse simply "is". It's anything the human mind can possibly imagine, and sometimes it's things we could not.
 
-For a glimpse of this media, one would only have to look here: [Metaverse Embed](/http-www-vr5-online-com-browser) 
-or download the standalone here: [Metaverse Install](/http-www-vr5-online-com-beta-downloads-metaverse-install-exe)
+For a glimpse of this media, one would only have to look here: [Metaverse Embed](http://www.vr5.online.com/browser) 
+or download the standalone here: [Metaverse Install](http://www.vr5.online.com/beta-downloads-metaverse-install-exe)
 
 The browser chosen for this writing was due to a few discerning factors: 
 
@@ -82,12 +82,12 @@ VR5 Online, while not in the browser business, instead focuses on the fact that 
 ### External Links
 
 
-* [VR5 Online](/http-www-vr5online-com)—The 3D Internet Company
-* [Active Worlds](/http-www-activeworlds-com)
-* [Second Life](/http-www-secondlife-com)
-* [Blaxxun Interactive](/http-www-blaxxun-com)
-* [There.com](/http-www-there-com)
-* [Media Machines/Flux](/http-www-mediamachines-com)
-* [The X3Dxperience](/http-www-thex3dxperience-com)
-* [Mark Rosenfelder's Metaverse](/http-www-zompist-com)—home of the Language Construction Kit
-* [Multiverse Network, Inc.](/http-www-multiverse-net)—plans to supply content developers with easy-to-use MMOG engines
+* [VR5 Online](http://www.vr5online.com)—The 3D Internet Company
+* [Active Worlds](http://www.activeworlds.com)
+* [Second Life](http://www.secondlife.com)
+* [Blaxxun Interactive](http://www.blaxxun.com)
+* [There.com](http://www.there.com)
+* [Media Machines/Flux](http://www.mediamachines.com)
+* [The X3Dxperience](http://www.thex3dxperience.com)
+* [Mark Rosenfelder's Metaverse](http://www.zompist.com)—home of the Language Construction Kit
+* [Multiverse Network, Inc.](http://www.multiverse.net)—plans to supply content developers with easy-to-use MMOG engines

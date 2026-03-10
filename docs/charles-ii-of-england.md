@@ -96,7 +96,7 @@ Frances Stuart, later Countess of Lichfield
 #### External links
 
 
-* [Biography of Charles II from the British Monarchy official site](/http-www-royal-gov-uk-output-page92-asp)
-* [Discussion of the reign of Charles II from BBC](/http-www-bbc-co-uk-history-historic-figures-charles-ii-king-shtml)
-* [Charles II - The Masquerading Monarch? - discussion of his personality by Prof. Ronald Hutton, on BBC site](/http-www-bbc-co-uk-history-state-monarchs-leaders-charlesii-masq-01-shtml)
-* [Dicken's Child's History of England](/http-www-web-books-com-classics-nonfiction-history-dickens-child-child35-1-htm)
+* [Biography of Charles II from the British Monarchy official site](http://www.royal.gov/uk-output-page92.asp)
+* [Discussion of the reign of Charles II from BBC](http://www.bbc.co.uk/history-historic-figures-charles-ii-king-shtml)
+* [Charles II - The Masquerading Monarch? - discussion of his personality by Prof. Ronald Hutton, on BBC site](http://www.bbc.co.uk/history-state-monarchs-leaders-charlesii-masq-01-shtml)
+* [Dicken's Child's History of England](http://www.web.books.com/classics-nonfiction-history-dickens-child-child35-1.htm)

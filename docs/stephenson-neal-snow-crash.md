@@ -31,7 +31,7 @@ The main **[Snow Crash](/snow-crash)** page
 ### Community: Snow Crash
 
 
-Title of Neal's third novel, and its most compelling sci-fi concept: a virus/drug/religion created by the intersection of certain ancient Sumerian incantations (or "[me](/http-en2-wikipedia-org-wiki-me)") and modern culture (or "[virtual reality](/http-en-wikipedia-org-wiki-virtual-reality)" as one may very charitably call it).
+Title of Neal's third novel, and its most compelling sci-fi concept: a virus/drug/religion created by the intersection of certain ancient Sumerian incantations (or "[me](https://en.wikipedia.org/wiki/me)") and modern culture (or "[virtual reality](https://en.wikipedia.org/wiki/virtual-reality)" as one may very charitably call it).
 
 Host to such memorable characters as [Hiro Protagonist](/stephenson-neal-snow-crash-hiro-protagonist), [Raven](/stephenson-neal-snow-crash-raven), and [YT](/stephenson-neal-snow-crash-yt). And then there is [Juanita Marquez](/stephenson-neal-snow-crash-juanita-marquez) - who is smarter and more cynical than our skateboarder.
 
@@ -49,13 +49,13 @@ The Most Honorable Hiro Protagonist
 
 The story takes place in an America of the future, where corporatization, franchising, and the economy in general have spun wildly out of control. Snow Crash depicts the absence of a central powerful state; in its absence, corporations take over the roles of government. The United States has lost most of its territory in the wake of an economic collapse and its residual government has very little impact; the lost territory has become a series of scattered enclaves, each run by its own big business franchise (such as "[Mr. Lee's Greater Hong Kong](/mr-lee-s-greater-hong-kong)"). This bears a similarity to anarcho-capitalism or (right) libertarian anarchism, and that theme continues in Stephenson's novel [The Diamond Age](/stephenson-neal-the-diamond-age-or-a-young-lady-s-illustrated-primer) (a distant sequel to Snow Crash). 
 
-The **Real Time 3-D Virtual Internet**, or *[Metaverse](/metaverse)* as Stephenson dubs it, permeates ruling-class activities, presenting Stephenson's vision of how a [virtual reality](/http-en-wikipedia-org-wiki-virtual-reality) based Internet might evolve in the near future. But a new drug called "Snow Crash" has appeared, while at the same time a computer virus with the same name is beginning to take a foothold in the computer-generated world. This is the first virus to actually make the leap from the virtual world to the real one (as we see when über-hacker Da5id carelessly opens it up), and it has the potential to wreak havoc like no virus has ever done before. 
+The **Real Time 3-D Virtual Internet**, or *[Metaverse](/metaverse)* as Stephenson dubs it, permeates ruling-class activities, presenting Stephenson's vision of how a [virtual reality](https://en.wikipedia.org/wiki/virtual-reality) based Internet might evolve in the near future. But a new drug called "Snow Crash" has appeared, while at the same time a computer virus with the same name is beginning to take a foothold in the computer-generated world. This is the first virus to actually make the leap from the virtual world to the real one (as we see when über-hacker Da5id carelessly opens it up), and it has the potential to wreak havoc like no virus has ever done before. 
 
 *Warning: spoilers*
 
 Into this crazy world come the ostensible heroes of the story. The hero/protagonist in the novel is a slacker hacker by the name of [Hiro Protagonist](/hiro-protagonist); but the real hero emerges as the streetwise young RaDiKs Kourier named [Y.T.](/yt) The pair find themselves thrown together in a wild plot involving ancient Sumerian artifacts, huge floating [raft](/the-raft) colonies overflowing with mindless cult zombies, the Nipponese rapper Sushi K, the [Mafia](/novo-sicilia) pizza delivery franchise service, [Rat Things](/stephenson-neal-snow-crash-83-414-416-436-437-fido-aka-the-rat-thing-mike-lorrey), and [Raven](/raven). [Raven](/stephenson-neal-snow-crash-raven) the Aleut is the bad guy ... and he's not just a bad guy, he's THE bad guy. When the reader encounters Raven for the first time, he gets a good idea of why no one in the story wants to mess around with this guy. 
 
-Stephenson spends much of the novel taking the reader on an extensive, impeccably researched tour of the mythology of ancient Sumeria, while theorizing upon the origins of languages and their relationship to the Biblical story of the Tower of Babel. The deeper meaning of the novel can be summed up with a quote from [William S. Burroughs](/http-en-wikipedia-org-wiki-william-s-burroughs): "Language is a virus from outer space". The book also reflects ideas from Julian Jaynes' *[The Origin of Consciousness in the Breakdown of the Bicameral Mind](/http-en-wikipedia-org-wiki-the-origin-of-consciousness-in-the-breakdown-of-the-bicameral-mind)* (1976). 
+Stephenson spends much of the novel taking the reader on an extensive, impeccably researched tour of the mythology of ancient Sumeria, while theorizing upon the origins of languages and their relationship to the Biblical story of the Tower of Babel. The deeper meaning of the novel can be summed up with a quote from [William S. Burroughs](https://en.wikipedia.org/wiki/william-s-burroughs): "Language is a virus from outer space". The book also reflects ideas from Julian Jaynes' *[The Origin of Consciousness in the Breakdown of the Bicameral Mind](https://en.wikipedia.org/wiki/the-origin-of-consciousness-in-the-breakdown-of-the-bicameral-mind)* (1976). 
 
 *Snow Crash* rocketed to the top of the fiction best-seller charts upon its release and established Stephenson as a major science fiction writer for the 1990s.
 
@@ -85,13 +85,13 @@ Stephenson spends much of the novel taking the reader on an extensive, impeccabl
 ### External links
 
 
-* [Inanna](/http-en-wikipedia-org-wiki-ishtar)
-* [Sumerian Myths](/http-en-wikipedia-org-wiki-sumerian-mythology)
-* [Enheduanna](/http-en-wikipedia-org-wiki-enheduanna) - considered the oldest author known by name
-* [Epic of Gilgamesh](/http-en-wikipedia-org-wiki-epic-of-gilgamesh)
-* [The Heroes and The Masses](/http-www-cyberartsweb-org-cpace-scifi-ns-schwartz-html)
-* [Black Sun Passport](/http-www-digitalspace-com-avatars-book-fullbook-chch-chch1-htm)
-* [Snow Crash](/http-www-cyberartsweb-org-cpace-scifi-ns-snowcrashov-html)
-* [CyberSpace](/http-www-cyberartsweb-org-cpace-theory-baudrillard-studentov-html)
-* [Themes](/http-www-cyberartsweb-org-cpace-scifi-ns-cook-html)
-* [Bad Asses of the Future](/http-www-cyberartsweb-org-cpace-scifi-ns-pillsbury-html) - one commentary of several in an English class
+* [Inanna](https://en.wikipedia.org/wiki/ishtar)
+* [Sumerian Myths](https://en.wikipedia.org/wiki/sumerian-mythology)
+* [Enheduanna](https://en.wikipedia.org/wiki/enheduanna) - considered the oldest author known by name
+* [Epic of Gilgamesh](https://en.wikipedia.org/wiki/epic-of-gilgamesh)
+* [The Heroes and The Masses](http://www.cyberartsweb.org/cpace-scifi-ns-schwartz.html)
+* [Black Sun Passport](http://www.digitalspace.com/avatars-book-fullbook-chch-chch1.htm)
+* [Snow Crash](http://www.cyberartsweb.org/cpace-scifi-ns-snowcrashov.html)
+* [CyberSpace](http://www.cyberartsweb.org/cpace-theory-baudrillard-studentov.html)
+* [Themes](http://www.cyberartsweb.org/cpace-scifi-ns-cook.html)
+* [Bad Asses of the Future](http://www.cyberartsweb.org/cpace-scifi-ns-pillsbury.html) - one commentary of several in an English class

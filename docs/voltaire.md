@@ -36,7 +36,7 @@ Ever after his exit from the Bastille in April 1718 he was known as Arouet de Vo
 ![FMA-Voltaire.jpg](/images/FMA-Voltaire.jpg)  
 Arouet AKA Voltaire
 
-[Complete Wikipedia entry](/http-en-wikipedia-org-wiki-voltaire)
+[Complete Wikipedia entry](https://en.wikipedia.org/wiki/voltaire)
 
 #### *This article incorporates text from PD 1911 Encyclopaedia Britannica. Please update as needed.*
 
@@ -65,7 +65,7 @@ In the end, the Enlightenment would turn on the Jews. What was originally, in th
 #### Looking backward
 
 
-Voltaire, the most famous and influential of the "philosophes" of the Enlightenment, described Jews as a people "who have long united the most sordid avarice with the most detestable superstition and the most invincible hatred for every people by whom they are tolerated and enriched." [[1]](/http-motlc-wiesenthal-com-resources-education-historicalsurvey-26) For this type of existence, according to Voltaire, Jews "deserve to be punished." [[2]](/http-motlc-wiesenthal-com-resources-education-historicalsurvey-27) As Arthur Hertzberg has written, Voltaire was the "vital link . . . who provided a new international, secular anti-Jewish rhetoric in the name of European culture." [[3]](/http-motlc-wiesenthal-com-resources-education-historicalsurvey-28)
+Voltaire, the most famous and influential of the "philosophes" of the Enlightenment, described Jews as a people "who have long united the most sordid avarice with the most detestable superstition and the most invincible hatred for every people by whom they are tolerated and enriched." [[1]](http://motlc.wiesenthal.com/resources-education-historicalsurvey-26) For this type of existence, according to Voltaire, Jews "deserve to be punished." [[2]](http://motlc.wiesenthal.com/resources-education-historicalsurvey-27) As Arthur Hertzberg has written, Voltaire was the "vital link . . . who provided a new international, secular anti-Jewish rhetoric in the name of European culture." [[3]](http://motlc.wiesenthal.com/resources-education-historicalsurvey-28)
 
 ### Related entry
 
@@ -77,9 +77,9 @@ Voltaire, the most famous and influential of the "philosophes" of the Enlightenm
 ### External links
 
 
-* **[Voltaire](/http-www-wsu-edu-8080-wldciv-world-civ-reader-world-civ-reader-2-voltaire-html)**
-* **[History of Philosophy](/http-history-hanover-edu-texts-voltaire-volindex-htm)**
-* **[Historical Survey](/http-motlc-wiesenthal-com-resources-education-historicalsurvey)**
+* **[Voltaire](http://www.wsu.edu/8080-wldciv-world-civ-reader-world-civ-reader-2-voltaire.html)**
+* **[History of Philosophy](http://history.hanover.edu/texts-voltaire-volindex.htm)**
+* **[Historical Survey](http://motlc.wiesenthal.com/resources-education-historicalsurvey)**
 * Bibliography: Grätz, Voltaire und die Juden, in Monatsschrift, 1868, pp. 161-174, 201, 223; idem, Gesch. xi. 48-54;
 * Becker, Voltaire et les Juifs, in Archives, xliii. 85 et seq.;
 * Mathias Kahn, ib. xxxviii. 436 et seq.;

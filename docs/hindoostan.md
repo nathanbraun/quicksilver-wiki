@@ -5,7 +5,7 @@ From the Quicksilver Metaweb.
 
 [The Confusion](/the-confusion)'s page on **17th Century india**
 
-### [Hindustan](/http-en-wikipedia-org-wiki-india)
+### [Hindustan](https://en.wikipedia.org/wiki/india)
 
 
 Another name by which the country India is known by, In [The Confusion](/the-confusion), we're in the period of the Mughal.

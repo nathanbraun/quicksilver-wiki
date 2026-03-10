@@ -27,5 +27,5 @@ Arthur C. Clarke has lived here since 1956.
 ### External links
 
 
-* [Wikipedia: Sri Lanka](/http-en-wikipedia-org-wiki-sri-lanka) was the basis of this entry.
-* [Wikipedia: Arthur C. Clarke](/http-en-wikipedia-org-wiki-arthur-c-clarke)
+* [Wikipedia: Sri Lanka](https://en.wikipedia.org/wiki/sri-lanka) was the basis of this entry.
+* [Wikipedia: Arthur C. Clarke](https://en.wikipedia.org/wiki/arthur-c-clarke)

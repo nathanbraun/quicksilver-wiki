@@ -36,7 +36,7 @@ He has lived in Colombo, Sri Lanka, since 1956. This inspired the locale for his
 
 In 1988 he was diagnosed with post-polio syndrome and has since become wheel-chair bound.
 
-His knighthood was first announced in 1998, but then the British tabloid The Sunday Mirror published accusations of pedophilia against him [[1]](/http-news-bbc-co-uk-2-hi-52598-stm) . The award was delayed while the allegations were investigated, and by 2000 it was clear that the story had been planted maliciously [[2]](/http-news-bbc-co-uk-2-hi-south-asia-765385-stm) . Clarke's health did not allow him to travel to London to receive the honour personally from the Queen), so the UK High Commissioner to Sri Lanka awarded him the title of Knight Bachelor at a ceremony in Colombo.
+His knighthood was first announced in 1998, but then the British tabloid The Sunday Mirror published accusations of pedophilia against him [[1]](http://news.bbc.co.uk/2-hi-52598-stm) . The award was delayed while the allegations were investigated, and by 2000 it was clear that the story had been planted maliciously [[2]](http://news.bbc.co.uk/2-hi-south-asia-765385-stm) . Clarke's health did not allow him to travel to London to receive the honour personally from the Queen), so the UK High Commissioner to Sri Lanka awarded him the title of Knight Bachelor at a ceremony in Colombo.
 
 He is currently the Honorary Board Chair of the Institute for Cooperation in Space, founded by Dr. Carol Rosin.
 
@@ -115,12 +115,12 @@ Most of his essays (between 1934 to 1998) can be found in the book Greetings, Ca
 ### External links
 
 
-* [Wikipedia: Arthur C. Clarke](/http-en-wikipedia-org-wiki-arthur-c-clarke) is the basis for much of this entry.
-* [Arthur C. Clarke quotes](/http-quote-wikipedia-org-wiki-arthur-c-clarke)
-* [Clarketech](/http-en-wikipedia-org-wiki-clarketech)
-* [Interview for *The Onion* (2/18/2004)](/http-www-theonionavclub-com-feature-index-php-issue-4007-f-1)
-* [The Motif of First Contact in Arthur C. Clarke's SF Works](/http-www-fantasticmetropolis-com-show-html-ey-clarke), by [Zoran Zivkovic](/zoran-zivkovic-writer)
-* [Sir Arthur C. Clarke links](/http-www-geocities-com-jcsherwood-acclinks2-htm) at [Mystery Visits](/http-www-mysteryvisits-com)
-* [Clarke image archive](/http-www-geocities-com-jcsherwood-accphotos-htm)
-* [2000 Photo](/http-fsweb-berry-edu-academic-hass-jhickman-images-arthur-jpg)
-* [Institute for Cooperation in Space](/http-www-peaceinspace-com-ab-board-shtml)
+* [Wikipedia: Arthur C. Clarke](https://en.wikipedia.org/wiki/arthur-c-clarke) is the basis for much of this entry.
+* [Arthur C. Clarke quotes](https://quote.wikipedia.org/wiki/arthur-c-clarke)
+* [Clarketech](https://en.wikipedia.org/wiki/clarketech)
+* [Interview for *The Onion* (2/18/2004)](http://www.theonionavclub.com/feature-index-php-issue-4007-f-1)
+* [The Motif of First Contact in Arthur C. Clarke's SF Works](http://www.fantasticmetropolis.com/show-html-ey-clarke), by [Zoran Zivkovic](/zoran-zivkovic-writer)
+* [Sir Arthur C. Clarke links](http://www.geocities.com/jcsherwood-acclinks2.htm) at [Mystery Visits](http://www.mysteryvisits.com)
+* [Clarke image archive](http://www.geocities.com/jcsherwood-accphotos.htm)
+* [2000 Photo](http://fsweb.berry.edu/academic-hass-jhickman-images-arthur.jpg)
+* [Institute for Cooperation in Space](http://www.peaceinspace.com/ab-board-shtml)

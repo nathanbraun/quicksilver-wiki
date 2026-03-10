@@ -25,4 +25,4 @@ Its simplest model is that of the [Spherical geometry](/spherical-geometry).
 
 
 * All publications of Riemann can be found at: [http://www.emis.de/classics/Riemann/](/http-www-emis-de-classics-riemann)
-* MacTutor biography of Riemann: [http://www-gap.dcs.st-and.ac.uk/~history/Mathematicians/Riemann.html](/http-www-gap-dcs-st-and-ac-uk-history-mathematicians-riemann-html)
+* MacTutor biography of Riemann: [http://www-gap.dcs.st-and.ac.uk/~history/Mathematicians/Riemann.html](http://www.gap.dcs.st.and.ac.uk/history-mathematicians-riemann.html)

@@ -45,5 +45,5 @@ Knott is the son of [Gregory](/stephenson-neal-quicksilver-gregory-bolstrood) an
 ### External links & footnotes
 
 
-1. [Penistone](/http-www-genuki-org-uk-big-eng-yks-wry-penistone)
-2. [additional information](/http-www-genuki-org-uk-big-eng-yks-wry-penistone-more-html)
+1. [Penistone](http://www.genuki.org.uk/big-eng-yks-wry-penistone)
+2. [additional information](http://www.genuki.org.uk/big-eng-yks-wry-penistone-more.html)

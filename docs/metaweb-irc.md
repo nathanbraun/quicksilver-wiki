@@ -12,7 +12,7 @@ If you are an IRC user and wish to discuss the Metaweb, Quicksilver, The Confusi
 The official MetaWeb channel is #MetaWeb at irc.oftc.net.
 
 If you are unfamiliar with IRC, following these steps:
-1. download and install the Mozilla browser: [http://www.mozilla.org/products/mozilla1.x/](/http-www-mozilla-org-products-mozilla1-x)
+1. download and install the Mozilla browser: [http://www.mozilla.org/products/mozilla1.x/](http://www.mozilla.org/products-mozilla1-x)
 2. type this URL into the location box: irc://irc.oftc.net/MetaWeb
 3. Chatzilla, Mozilla's IRC client, should open a window
 4. type "Hello everyone" in the text box at the bottom of the window

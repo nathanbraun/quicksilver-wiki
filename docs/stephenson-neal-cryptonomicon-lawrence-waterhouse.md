@@ -23,7 +23,7 @@ The [Cryptonomicon](/cryptonomicon) page for **Lawrence Pritchard Waterhouse**
 ### *Lawrence's Existence is Proof that God is Good in the [Cryptonomicon](/cryptonomicon) Universe*
 
 
-Where [Ben Franklin](/ben-franklin) had beer  Lawrence gets Mary. He sees **angels** expressing infinity  and his later experience with the [Hindenburg disaster](/http-en-wikipedia-org-wiki-hindenburg-disaster) indicates the angels *may be* real to him. Before he gets his personal guardian angel in [Enoch Root](/enoch-root), he survives the USS Nevada's sinking during the attack on [Pearl Harbor](/pearl-harbor)'s [Battleship row](/http-en-wikipedia-org-wiki-battleship-row).
+Where [Ben Franklin](/ben-franklin) had beer  Lawrence gets Mary. He sees **angels** expressing infinity  and his later experience with the [Hindenburg disaster](https://en.wikipedia.org/wiki/hindenburg-disaster) indicates the angels *may be* real to him. Before he gets his personal guardian angel in [Enoch Root](/enoch-root), he survives the USS Nevada's sinking during the attack on [Pearl Harbor](/pearl-harbor)'s [Battleship row](https://en.wikipedia.org/wiki/battleship-row).
 
 Lawrence Pritchard Waterhouse (circa 1917-1965) Cryptographer during WWII, Contemporary of [Alan Turing](/alan-turing), Developer of a mercury-valve based Computer. Mercury is **[quicksilver](/quicksilver)**. He is the ultimate gear-head. He may be autistic, or have Asperger's Syndrome. Lawrence is one of the WWII era protagonists in [Cryptonomicon](/stephenson-neal-cryptonomicon) and a descendant of [Daniel Waterhouse](/stephenson-neal-quicksilver-daniel-waterhouse) of [Quicksilver](/stephenson-neal-quicksilver). He is the grandfather to [Randy Waterhouse](/stephenson-neal-cryptonomicon-randy-waterhouse).
 
@@ -42,4 +42,4 @@ There is an interesting contrast in the creative urges of Lawrence as opposed to
 ### External links
 
 
-* [Battleship Row](/http-en-wikipedia-org-wiki-battleship-row)
+* [Battleship Row](https://en.wikipedia.org/wiki/battleship-row)

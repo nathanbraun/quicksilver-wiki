@@ -23,14 +23,14 @@ The **British East India Company**, originally two very similarly named companie
 The original company, The Governor and Company of Merchants of London Trading into the East Indies, merged in 1702 with The English Company Trading to the East Indies (which had been formed in 1698), to become The United Company of Merchants of England Trading to the East Indies.[![250px-Gb heic.png](/web/20060725172557im_/http://www.metaweb.com/wiki/upload/7/77/250px-Gb_heic.png)](250px-gb-heic-png)  
 
 *Flag of the British East India Company*  
-[Larger Flag Image](/http-en-wikipedia-org-upload-8-82-gb-heic-png)
+[Larger Flag Image](http://en.wikipedia.org/upload-8-82-gb-heic.png)
 
 ### Impact
 
 
-Based in Leadenhall Street, London, its influence reached out to all continents: it presided over the creation of British India, founded Hong Kong and Singapore, employed Captain Kidd to combat piracy, established the cultivation of tea in India, held Napoleon captive on St Helena, and made the fortune of Elihu Yale, and its products were the subject of the [Boston Tea Party](/http-en-wikipedia-org-wiki-boston-tea-party). 
+Based in Leadenhall Street, London, its influence reached out to all continents: it presided over the creation of British India, founded Hong Kong and Singapore, employed Captain Kidd to combat piracy, established the cultivation of tea in India, held Napoleon captive on St Helena, and made the fortune of Elihu Yale, and its products were the subject of the [Boston Tea Party](https://en.wikipedia.org/wiki/boston-tea-party). 
 
-Its flag possibly inspired the [Stars and Stripes](/http-en-wikipedia-org-wiki-flag-of-the-united-states) ([as argued by Sir Charles Fawcett in 1937](/http-www-crwflags-com-fotw-flags-gb-html)), its shipyards provided the model for St. Petersburg, elements of its administration survive in Indian bureaucracy, and its corporate structure was the most successful early example of a joint stock company. But the demands of Company officers on the treasury of Bengal contributed tragically to the province's incapacity in the face of a famine which killed millions (1770). 
+Its flag possibly inspired the [Stars and Stripes](https://en.wikipedia.org/wiki/flag-of-the-united-states) ([as argued by Sir Charles Fawcett in 1937](http://www.crwflags.com/fotw-flags-gb.html)), its shipyards provided the model for St. Petersburg, elements of its administration survive in Indian bureaucracy, and its corporate structure was the most successful early example of a joint stock company. But the demands of Company officers on the treasury of Bengal contributed tragically to the province's incapacity in the face of a famine which killed millions (1770). 
 
 ### History
 
@@ -79,11 +79,11 @@ The city of Hastings, New Zealand is named after him.
 ### External links
 
 
-* [Company rule in India](/http-en-wikipedia-org-wiki-company-rule-in-india) (part of the [History of South Asia](/http-en-wikipedia-org-wiki-history-of-south-asia) series)
-* [Imperialism in Asia](/http-en-wikipedia-org-wiki-imperialism-in-asia) (part of the [New Imperialism](/http-en-wikipedia-org-wiki-new-imperialism) series)
-* The [Dutch East India Company](/http-en-wikipedia-org-wiki-dutch-east-india-company), founded in 1602
-* The [Dutch West India Company](/http-en-wikipedia-org-wiki-dutch-west-india-company), founded in 1621
-* The [French East India Company](/http-en-wikipedia-org-wiki-french-east-india-company), founded in 1664
-* The [Swedish East India Company](/http-en-wikipedia-org-wiki-swedish-east-india-company), founded in 1731
-* The [London Virginia Company](/http-en-wikipedia-org-wiki-london-virginia-company), founded in 1606
-* [East India Company College](/http-en-wikipedia-org-wiki-east-india-company-college)
+* [Company rule in India](https://en.wikipedia.org/wiki/company-rule-in-india) (part of the [History of South Asia](https://en.wikipedia.org/wiki/history-of-south-asia) series)
+* [Imperialism in Asia](https://en.wikipedia.org/wiki/imperialism-in-asia) (part of the [New Imperialism](https://en.wikipedia.org/wiki/new-imperialism) series)
+* The [Dutch East India Company](https://en.wikipedia.org/wiki/dutch-east-india-company), founded in 1602
+* The [Dutch West India Company](https://en.wikipedia.org/wiki/dutch-west-india-company), founded in 1621
+* The [French East India Company](https://en.wikipedia.org/wiki/french-east-india-company), founded in 1664
+* The [Swedish East India Company](https://en.wikipedia.org/wiki/swedish-east-india-company), founded in 1731
+* The [London Virginia Company](https://en.wikipedia.org/wiki/london-virginia-company), founded in 1606
+* [East India Company College](https://en.wikipedia.org/wiki/east-india-company-college)

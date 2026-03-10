@@ -87,4 +87,4 @@ This tendency to moral corruption by men, however, is said to only expose the fa
 ### External links and references
 
 
-* [Rejection of Pascal's Wager](/http-www-geocities-com-paulntobin-index-html)
+* [Rejection of Pascal's Wager](http://www.geocities.com/paulntobin-index.html)

@@ -19,7 +19,7 @@ This is a page for the **Reformed Distributed Republic**
 ### Reformed Distributed Republic
 
 
-The **[Reformed Distributed Republic](/reformed-distributed-republic)** is a fictional [phyle](/phyle) (or [faction](/faction)) appears in [Neal Stephenson](/neal-stephenson)'s novel [Diamond Age](/diamond-age). It operates on the simplest possible principle: members must do as the faction leadership says, not knowing how it affects other members' lives, and regardless of the degree of risk involved, in occasional drills. The ***[First Distributed Republic](/first-distributed-republic)*** first appeared in the [Simoleon e-cash](/http-www-virtualschool-edu-mon-outlaws-simoleoncaper-html) short story. In the Diamond Age  it seems less fun.
+The **[Reformed Distributed Republic](/reformed-distributed-republic)** is a fictional [phyle](/phyle) (or [faction](/faction)) appears in [Neal Stephenson](/neal-stephenson)'s novel [Diamond Age](/diamond-age). It operates on the simplest possible principle: members must do as the faction leadership says, not knowing how it affects other members' lives, and regardless of the degree of risk involved, in occasional drills. The ***[First Distributed Republic](/first-distributed-republic)*** first appeared in the [Simoleon e-cash](http://www.virtualschool.edu/mon-outlaws-simoleoncaper.html) short story. In the Diamond Age  it seems less fun.
 
 A typical drill was: one member is instructed to enter a room, fill a revolver with bullets, and leave the room for an exact ten minute period. He is to return, without checking the gun, and put it to his head and fire. Another member, unbeknownst to the first, is instructed to enter the room in that ten minute period, remove one bullet from the firing chamber, and leave quickly before the period is up. Failure by either of them presumably leads to the death or exclusion of both.
 
@@ -69,5 +69,5 @@ The RDR was a reformed version of the First Distributed Republic which apparentl
 ### External links
 
 
-* [Nation-states](/http-en-wikipedia-org-wiki-nation)
-* [The Great Simoleon Caper](/http-www-bitstreamnet-com-projectjericho-cpunk101-cplit-simolian-htm)
+* [Nation-states](https://en.wikipedia.org/wiki/nation)
+* [The Great Simoleon Caper](http://www.bitstreamnet.com/projectjericho-cpunk101-cplit-simolian.htm)

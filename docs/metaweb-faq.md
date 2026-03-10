@@ -14,7 +14,7 @@ No. See [Metaweb:An explanation of the similarities and differences between Wiki
 ## Is this software downloadable?
 
 
-Yes. We are running the GPLed software MediaWiki, a PHP/MySQL-based WikiWiki, the same software as the [Wikipedia](/http-www-wikipedia-org). The software is on Sourceforge at [wikipedia.sourceforge.net](/http-wikipedia-sourceforge-net).
+Yes. We are running the GPLed software MediaWiki, a PHP/MySQL-based WikiWiki, the same software as the [Wikipedia](http://www.wikipedia.org). The software is on Sourceforge at [wikipedia.sourceforge.net](http://wikipedia.sourceforge.net).
 
 ## Can a non-technical user run this software himself/herself?
 

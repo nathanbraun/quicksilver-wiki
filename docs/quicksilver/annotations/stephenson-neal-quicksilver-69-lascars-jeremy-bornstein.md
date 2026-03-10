@@ -3,4 +3,4 @@
 
 From the Quicksilver Metaweb.
 
-Here, "lascar" means [a sailor of East Indian origin](/http-dictionary-reference-com-search-q-lascar).
+Here, "lascar" means [a sailor of East Indian origin](http://dictionary.reference.com/search-q-lascar).

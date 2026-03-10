@@ -8,6 +8,6 @@ From the Quicksilver Metaweb.
 # External Links
 
 
-* [Catholic Encyclopedia](/http-www-newadvent-org-cathen-01707c-htm)
-* [Arianism vs the Council of Nicaea](/http-www-monksofadoration-org-arianism-html)
-* [Catholic Information Network](/http-www-cin-org-rite9-html)
+* [Catholic Encyclopedia](http://www.newadvent.org/cathen-01707c.htm)
+* [Arianism vs the Council of Nicaea](http://www.monksofadoration.org/arianism.html)
+* [Catholic Information Network](http://www.cin.org/rite9.html)

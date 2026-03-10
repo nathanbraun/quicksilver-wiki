@@ -40,7 +40,7 @@ This is the [Quicksilver](/quicksilver) page for **Benjamin Franklin**.
 #### Community entry: Ben Franklin
 
 
-Ben studied philosophy and science extensively. His practical experimentation lead to the development of uniquely Benjamin Franklin inventions. Such as: the chimney-on-the-bottom "Franklin Stove," bifocal eyeglasses, even a [Glass Harmonica](/http-en-wikipedia-org-wiki-glass-harmonica).
+Ben studied philosophy and science extensively. His practical experimentation lead to the development of uniquely Benjamin Franklin inventions. Such as: the chimney-on-the-bottom "Franklin Stove," bifocal eyeglasses, even a [Glass Harmonica](https://en.wikipedia.org/wiki/glass-harmonica).
 
 ![Benjaminfranklin.jpg](/images/Benjaminfranklin.jpg)  
 
@@ -71,7 +71,7 @@ Benjamin Franklin (January 17, 1706 - April 17, 1790) was an American journalist
 
 He was born on Milk Street, Boston, on January 17, 1706. His father, Josiah Franklin, was a tallow chandler who married twice. Benjamin was the youngest son of the seventeen children these two marriages produced. His schooling ended at ten, and at twelve he was bound as an apprentice to his brother James, a printer who published the New England Courant. 
 
-He eventually became a contributor to this publication and for a time was its nominal editor. During this time, he wrote a series of letters to the editor under the pseudonym of a spinster named "Silence Dogood"[[1]](/http-www-pbs-org-benfranklin-pop-dogood-html) which criticized public drunkenness, hoop petticoats, and especially Harvard College where, she claimed, students learnt nothing other than how to be conceited. The brothers quarreled, and Benjamin ran away, going first to New York, and thence to Philadelphia, where he arrived in October, 1723. 
+He eventually became a contributor to this publication and for a time was its nominal editor. During this time, he wrote a series of letters to the editor under the pseudonym of a spinster named "Silence Dogood"[[1]](http://www.pbs.org/benfranklin-pop-dogood.html) which criticized public drunkenness, hoop petticoats, and especially Harvard College where, she claimed, students learnt nothing other than how to be conceited. The brothers quarreled, and Benjamin ran away, going first to New York, and thence to Philadelphia, where he arrived in October, 1723. 
 
 He soon obtained work as a printer, but after a few months he was induced by Governor Keith to go to London, where, finding Keith's promises empty, he again worked as a compositor in a printer's shop until he was brought back to Philadelphia by a merchant named Denman, who gave him a position in his business. On Denman's death Franklin returned to his former trade, and soon set up a printing house of his own from which he published The Pennsylvania Gazette, to which he contributed many essays and which he made a medium for agitating for a variety of local reforms. His intelligence combined with a great deal of savvy about cultivating a positive image of an industrious and intellectual young man earned him a great deal of social respect. 
 
@@ -86,7 +86,7 @@ Meanwhile, Franklin was concerning himself more and more with public affairs. He
 
 In 1748 he sold his business in order to get leisure for study, having now acquired comparative wealth; and in a few years he had made discoveries that gave him a reputation with the learned throughout Europe. These include his investigations of electricity. Franklin identified positive and negative electrical charges and also demonstrated that lightning was electrical. 
 
-Franklin promoted this theory through the famous, though extremely dangerous, experiment of flying a kite during a lightning storm. It has been recently questioned whether or not Franklin actually did perform this experiment; the question remains controversial. Franklin, in his writings, displays that he was cognizant of the dangers and alternative ways to demonstrate that lightning was electrical. If Franklin did perform this experiment, he did not do it in the way that is often described (as it would have been dramatic but fatal). [[2]](/http-www-mos-org-sln-toe-kite-html)
+Franklin promoted this theory through the famous, though extremely dangerous, experiment of flying a kite during a lightning storm. It has been recently questioned whether or not Franklin actually did perform this experiment; the question remains controversial. Franklin, in his writings, displays that he was cognizant of the dangers and alternative ways to demonstrate that lightning was electrical. If Franklin did perform this experiment, he did not do it in the way that is often described (as it would have been dramatic but fatal). [[2]](http://www.mos.org/sln-toe-kite.html)
 
 Franklin's inventions include the lightning rod, Franklin stove and bifocals. He was one of the best-known scientists of the 18th century. In recognition of his work with electricity, Franlin was elected a Fellow of the Royal Society and received its Copley Medal. 
 
@@ -144,7 +144,7 @@ As well as being a polymath in the tradition of other great men during the Enlig
 
 Franklin's frequent use of pseudonyms in his writings, particularly in letters to the editor of his brother's paper and in his own Almanack, were intended to communicate arguments to the greater public which might be seen as risque, heretical, or possibly illegal or treasonous by the authorities. He also used them to present two sides of an issue.
 
-When Franklin used a pseudonym, he often created an entire persona for the "writer." Sometimes he wrote as a woman, other times as a man, but always with a specific point of view. While all of his writings were focused and logical, many were also humorous, filled with wit and irony. Silence Dogood, Harry Meanwell, Alice Addertongue, Richard Saunders, and Timothy Turnstone were a few of the many pseudonyms Franklin used throughout his career[[3]](/http-www-pbs-org-benfranklin-l3-wit-name-html). 
+When Franklin used a pseudonym, he often created an entire persona for the "writer." Sometimes he wrote as a woman, other times as a man, but always with a specific point of view. While all of his writings were focused and logical, many were also humorous, filled with wit and irony. Silence Dogood, Harry Meanwell, Alice Addertongue, Richard Saunders, and Timothy Turnstone were a few of the many pseudonyms Franklin used throughout his career[[3]](http://www.pbs.org/benfranklin-l3-wit-name.html). 
 
 [Silence Dogood](/silence-dogood)  Mrs. Dogood was Franklin's first pseudonym, created when he was sixteen years old and serving as a printer's apprentice to his brother James. Silence Dogood was a middle-aged widow who looked at the world with a humorous and satiric eye. Her letters dealt with a range of topics from love and courtship to the state of education in Massachusetts. In all, fifteen Silence Dogood letters were published in James Franklin's New England Courant. The Silence Dogood letters have been used as a plot device in the recent movie "National Treasure" starring Nicholas Cage, in which the letters contain a code used to find a special pair of Franklin spectacles that are needed to see a treasure map hidden on the back of the [Declaration of Independence](/declaration-of-independence). The treasure is allegedly the treasure of the [Knights Templar](/knights-templar) which was hidden in the New World by [Freemasons](/freemasons) like Benjamin Franklin and Thomas Jefferson.
 
@@ -188,12 +188,12 @@ Benevolus  While in England, Franklin penned a number of letters under the nam
 ### External links
 
 
-* [Benjamin Franklin (MIT)](/http-web-mit-edu-invent-iow-franklin-html)
-* [Benjamin Franklin (Wikipedia)](/http-en-wikipedia-org-wiki-benjamin-franklin)
-* [Franklin's inventions](/http-www-ipwatchdog-com-hall-of-fame-benjamin-franklin-html)
-* [The Founding Physicists](/http-www-geocities-com-athens-acropolis-2606-founder-htm)
-* [The World of Benjamin Franklin](/http-sln-fi-edu-franklin)
-* [The Electric Franklin](/http-www-ushistory-org-franklin)
-* [A Documentary History](/http-www-english-udel-edu-lemay-franklin)
-* [Archiving Early America](/http-earlyamerica-com-lives-franklin)
-* [Wikipedia: Lunar Society](/http-en-wikipedia-org-wiki-lunar-society)
+* [Benjamin Franklin (MIT)](http://web.mit.edu/invent-iow-franklin.html)
+* [Benjamin Franklin (Wikipedia)](https://en.wikipedia.org/wiki/benjamin-franklin)
+* [Franklin's inventions](http://www.ipwatchdog.com/hall-of-fame-benjamin-franklin.html)
+* [The Founding Physicists](http://www.geocities.com/athens-acropolis-2606-founder.htm)
+* [The World of Benjamin Franklin](http://sln.fi.edu/franklin)
+* [The Electric Franklin](http://www.ushistory.org/franklin)
+* [A Documentary History](http://www.english.udel.edu/lemay-franklin)
+* [Archiving Early America](http://earlyamerica.com/lives-franklin)
+* [Wikipedia: Lunar Society](https://en.wikipedia.org/wiki/lunar-society)

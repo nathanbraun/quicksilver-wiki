@@ -35,7 +35,7 @@ The Raft appears to have been some sort of inspiration for the "Smokers" culture
 
 The idea that a fleet of vessels could drift around the ocean, tied together, without damage, is regarded as physically improbable because of the [Casimir Effect](/), which occurs when two objects are close to each other in a plenum awash in wave energy. When two ships are steaming along astride each other at a close distance of 40 meters or less, they create a slightly calm area of lower wave energy density between them because they block waves from either side and destructively interfere with those entering the space from bow and stern. This causes the ships to drift together, possibly with enough force to cause serious damage, even crushing of hulls if wave energy is high enough, such as that of a major open-ocean storm.
 
-While the Casimir Effect itself is considred a quantum mechanical vacuum force, its nautical analog in the realm of ocean waves is well explained by Professor John D. Barrow in [this lecture](/http-www-gresham-ac-uk-event-asp-pageid-4-eventid-258) he gave at [Gresham College](/gresham-college) (rather synchronic, isn't it?), entitled "Much Ado About Nothing". This effect has been [documented](/http-www-its-caltech-edu-nano-papers-buks-nature-sep2002-pdf) since at least 1836, in P. C. Caussee's L'Album du Marin (The Album of the Mariner). Caussee reported a mysteriously strong attractive force that can arise between two ships floating side by side -- a force that can lead to disastrous consequences. A physical explanation for this force was offered only recently by Boersma (1996), who suggested that it originates in the radiation pressure of water waves acting differently on the opposite sides of the ships. His argument goes as follows: the spectrum of possible wave modes around the two ships forms a continuum (any arbitrary wave-vector is allowed); but between the vessels their opposing sides impose boundary conditions on the wave modes, restricting the allowed values of the component of the wave-vector that is normal to the ships' surfaces. This discreteness created in the spectrum of wave modes results in a local redistribution of modes in the region between the ships, with the consequence that there is a smaller radiation pressure between the ships than outside them.
+While the Casimir Effect itself is considred a quantum mechanical vacuum force, its nautical analog in the realm of ocean waves is well explained by Professor John D. Barrow in [this lecture](http://www.gresham.ac.uk/event-asp-pageid-4-eventid-258) he gave at [Gresham College](/gresham-college) (rather synchronic, isn't it?), entitled "Much Ado About Nothing". This effect has been [documented](http://www.its.caltech.edu/nano-papers-buks-nature-sep2002.pdf) since at least 1836, in P. C. Caussee's L'Album du Marin (The Album of the Mariner). Caussee reported a mysteriously strong attractive force that can arise between two ships floating side by side -- a force that can lead to disastrous consequences. A physical explanation for this force was offered only recently by Boersma (1996), who suggested that it originates in the radiation pressure of water waves acting differently on the opposite sides of the ships. His argument goes as follows: the spectrum of possible wave modes around the two ships forms a continuum (any arbitrary wave-vector is allowed); but between the vessels their opposing sides impose boundary conditions on the wave modes, restricting the allowed values of the component of the wave-vector that is normal to the ships' surfaces. This discreteness created in the spectrum of wave modes results in a local redistribution of modes in the region between the ships, with the consequence that there is a smaller radiation pressure between the ships than outside them.
 
 ### [USS Enterprise](/)
 
@@ -105,7 +105,7 @@ The Enterprise was supposed to appear in the film [Star Trek IV](/), but it was 
 [![300px|Aircraft carrier for sale](/web/20060725223313im_/http://www.metaweb.com/wiki/upload/6/6a/Aircraft_carrier_bow.jpg)](300px-aircraft-carrier-for-sale)  
 **Aircraft Carrier FOR SALE!!!**  
 This aircraft carrier, originally British, sold to Brazil in 1960,  
-was sold to private owners in 2002 but is [again available](/http-www-shiplink-info-contents1-asp-refno-1761)  
+was sold to private owners in 2002 but is [again available](http://www.shiplink.info/contents1-asp-refno-1761)  
 due to difficulties sailing her out of Rio de Janiero.
 
 **Military surplus** are goods, usually matériel, that are sold at public auction when no longer needed by the military. Entrepreneurs often buy these goods and resell them at army-navy stores. Military surplus rarely includes weapons or munitions, though they are occasionally found in such stores. Usually the goods sold by the military are clothing, equipment, and tools of a generally useful nature. However, the Citizen Marksmanship Program, in operation for decades, provides low cost infantry rifles (M-1, M-14 models) to civilians who participate in marksmanship competitions, the ostensible purpose being to fulfill the purpose of the state's need for 'well regulated' (i.e. trained and skilled) militia.
@@ -114,12 +114,12 @@ Following major military conflicts, such as [WWI](/) and [WWII](/), many governm
 
 The barnstorming period of American aviation was created by WWI veteran pilots flying surplus Air Corps aircraft for profit, in providing local amusement rides, flying lessons, air show acts featuring aerobatic and stunt flying, or more prosaic applications like private air mail services. Without public access to cheap surplus aircraft, this era of expansion of civil aviation likely never would have happened. A similar explosion in civil aviation occured after WWII as surplus cargo planes, bombers, fighters, and observation aircraft were sold to the public. Most aircraft used in fighting forest fires today are surplus military aircraft sold at auction.
 
-Currently, the 902 ft. Soviet aircraft carrier 'Minsk', part of a theme park in Shenzen, China, is [in hock](/http-www-cdnn-info-industry-i041207a-i041207a-html) and up for bids. Several cold war and WWII era submarines are in private hands, and quite frequently states and communities who have retired naval ships named after them attempt to save their namesakes from the scrap heap.
+Currently, the 902 ft. Soviet aircraft carrier 'Minsk', part of a theme park in Shenzen, China, is [in hock](http://www.cdnn.info/industry-i041207a-i041207a.html) and up for bids. Several cold war and WWII era submarines are in private hands, and quite frequently states and communities who have retired naval ships named after them attempt to save their namesakes from the scrap heap.
 
 ### Refugee Sealifts
 
 
-* [Operation Peter Pan](/) -From [Dec. 26](/), 1960 through [Oct 22](/), 1962, 14,048 unaccompanied children were send by their parents to the United States. The children were between the ages of 6 and 18 years old. Source [[1]](/http-www-nocastro-com-atrocities-opeterpan-htm). In many occacions in the past 45 years, Castro's government have used migration as a leveraging tool to force the United States government to accept some sort of agreement.
+* [Operation Peter Pan](/) -From [Dec. 26](/), 1960 through [Oct 22](/), 1962, 14,048 unaccompanied children were send by their parents to the United States. The children were between the ages of 6 and 18 years old. Source [[1]](http://www.nocastro.com/atrocities-opeterpan.htm). In many occacions in the past 45 years, Castro's government have used migration as a leveraging tool to force the United States government to accept some sort of agreement.
 
 
 * The **Mariel Boatlift** was a mass exodus of mentally ill, imprisoned and freedom seeking [refugees](/) from [Cuba](/)'s Mariel Harbour, between [Apr 15](/) until [Oct 31](/), [1980](/), when [Castro](/) eventually closed the harbour to all refugee seeking Cubans. The people who wished to leave the country headed to [Florida](/). The majority of the refugees landed in [Miami](/) upon their arrival in the United States. Approximately 125,000 Cubans arrived in the United States in about 1,700 boats, many of which were unseaworthy. Most of the people came in large waves that overwhelmed the U.S. Coast Guard and many reservists were called to assist the Coast Guard during this time. In terms of casualties a total of 27 migrants died, 14 on an overloaded boat which capsized on [May 17](/), 1980.
@@ -155,10 +155,10 @@ Aside from these relatively recent migrations, history is littered with episodes
 ### External link
 
 
-* [The Casimir Force](/http-www-its-caltech-edu-nano-papers-buks-nature-sep2002-pdf)
+* [The Casimir Force](http://www.its.caltech.edu/nano-papers-buks-nature-sep2002.pdf)
 * [USS *Enterprise* official website](/http-www-enterprise-navy-mil)
-* [AO3 Smitty's USS *Enterprise* (CVN-65) Page](/http-www-sizor-com-cvn65)
+* [AO3 Smitty's USS *Enterprise* (CVN-65) Page](http://www.sizor.com/cvn65)
 * [*USS Enterprise* webpage](/http-www-navysite-de-cvn-cvn65-html)
 * [Boat people - a refugee crisis](/http-archives-cbc-ca-idd-1-69-524-life-society-boat-people)
-* [Boat People S.O.S](/http-www-bpsos-org)
-* [Website Of Vietnamese Boat People](/http-www-boatpeople-org)
+* [Boat People S.O.S](http://www.bpsos.org)
+* [Website Of Vietnamese Boat People](http://www.boatpeople.org)

@@ -32,7 +32,7 @@ Being thus conspicuously identified with the most tyrannical measures of James I
 ### Quotes:
 
 
-"The portrait of Judge Hate-good in The Pilgrims Progress is but a poor replica, as our artists say, of the portrait of Judge Jeffreys in our English history books. ... " [1](/http-www-bartbyl-com-puritans-whyte-htm)  
+"The portrait of Judge Hate-good in The Pilgrims Progress is but a poor replica, as our artists say, of the portrait of Judge Jeffreys in our English history books. ... " [1](http://www.bartbyl.com/puritans-whyte.htm)  
 
 
 **An Extract from Gilbert Burnett's The History of my Own Times speaking of Judge Jeffreys:** "His behaviour was beyond anything that was ever heard of in a civilized nation. He was perpetually either drunk or in a rage, liker a fury that the zeal of a judge. He required the prisoners to plead guilty. And in that case he gave them some hope of favour, if they gave him no trouble; otherwise he told them, he would execute the letter of the law upon them in its utmost severity.
@@ -57,6 +57,6 @@ And upon Jeffreys coming back, he was created a baron and peer of England, a dig
 ### Links & Footnotes
 
 
-* 1. [Alexander Whyte on Judge Hate-good](/http-www-bartbyl-com-puritans-whyte-htm)
-* [This link tries to give an even-handed approach to Judge Jeffreys](/http-www-cyberussr-com-rus-jeffreys-html)
-* [Christopher Lee was Judge Jeffreys in "THE BLOODY JUDGE](/http-us-imdb-com-title-tt0064727)
+* 1. [Alexander Whyte on Judge Hate-good](http://www.bartbyl.com/puritans-whyte.htm)
+* [This link tries to give an even-handed approach to Judge Jeffreys](http://www.cyberussr.com/rus-jeffreys.html)
+* [Christopher Lee was Judge Jeffreys in "THE BLOODY JUDGE](http://us.imdb.com/title-tt0064727)

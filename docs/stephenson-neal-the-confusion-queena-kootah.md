@@ -7,7 +7,7 @@ From the Quicksilver Metaweb.
 ### Stephensonia
 
 
-*I always figured it was more akin to the island of [Sri Lanka](/sri-lanka) or Serendip, which had many names. Others contend it was a fictionalized [Tuvalu](/http-en-wikipedia-org-wiki-tuvalu) with a dash of [Tonga](/http-en-wikipedia-org-wiki-tonga).*
+*I always figured it was more akin to the island of [Sri Lanka](/sri-lanka) or Serendip, which had many names. Others contend it was a fictionalized [Tuvalu](https://en.wikipedia.org/wiki/tuvalu) with a dash of [Tonga](https://en.wikipedia.org/wiki/tonga).*
 
 ### Authored entries
 
@@ -40,13 +40,13 @@ It has been confused with [Malabar](/malabar), the domain of Queen Kottakal, whi
 
 
 * [WikiPedia:Spratly Islands](/) are a geographical neighbor of Queena-Kootah.
-	+ [Geography of the Spratly Islands](/http-en-wikipedia-org-wiki-geography-of-the-spratly-islands)
-	+ [Economy of the Spratly Islands](/http-en-wikipedia-org-wiki-economy-of-the-spratly-islands)
-	+ [Transportation in the Spratly Islands](/http-en-wikipedia-org-wiki-transportation-in-the-spratly-islands)
-* [Paracel Islands](/http-en-wikipedia-org-wiki-paracel-islands)
-* [Macclesfield Bank](/http-en-wikipedia-org-wiki-macclesfield-bank)
-* [Pratas Islands](/http-en-wikipedia-org-wiki-pratas-islands)
-* [Coming Attractions](/http-www-comebackalive-com-df-attractn-htm)
-* [The Solomons](/http-en-wikipedia-org-wiki-solomon-islands)
+	+ [Geography of the Spratly Islands](https://en.wikipedia.org/wiki/geography-of-the-spratly-islands)
+	+ [Economy of the Spratly Islands](https://en.wikipedia.org/wiki/economy-of-the-spratly-islands)
+	+ [Transportation in the Spratly Islands](https://en.wikipedia.org/wiki/transportation-in-the-spratly-islands)
+* [Paracel Islands](https://en.wikipedia.org/wiki/paracel-islands)
+* [Macclesfield Bank](https://en.wikipedia.org/wiki/macclesfield-bank)
+* [Pratas Islands](https://en.wikipedia.org/wiki/pratas-islands)
+* [Coming Attractions](http://www.comebackalive.com/df-attractn.htm)
+* [The Solomons](https://en.wikipedia.org/wiki/solomon-islands)
 * [Sri Lanka](/sri-lanka) is geographically similar to Queena-Kootah.
 * [Serendipity](/serendipity) got its name from Sri Lanka's old Persian name.

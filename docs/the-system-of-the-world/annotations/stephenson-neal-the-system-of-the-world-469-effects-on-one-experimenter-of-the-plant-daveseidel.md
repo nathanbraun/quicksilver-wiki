@@ -5,7 +5,7 @@ From the Quicksilver Metaweb.
 
 *Effects on one Experimenter of the Plant, call'd Bangue by the Portugals, & Gange by the Moors*
 
-In more current orthograpy, **bhang** and **ganga**, i.e., our old friend [cannabis (Wikipedia)](/http-en-wikipedia-org-wiki-cannabis),
+In more current orthograpy, **bhang** and **ganga**, i.e., our old friend [cannabis (Wikipedia)](https://en.wikipedia.org/wiki/cannabis),
 
 You mean [WikiPedia:Ganja](/). -- [Quinbus Flestrin](/user-quinbus-flestrin) 19:14, 20 Dec 2004 (PST)
 

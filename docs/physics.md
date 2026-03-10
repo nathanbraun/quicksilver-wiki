@@ -11,4 +11,4 @@ a stub for **physics**
 
 Physics is very closely related to the other natural sciences , particularly chemistry, the science of molecules and the chemical compounds that they form in bulk. Chemistry draws on many fields of physics, particularly quantum mechanics, thermodynamics and electromagnetism. However, chemical phenomena are sufficiently varied and complex that chemistry is usually regarded as a separate discipline. 
 
-Go to [physics](/http-en2-wikipedia-org-wiki-physics) for a bigger picture.
+Go to [physics](https://en.wikipedia.org/wiki/physics) for a bigger picture.

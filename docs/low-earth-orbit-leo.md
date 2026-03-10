@@ -25,7 +25,7 @@ All modern (post-Apollo) manned space missions, including all space stations, ha
 
 The LEO environment is becoming congested, not least with junk. The United States Space Command tracks more than 8,000 objects larger than 10cm in LEO. 
 
-Although gravity at the height concerned is by itself not much less than on the surface of the Earth, people and objects in orbit are [weightless](/http-en2-wikipedia-org-wiki-weightlessness) (see article). 
+Although gravity at the height concerned is by itself not much less than on the surface of the Earth, people and objects in orbit are [weightless](https://en.wikipedia.org/wiki/weightlessness) (see article). 
 
 ### Related entries
 
@@ -49,10 +49,10 @@ Although gravity at the height concerned is by itself not much less than on the 
 ### External links
 
 
-* [http://en2.wikipedia.org/wiki/Low\_Earth\_orbit](/http-en2-wikipedia-org-wiki-low_earth_orbit)
-* [http://en2.wikipedia.org/wiki/Weightlessness](/http-en2-wikipedia-org-wiki-weightlessness)
-* [http://en.wikipedia.org/wiki/Satellite](/http-en-wikipedia-org-wiki-satellite)
-* [http://en.wikipedia.org/wiki/Intermediate\_circular\_orbit](/http-en-wikipedia-org-wiki-intermediate_circular_orbit)
-* [http://en2.wikipedia.org/wiki/Geostationary\_orbit](/http-en2-wikipedia-org-wiki-geostationary_orbit)
-* [photon](/http-en-wikipedia-org-wiki-photon)s = the particles of [light](/http-en-wikipedia-org-wiki-light)
-* [http://en.wikipedia.org/wiki/Space\_elevator](/http-en-wikipedia-org-wiki-space_elevator)
+* [http://en2.wikipedia.org/wiki/Low\_Earth\_orbit](https://en.wikipedia.org/wiki/low_earth_orbit)
+* [http://en2.wikipedia.org/wiki/Weightlessness](https://en.wikipedia.org/wiki/weightlessness)
+* [http://en.wikipedia.org/wiki/Satellite](https://en.wikipedia.org/wiki/satellite)
+* [http://en.wikipedia.org/wiki/Intermediate\_circular\_orbit](https://en.wikipedia.org/wiki/intermediate_circular_orbit)
+* [http://en2.wikipedia.org/wiki/Geostationary\_orbit](https://en.wikipedia.org/wiki/geostationary_orbit)
+* [photon](https://en.wikipedia.org/wiki/photon)s = the particles of [light](https://en.wikipedia.org/wiki/light)
+* [http://en.wikipedia.org/wiki/Space\_elevator](https://en.wikipedia.org/wiki/space_elevator)

@@ -34,4 +34,4 @@ The mainland of Qwghlm called the "Outer" by its inhabitants. In the late 17th c
 ### External links
 
 
-* [Neal Stephenson interview (baroquecycle.com)](/http-www-baroquecycle-com-interview-htm)
+* [Neal Stephenson interview (baroquecycle.com)](http://www.baroquecycle.com/interview.htm)

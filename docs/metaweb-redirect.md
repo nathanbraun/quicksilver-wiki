@@ -109,4 +109,4 @@ See [Wikipedia:Defective redirects](/wikipedia-defective-redirects) for an auto-
 
 
 
-*This entry originally from the [Wikipedia](/http-www-wikipedia-org)*
+*This entry originally from the [Wikipedia](http://www.wikipedia.org)*

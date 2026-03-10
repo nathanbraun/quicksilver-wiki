@@ -28,4 +28,4 @@ The word 'steganography' comes from the Greek *steganos*, meaning 'covered', plu
 
 
 
-* [Steganography (Wikipedia)](/http-www-wikipedia-org-wiki-steganography)
+* [Steganography (Wikipedia)](https://en.wikipedia.org/wiki/steganography)

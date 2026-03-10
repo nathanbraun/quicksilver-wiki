@@ -22,7 +22,7 @@ a page for **fleas**
 
 Its fleas making the **ping-ping** rain of **ticks**. ***More soon***
 
-### [Flea](/http-en-wikipedia-org-wiki-flea)
+### [Flea](https://en.wikipedia.org/wiki/flea)
 
 
 enhanced Wikipedia article
@@ -30,34 +30,34 @@ enhanced Wikipedia article
 
 | **Fleas** |
 | --- |
-| **[Scientific classification](/http-en-wikipedia-org-wiki-scientific-classification)** |
+| **[Scientific classification](https://en.wikipedia.org/wiki/scientific-classification)** |
 | 
 
 |  |  |
 | --- | --- |
-| [Kingdom](/http-en-wikipedia-org-wiki-kingdom-biology):  | [Animalia](/http-en-wikipedia-org-wiki-animal) |
-| [Phylum](/http-en-wikipedia-org-wiki-phylum-biology):  | [Arthropoda](/http-en-wikipedia-org-wiki-arthropoda) |
-| [Class](/http-en-wikipedia-org-wiki-class-biology):  | [Insecta](/http-en-wikipedia-org-wiki-insecta) |
-| **[Order](/http-en-wikipedia-org-wiki-order-biology):** | **Siphonaptera** |
+| [Kingdom](https://en.wikipedia.org/wiki/kingdom-biology):  | [Animalia](https://en.wikipedia.org/wiki/animal) |
+| [Phylum](https://en.wikipedia.org/wiki/phylum-biology):  | [Arthropoda](https://en.wikipedia.org/wiki/arthropoda) |
+| [Class](https://en.wikipedia.org/wiki/class-biology):  | [Insecta](https://en.wikipedia.org/wiki/insecta) |
+| **[Order](https://en.wikipedia.org/wiki/order-biology):** | **Siphonaptera** |
 
  |
-| **[Families](/http-en-wikipedia-org-wiki-family-biology)** |
-|    [Tungidae](/http-en-wikipedia-org-wiki-tungidae) - Sticktight and [Chigoe](/http-en-wikipedia-org-wiki-chigoe) fleas
-   [Pulicidae](/http-en-wikipedia-org-wiki-pulicidae) - Common fleas
-   [Coptopsyllidae](/http-en-wikipedia-org-wiki-coptopsyllidae)
-   [Vermipsyllidae](/http-en-wikipedia-org-wiki-vermipsyllidae) - Carnivore fleas
-   [Rhopalopsyllidae](/http-en-wikipedia-org-wiki-rhopalopsyllidae) - Marsupial fleas
-   [Hypsophthalmidae](/http-en-wikipedia-org-wiki-hypsophthalmidae)
-   [Stephanocircidae](/http-en-wikipedia-org-wiki-stephanocircidae)
-   [Pygiopsyllidae](/http-en-wikipedia-org-wiki-pygiopsyllidae)
-   [Hystrichopsyllidae](/http-en-wikipedia-org-wiki-hystrichopsyllidae) - Rat and mouse fleas
-   [Leptopsyllidae](/http-en-wikipedia-org-wiki-leptopsyllidae) - Bird and rabbit fleas
-   [Ischnopsyllidae](/http-en-wikipedia-org-wiki-ischnopsyllidae) - Bat fleas
-   [Ceratophyllidae](/http-en-wikipedia-org-wiki-ceratophyllidae)
-   [Amphipsyllidae](/http-en-wikipedia-org-wiki-amphipsyllidae)
-   [Malacopsyllidae](/http-en-wikipedia-org-wiki-malacopsyllidae)
-   [Dolichopsyllidae](/http-en-wikipedia-org-wiki-dolichopsyllidae) - Rodent fleas
-   [Ctenopsyllidae](/http-en-wikipedia-org-wiki-ctenopsyllidae) |
+| **[Families](https://en.wikipedia.org/wiki/family-biology)** |
+|    [Tungidae](https://en.wikipedia.org/wiki/tungidae) - Sticktight and [Chigoe](https://en.wikipedia.org/wiki/chigoe) fleas
+   [Pulicidae](https://en.wikipedia.org/wiki/pulicidae) - Common fleas
+   [Coptopsyllidae](https://en.wikipedia.org/wiki/coptopsyllidae)
+   [Vermipsyllidae](https://en.wikipedia.org/wiki/vermipsyllidae) - Carnivore fleas
+   [Rhopalopsyllidae](https://en.wikipedia.org/wiki/rhopalopsyllidae) - Marsupial fleas
+   [Hypsophthalmidae](https://en.wikipedia.org/wiki/hypsophthalmidae)
+   [Stephanocircidae](https://en.wikipedia.org/wiki/stephanocircidae)
+   [Pygiopsyllidae](https://en.wikipedia.org/wiki/pygiopsyllidae)
+   [Hystrichopsyllidae](https://en.wikipedia.org/wiki/hystrichopsyllidae) - Rat and mouse fleas
+   [Leptopsyllidae](https://en.wikipedia.org/wiki/leptopsyllidae) - Bird and rabbit fleas
+   [Ischnopsyllidae](https://en.wikipedia.org/wiki/ischnopsyllidae) - Bat fleas
+   [Ceratophyllidae](https://en.wikipedia.org/wiki/ceratophyllidae)
+   [Amphipsyllidae](https://en.wikipedia.org/wiki/amphipsyllidae)
+   [Malacopsyllidae](https://en.wikipedia.org/wiki/malacopsyllidae)
+   [Dolichopsyllidae](https://en.wikipedia.org/wiki/dolichopsyllidae) - Rodent fleas
+   [Ctenopsyllidae](https://en.wikipedia.org/wiki/ctenopsyllidae) |
 
 
 
@@ -100,17 +100,17 @@ Flea larvae stay very near the surface to be close to their food supply - adult 
 Fleas require a complete 3 step treatment in order to effectively eliminate the entire population. 
 The entire yard is treated with special attention spent on the areas fleas are likely to occur such as shady vegetation under decks where animals rest. The interior of the home is treated with a combination of residual materials and Insect Growth Regulators. Pet treatments to prevent reinfestation of the animal and home. 
 
-### [Flea circus](/http-www-trainedfleas-com)
+### [Flea circus](http://www.trainedfleas.com)
 
 
-Victorian-style flea circuses first appeared in Europe in the early 19th century, and gradually became less common as we entered the modern age. ***John Hammond  The owner of Jurassic Park as played by ([Richard Dickie Attenborough](/http-us-imdb-com-name-nm0000277)) claimed he made his first fortune from a flea circus***. People would flock to see flea circuses, in which fleas perform trained stunts such as pulling small wagons, tightrope walk and get shot out of *air* cannons. Today professional clown [Adam Gertsacov](/http-www-acmeclown-com-bio-html) keeps the amazing curiosity alive with entomological entertainment that dazzles, disgusts and confuses his audience. His tiny performers are real fleas -- human-blood sucking fleas. MSN's Encarta warns fleas can be quite dangerous, however, because they can carry disease from one host to the next. 
+Victorian-style flea circuses first appeared in Europe in the early 19th century, and gradually became less common as we entered the modern age. ***John Hammond  The owner of Jurassic Park as played by ([Richard Dickie Attenborough](http://us.imdb.com/name-nm0000277)) claimed he made his first fortune from a flea circus***. People would flock to see flea circuses, in which fleas perform trained stunts such as pulling small wagons, tightrope walk and get shot out of *air* cannons. Today professional clown [Adam Gertsacov](http://www.acmeclown.com/bio.html) keeps the amazing curiosity alive with entomological entertainment that dazzles, disgusts and confuses his audience. His tiny performers are real fleas -- human-blood sucking fleas. MSN's Encarta warns fleas can be quite dangerous, however, because they can carry disease from one host to the next. 
 
 ![Flea-%26-glass.jpg](/https://web.archive.org/web/20060725170338im_/http://www.metaweb.com/wiki/upload/d/d0/Flea-%26-glass.jpg)  
 
 **Drawing done by [Robert Hooke](/robert-hooke) with just a field magnifier**
 
 
-### [Flea Market](/http-en-wikipedia-org-wiki-market-system)
+### [Flea Market](https://en.wikipedia.org/wiki/market-system)
 
 
 An open-air street market for inexpensive or secondhand articles where one sell goods on the street. Named as such for the *jumping around*.
@@ -136,9 +136,9 @@ An open-air street market for inexpensive or secondhand articles where one sell 
 ### External inks
 
 
-* [Flea bites!](/http-www-nlm-nih-gov-medlineplus-ency-article-001333-htm)
-* [Encarta Flea](/http-encarta-msn-com-encnet-refpages-refarticle-aspx-refid-761568791)
-* [Flea circus](/http-www-trainedfleas-com)
-* [Adam Gertsacov](/http-www-acmeclown-com-bio-html)
-* [Flea info](/http-www-burgepest-com-burge-bugs-fleas-html)
-* [Black Death](/http-www-nationalgeographic-com-xpeditions-lessons-17-g68-blackdeath-html)
+* [Flea bites!](http://www.nlm.nih.gov/medlineplus-ency-article-001333.htm)
+* [Encarta Flea](http://encarta.msn.com/encnet-refpages-refarticle-aspx-refid-761568791)
+* [Flea circus](http://www.trainedfleas.com)
+* [Adam Gertsacov](http://www.acmeclown.com/bio.html)
+* [Flea info](http://www.burgepest.com/burge-bugs-fleas.html)
+* [Black Death](http://www.nationalgeographic.com/xpeditions-lessons-17-g68-blackdeath.html)

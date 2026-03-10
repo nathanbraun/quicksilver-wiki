@@ -13,4 +13,4 @@ To fulfill the above goals, the text contained in the Metaweb is licensed to the
 
 For the full license, see the [metaweb:GNU free documentation license](/metaweb-gnu-free-documentation-license)
 
-*This page content is originally from the [Wikipedia](/http-www-wikipedia-org)*
+*This page content is originally from the [Wikipedia](http://www.wikipedia.org)*

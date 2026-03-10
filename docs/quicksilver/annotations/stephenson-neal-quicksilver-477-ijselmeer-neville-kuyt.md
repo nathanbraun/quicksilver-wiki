@@ -3,7 +3,7 @@
 
 From the Quicksilver Metaweb.
 
-The body of water known as the IJsselmeer is actually a recent invention. It was created in 1932 by the creation of the [afsluitdijk](/http-www-everything2-com-index-pl-lastnode-id-1165705-node-id-1165705), which turned the former Zuiderzee (Sea of the South) into a freshwater lake. 
+The body of water known as the IJsselmeer is actually a recent invention. It was created in 1932 by the creation of the [afsluitdijk](http://www.everything2.com/index-pl-lastnode-id-1165705-node-id-1165705), which turned the former Zuiderzee (Sea of the South) into a freshwater lake. 
 In Jack and Eliza's day, it would have been known as the Zuyderzee.
 
 

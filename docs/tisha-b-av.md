@@ -7,7 +7,7 @@ This [Cryptonomicon](/cryptonomicon) page will highlight the thinking that infor
 ### Stephensonia
 
 
-*It is appropriate for observant [Jews](/judaism) to consider on this day the many other tragedies of others, such as the [Armenian Genocide](/http-en-wikipedia-org-wiki-armenian-genocide) and of the Jews - most notably the expulsion of the Jews from Spain in 1492. It is emotionally different from the **White Fast** that is Yom Kippur. This global view would be incorporated into a [H.E.A.P. like](/heap) thoughts.*
+*It is appropriate for observant [Jews](/judaism) to consider on this day the many other tragedies of others, such as the [Armenian Genocide](https://en.wikipedia.org/wiki/armenian-genocide) and of the Jews - most notably the expulsion of the Jews from Spain in 1492. It is emotionally different from the **White Fast** that is Yom Kippur. This global view would be incorporated into a [H.E.A.P. like](/heap) thoughts.*
 
 ### Authored entries
 
@@ -15,12 +15,12 @@ This [Cryptonomicon](/cryptonomicon) page will highlight the thinking that infor
 * [Solomon](/solomon)
 
 
-### [Wikipedia: Tisha B'Av (edited and adapted)](/http-en-wikipedia-org-wiki-tisha-b-av)
+### [Wikipedia: Tisha B'Av (edited and adapted)](https://en.wikipedia.org/wiki/tisha-b-av)
 
 
-**Tisha B'Av** (תשעה באב *tish‘āh bə-āḇ*) means the ninth day of the [Jewish month](/http-en-wikipedia-org-wiki-hebrew-calendar) of [Av](/http-en-wikipedia-org-wiki-ab), which is a month in the lunar calendar used for purposes of [Jewish](/judaism) holidays, etc.
+**Tisha B'Av** (תשעה באב *tish‘āh bə-āḇ*) means the ninth day of the [Jewish month](https://en.wikipedia.org/wiki/hebrew-calendar) of [Av](https://en.wikipedia.org/wiki/ab), which is a month in the lunar calendar used for purposes of [Jewish](/judaism) holidays, etc.
 
-This is a fast day, that commemorates two of the saddest days in Jewish history -- the destruction of the first [Temple](/http-en-wikipedia-org-wiki-solomon-s-temple) (originially built by [King Solomon](/http-en-wikipedia-org-wiki-king-solomon)), and the destruction of the [Second Temple](/http-en-wikipedia-org-wiki-second-temple). Those two events occurred about 556 years apart, but both in the same month, Av, and, as tradition has it, both on the ninth day.
+This is a fast day, that commemorates two of the saddest days in Jewish history -- the destruction of the first [Temple](https://en.wikipedia.org/wiki/solomon-s-temple) (originially built by [King Solomon](https://en.wikipedia.org/wiki/king-solomon)), and the destruction of the [Second Temple](https://en.wikipedia.org/wiki/second-temple). Those two events occurred about 556 years apart, but both in the same month, Av, and, as tradition has it, both on the ninth day.
 
 In connection with the fall of Jerusalem three other fast-days were established at the same time as the Ninth Day of Av: these were the Tenth of Tevet, when the siege began; the Seventeenth of Tammuz, when the first breach was made in the wall; and the Third of Tishri, known as the Fast of Gedaliah, the day when Gedaliah was assassinated (II Kings, xxv. 25; Jer. xli. 2). From Zech. vii. 5, viii. 19 it appears that after the erection of the Second Temple the custom of keeping these fast-days was discontinued. Since the destruction of Jerusalem and of the Second Temple by the Romans, the four fast-days have again been observed. 
 
@@ -61,7 +61,7 @@ The scroll of *Echah* (Lamentations) is read in synagogue during the evening Jew
 ### Other traditions
 
 
-Classical Jewish sources maintain that the *true* [Messiah](/http-en-wikipedia-org-wiki-jewish-messiah) will be born on Tisha B'Av.
+Classical Jewish sources maintain that the *true* [Messiah](https://en.wikipedia.org/wiki/jewish-messiah) will be born on Tisha B'Av.
 
 ### History of the observance
 
@@ -103,7 +103,7 @@ According to traditional Judaism, when legal authorities have validated more tha
 ### See also
 
 
-* [Jewish holidays](/http-en-wikipedia-org-wiki-jewish-holiday).
+* [Jewish holidays](https://en.wikipedia.org/wiki/jewish-holiday).
 
 
 ### References

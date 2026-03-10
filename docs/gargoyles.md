@@ -54,7 +54,7 @@ Quoting from "Sturgis' *Illustrated Dictionary of Architecture and Building*":
 "The word *"Gargoyle"* shares a common root with the word *"Gargle"*; which comes from *"gargouille"*, a French word for *"Throat"*. A true gargoyle is a waterspout. The word *gargoyle* is also a derivative from the Latin word, *gurgulio*, which had a double meaning, *throat*, and the *gurgling* sound water makes as it passes through a gargoyle." 
 
 
-While this is meant to describe specifically carved creatures that spout water, the word usage in [Snow Crash](/snow-crash) is apt in that a [CIC](/cic) [stringer](/http-www-hyperdictionary-com-search-aspx-define-freelance) who is a **gargoyle** acts as a waterspout of information who does not attempt, usually, to filter out noise or extraneous data from the binary flow. Because of this they are seen as ugly by the [Central Intelligence Corporation](/central-intelligence-corporation) from a quality of work point of view as well as ugly physically by those they encounter due to their bulky borg-like wearables.
+While this is meant to describe specifically carved creatures that spout water, the word usage in [Snow Crash](/snow-crash) is apt in that a [CIC](/cic) [stringer](http://www.hyperdictionary.com/search-aspx-define-freelance) who is a **gargoyle** acts as a waterspout of information who does not attempt, usually, to filter out noise or extraneous data from the binary flow. Because of this they are seen as ugly by the [Central Intelligence Corporation](/central-intelligence-corporation) from a quality of work point of view as well as ugly physically by those they encounter due to their bulky borg-like wearables.
 
 ![Gargoyle.600px.jpg](/images/Gargoyle.600px.jpg)  
 **Gargoyle, Sacre Coeur, Paris. Photograph by Michael Reeve, 30 January 2004  
@@ -90,7 +90,7 @@ Lagos *might* still be in the game if he had:
 
 The idea appears in many fictional works, such as the William Gibson novel Neuromancer, where it is referred to as a "polychromatic suit," but achieved recognition in the successful sci-fi manga (and later anime) Ghost in the Shell. It has been also featured in the 2002 James Bond movie Die Another Day, as well as a similar technology appearing in the Metal Gear Solid video game series as well as the latest installment of the Splinter Cell series, Tom Clancy's Splinter Cell: Chaos Theory.
 
-In 2003, three professors at University of Tokyo  Susumu Tachi, Masahiko Inami and Naoki Kawakami  created a prototypical camouflage system in which a video camera takes a shot of the background and displays it on the cloth using an external projector. The same year Time magazine named it the coolest invention of 2003. [[1]](/http-www-time-com-time-2003-inventions-invinvisible-html)
+In 2003, three professors at University of Tokyo  Susumu Tachi, Masahiko Inami and Naoki Kawakami  created a prototypical camouflage system in which a video camera takes a shot of the background and displays it on the cloth using an external projector. The same year Time magazine named it the coolest invention of 2003. [[1]](http://www.time.com/time-2003-inventions-invinvisible.html)
 While optical camouflage may not yet exist, it is worthwhile to point out that certain military units like the F-117 nighthawk Stealth Fighter and B-2 Spirit Stealth Bomber do use material that make them difficult, if not impossible, to spot on RADAR.
 
 ### [Wikipedia: Gargoyle](/)
@@ -198,57 +198,57 @@ is the Pont St Michel.**
 ### External Links
 
 
-* [Gargoyles](/http-www-stratis-demon-co-uk-gargoyles-gargoyle-htm)
-* [Randall's Lost New York City](/http-www-lostnewyorkcity-com)
+* [Gargoyles](http://www.stratis.demon.co.uk/gargoyles-gargoyle.htm)
+* [Randall's Lost New York City](http://www.lostnewyorkcity.com)
 
 
 ### Gargoyles and Grotesques
 
 
-* [Northstar Galleries' "About Gargoyles"](/http-northstargallery-com-gargoyles-aboutgargoyles-htm)
-* [Walter S. Arnold sculptor and stone carver](/http-www-stonecarver-com-grotesque-html)
-* [The Gargoyle Hunter](/http-www-geocities-com-gargoyletlh) - Capturing Gargoyles and Grotesques on Film
-* [The Greenman and Greenwoman](/http-www-endicott-studio-com-galgreen-html) History of gargoyles with many photographs.
+* [Northstar Galleries' "About Gargoyles"](http://northstargallery.com/gargoyles-aboutgargoyles.htm)
+* [Walter S. Arnold sculptor and stone carver](http://www.stonecarver.com/grotesque.html)
+* [The Gargoyle Hunter](http://www.geocities.com/gargoyletlh) - Capturing Gargoyles and Grotesques on Film
+* [The Greenman and Greenwoman](http://www.endicott.studio.com/galgreen.html) History of gargoyles with many photographs.
 * [Gargouilles](/http-users-skynet-be-dhs-gargouilles) Gargoyles of Paris with many fine photographs by Thomas Owen.
-* [Gargoyles](/http-www-stratis-demon-co-uk-gargoyles-gg-ety-hist-myth-htm-gargoyle-mythical) History, architecture, mythical origins and photographs.
-* [New York City Carver](/http-www-newyorkcarver-com-photogal-htm) History, architecture, mythical origins and photographs.
-* [The Gargoyles of Princeton University](/http-www-princeton-edu-mapfiles-gargoyles)
-* [Medieval World](/http-www-history-evansville-net-medieval-html) - History and information on Medieval culture.
+* [Gargoyles](http://www.stratis.demon.co.uk/gargoyles-gg-ety-hist-myth-htm-gargoyle-mythical) History, architecture, mythical origins and photographs.
+* [New York City Carver](http://www.newyorkcarver.com/photogal.htm) History, architecture, mythical origins and photographs.
+* [The Gargoyles of Princeton University](http://www.princeton.edu/mapfiles-gargoyles)
+* [Medieval World](http://www.history.evansville.net/medieval.html) - History and information on Medieval culture.
 * [Notre Dame de Paris Photos](/http-ndparis-free-fr-index-html) - Photography of Notre Dame
-* [Gargoyles and Grotesques Web Ring](/http-u-webring-com-hub-ring-gargoylesandgrot) A web ring for sites that present photography and historical information on gargoyles, greenmen and grotesques.
-* [The Digital Imaging Project](/http-www-bluffton-edu-sullivanm-index-index3-html) Art historical images of sculpture and architecture by Mary Ann Sullivan, Bluffton College
+* [Gargoyles and Grotesques Web Ring](http://u.webring.com/hub-ring-gargoylesandgrot) A web ring for sites that present photography and historical information on gargoyles, greenmen and grotesques.
+* [The Digital Imaging Project](http://www.bluffton.edu/sullivanm-index-index3.html) Art historical images of sculpture and architecture by Mary Ann Sullivan, Bluffton College
 
 
 ### Borganisms and Wearable Computing
 
 
-* [MIT's Borglab](/http-borglab-media-mit-edu-wiki-borglab)
-* [Eyetap Personal Imaging (ePI) Lab](/http-www-eyetap-org)
-* [Georgia Tech College of Computing wearables group](/http-www-cc-gatech-edu-ccg-index-html)
-* [MIT Media Lab wearables group](/http-www-media-mit-edu-wearables-index-html)
-* [CMU wearables group](/http-www-wearablegroup-org)
-* [Andy Felong's wearable computing resource](/http-www-redwoodhouse-com-wearable)
-* [Artificial Intelligence in Wearable Computing (Special Issue in IEEE Intelligent Systems)](/http-wearcam-org-ieeeis-index-htm)
-* [Worldwide Wearable Computing Webpage](/http-about-eyetap-org)
-* [The theory of Humanistic Intelligence](/http-wearcam-org-hi-htm)
-* [FACENAME Wearable Face Recognition](/http-jebara-www-media-mit-edu-people-jebara-wearables-html) Dead Link.
-* [Visual Memory Prosthetic (Wearable Face Recognizer)](/http-wearcam-org-vmp-htm)
-* [Wearable Face Recognizer web link](/http-wearcam-org-wearable-face-recognizer96-htm)
-* [IEEE International Symposium on Wearable Computers (Academic Conference)](/http-www-iswc-net)
-* [TransVision 2004](/http-wearcam-org-transvision2004-htm)
-* [Continuous Archival and Retrieval of Personal Experiences](/http-research-microsoft-com-carpe2004).
-* [International Workshop on Inverse Surveillance](/http-wearcam-org-iwis).
-* [WearIT@work: a large European research project on wearable computing at work](/http-www-wearitatwork-com).
+* [MIT's Borglab](http://borglab.media.mit.edu/wiki-borglab)
+* [Eyetap Personal Imaging (ePI) Lab](http://www.eyetap.org)
+* [Georgia Tech College of Computing wearables group](http://www.cc.gatech.edu/ccg-index.html)
+* [MIT Media Lab wearables group](http://www.media.mit.edu/wearables-index.html)
+* [CMU wearables group](http://www.wearablegroup.org)
+* [Andy Felong's wearable computing resource](http://www.redwoodhouse.com/wearable)
+* [Artificial Intelligence in Wearable Computing (Special Issue in IEEE Intelligent Systems)](http://wearcam.org/ieeeis-index.htm)
+* [Worldwide Wearable Computing Webpage](http://about.eyetap.org)
+* [The theory of Humanistic Intelligence](http://wearcam.org/hi.htm)
+* [FACENAME Wearable Face Recognition](http://jebara.www.media.mit.edu/people-jebara-wearables.html) Dead Link.
+* [Visual Memory Prosthetic (Wearable Face Recognizer)](http://wearcam.org/vmp.htm)
+* [Wearable Face Recognizer web link](http://wearcam.org/wearable-face-recognizer96.htm)
+* [IEEE International Symposium on Wearable Computers (Academic Conference)](http://www.iswc.net)
+* [TransVision 2004](http://wearcam.org/transvision2004.htm)
+* [Continuous Archival and Retrieval of Personal Experiences](http://research.microsoft.com/carpe2004).
+* [International Workshop on Inverse Surveillance](http://wearcam.org/iwis).
+* [WearIT@work: a large European research project on wearable computing at work](http://www.wearitatwork.com).
 * [Project iWear: a project developing a framework to enhance wearable development](/http-www-iwear-tzi-de)
-* [IBM Almaden Research Center's half-keyboard belt computer](/http-www-almaden-ibm-com-cs-user-inddes-halfkb-html)
-* [A brief history of wearable computing](/http-bradleyrhodes-com-papers-brief-history-of-wearable-computing-html)
-* [The Sex Scandal From Outer Space](/http-www-washingtonpost-com-wp-dyn-articles-a6778-2004jun25-2-html), *Washington Post*.
-* [Jeri Ryan Profile](/http-www-askmen-com-women-actress-23c-jeri-ryan-html), *AskMen.com*
-* [BBC Online interview](/http-www-bbc-co-uk-cult-st-interviews-ryan-index-shtml)
-* [Biography](/http-www-jerioholics-com-bio-html), *Jerioholics.com*
-* [Jeri Ryan Biography](/http-www-startrek-com-startrek-view-series-voy-cast-69088-html), *Startrek.com*
-* [Official Star Trek bio](/http-www-startrek-com-startrek-view-library-characters-voy-bio-1112406-html)
-* [Photos and text](/http-www-star-trek-voyager-org-crew-seven1-htm)
+* [IBM Almaden Research Center's half-keyboard belt computer](http://www.almaden.ibm.com/cs-user-inddes-halfkb.html)
+* [A brief history of wearable computing](http://bradleyrhodes.com/papers-brief-history-of-wearable-computing.html)
+* [The Sex Scandal From Outer Space](http://www.washingtonpost.com/wp-dyn-articles-a6778-2004jun25-2.html), *Washington Post*.
+* [Jeri Ryan Profile](http://www.askmen.com/women-actress-23c-jeri-ryan.html), *AskMen.com*
+* [BBC Online interview](http://www.bbc.co.uk/cult-st-interviews-ryan-index-shtml)
+* [Biography](http://www.jerioholics.com/bio.html), *Jerioholics.com*
+* [Jeri Ryan Biography](http://www.startrek.com/startrek-view-series-voy-cast-69088.html), *Startrek.com*
+* [Official Star Trek bio](http://www.startrek.com/startrek-view-library-characters-voy-bio-1112406.html)
+* [Photos and text](http://www.star.trek.voyager.org/crew-seven1.htm)
 
 
 
@@ -258,20 +258,20 @@ is the Pont St Michel.**
 ### References
 
 
-* Edward O. Thorp, [The invention of the first wearable computer](/http-ieeexplore-ieee-org-xpl-freeabs-all-jsp-isnumber-15725-arnumber-729523-count-30-index-1), in *The Second International Symposium on Wearable Computers: Digest of Papers*, IEEE Computer Society, 1998, pp. 4-8.
+* Edward O. Thorp, [The invention of the first wearable computer](http://ieeexplore.ieee.org/xpl-freeabs-all-jsp-isnumber-15725-arnumber-729523-count-30-index-1), in *The Second International Symposium on Wearable Computers: Digest of Papers*, IEEE Computer Society, 1998, pp. 4-8.
 * Edward O. Thorp, *Beat the Dealer*, 2nd Edition, Vintage, New York, 1966. [ISBN 0394703103](/)
 * Edward O. Thorp, "Optimal gambling systems for favorable game,." *Review of the International Statistical Institute*, V. 37:3, 1969, pp. 273-293.
 * T.A. Bass, *The Eudaemonic Pie*, Houghton Mifflin, New York, 1985.
 * Hubert Upton, "Wearable Eyeglass Speechreading Aid," *American Annals of the Deaf*, V113, 2 March 1968, pp. 222-229. (previously presented at *Conference on Speech-Analyzing Aids for the Deaf*, June 14-17, 1967.
 * C.C. Collins, L.A. Scadden, and A.B. Alden, "Mobile Studies whith a Tactile Imaging Device," *Fourth Conference on Systems & Devices For The Disabled*, June 1-3, 1977, Seatle WA.
-* Andre F. Marion, Edward A. Heinsen, Robert Chin, and Bennie E. Helmso, wrist instrument Opens New Dimension in Personal Information."[Wrist instrument opens new dimension in personal information](/http-www-hp-com-hpinfo-abouthp-histnfacts-museum-personalsystems-0022-other-0022hpjournal-pdf)", Hewlett-Packard Journal, December 1977. See also [HP-01 wrist instrument, 1977](/http-www-hp-com-hpinfo-abouthp-histnfacts-museum-personalsystems-0022-index-html)
+* Andre F. Marion, Edward A. Heinsen, Robert Chin, and Bennie E. Helmso, wrist instrument Opens New Dimension in Personal Information."[Wrist instrument opens new dimension in personal information](http://www.hp.com/hpinfo-abouthp-histnfacts-museum-personalsystems-0022-other-0022hpjournal.pdf)", Hewlett-Packard Journal, December 1977. See also [HP-01 wrist instrument, 1977](http://www.hp.com/hpinfo-abouthp-histnfacts-museum-personalsystems-0022-index.html)
 * Steve Mann, "An historical account of the 'WearComp' and 'WearCam' inventions developed for applications in 'Personal Imaging,'" in *The First International Symposium on Wearable Computers: Digest of Papers*, IEEE Computer Society, 1997, pp. 66-73.
-* [[The Winnebiko II and Maggie](/http-www-microship-com-bike-winnebiko2-index-html)]
+* [[The Winnebiko II and Maggie](http://www.microship.com/bike-winnebiko2-index.html)]
 * J. Peter Bade, G.Q. Maguire Jr., and David F. Bantz, The IBM/Columbia Student Electronic Notebook Project, IBM, T. J. Watson Research Lab., Yorktown Heights, NY, 29 June 1990. (The work was first shown at the [DARPA](/darpa) Workshop on Personal Computer Systems, Washington, D.C., 18 January 1990.)
-* [[[2]](/http-www-wearablegroup-org)]
-* [Lizzy: MIT's Wearable Computer Design 2.0.5](/http-www-media-mit-edu-wearables-lizzy-lizzy)
-* Steve Feiner, Bruce MacIntyre, and Doree Seligmann, "Knowledge-based augmented reality," in *Communications of the ACM*, 36(7), July 1993, 52-62. See also the [KARMA webpage](/http-www1-cs-columbia-edu-graphics-projects-karma-karma-html).
+* [[[2]](http://www.wearablegroup.org)]
+* [Lizzy: MIT's Wearable Computer Design 2.0.5](http://www.media.mit.edu/wearables-lizzy-lizzy)
+* Steve Feiner, Bruce MacIntyre, and Doree Seligmann, "Knowledge-based augmented reality," in *Communications of the ACM*, 36(7), July 1993, 52-62. See also the [KARMA webpage](http://www1.cs.columbia.edu/graphics-projects-karma-karma.html).
 * Edgar Matias, I. Scott MacKenzie, and William Buxton, "Half-QWERTY: Typing with one hand using your two-handed skills," *Companion of the CHI '94 Conference on Human Factors in Computing Systems*, ACM, 1994, pp. 51-52.
 * Edgar Matias, I.Scott MacKenzie and William Buxton, "A Wearable Computer for Use in Microgravity Space and Other Non-Desktop Environments," *Companion of the CHI '96 Conference on Human Factors in Computing Systems*, ACM, 1996, pp. 69-70.
 * E.C. Urban, Kathleen Griggs, Dick Martin, Dan Siewiorek and Tom Blackadar, [Proceedings of Wearables in 2005](/http-www-darpa-mil-mto-displays-wear2005), Arlington, VA, July 18-19, 1996.
-* Mik Lamming and Mike Flynn, ["'Forget-me-not' Intimate Computing in Support of Human Memory"](/http-www-lamming-com-mik-papers-fmn-pdf) in *Proceedings FRIEND21 Symposium on Next Generation Human Interfaces*, 1994.
+* Mik Lamming and Mike Flynn, ["'Forget-me-not' Intimate Computing in Support of Human Memory"](http://www.lamming.com/mik-papers-fmn.pdf) in *Proceedings FRIEND21 Symposium on Next Generation Human Interfaces*, 1994.

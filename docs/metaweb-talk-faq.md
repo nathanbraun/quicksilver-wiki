@@ -9,14 +9,14 @@ Add your questions about the Metaweb to the bottom of this page. Site editors wi
 this isnt perhaps the right place to write about this, but i think i can help a lot with the concept of the "metaweb". I have spent a lot of time working on various user interfaces, and I like where this one is going, but feel like there is a lot of work to be done. there are a lot of ideas i have on this, but think i will start elaborating only if there is interest... here or slushymunkee@hotmail.com.
 
 
-I could be mistaken, but this is a Wiki site. See [http://www.wiki.org](/http-www-wiki-org) for more information.
+I could be mistaken, but this is a Wiki site. See [http://www.wiki.org](http://www.wiki.org) for more information.
 
 
 ## Not just any old wiki!
 
 
 
-This site is running the [Wikipedia](/http-www-wikipedia-org) software, which is (I believe) the most power wiki software ever created. 
+This site is running the [Wikipedia](http://www.wikipedia.org) software, which is (I believe) the most power wiki software ever created. 
 
 Many people think [tikiwiki](/tikiwiki) is more capable and [MoinMoinWiki](/moinmoinwiki) is more flexible. And the reliance on MySQL is unwise in the extreme. [Mediawiki](/mediawiki)'s most likely fate is to die once it helps to set the [wikitext standard](/wikitext-standard).
 

@@ -17,4 +17,4 @@ is just kind of a nice thing for proofs, it doesn't actually help
 you calculate anything one bit. I can't see how it would be of the
 slightest use in Eschaton calculations.
 
-Dan Schmidt | dfan@[omitted] | [http://www2.lglass.com/~dfan](/http-www2-lglass-com-dfan)
+Dan Schmidt | dfan@[omitted] | [http://www2.lglass.com/~dfan](http://www2.lglass.com/dfan)

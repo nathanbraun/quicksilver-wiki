@@ -41,9 +41,9 @@ Still protecting pages after reverting them when the spammer hits. Is this a pro
 
 
  Update the server please:
-* Look at [Spam Blacklist,](/http-cvs-sf-net-viewcvs-py-wikipedia-extensions-spamblacklist) an extension for the server, and [Wikipedia's current blacklist.](/http-meta-wikimedia-org-wiki-spam-blacklist)
-* Updating the server software in general might help the [automated solution guy I asked.](/http-www-nooranch-com-synaesmedia-wiki-wiki-cgi-wikiminion-fightingspameverywhere)
-* The [SVN server](/http-svn-public-appliedminds-com-8000-repos-metaweb-metaweb) doesn't respond from anywhere I've tried.
+* Look at [Spam Blacklist,](http://cvs.sf.net/viewcvs-py-wikipedia-extensions-spamblacklist) an extension for the server, and [Wikipedia's current blacklist.](http://meta.wikimedia.org/wiki-spam-blacklist)
+* Updating the server software in general might help the [automated solution guy I asked.](http://www.nooranch.com/synaesmedia-wiki-wiki-cgi-wikiminion-fightingspameverywhere)
+* The [SVN server](http://svn.public.appliedminds.com/8000-repos-metaweb-metaweb) doesn't respond from anywhere I've tried.
  I'd suggest marking the bot crap as either minor changes or bot-made, & default to not showing whichever. -[Pronoiac](/user-pronoiac) 18:34, 21 Jul 2005 (PDT)
 
  Hi, this is my first post/edit. I've started reading the cycle for the second time and naturally came to metaweb. I noticed some rather odd images in many of the articles, is this the work of the vandal? I would second the sandbox concept - new edits would not be public until a review flag was set by an administrator. I'm suprised the mediawiki package doesn't already support this. I'll install it and have a look at the source. Please let me know if I can help with code changes, I could probably spare a few hours for it. [Monsoon](/user-monsoon) 03:31, 24 Jul 2005 (PDT)
@@ -198,17 +198,17 @@ Is there any reason why we can't just block off the entire 80.58.###.### and 220
 ---
 
 
-Do you have [nofollow](/http-en-wikipedia-org-wiki-blog-spam-nofollow) tags on external links? - [70.18.36.47](/user-70-18-36-47) 10:31, 20 Aug 2005 (PDT)
+Do you have [nofollow](https://en.wikipedia.org/wiki/blog-spam-nofollow) tags on external links? - [70.18.36.47](/user-70-18-36-47) 10:31, 20 Aug 2005 (PDT)
  No, and I don't know if our version of the Wiki software can use them. I'll inquire. It seems our spammer got bored or is taking a break - [Sparky](/user-stsparky) 13:48, 2005 Aug 20 (PDT)
 
 ### [Wikipedia: Link spam: nofollow](/)
 
 
-In early 2005 [Google](/http-www-google-com) introduced [an HTML attribute](/http-googleblog-blogspot-com-2005-01-preventing-comment-spam-html) that disables the assignment of ranking credits for a particular link. This is a much easier solution that makes the improvised techniques above irrelevant. Most weblog software now comes with this enabled by default (and no option to disable it without code modification) adding the nofollow attribute to reader-submitted links:  
+In early 2005 [Google](http://www.google.com) introduced [an HTML attribute](http://googleblog.blogspot.com/2005-01-preventing-comment-spam.html) that disables the assignment of ranking credits for a particular link. This is a much easier solution that makes the improvised techniques above irrelevant. Most weblog software now comes with this enabled by default (and no option to disable it without code modification) adding the nofollow attribute to reader-submitted links:  
 
 <a href="http://www.wiki.org/" rel="nofollow">Link</a>  
 
 However, some weblog authors object to using the attributes, due to concerns over the motives for its introduction (the large amount of inter-linking between blogs makes search engine algorithms less accurate) and its effectiveness, since a spambot does not know whether its target is using 'nofollow' or not.
 
 
-20060713.2237 see [http://c2.com/cgi/wiki?DelayedIndexing](/http-c2-com-cgi-wiki-delayedindexing) for how the OriginalWiki combats spamming
+20060713.2237 see [http://c2.com/cgi/wiki?DelayedIndexing](http://c2.com/cgi-wiki-delayedindexing) for how the OriginalWiki combats spamming

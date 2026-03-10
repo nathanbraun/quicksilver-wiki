@@ -8,7 +8,7 @@ This is the [Cryptonomicon](/cryptonomicon) page for the **Institute for Advance
 ### Stephensonia
 
 
-*A modestly curious person should note both the InterLibrary Loan (ILL) and the IAS are both mentioned in [George Dyson](/http-www-amazon-com-exec-obidos-search-handle-url-index-books-field-author-dyson-george-b-104-8931055-5532701)'s **Darwin Among the Machines, the Evolution of Global Intelligence**. [Lawrence Waterhouse](/lawrence-waterhouse) ends up in Princeton for a year as a way to make him more **worldly**:
+*A modestly curious person should note both the InterLibrary Loan (ILL) and the IAS are both mentioned in [George Dyson](http://www.amazon.com/exec-obidos-search-handle-url-index-books-field-author-dyson-george-b-104-8931055-5532701)'s **Darwin Among the Machines, the Evolution of Global Intelligence**. [Lawrence Waterhouse](/lawrence-waterhouse) ends up in Princeton for a year as a way to make him more **worldly**:
 ![IAS-clocktowerMW.jpg](/images/IAS-clocktowerMW.jpg)  
 **All Around the Clocktower**  
 ** Now Princeton was an august school and going there was a great honor, but no one got around to mentioning either of these facts to Lawrence, who had no way of knowing. This had bad and good consequences. He accepted the scholarship with a faintness of gratitude that infuriated the oat lord. On the other hand, he adjusted to Princeton easily because it was just another place. It reminded him of the nicer bits of Virginia, and there were some nice pipe organs in town, though he was not all that happy with his engineering homework of bridge-designing and sprocket-cutting problems. As always, these eventually came down to math, most of which he could handle easily. From time to time he would get stuck, though, which led him to the Fine Hall: the headquarters of the Math Department.  
@@ -21,7 +21,7 @@ This is the [Cryptonomicon](/cryptonomicon) page for the **Institute for Advance
 * TBA
 
 
-### [Wikipedia: Institute for Advanced Study](/http-en-wikipedia-org-wiki-institute-for-advanced-study)
+### [Wikipedia: Institute for Advanced Study](https://en.wikipedia.org/wiki/institute-for-advanced-study)
 
 
 The **Institute for Advanced Study** is a private institution in Princeton Township, New Jersey, designed to foster pure cutting-edge research by scientists in a variety of fields without the complications of teaching or funding, or the agendas of sponsorship. It is perhaps best known as the academic home of [Albert Einstein](/albert-einstein) after his immigration to the United States.
@@ -58,7 +58,7 @@ Stephen L. Adler, James W. Alexander, Andrew E. Z. Alföldi, Michael F. Atiyah, 
 ### External link
 
 
-* [The Institute for Advanced Study's Homepage](/http-www-ias-edu)
-* [Freeman J. Dyson's Homepage](/http-www-sns-ias-edu-dyson)
+* [The Institute for Advanced Study's Homepage](http://www.ias.edu)
+* [Freeman J. Dyson's Homepage](http://www.sns.ias.edu/dyson)
 
-[ISBN 0738200301](/) [Darwin Among the Machines, the Evolution of Global Intelligence](/http-www-amazon-com-exec-obidos-asin-0738200301-anywhere0f-104-8931055-5532701) by [George B. Dyson](/http-www-amazon-com-exec-obidos-search-handle-url-index-books-field-author-dyson-george-b-104-8931055-5532701)
+[ISBN 0738200301](/) [Darwin Among the Machines, the Evolution of Global Intelligence](http://www.amazon.com/exec-obidos-asin-0738200301-anywhere0f-104-8931055-5532701) by [George B. Dyson](http://www.amazon.com/exec-obidos-search-handle-url-index-books-field-author-dyson-george-b-104-8931055-5532701)

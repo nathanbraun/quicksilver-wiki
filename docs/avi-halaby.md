@@ -7,7 +7,7 @@ This is a page for **Avi Halaby**
 ### Stephensonia
 
 
-*To [Randy Waterhouse](/randy-waterhouse) - Avi is a man with an Elvish glow. He has his wife Devorah, the kids (one with normal kid-related asthma  Schlomo) and [Krav Maga](/http-www-kravmaga-com) trained nubile nannies.*
+*To [Randy Waterhouse](/randy-waterhouse) - Avi is a man with an Elvish glow. He has his wife Devorah, the kids (one with normal kid-related asthma  Schlomo) and [Krav Maga](http://www.kravmaga.com) trained nubile nannies.*
 
 ### Authored entries
 
@@ -23,13 +23,13 @@ That Avi is a consumate master of finesse is demonstrated in this conversation:
 
  "OCWs?"
 
- "Overseas Contract Workers. Filipinos working abroad--because the economy of the Philippines is so lame. As maids and nannies in Saudi. Nurses and anesthesiologists in the States. Singers in Hong Kong, [whores](/http-en-wikipedia-org-wiki-prostitution) in Bangkok."
+ "Overseas Contract Workers. Filipinos working abroad--because the economy of the Philippines is so lame. As maids and nannies in Saudi. Nurses and anesthesiologists in the States. Singers in Hong Kong, [whores](https://en.wikipedia.org/wiki/prostitution) in Bangkok."
 
- "[Whores](/http-en-wikipedia-org-wiki-sex-worker) in Bangkok?" Randy had been there, at least, and his mind reeled at the concept of exporting prostitutes to Thailand.
+ "[Whores](https://en.wikipedia.org/wiki/sex-worker) in Bangkok?" Randy had been there, at least, and his mind reeled at the concept of exporting prostitutes to Thailand.
 
  "The Filipino women are more beautiful," Avi said quietly, "and have a ferocity that makes them more interesting, to the innately masochistic business traveler, than all those grinning Thai bimbos." Both of them knew that this was complete bullshit; Avi was a family man and had no firsthand experience whereof he spoke. Randy didn't call him on it, though. As long as Avi retained this extemporaneous bullshitting ability there was a better than even chance of all of them making fuck-you money.
 
-Randy does seem illsuited to be the [shill](/http-en-wikipedia-org-wiki-shill), regardless of Avi's mastery of [group dynamics](/http-en-wikipedia-org-wiki-group-dynamics). Few younger readers know the phrase "… coals to [Newcastle](/http-en-wikipedia-org-wiki-newcastle-upon-tyne) …" proverbially describes a self-evidently pointless task as Newcastle's development as a major city owed much to its central role in the export of [coal](/http-en-wikipedia-org-wiki-coal) from the Northumberland coalfield.
+Randy does seem illsuited to be the [shill](https://en.wikipedia.org/wiki/shill), regardless of Avi's mastery of [group dynamics](https://en.wikipedia.org/wiki/group-dynamics). Few younger readers know the phrase "… coals to [Newcastle](https://en.wikipedia.org/wiki/newcastle-upon-tyne) …" proverbially describes a self-evidently pointless task as Newcastle's development as a major city owed much to its central role in the export of [coal](https://en.wikipedia.org/wiki/coal) from the Northumberland coalfield.
 
 Charlene would have been disposed of long ago if Randy had *practical* experience of prostitutes  nor does the text indicate either Randy or Avi would have visited the *ranches* during Comdex or CES. And Pinay OCWs know the *entertainment* money is best in Japan.
 
@@ -55,7 +55,7 @@ In Zionist history, different waves aliyah, beginning with the arrival of the Bi
 * Fifth Aliyah (1929-1939) from German, Central and Eastern Europe. Total: 250,000 (10 percent left). Intellectual middle class. Refugee artists introduced Bauhaus (Tel Aviv has the highest concentration of Bauhaus architecture in the world) and founded the Palestine Philharmonic Orchestra.
 
 
-### HEAP:Hidden Jews & [Crypto-Jews](/http-en-wikipedia-org-wiki-crypto-judaism)
+### HEAP:Hidden Jews & [Crypto-Jews](https://en.wikipedia.org/wiki/crypto-judaism)
 
 
 [HEAP](/heap) to be developed on. Moving some of this to [Moseh de la Cruz](/stephenson-neal-the-confusion-8-moseh-de-la-cruz-alan-sinder).
@@ -73,5 +73,5 @@ In Zionist history, different waves aliyah, beginning with the arrival of the Bi
 ### External links
 
 
-* [What is a Donmeh FAQ](/http-www-kheper-net-topics-kabbalah-donmeh-faqs-htm)
-* [Meaning of Aliyah](/http-www-jafi-org-il-education-100-concepts-aliyah1-html)
+* [What is a Donmeh FAQ](http://www.kheper.net/topics-kabbalah-donmeh-faqs.htm)
+* [Meaning of Aliyah](http://www.jafi.org/il-education-100-concepts-aliyah1.html)

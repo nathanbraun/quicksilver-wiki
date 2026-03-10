@@ -3,7 +3,7 @@
 
 From the Quicksilver Metaweb.
 
-Is this a sly reference to a modern-day [programming language](/http-www-python-org)?
+Is this a sly reference to a modern-day [programming language](http://www.python.org)?
 
 or perhaps another reference to [Monty Python](/stephenson-neal-the-system-of-the-world-248-never-expected-the-spanish-inquisition-electricinca) or both?
 

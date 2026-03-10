@@ -137,7 +137,7 @@ Strictly speaking, this law applies only to point-like objects. If the objects h
 ### External links
 
 
-* [Wikipedia entry about Newton's *Philosophiae Naturalis Principia Mathematica*](/http-www-wikipedia-org-wiki-philosophiae-naturalis-principia-mathematica)
-* [Mathematical Principles of Natural Philosophy](/http-dibinst-mit-edu-burndy-collections-babson-onlinenewton-principia-htm) You can download the 3 authorized editions. Hope you can read Latin.
-* [ISBN 0762413484](/) -- **[On the Shoulders of Giants](/http-www-amazon-com-exec-obidos-tg-detail-0762413484-qid-1071100757-sr-1-6-ref-sr-1-6-002-8705843-0436068-v-glance-s-books)** edited by Stephen Hawking. This huge book has the Principia in English.
-* **[gap.dcs](/http-www-gap-dcs-st-and-ac-uk-history-mathematicians-newton-html)**
+* [Wikipedia entry about Newton's *Philosophiae Naturalis Principia Mathematica*](https://en.wikipedia.org/wiki/philosophiae-naturalis-principia-mathematica)
+* [Mathematical Principles of Natural Philosophy](http://dibinst.mit.edu/burndy-collections-babson-onlinenewton-principia.htm) You can download the 3 authorized editions. Hope you can read Latin.
+* [ISBN 0762413484](/) -- **[On the Shoulders of Giants](http://www.amazon.com/exec-obidos-tg-detail-0762413484-qid-1071100757-sr-1-6-ref-sr-1-6-002-8705843-0436068-v-glance-s-books)** edited by Stephen Hawking. This huge book has the Principia in English.
+* **[gap.dcs](http://www.gap.dcs.st.and.ac.uk/history-mathematicians-newton.html)**

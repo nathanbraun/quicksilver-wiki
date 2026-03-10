@@ -113,4 +113,4 @@ James made an effort to restore himself by landing in Ireland in 1689 and leadin
 ### External Links
 
 
-* [Another bio of James II and presentation of his Jacobite heritage until the 21st Century](/http-members-rogers-com-jacobites-kings-james2-htm)
+* [Another bio of James II and presentation of his Jacobite heritage until the 21st Century](http://members.rogers.com/jacobites-kings-james2.htm)

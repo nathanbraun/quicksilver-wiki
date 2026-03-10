@@ -55,7 +55,7 @@ It is true that France after Richelieu was a very different construct than anyth
 
 And in some ways, Richelieu's ministry does resemble modern politics. Deeply concerned with public opinion, Richelieu operated a powerful public relations machine that included extensive press censorship, an official newspaper called The Gazette, a relatively large number of publicists, and the power to put to death anyone guilty of criticizing the government. He had a system of informants who helped him stay on top of things. 
 
-History has, not surprisingly, not been kind to Richelieu. [Voltaire](/voltaire) believed the cardinal had started wars to make himself indispensable to the king. The most famous portrayal of Richelieu now is in fiction: [Alexandre Dumas](/http-en2-wikipedia-org-wiki-alexandre-dumas)'s [The Three Musketeers](/http-en2-wikipedia-org-wiki-the-three-musketeers) has reproduced the image of the cardinal as a cynical man, hungry for power and money. As recently as 1993, the cardinal appeared in film ([Disney](/http-en-wikipedia-org-wiki-walt-disney-pictures)'s [Three Musketeers](/http-us-imdb-com-title-tt0108333)) as a prototypical villain, devoid of redeeming qualities. 
+History has, not surprisingly, not been kind to Richelieu. [Voltaire](/voltaire) believed the cardinal had started wars to make himself indispensable to the king. The most famous portrayal of Richelieu now is in fiction: [Alexandre Dumas](https://en.wikipedia.org/wiki/alexandre-dumas)'s [The Three Musketeers](https://en.wikipedia.org/wiki/the-three-musketeers) has reproduced the image of the cardinal as a cynical man, hungry for power and money. As recently as 1993, the cardinal appeared in film ([Disney](https://en.wikipedia.org/wiki/walt-disney-pictures)'s [Three Musketeers](http://us.imdb.com/title-tt0108333)) as a prototypical villain, devoid of redeeming qualities. 
 
 Consequently, Richelieu's motives are the focus of much debate among historians. While some do see him as a power-hungry cynic, others are more inclined to see him as a true believer in French absolutism, who believed that the end justified the means. This is how Richelieu presents himself in his autobiographies.
 
@@ -63,6 +63,6 @@ Consequently, Richelieu's motives are the focus of much debate among historians.
 
 
 * "If you give me six lines written by the most honest man, I will find something in them to hang him."
-* "[Reason](/http-en2-wikipedia-org-wiki-reason) must be the universal rule and guide; all things must be done according to reason without allowing oneself to be swayed by emotion."
+* "[Reason](https://en.wikipedia.org/wiki/reason) must be the universal rule and guide; all things must be done according to reason without allowing oneself to be swayed by emotion."
 * "Harshness towards individuals who flout the laws and commands of the state is for the public good; no greater crime against the public interest is possible than to show leniency to those who violate it."
 * "I have never had any [enemies], other than those of the state."

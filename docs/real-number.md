@@ -23,7 +23,7 @@ A real number is said to be *computable* if there exists an algorithm that yield
 
 Computers can only approximate most real numbers with rational numbers; these approximations are known as floating point numbers or fixed-point numbers; see real data type. Computer algebra systems are able to treat some real numbers exactly by storing an algebraic description (such as "sqrt(2)") rather than their decimal approximation. 
 
-Mathematicians use the symbol **R** (or alternatively,![ \Bbb{R} ](/web/20060725171055im_/http://www.metaweb.com/wiki/upload/math/69a45f1e602cd2b2c2e67e41811fd226.png)  the letter  **R**  in [blackboard bold](/http-en-wikipedia-org-wiki-blackboard-bold))" to represent the [set](/http-en-wikipedia-org-wiki-set) of all real numbers. 
+Mathematicians use the symbol **R** (or alternatively,![ \Bbb{R} ](/web/20060725171055im_/http://www.metaweb.com/wiki/upload/math/69a45f1e602cd2b2c2e67e41811fd226.png)  the letter  **R**  in [blackboard bold](https://en.wikipedia.org/wiki/blackboard-bold))" to represent the [set](https://en.wikipedia.org/wiki/set) of all real numbers. 
 
 In mathematics, the term "real XXX" means that the underlying number field is the field of real numbers. For example real matrix, real polynomial and real Lie algebra. 
 
@@ -38,15 +38,15 @@ Fractions had been used by the Egyptians around 1000 BC; around 500 BC, the Gree
 #### Construction from the rational numbers
 
  
-Real numbers could be constructed as the topological completion of rational numbers. For details and other construction of real numbers, see [Construction of real numbers](/http-en-wikipedia-org-wiki-construction-of-real-numbers)
+Real numbers could be constructed as the topological completion of rational numbers. For details and other construction of real numbers, see [Construction of real numbers](https://en.wikipedia.org/wiki/construction-of-real-numbers)
 
 Axiomatic approach 
-Let **R** denote the [set](/http-en-wikipedia-org-wiki-set) of all real numbers. Then:
+Let **R** denote the [set](https://en.wikipedia.org/wiki/set) of all real numbers. Then:
 * The set **R** is a field, i.e., addition, subtraction, multiplication and division are defined and have the usual properties.
 * The field **R** is ordered, i.e., there is a total order ≥ such that, for all real numbers *x*, *y* and *z*:
 	+ if *x* ≥ *y* then *x* + *z* ≥ *y* + *z*;
 	+ if *x* ≥ 0 and *y* ≥ 0 then *x**y* ≥ 0.
-* The order is Dedekind-complete, i.e., every non-empty subset *S* of **R** with an [upper bound](/http-en-wikipedia-org-wiki-upper-bound) in **R** has a least upper bound (also called supremum) in **R**.
+* The order is Dedekind-complete, i.e., every non-empty subset *S* of **R** with an [upper bound](https://en.wikipedia.org/wiki/upper-bound) in **R** has a least upper bound (also called supremum) in **R**.
 
 
 The latter property is what differentiates the reals from the rationals. For example, the set of rationals with square less than 2 has a rational upper bound (e.g., 1.5) but no rational least upper bound, because the square root of 2 is not rational.
@@ -110,53 +110,53 @@ The uniqueness result at the end of that section justifies using the word "the" 
 This sense of completeness is most closely related to the construction of the reals from Dedekind cuts, since that construction starts from an ordered field (the rationals) and then forms the Dedekind-completion of it in a standard way.
 
 These two notions of completeness ignore the field structure.
-However, an ordered [(mathematics) group](/http-en-wikipedia-org-wiki-group) (and a field is a group under the operations of addition and subtraction) defines a [uniform](/http-en-wikipedia-org-wiki-uniform-space) structure, and uniform structures have a notion of [topological completeness](/http-en-wikipedia-org-wiki-completeness-topology); the description in the section **Completeness** above is a special case.
+However, an ordered [(mathematics) group](https://en.wikipedia.org/wiki/group) (and a field is a group under the operations of addition and subtraction) defines a [uniform](https://en.wikipedia.org/wiki/uniform-space) structure, and uniform structures have a notion of [topological completeness](https://en.wikipedia.org/wiki/completeness-topology); the description in the section **Completeness** above is a special case.
 (We refer to the notion of completeness in uniform spaces rather than the related and better known notion for metric spaces, since the definition of metric space relies on already having a characterisation of the real numbers.)
 It is not true that **R** is the *only* uniformly complete ordered field, but it is the only uniformly complete *[Archimedean](/archimedean)* field, and indeed one often hears the phrase "complete Archimedean field" instead of "complete ordered field".
 Since it can be proved that any uniformly complete Archimedean field must also be Dedekind complete (and vice versa, of course), this justifies using "the" in the phrase "the complete Archimedean field".
 This sense of completeness is most closely related to the construction of the reals from Cauchy sequences (the construction carried out in full in this article), since it starts with an Archimedean field (the rationals) and forms the uniform completion of it in a standard way.
 
-But the original use of the phrase "complete Archimedean field" was by [David Hilbert](/http-en-wikipedia-org-wiki-david-hilbert), who meant still something else by it.
+But the original use of the phrase "complete Archimedean field" was by [David Hilbert](https://en.wikipedia.org/wiki/david-hilbert), who meant still something else by it.
 He meant that the real numbers form the *largest* Archimedean field in the sense that every other Archimedean field is a subfield of **R**.
 Thus **R** is "complete" in the sense that nothing further can be added to it without making it no longer an Archimedean field.
 This sense of completeness is most closely related to the construction of the reals from surreal numbers, since that construction starts with a proper class that contains every ordered field (the surreals) and then selects from it the largest Archimedean subfield.
 
-#### [Advanced properties](/http-en-wikipedia-org-wiki-real-number-advanced-properties)
+#### [Advanced properties](https://en.wikipedia.org/wiki/real-number-advanced-properties)
 
 
-The reals are [uncountable](/http-en-wikipedia-org-wiki-uncountable), that is, there are strictly more real numbers than [natural numbers](/http-en-wikipedia-org-wiki-natural-number) (even though both sets are [infinite](/http-en-wikipedia-org-wiki-infinity)).
-This is proved with [Cantor's diagonal argument](/http-en-wikipedia-org-wiki-cantor-s-diagonal-argument).
+The reals are [uncountable](https://en.wikipedia.org/wiki/uncountable), that is, there are strictly more real numbers than [natural numbers](https://en.wikipedia.org/wiki/natural-number) (even though both sets are [infinite](https://en.wikipedia.org/wiki/infinity)).
+This is proved with [Cantor's diagonal argument](https://en.wikipedia.org/wiki/cantor-s-diagonal-argument).
 
-In fact, the cardinality of the reals is 2ω (see [cardinal\_number cardinal numbers](/http-en-wikipedia-org-wiki)), i.e., the cardinality of the set of subsets of the [natural numbers](/http-en-wikipedia-org-wiki-natural-number).
+In fact, the cardinality of the reals is 2ω (see [cardinal\_number cardinal numbers](http://en.wikipedia.org/wiki)), i.e., the cardinality of the set of subsets of the [natural numbers](https://en.wikipedia.org/wiki/natural-number).
 
-Since only a countable set of real numbers can be [algebraic](/http-en-wikipedia-org-wiki-algebraic-number), [almost all](/http-en-wikipedia-org-wiki-almost-all) real numbers are [transcendental](/http-en-wikipedia-org-wiki-transcendental-number).
+Since only a countable set of real numbers can be [algebraic](https://en.wikipedia.org/wiki/algebraic-number), [almost all](https://en.wikipedia.org/wiki/almost-all) real numbers are [transcendental](https://en.wikipedia.org/wiki/transcendental-number).
 
-The nonexistence of a subset of the reals with cardinality strictly in between that of the integers and the reals is known as the [continuum hypothesis](/http-en-wikipedia-org-wiki-continuum-hypothesis).
+The nonexistence of a subset of the reals with cardinality strictly in between that of the integers and the reals is known as the [continuum hypothesis](https://en.wikipedia.org/wiki/continuum-hypothesis).
 
-This can neither be proved nor be disproved, but is independent from the axioms of [set theory](/http-en-wikipedia-org-wiki-set-theory).
+This can neither be proved nor be disproved, but is independent from the axioms of [set theory](https://en.wikipedia.org/wiki/set-theory).
 
-The real numbers form a [metric space](/http-en-wikipedia-org-wiki-metric-space): the distance between *x* and *y* is defined to be the [absolute value](/http-en-wikipedia-org-wiki-absolute-value) **|***x* - *y***|**.
+The real numbers form a [metric space](https://en.wikipedia.org/wiki/metric-space): the distance between *x* and *y* is defined to be the [absolute value](https://en.wikipedia.org/wiki/absolute-value) **|***x* - *y***|**.
 
-By virtue of being a [totally ordered](/http-en-wikipedia-org-wiki-total-order) set, they also carry an [order topology](/http-en-wikipedia-org-wiki-order-topology); the [topology](/http-en-wikipedia-org-wiki-topology) arising from the metric and the one arising from the order are identical.
-The reals are a [contractible](/http-en-wikipedia-org-wiki-contractible) (hence [connected](/http-en-wikipedia-org-wiki-connected) and [simply connected](/http-en-wikipedia-org-wiki-simply-connected)), [locally compact](/http-en-wikipedia-org-wiki-local-compactness) [separable](/http-en-wikipedia-org-wiki-separable) metric space, of [dimension](/http-en-wikipedia-org-wiki-dimension) 1, and are [everywhere dense](/http-en-wikipedia-org-wiki-first-category).
-The real numbers are not [compact](/http-en-wikipedia-org-wiki-compact-space).
+By virtue of being a [totally ordered](https://en.wikipedia.org/wiki/total-order) set, they also carry an [order topology](https://en.wikipedia.org/wiki/order-topology); the [topology](https://en.wikipedia.org/wiki/topology) arising from the metric and the one arising from the order are identical.
+The reals are a [contractible](https://en.wikipedia.org/wiki/contractible) (hence [connected](https://en.wikipedia.org/wiki/connected) and [simply connected](https://en.wikipedia.org/wiki/simply-connected)), [locally compact](https://en.wikipedia.org/wiki/local-compactness) [separable](https://en.wikipedia.org/wiki/separable) metric space, of [dimension](https://en.wikipedia.org/wiki/dimension) 1, and are [everywhere dense](https://en.wikipedia.org/wiki/first-category).
+The real numbers are not [compact](https://en.wikipedia.org/wiki/compact-space).
 
-There are various properties that uniquely specify them; for instance, all unbounded, continuous, and separable [order topologies](/http-en-wikipedia-org-wiki-total-order) are necessarily [homeomorphic](/http-en-wikipedia-org-wiki-homeomorphic) to the reals.
+There are various properties that uniquely specify them; for instance, all unbounded, continuous, and separable [order topologies](https://en.wikipedia.org/wiki/total-order) are necessarily [homeomorphic](https://en.wikipedia.org/wiki/homeomorphic) to the reals.
 
-Every nonnegative real number has a [square root](/http-en-wikipedia-org-wiki-square-root) in **R**, and no negative number does.
+Every nonnegative real number has a [square root](https://en.wikipedia.org/wiki/square-root) in **R**, and no negative number does.
 
 This shows that the order on **R** is determined by its algebraic structure.
 
-Also, every polynomial of odd degree admits at least one root: these two properties make **R** the premier example of a [real closed field](/http-en-wikipedia-org-wiki-real-closed-field).
-Proving this is the first half of one proof of the [fundamental theorem of algebra](/http-en-wikipedia-org-wiki-fundamental-theorem-of-algebra).
+Also, every polynomial of odd degree admits at least one root: these two properties make **R** the premier example of a [real closed field](https://en.wikipedia.org/wiki/real-closed-field).
+Proving this is the first half of one proof of the [fundamental theorem of algebra](https://en.wikipedia.org/wiki/fundamental-theorem-of-algebra).
 
-The reals carry a canonical [measure](/http-en-wikipedia-org-wiki-measure), the [Lebesgue measure](/http-en-wikipedia-org-wiki-lebesgue-measure), which is the [Haar measure](/http-en-wikipedia-org-wiki-haar-measure) on their structure as a [topological group](/http-en-wikipedia-org-wiki-topological-group) normalised such that the [unit interval](/http-en-wikipedia-org-wiki-unit-interval) [0,1] has measure 1.
+The reals carry a canonical [measure](https://en.wikipedia.org/wiki/measure), the [Lebesgue measure](https://en.wikipedia.org/wiki/lebesgue-measure), which is the [Haar measure](https://en.wikipedia.org/wiki/haar-measure) on their structure as a [topological group](https://en.wikipedia.org/wiki/topological-group) normalised such that the [unit interval](https://en.wikipedia.org/wiki/unit-interval) [0,1] has measure 1.
 
 The supremum axiom of the reals refers to subsets of the reals and is therefore a second-order logical statement.
 
-It is not possible to characterize the reals with [first-order logic](/http-en-wikipedia-org-wiki-first-order-logic) alone: the [Löwenheim-Skolem theorem](/http-en-wikipedia-org-wiki-l-ouml-wenheim-skolem-theorem) implies that there exists a countable dense subset of the real numbers satisfying exactly the same sentences in first order logic as the real numbers themselves.
+It is not possible to characterize the reals with [first-order logic](https://en.wikipedia.org/wiki/first-order-logic) alone: the [Löwenheim-Skolem theorem](https://en.wikipedia.org/wiki/l-ouml-wenheim-skolem-theorem) implies that there exists a countable dense subset of the real numbers satisfying exactly the same sentences in first order logic as the real numbers themselves.
 
 The set of [hyperreal numbers](/hyperreal-number) is much bigger than **R** but also satisfies the same first order sentences as **R**.
 
-Ordered fields that satisfy the same first-order sentences as **R** are called [nonstandard models](/http-en-wikipedia-org-wiki-nonstandard-model) of **R**.
+Ordered fields that satisfy the same first-order sentences as **R** are called [nonstandard models](https://en.wikipedia.org/wiki/nonstandard-model) of **R**.
 This is what makes [Non-standard analysis](/non-standard-analysis) work; by proving a first-order statement in some nonstandard model (which may be easier than proving it in **R**), we know that the same statement must also be true of **R**.

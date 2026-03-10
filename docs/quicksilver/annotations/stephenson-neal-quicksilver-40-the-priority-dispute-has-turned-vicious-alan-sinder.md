@@ -82,7 +82,7 @@ The question became so important to the scientific community at large, stalling 
 
 
 * **[The Analyst Controversy](/http-www-maths-tcd-ie-pub-histmath-people-berkeley-analcont-html)**
-* **[Analytical Society](/http-en2-wikipedia-org-wiki-analytical-society)**
-* **[Calculus](/http-en2-wikipedia-org-wiki-calculus)**
-* **[MacTutor History of Mathematics: Newton](/http-www-gap-dcs-st-and-ac-uk-history-mathematicians-newton-html)**
-* **[ISAAC NEWTON'S DISPUTE WITH GOTTFRIED LEIBNIZ](/http-hydro4-sci-fau-edu-rjordan-phy1931-newton-newton-htm): A QUESTION OF PRIORITY: WHO DISCOVERED THE CALCULUS FIRST?**
+* **[Analytical Society](https://en.wikipedia.org/wiki/analytical-society)**
+* **[Calculus](https://en.wikipedia.org/wiki/calculus)**
+* **[MacTutor History of Mathematics: Newton](http://www.gap.dcs.st.and.ac.uk/history-mathematicians-newton.html)**
+* **[ISAAC NEWTON'S DISPUTE WITH GOTTFRIED LEIBNIZ](http://hydro4.sci.fau.edu/rjordan-phy1931-newton-newton.htm): A QUESTION OF PRIORITY: WHO DISCOVERED THE CALCULUS FIRST?**

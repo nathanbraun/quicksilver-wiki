@@ -99,4 +99,4 @@ GNU Free Documentation License; you can only do that if you own the copyright to
 ---
 
 
-* *This page originally from the [Wikipedia](/http-www-wikipedia-org)*
+* *This page originally from the [Wikipedia](http://www.wikipedia.org)*

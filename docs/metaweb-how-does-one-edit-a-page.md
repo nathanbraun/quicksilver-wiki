@@ -178,7 +178,7 @@ this is useful for:
 
 
 WARNING: If you make it wide,
-you [force the whole page to be wide](/http-en-wikipedia-org-wiki-page-widening) and
+you [force the whole page to be wide](https://en.wikipedia.org/wiki/page-widening) and
 hence less readable. Never start ordinary lines with spaces.
  | 
 ```
@@ -204,7 +204,7 @@ hence less readable. Never start ordinary lines with spaces.
  |
 
 
-| A [horizontal dividing line](/http-en-wikipedia-org-wiki-horizontal-dividing-line): this is above it
+| A [horizontal dividing line](https://en.wikipedia.org/wiki/horizontal-dividing-line): this is above it
 
 
 ---
@@ -252,7 +252,7 @@ and this is below it.
 | What it looks like | What you type |
 | --- | --- |
 | London has good
-[public transport](/http-en-wikipedia-org-wiki-public-transport).
+[public transport](https://en.wikipedia.org/wiki/public-transport).
 * First letter of target is automatically capitalized.
 * Internally spaces are automatically represented as underscores (typing an underscore has the same effect as typing a space, but is not recommended).
 
@@ -260,7 +260,7 @@ Thus the link above is to http://www.metaweb.com/wiki/wiki.phtml?title=Public\_t
  | London has good
 [http://en.wikipedia.org/wiki/Public\_transport public transport]
 
-*Seems many think London has good [public transport](/http-en-wikipedia-org-wiki-public-transport) but itdoesn't measure up to even a small city in [Japan](/http-en-wikipedia-org-wiki-japan) like [Fukuoka](/http-en-wikipedia-org-wiki-fukuoka)*.
+*Seems many think London has good [public transport](https://en.wikipedia.org/wiki/public-transport) but itdoesn't measure up to even a small city in [Japan](https://en.wikipedia.org/wiki/japan) like [Fukuoka](https://en.wikipedia.org/wiki/fukuoka)*.
  |
 | 
 Link to a section on a page, e.g. 
@@ -268,14 +268,14 @@ Link to a section on a page, e.g.
 [[List\_of\_cities\_by\_country#Morocco]] |
 | Same target, different name:
 [answers](/metaweb-faq).
-(This is a [piped link](/http-en-wikipedia-org-wiki-piped-link).)
+(This is a [piped link](https://en.wikipedia.org/wiki/piped-link).)
  | 
 ```
 Same target, different name: 
 [[Metaweb FAQ|answers]]
 ```
  |
-| Endings are blended into the link: [test](/http-en-wikipedia-org-wiki-test)ing, [gene](/http-en-wikipedia-org-wiki-test)s
+| Endings are blended into the link: [test](https://en.wikipedia.org/wiki/test)ing, [gene](https://en.wikipedia.org/wiki/test)s
  | 
 ```
 Endings are blended 
@@ -338,15 +338,15 @@ that doesn't exist yet.
 #REDIRECT [[United States]]
 ```
  |
-| External link: [Main](/http-www-nupedia-com) | 
+| External link: [Main](http://www.nupedia.com) | 
 ```
 External link: 
 [http://www.nupedia.com Nupedia]
 ```
  |
-| Or just give the URL: [http://www.nupedia.com](/http-www-nupedia-com).
+| Or just give the URL: [http://www.nupedia.com](http://www.nupedia.com).
 
-* In the [URL](/url) all symbols must be among: A-Z a-z 0-9 .\_\/~%-+&#?!=()@ \x80-\xFF. If a URL contains a different character it should be converted; for example, ^ has to be written %5E (to be looked up in [ASCII](/http-en-wikipedia-org-wiki-ascii)).
+* In the [URL](/url) all symbols must be among: A-Z a-z 0-9 .\_\/~%-+&#?!=()@ \x80-\xFF. If a URL contains a different character it should be converted; for example, ^ has to be written %5E (to be looked up in [ASCII](https://en.wikipedia.org/wiki/ascii)).
  | 
 ```
 Or just give the URL: 
@@ -615,4 +615,4 @@ the [[Metaweb FAQ| wiki markup]]</nowiki>
 
 At the current status of the wiki markup language, at least four headers trigger the TOC in front of the first header (or after introductory sections). Putting \_\_NOTOC\_\_ anywhere forces the TOC to disappear.
 
-*This entry originally from the [Wikipedia](/http-www-wikipedia-org)*
+*This entry originally from the [Wikipedia](http://www.wikipedia.org)*

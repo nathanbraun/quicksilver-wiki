@@ -11,7 +11,7 @@ More recently, I and my co-workers at Applied Minds have begun a
 project called "The Metaweb" which bears little resemblance to this
 site. Applied Minds will soon remove the link from metaweb.com's front
 page to here. If you wish to reach this site, you will need to use the
-URL [www.metaweb.com/wiki/wiki.phtml?title=Main\_Page](/http-www-metaweb-com-wiki-wiki-phtml-title-main-page).
+URL [www.metaweb.com/wiki/wiki.phtml?title=Main\_Page](http://www.metaweb.com/wiki-wiki-phtml-title-main-page).
 
 It's a fair guess that Applied Minds may take this site down in the
 future. The content here is licensed under the GNU FDL, so you are

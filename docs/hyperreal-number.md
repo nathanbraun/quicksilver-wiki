@@ -99,4 +99,4 @@ Now it turns out that every *finite* nonstandard real number is "very close" to 
 
 
 * Abraham Robinson: *Nonstandard Analysis*, Princeton University Press 1996. The standard reference at a graduate school level.
-* [Jordi Gutierrez Hermoso](/http-mathforum-org-dr-math-faq-analysis-hyperreals-html): *Nonstandard Analysis and the Hyperreals*  A gentle introduction.
+* [Jordi Gutierrez Hermoso](http://mathforum.org/dr-math-faq-analysis-hyperreals.html): *Nonstandard Analysis and the Hyperreals*  A gentle introduction.

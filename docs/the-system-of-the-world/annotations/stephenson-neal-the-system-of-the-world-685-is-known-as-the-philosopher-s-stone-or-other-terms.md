@@ -115,9 +115,9 @@ The philosopher's stone has appeared in several works of , such as:
 ### External links
 
 
-* [Ancients & Alchemists](/http-www-chemheritage-org-explore-ancients-hayyan-html)
-* [Britannica article](/http-www-britannica-com-eb-article-tocid-9043128)
-* [Geber..., His Life and Works By Harold P. Gaw](/http-www-hexagongirl-com-y-17-geber-html)
+* [Ancients & Alchemists](http://www.chemheritage.org/explore-ancients-hayyan.html)
+* [Britannica article](http://www.britannica.com/eb-article-tocid-9043128)
+* [Geber..., His Life and Works By Harold P. Gaw](http://www.hexagongirl.com/y-17-geber.html)
 * [Ibn Jabir Hayyan](/http-213-176-24-20-chemist-jabir-htm) at the Iranian J. of Chem. & Chem. Eng. website.
 * [List of Iranian scientists](/)
 * [List of Muslims](/)

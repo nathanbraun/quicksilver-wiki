@@ -106,14 +106,14 @@ end speech...
 ### INTERNET RESOURCES
 
 
-* [The People's War in Peru: Information about the Communist Party of Peru.](/http-www-blythe-org-peru-pcp-index-html) Includes Presidente Gonzalo's Interview of the Century
-* [Committee to Support the Revolution in Peru](/http-www-csrp-org).  An organization out of Berkeley, CA that provides propaganda and recent newsworthy information on Sendero.
-* [North American Congress on Latin America](/http-www-serve-com-nacla) NACLA is an independent, non-profit organization founded in 1966.  The home page includes a search engine and annotated citations of articles from recent issues of *NACLA Report on the Americas.*
-* [Latin American Resource Review - Peru.](/http-www-worldmedia-com-rcta-period-larr-larr0101-htm) -Provides information and abstracts for recently published books on Peru.
+* [The People's War in Peru: Information about the Communist Party of Peru.](http://www.blythe.org/peru-pcp-index.html) Includes Presidente Gonzalo's Interview of the Century
+* [Committee to Support the Revolution in Peru](http://www.csrp.org).  An organization out of Berkeley, CA that provides propaganda and recent newsworthy information on Sendero.
+* [North American Congress on Latin America](http://www.serve.com/nacla) NACLA is an independent, non-profit organization founded in 1966.  The home page includes a search engine and annotated citations of articles from recent issues of *NACLA Report on the Americas.*
+* [Latin American Resource Review - Peru.](http://www.worldmedia.com/rcta-period-larr-larr0101.htm) -Provides information and abstracts for recently published books on Peru.
 
 The following 2 links are resource sites that attempt to organize the hundreds of web sites relating to Latin America. They provide useful indexes and hundreds of links.
-* [Internet Resources for Latin America.](/http-lib-nmsu-edu-subject-bord-laguia)
-* [Library of Congress Country Studies/Area Handbooks](/http-lcweb2-loc-gov-frd-cs-cshome-html)
+* [Internet Resources for Latin America.](http://lib.nmsu.edu/subject-bord-laguia)
+* [Library of Congress Country Studies/Area Handbooks](http://lcweb2.loc.gov/frd-cs-cshome.html)
 
 
 ### ELECTRONIC LISTS

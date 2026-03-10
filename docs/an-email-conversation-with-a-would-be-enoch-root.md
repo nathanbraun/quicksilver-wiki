@@ -61,7 +61,7 @@ Sorry, I couldn't find a mail exchanger or IP address. (#5.4.4)
 --- Below this line is a copy of the message.
 Return-Path: <mlorrey@yahoo.com>
 Received: (qmail 88947 invoked by uid 60001); 10 Feb 2005 16:30:20 -0000
-Comment: DomainKeys? See [http://antispam.yahoo.com/domainkeys](/http-antispam-yahoo-com-domainkeys)
+Comment: DomainKeys? See [http://antispam.yahoo.com/domainkeys](http://antispam.yahoo.com/domainkeys)
 DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=s1024; d=yahoo.com; b=pBbkTRrpujRJQpZQw32q4uEXed5dsSzc2xGJZjFgh8antYSLpY4Kewr1yemACjv36QXLf6kpECnmGH/HcJVpVqzqnlD7V2vPwhFekuIihH7x+iqpd8i3NIlq9VE9icO7ohFhhIbDM86ta9Td5IADR3/PestTVCWKL7k2/dmpDKE=;
 Message-ID: <20050210163020.88945.qmail@web30708.mail.mud.yahoo.com>
 Received: from [155.212.77.162] by web30708.mail.mud.yahoo.com via HTTP; Thu, 

@@ -25,7 +25,7 @@ From the Quicksilver Metaweb.
 
 Newtonian physics assumes a direct action between cause and effect. Electric and magnetic fields pose a dilemma for this interpretation since there is no direct contact between the two charges, rather there is an action at a distance.
 
-### [Quote:](/http-hydro4-sci-fau-edu-rjordan-phy1931-newton-newton-htm)
+### [Quote:](http://hydro4.sci.fau.edu/rjordan-phy1931-newton-newton.htm)
 
 
 * **  The single underlying force was gravity, that is a force that acts not through direct contact like pushing or pulling, but at a distance. **
@@ -64,7 +64,7 @@ To resolve this dilemma it was postulated that there is an exchange of force car
 ### External links
 
 
-* **[Peter McBurney's Fatio page](/http-www-csc-liv-ac-uk-peter-this-month-fatio-bio-html)**
-* **[Gelman revisits the Push Theory](/http-gravity-ontheinter-net)**
-* **[Bohm Interpretation](/http-en-wikipedia-org-wiki-bohm-interpretation)**
-* **[Quantum entanglements](/http-en-wikipedia-org-wiki-quantum-entanglement)**
+* **[Peter McBurney's Fatio page](http://www.csc.liv.ac.uk/peter-this-month-fatio-bio.html)**
+* **[Gelman revisits the Push Theory](http://gravity.ontheinter.net)**
+* **[Bohm Interpretation](https://en.wikipedia.org/wiki/bohm-interpretation)**
+* **[Quantum entanglements](https://en.wikipedia.org/wiki/quantum-entanglement)**

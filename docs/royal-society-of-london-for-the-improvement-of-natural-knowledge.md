@@ -33,7 +33,7 @@ The origins of the Royal Society lie in a group of men who began meeting around 
 **Frontispiece of Pratt's The History of the Royal Society of London for the Improving of Natural Knowledge**  
 by Wenceslaus Hollar
 
-On its frontipiece, one can see several [Masonic](/http-en-wikipedia-org-wiki-freemasonry) symbols shown on this image -- note that [Charles II's](/http-en-wikipedia-org-wiki-charles-ii-of-england) bust is resting on a [Enochian](/stephenson-neal-quicksilver-enoch-root) column. The link to the bibical [Enoch](/stephenson-neal-quicksilver-enoch-root) is that Masons hold the [Bibical Enoch](/http-en-wikipedia-org-wiki-enoch) to be a temple builder.
+On its frontipiece, one can see several [Masonic](https://en.wikipedia.org/wiki/freemasonry) symbols shown on this image -- note that [Charles II's](https://en.wikipedia.org/wiki/charles-ii-of-england) bust is resting on a [Enochian](/stephenson-neal-quicksilver-enoch-root) column. The link to the bibical [Enoch](/stephenson-neal-quicksilver-enoch-root) is that Masons hold the [Bibical Enoch](https://en.wikipedia.org/wiki/enoch) to be a temple builder.
 
 • The frontispiece was most likely done by Wenceslaus Hollar though it is identified as being John Evelyn's work.
 
@@ -55,7 +55,7 @@ From the beginning, Fellows of the Society had to be elected, although the crite
 
 Many important figures such as [Isaac Newton](/isaac-newton), [Edmund Halley](/edmund-halley), [Jonathan Swift](/jonathan-swift) and [George Berkeley](/george-berkeley) had interactions with the Royal Society. It is the single most important academic and professional forum of the entire [Baroque era](/baroque-era). It is hard to over-estimate its importance to science.
 
-It was not universally popular and certainly not a fount of wisdom. Much protoscience and pseudoscience and Platonist fantasy was launched or encouraged there. [Jonathan Swift](/jonathan-swift)'s fictional narrator [Lemuel Gulliver](/lemuel-gulliver) chronicled in [Gulliver's Travels](/http-en2-wikipedia-org-wiki-gulliver-s-travels) a visit to the land of [Laputa](/laputa), which is widely known to be a satire of the **Royal Society's** early attempts at 'empirical' science.
+It was not universally popular and certainly not a fount of wisdom. Much protoscience and pseudoscience and Platonist fantasy was launched or encouraged there. [Jonathan Swift](/jonathan-swift)'s fictional narrator [Lemuel Gulliver](/lemuel-gulliver) chronicled in [Gulliver's Travels](https://en.wikipedia.org/wiki/gulliver-s-travels) a visit to the land of [Laputa](/laputa), which is widely known to be a satire of the **Royal Society's** early attempts at 'empirical' science.
 
 [Isaac Newton](/isaac-newton) is reputed to have refused to present the [elliptical](/elliptical) [orbit](/low-earth-orbit-leo) to the **Royal Society**, simply because he considered them to be idiots who would waste his valuable time. It was only [Edmund Halley](/edmund-halley) who managed to convince him to publish, by offering to intercede and justify his results.
 
@@ -72,13 +72,13 @@ It was not universally popular and certainly not a fount of wisdom. Much protosc
 ### External links
 
 
-* [http://en.wikipedia.org/wiki/Robert\_Boyle](/http-en-wikipedia-org-wiki-robert_boyle)
-* [http://www.sirbacon.org/royalsociety.htm](/http-www-sirbacon-org-royalsociety-htm)
-* [http://www.princeton.edu/~hos/h591/591f01.html](/http-www-princeton-edu-hos-h591-591f01-html)
-* [http://www.mastermason.com/BrotherGene/craft/masonic\_legends.htm](/http-www-mastermason-com-brothergene-craft-masonic_legends-htm)
-* [http://en.wikipedia.org/wiki/Freemasonry](/http-en-wikipedia-org-wiki-freemasonry)
-* [http://en.wikipedia.org/wiki/Charles\_II\_of\_England](/http-en-wikipedia-org-wiki-charles_ii_of_england)
-* [http://en.wikipedia.org/wiki/Enoch](/http-en-wikipedia-org-wiki-enoch)
+* [http://en.wikipedia.org/wiki/Robert\_Boyle](https://en.wikipedia.org/wiki/robert_boyle)
+* [http://www.sirbacon.org/royalsociety.htm](http://www.sirbacon.org/royalsociety.htm)
+* [http://www.princeton.edu/~hos/h591/591f01.html](http://www.princeton.edu/hos-h591-591f01.html)
+* [http://www.mastermason.com/BrotherGene/craft/masonic\_legends.htm](http://www.mastermason.com/brothergene-craft-masonic_legends.htm)
+* [http://en.wikipedia.org/wiki/Freemasonry](https://en.wikipedia.org/wiki/freemasonry)
+* [http://en.wikipedia.org/wiki/Charles\_II\_of\_England](https://en.wikipedia.org/wiki/charles_ii_of_england)
+* [http://en.wikipedia.org/wiki/Enoch](https://en.wikipedia.org/wiki/enoch)
 * [http://eir.library.utoronto.ca/rpo/display/poem557.html](/http-eir-library-utoronto-ca-rpo-display-poem557-html)
-* [Royal Society's home page](/http-www-royalsoc-ac-uk)
-* [Gullivers Travels](/http-en2-wikipedia-org-wiki-gulliver-s-travels), with extended excerpts from the (now public domain) book, for a contemporary perspective.
+* [Royal Society's home page](http://www.royalsoc.ac.uk)
+* [Gullivers Travels](https://en.wikipedia.org/wiki/gulliver-s-travels), with extended excerpts from the (now public domain) book, for a contemporary perspective.

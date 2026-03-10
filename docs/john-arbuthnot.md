@@ -45,4 +45,4 @@ Alexander Pope's "Epistle to Dr. Arbuthnot" was written to him.
 
 
 * [Jonathan Swift](/http-mural-uv-es-sanfello-biography-html)
-* [John Gay](/http-en-wikipedia-org-wiki-john-gay)
+* [John Gay](https://en.wikipedia.org/wiki/john-gay)

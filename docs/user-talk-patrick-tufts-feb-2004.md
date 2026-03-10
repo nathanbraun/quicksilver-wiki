@@ -55,7 +55,7 @@ Pat? can we get **Enoch Root** to work like [Stephenson:Neal:Quicksilver:Enoch R
 ---
 
 
-Just a quick question (not sure if this is where to put it). I have a piece of fiction to annotate (published in [Horrors of the Z'Bri](/http-www-dp9-com-products-dp9-806-htm)), but it lies in the quasi-legitimate state of roleplaying game fiction. Would annotations for this sort of material still be welcome here? --[Zak](/user-zak-arntson) 14:57, 2003 Dec 17 (PST)
+Just a quick question (not sure if this is where to put it). I have a piece of fiction to annotate (published in [Horrors of the Z'Bri](http://www.dp9.com/products-dp9-806.htm)), but it lies in the quasi-legitimate state of roleplaying game fiction. Would annotations for this sort of material still be welcome here? --[Zak](/user-zak-arntson) 14:57, 2003 Dec 17 (PST)
 
  For the time being, I'd like to stick to more widely known works and annotate those first. I think we need to have a few core books that become well annotated. Then we can branch out into other books and publications. --[66.237.54.130](/user-66-237-54-130) 18:15, 17 Dec 2003 (PST)
 

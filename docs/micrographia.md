@@ -60,5 +60,5 @@ This remarkable book is still read today, a new reprint will be on sale December
 ### External links
 
 
-* [ISBN 1891788027](/) **[Micrographia CD-ROM](/http-www-amazon-com-exec-obidos-tg-detail-1891788027-qid-1071649304-ref-sr-8-xs-ap-i0-xgl14-102-1145875-1634547-v-glance-s-books-n-507846-product-details)**
-* [ISBN 0486495647](/) **[Micrographia Reprint](/http-www-amazon-com-exec-obidos-tg-detail-0486495647-qid-1071649780-sr-1-3-ref-sr-1-3-102-1145875-1634547-v-glance-s-books)**
+* [ISBN 1891788027](/) **[Micrographia CD-ROM](http://www.amazon.com/exec-obidos-tg-detail-1891788027-qid-1071649304-ref-sr-8-xs-ap-i0-xgl14-102-1145875-1634547-v-glance-s-books-n-507846-product-details)**
+* [ISBN 0486495647](/) **[Micrographia Reprint](http://www.amazon.com/exec-obidos-tg-detail-0486495647-qid-1071649780-sr-1-3-ref-sr-1-3-102-1145875-1634547-v-glance-s-books)**

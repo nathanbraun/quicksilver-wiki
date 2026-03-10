@@ -23,7 +23,7 @@ Lord Woadmire is not related to the original ducal line of Qwghlm, the Moore fam
 
 1. Bilharzia (schistosomiasis): *Schistosoma haematobium* eggs were the first parasite eggs recorded in archaeological material. A paleoparasitologist named Moore found in Medieval English Latrines fossilized *trichuris*. Emergence and dispersing of schistosomiasis along the Nile was confirmed by current research in High Nubia, by the finding of *S. haematobium eggs* in natural mummified bodies dated of 2400 B.C.E.; Coprolites show this was done gradually through prehistoric Sahara favored by nomad caravans and the slave trade along the Nile. *S. haematobium* eggs were found in a pit adjacent to a house of the 15th-16th century, in France. In the same latrine S. mansoni eggs were also found. It is interesting to discuss the presence of both parasites in the same context. Both urogenital and intestinal schistosomiasis are considered of African origin. Regarding the find of both species of schistosomes in France, it is possible that an European could have been infected during a trip to Africa. On the other hand, as was a common practice during the 15th and 16th centuries, an infected African brought to France might have eliminated these eggs. It is also interesting to note that apart the well preserved eggs, a fragmented worm body was found , showing the extremely good conditions to preserve organic material in this kind of environment.
 
-Moore, Peter D., 1981. Life seen from a medieval latrine. [Nature](/http-www-nature-com) 294 : 614.
+Moore, Peter D., 1981. Life seen from a medieval latrine. [Nature](http://www.nature.com) 294 : 614.
 
 2. Suicide: Seems to envelope the Italian, Czech and Germanic Duchies. *Grand Fenwick anybody?*
 
@@ -31,7 +31,7 @@ Moore, Peter D., 1981. Life seen from a medieval latrine. [Nature](/http-www-nat
 
 4. Google this with a ~ducal modifier gets one *[Andromeda](/)* fanfiction and [Frank Herbert](/)'s [Dune](/).
 
-5. **[The Muscovite Wars and the Polish Ascendancy (1648-1700)](/http-minsk-4mg-com-t1htm-htm)**
+5. **[The Muscovite Wars and the Polish Ascendancy (1648-1700)](http://minsk.4mg.com/t1htm.htm)**
 
 6. Lord Ellesmere ended his branch in 1878 toppling from horseback it seems.
 

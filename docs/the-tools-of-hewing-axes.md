@@ -7,7 +7,7 @@ From the Quicksilver Metaweb.
 # A discussion of tools
 
 
-At it's most basic, this is a [Felling Axe](/http-treemanknives-com-tek9-asp-pg-products-specific-jomqmml4), a [Broad Axe](/http-www-shelterinstitute-com-catalog-product-info-php-cpath-2-18-products-id-39), Chalk, Chalk line, Spirit Level (Two Foot, minimum length -- No Torpedo levels here), and/or Plumb Bob, Permanent Cribing, or Portable Hewing Horses and Dogs (Manner of "Dogging Down", or afixing the Log to the Cribbing, or Horses), and that's pretty much it.
+At it's most basic, this is a [Felling Axe](http://treemanknives.com/tek9-asp-pg-products-specific-jomqmml4), a [Broad Axe](http://www.shelterinstitute.com/catalog-product-info-php-cpath-2-18-products-id-39), Chalk, Chalk line, Spirit Level (Two Foot, minimum length -- No Torpedo levels here), and/or Plumb Bob, Permanent Cribing, or Portable Hewing Horses and Dogs (Manner of "Dogging Down", or afixing the Log to the Cribbing, or Horses), and that's pretty much it.
 ## The Felling Axe
 
 

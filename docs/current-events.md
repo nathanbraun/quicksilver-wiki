@@ -3,7 +3,7 @@
 
 From the Quicksilver Metaweb.
 
-Note: the *current events* link to the left is a holdover from the [Wikipedia](/http-www-wikipedia-org)'s configuration and will probably go away.
+Note: the *current events* link to the left is a holdover from the [Wikipedia](http://www.wikipedia.org)'s configuration and will probably go away.
 
 ### Author Sightings
 
@@ -15,14 +15,14 @@ Note: the *current events* link to the left is a holdover from the [Wikipedia](/
 ### Current Events ala [The Confusion](/the-confusion):
 
 
-* [Talk of Witches at Vatican Inquisition Conference](/http-www-reuters-com-newsarticle-jhtml-type-oddlyenoughnews-storyid-5436308) - Pope cops to Church not acting in a [Christian](/christianity)-enough manner while attempting to curb heresy beginning in 1233.
+* [Talk of Witches at Vatican Inquisition Conference](http://www.reuters.com/newsarticle-jhtml-type-oddlyenoughnews-storyid-5436308) - Pope cops to Church not acting in a [Christian](/christianity)-enough manner while attempting to curb heresy beginning in 1233.
 
 
 ### Current Events ala [Cryptonomicon](/cryptonomicon):
 
 
-* [World's First Mobile Virus Is Not Lethal, Yet](/http-www-reuters-com-newsarticle-jhtml-type-technologynews-storyid-5439018) - seems **Men** are capable of **evil**. [Avi Halaby](/avi-halaby)'s paranoia would be justified.
-* [Seattle Sci-Fi Museum Braces for Visitor Invasion](/http-www-reuters-com-newsarticle-jhtml-type-sciencenews-storyid-5430879) - think of Chester.
+* [World's First Mobile Virus Is Not Lethal, Yet](http://www.reuters.com/newsarticle-jhtml-type-technologynews-storyid-5439018) - seems **Men** are capable of **evil**. [Avi Halaby](/avi-halaby)'s paranoia would be justified.
+* [Seattle Sci-Fi Museum Braces for Visitor Invasion](http://www.reuters.com/newsarticle-jhtml-type-sciencenews-storyid-5430879) - think of Chester.
 
 
 ### Current Events a la the [Metaverse](/metaverse)
@@ -32,9 +32,9 @@ Note: the *current events* link to the left is a holdover from the [Wikipedia](/
 Thomas Congressional Database to Be Revamped
 All kinds of rumored new features. One thing's for
 sure - it'll probably break all those web-scrapers:
-[Article Link](/http-www-fcw-com-article90072-08-17-05-web)
+[Article Link](http://www.fcw.com/article90072-08-17-05-web)
 
-[Russias Biggest Spammer Brutally Murdered in Apartment](/http-mosnews-com-news-2005-07-25-spammerdead-shtml)  
+[Russias Biggest Spammer Brutally Murdered in Apartment](http://mosnews.com/news-2005-07-25-spammerdead-shtml)  
 
 Created: 25.07.2005 13:14 MSK (GMT +3), Updated: 14:24 MSK, 8 hours 37 minutes ago  
 
@@ -50,7 +50,7 @@ Kushnir, 35, headed the English learning centers the Center for American English
 ### Scaled Composites and Virgin Galactic announce The Spaceship Company
 
 
-[Richard Branson and Burt Rutan Form Spacecraft Building Company](/http-www-space-com-news-050727-branson-rutan-html)  
+[Richard Branson and Burt Rutan Form Spacecraft Building Company](http://www.space.com/news-050727-branson-rutan.html)  
 
 By Leonard David  
 
@@ -96,13 +96,13 @@ Robert Bigelow hopes will constitute the worlds first orbital hotel.**
 [![Bigelow Space Bungalows](/web/20060725165509im_/http://www.metaweb.com/wiki/upload/a/a5/Bigelowbanner.jpg)](bigelow-space-bungalows)  
 **Various configurations of space stations  
 using Bigelows inflatable habitat modules.**
-American entrepreneur Robert Bigelow, Budget Suites of America hotel chain owner and founder of [Bigelow Aerospace](/http-www-bigelowaerospace-com-index-html), has announced a new space prize of $50 million to the American based team that can launch an orbital passenger ship to supply passenger transport and support services to Bigelows planned orbital hotel resort. Bigelow's pioneering inflatable space habitat modules promise reliable and affordable modular construction of space habitats, both in orbit and on lunar/asteroidal surfaces, as well as for use in interplanetary spacecraft like Bigelow's proposed "Nautilus Moon Cruiser".
+American entrepreneur Robert Bigelow, Budget Suites of America hotel chain owner and founder of [Bigelow Aerospace](http://www.bigelowaerospace.com/index.html), has announced a new space prize of $50 million to the American based team that can launch an orbital passenger ship to supply passenger transport and support services to Bigelows planned orbital hotel resort. Bigelow's pioneering inflatable space habitat modules promise reliable and affordable modular construction of space habitats, both in orbit and on lunar/asteroidal surfaces, as well as for use in interplanetary spacecraft like Bigelow's proposed "Nautilus Moon Cruiser".
 
 [![Mooncruise01.jpg](/web/20060725165509im_/http://www.metaweb.com/wiki/upload/f/f3/Mooncruise01.jpg)](mooncruise01-jpg)
 ### Link
 
 
-* [Pop Sci Article](/http-www-popsci-com-popsci-aviation-article-0-20967-1027551-00-html)
+* [Pop Sci Article](http://www.popsci.com/popsci-aviation-article-0-20967-1027551-00.html)
 
 
 ### Oh Well, You've Seen One Reddish Deserted Planet, You've Seen 'Em All...
@@ -118,23 +118,23 @@ Photographs from the descent spotted river systems and mountainous terrain, but 
 ### Cassini-Huygens
 
 
-* [http://astron.berkeley.edu/~madamkov/titan/](/http-astron-berkeley-edu-madamkov-titan) ![Cassini-spacecraftMW.jpg](/images/Cassini-spacecraftMW.jpg)  
+* [http://astron.berkeley.edu/~madamkov/titan/](http://astron.berkeley.edu/madamkov-titan) ![Cassini-spacecraftMW.jpg](/images/Cassini-spacecraftMW.jpg)  
 **Moon Phoebe and  
 the Cassini Spacecraft  
 More information and images from the  
 Phoebe fly-by are available  
-online at [NASA](/http-saturn-jpl-nasa-gov)**
+online at [NASA](http://saturn.jpl.nasa.gov)**
 
 
 In separate new observations by the Keck Telescope in Hawaii, astronomers have peered into Titan's smoggy atmosphere and produced an animated plunge through it. The studies may help mission managers make final plans for observations by the Cassini spacecraft and its piggybacked Huygens probe, which will parachute to the surface of Titan early next year. 
 Cassini-Huygens will go into orbit around Saturn in July after a nearly seven-year journey. The mothership will explore Saturn's atmosphere, rings and moons, including Titan on several flybys. Huygens is expected to provide a remarkable and potentially breakthrough look at the unexplored surface of Titan and, scientists hope, reveal in pictures and other data how much Titan resembles the planet Earth in its early years.
 
-### [Plane Soars Out of Earth's Atmosphere](/http-apnews1-iwon-com-article-20040621-d83bh9480-html)
+### [Plane Soars Out of Earth's Atmosphere](http://apnews1.iwon.com/article-20040621-d83bh9480.html)
 
 
 MOJAVE, Calif. (AP) - A rocket plane soared above Earth's atmosphere Monday in the first privately financed manned spaceflight, then glided back to Earth for an unpowered landing. SpaceShipOne pilot Mike Melvill was aiming to fly 62 miles above the...
 
-### [Private rocket ship breaks space barrier](/http-www-msnbc-msn-com-id-5261571)
+### [Private rocket ship breaks space barrier](http://www.msnbc.msn.com/id-5261571)
 
 
 **'Almost a religious experience,' says history-making pilot**  
@@ -144,7 +144,7 @@ MOJAVE, Calif. - With a triumphant thumbs-up and a broad grin, the pilot of the 
 "I feel great, I really do!" pilot Mike Melvill exclaimed after emerging from his craft on the tarmac of the Mojave Airport here. ...
 
 
-### [Ansari X Prize](/http-www-xprize-org-press-what-html) Sourced from Wikipedia
+### [Ansari X Prize](http://www.xprize.org/press-what.html) Sourced from Wikipedia
 
 
 The **ANSARI X PRIZE** (often just called the **X Prize**) is a $10,000,000 USD prize, to be awarded to the first non-government organization that can launch a reusable manned spacecraft into space.
@@ -175,30 +175,30 @@ Currently, the X Prize's funding will expire on January 1, 2005. Therefore, most
 
 
 * Acceleration Engineering
-* [Advent Launch Services](/http-www-ghg-net-jimakkerman)
+* [Advent Launch Services](http://www.ghg.net/jimakkerman)
 * [Aeronautics and Cosmonautics Romanian Assoc. (ARCA)](/http-www-arcaspace-ro)
 * [Armadillo Aerospace](/armadillo-aerospace)
-* [American Astronautics Corporation](/http-www-americanastronautics-com)
-* [Bristol Spaceplanes, Ltd](/http-www-bristolspaceplanes-com)
-* [Canadian Arrow](/http-www-canadianarrow-com)
-* [The da Vinci Project](/http-www-davinciproject-com)
+* [American Astronautics Corporation](http://www.americanastronautics.com)
+* [Bristol Spaceplanes, Ltd](http://www.bristolspaceplanes.com)
+* [Canadian Arrow](http://www.canadianarrow.com)
+* [The da Vinci Project](http://www.davinciproject.com)
 * Pablo de Leon & Associates
 * Discraft Corporation
 * Flight Exploration
 * Fundamental Technology Systems
-* [HARC](/http-www-harcspace-com)
-* [IL Aerospace Technologies](/http-www-ilat-net)
-* [Interorbital Systems](/http-www-interorbital-com)
-* [Kelly Space and Technology](/http-www-kellyspace-com)
-* [Lone Star Space Access Corporation](/http-www-lonestarspace-com)
-* [Micro-Space, Inc.](/http-www-micro-space-com)
-* [PanAero, Inc.](/http-www-tour2space-com)
-* [Pioneer Rocketplane, Inc.](/http-www-rocketplane-com)
+* [HARC](http://www.harcspace.com)
+* [IL Aerospace Technologies](http://www.ilat.net)
+* [Interorbital Systems](http://www.interorbital.com)
+* [Kelly Space and Technology](http://www.kellyspace.com)
+* [Lone Star Space Access Corporation](http://www.lonestarspace.com)
+* [Micro-Space, Inc.](http://www.micro.space.com)
+* [PanAero, Inc.](http://www.tour2space.com)
+* [Pioneer Rocketplane, Inc.](http://www.rocketplane.com)
 * [Scaled Composites, LLC](/scaled-composites)
-* [Space Transport Corporation](/http-www-space-transport-com)
+* [Space Transport Corporation](http://www.space.transport.com)
 * [Starchaser Industries](/starchaser-industries)
 * Suborbital Corporation
-* [TGV Rockets](/http-www-tgv-rockets-com)
+* [TGV Rockets](http://www.tgv.rockets.com)
 * Vanguard Spacecraft
 
 ![SpaceShipOne-09G.jpg](/images/SpaceShipOne-09G.jpg)  
@@ -231,7 +231,7 @@ On April 1, 2004, Scaled Composites received the first license for sub-orbital p
 
 On December 17, 2003 (100 years to the day since the Wright Brothers made the first powered flight) it made its first powered flight, following several months of glide tests. The test pilot was Brian Binnie, who took control when it was released from the carrier aircraft at 48,000 feet (14,630 m). During this first flight the rocket plane became the first privately-funded aircraft to go supersonic when it achieved a speed of 930 mph (Mach 1.2) and an altitude of 68,000 feet (20,725 m). It sustained damage in a rough landing (which included a runway excursionaccidentally going off the runwayand subsequent damage to the landing gear), but the broken parts were repairable and the pilot was not injured. After this accident, SpaceShipOne was repaired and flew again on March 11, 2004 in an unpowered glide test.
 
-On April 8, 2004, SpaceShipOne made its second powered flight, reaching Mach 2 and climbing to 105,000 feet (about 30km), above the Mojave Desert .[[1]](/http-www-space-com-missionlaunches-spaceshipone-test-040408-html)
+On April 8, 2004, SpaceShipOne made its second powered flight, reaching Mach 2 and climbing to 105,000 feet (about 30km), above the Mojave Desert .[[1]](http://www.space.com/missionlaunches-spaceshipone-test-040408.html)
 
 A third flight was made on May 13, 2004, this time reaching Mach 2.5 and an apogee of 212,000 feet (about 37.5 miles or 60km), breaking previous altitude records for a non-governmental craft. The pilot was Mike Melville. 
 
@@ -241,7 +241,7 @@ A flight scheduled for June 21, 2004 is expected to reach 100 km (62.5 miles) al
 
 **SpaceShipOne and White Knight during a captive carry test**
 
-### [A rocket flight for the common man?](/http-www-msnbc-msn-com-id-5197863)
+### [A rocket flight for the common man?](http://www.msnbc.msn.com/id-5197863)
 
 
 Leader in private space race predicts new era of tourism. June 21st will see the first 62.5 mile high private attempt.
@@ -250,10 +250,10 @@ Leader in private space race predicts new era of tourism. June 21st will see the
 
 Note: 2 of the X-Prize vehicles have crashed. No one hurt.
 
-* [Private Spaceship Completes Second Rocket-Powered Test Flight](/http-www-space-com-missionlaunches-spaceshipone-test-040408-html)
-* [SpaceShipOne](/http-scaled-com-projects-tierone-index-htm) at Scaled Composites's website
-* [*Private Craft to Shoot for Space* by Irene Mona Klotz, Discovery News](/http-dsc-discovery-com-news-briefs-20040531-xprize-print-html)
-* [Full List of Participants](/http-www-xprize-org)
-* [Historic rocket powered by rubber fuel](/http-www-msnbc-msn-com-id-5226424)
-* [How it is going to work](/http-msnbcmedia-msn-com-i-msnbc-components-interactives-technology-science-space-x-prize-v8x-spaceshipone-swf)
-* [New spaceport set for milestone mission](/http-www-msnbc-msn-com-id-5236958) - Privately funded launch stirs space dreams anew
+* [Private Spaceship Completes Second Rocket-Powered Test Flight](http://www.space.com/missionlaunches-spaceshipone-test-040408.html)
+* [SpaceShipOne](http://scaled.com/projects-tierone-index.htm) at Scaled Composites's website
+* [*Private Craft to Shoot for Space* by Irene Mona Klotz, Discovery News](http://dsc.discovery.com/news-briefs-20040531-xprize-print.html)
+* [Full List of Participants](http://www.xprize.org)
+* [Historic rocket powered by rubber fuel](http://www.msnbc.msn.com/id-5226424)
+* [How it is going to work](http://msnbcmedia.msn.com/i-msnbc-components-interactives-technology-science-space-x-prize-v8x-spaceshipone-swf)
+* [New spaceport set for milestone mission](http://www.msnbc.msn.com/id-5236958) - Privately funded launch stirs space dreams anew

@@ -42,4 +42,4 @@ Describing [Escape velocity](/escape-velocity) using Robert Heinlein's *Have Spa
 ### External links
 
 
-* [http://en2.wikipedia.org/wiki/Escape\_velocity](/http-en2-wikipedia-org-wiki-escape_velocity)
+* [http://en2.wikipedia.org/wiki/Escape\_velocity](https://en.wikipedia.org/wiki/escape_velocity)

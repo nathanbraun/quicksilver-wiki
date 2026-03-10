@@ -32,8 +32,8 @@ Please only use this page for genuine malicious vandalism, and only for a sustai
 Admins have the ability, and the authorisation, to block the IPs of persistent vandals. These blocks should last for a maximum of one month, in the case of static IPs. In the case of dynamic IPs, the blocks should be as shortlived as possible, to avoid inconveniencing genuine contributors.
 
 Tools for finding information on an IP number: 
-* [Google Watch (scroll down to "Who owns that IP number?")](/http-www-google-watch-org-cgi-bin-urldemo-htm)
-* [network tools](/http-network-tools-com)
+* [Google Watch (scroll down to "Who owns that IP number?")](http://www.google.watch.org/cgi-bin-urldemo.htm)
+* [network tools](http://network.tools.com)
 
 
 If an ex-vandal evades an IP block by obtaining a new IP, and starts making genuine (non-vandalism) contributions to Metaweb, then they will not be blocked or reverted simply because they used to be a vandal. We do not block vandals to punish them, but to preserve the integrity of Metaweb. If an ex-vandal has reformed, then our aims are accomplished.

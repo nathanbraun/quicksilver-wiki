@@ -29,4 +29,4 @@ In the novel, Nell is depicted as writing letters to her brother Harv, "written 
 ### External Links
 
 
-* [MediaGlyphs Project](/http-www-mediaglyphs-org-mg-index-eng-shtml)
+* [MediaGlyphs Project](http://www.mediaglyphs.org/mg-index-eng-shtml)

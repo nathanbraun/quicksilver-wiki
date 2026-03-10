@@ -27,7 +27,7 @@ A fictitious Puritan sect founded by [Gregory Bolstrood](/stephenson-neal-quicks
 
 
 The Great Revival of 1801, 1802, 1803, and the Introduction of Shakerism
-[http://www.rootsweb.com/~ohwarren/Beers/0267\_great-revival.htm](/http-www-rootsweb-com-ohwarren-beers-0267_great-revival-htm)
+[http://www.rootsweb.com/~ohwarren/Beers/0267\_great-revival.htm](http://www.rootsweb.com/ohwarren-beers-0267_great-revival.htm)
 
 ```
  
@@ -58,7 +58,7 @@ called barkers and others mewers [...]."
 
 ```
 The Black Death and the Dancing Mania by J.F.C. Hecker
-[[1]](/http-www-worldwideschool-org-library-books-hst-european-theblackdeathandthedancingmania-chap21-html)
+[[1]](http://www.worldwideschool.org/library-books-hst-european-theblackdeathandthedancingmania-chap21.html)
 
 ```
  

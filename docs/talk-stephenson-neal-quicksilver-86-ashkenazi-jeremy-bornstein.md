@@ -9,12 +9,12 @@ Jeremy? Please note that the article states: "... The Jewish community in Englan
 Cromwell's freeing the parishes from a central authority allowed Jews as Jews back into England proper. **Even though the man claimed to be from Poland -- he may not want two feckless youths to know his origins ...**   
 
 
-[Jewish Encyclopedia](/http-www-jewishencyclopedia-com-index-jsp) - (This website contains the complete contents of the 12-volume Jewish Encyclopedia, which was originally published between 1901-1906. The Jewish Encyclopedia, which recently became part of the public domain, contains over 15,000 articles and illustrations) - is a resource we can use if we stay alert to its limitations.  
+[Jewish Encyclopedia](http://www.jewishencyclopedia.com/index-jsp) - (This website contains the complete contents of the 12-volume Jewish Encyclopedia, which was originally published between 1901-1906. The Jewish Encyclopedia, which recently became part of the public domain, contains over 15,000 articles and illustrations) - is a resource we can use if we stay alert to its limitations.  
 
 
 Foot and links:  
 
-1. [Sephardic](/http-en-wikipedia-org-wiki-sephardi)] Jewish youths also were most likely to among [Christoper Columbus'](/http-en-wikipedia-org-wiki-christopher-columbus) crew on his first voyage due to a rather nasty deadline from the [Spanish Inquisition](/http-en-wikipedia-org-wiki-spanish-inquisition) which was purging the multicultural society of what had been Muslim Spain in 1492.
+1. [Sephardic](https://en.wikipedia.org/wiki/sephardi)] Jewish youths also were most likely to among [Christoper Columbus'](https://en.wikipedia.org/wiki/christopher-columbus) crew on his first voyage due to a rather nasty deadline from the [Spanish Inquisition](https://en.wikipedia.org/wiki/spanish-inquisition) which was purging the multicultural society of what had been Muslim Spain in 1492.
 
 ```
  

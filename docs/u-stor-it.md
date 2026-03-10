@@ -36,7 +36,7 @@ Dotcommers with money to burn were widely known to walk up to the doors of homeo
 
 Valley tech workers seem to have been prevented from turning self-storage units into suburbs only by the presence of a strong governmental building bureaucracy.
 
-There are now several housing developments that are stacked, prefabbed containers built as apartments, going up in several european locales, primarily on college campuses. The dutch firm [SpaceBox](/http-www-spacebox-info-index-eng-htm) designed and produced these stackable modular studio apartments. This technology was recently featured in the [Treehuggers blog](/http-www-treehugger-com-files-2005-01-almost-spacebox-php).
+There are now several housing developments that are stacked, prefabbed containers built as apartments, going up in several european locales, primarily on college campuses. The dutch firm [SpaceBox](http://www.spacebox.info/index-eng.htm) designed and produced these stackable modular studio apartments. This technology was recently featured in the [Treehuggers blog](http://www.treehugger.com/files-2005-01-almost-spacebox.php).
 
 #### Specifications for Spacebox unit; 18 m² mode1
 
@@ -111,7 +111,7 @@ There are now several housing developments that are stacked, prefabbed container
 ### External Links
 
 
-* [Betco, Inc.](/http-www-betcoinc-com)
-* [Betco also does affordable housing](/http-www-betcoinc-habitat-com-construction-htm)
-* [Treehugger Blog](/http-www-treehugger-com-files-2005-01-almost-spacebox-php)
-* [Spacebox](/http-www-spacebox-info)
+* [Betco, Inc.](http://www.betcoinc.com)
+* [Betco also does affordable housing](http://www.betcoinc.habitat.com/construction.htm)
+* [Treehugger Blog](http://www.treehugger.com/files-2005-01-almost-spacebox.php)
+* [Spacebox](http://www.spacebox.info)

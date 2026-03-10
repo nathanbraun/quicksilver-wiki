@@ -5,7 +5,7 @@ From the Quicksilver Metaweb.
 
 This is a page for **Titanomachy**, also known as the **Titanomachia**.
 
-### [Wikipedia: Titanomachy](/http-en-wikipedia-org-wiki-titanomachy)
+### [Wikipedia: Titanomachy](https://en.wikipedia.org/wiki/titanomachy)
 
 
 In Greek mythology, Titanomachy was the war between the Titans (fighting from Mt. Othrys) and the Olympians. It is also known as the Battle of Titans or Titan War. The war was foretold to Cronus by Gaia and Uranus because Cronus had refused to restore justice after his father was dethroned.
@@ -23,4 +23,4 @@ Having won victory after ten years of war, the Olympians divided the spoils betw
 ### External links
 
 
-* [Wikipedia: Titanomachy](/http-en-wikipedia-org-wiki-titanomachy) was the basis for this entry.
+* [Wikipedia: Titanomachy](https://en.wikipedia.org/wiki/titanomachy) was the basis for this entry.

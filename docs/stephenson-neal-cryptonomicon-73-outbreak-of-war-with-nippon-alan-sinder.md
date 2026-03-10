@@ -39,7 +39,7 @@ This is the [Cryptonomicon](/cryptonomicon) page for **Yamamoto Isoroku**
 
 ![260px-Yamamoto.jpg](/images/260px-Yamamoto.jpg)  
 **Admiral Yamamoto**  
-Click Link [for bigger image](/http-en-wikipedia-org-upload-b-bb-yamamoto-jpg)
+Click Link [for bigger image](http://en.wikipedia.org/upload-b-bb-yamamoto.jpg)
 
 **Yamamoto Isoroku** (山本 五十六) (April 4 ,1884 -April 18 ,1943) was the outstanding Japanese naval commander of World War II. 
 
@@ -94,8 +94,8 @@ To boost morale following Guadalcanal, Yamamoto decided to make a inspection tou
 ### Movie portrayals
 
 
-In the movies the late Japanese director [Kinji Fukasaku](/http-us-imdb-com-name-nm0297935)'s
-**[Tora! Tora! Tora!](/http-us-imdb-com-title-tt0066473)** and the weaker **[Pearl Harbor](/http-us-imdb-com-title-tt0213149)**, Yamamoto's character says, after the attack on Pearl Harbor, "I fear all we have done is to awaken a sleeping giant and fill him with a terrible resolve." Considerable doubt exists, though, whether he actually ever said (or wrote) anything like that; it was probably invented for the movies, although it may well have encapsulated some of his real feelings about it.
+In the movies the late Japanese director [Kinji Fukasaku](http://us.imdb.com/name-nm0297935)'s
+**[Tora! Tora! Tora!](http://us.imdb.com/title-tt0066473)** and the weaker **[Pearl Harbor](http://us.imdb.com/title-tt0213149)**, Yamamoto's character says, after the attack on Pearl Harbor, "I fear all we have done is to awaken a sleeping giant and fill him with a terrible resolve." Considerable doubt exists, though, whether he actually ever said (or wrote) anything like that; it was probably invented for the movies, although it may well have encapsulated some of his real feelings about it.
 
 ### Isoroku Yamamoto's sleeping giant quote
 
@@ -133,7 +133,7 @@ Interestingly, the other common Yamamoto quote predicting the future outcome of 
 ### External links
 
 
-* [Purple](/http-en2-wikipedia-org-wiki-cryptography-world-war-ii-cryptography)
-* [The Quote](/http-en-wikipedia-org-wiki-isoroku-yamamoto-s-sleeping-giant-quote)
-* [Purple code](/http-en2-wikipedia-org-wiki-purple-code)
-* [Tora! Tora! Tora!](/http-us-imdb-com-title-tt0066473)
+* [Purple](https://en.wikipedia.org/wiki/cryptography-world-war-ii-cryptography)
+* [The Quote](https://en.wikipedia.org/wiki/isoroku-yamamoto-s-sleeping-giant-quote)
+* [Purple code](https://en.wikipedia.org/wiki/purple-code)
+* [Tora! Tora! Tora!](http://us.imdb.com/title-tt0066473)

@@ -13,4 +13,4 @@ subsequent mention of her and I don't find it, but I remember a
 paragraph somewhere about the results of their experiments. It may
 have mentioned only Lenz and Poor Tony though.
 
-Dan Schmidt | dfan@[omitted] | [http://www2.lglass.com/~dfan](/http-www2-lglass-com-dfan)
+Dan Schmidt | dfan@[omitted] | [http://www2.lglass.com/~dfan](http://www2.lglass.com/dfan)

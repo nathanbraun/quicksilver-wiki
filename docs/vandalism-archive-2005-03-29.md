@@ -157,7 +157,7 @@ random cussing - ID blocked
 1. 19:30, 2005 Feb 20 Curse of the Bambino
 2. 19:30, 2005 Feb 20 Curse of the Bambino
 
-Commercial spammer - ID blocked. Another [Chinese spammer](/http-www-dnsstuff-com-tools-whois-ch-ip-222-64-127-91). - [DaveSeidel](/user-daveseidel) 07:32, 20 Feb 2005 (PST)
+Commercial spammer - ID blocked. Another [Chinese spammer](http://www.dnsstuff.com/tools-whois-ch-ip-222-64-127-91). - [DaveSeidel](/user-daveseidel) 07:32, 20 Feb 2005 (PST)
 
 ### Idrix
 
@@ -205,7 +205,7 @@ Spammer and Asshat, Id blocked
 1. 03:09, 2005 Feb 18 Metaweb:Editing FAQ *A block of spam links at the bottom of the page*
 
 
-Another [Chinese ISP](/http-www-dnsstuff-com-tools-whois-ch-ip-61-242-178-231). - [DaveSeidel](/user-daveseidel) 04:08, 18 Feb 2005 (PST)
+Another [Chinese ISP](http://www.dnsstuff.com/tools-whois-ch-ip-61-242-178-231). - [DaveSeidel](/user-daveseidel) 04:08, 18 Feb 2005 (PST)
 
 ### 161.53.86.10
 
@@ -223,7 +223,7 @@ Another [Chinese ISP](/http-www-dnsstuff-com-tools-whois-ch-ip-61-242-178-231). 
 11. 15:36, 2005 Feb 13 Metaweb:Projects
 
 
-The first six pages in the list above were added by the spammer, snd should be deleted. This guy's using a Croatian ISP (see [IPWHOIS](/http-www-dnsstuff-com-tools-whois-ch-ip-161-53-86-10)). Also, it would be nice to be able to completely the remove the history entries for spammers, for two reasons: to make it harder for theme to restore spam, and to save disk space on the server. - [DaveSeidel](/user-daveseidel) 13:03, 13 Feb 2005 (PST)
+The first six pages in the list above were added by the spammer, snd should be deleted. This guy's using a Croatian ISP (see [IPWHOIS](http://www.dnsstuff.com/tools-whois-ch-ip-161-53-86-10)). Also, it would be nice to be able to completely the remove the history entries for spammers, for two reasons: to make it harder for theme to restore spam, and to save disk space on the server. - [DaveSeidel](/user-daveseidel) 13:03, 13 Feb 2005 (PST)
 
 ### 220.140.48.224
 
@@ -237,7 +237,7 @@ The first six pages in the list above were added by the spammer, snd should be d
 7. 05:15, 2005 Feb 14 Metaweb:How to edit a page
 8. 05:15, 2005 Feb 14 Metaweb:How to edit a page
 
-(Shopping.balashov.su) needs total URL Block and banishment. From a Taiwanese ISP (see this [IPWHOIS query](/http-www-dnsstuff-com-tools-whois-ch-ip-220-140-48-224-server-whois-twnic-net)). I really think that this page should be protected from editing except by admins. - [DaveSeidel](/user-daveseidel) 12:28, 13 Feb 2005 (PST) I'll try. - [Sparky](/user-stsparky)
+(Shopping.balashov.su) needs total URL Block and banishment. From a Taiwanese ISP (see this [IPWHOIS query](http://www.dnsstuff.com/tools-whois-ch-ip-220-140-48-224-server-whois-twnic-net)). I really think that this page should be protected from editing except by admins. - [DaveSeidel](/user-daveseidel) 12:28, 13 Feb 2005 (PST) I'll try. - [Sparky](/user-stsparky)
 
 ### 148.244.150.58
 
@@ -941,12 +941,12 @@ Weird Chinese links
 ### 68.157.171.191
 
 
-then edited [Http://www.rottentomatoes.com/m/LiveandLetDie-1012541/](/http-www-rottentomatoes-com-m-liveandletdie-1012541) with a meme variant of "All your bases ..." - [Sparky](/user-stsparky)
+then edited [Http://www.rottentomatoes.com/m/LiveandLetDie-1012541/](http://www.rottentomatoes.com/m-liveandletdie-1012541) with a meme variant of "All your bases ..." - [Sparky](/user-stsparky)
 
 ### 217.132.115.90
 
  
-created a page [Http://www.rottentomatoes.com/m/LiveandLetDie-1012541/](/http-www-rottentomatoes-com-m-liveandletdie-1012541) with casino links - [Sparky](/user-stsparky) 11:20, 2004 Jul 13 (PDT)
+created a page [Http://www.rottentomatoes.com/m/LiveandLetDie-1012541/](http://www.rottentomatoes.com/m-liveandletdie-1012541) with casino links - [Sparky](/user-stsparky) 11:20, 2004 Jul 13 (PDT)
 
 ### 213.161.144.166
 

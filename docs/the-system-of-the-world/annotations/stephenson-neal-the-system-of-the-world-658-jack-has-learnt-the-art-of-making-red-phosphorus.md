@@ -26,7 +26,7 @@ this page is about **phosphorus**
 **Imagine one on the letter**
 [Princess Caroline](/caroline-of-ansbach)'s letter *METAPHORICALLY* is likened to **White Phosphorus** and generated even odder behavior amongst the Harvard elites on the Charlestown Ferry. [Enoch Root](/enoch-root) loses patience with the don and his waggish toadies. He correctly gauges the amount of progress there by their interest in his activities...
 
-### [Phosphorus](/http-en-wikipedia-org-wiki-phosphorus)
+### [Phosphorus](https://en.wikipedia.org/wiki/phosphorus)
 
 
 **Phosphorus** is a chemical element in the periodic table that has the symbol P and atomic number 15. A multivalent, nonmetal of the nitrogen group, phosphorus is commonly found in inorganic phosphate rocks and in all living cells but is never naturally found alone. It is highly reactive, gives-off a faint glow upon uniting with oxygen (hence its name), occurs in several forms and is an essential element for living organisms.The most important use of phosphorus is in the production of fertilizers. It is also widely used in explosives, friction matches, fireworks, pesticides, toothpaste, and detergents.
@@ -136,8 +136,8 @@ The only correct spelling of the element is phosphorus. There does exist a word 
 
 * [Starlitz](/)
 * [Zeitgeist](/), a novel by [Bruce Sterling](/), relates to [Quicksilver](/quicksilver), by [Neal Stephenson](/neal-stephenson).
-* [Phobe Zeitgeist](/http-www-lambiek-net-springer-frank-htm) Frank Springer and Michael O'Donoghue
-* [WebElements.com - Phosphorus](/http-www-webelements-com-webelements-elements-text-p-index-html)
-* [EnvironmentalChemistry.com - Phosphorus](/http-environmentalchemistry-com-yogi-periodic-p-html)
-* [Phosphorus](/http-en-wikipedia-org-wiki-phosphorus)
-* [ISBN 047144149X](/) Emsley, John [The 13th Element: The Sordid Tale of Murder, Fire, and Phosphorus](/http-www-amazon-com-exec-obidos-tg-detail-047144149x-qid-1076666707-sr-1-1-ref-sr-1-1-104-8931055-5532701-v-glance-s-books-product-details)
+* [Phobe Zeitgeist](http://www.lambiek.net/springer-frank.htm) Frank Springer and Michael O'Donoghue
+* [WebElements.com - Phosphorus](http://www.webelements.com/webelements-elements-text-p-index.html)
+* [EnvironmentalChemistry.com - Phosphorus](http://environmentalchemistry.com/yogi-periodic-p.html)
+* [Phosphorus](https://en.wikipedia.org/wiki/phosphorus)
+* [ISBN 047144149X](/) Emsley, John [The 13th Element: The Sordid Tale of Murder, Fire, and Phosphorus](http://www.amazon.com/exec-obidos-tg-detail-047144149x-qid-1076666707-sr-1-1-ref-sr-1-1-104-8931055-5532701-v-glance-s-books-product-details)

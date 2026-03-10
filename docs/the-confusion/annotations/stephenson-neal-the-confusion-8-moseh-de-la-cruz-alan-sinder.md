@@ -46,5 +46,5 @@ Moseh however does not retake a Hebrew surname (*ben his-father*) when he reache
 ## External links
 
 
-* [Columbus the Converso](/http-en-wikipedia-org-wiki-christopher-columbus-columbus-s-national-origin-subject-of-debate)?
+* [Columbus the Converso](https://en.wikipedia.org/wiki/christopher-columbus-columbus-s-national-origin-subject-of-debate)?
 * [WikiPedia:Moses](/)

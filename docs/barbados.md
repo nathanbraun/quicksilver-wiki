@@ -17,7 +17,7 @@ soon
 ### History of the Barbados Islands
 
 
-**Barbados** is the eastern-most Caribbean island. It is located at 13.4N, 54.4W. The island, which is less that one million years old, was created by the collision of the Atlantic crustal and Caribbean plates, along with a volcanic eruption. Later coral formed, accumulating to approximately 300 feet. It is geologically unique, being actually two land masses that merged together over the years. The Islands's history of the early settlement of Barbados is being rewritten as a result of recent archaeological discoveries unearthed at the site of Port St. Charles. Artifacts and evidence point to settlement some time around 1623 BCE.[[1]](/http-axses-com-encyc-bta-archives-detail-memo-cfm-id-382)
+**Barbados** is the eastern-most Caribbean island. It is located at 13.4N, 54.4W. The island, which is less that one million years old, was created by the collision of the Atlantic crustal and Caribbean plates, along with a volcanic eruption. Later coral formed, accumulating to approximately 300 feet. It is geologically unique, being actually two land masses that merged together over the years. The Islands's history of the early settlement of Barbados is being rewritten as a result of recent archaeological discoveries unearthed at the site of Port St. Charles. Artifacts and evidence point to settlement some time around 1623 BCE.[[1]](http://axses.com/encyc-bta-archives-detail-memo-cfm-id-382)
 
 ### Amerindian Civilisation
 
@@ -84,7 +84,7 @@ Now Lick an Lock-up Done Wid, Hurray fuh Jin-Jin 
 ### Reference
 
 
-Much of the material in this article comes from the [CIA World Factbook](/http-en-wikipedia-org-wiki-cia-world-factbook) 2000 and the 2003 U.S. Department of State website. 
+Much of the material in this article comes from the [CIA World Factbook](https://en.wikipedia.org/wiki/cia-world-factbook) 2000 and the 2003 U.S. Department of State website. 
 
 ### Related entries
 
@@ -102,8 +102,8 @@ Much of the material in this article comes from the [CIA World Factbook](/http-e
 ### External Links
 
 
-* 1 [Barbados](/http-axses-com-encyc-bta-archives-detail-memo-cfm-id-382)
-* [Barbados Saga - Matamu and the Turtle](/http-axses-com-encyc-bta-archives-detail-memo-cfm-id-383)
-* [Barbados Saga -Slave Ships and Human bondage](/http-axses-com-encyc-bta-archives-detail-memo-cfm-id-384)
-* [- Barbados Saga - The Bussa Rebellion](/http-axses-com-encyc-bta-archives-detail-memo-cfm-id-385)
-* [CIA FACTBOOK website](/http-www-cia-gov-cia-publications-factbook)
+* 1 [Barbados](http://axses.com/encyc-bta-archives-detail-memo-cfm-id-382)
+* [Barbados Saga - Matamu and the Turtle](http://axses.com/encyc-bta-archives-detail-memo-cfm-id-383)
+* [Barbados Saga -Slave Ships and Human bondage](http://axses.com/encyc-bta-archives-detail-memo-cfm-id-384)
+* [- Barbados Saga - The Bussa Rebellion](http://axses.com/encyc-bta-archives-detail-memo-cfm-id-385)
+* [CIA FACTBOOK website](http://www.cia.gov/cia-publications-factbook)

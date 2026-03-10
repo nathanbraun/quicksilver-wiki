@@ -11,4 +11,4 @@ The disease first appeared in the army of Henry VII as it was camped in Wales in
 #### External Link
 
 
-[Le Moyen Age: Les Epidemies et Les Pestes](/http-www-cosmovisions-com-chronopestesma-htm)
+[Le Moyen Age: Les Epidemies et Les Pestes](http://www.cosmovisions.com/chronopestesma.htm)

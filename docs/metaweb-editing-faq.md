@@ -94,4 +94,4 @@ Click on the image to get the description page. Also, when you upload the file e
 [Miscellaneous FAQ](/wikipedia-miscellaneous-faq) --
 [Help page](/wikipedia-help)
 
-*This page originally from the [Wikipedia](/http-www-wikipedia-org)*
+*This page originally from the [Wikipedia](http://www.wikipedia.org)*

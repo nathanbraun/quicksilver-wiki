@@ -28,7 +28,7 @@ Few of the current era readers have ever worried about JCL or Card Readers. They
 
 Thomas John Watson (1874-1956), was an American industrialist. He worked for the National Cash Register Company (now NCR Corporation and owned by Xerox Corp) for 15 years. In 1914, he was made president of a company that became International Business Machines Corporation (IBM) in 1924. Under Watson's leadership from 1914 to 1956, it became one of the world's most successful corporations. Watson was born in Campbell, New York.
 
-### [John Foster Dulles](/http-en-wikipedia-org-wiki-john-foster-dulles)
+### [John Foster Dulles](https://en.wikipedia.org/wiki/john-foster-dulles)
 
 
 **John Foster Dulles** (February 2, 1888May 24, 1959) was an American statesman who served as Secretary of State under President Dwight D. Eisenhower from 1953 - 1959. He was a noted Cold Warrior advocating an aggressive stance against communism around the world. He advocated support of the French in their war against the Viet Minh in Indochina and famously refused to shake the hand of Zhou Enlai at the Geneva Conference in 1954.
@@ -59,10 +59,10 @@ Washington Dulles International Airport in Chantilly, Virginia is named after hi
 
 Carol Burnett first rose to prominence in the 1950s singing a novelty song, "I Made a Fool of Myself Over John Foster Dulles"; more recently, Gil Scott Heron commented "John Foster Dulles ain't nothing but the name of an airport now" in the song "B-Movie".
 
-### [General William C. Westmoreland](/http-en-wikipedia-org-wiki-william-westmoreland)
+### [General William C. Westmoreland](https://en.wikipedia.org/wiki/william-westmoreland)
 
 
-**William Childs Westmoreland** (born March 26, 1914, Spartanburg County, South Carolina) is a retired United States General who commanded US military operations in the [Vietnam War](/http-en-wikipedia-org-wiki-vietnam-war) from 1964-68 and served as US Army Chief of Staff from 1968 to 1972.
+**William Childs Westmoreland** (born March 26, 1914, Spartanburg County, South Carolina) is a retired United States General who commanded US military operations in the [Vietnam War](https://en.wikipedia.org/wiki/vietnam-war) from 1964-68 and served as US Army Chief of Staff from 1968 to 1972.
 
 ### John Ashcroft
 

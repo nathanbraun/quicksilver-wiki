@@ -146,5 +146,5 @@ In his later years, Erasmus's star began to dim. Alarmed by the events of the [F
 
 
 * [Erasmus Darwin Literary Citations](/http-www-mala-bc-ca-mcneil-cit-citlcdarwine1-htm)
-* [Zoomania](/http-darwin-baruch-cuny-edu-biography-erasmus-darwin-zoonomia-html)
-* [Zoonomia; 3rd edition, London, 1801. Extract of the vol. II, p. 237-240](/http-www-cite-sciences-com-english-ala-cite-expo-tempo-defis-histoire-medias1-zoonomia-doc)
+* [Zoomania](http://darwin.baruch.cuny.edu/biography-erasmus-darwin-zoonomia.html)
+* [Zoonomia; 3rd edition, London, 1801. Extract of the vol. II, p. 237-240](http://www.cite.sciences.com/english-ala-cite-expo-tempo-defis-histoire-medias1-zoonomia-doc)

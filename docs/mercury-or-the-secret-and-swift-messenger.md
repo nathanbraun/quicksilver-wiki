@@ -41,12 +41,12 @@ Thoughts to a Friend at any distance.
 
 **[John Wilkins](/john-wilkins)**' work on codes and ciphers published in 1641 (pp. 179-180), a work of some ingenuity on the means of rapid correspondence. He explored a wide range of ideas associated with communication and language. Wilkins defines his "real character", which is a new orthography for the English language that resembles shorthand, and his "philosophical language" which is based an early classification scheme or ontology (in what would later become the computer science meaning of the term).
 
-* The **[orthography](/http-en-wikipedia-org-wiki-orthography)** of a language is the set of rules of how to write correctly in the language. The term is derived from Greek *ορθο* **ortho-** ("correct") and *γραφος* **graphos** ("that writes") and, in today's sense, includes spelling and punctuation; it is distinct from typography.
+* The **[orthography](https://en.wikipedia.org/wiki/orthography)** of a language is the set of rules of how to write correctly in the language. The term is derived from Greek *ορθο* **ortho-** ("correct") and *γραφος* **graphos** ("that writes") and, in today's sense, includes spelling and punctuation; it is distinct from typography.
 
 
-Wilkins describes a large number of possible concepts as single words by first dividing all reality into forty different categories, each assigned to a different syllable, then sub-dividing these categories into sub-categories, and so on. The resulting words thus encode some of the semantics of their meanings into their spelling. Such a-priori languages were inspired by accounts of how the [Chinese writing system](/http-en-wikipedia-org-wiki-chinese-character) worked. 
+Wilkins describes a large number of possible concepts as single words by first dividing all reality into forty different categories, each assigned to a different syllable, then sub-dividing these categories into sub-categories, and so on. The resulting words thus encode some of the semantics of their meanings into their spelling. Such a-priori languages were inspired by accounts of how the [Chinese writing system](https://en.wikipedia.org/wiki/chinese-character) worked. 
 
-**[Jorge Luis Borges](/http-en-wikipedia-org-wiki-jorge-luis-borges)** wrote a critique of Wilkins' philosophical language in his essay *El idioma analítico de John Wilkins* (The Analytical Language of John Wilkins). 
+**[Jorge Luis Borges](https://en.wikipedia.org/wiki/jorge-luis-borges)** wrote a critique of Wilkins' philosophical language in his essay *El idioma analítico de John Wilkins* (The Analytical Language of John Wilkins). 
 
 
 
@@ -87,25 +87,25 @@ This relates to the [philosophick Mercury](/quicksilver-or-mercury) in a way as 
 ### External links
 
 
-* [Wikipedia entry](/http-en-wikipedia-org-wiki-john-wilkins)
-* [Real Character and a Philosophical Language](/http-www-alamut-com-subj-artiface-language-johnwilkins-html)
-* [Orthography](/http-en-wikipedia-org-wiki-orthography)
-* [Ro](/http-en-wikipedia-org-wiki-ro) - an artificial language
-* [Ro Language Profile - Langmaker.com](/http-www-langmaker-com-outpost-ro-htm)
-* [Solresol](/http-en-wikipedia-org-wiki-solresol-language) -another artificial language
-* [Langmaker.com about Solresol](/http-www-langmaker-com-outpost-solresol-htm)
-* [Gajewski's *Grammar of Solresol*, a translation from the original French](/http-www-ptialaska-net-srice-solresol-sorsoeng-htm)
-* [Jorge Luis Borges](/http-en-wikipedia-org-wiki-jorge-luis-borges) He wrote about Wilkins
-* [Chinese character](/http-en-wikipedia-org-wiki-chinese-character)
-* [John Wilkins on Wikipedia](/http-www-wikipedia-org-wiki-john-wilkins)
-* [THE ANALYTICAL LANGUAGE OF JOHN WILKINS By Jorge Luis Borges](/http-www-alamut-com-subj-artiface-language-johnwilkins-html)
-* [An Essay Toward a Real Character and a Philosophical Language](/http-reliant-teknowledge-com-wilkins) - Full text
-* [MacTutor: John Wilkins](/http-www-gap-dcs-st-and-ac-uk-history-mathematicians-wilkins-html)
-* *[The Discovery of a World in the Moon](/http-www-positiveatheism-org-hist-brunof14-htm)*
-* [BBC: John Wilkins](/http-www-bbc-co-uk-history-historic-figures-wilkins-john-shtml)
-* [Galileo Project: Wilkins](/http-es-rice-edu-es-humsoc-galileo-catalog-files-wilkins-html)
-* [a Wilkins bio](/http-www-hertford-ox-ac-uk-alumni-wilkins-htm)
-* [Another Wilkins bio](/http-www-cl-cam-ac-uk-rja14-wilkins-wilkins-html)
-* [John Aubrey's *Brief Lives*](/http-www-gap-dcs-st-and-ac-uk-history-societies-aubrey-html) - There is a Wilkins' entry
+* [Wikipedia entry](https://en.wikipedia.org/wiki/john-wilkins)
+* [Real Character and a Philosophical Language](http://www.alamut.com/subj-artiface-language-johnwilkins.html)
+* [Orthography](https://en.wikipedia.org/wiki/orthography)
+* [Ro](https://en.wikipedia.org/wiki/ro) - an artificial language
+* [Ro Language Profile - Langmaker.com](http://www.langmaker.com/outpost-ro.htm)
+* [Solresol](https://en.wikipedia.org/wiki/solresol-language) -another artificial language
+* [Langmaker.com about Solresol](http://www.langmaker.com/outpost-solresol.htm)
+* [Gajewski's *Grammar of Solresol*, a translation from the original French](http://www.ptialaska.net/srice-solresol-sorsoeng.htm)
+* [Jorge Luis Borges](https://en.wikipedia.org/wiki/jorge-luis-borges) He wrote about Wilkins
+* [Chinese character](https://en.wikipedia.org/wiki/chinese-character)
+* [John Wilkins on Wikipedia](https://en.wikipedia.org/wiki/john-wilkins)
+* [THE ANALYTICAL LANGUAGE OF JOHN WILKINS By Jorge Luis Borges](http://www.alamut.com/subj-artiface-language-johnwilkins.html)
+* [An Essay Toward a Real Character and a Philosophical Language](http://reliant.teknowledge.com/wilkins) - Full text
+* [MacTutor: John Wilkins](http://www.gap.dcs.st.and.ac.uk/history-mathematicians-wilkins.html)
+* *[The Discovery of a World in the Moon](http://www.positiveatheism.org/hist-brunof14.htm)*
+* [BBC: John Wilkins](http://www.bbc.co.uk/history-historic-figures-wilkins-john-shtml)
+* [Galileo Project: Wilkins](http://es.rice.edu/es-humsoc-galileo-catalog-files-wilkins.html)
+* [a Wilkins bio](http://www.hertford.ox.ac.uk/alumni-wilkins.htm)
+* [Another Wilkins bio](http://www.cl.cam.ac.uk/rja14-wilkins-wilkins.html)
+* [John Aubrey's *Brief Lives*](http://www.gap.dcs.st.and.ac.uk/history-societies-aubrey.html) - There is a Wilkins' entry
 * [ISBN 0684831309](/) David Kahn's *The Codebreakers: The Story of Secret Writing*
 * [ISBN 0766169707](/) John Wilkins' *Mercury, or the Secret and Swift Messenger*

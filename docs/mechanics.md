@@ -72,7 +72,7 @@ In [mathematics](/mathematics), the **orthogonal group** of degree *n* over a **
 
 It is centred on mechanics, electronics and computing which, combined, make possible the generation of simpler, more economical, reliable and versatile systems. The word "mechatronics" was first coined by a senior engineer of a Japanese company, Yaskawa[[1]](/http-www-yaskawa-co-jp-en-index-htm), in 1969.
 
-### [Newtonian physics](/http-en2-wikipedia-org-wiki-newtonian-physics) & [Classical Mechanics](/http-en2-wikipedia-org-wiki-classical-mechanics)
+### [Newtonian physics](https://en.wikipedia.org/wiki/newtonian-physics) & [Classical Mechanics](https://en.wikipedia.org/wiki/classical-mechanics)
 
 
 
@@ -102,7 +102,7 @@ One of the consequences of wavefunction collapse is that certain pairs of observ
 
 Strength of materials is the scientific area of applied mechanics for the study of the strength of engineerig materials and their mechanical behaviour in general (such as stress, deformation, strain and stress-strain relations). Strength is considered in terms of compressive strength, tensile strength, and shear strength, namely the limit states of compressive stress, tensile stress and shear stress respectively. 
 
-**[Materials Science](/http-en2-wikipedia-org-wiki-materials-science)** seems to be the US version of this field of study. It includes those parts of chemistry, physics, geology, and even biology that deal with the physical properties of materials. It is usually considered an applied science, in which the properties under study have some industrial purpose. 
+**[Materials Science](https://en.wikipedia.org/wiki/materials-science)** seems to be the US version of this field of study. It includes those parts of chemistry, physics, geology, and even biology that deal with the physical properties of materials. It is usually considered an applied science, in which the properties under study have some industrial purpose. 
 
 Materials science encompasses all classes of materials, the study of each of which may be considered a separate field: metals and metallurgy, ceramics, semiconductors and other electronic materials, polymers, and Biomaterials. Metallurgy and ceramics have long and separate histories as engineering disciplines, but because the science that underlies these disciplines applies to all classes of materials, materials science is recognized as a distinct discipline. 
 
@@ -130,4 +130,4 @@ E=MC2
 ## External link
 
 
-* [Relativity explained](/http-www-muppetlabs-com-breadbox-txt-al-html)
+* [Relativity explained](http://www.muppetlabs.com/breadbox-txt-al.html)

@@ -67,8 +67,8 @@ In the 1890s he broke a famous nomenclator system called the "Great Cypher", cre
 
 
 * [ISBN 0684831309](/) David Kahn, The Codebreakers, 1967. 2nd ed. 1996.
-* [Brief info on the Great Cipher](/http-www-vectorsite-net-ttcode2-html)
+* [Brief info on the Great Cipher](http://www.vectorsite.net/ttcode2.html)
 * [The Bazeries Cylinder](/http-home-ecn-ab-ca-jsavard-crypto-ro020101-htm)
-* [code tools](/http-codebreaker-dids-com-fcodes-htm)
-* [List of Cryptographers](/http-en-wikipedia-org-wiki-cryptographer)
-* [Zimmermann Telegram](/http-en-wikipedia-org-wiki-zimmermann-telegram) - worth noting
+* [code tools](http://codebreaker.dids.com/fcodes.htm)
+* [List of Cryptographers](https://en.wikipedia.org/wiki/cryptographer)
+* [Zimmermann Telegram](https://en.wikipedia.org/wiki/zimmermann-telegram) - worth noting

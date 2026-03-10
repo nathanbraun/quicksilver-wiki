@@ -68,7 +68,7 @@ The twentieth century was remarkable due to the technological, medical, social, 
 ### Five overall worst atrocities of the 20th century
 
 
-*(measured in numbers of people killed; also see [[1]](/http-www-sul-stanford-edu-depts-ssrg-misc-misery-html))* 
+*(measured in numbers of people killed; also see [[1]](http://www.sul.stanford.edu/depts-ssrg-misc-misery.html))* 
 1. World War II and regime of Adolf Hitler (1937-1945), over 50 million dead, including the Holocaust, killing two-thirds of the Jewish population of Europe (6 million) plus (7 1/2 million) *other* non-combatant victims.
 2. Regime of Mao Zedong and Chinese famine (1949-1976), over 48 million dead.
 3. Regime of Joseph Stalin (1924-1953), over 20 million dead.
@@ -85,4 +85,4 @@ The twentieth century was remarkable due to the technological, medical, social, 
 ### Footnotes and External links
 
 
-* 1. [Mass Killings](/http-www-sul-stanford-edu-depts-ssrg-misc-misery-html)
+* 1. [Mass Killings](http://www.sul.stanford.edu/depts-ssrg-misc-misery.html)

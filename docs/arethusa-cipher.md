@@ -23,9 +23,9 @@ Rudy is using the [Zeta function](/zeta-function) to generate these pseudo-rando
 
 
 * [The Mathematical Papers of Georg Friedrich Bernhard Riemann](/http-www-emis-de-classics-riemann)
-* [The Riemann Zeta Function](/http-mathworld-wolfram-com-riemannzetafunction-html) on [MathWorld](/http-mathworld-wolfram-com)
-* [The Riemann Zeta Function](/http-planetmath-org-encyclopedia-riemannzetafunction-html) on [PlanetMath](/http-planetmath-org)
-* [Baudot code](/http-en-wikipedia-org-wiki-baudot-code)
-* [Enigma machine](/http-en-wikipedia-org-wiki-enigma-machine)
-* [Encryption devices](/http-en-wikipedia-org-wiki-category-encryption-devices)
-* [PURPLE](/http-en-wikipedia-org-wiki-purple)
+* [The Riemann Zeta Function](http://mathworld.wolfram.com/riemannzetafunction.html) on [MathWorld](http://mathworld.wolfram.com)
+* [The Riemann Zeta Function](http://planetmath.org/encyclopedia-riemannzetafunction.html) on [PlanetMath](http://planetmath.org)
+* [Baudot code](https://en.wikipedia.org/wiki/baudot-code)
+* [Enigma machine](https://en.wikipedia.org/wiki/enigma-machine)
+* [Encryption devices](https://en.wikipedia.org/wiki/category-encryption-devices)
+* [PURPLE](https://en.wikipedia.org/wiki/purple)

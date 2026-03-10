@@ -9,7 +9,7 @@ The [Baroque Cycle](/baroque-cycle) page on **Human Rights**
 
 *[Enoch Root](/enoch-root)'s purpose may be the pan-universal establishment of this. [Eliza](/eliza-de-la-zeur)'s antislavery campaign seems very human rights based.*
 
-### [Wikipedia: Human rights](/http-en-wikipedia-org-wiki-human-rights)
+### [Wikipedia: Human rights](https://en.wikipedia.org/wiki/human-rights)
 
 
 **Human rights** (**natural rights**) are [rights](/right) which some hold to be "inalienable" and
@@ -25,7 +25,7 @@ In 1948, the United Nations created the [Universal Declaration of Human Rights](
 
 The main content of the Declaration was later made into two legally binding Covenants: [International Covenant on Civil and Political Rights](/international-covenant-on-civil-and-political-rights) (opened for signature 1966, entered into force March 23, 1976) [[1]](/http-www-unhchr-ch-html-menu3-b-a-ccpr-htm) and the [International Covenant on Economic, Social and Cultural Rights](/international-covenant-on-economic-social-and-cultural-rights) (opened for signature 1966, entered into force January 3, 1976) [[2]](/http-www-unhchr-ch-html-menu3-b-a-cescr-htm). 
 
-Other Human Rights Conventions of note include: Convention on the Prevention and Punishment of the Crime to [Genocide](/genocide) (entry into force: 1951)[[3]](/http-www-unhchr-ch-html-menu3-b-p-genoci-htm), The Convention against [Torture](/torture) (entry into force: 1984)[[4]](/http-www-unhchr-ch-html-menu3-b-h-cat39-htm),the International Convention on the Elimination of All Forms of Racial Discrimination (entry into force: 1969) [[5]](/http-www-unhchr-ch-html-menu3-b-d-icerd-htm),The Convention on the Elimination of All Forms of Discrimination against Women (entry into force: 1981)[[6]](/http-www-un-org-womenwatch-daw-cedaw-frame-htm), UN Convention on the Rights of the Child (entry into force:1989 [[7]](/http-www-unicef-org-crc-crc-htm)and the Rome Statute for [International Criminal Court](/international-criminal-court) (entry into force: 2002).
+Other Human Rights Conventions of note include: Convention on the Prevention and Punishment of the Crime to [Genocide](/genocide) (entry into force: 1951)[[3]](/http-www-unhchr-ch-html-menu3-b-p-genoci-htm), The Convention against [Torture](/torture) (entry into force: 1984)[[4]](/http-www-unhchr-ch-html-menu3-b-h-cat39-htm),the International Convention on the Elimination of All Forms of Racial Discrimination (entry into force: 1969) [[5]](/http-www-unhchr-ch-html-menu3-b-d-icerd-htm),The Convention on the Elimination of All Forms of Discrimination against Women (entry into force: 1981)[[6]](http://www.un.org/womenwatch-daw-cedaw-frame.htm), UN Convention on the Rights of the Child (entry into force:1989 [[7]](http://www.unicef.org/crc-crc.htm)and the Rome Statute for [International Criminal Court](/international-criminal-court) (entry into force: 2002).
 
 ### Origins of rights
 
@@ -82,24 +82,24 @@ Liberals often support hate crime laws, stating that by enacting them individual
 ### External links
 
 
-* [Better World Links on Human Rights](/http-www-betterworldlinks-org-menschenrechte-htm)
-* [University of Leicester, UK, list of sources and links.](/http-www-le-ac-uk-library-hmb11-law-humanr-html)
-* [Photojournalist's aproach to human rights in Sudan](/http-www-detroitfocus-org-issues-0410-cryforcompassion-index-html)
-* [A Muslim approach to human rights](/http-www-liberalislam-net-adam-html) from LiberalIslam.net
+* [Better World Links on Human Rights](http://www.betterworldlinks.org/menschenrechte.htm)
+* [University of Leicester, UK, list of sources and links.](http://www.le.ac.uk/library-hmb11-law-humanr.html)
+* [Photojournalist's aproach to human rights in Sudan](http://www.detroitfocus.org/issues-0410-cryforcompassion-index.html)
+* [A Muslim approach to human rights](http://www.liberalislam.net/adam.html) from LiberalIslam.net
 
 
 #### Human rights organizations
 
 
-* [Better World Links on Human Rights Organizations](/http-www-betterworldlinks-org-book20b-htm)
-* [Amnesty International](/amnesty-international): [http://www.amnesty.org](/http-www-amnesty-org)
-* [Freedom House](/freedom-house): [http://www.freedomhouse.org](/http-www-freedomhouse-org)
-* [International Helsinki Federation for Human Rights](/international-helsinki-federation-for-human-rights): [http://www.ihf-hr.org](/http-www-ihf-hr-org)
+* [Better World Links on Human Rights Organizations](http://www.betterworldlinks.org/book20b.htm)
+* [Amnesty International](/amnesty-international): [http://www.amnesty.org](http://www.amnesty.org)
+* [Freedom House](/freedom-house): [http://www.freedomhouse.org](http://www.freedomhouse.org)
+* [International Helsinki Federation for Human Rights](/international-helsinki-federation-for-human-rights): [http://www.ihf-hr.org](http://www.ihf.hr.org)
 * [International Volunteer Public Organization MEMORIAL](/memorial-society): [http://www.memo.ru/eng/](/http-www-memo-ru-eng)
-* [The Carter Center](/the-carter-center): [http://www.cartercenter.org](/http-www-cartercenter-org)
-* [Human Rights Watch](/human-rights-watch): [http://www.hrw.org](/http-www-hrw-org)
-* [UN High Commissioner for Human Rights](/un-high-commissioner-for-human-rights): [http://www.ohchr.org](/http-www-ohchr-org)
-* [University of Minnesota Human Rights Library](/university-of-minnesota-human-rights-library): [http://www1.umn.edu/humanrts/](/http-www1-umn-edu-humanrts)
-* [International Freedom of Expression eXchange](/international-freedom-of-expression-exchange): [http://www.ifex.org](/http-www-ifex-org)
-* [Human Rights Campaign](/human-rights-campaign): [http://www.hrc.org](/http-www-hrc-org)
-* [Montagnard Foundation](/montagnard-foundation): [http://www.montagnard-foundation.org/homepage.html](/http-www-montagnard-foundation-org-homepage-html)
+* [The Carter Center](/the-carter-center): [http://www.cartercenter.org](http://www.cartercenter.org)
+* [Human Rights Watch](/human-rights-watch): [http://www.hrw.org](http://www.hrw.org)
+* [UN High Commissioner for Human Rights](/un-high-commissioner-for-human-rights): [http://www.ohchr.org](http://www.ohchr.org)
+* [University of Minnesota Human Rights Library](/university-of-minnesota-human-rights-library): [http://www1.umn.edu/humanrts/](http://www1.umn.edu/humanrts)
+* [International Freedom of Expression eXchange](/international-freedom-of-expression-exchange): [http://www.ifex.org](http://www.ifex.org)
+* [Human Rights Campaign](/human-rights-campaign): [http://www.hrc.org](http://www.hrc.org)
+* [Montagnard Foundation](/montagnard-foundation): [http://www.montagnard-foundation.org/homepage.html](http://www.montagnard.foundation.org/homepage.html)

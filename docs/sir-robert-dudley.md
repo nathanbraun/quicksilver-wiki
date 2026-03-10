@@ -35,7 +35,7 @@ These words, taken from a special patent of 1644 granting Lady Alice the hollow 
 #### The 1911 Encyclopedia entry
 
 
-[DUDLEY, SIR ROBERT](/http-17-1911encyclopedia-org-d-du-dudley-sir-robert-htm) (1573-1649), titular duke of Northumberland and earl of Warwick, English explorer, engineer and author, was the son of [Robert Dudley, earl of Leicester](/robert-dudley-earl-of-leicester), the favorite of Queen Elizabeth. His mother was Lady Douglas Sheffield, daughter of Thomas, first Baron Howard of Effingham. Leicester, who deserted Lady Douglas Sheffield for Lettice Knollys, widow of the first earl of Essex, denied that they were married. She asserted that they, were, at Esher in Surrey, but her marriage with Sir Edward Stafford of Grafton, after her desertion, by Leicester, would seem to be a tacit confession that her claim had no foundation. Her son Robert was born in May 1573, was recognized by Leicester, and sent to Christ Church, Oxford, in 1587. He inherited all Leicesters property under the earls will at his death in 1588, and in the following year the property of Ambrose Dudley, earl of Warwick.
+[DUDLEY, SIR ROBERT](http://17.1911encyclopedia.org/d-du-dudley-sir-robert.htm) (1573-1649), titular duke of Northumberland and earl of Warwick, English explorer, engineer and author, was the son of [Robert Dudley, earl of Leicester](/robert-dudley-earl-of-leicester), the favorite of Queen Elizabeth. His mother was Lady Douglas Sheffield, daughter of Thomas, first Baron Howard of Effingham. Leicester, who deserted Lady Douglas Sheffield for Lettice Knollys, widow of the first earl of Essex, denied that they were married. She asserted that they, were, at Esher in Surrey, but her marriage with Sir Edward Stafford of Grafton, after her desertion, by Leicester, would seem to be a tacit confession that her claim had no foundation. Her son Robert was born in May 1573, was recognized by Leicester, and sent to Christ Church, Oxford, in 1587. He inherited all Leicesters property under the earls will at his death in 1588, and in the following year the property of Ambrose Dudley, earl of Warwick.
 
 In 1594 he made a voyage to the West Indies, and in 1596 he took part in the expedition to Cadiz and was knighted. In 1592 he had married a sister of, Thomas Cavendish the circumnavigator. On her death he married Alicia Leigh in 1596, by whom he had tour daughters. After the death of Elizabeth he endeavoured to secure recognition of his legitimacy, and of his right to inherit the titles of his father and uncle. The proceedings were quashed by the [Star Chamber](/star-chamber).
 
@@ -64,4 +64,4 @@ In 1620 the emperor Ferdinand II gave him a patent recognizing his claim not onl
 ### External Links
 
 
-* [the 1911 encyclopedia](/http-17-1911encyclopedia-org-d-du-dudley-sir-robert-htm)
+* [the 1911 encyclopedia](http://17.1911encyclopedia.org/d-du-dudley-sir-robert.htm)

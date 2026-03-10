@@ -28,14 +28,14 @@ A page for the garment secondmost associated with wizards - their **robes**
 * [Stephenson:Neal:Quicksilver:688:Theologians? Sorcerers? (Neal Stephenson)](/stephenson-neal-quicksilver-688-theologians-sorcerers-neal-stephenson)
 
 
-### Enhanced [Wikipedia: Robe](/http-en-wikipedia-org-wiki-robe)
+### Enhanced [Wikipedia: Robe](https://en.wikipedia.org/wiki/robe)
 
 
 **Robes** are dress sometimes taken on by faculty on important academic events like graduation or inauguration. The colour, the length of the hood and the form of the arms give indications of the university of origin and the academic rank. Three stripes on the arm are allowed to wear only by faculty with a Ph.D. (doctor title).![Wizardmw.jpg](/https://web.archive.org/web/20060725170617im_/http://www.metaweb.com/wiki/upload/1/1c/Wizardmw.jpg)  
 **A Generic Wizard  
 from a RPG set**
 
-Robes are also used in role-playing games by wizards and other magical characters. A wizard's cap seems to be based on the capotain - a tall conical hat, in use throughout the 17th century, usually black. The uninitiated might confuse one with a dunce's cap (ala [Duns Scotus](/http-en-wikipedia-org-wiki-duns-scotus)). Think Paul Dukas' - *L'apprenti sorcier* (English title: *The Sorcerer's Apprentice*, with Disney's Mickey Mouse shown in the role of the apprentice) from the film [Fantasia](/http-en-wikipedia-org-wiki-fantasia). 
+Robes are also used in role-playing games by wizards and other magical characters. A wizard's cap seems to be based on the capotain - a tall conical hat, in use throughout the 17th century, usually black. The uninitiated might confuse one with a dunce's cap (ala [Duns Scotus](https://en.wikipedia.org/wiki/duns-scotus)). Think Paul Dukas' - *L'apprenti sorcier* (English title: *The Sorcerer's Apprentice*, with Disney's Mickey Mouse shown in the role of the apprentice) from the film [Fantasia](https://en.wikipedia.org/wiki/fantasia). 
 
 A modern **Dressing Gown** is an item of clothing, often made from toweling or another absorbant material. It is often worn over pyjamas. It most commonly occurs in the form of a long open robe with a belt to tie it round the middle and fasten it securely. It might best resemble a wizard's robe as practical lab wear.
 
@@ -71,5 +71,5 @@ The use of clothing can be a powerful social statement. Luxurious, perfectly tai
 ### External links
 
 
-* [Wizard](/http-en-wikipedia-org-wiki-wizard)
-* **[Alchemy's Symbols](/http-www-chemsoc-org-viselements-pages-alchemist-alchemy-html)**
+* [Wizard](https://en.wikipedia.org/wiki/wizard)
+* **[Alchemy's Symbols](http://www.chemsoc.org/viselements-pages-alchemist-alchemy.html)**

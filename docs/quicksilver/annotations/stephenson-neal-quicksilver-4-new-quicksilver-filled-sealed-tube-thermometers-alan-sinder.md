@@ -10,45 +10,45 @@
 | --- |
 |  |
 | **General** |
-| [Name](/http-en-wikipedia-org-wiki-list-of-elements-by-name), [Symbol](/http-en-wikipedia-org-wiki-list-of-elements-by-symbol), [Number](/http-en-wikipedia-org-wiki-list-of-elements-by-number) | Mercury, Hg, 80  |
-| [Chemical series](/http-en-wikipedia-org-wiki-chemical-series) | [transition metals](/http-en-wikipedia-org-wiki-transition-metal) |
-| [Group](/http-en-wikipedia-org-wiki-periodic-table-group), [Period](/http-en-wikipedia-org-wiki-periodic-table-period), [Block](/http-en-wikipedia-org-wiki-periodic-table-block) | [12 (IIB)](/http-en-wikipedia-org-wiki-group-12-element), [6](/http-en-wikipedia-org-wiki-period-6-element), [d](/http-en-wikipedia-org-wiki-d-block) |
-| [Density](/http-en-wikipedia-org-wiki-density), [Hardness](/http-en-wikipedia-org-wiki-mohs-hardness-scale) | 13579.04 [kg/m3](/http-en-wikipedia-org-wiki-kilogram-per-cubic-metre), 1.5 |
-| [Appearance](/http-en-wikipedia-org-wiki-color) | Silvery white
+| [Name](https://en.wikipedia.org/wiki/list-of-elements-by-name), [Symbol](https://en.wikipedia.org/wiki/list-of-elements-by-symbol), [Number](https://en.wikipedia.org/wiki/list-of-elements-by-number) | Mercury, Hg, 80  |
+| [Chemical series](https://en.wikipedia.org/wiki/chemical-series) | [transition metals](https://en.wikipedia.org/wiki/transition-metal) |
+| [Group](https://en.wikipedia.org/wiki/periodic-table-group), [Period](https://en.wikipedia.org/wiki/periodic-table-period), [Block](https://en.wikipedia.org/wiki/periodic-table-block) | [12 (IIB)](https://en.wikipedia.org/wiki/group-12-element), [6](https://en.wikipedia.org/wiki/period-6-element), [d](https://en.wikipedia.org/wiki/d-block) |
+| [Density](https://en.wikipedia.org/wiki/density), [Hardness](https://en.wikipedia.org/wiki/mohs-hardness-scale) | 13579.04 [kg/m3](https://en.wikipedia.org/wiki/kilogram-per-cubic-metre), 1.5 |
+| [Appearance](https://en.wikipedia.org/wiki/color) | Silvery white
 [125px-Hg,80b.jpg](/125px-hg-80b-jpg) |
 | **Atomic properties** |
-| [Atomic weight](/http-en-wikipedia-org-wiki-atomic-weight) | 200.59 [amu](/http-en-wikipedia-org-wiki-atomic-mass-unit) |
-| [Atomic radius](/http-en-wikipedia-org-wiki-atomic-radius) (calc.)  | 150 (171) [pm](/http-en-wikipedia-org-wiki-picometre) |
-| [Covalent radius](/http-en-wikipedia-org-wiki-covalent-radius) | 149 pm |
-| [van der Waals radius](/http-en-wikipedia-org-wiki-van-der-waals-radius) | 155 pm |
-| [Electron configuration](/http-en-wikipedia-org-wiki-electron-configuration) | [[Xe](/http-en-wikipedia-org-wiki-xenon)]4[f](/http-en-wikipedia-org-wiki-f-orbital)14 5d10 6[s](/http-en-wikipedia-org-wiki-s-orbital)2 |
-| [e-](/http-en-wikipedia-org-wiki-electron)'s per [energy level](/http-en-wikipedia-org-wiki-energy-level) | 2, 8, 18, 32, 18, 2 |
-| [Oxidation state](/http-en-wikipedia-org-wiki)s ([Oxide](/http-en-wikipedia-org-wiki-oxide))  | **2**, 1 (mildly [basic](/http-en-wikipedia-org-wiki-base-chemistry)) |
-| [Crystal structure](/http-en-wikipedia-org-wiki-crystal-structure) | Rhombohedral |
+| [Atomic weight](https://en.wikipedia.org/wiki/atomic-weight) | 200.59 [amu](https://en.wikipedia.org/wiki/atomic-mass-unit) |
+| [Atomic radius](https://en.wikipedia.org/wiki/atomic-radius) (calc.)  | 150 (171) [pm](https://en.wikipedia.org/wiki/picometre) |
+| [Covalent radius](https://en.wikipedia.org/wiki/covalent-radius) | 149 pm |
+| [van der Waals radius](https://en.wikipedia.org/wiki/van-der-waals-radius) | 155 pm |
+| [Electron configuration](https://en.wikipedia.org/wiki/electron-configuration) | [[Xe](https://en.wikipedia.org/wiki/xenon)]4[f](https://en.wikipedia.org/wiki/f-orbital)14 5d10 6[s](https://en.wikipedia.org/wiki/s-orbital)2 |
+| [e-](https://en.wikipedia.org/wiki/electron)'s per [energy level](https://en.wikipedia.org/wiki/energy-level) | 2, 8, 18, 32, 18, 2 |
+| [Oxidation state](http://en.wikipedia.org/wiki)s ([Oxide](https://en.wikipedia.org/wiki/oxide))  | **2**, 1 (mildly [basic](https://en.wikipedia.org/wiki/base-chemistry)) |
+| [Crystal structure](https://en.wikipedia.org/wiki/crystal-structure) | Rhombohedral |
 | **Physical properties** |
-| [State of matter](/http-en-wikipedia-org-wiki-state-of-matter) | Liquid ([\_](/http-en-wikipedia-org-wiki-magnetism)) |
-| [Melting point](/http-en-wikipedia-org-wiki-melting-point) | [234.32 K](/http-en-wikipedia-org-wiki-1-e2-k) (-37.89 °[F](/http-en-wikipedia-org-wiki-fahrenheit)) |
-| [Boiling point](/http-en-wikipedia-org-wiki-boiling-point) | 629.88 [K](/http-en-wikipedia-org-wiki-kelvin) (674.11 °F) |
-| [Molar volume](/http-en-wikipedia-org-wiki-molar-volume) | 14.09 [×](/http-en-wikipedia-org-wiki-scientific-notation)10-6 [m3/mol](/http-en-wikipedia-org-wiki-cubic-metre-per-mole) |
-| [Heat of vaporization](/http-en-wikipedia-org-wiki-heat-of-vaporization) | 59.229 [kJ/mol](/http-en-wikipedia-org-wiki-kilojoule-per-mole) |
-| [Heat of fusion](/http-en-wikipedia-org-wiki-heat-of-fusion) | 2.295 kJ/mol |
-| [Vapor pressure](/http-en-wikipedia-org-wiki-vapor-pressure) | 0.0002 [Pa](/http-en-wikipedia-org-wiki-pascal) at 234 K |
-| [Speed of sound](/http-en-wikipedia-org-wiki-speed-of-sound) | 1407 [m/s](/http-en-wikipedia-org-wiki-metre-per-second) at 293.15 K |
+| [State of matter](https://en.wikipedia.org/wiki/state-of-matter) | Liquid ([\_](https://en.wikipedia.org/wiki/magnetism)) |
+| [Melting point](https://en.wikipedia.org/wiki/melting-point) | [234.32 K](https://en.wikipedia.org/wiki/1-e2-k) (-37.89 °[F](https://en.wikipedia.org/wiki/fahrenheit)) |
+| [Boiling point](https://en.wikipedia.org/wiki/boiling-point) | 629.88 [K](https://en.wikipedia.org/wiki/kelvin) (674.11 °F) |
+| [Molar volume](https://en.wikipedia.org/wiki/molar-volume) | 14.09 [×](https://en.wikipedia.org/wiki/scientific-notation)10-6 [m3/mol](https://en.wikipedia.org/wiki/cubic-metre-per-mole) |
+| [Heat of vaporization](https://en.wikipedia.org/wiki/heat-of-vaporization) | 59.229 [kJ/mol](https://en.wikipedia.org/wiki/kilojoule-per-mole) |
+| [Heat of fusion](https://en.wikipedia.org/wiki/heat-of-fusion) | 2.295 kJ/mol |
+| [Vapor pressure](https://en.wikipedia.org/wiki/vapor-pressure) | 0.0002 [Pa](https://en.wikipedia.org/wiki/pascal) at 234 K |
+| [Speed of sound](https://en.wikipedia.org/wiki/speed-of-sound) | 1407 [m/s](https://en.wikipedia.org/wiki/metre-per-second) at 293.15 K |
 | **Miscellaneous** |
-| [Electronegativity](/http-en-wikipedia-org-wiki-electronegativity) | 2.00 ([Pauling scale](/http-en-wikipedia-org-wiki-pauling-scale))  |
-| [Specific heat capacity](/http-en-wikipedia-org-wiki-specific-heat-capacity) | 140 [J/(kg*K)](/http-en-wikipedia-org-wiki-joule-per-kilogram-kelvin) |
-| [Electrical conductivity](/http-en-wikipedia-org-wiki-electrical-conductivity) | 1.04 106/m [ohm](/http-en-wikipedia-org-wiki-ohm) |
-| [Thermal conductivity](/http-en-wikipedia-org-wiki-thermal-conductivity) | 8.34 [W/(m*K)](/http-en-wikipedia-org-wiki-watt-per-metre-kelvin) |
-| 1st [ionization potential](/http-en-wikipedia-org-wiki-ionization-potential) | 1007.1 kJ/mol |
+| [Electronegativity](https://en.wikipedia.org/wiki/electronegativity) | 2.00 ([Pauling scale](https://en.wikipedia.org/wiki/pauling-scale))  |
+| [Specific heat capacity](https://en.wikipedia.org/wiki/specific-heat-capacity) | 140 [J/(kg*K)](https://en.wikipedia.org/wiki/joule-per-kilogram-kelvin) |
+| [Electrical conductivity](https://en.wikipedia.org/wiki/electrical-conductivity) | 1.04 106/m [ohm](https://en.wikipedia.org/wiki/ohm) |
+| [Thermal conductivity](https://en.wikipedia.org/wiki/thermal-conductivity) | 8.34 [W/(m*K)](https://en.wikipedia.org/wiki/watt-per-metre-kelvin) |
+| 1st [ionization potential](https://en.wikipedia.org/wiki/ionization-potential) | 1007.1 kJ/mol |
 | 2nd ionization potential  | 1810 kJ/mol |
 | 3rd ionization potential  | 3300 kJ/mol |
 | **Most stable isotopes** |
 | 
 
-| [Isotope iso](/http-en-wikipedia-org-wiki) | [NA](/http-en-wikipedia-org-wiki-natural-abundance) | [half-life](/http-en-wikipedia-org-wiki-half-life) | [DM](/http-en-wikipedia-org-wiki-decay-mode) | [DE](/http-en-wikipedia-org-wiki-decay-energy) [M](/http-en-wikipedia-org-wiki-mega)[eV](/http-en-wikipedia-org-wiki-electron-volt) | [DP](/http-en-wikipedia-org-wiki-decay-product) |
+| [Isotope iso](http://en.wikipedia.org/wiki) | [NA](https://en.wikipedia.org/wiki/natural-abundance) | [half-life](https://en.wikipedia.org/wiki/half-life) | [DM](https://en.wikipedia.org/wiki/decay-mode) | [DE](https://en.wikipedia.org/wiki/decay-energy) [M](https://en.wikipedia.org/wiki/mega)[eV](https://en.wikipedia.org/wiki/electron-volt) | [DP](https://en.wikipedia.org/wiki/decay-product) |
 | --- | --- | --- | --- | --- | --- |
-| 194Hg | [{syn.}](/http-en-wikipedia-org-wiki-synthetic-radioisotope) | 444 y  | [ε](/http-en-wikipedia-org-wiki-electron-capture) | 0.040 | [194Au](/http-en-wikipedia-org-wiki-gold) |
-| 196Hg | 0.15% | Hg is [stable](/http-en-wikipedia-org-wiki-stable-isotope) with 116 [neutrons](/http-en-wikipedia-org-wiki-neutron) |
+| 194Hg | [{syn.}](https://en.wikipedia.org/wiki/synthetic-radioisotope) | 444 y  | [ε](https://en.wikipedia.org/wiki/electron-capture) | 0.040 | [194Au](https://en.wikipedia.org/wiki/gold) |
+| 196Hg | 0.15% | Hg is [stable](https://en.wikipedia.org/wiki/stable-isotope) with 116 [neutrons](https://en.wikipedia.org/wiki/neutron) |
 | 198Hg | 9.97% | Hg is stable with 118 neutrons |
 | 199Hg | 16.87% | Hg is stable with 119 neutrons |
 | 200Hg | 23.1% | Hg is stable with 120 neutrons |
@@ -57,7 +57,7 @@
 | 204Hg | 6.87% | Hg is stable with 124 neutrons |
 
  |
-| [SI](/http-en-wikipedia-org-wiki-si) units & [STP](/http-en-wikipedia-org-wiki-standard-temperature-and-pressure) are used except where noted. |
+| [SI](https://en.wikipedia.org/wiki/si) units & [STP](https://en.wikipedia.org/wiki/standard-temperature-and-pressure) are used except where noted. |
 
 
 **Mercury** shows up 19 times throughout [Cryptonomicon](/cryptonomicon); Have yet to do a count re: quicksilver.
@@ -92,10 +92,10 @@
 * [Stephenson:Neal:The Confusion:582:Theatrum Chemicum (Alan Sinder)](/stephenson-neal-the-confusion-582-theatrum-chemicum-alan-sinder)
 
 
-### [Wikipedia: Mercury (element)](/http-en-wikipedia-org-wiki-mercury-element)
+### [Wikipedia: Mercury (element)](https://en.wikipedia.org/wiki/mercury-element)
 
 
-**Mercury**, also called **[quicksilver](/mercury)**, is a [chemical element chemical element](/http-en-wikipedia-org-wiki) in the periodic table that has the symbol **Hg** and atomic number 80. A heavy, silvery, toxic, transition metal, mercury is one of only two elements that are liquid at everyday room-temperatures (the other is Bromine) and is used in [thermometers](/thermometers), barometers and other scientific apparatus. Mercury is mostly obtained by reduction from the [mineral](/http-en-wikipedia-org-wiki-mineral) [cinnabar](/http-en-wikipedia-org-wiki-cinnabar).
+**Mercury**, also called **[quicksilver](/mercury)**, is a [chemical element chemical element](http://en.wikipedia.org/wiki) in the periodic table that has the symbol **Hg** and atomic number 80. A heavy, silvery, toxic, transition metal, mercury is one of only two elements that are liquid at everyday room-temperatures (the other is Bromine) and is used in [thermometers](/thermometers), barometers and other scientific apparatus. Mercury is mostly obtained by reduction from the [mineral](https://en.wikipedia.org/wiki/mineral) [cinnabar](https://en.wikipedia.org/wiki/cinnabar).
 
 ### Notable characteristics
 
@@ -160,12 +160,12 @@ Mercury is a very dangerous bioaccumulative toxin that is easily absorbed throug
 
 
 
-### [Wikipedia: Peter Cooper Hewitt](/http-en-wikipedia-org-wiki-peter-cooper-hewitt)
+### [Wikipedia: Peter Cooper Hewitt](https://en.wikipedia.org/wiki/peter-cooper-hewitt)
 
 
 **Peter Cooper Hewitt** (May 5, 1861 - August 25, 1921) was an American electrical engineer, who demonstrated the mercury-vapour lamp for which he deposited a patent.
 
-He fabricated a [discharge lamp](/http-en-wikipedia-org-wiki-arc-lamp) in a vapor of [mercury](/mercury-chemical-element) heated by the current passing through the liquid phase. The lamp was started by tilting the tube to make contact between the two electrodes, with the liquid mercury located on one side at rest. The efficiency was much higher than incandescent lamps but the emitted light was of a bluish-green unpleasant color, which limited its practical use to specific professional areas, like photography where the color was not an issue at a time where films where black and white.
+He fabricated a [discharge lamp](https://en.wikipedia.org/wiki/arc-lamp) in a vapor of [mercury](/mercury-chemical-element) heated by the current passing through the liquid phase. The lamp was started by tilting the tube to make contact between the two electrodes, with the liquid mercury located on one side at rest. The efficiency was much higher than incandescent lamps but the emitted light was of a bluish-green unpleasant color, which limited its practical use to specific professional areas, like photography where the color was not an issue at a time where films where black and white.
 
 ### Related entries
 
@@ -207,11 +207,11 @@ He fabricated a [discharge lamp](/http-en-wikipedia-org-wiki-arc-lamp) in a vapo
 
 
 * [John Wilkins](/john-wilkins) published [Mercury, or the Secret and Swift Messenger](/mercury-or-the-secret-and-swift-messenger) in 1641.
-* [Los Alamos National Laboratory - Mercury](/http-periodic-lanl-gov-elements-80-html)
+* [Los Alamos National Laboratory - Mercury](http://periodic.lanl.gov/elements-80.html)
 
 
 ### External links
 
 
-* [WebElements.com - Mercury](/http-www-webelements-com-webelements-elements-text-hg-index-html)
-* [EnvironmentalChemistry.com - Mercury](/http-environmentalchemistry-com-yogi-periodic-hg-html)
+* [WebElements.com - Mercury](http://www.webelements.com/webelements-elements-text-hg-index.html)
+* [EnvironmentalChemistry.com - Mercury](http://environmentalchemistry.com/yogi-periodic-hg.html)

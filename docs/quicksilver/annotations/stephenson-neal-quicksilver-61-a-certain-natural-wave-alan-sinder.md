@@ -21,7 +21,7 @@ This is a digression concerning **grooming** featuring **Algebraic topology**
 
 Avoiding stereotypes, consider *Shampoo*  the farcical satire of 1960s sexual practices, a hairdresser *George Roundy* (Warren Beatty) who finds he can't resist the women he glamorizes. They can't resist him either, and unfortunately they are all linked somehow. Juxtaposing tropes from *Restoration* comedy with Southern California dialogue and a healthy, hilarious dash of running commentary from election returns, an *awareness* cuts through the film like a scalpel. Beatty's freewheeling and funny escapades with three of his lovers culminate in an election night party as Nixon wins which all three attend, along with another older, richer man who is married to one of Beatty's conspirators, and whom Beatty happens to be soliciting for startup funds for his own beauty business. At the party, all three women desperately want Beatty's attention, and the resulting debacle causes him to reconsider his lifestyle. 
 
-**[Claire Tomalin](/http-www-contemporarywriters-com-authors-p-auth123)** notes in her *[Samuel Pepys: The Unequalled Self](/http-www-amazon-com-exec-obidos-tg-detail-0375725539-qid-1075272548-sr-1-1-ref-sr-1-1-002-9478251-6164064-v-glance-s-books-product-details)* that 'brushing hair was considered an erotic act. Newton for all his prissiness was a money lending farm boy. He'd certainly seen the returning Royals and returning courtiers entertain their whores or sluts at school. Like Daniel, he must have had the cast aside wantons alight on his bed. And somehow Daniel knew of the *speciality prostitutes* at the **Stourbridge Fair** when they went to buy prisms. Daniel has enough *sense of self* to avoid the seductive nature of being groomed, and seems to tolerate the activity to avoid upsetting Isaac. Young Newton appears to be one you don't want to alienate. One wonders if the grooming was Isaac assigning *status* to young Waterhouse.
+**[Claire Tomalin](http://www.contemporarywriters.com/authors-p-auth123)** notes in her *[Samuel Pepys: The Unequalled Self](http://www.amazon.com/exec-obidos-tg-detail-0375725539-qid-1075272548-sr-1-1-ref-sr-1-1-002-9478251-6164064-v-glance-s-books-product-details)* that 'brushing hair was considered an erotic act. Newton for all his prissiness was a money lending farm boy. He'd certainly seen the returning Royals and returning courtiers entertain their whores or sluts at school. Like Daniel, he must have had the cast aside wantons alight on his bed. And somehow Daniel knew of the *speciality prostitutes* at the **Stourbridge Fair** when they went to buy prisms. Daniel has enough *sense of self* to avoid the seductive nature of being groomed, and seems to tolerate the activity to avoid upsetting Isaac. Young Newton appears to be one you don't want to alienate. One wonders if the grooming was Isaac assigning *status* to young Waterhouse.
 
 ### Grooming Among Chimpanzees
 
@@ -44,7 +44,7 @@ At nearby Gombe, scientists have taken special interest in the fact that the chi
 
 More recently, the Mahale chimpanzees have adopted a new grooming technique called the "social-scratch," which has caught on like another pop culture phenomenon. Here, the grooming chimpanzee rakes the hand up and down his subject's back at the end of a grooming session. The social scratch is not used at Gombe, nor has it been observed at any other site. 
 
-Commenting in the journal Science, McGrew wrote, "We have enough data in enough populations that we can start doing the sorts of comparisons that cultural anthropologists do across human populations." And already there is enough evidence of behavioral differences among chimp communities that anthropologist Frans de Waal can boldly conclude, "Biologically speaking, humans have never been alone; now the same can be said of culture."...  [[1]](/http-www-findarticles-com-cf-dls-m1170-2000-sept-oct-64196607-p1-article-jhtml-term)
+Commenting in the journal Science, McGrew wrote, "We have enough data in enough populations that we can start doing the sorts of comparisons that cultural anthropologists do across human populations." And already there is enough evidence of behavioral differences among chimp communities that anthropologist Frans de Waal can boldly conclude, "Biologically speaking, humans have never been alone; now the same can be said of culture."...  [[1]](http://www.findarticles.com/cf-dls-m1170-2000-sept-oct-64196607-p1-article-jhtml-term)
 
 ### Captive Chimps Need To Groom
 
@@ -58,7 +58,7 @@ Mothers groom fussy temperamental infants being weaned from nursing against thei
 
 Meredith F. Small goes further:  When researchers compared the chimps' kinship to their behavior, they found that males who sit together and groom each other are not closely related.  Kinship doesn't underlie male cooperation, in other words. Chimpanzees get to know each other and keep track of the political intrigue that goes with making, breaking, and manipulating relationships. Although kinship is important, chimps often also rely on the fragile ties of friendship.  One of the best examples of chimp culture can be seen in the Mahale Mountains of Tanzania and in Gombe, 90 miles to the north. Though the two areas lie on the same side of Lake Tanganyika, the chimpanzees have more elaborate grooming habits in Mahale. In Gombe, when a male chimp lumbers up to a friend and sprawls out on the ground, the friend will usually groom him by gently passing a hand through the fur on his back, chest, face, or leg. In Mahale, chimps prefer to face each other, lock hands, and raise their arms in a mutual salute. The same style is seen at several other sites across Africa, and in captive populations, but not in Gombe. Is the Mahale style simply the most efficient way to groom an armpit? Or is it the chimpanzee version of a secret handshake? 
 
-Anthropologist William McGrew has studied the Mahale chimps, and several other groups, for 20 years. He not only believes that their grooming is cultural, but also thinks there are grooming subcultures as well. Recently, when McGrew showed his students at Miami University in Ohio some old photographs of chimps grooming, he noticed something: One group at Mahale groomed the usual way while another group at the same site had a slightly different technique. "This is like the difference between the three-fingered salute by the Boy Scouts and the two-fingered salute by the Cub Scouts," McGrew says. "We are really dealing with nuances. But they're there.[[2]](/http-www-findarticles-com-cf-dls-m1511-5-21-61692490-p1-article-jhtml-term)
+Anthropologist William McGrew has studied the Mahale chimps, and several other groups, for 20 years. He not only believes that their grooming is cultural, but also thinks there are grooming subcultures as well. Recently, when McGrew showed his students at Miami University in Ohio some old photographs of chimps grooming, he noticed something: One group at Mahale groomed the usual way while another group at the same site had a slightly different technique. "This is like the difference between the three-fingered salute by the Boy Scouts and the two-fingered salute by the Cub Scouts," McGrew says. "We are really dealing with nuances. But they're there.[[2]](http://www.findarticles.com/cf-dls-m1511-5-21-61692490-p1-article-jhtml-term)
 
 ### Math Inspired by Homoerotic Grooming
 
@@ -67,7 +67,7 @@ Anthropologist William McGrew has studied the Mahale chimps, and several other g
 
 Topological spaces show up naturally in mathematical analysis, abstract algebra and geometry. This has made topology one of the great unifying ideas of mathematics. General topology, or point-set topology , defines and studies some useful properties of spaces and maps, such as connectedness, compactness and continuity. Algebraic topology is a powerful tool to study topological spaces, and the maps between them. It associates "discrete", more computable invariants to maps and spaces, often in a functorial way. Ideas from algebraic topology have had strong influence on algebra and algebraic geometry.
 
-The motivating insight behind topology is that some geometric problems depend not on the exact shape of the objects involved, but rather on the "way they are connected together". One of the first papers in topology was the demonstration, by Leonhard Euler, that it was impossible to find a route through the town of Königsberg (now Kaliningrad ) that would cross each of its seven bridges exactly once. This result did not depend on the lengths of the bridges, nor on their distance from one another, but only on connectivity properties: which bridges are connected to which islands or riverbanks. This problem, the [Seven Bridges of Königsberg](/http-en-wikipedia-org-wiki-seven-bridges-of-königsberg), is now a famous problem in introductory mathematics. 
+The motivating insight behind topology is that some geometric problems depend not on the exact shape of the objects involved, but rather on the "way they are connected together". One of the first papers in topology was the demonstration, by Leonhard Euler, that it was impossible to find a route through the town of Königsberg (now Kaliningrad ) that would cross each of its seven bridges exactly once. This result did not depend on the lengths of the bridges, nor on their distance from one another, but only on connectivity properties: which bridges are connected to which islands or riverbanks. This problem, the [Seven Bridges of Königsberg](https://en.wikipedia.org/wiki/seven-bridges-of-königsberg), is now a famous problem in introductory mathematics. 
 
 Similarly, the hairy ball theorem of algebraic topology says that "one cannot comb the hair on a ball smooth". This fact is immediately convincing to most people, even though they might not recognize the more formal statement of the theorem, that there is no nonvanishing continuous tangent vector field on the sphere . As with the Bridges of Königsberg , the result does not depend on the exact shape of the sphere; it applies to pear shapes and in fact any kind of blob, as long as it has no holes. 
 
@@ -143,17 +143,17 @@ Isaac's hairstyling could have been his way to release steam, and think about ma
 ### Footnotes and External Links
 
 
-* 1 [Chimp Culture](/http-www-findarticles-com-cf-dls-m1170-2000-sept-oct-64196607-p1-article-jhtml-term) International Wildlife, Sept-Oct, 2000, by Tim Friend
-* 2 [APING CULTURE](/http-www-findarticles-com-cf-dls-m1511-5-21-61692490-p1-article-jhtml-term) Discover, May 01 2000 by Meredith F. Small
+* 1 [Chimp Culture](http://www.findarticles.com/cf-dls-m1170-2000-sept-oct-64196607-p1-article-jhtml-term) International Wildlife, Sept-Oct, 2000, by Tim Friend
+* 2 [APING CULTURE](http://www.findarticles.com/cf-dls-m1511-5-21-61692490-p1-article-jhtml-term) Discover, May 01 2000 by Meredith F. Small
 * [ISBN 0375725539](/)
-* [Monkey World](/http-www-monkeyworld-co-uk)
-* [Claire Tomalin](/http-www-contemporarywriters-com-authors-p-auth123)
-* [Samuel Pepys: The Unequalled Self](/http-www-amazon-com-exec-obidos-tg-detail-0375725539-qid-1075272548-sr-1-1-ref-sr-1-1-002-9478251-6164064-v-glance-s-books-product-details)
-* [Wikipedia on topology](/http-en-wikipedia-org-wiki-topology)
-* [Haidinger's Brush](/http-en-wikipedia-org-wiki-haidinger-s-brush)
-* [Seven Bridges of Königsberg](/http-en-wikipedia-org-wiki-seven-bridges-of-königsberg)
-* [Allen Hatcher's *Algebraic Topology* is available free in PDF/PostScript](/http-www-math-cornell-edu-hatcher-at-atpage-html)
-* [Clay Mathematics Institute description of the Poincaré conjecture](/http-www-claymath-org-prizeproblems-poincare-htm)
-* [John Milnor: The Poincaré Conjecture 99 Years Later: A Progress Report](/http-www-math-sunysb-edu-jack-prepr-poincare03-pdf)
-* [Grisha Perelman: The entropy formula for the Ricci flow and its geometric applications, Preprint 2002](/http-arxiv-org-abs-math-dg-0211159)
-* [Grisha Perelman: Ricci flow with surgery on three-manifolds , Preprint 2003](/http-arxiv-org-abs-math-dg-0303109)
+* [Monkey World](http://www.monkeyworld.co.uk)
+* [Claire Tomalin](http://www.contemporarywriters.com/authors-p-auth123)
+* [Samuel Pepys: The Unequalled Self](http://www.amazon.com/exec-obidos-tg-detail-0375725539-qid-1075272548-sr-1-1-ref-sr-1-1-002-9478251-6164064-v-glance-s-books-product-details)
+* [Wikipedia on topology](https://en.wikipedia.org/wiki/topology)
+* [Haidinger's Brush](https://en.wikipedia.org/wiki/haidinger-s-brush)
+* [Seven Bridges of Königsberg](https://en.wikipedia.org/wiki/seven-bridges-of-königsberg)
+* [Allen Hatcher's *Algebraic Topology* is available free in PDF/PostScript](http://www.math.cornell.edu/hatcher-at-atpage.html)
+* [Clay Mathematics Institute description of the Poincaré conjecture](http://www.claymath.org/prizeproblems-poincare.htm)
+* [John Milnor: The Poincaré Conjecture 99 Years Later: A Progress Report](http://www.math.sunysb.edu/jack-prepr-poincare03.pdf)
+* [Grisha Perelman: The entropy formula for the Ricci flow and its geometric applications, Preprint 2002](http://arxiv.org/abs-math-dg-0211159)
+* [Grisha Perelman: Ricci flow with surgery on three-manifolds , Preprint 2003](http://arxiv.org/abs-math-dg-0303109)

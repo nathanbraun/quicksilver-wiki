@@ -8,7 +8,7 @@ Awast Ye **Scurvy** Dogs!
 ### Stephensonia
 
 
-*[Daniel Waterhouse](/daniel-waterhouse): “So it is a social visit! That is heroic—when a simple exchange of letters is so much less fraught with seasickness, [pirates](/pirates), scurvy, mass drownings[[1]](/http-www-amazon-com-exec-obidos-tg-detail-0140258795-qid-1073984274-ref-sr-8-xs-ap-i0-xgl14-002-9144229-4735226-v-glance-s-books-n-507846)—”
+*[Daniel Waterhouse](/daniel-waterhouse): “So it is a social visit! That is heroic—when a simple exchange of letters is so much less fraught with seasickness, [pirates](/pirates), scurvy, mass drownings[[1]](http://www.amazon.com/exec-obidos-tg-detail-0140258795-qid-1073984274-ref-sr-8-xs-ap-i0-xgl14-002-9144229-4735226-v-glance-s-books-n-507846)—”
 Daniel, as an empirical "on the edge" technological research scientist for the Royal Navy's think tank -- the [Royal Society of London for the Improvement of Natural Knowledge](/royal-society-of-london-for-the-improvement-of-natural-knowledge)-- knows more than the average individual about the dangers of cross Atlantic voyage when Winter is starting, and is right to fear **nausea**, **pirates**, **scurvy**, and the results of normal [navigation](/navigation) in his day -- **mass drowning**.*
 
 ### Authored entries
@@ -25,13 +25,13 @@ Daniel, as an empirical "on the edge" technological research scientist for the R
 ### Seasickness
 
 
-**Motion sickness**, also called **seasickness**, **carsickness**, or **airsickness** depending on what one has been traveling in, is a condition in which the endolymph (the fluid found in the semicircular canals of the [inner ears](/http-en2-wikipedia-org-wiki-semicircular-canal)) becomes 'stirred up', causing confusion between the difference between apparent perceived movement (none or very little), and actual movement. It can result from lying in the berth of a rolling boat without being able to see the outside. **Nausea** is the most common and unpleasant symptom of motion sickness; in fact, nausea in Greek means seasickness (naus=ship). This sensation of unease and discomfort from the stomach, with the sufferer feeling that he is about to vomit (though he may not actually do so).
+**Motion sickness**, also called **seasickness**, **carsickness**, or **airsickness** depending on what one has been traveling in, is a condition in which the endolymph (the fluid found in the semicircular canals of the [inner ears](https://en.wikipedia.org/wiki/semicircular-canal)) becomes 'stirred up', causing confusion between the difference between apparent perceived movement (none or very little), and actual movement. It can result from lying in the berth of a rolling boat without being able to see the outside. **Nausea** is the most common and unpleasant symptom of motion sickness; in fact, nausea in Greek means seasickness (naus=ship). This sensation of unease and discomfort from the stomach, with the sufferer feeling that he is about to vomit (though he may not actually do so).
 ![Ear-anatomy-text-small.png](/https://web.archive.org/web/20060725170823im_/http://en.wikipedia.org/upload/d/d5/Ear-anatomy-text-small.png)  
 **Diagram of the Inner Ear**
 
 Sudden jerky movements tend to be worse for provoking motion sickness than slower smooth ones, because they disrupt the fluid balance more. A 'corkscrewing' boat will upset more people than one that is gliding smoothly across the oncoming waves, and cars driving rapidly around winding roads or up and down a series of hills. Looking down into your lap to consult a map or attempting to read a book while a passenger in a car is another common cause of motion sickness. 
 
-Many 'cures' and preventatives for motion sickness have been proposed at various times. One which is both practical and effective is to simply look out of the window of the moving vehicle and to gaze into the distance towards the horizon in the direction in which you are moving. This helps to re-orient your inner sense of balance by reaffirming to your inner [ear](/http-en2-wikipedia-org-wiki-ear) that yes you actually ARE moving. Fresh air blowing on your face can also be a relief. 
+Many 'cures' and preventatives for motion sickness have been proposed at various times. One which is both practical and effective is to simply look out of the window of the moving vehicle and to gaze into the distance towards the horizon in the direction in which you are moving. This helps to re-orient your inner sense of balance by reaffirming to your inner [ear](https://en.wikipedia.org/wiki/ear) that yes you actually ARE moving. Fresh air blowing on your face can also be a relief. 
 
 Other cures for motion sickness rely on medication. Over-the-counter and prescription medications are readily available, eg. dramamine. Ginger is a mild anti-emetic and sucking on crystalised ginger or sipping ginger tea can help to relieve the nausea. 
 
@@ -78,7 +78,7 @@ The consequence was that the most sudden and visible good effects were perceived
 
 As I shall have occasion elsewhere to take notice of the effects of other medicines in this disease, I shall here only observe that the result of all my experiments was that oranges and lemons were the most effectual remedies for this distemper at sea. I am apt to think oranges preferable to lemons, though it was principally oranges which so speedily and surprisingly recovered Lord Anson's people at the Island of Tinian, of which that noble, brave and experienced commander was so sensible that before he left the island one man was ordered on shore from each mess to lay in a stock of them for their future security. … Perhaps one history more may suffice to put this out of doubt.
 
-[James Lind](/http-www-bbc-co-uk-history-historic-figures-lind-james-shtml): *“A Treatise of the Scurvy in Three Parts. Containing an inquiry into the Nature, Causes and Cure of that Disease, together with a Critical and Chronological View of what has been published on the subject.”*
+[James Lind](http://www.bbc.co.uk/history-historic-figures-lind-james-shtml): *“A Treatise of the Scurvy in Three Parts. Containing an inquiry into the Nature, Causes and Cure of that Disease, together with a Critical and Chronological View of what has been published on the subject.”*
 
 #### Captain James Cook's Background
 
@@ -95,9 +95,9 @@ Dutch merchant ships were well supplied with sauerkraut for long voyages to the 
 ### Mass Drownings
 
 
-All good Englishmen would know of the fate of the [Spanish Armada](/http-en2-wikipedia-org-wiki-spanish-armada). On May 28, 1588 the Armada, with 130 ships and 30,000 men, began to set sail from Lisbon heading for the English Channel. At this time the English fleet was prepared and waiting in Plymouth for news of Spanish movements. It took until May 30 for all ships to leave port, and on the same day Elizabeth's ambassador Dr Valentine Dale met Parma's representatives to begin peace negotions. It was not until July 17 that the peace negotiations were wholly abandoned. The Armada was forced to return to Spain by sailing around the northern coasts of Scotland and Ireland - a dangerous voyage which only 67 ships and around 10,000 men survived. Total English casualties were counted at one hundred, with no ships lost. 
+All good Englishmen would know of the fate of the [Spanish Armada](https://en.wikipedia.org/wiki/spanish-armada). On May 28, 1588 the Armada, with 130 ships and 30,000 men, began to set sail from Lisbon heading for the English Channel. At this time the English fleet was prepared and waiting in Plymouth for news of Spanish movements. It took until May 30 for all ships to leave port, and on the same day Elizabeth's ambassador Dr Valentine Dale met Parma's representatives to begin peace negotions. It was not until July 17 that the peace negotiations were wholly abandoned. The Armada was forced to return to Spain by sailing around the northern coasts of Scotland and Ireland - a dangerous voyage which only 67 ships and around 10,000 men survived. Total English casualties were counted at one hundred, with no ships lost. 
 
-Daniel must know of the events of 1707, another tragic year for the Royal Navy. In the [Isles of Scilly](/http-en-wikipedia-org-wiki-isles-of-scilly), a large proportion of the British Navy fleet were wrecked off Scilly. As the fleet was returning home victorious, the fleets’ longitude was misjudged and in bad visibility, the flagship HMS Association along with others of the fleet were wrecked on the western approaches. Nearly 2000 seamen drowned.
+Daniel must know of the events of 1707, another tragic year for the Royal Navy. In the [Isles of Scilly](https://en.wikipedia.org/wiki/isles-of-scilly), a large proportion of the British Navy fleet were wrecked off Scilly. As the fleet was returning home victorious, the fleets’ longitude was misjudged and in bad visibility, the flagship HMS Association along with others of the fleet were wrecked on the western approaches. Nearly 2000 seamen drowned.
 
 Sir Clowdisley Shovell was the commander of the fleet and the most respected officer of his day. He had ignored earlier warnings that the ships were off course; one crew member had smelt the burning kelp pits which were so synonymous with Scilly. Another of the crew, knowing full well it was a hanging offense to do so, offered his logs with *more* correct bearings out of fear. He was hanged on the spot for mutiny. The flagship Association was wrecked on the Gilstone losing all of her crew, other ships wrecked were the HMS Eagle and HMS Romney were scattered amongst the Isles, only one of the five ships managed to negotiate their way clear of ledges and rocks around the Islands. 
 
@@ -129,29 +129,29 @@ Sir Clowdisley Shovell was buried in a simple grave which can still be seen in t
 ### Footnotes & External links
 
 
-1. [Longitude](/http-www-amazon-com-exec-obidos-tg-detail-0140258795-qid-1073984274-ref-sr-8-xs-ap-i0-xgl14-002-9144229-4735226-v-glance-s-books-n-507846) page 12 describes the Scillies tragedy of 1707
+1. [Longitude](http://www.amazon.com/exec-obidos-tg-detail-0140258795-qid-1073984274-ref-sr-8-xs-ap-i0-xgl14-002-9144229-4735226-v-glance-s-books-n-507846) page 12 describes the Scillies tragedy of 1707
 
 
 #### Articles
 
 
-* [Captain Cook: Explorer, Navigator and Maritime Pioneer](/http-www-bbc-co-uk-history-discovery-exploration-captaincook-01-shtml)
-* [Life in the 18th Century Royal Navy](/http-www-bbc-co-uk-history-discovery-exploration-life-at-sea-01-shtml)
-* [Endeavour's Scientific Impact](/http-www-bbc-co-ukendeavour-voyage-01-shtml)
+* [Captain Cook: Explorer, Navigator and Maritime Pioneer](http://www.bbc.co.uk/history-discovery-exploration-captaincook-01-shtml)
+* [Life in the 18th Century Royal Navy](http://www.bbc.co.uk/history-discovery-exploration-life-at-sea-01-shtml)
+* [Endeavour's Scientific Impact](http://www.bbc.co.uk/endeavour-voyage-01-shtml)
 
 
 #### Historic Figures
 
 
-* [James Lind](/http-www-bbc-co-uk-history-historic-figures-lind-james-shtml)
-* [Captain Cook](/http-www-bbc-co-uk-history-historic-figures-cook-james-shtml)
-* [Sir Joseph Banks](/http-www-bbc-co-uk-history-historic-figures-banks-sir-joseph-shtml)
-* [Charles Green](/http-www-bbc-co-uk-history-historic-figures-green-charles-shtml)
+* [James Lind](http://www.bbc.co.uk/history-historic-figures-lind-james-shtml)
+* [Captain Cook](http://www.bbc.co.uk/history-historic-figures-cook-james-shtml)
+* [Sir Joseph Banks](http://www.bbc.co.uk/history-historic-figures-banks-sir-joseph-shtml)
+* [Charles Green](http://www.bbc.co.uk/history-historic-figures-green-charles-shtml)
 
 
 #### Multimedia Zone
 
 
-* [Navigation Animation](/http-www-bbc-co-uk-history-discovery-exploration-navigation-animation-shtml)
-* [Endeavour Virtual Tour](/http-www-bbc-co-uk-history-discovery-exploration-endeavour-3d-shtml)
-* [September 19 is "Talk Like a Pirate Day"](/http-www-talklikeapirate-com-piratehome-html)
+* [Navigation Animation](http://www.bbc.co.uk/history-discovery-exploration-navigation-animation-shtml)
+* [Endeavour Virtual Tour](http://www.bbc.co.uk/history-discovery-exploration-endeavour-3d-shtml)
+* [September 19 is "Talk Like a Pirate Day"](http://www.talklikeapirate.com/piratehome.html)

@@ -10,5 +10,5 @@ This could be a typo, or a reminder that this is not historical fact.
 ### External links
 
 
-* [Wikipedia: John Wilkins](/http-en-wikipedia-org-wiki-john-wilkins) died 19 November 1672.
-* [University of St Andrews, Scotland: John Wilkins](/http-www-gap-dcs-st-and-ac-uk-history-mathematicians-wilkins-html) died 16 November 1672.
+* [Wikipedia: John Wilkins](https://en.wikipedia.org/wiki/john-wilkins) died 19 November 1672.
+* [University of St Andrews, Scotland: John Wilkins](http://www.gap.dcs.st.and.ac.uk/history-mathematicians-wilkins.html) died 16 November 1672.

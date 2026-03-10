@@ -14,5 +14,5 @@ is shown by [Alan Turing](/stephenson-neal-cryptonomicon-12-the-name-of-the-frie
 ### External Links
 
 
-* [Leibniz Series](/http-mathworld-wolfram-com-leibnizseries-html) on MathWorld
-* [Sequence A072172](/http-www-research-att-com-cgi-bin-access-cgi-as-njas-sequences-eisa-cgi-anum-a072172) in the [On-Line Encyclopedia of Integer Sequences](/http-www-research-att-com-njas-sequences-seis-html)
+* [Leibniz Series](http://mathworld.wolfram.com/leibnizseries.html) on MathWorld
+* [Sequence A072172](http://www.research.att.com/cgi-bin-access-cgi-as-njas-sequences-eisa-cgi-anum-a072172) in the [On-Line Encyclopedia of Integer Sequences](http://www.research.att.com/njas-sequences-seis.html)

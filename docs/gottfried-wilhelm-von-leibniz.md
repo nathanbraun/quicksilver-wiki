@@ -34,7 +34,7 @@ Gottfried Wilhelm von Leibniz (1646-1716) was a real person, famous for inventin
 ### [Candide](/candide)
 
 
-The novel [satirizes](/http-en-wikipedia-org-wiki-satire) the philosophy of Gottfried Leibniz with the character Doctor Pangloss.
+The novel [satirizes](https://en.wikipedia.org/wiki/satire) the philosophy of Gottfried Leibniz with the character Doctor Pangloss.
 
 ### Gottfried Leibniz
 
@@ -94,9 +94,9 @@ The principles of the logic of Leibniz, and consequently of his whole philosophy
 
 With regard to the first principle, the number of simple ideas is much greater than Leibniz thought; and, with regard to the second principle, logic considers three operations -- which are now known as logical multiplication, logical addition, and negation -- instead of only one. 
 
-[Characters](/http-en-wikipedia-org-wiki-character-mathematics) were, with Leibniz any written signs, and "real" characters were those which -- as in the Chinese ideography -- represent ideas directly, and not the words for them. Among real characters, some simply serve to represent ideas, and some serve for reasoning. Egyptian and Chinese hieroglyphics and the symbols of astronomers and chemists belong to the first category, but Leibniz declared them to be imperfect, and desired the second category of characters for what he called his *universal characteristic*. It was not in the form of an algebra that Leibniz first conceived his characteristic, probably because he was then a novice in mathematics, but in the form of a universal language or script. It was in 1676 that he first dreamed of a kind of algebra of thought, and it was the algebraic notation which then served as model for the characteristic. 
+[Characters](https://en.wikipedia.org/wiki/character-mathematics) were, with Leibniz any written signs, and "real" characters were those which -- as in the Chinese ideography -- represent ideas directly, and not the words for them. Among real characters, some simply serve to represent ideas, and some serve for reasoning. Egyptian and Chinese hieroglyphics and the symbols of astronomers and chemists belong to the first category, but Leibniz declared them to be imperfect, and desired the second category of characters for what he called his *universal characteristic*. It was not in the form of an algebra that Leibniz first conceived his characteristic, probably because he was then a novice in mathematics, but in the form of a universal language or script. It was in 1676 that he first dreamed of a kind of algebra of thought, and it was the algebraic notation which then served as model for the characteristic. 
 
-Leibniz attached so much importance to the invention of proper symbols that he attributed to this alone the whole of his discoveries in mathematics. And, in fact, his [infinitesimal calculus](/http-en-wikipedia-org-wiki-infinitesimal-calculus) affords a most brilliant example of the importance of, and Leibniz's skill in devising, a suitable notation. 
+Leibniz attached so much importance to the invention of proper symbols that he attributed to this alone the whole of his discoveries in mathematics. And, in fact, his [infinitesimal calculus](https://en.wikipedia.org/wiki/infinitesimal-calculus) affords a most brilliant example of the importance of, and Leibniz's skill in devising, a suitable notation. 
 
 ### Universal Characteristic and *Calculus ratiocinator*
 
@@ -150,11 +150,11 @@ Leibniz thus formed projects of both what he called a *characteristica universal
 ### External Links
 
 
-* [Britannica](/http-www-hfac-uh-edu-gbrown-philosophers-leibniz-britannicapages-leibniz-leibniz-html)
-* **[Leibniz Translations](/http-www-leibniz-translations-com)**
-* **[panglossianism](/http-en-wikipedia-org-wiki-panglossianism)**
-* **[University of St. Andrews History of Mathematics - Leibniz](/http-www-gap-dcs-st-and-ac-uk-history-mathematicians-leibniz-html)**
-* **[Leibniz, Not Locke, Inspired the Declaration of Independence](/http-members-tripod-com-american-almanac-leiblock-htm)** - This page seems more full of politicized vitriol than argument. There are only so many adjectives a piece can have before the validity of the argument is called into question, and there is little substantive data alongside the accusations. These same folks seem to refer to Hayek as a fascist.
-* *[The Intermet Encyclopedia of Philosophy - Gottfried Leibniz](/http-www-utm-edu-research-iep-l-leib-met-htm)*
-* *[European Graduate School - Gottfried Leibniz](/http-www-egs-edu-resources-gottfriedleibniz-html)*
+* [Britannica](http://www.hfac.uh.edu/gbrown-philosophers-leibniz-britannicapages-leibniz-leibniz.html)
+* **[Leibniz Translations](http://www.leibniz.translations.com)**
+* **[panglossianism](https://en.wikipedia.org/wiki/panglossianism)**
+* **[University of St. Andrews History of Mathematics - Leibniz](http://www.gap.dcs.st.and.ac.uk/history-mathematicians-leibniz.html)**
+* **[Leibniz, Not Locke, Inspired the Declaration of Independence](http://members.tripod.com/american-almanac-leiblock.htm)** - This page seems more full of politicized vitriol than argument. There are only so many adjectives a piece can have before the validity of the argument is called into question, and there is little substantive data alongside the accusations. These same folks seem to refer to Hayek as a fascist.
+* *[The Intermet Encyclopedia of Philosophy - Gottfried Leibniz](http://www.utm.edu/research-iep-l-leib-met.htm)*
+* *[European Graduate School - Gottfried Leibniz](http://www.egs.edu/resources-gottfriedleibniz.html)*
 * *[A Leibniz biography and bibliography](/http-www-kirjasto-sci-fi-leibnitz-htm)*

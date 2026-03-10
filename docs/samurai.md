@@ -77,4 +77,4 @@ Scholars codified the final form of the bushido during the Tokugawa era. Also, t
 #### [External links](/metaweb-external-links)
 
 
-* [The Wikipedia entry for samurai](/http-en-wikipedia-org-wiki-samurai) provided much of the basis for the previous entry for Gabriel Goto
+* [The Wikipedia entry for samurai](https://en.wikipedia.org/wiki/samurai) provided much of the basis for the previous entry for Gabriel Goto

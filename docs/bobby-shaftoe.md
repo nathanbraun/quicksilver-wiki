@@ -40,7 +40,7 @@ From the prologue -- Bobby is the Haiku generating **China Marine Raider** and t
 ### The United States Marines in North China
 
 
-**[From the history of the Fourth Marine Regiment](/http-www-chinamarines-com-docs-intro-htm)**  
+**[From the history of the Fourth Marine Regiment](http://www.chinamarines.com/docs-intro.htm)**  
 
 On 28 January 1927 the Fourth regiment received orders to proceed to China. Five days later, the regiment boarded the Naval transport Chaumont for duty in the international settlement in Shanghai China. As time passed, the word spread throughout the Corps that the choice duty was with the "China Marines." But duty in Shanghai was not without danger. On 12 December 1937 Japanese naval aircraft strafed and sank the U.S. Navy's Yangtze River patrol boat, *Panay*. In February 1938 the Japanese tried to provoke an "incident" by attempting to enter the American sector with armed patrols. The Marines stopped the attempts without incident. In the waning months of 1941, with world tensions growing, other foreign governments ordered their troops out of the international settlement in Shanghai. The last bit of protection left for American and U.S. interests in China was the small U. S. 7th Fleet, the Fourth Marine Regiment and the Yangtze River patrol boats that inspired the book and the movie, "THE SAND PEBBLES." The final elements of the Fourth Regiment left Shanghai on 28 November 1941. They were the last foreign troops to leave the international settlement. The Regimental band led the Marines down East Nanking Road toward the Whangpoo River and the waiting evacuation ships. It was an end of an era--the final day of one of the most desired duty stations in the history of the Corps. The China Marines had been there 14 years. Their arrival in the Philippines opened a new era for the Fourth Marines--a time of jungle warfare, starvation and deprivation. These "Leathernecks" may have been surrendered by Army command, but they refused to accept defeat.
 
@@ -48,7 +48,7 @@ The China Marines lived up to the proud heritage of the Corps, despite the horro
 
 Some Japanese guards, veterans of China, remembering the China Marines in Shanghai, took exceptional pleasure in singling out Marine prisoners for harsh treatment. ... the men of the Fourth Regiment of United States Marines, continued the battle from behind barbed wire through sabotage and antics designed to befuddle their captors. But in the memories of the men, no longer on combat alert, there, hidden in the dark reaches of the mind, are the memories of bloody combat in the Jungles of Bataan and Corregidor. In the tropics dead bodies bloat quickly, the odor of body excrement, released by death, lies heavy in the air mingled with the smell of blood and the odor of corpses rotting in the heat. This is the reality of war--memories that can not be erased by time; of boys who became men in combat--memories carried to the grave.
 
-Craig Rothhammer's excellent resource on [North China Marines](/http-www-northchinamarines-com-home-index-html):  US Marines served in China at various times and places from the days of the Boxer Rebellion of 1900. During the 1920's and 30's Marines were stationed at the American Embassy in Peking (Beijing). They were the Embassy Guard Detachment. In 1938 a unit was sent from Peking to Tientsin (Tianjin) to take over legation guard duty from the Army. A still smaller detachment was sent to Fort Holcomb at Chinwangtao (Qinhuangdao), about 140 miles northeast of Tientsin. This was the seaport through which all shipping for the embassy and the Marines had to travel. In the late 1930's the Embassy Guard Detachment in Peking consisted of about 300 men, the Legation Guard Detachment in Tientsin about 200 men, with about 20 men at Chinwangtao. (Spellings of Chinese cities are from that time period, not current usage.) 
+Craig Rothhammer's excellent resource on [North China Marines](http://www.northchinamarines.com/home-index.html):  US Marines served in China at various times and places from the days of the Boxer Rebellion of 1900. During the 1920's and 30's Marines were stationed at the American Embassy in Peking (Beijing). They were the Embassy Guard Detachment. In 1938 a unit was sent from Peking to Tientsin (Tianjin) to take over legation guard duty from the Army. A still smaller detachment was sent to Fort Holcomb at Chinwangtao (Qinhuangdao), about 140 miles northeast of Tientsin. This was the seaport through which all shipping for the embassy and the Marines had to travel. In the late 1930's the Embassy Guard Detachment in Peking consisted of about 300 men, the Legation Guard Detachment in Tientsin about 200 men, with about 20 men at Chinwangtao. (Spellings of Chinese cities are from that time period, not current usage.) 
  
 In 1937 the Japanese invaded and conquered much of eastern China. While Japan controlled this area of China, various military units of other nations remained. The British, French, and Italians also kept forces in Peking. In November of 1941 the 1200 men of the US Fourth Marines in Shanghai were withdrawn and sent to the Philippines. This left only the men of the North China Marines in Peking, Tientsin, and Chinwangtao, by then totalling only 203 men. (There were actually 204 men. A retired major who lived in Peking had been recalled to duty. He somehow managed to get himself sent back to the States. The other 203 do not like to include the major in any references to themselves as POWs, understandably so, as they spent more than three years as POWs after the major left them.) They were to depart China on the 10th of December, 1941. In preparation for this move all but their personal gear and weapons had been crated and sent to Chinwangtao to be loaded aboard ship for the move to the Philippines. 
  
@@ -58,7 +58,7 @@ Upon surrender, the small unit at Chinwangtao was sent to join the men in Tients
 
 The Marines in Peking were kept in their compound until 10 January 1942, at which time they also were sent to Tientsin. In late January the entire group of 203 Marines was sent by train to the Prisoner of War camp at Woosung, outside Shanghai. They joined there the approximately 1100 Marines and civilians captured earlier on Wake Island. From this time until their rescue in September of 1945 the Marines were used as slave labor by the Japanese. (The SS President Harrison, which was to have picked up the Marines, was run aground by its captain. The Japanese salvaged it. In Sep of 1944, then called the Kachidoki Maru,  it was torpedoed as it carried about 900 Allied POWs to Japan.) 
  
-On 1 or 2 November of 1942 a group of about 40 Marines and civilians was sent from Woosung to the northwest coast of Kyushu, the southernmost of the four main islands of Japan. There they were imprisoned at Fukuoka camp 3-B. This group included at least 18 North China Marines. (This movement took place as is  described in Terence Kirk's book, The Secret Camera . None of the other North China Marine books mention it.  The American Prisoner of War Information Bureau does, although it gives the number of men transferred to Japan as about 70, and gives the date as 18 Sep 1942. The Newell diary mentions about 70 leaving in Sep and another 70 leaving in Nov. None of the North China Marines I have talked to recall this transfer, unless they were part of it. This is most likely due to the small number of men involved and what life as a POW does to your memory - meaning, unless you were specifically involved in an event it is probably not etched clearly in your memory.) The Fukuoka POW camp is known for brutal punishments upon the prisoners after the 2nd Atomic bomb was dropped.[[1]](/http-www-northchinamarines-com-home-id17-html)
+On 1 or 2 November of 1942 a group of about 40 Marines and civilians was sent from Woosung to the northwest coast of Kyushu, the southernmost of the four main islands of Japan. There they were imprisoned at Fukuoka camp 3-B. This group included at least 18 North China Marines. (This movement took place as is  described in Terence Kirk's book, The Secret Camera . None of the other North China Marine books mention it.  The American Prisoner of War Information Bureau does, although it gives the number of men transferred to Japan as about 70, and gives the date as 18 Sep 1942. The Newell diary mentions about 70 leaving in Sep and another 70 leaving in Nov. None of the North China Marines I have talked to recall this transfer, unless they were part of it. This is most likely due to the small number of men involved and what life as a POW does to your memory - meaning, unless you were specifically involved in an event it is probably not etched clearly in your memory.) The Fukuoka POW camp is known for brutal punishments upon the prisoners after the 2nd Atomic bomb was dropped.[[1]](http://www.northchinamarines.com/home-id17.html)
 
 In December the camp at Woosung was closed and the entire group moved to nearby Kiangwan. In August of 1943 a group of about 500 POWs was sent from Kiangwan to camps near Tokyo. This included an unknown number of North China Marines. Later some of these POWs were sent to other camps in Japan, mostly in the general Tokyo area.
 
@@ -70,7 +70,7 @@ Some of the POWs were sent to camps near Osaka. Some civilians were sent to Yama
 #### Some Quotes
 
 
-From the **[PROLOGUE](/http-www-cryptonomicon-com-text-print-html)**
+From the **[PROLOGUE](http://www.cryptonomicon.com/text-print.html)**
 Two tires fly. Two wail. 
 A bamboo grove, all chopped down 
 From it, warring songs 
@@ -81,7 +81,7 @@ From **Seaweed** 
   Mr. Pascual puts his cigarette in his mouth and shakes Corporal Shaftoe's hand. "Well, congratulations! I just saw your uncle Jack last week. I don't think he had any idea you were on your way back." 
 
 From **Spearhead** 
-" Shaftoe has a wiry build, bulging [Alley Oop](/http-en-wikipedia-org-wiki-alley-oop) forearms and hands, and blond hair in a buzz cut that makes his big blue eyes look bigger. He has a big nose and a big Adams apple and big acne scars and some other scars around the orbits of his eyes. The large features in the trim body give him an intense presence; it is hard not to keep looking over in his direction. 
+" Shaftoe has a wiry build, bulging [Alley Oop](https://en.wikipedia.org/wiki/alley-oop) forearms and hands, and blond hair in a buzz cut that makes his big blue eyes look bigger. He has a big nose and a big Adams apple and big acne scars and some other scars around the orbits of his eyes. The large features in the trim body give him an intense presence; it is hard not to keep looking over in his direction. 
 
 ### China Marines v. Marine Raiders
 
@@ -158,7 +158,7 @@ And that's why we loved Carlson--because we could kill the enemy 40 to 1."
 (From the book, The Island: A History of the First Marine Division on Guadalcanal, by Capt H.L. Merillat USMCR) 
 "...Most significant, though, was the demonstration of the ability of American troops, properly trained and indoctrinated, to operate independent of established supply lines in the jungle. In the thirty engagements it fought, the battalion had been surprised only twice. On the other occasions it gained complete surprise over the enemy. This fact, plus its skill in jungle fighting and its tremendous fire power, explain the low casualties we sustained in comparison to those of the enemy. The heroes of Makin Island had added another exceptional feat of arms to their history."
 
-### [War Dogs With the Raiders](/http-www-usmarineraiders-org-wardogs-htm)
+### [War Dogs With the Raiders](http://www.usmarineraiders.org/wardogs.htm)
 
 
 (1-4 Chapt. 13 p187-199) 
@@ -194,7 +194,7 @@ These convoys and the land battle on Guadalcanal became magnets for naval activi
 
 These naval battles did not produce a victor, but the Japanese were unable to replace their losses. 
 
-The land battle hinged around the airfield which the Americans named [Henderson Field](/http-en-wikipedia-org-wiki-henderson-field), a muddy airstrip hanging onto the edge of the island, and considered "an unsinkable aircraft carrier". The Japanese suffered 24,000 casualties, the Americans 6,000. 
+The land battle hinged around the airfield which the Americans named [Henderson Field](https://en.wikipedia.org/wiki/henderson-field), a muddy airstrip hanging onto the edge of the island, and considered "an unsinkable aircraft carrier". The Japanese suffered 24,000 casualties, the Americans 6,000. 
 
 Extreme desperation characterized the ground fighting; only three of the defenders surrendered. American authorities declared Guadalcanal secure on 9 February, 1943, after more than six months of combat.
 
@@ -257,17 +257,17 @@ The US Armed Forces were not integrated in WW2; although the French used America
 ### External Link and Footnotes
 
 
-* [Author's site for Cryptonomicon](/http-www-cryptonomicon-com)
-* [Battle of Guadalcanal](/http-en-wikipedia-org-wiki-battle-of-guadalcanal)
-* [Ally Oop](/http-en-wikipedia-org-wiki-alley-oop)
-* [The Codetalker Story](/http-www-navajocodetalker-com-home-html)
-* [Aircraft Carrier codeword](/http-www-usmint-gov-multimedia-audio-navajo-aircraft-carrier-wav)
+* [Author's site for Cryptonomicon](http://www.cryptonomicon.com)
+* [Battle of Guadalcanal](https://en.wikipedia.org/wiki/battle-of-guadalcanal)
+* [Ally Oop](https://en.wikipedia.org/wiki/alley-oop)
+* [The Codetalker Story](http://www.navajocodetalker.com/home.html)
+* [Aircraft Carrier codeword](http://www.usmint.gov/multimedia-audio-navajo-aircraft-carrier-wav)
 * [ISBN 0195167767](/) E. B. Sledge's China Marine: An Infantryman's Life after World War II
-* [North China Marines](/http-www-northchinamarines-com-home-index-html)
-* [Roster of the NORTH CHINA MARINES as of DECEMBER 7, 1941](/http-www-mansell-com-pow-resources-china-marines-html)
-* [4th Marines](/http-www-txdirect-net-users-jeturner-usmc4-00-htm)
-* 1 [Fukuoka 3-B Prison Camp](/http-www-northchinamarines-com-home-id17-html)
-* [Code talker](/http-en-wikipedia-org-wiki-code-talker)
-* [The Last Codetalker](/http-www-comanchenation-com-chibitty-html)
-* [Comanche Code Talker Charles Chibitty Dies](/http-www-washingtonpost-com-wp-dyn-content-article-2005-07-25-ar2005072501542-html)
-* [Last WWII Comanche 'code talker' dies in Oklahoma](/http-www-rednova-com-news-general-182675-last-wwii-comanche-code-talker-dies-in-oklahoma)
+* [North China Marines](http://www.northchinamarines.com/home-index.html)
+* [Roster of the NORTH CHINA MARINES as of DECEMBER 7, 1941](http://www.mansell.com/pow-resources-china-marines.html)
+* [4th Marines](http://www.txdirect.net/users-jeturner-usmc4-00.htm)
+* 1 [Fukuoka 3-B Prison Camp](http://www.northchinamarines.com/home-id17.html)
+* [Code talker](https://en.wikipedia.org/wiki/code-talker)
+* [The Last Codetalker](http://www.comanchenation.com/chibitty.html)
+* [Comanche Code Talker Charles Chibitty Dies](http://www.washingtonpost.com/wp-dyn-content-article-2005-07-25-ar2005072501542.html)
+* [Last WWII Comanche 'code talker' dies in Oklahoma](http://www.rednova.com/news-general-182675-last-wwii-comanche-code-talker-dies-in-oklahoma)

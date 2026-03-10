@@ -8,4 +8,4 @@ From the Quicksilver Metaweb.
 ### External links
 
 
-* [http://creativecommons.org/](/http-creativecommons-org)
+* [http://creativecommons.org/](http://creativecommons.org)

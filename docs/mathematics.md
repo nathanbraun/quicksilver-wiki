@@ -13,10 +13,10 @@ The specific structures that are investigated by mathematicians often have their
 
 Mathematics is often abbreviated to **math** in North America and **maths** in other English-speaking countries. 
 
-See: [mathematics](/http-en2-wikipedia-org-wiki-mathematics) for the complete entry.
+See: [mathematics](https://en.wikipedia.org/wiki/mathematics) for the complete entry.
 
 ### External link
 
 
-* [Mathworld](/http-mathworld-wolfram-com)
-* [arXiv.org e-Print archive](/http-arxiv-org)
+* [Mathworld](http://mathworld.wolfram.com)
+* [arXiv.org e-Print archive](http://arxiv.org)

@@ -46,4 +46,4 @@ From the point of view of [Quicksilver](/quicksilver) and other fictional univer
 #### External links
 
 
-* [Don Quixote (Wikipedia)](/http-wikipedia-org-wiki-don-quixote)
+* [Don Quixote (Wikipedia)](http://wikipedia.org/wiki-don-quixote)

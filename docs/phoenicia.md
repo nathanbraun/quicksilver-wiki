@@ -17,14 +17,14 @@ The temporary [Metaweb](/main-page) page for discussion of **alphabets** and wri
 * [Stephenson:Neal:Quicksilver:139:Systematic Alphabet (Jonnay)](/stephenson-neal-quicksilver-139-systematic-alphabet-jonnay)
 
 
-### [Wikipedia: Phoenicia (edited and excerpted)](/http-en-wikipedia-org-wiki-phoenicia)
+### [Wikipedia: Phoenicia (edited and excerpted)](https://en.wikipedia.org/wiki/phoenicia)
 
 
 **Phoenicia** was an ancient civilization with its heartland along the coastal plain of what is now Lebanon and Syria. In archeological terms Phoenicians were actually Canaanites and the two should not be considered as separate people along the coasts of the Levant. After a period of Egyptian domination in the area, the high point of Phoenician power is usually placed circa 1200  800 BCE. However, the first appearance in archaeology of cultural elements clearly identifiable with that period is sometimes dated as early as the third millennium BCE. Phoenician civilization was an enterprising maritime trading culture that spread right across the Mediterranean during the first century BCE. Though ancient boundaries fluctuated, the southern city of Sarepta, between Sidon and Tyre, is the most thoroughly excavated city of the Phoenician homeland. The name Phoenicia derives from the Greek name for the area, Phoiník?. The Torah refers to the Phoenicians as Canaanites. In various texts, they are the mysterious "Sea People."
 
 The Phoenicians spoke the Phoenician language, and later Punic. In addition to their many inscriptions, the Phoenicians, contrary to some reports, wrote many books which have not survived. *Evangelical Preparation* by Eusebius of Caesarea quotes extensively from Philo of Byblos and Sanchuniathon. Further, the Phoenician Punic colonies of North Africa continued to be a source of knowledge about the Phoenicians. Saint Augustine AKA "The Killer of Fun" (who spoke Punic, and calls it "our language") refers to their books as containing much wisdom. Torah scribes did not like it when a princess from Phoenicia became Queen Jezebel of Israel and introduced the worship of her gods. Queen Jezebel was the great-aunt of Dido-Elissar who founded Carthage out of which came Hannibal. 
 
-### [Wikipedia: History and diffusion of alphabets](/http-en-wikipedia-org-wiki-alphabet-history-and-diffusion-of-alphabets)
+### [Wikipedia: History and diffusion of alphabets](https://en.wikipedia.org/wiki/alphabet-history-and-diffusion-of-alphabets)
 
 
 The first alphabet that has been recovered was developed in central Egypt around 2000 BCE. Until 1999 CE it was generally accepted that the first alphabet originated some 300-500 years later. Alphabetic material was uncovered at Serabit el-Khadem in Sinai in 1905 and at Ugarit in Syria in 1929. Dating was disputed but put in the period of 1800 to 1500 BCE, the archaeologist Alan Gardiner in "The Egyptian Origins of the Semitic Alphabet" (1916) set the tone for much of the future debate. However, in the 1990s studies by John Darnell of rock carvings at Wadi el-Holi, have pushed the creation of the alphabet back to 2000 BCE and placed its origin with Semitic workers within Egyptian society.
@@ -42,7 +42,7 @@ A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z
 (The ligatures Æ, , and ß when used in English, French, or German are normally not counted as separate alphabetic letters but as variants of AE, OE and ss respectively. Letters bearing diacritics are also not counted as separate letters in these languages. This is often not the case for Æ and  and some letters bearing diacritics in other variations of the Latin alphabet.)
 
 
-### [Wikipedia: Phoenician alphabet](/http-en-wikipedia-org-wiki-phoenician-alphabet)
+### [Wikipedia: Phoenician alphabet](https://en.wikipedia.org/wiki/phoenician-alphabet)
 
 
 The Phoenician alphabet dates from around 1000 BCE and is a direct descendant of the Proto-Sinatic alphabet. It was used by the Phoenicians to write Phoenician, a Northern Semitic language. Modern alphabets thought to have descended from the Phoenician include Greek, Hebrew, Arabic and Latin. Like Proto-Sinatic, Arabic and Hebrew, Phoenician is a consonantal alphabet (an abjad), and contains no symbols for vowel sounds, which had to be deduced from context.
@@ -86,7 +86,7 @@ Phoenician inscriptions have been found in archaeological sites at a number of f
 
 
 * The meanings given are of the letter names in Phoenician. The original Proto-Sinatic letters used to be pictograms, though some of the name meanings had changed by the time of Phoenician. For example, the character gimel may have originally been the image of a throwing stick
-* As the letters were originally carved into stone, most are square and straight, like characters from the [runic alphabet](/http-en-wikipedia-org-wiki-runic-alphabet), although more cursive versions are increasingly attested in later times, culminating in the Neo-Punic alphabet of Roman-era North Africa.
+* As the letters were originally carved into stone, most are square and straight, like characters from the [runic alphabet](https://en.wikipedia.org/wiki/runic-alphabet), although more cursive versions are increasingly attested in later times, culminating in the Neo-Punic alphabet of Roman-era North Africa.
 * Phoenician was usually written from right to left, although there are some texts written in boustrophedon (consecutive lines in alternate directions – literally, *as the ox turns*, a reference to the way an ox turns at the end ploughing a furrow and carries on the next furrow in the opposite direction).
 * Various letters have alternative representations: e.g. the taw can be written more like a '+' than like a 'x', the heth can have two cross bars.
 * The Greek letters given in brackets are archaic and may not render in some fonts (see Greek alphabet for details).

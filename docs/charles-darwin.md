@@ -15,7 +15,7 @@ This is an [Baroque Cycle](/baroque-cycle) page for **Charles Darwin**.
 
 ![HMSBeagle.jpeg](/images/HMSBeagle.jpeg)  
 HMS Beagle
-### [Wikipedia: Charles Darwin](/http-en-wikipedia-org-wiki-charles-darwin)
+### [Wikipedia: Charles Darwin](https://en.wikipedia.org/wiki/charles-darwin)
 
 
 **Charles Robert Darwin** (February 12, 1809 - April 19, 1882) was a revolutionary British geologist and naturalist who laid the foundation for both the modern theory of evolution and the principle of common descent with his proposal of natural selection as a mechanism. He published this proposal in 1859 in the book Origin of Species, which remains his most famous work. A worldwide sea voyage aboard the H.M.S. Beagle and observations on the Galapagos Islands in particular provided inspiration and much of the data on which he based his theory. ![Charles_Darwin_1854.jpg](/images/Charles_Darwin_1854.jpg)  
@@ -77,7 +77,7 @@ Darwin presents a theory of evolution that is in most aspects identical to the t
 
 Darwin, as evidenced by his later work, *The Descent of Man*, was well aware of the implications such a theory would have on the study of the origins of humanity; consequently, he withheld publication of his accumulated evidence in favour of natural selection for more than a decade. He was eventually forced into publication because of the independent development of a similar theory by Alfred Russel Wallace, who sent Darwin his manuscript in 1858. A joint publication of Darwin/Wallace's theory of evolution was put forth the following year. It is felt by some that Wallace deserves as much credit as Darwin for the theory of natural selection, and that he has been rather unfairly marginalised from the history of its development.
 
-Although the theory is widely accepted by scientists today, it is still highly controversial in many countries, particularly in certain southern states of the United States  see [Scopes Monkey Trial](/http-en-wikipedia-org-wiki-scopes-monkey-trial), and the psuedoscience of [creationism](/http-en-wikipedia-org-wiki-creationism).
+Although the theory is widely accepted by scientists today, it is still highly controversial in many countries, particularly in certain southern states of the United States  see [Scopes Monkey Trial](https://en.wikipedia.org/wiki/scopes-monkey-trial), and the psuedoscience of [creationism](https://en.wikipedia.org/wiki/creationism).
 
 It provoked an outraged response from the Church. A large meeting was organised in Oxford where 'Soapy Sam' Wilberforce, the Bishop of Oxford, numerous Clergy and Robert Fitzroy (the Captain of HMS Beagle) argued against Darwin, Thomas Huxley and their Evolutionist supporters. On being asked by Wilberforce, whether he was descended from monkeys on his grandfather's side or his grandmother's side, Huxley, recognizing the stupidity of the question, apparently muttered to himself: "The lord has delivered him into my hands", and then replied that he "would rather be descended from an ape than from a cultivated man who used his gifts of culture and eloquence in the service of prejudice and falsehood" [several alternative versions of this supposed quote exist, see Wilberforce and Huxley: A Legendary Encounter] - link below. 
 
@@ -170,27 +170,27 @@ This included statements such as:
 ### External links
 
 
-* [EvoWiki](/http-en-wikipedia-org-wiki-evowiki)
-* [Chapter-indexed, searchable versions of Darwin's works](/http-www-darwin-literature-com)
-* [The Origin of the Species](/http-en-wikipedia-org-wiki-the-origin-of-species)
-* [Fitness Landscape](/http-en-wikipedia-org-wiki-fitness-landscape)
-* [Evolutionary Biology](/http-en-wikipedia-org-wiki-evolutionary-biology)
+* [EvoWiki](https://en.wikipedia.org/wiki/evowiki)
+* [Chapter-indexed, searchable versions of Darwin's works](http://www.darwin.literature.com)
+* [The Origin of the Species](https://en.wikipedia.org/wiki/the-origin-of-species)
+* [Fitness Landscape](https://en.wikipedia.org/wiki/fitness-landscape)
+* [Evolutionary Biology](https://en.wikipedia.org/wiki/evolutionary-biology)
 
 
 ### External Texts
 
 
 
-**Note: The comprehensive and authoritative web source for Darwin texts (essentially all of them, in a consistent and citable format) is [[http://pages.britishlibrary.net/charles.darwin](/http-pages-britishlibrary-net-charles-darwin)](http-pages-britishlibrary-net-charles-darwin). See also [the Wikibooks entry on Darwin](/http-wikibooks-org-wiki-charles-darwin).**
+**Note: The comprehensive and authoritative web source for Darwin texts (essentially all of them, in a consistent and citable format) is [[http://pages.britishlibrary.net/charles.darwin](http://pages.britishlibrary.net/charles-darwin)](http-pages-britishlibrary-net-charles-darwin). See also [the Wikibooks entry on Darwin](http://wikibooks.org/wiki-charles-darwin).**
 
 1. [*Expression of Emotions in Man and Animals*](/http-paradigm-soci-brocku-ca-lward-darwin-darwin00-html)
-2. [*Life and Letters of Charles Darwin*](/http-digital-library-upenn-edu-webbin-gutbook-lookup-num-2010)
-3. [*Descent of Man*](/http-www-infidels-org-library-historical-charles-darwin-descent-of-man)
-4. [*Formation of Vegetable Mould Through the Action of Worms*](/http-digital-library-upenn-edu-webbin-gutbook-lookup-num-2355)
-5. [*Geological Observations of South America*](/http-digital-library-upenn-edu-webbin-gutbook-lookup-num-3620)
-6. [*Geological Observations of Volcanic Islands*](/http-digital-library-upenn-edu-webbin-gutbook-lookup-num-3054)
-7. [*Movement and Habits of Climbing Plants*](/http-digital-library-upenn-edu-webbin-gutbook-lookup-num-2485)
-8. [*Structure and Distribution of Coral Reefs*](/http-digital-library-upenn-edu-webbin-gutbook-lookup-num-2690)
-9. [*Variation of Plants and Animals Under Domestication*](/http-www-esp-org-books-darwin-variation-facsimile-title3-html)
-10. [*Voyage of the Beagle*](/http-www-infidels-org-library-historical-charles-darwin-voyage-of-beagle)
-11. [*Autobiography of Charles Darwin*](/http-digital-library-upenn-edu-webbin-gutbook-lookup-num-2010)
+2. [*Life and Letters of Charles Darwin*](http://digital.library.upenn.edu/webbin-gutbook-lookup-num-2010)
+3. [*Descent of Man*](http://www.infidels.org/library-historical-charles-darwin-descent-of-man)
+4. [*Formation of Vegetable Mould Through the Action of Worms*](http://digital.library.upenn.edu/webbin-gutbook-lookup-num-2355)
+5. [*Geological Observations of South America*](http://digital.library.upenn.edu/webbin-gutbook-lookup-num-3620)
+6. [*Geological Observations of Volcanic Islands*](http://digital.library.upenn.edu/webbin-gutbook-lookup-num-3054)
+7. [*Movement and Habits of Climbing Plants*](http://digital.library.upenn.edu/webbin-gutbook-lookup-num-2485)
+8. [*Structure and Distribution of Coral Reefs*](http://digital.library.upenn.edu/webbin-gutbook-lookup-num-2690)
+9. [*Variation of Plants and Animals Under Domestication*](http://www.esp.org/books-darwin-variation-facsimile-title3.html)
+10. [*Voyage of the Beagle*](http://www.infidels.org/library-historical-charles-darwin-voyage-of-beagle)
+11. [*Autobiography of Charles Darwin*](http://digital.library.upenn.edu/webbin-gutbook-lookup-num-2010)

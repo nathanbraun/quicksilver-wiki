@@ -12,7 +12,7 @@ The **Riemann zeta function** ζ(*s*) is defined for any complex number *s* with
 \sum_{n=1}^\infin \frac{1}{n^s}
 ](/web/20060725171109im_/http://www.metaweb.com/wiki/upload/math/d6aaabb6460641586702b318647fc602.png)
 In the region {*s* : Re(*s*) > 1},
-this infinite series converges and defines a holomorphic function. (In that expression, Re means the real part of a number.) Bernhard Riemann realized that the zeta function can be extended by analytic continuation in a unique way to a [holomorphic function](/http-en-wikipedia-org-wiki-holomorphic-function) ζ(*s*) defined for **all** complex numbers *s* with *s* ≠ 1. It is this function that is the object of the Riemann hypothesis.
+this infinite series converges and defines a holomorphic function. (In that expression, Re means the real part of a number.) Bernhard Riemann realized that the zeta function can be extended by analytic continuation in a unique way to a [holomorphic function](https://en.wikipedia.org/wiki/holomorphic-function) ζ(*s*) defined for **all** complex numbers *s* with *s* ≠ 1. It is this function that is the object of the Riemann hypothesis.
 
 The connection between this function and prime numbers was already realized by Leonhard Euler: 
 ![
@@ -54,6 +54,6 @@ for every complex number *s* with real part > 1. This, together with the above e
 
 
 * [The Mathematical Papers of Georg Friedrich Bernhard Riemann](/http-www-emis-de-classics-riemann)
-* [Riemann Biography](/http-www-gap-dcs-st-and-ac-uk-history-mathematicians-riemann-html) in [The MacTutor History of Mathematics archive](/http-www-history-mcs-st-andrews-ac-uk-history)
-* [The Riemann Zeta Function](/http-mathworld-wolfram-com-riemannzetafunction-html) on [MathWorld](/http-mathworld-wolfram-com)
-* [The Riemann Zeta Function](/http-planetmath-org-encyclopedia-riemannzetafunction-html) on [PlanetMath](/http-planetmath-org)
+* [Riemann Biography](http://www.gap.dcs.st.and.ac.uk/history-mathematicians-riemann.html) in [The MacTutor History of Mathematics archive](http://www.history.mcs.st.andrews.ac.uk/history)
+* [The Riemann Zeta Function](http://mathworld.wolfram.com/riemannzetafunction.html) on [MathWorld](http://mathworld.wolfram.com)
+* [The Riemann Zeta Function](http://planetmath.org/encyclopedia-riemannzetafunction.html) on [PlanetMath](http://planetmath.org)

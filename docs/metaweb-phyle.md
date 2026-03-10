@@ -11,6 +11,6 @@ A closely related concept is that of the [phyle](/phyle) from [Diamond Age](/dia
 
 Since both the faction and the phyle are those who assume high trust within the group, but are not necessarily accorded any trust beyond absolute minimum by those outside the group, it's an alternative to a [permission-based model](/permission-based-model), and one more likely to encourage the kind of wide participation a [large public wiki](/large-public-wiki) thrives on.
 
-See [Recyclopedia:faction](/http-www-recyclopedia-info-wiki-wiki-phtml-title-recyclopedia-faction) for a discussion of these potentials. **Faction** capabilities are one of several features for managing [identity dispute](/identity-dispute) problems, collective identity, alleged identity, an [interwiki identity standard](/interwiki-identity-standard) and a [standard wiki URI](/standard-wiki-uri). 
+See [Recyclopedia:faction](http://www.recyclopedia.info/wiki-wiki-phtml-title-recyclopedia-faction) for a discussion of these potentials. **Faction** capabilities are one of several features for managing [identity dispute](/identity-dispute) problems, collective identity, alleged identity, an [interwiki identity standard](/interwiki-identity-standard) and a [standard wiki URI](/standard-wiki-uri). 
 
-See also [Consumerium:faction](/http-consumerium-org-wiki-wiki-phtml-title-faction) for a discussion of how factions may apply in that model.
+See also [Consumerium:faction](http://consumerium.org/wiki-wiki-phtml-title-faction) for a discussion of how factions may apply in that model.

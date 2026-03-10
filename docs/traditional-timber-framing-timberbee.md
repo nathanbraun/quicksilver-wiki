@@ -265,13 +265,13 @@ At the most flexible end of the spectrum is a Shop which practices Square Rule, 
 * **Power Tools** - Add a layer of requirements. The first is the need for Power. The flexibility on what supplies that Power depends greatly upon the requirements of the individual tool. The needs of a Maffel Three-Phase 10" Circular Saw, are far different than those of a Makitta 110v 16" Circular Saw, still different are the needs of a gas powered saw, say, a standard chainsaw, which carries it's power plant with it -- Similar to a Human Being.
 
 
-* **Power For the Power Tool**; Sourcing power can be answered in a number of ways, from the Conventional manner of "Hooking into the Grid" to the use of various generators, from the portable shop generator to the Larger, more stationary, [China Diesel Generators](/http-www-generatorpro-com-china-diesel-generator-aspx)
+* **Power For the Power Tool**; Sourcing power can be answered in a number of ways, from the Conventional manner of "Hooking into the Grid" to the use of various generators, from the portable shop generator to the Larger, more stationary, [China Diesel Generators](http://www.generatorpro.com/china-diesel-generator-aspx)
 
 The question of Three phase can be answered with Three-Phase converters, should that service not be available localy (Check with local regulations).
 
-Alternatives such as [Wind](/http-www-eere-energy-gov-re-wind-html), [Solar](/http-www-eere-energy-gov-re-solar-html) and [Water](/http-www-eere-energy-gov-re-hydropower-html) Power are also available, and greatly extend the zones in which Small scale power tools can be used.
+Alternatives such as [Wind](http://www.eere.energy.gov/re-wind.html), [Solar](http://www.eere.energy.gov/re-solar.html) and [Water](http://www.eere.energy.gov/re-hydropower.html) Power are also available, and greatly extend the zones in which Small scale power tools can be used.
 
-* **Shelter From the Storm**; Unlike Most Handtools, A power tool cannot be, wiped down, tuned up and be expected to work well After having been subjected Hurican conditions, Sand Storms, or after having been recovered from a MudSlide. Most Power Tools require at least a minimum level of protection from the elements, in order to continue functioning at top effeciency. They also require more General care, and protection from Dampness, than do most Handtools. Though all Tools should be protected from rusting, Or, over drying, Handtools are, typicaly, not as delicate as the average Power Tool, in addition. The Repair, and Re-Tuning, of a Handtool is often Well within the capabilities of the craftsman using it. Not so with most of the Power Tools in use. It's a [Rare](/http-www-vtf-com-paul-profile-html) Individual who takes their Router apart in order to turn it's Armature on a lathe at home, in order to restore it to life.
+* **Shelter From the Storm**; Unlike Most Handtools, A power tool cannot be, wiped down, tuned up and be expected to work well After having been subjected Hurican conditions, Sand Storms, or after having been recovered from a MudSlide. Most Power Tools require at least a minimum level of protection from the elements, in order to continue functioning at top effeciency. They also require more General care, and protection from Dampness, than do most Handtools. Though all Tools should be protected from rusting, Or, over drying, Handtools are, typicaly, not as delicate as the average Power Tool, in addition. The Repair, and Re-Tuning, of a Handtool is often Well within the capabilities of the craftsman using it. Not so with most of the Power Tools in use. It's a [Rare](http://www.vtf.com/paul-profile.html) Individual who takes their Router apart in order to turn it's Armature on a lathe at home, in order to restore it to life.
 
 
 
@@ -281,7 +281,7 @@ Alternatives such as [Wind](/http-www-eere-energy-gov-re-wind-html), [Solar](/ht
 ## Industrial Timber Framing
 
 
-New tooling, such as the [[Hundegger](/http-www-hundeggerusa-com)], thrusts the cutting of the timber frame into the realm of Commercial Production. Though some of the machines are relatively small, it is still more appropriate to study Industrial production methods, rather than Craft, or trade methods when looking to organize a site for efficently using such a tool.
+New tooling, such as the [[Hundegger](http://www.hundeggerusa.com)], thrusts the cutting of the timber frame into the realm of Commercial Production. Though some of the machines are relatively small, it is still more appropriate to study Industrial production methods, rather than Craft, or trade methods when looking to organize a site for efficently using such a tool.
 
 # Section III - The Doing
 
@@ -633,7 +633,7 @@ Some might not be as dramatic as this young woman's, but, the point is that ever
 ## Profiles and People
 
 
-* [Peter McCurdy](/http-www-mccurdyco-com-page3-html) & Co. Though one of their most prominent jobs was the Replication of Shakespeare's Globe theater in York, England, it is just one of a long line of Awe-Inspiring projects.
+* [Peter McCurdy](http://www.mccurdyco.com/page3.html) & Co. Though one of their most prominent jobs was the Replication of Shakespeare's Globe theater in York, England, it is just one of a long line of Awe-Inspiring projects.
 
 
 **interconnectedness**. A number of years ago Peter and Co. was hired to do an extensive survey, of Harmondsworth Barn in England -- A Tithing barn, very long. That data was then used by Richard Lawson (Dovetail Woodworking at the time) to produce a replica of it in Conn. USA, a replica that was approxiamately half as long, or less. At the end of the project, Paul Martin was called in, as a consultant to help finish out the Hipped roof on one end of the structure. paul and Richard were later to form a team, along with Tom Haris, Richard's son, Jack Sobon (as an Architectural Consultant), adn at least one other who currently slips my mind. This team competed for, and won, the bid to rebuild the Timber Framed Roof of the Cabildo in New Orleans after a fire had devastated the original. Fredric Brillant was recruited to provide the absolutely essential expertise in Traditional French Scribe, the layout system which was used to construct the Historic Roof System.
@@ -641,25 +641,25 @@ Some might not be as dramatic as this young woman's, but, the point is that ever
  **The** world of Traditional timber framing is a relatively small one. The point of this example is more than merely name dropping. Peter and Fredric represent two poles. Both practice methods of scribe rule, as opposed to all of the others mentioned above, who -- at that time -- practice Square Rule, which is an Americam system dating back to about 1805, or so. Unlike scribe rule, square rule allows every piece of a frame to be layn out and cut, independently of the others. It is centered around the idea of a theoretical timber existing within the Real, and, may or may not -- depending on the manner of conversion, and the local differences -- have any actual contact with, or relation to, the Actual timber. 
 
 **The** concept of Real vs. Theoretical timber will also play a large role in the discussion on Hewing.
-* [Len Brackett](/http-www-eastwindinc-com-index-html) Is a very impressive Builder in a Traditional Japanese Style. His personal story is both interesting and inspiring, as is the work he and his company have produced. If you have an interest in the techniques and forms of Japan, this is a good place to start. He also practices a manner of scribe rule, one that is different from the English, or, the French system. He would be the third pole.
-* [Paul Martin](/http-www-vtf-com-paul-profile-html), once considered to be one of the best of the European Style Timber Framers, second to the likes of Frederic Brillant. It's unlikely that this has changed. After completeing the Cabildo Paul began practicing a method of layout which seemed to incorporated elements of both Square Rule and French Scribe.
-* [Ted Benson](/http-www-bensonwood-com) Though not a Traditionalist, no discussion of timber framing, near past, present, or future, would be complete without including Ted. Ted was the Voice of the "Modernist" framer. As one of my early Bosses, a Bensonite himself, stated;
+* [Len Brackett](http://www.eastwindinc.com/index.html) Is a very impressive Builder in a Traditional Japanese Style. His personal story is both interesting and inspiring, as is the work he and his company have produced. If you have an interest in the techniques and forms of Japan, this is a good place to start. He also practices a manner of scribe rule, one that is different from the English, or, the French system. He would be the third pole.
+* [Paul Martin](http://www.vtf.com/paul-profile.html), once considered to be one of the best of the European Style Timber Framers, second to the likes of Frederic Brillant. It's unlikely that this has changed. After completeing the Cabildo Paul began practicing a method of layout which seemed to incorporated elements of both Square Rule and French Scribe.
+* [Ted Benson](http://www.bensonwood.com) Though not a Traditionalist, no discussion of timber framing, near past, present, or future, would be complete without including Ted. Ted was the Voice of the "Modernist" framer. As one of my early Bosses, a Bensonite himself, stated;
 
 "When I read Ted's book, I said, yes. This guys doing just what I'm doing. I must be doing something right."
 
 Ted though, does not live in a vaccuum. As any discusson of Modern Timber framing cannot be considered complete without his inclusion, no discussion of Ted can be complete without mention of;
 
-* [Ben Brungraber](/http-www-smithsonianmag-si-edu-smithsonian-issues02-apr02-images-timber-ben-brungraber-jpg-html). Ben has been, and still is a dynamic element of the Bensonwood team. Famous in the community for his "Stress Tests" as well as his humor, insights, and tremendous energy. A debate with Ben, no matter what side of the issue you find yourself on, is as delightful as it is challenging. I have nothing but respect for this man.
+* [Ben Brungraber](http://www.smithsonianmag.si.edu/smithsonian-issues02-apr02-images-timber-ben-brungraber-jpg.html). Ben has been, and still is a dynamic element of the Bensonwood team. Famous in the community for his "Stress Tests" as well as his humor, insights, and tremendous energy. A debate with Ben, no matter what side of the issue you find yourself on, is as delightful as it is challenging. I have nothing but respect for this man.
 
 
 
-* [Ken Rower](/http-www-tfguild-org-pubpg-html) the long time editor of "Timber Framing" the Journal of the [Timber Framers Guild of North America](/http-www-tfguild-org-index-html), has been something of the Man Behind The Scenes, these many years. Timberframing has always delivered strong, well articulated voices from every Faction, minor and major. Under Ken's hand Timberframing has been a source of controversy and challenge, both of which are vital elements of growth.
+* [Ken Rower](http://www.tfguild.org/pubpg.html) the long time editor of "Timber Framing" the Journal of the [Timber Framers Guild of North America](http://www.tfguild.org/index.html), has been something of the Man Behind The Scenes, these many years. Timberframing has always delivered strong, well articulated voices from every Faction, minor and major. Under Ken's hand Timberframing has been a source of controversy and challenge, both of which are vital elements of growth.
 
 
 ## External Links
 
 
-* [A General Discussion on Barn Repair](/http-www-thebarnjournal-org-resource-technical3-html)
-* [TTRAG Homepage](/http-www-tfguild-org-ttrag-html) - (Traditional Timber Frame Research and Advisory Group), an offshoot of the [Timber Framers Guild of north America](/http-www-tfguild-org)
-* [An Article on TTRAG](/http-crm-cr-nps-gov-archive-20-12-20-12-10-pdf), By Rudy Christianson, on it's inception and stated purpose.
-* [A Timber Frame Website](/http-www-newworldtimberframe-com), a clear site with more timber frame information.
+* [A General Discussion on Barn Repair](http://www.thebarnjournal.org/resource-technical3.html)
+* [TTRAG Homepage](http://www.tfguild.org/ttrag.html) - (Traditional Timber Frame Research and Advisory Group), an offshoot of the [Timber Framers Guild of north America](http://www.tfguild.org)
+* [An Article on TTRAG](http://crm.cr.nps.gov/archive-20-12-20-12-10.pdf), By Rudy Christianson, on it's inception and stated purpose.
+* [A Timber Frame Website](http://www.newworldtimberframe.com), a clear site with more timber frame information.

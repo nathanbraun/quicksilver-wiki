@@ -15,7 +15,7 @@ Missionary activity started at the mid 19th century and European colonial ambiti
 ## Solomon's Gold
 
 
-[Economy of the Solomon Islands](/http-en-wikipedia-org-wiki-economy-of-the-solomon-islands): 
+[Economy of the Solomon Islands](https://en.wikipedia.org/wiki/economy-of-the-solomon-islands): 
 In 1998 Ross Mining of Australia began producing [gold](/gold) at Gold Ridge on Guadalcanal. Minerals exploration in other areas continued. However in the wake of the ethnic violence in June 2000, exports of palm oil and gold ceased while exports of timber fell. 
 
 ## Related entries
@@ -28,4 +28,4 @@ In 1998 Ross Mining of Australia began producing [gold](/gold) at Gold Ridge on 
 ## External links
 
 
-* [Jane's Solomon Islands page](/http-www-janeresture-com-solomons-solomon-islands-htm) was the initial basis for the entry on the Solomon Islands.
+* [Jane's Solomon Islands page](http://www.janeresture.com/solomons-solomon-islands.htm) was the initial basis for the entry on the Solomon Islands.

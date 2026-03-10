@@ -16,7 +16,7 @@ Hiro is approaching [The Street](/the-street). It is the Broadway, the Champs El
 
 A modern form of [Pascal's Wager](/blaise-pascal), the Simulation Argument is an argument of [Bayesian](/bayes) Reasoning stitching together various bits of knowledge of cosmology, computational science, and transhumanist theory to provide a tool by which one could potentially estimate the odds that the universe we live in (or any universe) is a natural one, or one that is a simulation, a creation of an advanced race of people evolved to a state of post-humanity.
 
-Postulated in its modern form by philosophy fellow Professor Nick Bostrom of [Oxford University](/oxford-university), the [Simulation Argument](/http-www-simulation-argument-com) posits the following: 
+Postulated in its modern form by philosophy fellow Professor Nick Bostrom of [Oxford University](/oxford-university), the [Simulation Argument](http://www.simulation.argument.com) posits the following: 
 
 "at least one of the following propositions is true: (1) the human species is very likely to go extinct before reaching a posthuman stage; (2) any posthuman civilization is extremely unlikely to run a significant number of simulations of their evolutionary history (or variations thereof); (3) we are almost certainly living in a computer simulation. It follows that the belief that there is a significant chance that we will one day become posthumans who run ancestor-simulations is false, unless we are currently living in a simulation."
 
@@ -26,7 +26,7 @@ Postulated in its modern form by philosophy fellow Professor Nick Bostrom of [Ox
 
 **1) the human species is very likely to go extinct before reaching a posthuman stage;**
 
-This argument is derived from the commonly known [Drake Equation](/http-www-activemind-com-mysterious-topics-seti-drake-equation-html) used by astronomers and SETI researchers to estimate the likelihood of the existence of intelligent alien civilizations capable of using interstellar radio technology at any given time in our galaxy. First popularized in astronomer Carl Sagan's book "Cosmos" as well as his television show of the same name, the Drake Equation is thus:
+This argument is derived from the commonly known [Drake Equation](http://www.activemind.com/mysterious-topics-seti-drake-equation.html) used by astronomers and SETI researchers to estimate the likelihood of the existence of intelligent alien civilizations capable of using interstellar radio technology at any given time in our galaxy. First popularized in astronomer Carl Sagan's book "Cosmos" as well as his television show of the same name, the Drake Equation is thus:
 
 *N* = *N*1 * *f**p* * *n**e* * *f**l* * *f**i* * *f**c* * *f**L*
 
@@ -126,8 +126,8 @@ If we are capable of running universe simulations, then odds are that there is a
 
 
 
-* [Greg Egan](/http-gregegan-customer-netspace-net-au)
-* [Diaspora](/http-gregegan-customer-netspace-net-au-diaspora-diaspora-html) by Greg Egan
-* [Permutation City](/http-www-geocities-com-area51-rampart-2547-skyzc-htm) by Greg Egan (a review of the novel}
-* [What Is The Matrix?](/http-whatisthematrix-warnerbros-com)
-* [Black Hole Computers](/http-whatisthematrix-warnerbros-com)
+* [Greg Egan](http://gregegan.customer.netspace.net/au)
+* [Diaspora](http://gregegan.customer.netspace.net/au-diaspora-diaspora.html) by Greg Egan
+* [Permutation City](http://www.geocities.com/area51-rampart-2547-skyzc.htm) by Greg Egan (a review of the novel}
+* [What Is The Matrix?](http://whatisthematrix.warnerbros.com)
+* [Black Hole Computers](http://whatisthematrix.warnerbros.com)

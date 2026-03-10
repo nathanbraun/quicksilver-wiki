@@ -5,4 +5,4 @@ From the Quicksilver Metaweb.
 
 cosh: blackjack
 
-[http://www.thefreedictionary.com/cosh](/http-www-thefreedictionary-com-cosh)
+[http://www.thefreedictionary.com/cosh](http://www.thefreedictionary.com/cosh)

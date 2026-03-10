@@ -93,15 +93,15 @@ See also: Purge
 ### External links
 
 
-* [American Civil Liberties Union - Police Practices](/http-www-aclu-org-policepractices-policepracticesmain-cfm)
-* [Repression and Police Dog Abuse](/http-www-geocities-com-ericsquire-articles-dogs-htm)
-* [Awareness - Information - Knowledge](/http-www-erowid-org)
-* [site for freedom](/http-www-hyperreal-info)
+* [American Civil Liberties Union - Police Practices](http://www.aclu.org/policepractices-policepracticesmain-cfm)
+* [Repression and Police Dog Abuse](http://www.geocities.com/ericsquire-articles-dogs.htm)
+* [Awareness - Information - Knowledge](http://www.erowid.org)
+* [site for freedom](http://www.hyperreal.info)
 
 #### Articles
 
 
-* [Understanding Covert Repressive Action: The Case of the U.S. Government against the Republic of New Africa (**186kb PDF file**)](/http-www-bsos-umd-edu-gvpt-davenport-ucra121203-pdf) by [Christian Davenport](/http-www-cdavenport-com), Associate Professor, University of Maryland.
+* [Understanding Covert Repressive Action: The Case of the U.S. Government against the Republic of New Africa (**186kb PDF file**)](http://www.bsos.umd.edu/gvpt-davenport-ucra121203.pdf) by [Christian Davenport](http://www.cdavenport.com), Associate Professor, University of Maryland.
 
 #### Books
 

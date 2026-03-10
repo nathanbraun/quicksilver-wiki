@@ -26,4 +26,4 @@ They are named after George Boole, an Englishman, who invented them as part of a
 
 
 
-* **[Wikipedia' more complete entry](/http-en-wikipedia-org-wiki-boolean-algebra)**
+* **[Wikipedia' more complete entry](https://en.wikipedia.org/wiki/boolean-algebra)**

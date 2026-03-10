@@ -83,5 +83,5 @@ Several of Gilbert's unpublished and unfinished works were published in 1651 by 
 ### External Links
 
 
-* *[Physics World:online edition](/http-www-physicsweb-org-article-world-16-11-2)* - Stephen Pumfrey & David Tilley, "William Gilbert: forgotten genius", Physics Web, November 2003
-* [NASA's Gilbert pages](/http-www-istp-gsfc-nasa-gov-earthmag-demagint-htm)
+* *[Physics World:online edition](http://www.physicsweb.org/article-world-16-11-2)* - Stephen Pumfrey & David Tilley, "William Gilbert: forgotten genius", Physics Web, November 2003
+* [NASA's Gilbert pages](http://www.istp.gsfc.nasa.gov/earthmag-demagint.htm)

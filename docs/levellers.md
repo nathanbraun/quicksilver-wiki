@@ -18,9 +18,9 @@ The Long Parliament did not accept their proposals, so they tried to build suppo
 ## The Putney Debates
 
 
-The Grandees responded by inviting the Agitators to debate their proposals before the General Council of the Army. A later revision of Lilburne's pamphlet, *[Foundations of Freedom; or, An Agreement of the People](/http-www-constitution-org-eng-conpur074-htm)*, describing the whole Leveler program, was included in the [Putney debates](/) (Oct., 1647) between the elected army council and their commanding officers. 
+The Grandees responded by inviting the Agitators to debate their proposals before the General Council of the Army. A later revision of Lilburne's pamphlet, *[Foundations of Freedom; or, An Agreement of the People](http://www.constitution.org/eng-conpur074.htm)*, describing the whole Leveler program, was included in the [Putney debates](/) (Oct., 1647) between the elected army council and their commanding officers. 
 
-Fairfax was not present, so Cromwell hosted. Cromwell flatly refused to accept any compromise in which the King was overthrown, while Henry Ireton (son-in-law of Oliver Cromwell) pressed the case that his own *[The Heads of the Proposals offered by the Army](/http-www-constitution-org-eng-conpur071-htm)]* covered all of the concerns raised by the New Agents in The Case of the Army while being far less radical. The Agitators accepted the meeting, sending Colonel Thomas Rainsborough (M.P. for Droitwich) John Wildman, and Edward Sexby as their representitives
+Fairfax was not present, so Cromwell hosted. Cromwell flatly refused to accept any compromise in which the King was overthrown, while Henry Ireton (son-in-law of Oliver Cromwell) pressed the case that his own *[The Heads of the Proposals offered by the Army](http://www.constitution.org/eng-conpur071.htm)]* covered all of the concerns raised by the New Agents in The Case of the Army while being far less radical. The Agitators accepted the meeting, sending Colonel Thomas Rainsborough (M.P. for Droitwich) John Wildman, and Edward Sexby as their representitives
 
 The debates opened on October 28, and were transcribed by secretary William Clarke and a team of stenographers. From November 2nd, however, all recording ceased. The debates were not reported and Clarke's minutes were not published at the time. They were lost until 1890 when they were rediscovered at the library of [Worcester College, Oxford](/worcester-college-oxford) and subsequently published as part of the [Clarke Papers](/clarke-papers).
 
@@ -97,7 +97,7 @@ Marxists from 1929 onward have considered the Puritan revolution of the 1600's t
 ## External Articles
 
 
-* [Levelers, Columbia Encyclopedia, Sixth Edition](/http-www-bartleby-com-65-le-levelers-html)
+* [Levelers, Columbia Encyclopedia, Sixth Edition](http://www.bartleby.com/65-le-levelers.html)
 
 
 ## References

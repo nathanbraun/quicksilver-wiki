@@ -10,10 +10,10 @@ A stub for the **curta calculator**
 
 ![curta.gif](/images/curta.gif)
 Image belongs to link below:
-**[The ultimate & complete Curta Reference page](/http-www-vcalc-net-cu-htm)**
+**[The ultimate & complete Curta Reference page](http://www.vcalc.net/cu.htm)**
 It has a beautiful CG ray-traced image of a Curta.
 
-Curtas play a part in [William Gibson](/http-en-wikipedia-org-wiki-william-gibson)'s [Pattern Recognition](/http-en-wikipedia-org-wiki-pattern-recognition-novel).
+Curtas play a part in [William Gibson](https://en.wikipedia.org/wiki/william-gibson)'s [Pattern Recognition](https://en.wikipedia.org/wiki/pattern-recognition-novel).
 
 ### Related entry
 
@@ -25,5 +25,5 @@ Curtas play a part in [William Gibson](/http-en-wikipedia-org-wiki-william-gibso
 ### External links
 
 
-* **[Curta Simulator](/http-www-vcalc-net-curta-simulator-en-htm)**
-* **[The ultimate & complete Curta Reference page](/http-www-vcalc-net-cu-htm)**
+* **[Curta Simulator](http://www.vcalc.net/curta-simulator-en.htm)**
+* **[The ultimate & complete Curta Reference page](http://www.vcalc.net/cu.htm)**

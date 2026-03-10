@@ -16,4 +16,4 @@ it doesn't make any sense that a pretty regular outcome like 54-54
 109.
 
 
-Dan Schmidt | dfan@[omitted] | [http://www2.lglass.com/~dfan](/http-www2-lglass-com-dfan)
+Dan Schmidt | dfan@[omitted] | [http://www2.lglass.com/~dfan](http://www2.lglass.com/dfan)

@@ -40,10 +40,10 @@ This is [The Confusion](/the-confusion) page for the **steel** seen in the wootz
 ### External links
 
 
-* [Steel](/http-en-wikipedia-org-wiki-steel)
-* [Steel to New York](/http-www-amnh-org-exhibitions-expeditions-treasure-fossil-treasures-cape-york-meteorite-capeyork-html-tair)
-* [Damascus steel](/http-en-wikipedia-org-wiki-damascus-steel)
-* [Stainless steel](/http-en-wikipedia-org-wiki-stainless-steel)
-* [Carbon steel](/http-en-wikipedia-org-wiki-carbon-steel)
-* [Mokume-gane](/http-en-wikipedia-org-wiki-mokume-gane)
-* [Military Ref - Japan](/http-quanonline-com-military-military-reference-japanese-japanese-html)
+* [Steel](https://en.wikipedia.org/wiki/steel)
+* [Steel to New York](http://www.amnh.org/exhibitions-expeditions-treasure-fossil-treasures-cape-york-meteorite-capeyork-html-tair)
+* [Damascus steel](https://en.wikipedia.org/wiki/damascus-steel)
+* [Stainless steel](https://en.wikipedia.org/wiki/stainless-steel)
+* [Carbon steel](https://en.wikipedia.org/wiki/carbon-steel)
+* [Mokume-gane](https://en.wikipedia.org/wiki/mokume-gane)
+* [Military Ref - Japan](http://quanonline.com/military-military-reference-japanese-japanese.html)

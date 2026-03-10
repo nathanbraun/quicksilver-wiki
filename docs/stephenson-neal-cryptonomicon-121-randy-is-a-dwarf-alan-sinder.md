@@ -22,7 +22,7 @@ This page talks about why **Randy is a Dwarf** and examines **Dwarves and Wizard
 ### When One is in a *Middle-Earth* Mindset
 
 
-One can't *just* defeat **EVIL** every age like one's hero grandfather. One could find themselves blessed enough to live in a period of peace. The modern-era protagonist of [Cryptonomicon](/cryptonomicon), [Randy Waterhouse](/randy-waterhouse) views himself as a **Dwarf** in a [Tolkienian](/http-en-wikipedia-org-wiki-j-r-r-tolkien) sense. He isn't going to use his axe on the professor who's stolen his *now* ex - Charlene  as a new business opportunity is beckoning far away from home. He's blessed that unlike his ancestor [Quicksilver](/stephenson-neal-quicksilver)'s [Daniel Waterhouse](/daniel-waterhouse); he is not a *lesser* Wizard made obscure by polymath genius level Wizards. You've got to wonder if Randy has *pigeonholed* himself in the *right* category.![HildebrandtMW.jpg](/images/HildebrandtMW.jpg)  
+One can't *just* defeat **EVIL** every age like one's hero grandfather. One could find themselves blessed enough to live in a period of peace. The modern-era protagonist of [Cryptonomicon](/cryptonomicon), [Randy Waterhouse](/randy-waterhouse) views himself as a **Dwarf** in a [Tolkienian](https://en.wikipedia.org/wiki/j-r-r-tolkien) sense. He isn't going to use his axe on the professor who's stolen his *now* ex - Charlene  as a new business opportunity is beckoning far away from home. He's blessed that unlike his ancestor [Quicksilver](/stephenson-neal-quicksilver)'s [Daniel Waterhouse](/daniel-waterhouse); he is not a *lesser* Wizard made obscure by polymath genius level Wizards. You've got to wonder if Randy has *pigeonholed* himself in the *right* category.![HildebrandtMW.jpg](/images/HildebrandtMW.jpg)  
 **The Fellowship of the Ring  
 Pippin, Gimli, Legolas, Sam, Frodo, Gandalf, Aragorn, Merry, and Boromir**
 
@@ -152,19 +152,19 @@ In Norse mythology, ***Gandalf*** is a dwarvish name referenced in the "Catalogu
 
 
 **!! Greg and Tim are swell people -- the following two books are highly recommended !!**
-* [ISBN 0823051056](/) [Greg and Tim Hildebrandt, the Tolkien Years](/http-www-amazon-com-exec-obidos-tg-detail-0823051056-ref-pd-sim-books-1-104-8931055-5532701); Author: Gregory Hildebrandt Jr.; Watson-Guptill Pubns; (September 2002)
-* [ISBN 1569066833](/) [The Tolkien Art of the Brothers Hildebrandt 2004 Calendar](/http-www-amazon-com-exec-obidos-asin-1569066833-qid-1078217316-sr-11-1-ref-sr-11-1-104-8931055-5532701); Author: Greg Hildebrandt, Tim Hildebrandt. Ronnie Sellers Productions; Pub. Date: July, 2003
-* [ISBN 0762413832](/) [The Brothers Hildebrand's Lord of the Rings: A Pocket Companion](/http-www-amazon-com-exec-obidos-tg-detail-0762413832-qid-1078304393-sr-1-2-ref-sr-1-2-104-8931055-5532701-v-glance-s-books) Author: Brian Simmons; Publisher: Running Press; Miniature edition (September 2002)
+* [ISBN 0823051056](/) [Greg and Tim Hildebrandt, the Tolkien Years](http://www.amazon.com/exec-obidos-tg-detail-0823051056-ref-pd-sim-books-1-104-8931055-5532701); Author: Gregory Hildebrandt Jr.; Watson-Guptill Pubns; (September 2002)
+* [ISBN 1569066833](/) [The Tolkien Art of the Brothers Hildebrandt 2004 Calendar](http://www.amazon.com/exec-obidos-asin-1569066833-qid-1078217316-sr-11-1-ref-sr-11-1-104-8931055-5532701); Author: Greg Hildebrandt, Tim Hildebrandt. Ronnie Sellers Productions; Pub. Date: July, 2003
+* [ISBN 0762413832](/) [The Brothers Hildebrand's Lord of the Rings: A Pocket Companion](http://www.amazon.com/exec-obidos-tg-detail-0762413832-qid-1078304393-sr-1-2-ref-sr-1-2-104-8931055-5532701-v-glance-s-books) Author: Brian Simmons; Publisher: Running Press; Miniature edition (September 2002)
 
 
 ### External links
 
 
-* [LOTR](/http-en-wikipedia-org-wiki-the-lord-of-the-rings)
-* [The Tolkien Wiki Community](/http-www-thetolkienwiki-org)
-* [TheOneRing.net - forged by and for fans of J.R.R. Tolkien](/http-www-theonering-net)
-* [The Lord of the Rings Fanatics Plaza - Tolkien Community](/http-www-lotrplaza-com)
-* [The Lord of the Rings Fanatics Library - Tolkienien Information](/http-www-lotrlibrary-com)
-* [The Encyclopedia of Arda - Mark Fisher's tribute site to the works of Tolkien](/http-www-glyphweb-com-arda-default-htm)
-* [Tolkien Bibliography](/http-www-sdragons-com-bibliographies-tolkien-html)
-* [The Lord of the Rings Wilderness Poster](/http-ringlord-com-people-walrus-lotr-wilderness-poster-html)
+* [LOTR](https://en.wikipedia.org/wiki/the-lord-of-the-rings)
+* [The Tolkien Wiki Community](http://www.thetolkienwiki.org)
+* [TheOneRing.net - forged by and for fans of J.R.R. Tolkien](http://www.theonering.net)
+* [The Lord of the Rings Fanatics Plaza - Tolkien Community](http://www.lotrplaza.com)
+* [The Lord of the Rings Fanatics Library - Tolkienien Information](http://www.lotrlibrary.com)
+* [The Encyclopedia of Arda - Mark Fisher's tribute site to the works of Tolkien](http://www.glyphweb.com/arda-default.htm)
+* [Tolkien Bibliography](http://www.sdragons.com/bibliographies-tolkien.html)
+* [The Lord of the Rings Wilderness Poster](http://ringlord.com/people-walrus-lotr-wilderness-poster.html)

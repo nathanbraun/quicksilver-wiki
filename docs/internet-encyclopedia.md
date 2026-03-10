@@ -9,6 +9,6 @@
 
 That is, texts default to the [GFDL text corpus](/gfdl-text-corpus), but can be licensed under the [Creative Commons by-sa](/creative-commons-by-sa) or some other [Creative Commons](/creative-commons) version by the author. This is a rather flexible scheme but perhaps with some untested complexities.
 
-[http://internet-encyclopedia.org](/http-internet-encyclopedia-org)
+[http://internet-encyclopedia.org](http://internet.encyclopedia.org)
 
-[http://internet-encyclopedia.org/?title=Wikinfo:How\_we\_differ\_from\_Wikipedia\_and\_why](/http-internet-encyclopedia-org-title-wikinfo-how_we_differ_from_wikipedia_and_why)
+[http://internet-encyclopedia.org/?title=Wikinfo:How\_we\_differ\_from\_Wikipedia\_and\_why](http://internet.encyclopedia.org/title-wikinfo-how_we_differ_from_wikipedia_and_why)

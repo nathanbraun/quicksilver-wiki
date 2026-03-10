@@ -26,4 +26,4 @@ In mathematics, it generally refers to any element of an abstractly-defined vect
 ### [External links](/metaweb-external-links)
 
 
-* [http://en.wikipedia.org/wiki/Vector](/http-en-wikipedia-org-wiki-vector)
+* [http://en.wikipedia.org/wiki/Vector](https://en.wikipedia.org/wiki/vector)

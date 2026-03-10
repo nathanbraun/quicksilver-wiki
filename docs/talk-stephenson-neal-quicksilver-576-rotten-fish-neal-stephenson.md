@@ -12,9 +12,9 @@ Odder still, [Louis Joseph, Duke of Vendôme](/louis-joseph-duke-of-vendôme) ti
 ### Instincto
 
 
-There is a dietary practice known as "anopsology," "instinctive eating," or "instincto." The short explanation of this is that practitioners eat only uncooked single foods, one at a time. They determine what to eat based on smell, and eat that one thing until it stops tasting good. My favorite reference is an article called [An Ex-Instincto's Guide to Instinctive Eating](/http-www-beyondveg-com-nieft-k-instincto-guide-instincto-guide1a-shtml). This article contains the story of a woman who for about a month ate only fruit and spoiling raw fish, which seemed to have caused her rheumatoid arthritis to go into remission. --[Jeremy](/user-jeremybornstein)
+There is a dietary practice known as "anopsology," "instinctive eating," or "instincto." The short explanation of this is that practitioners eat only uncooked single foods, one at a time. They determine what to eat based on smell, and eat that one thing until it stops tasting good. My favorite reference is an article called [An Ex-Instincto's Guide to Instinctive Eating](http://www.beyondveg.com/nieft-k-instincto-guide-instincto-guide1a-shtml). This article contains the story of a woman who for about a month ate only fruit and spoiling raw fish, which seemed to have caused her rheumatoid arthritis to go into remission. --[Jeremy](/user-jeremybornstein)
 
-[Garum](/http-en2-wikipedia-org-wiki-garum) is the Latin name for a sauce made of rotten fish that was exported from Gadir (modern [Cádiz](/http-en2-wikipedia-org-wiki-cadiz), in [Spain](/http-en-wikipedia-org-wiki-spain)) to all the [Roman Empire](/http-en2-wikipedia-org-wiki-roman-empire).
+[Garum](https://en.wikipedia.org/wiki/garum) is the Latin name for a sauce made of rotten fish that was exported from Gadir (modern [Cádiz](https://en.wikipedia.org/wiki/cadiz), in [Spain](https://en.wikipedia.org/wiki/spain)) to all the [Roman Empire](https://en.wikipedia.org/wiki/roman-empire).
 
 ### It's amazing
 
@@ -35,11 +35,11 @@ Is there a Carnivores Diet which is also based on Taste Changes?
 
 [timberbee](/user-timberbee) 14:42, 5 Jan 2004 (PST)
 
-The Swedes (OK, \_some\_ Swedes) are apparently fond of a dish called [surströmming](/http-en-wikipedia-org-wiki-surströmming), which translates as "fermented herring". I thought that we were being given a clue to the nationality of Eliza's kidnapper in his unusual diet. Of course, Jack's later discoveries in Paris suggest otherwise. (Search for web references to the dish for various explicit descriptions of this dish's foul smell, its prohibition from consuption in public, etc.)
+The Swedes (OK, \_some\_ Swedes) are apparently fond of a dish called [surströmming](https://en.wikipedia.org/wiki/surströmming), which translates as "fermented herring". I thought that we were being given a clue to the nationality of Eliza's kidnapper in his unusual diet. Of course, Jack's later discoveries in Paris suggest otherwise. (Search for web references to the dish for various explicit descriptions of this dish's foul smell, its prohibition from consuption in public, etc.)
 
 Did you miss the bit where Jack says pirates & navies were encouraged with *cash* monies to sack [Qwghlm](/qwghlm) by the English 
 
-### [Durians](/http-www-ecst-csuchico-edu-durian)
+### [Durians](http://www.ecst.csuchico.edu/durian)
 
 
 The durian is a type of tropical fruit predominantly found in Southeast Asia. The fruit is green to brown, oblong to round, prickly with strong sharp thorns and emits a strong, distinctive smell that for most people is offensive-smelling. 
@@ -54,6 +54,6 @@ The durian tree grows up to 40 metres in height and durians can hang from any br
 
 The scientific name for the durian of commerce is Durio zibethinus. Other edible durian species are sometimes available in the local markets of Southeast Asia. 
 
-For the adventurous living in the Seattle area, you can find durian in Asian food stores, most notably [Uwajimaya](/http-www-uwajimaya-com). Overcome by curiosity, I admit to trying durian ice cream. It would carry a nice fruity flavor if the dirty diaper were somehow excised. --[Zak](/user-zak-arntson) 11:06, 2004 Jan 9 (PST)
+For the adventurous living in the Seattle area, you can find durian in Asian food stores, most notably [Uwajimaya](http://www.uwajimaya.com). Overcome by curiosity, I admit to trying durian ice cream. It would carry a nice fruity flavor if the dirty diaper were somehow excised. --[Zak](/user-zak-arntson) 11:06, 2004 Jan 9 (PST)
 
 * It can land you in Jail! The smell lingers ... - [Sparky](/user-stsparky) 16:02, 2004 Jan 9 (PST)

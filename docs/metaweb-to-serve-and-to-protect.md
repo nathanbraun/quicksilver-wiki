@@ -3,14 +3,14 @@
 
 From the Quicksilver Metaweb.
 
-On the Metaweb, [Administrators](/metaweb-administrators) can protect pages so that regular users cannot edit them. Unlike the [Wikipedia](/http-www-wikipedia-org), where almost all pages can be edited, the Metaweb contains some *authored* content, which should only be edited by the authors (or those they give consent to). 
+On the Metaweb, [Administrators](/metaweb-administrators) can protect pages so that regular users cannot edit them. Unlike the [Wikipedia](http://www.wikipedia.org), where almost all pages can be edited, the Metaweb contains some *authored* content, which should only be edited by the authors (or those they give consent to). 
 
 The reason to protect authored annotations is to keep people from modifying authored content. There is however a case for leaving as much as possible unprotected:
 
 * There is presently no way for non-admins to add links to protected pages. The Metaweb is all about linking together concepts and creating new entries. Most of these initial links will be from authored content -- Neal's page annotations. New links will generally be easy to carefully edit since they will be few in number.
 
 
-* In the case of [metaweb:vandalism](/metaweb-vandalism), we already can undo any damage to pages. Undo seems sufficient; The Wikipedia has a long list of [articles on controversial topics](/http-wikipedia-org-wiki-list-of-controversial-issues) that rarely need protecting. The [mediawiki](/mediawiki) software makes it easier to undo vandalism than to cause it.
+* In the case of [metaweb:vandalism](/metaweb-vandalism), we already can undo any damage to pages. Undo seems sufficient; The Wikipedia has a long list of [articles on controversial topics](http://wikipedia.org/wiki-list-of-controversial-issues) that rarely need protecting. The [mediawiki](/mediawiki) software makes it easier to undo vandalism than to cause it.
 
 
 (...completing comments adapted into the above)... I would like to err on the side of openness, if only because I think that we will get more out of users building the link structure of the Metaweb than we will have to put in undoing malicious and clueless edits. --[Patrick](/user-patrick-tufts) 11:45, 23 Sep 2003 (PDT)
@@ -23,7 +23,7 @@ I can imagine an access control system where authors of pages might grant permis
 
 Another way to do this is to create pages with a [User:](/user) account that is shared, that is, a group of people all have the password to it, and don't share it with those they don't want to be able to edit.
 
-Yes, that's a very good method, but even better is a [formal 'faction' system](/http-consumerium-org-wiki-wiki-phtml-title-faction) that keeps track of such relationships to make them manageable by the system.
+Yes, that's a very good method, but even better is a [formal 'faction' system](http://consumerium.org/wiki-wiki-phtml-title-faction) that keeps track of such relationships to make them manageable by the system.
 
 * -- Sorry for my underinformed, undereducated, probably redundant and not very wise opinion, but I have a strong motivation to express it anyway (The name of this page was as you can imagine VERY teasing for our Self). I apologize if it hurts any of your Self.
 
@@ -120,7 +120,7 @@ Yes, that's a very good method, but even better is a [formal 'faction' system](/
   of importance about it for now.
   # Cannot evaluate the sentient guardian keeping key pathways functional system
   (which I my Self wildly guesses is of class of the system
-  [formal 'faction' system](/http-consumerium-org-wiki-wiki-phtml-title-faction)
+  [formal 'faction' system](http://consumerium.org/wiki-wiki-phtml-title-faction)
   as this link was not followed by Our Self this time frame. We willt to do so,
   though. Expect no mercy.
   -- Yours Truly, --[ALinkA](/user-agquarx)

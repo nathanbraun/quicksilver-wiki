@@ -15,13 +15,13 @@ Mercury occurs rarely in its elemental form, and is more commonly found in cinna
 The Spanish fleets carried mercury from Spain to the Indies where it was used in [Zacatecas](/zacatecas) and [Potosí](/potosí) to extract the [silver](/silver) that made the main of the American riches.
 Silver was left as ingots or [coined](/coin) as [pieces of eight](/pieces-of-eight), that voyaged eastwards to Europe to finance the [Spanish Empire](/spanish-empire) and its [religion wars](/religion-war), and westwards in the [Manila Galleon](/manila-galleon) since it was the only foreign ware that [China](/china) would trade for its manufactured products.
 
-See [entry on jlab.org](/http-education-jlab-org-itselemental-ele080-html) for basic elemental properties and history.
+See [entry on jlab.org](http://education.jlab.org/itselemental-ele080.html) for basic elemental properties and history.
 
-See also [the Wikipedia entry for the element mercury](/http-www-wikipedia-org-wiki-mercury-element) for additional information. See [Mercury](/http-en-wikipedia-org-wiki-mercury) for various entries.
+See also [the Wikipedia entry for the element mercury](https://en.wikipedia.org/wiki/mercury-element) for additional information. See [Mercury](https://en.wikipedia.org/wiki/mercury) for various entries.
 
-Additional information, including [Mercury's alchemical symbol](/http-www-chemsoc-org-viselements-pages-alchemist-alc-mercury-html) can be found in [the entry for Mercury](/http-www-chemsoc-org-viselements-pages-mercury-html) in the [visual periodic table of the elements](/http-www-chemsoc-org-viselements-index-htm) ([flash version](/http-www-chemsoc-org-viselements-pages-pertable-fla-htm)) on [ChemSoc](/http-www-chemsoc-org), the chemical science network of the [Royal Society of Chemistry](/http-www-rsc-org) of the United Kingdom.
+Additional information, including [Mercury's alchemical symbol](http://www.chemsoc.org/viselements-pages-alchemist-alc-mercury.html) can be found in [the entry for Mercury](http://www.chemsoc.org/viselements-pages-mercury.html) in the [visual periodic table of the elements](http://www.chemsoc.org/viselements-index.htm) ([flash version](http://www.chemsoc.org/viselements-pages-pertable-fla.htm)) on [ChemSoc](http://www.chemsoc.org), the chemical science network of the [Royal Society of Chemistry](http://www.rsc.org) of the United Kingdom.
 
-Mercury was also one of the only somewhat effective treatments for [syphilis](/syphilis) during this time period. It was used from the mid thirteenth centuries until Penicillin became available in the early twentieth. Mercury acted as a sort of chemotherapy; retarding the growth of the spirochetes. See [Wikipedia's article](/http-www-wikipedia-org-wiki-syphilis). This is relevant in view of the number of people who suffer from the disease in the book.
+Mercury was also one of the only somewhat effective treatments for [syphilis](/syphilis) during this time period. It was used from the mid thirteenth centuries until Penicillin became available in the early twentieth. Mercury acted as a sort of chemotherapy; retarding the growth of the spirochetes. See [Wikipedia's article](https://en.wikipedia.org/wiki/syphilis). This is relevant in view of the number of people who suffer from the disease in the book.
 *As Gregory Bolstrood is an epileptic. Mugwort, copper, mercury, and zinc oxide were among the treatments used during the Renaissance, and not till the 19th century were substances discovered that actually worked.*
 
 ## Mercury god
@@ -78,7 +78,7 @@ Note: [Hermes Trismegistus](/hermes-trismegistus) [Gr. 'Ermh^s trisme`gistos, li
 
 2. (Arch[ae]ology) Originally, a boundary stone dedicated to Hermes as the god of boundaries, and therefore bearing in some cases a head, or head and shoulders, placed upon a quadrangular pillar whose height is that of the body belonging to the head, sometimes having feet or other parts of the body sculptured upon it. These figures, though often representing Hermes, were used for other divinities, and even, in later times, for portraits of human beings. Called also herma. See Terminal statue , under Terminal .
 
-Mercury is a Roman god, also known as the Roman god of trade, profit and commerce. His name is apparently derived from the Latin merx or mercator, a merchant. He is very similar to the Greek god [Hermes](/http-en-wikipedia-org-wiki-hermes) and the Etruscan Turms. 
+Mercury is a Roman god, also known as the Roman god of trade, profit and commerce. His name is apparently derived from the Latin merx or mercator, a merchant. He is very similar to the Greek god [Hermes](https://en.wikipedia.org/wiki/hermes) and the Etruscan Turms. 
 
 His temple on the Circus Maximus, on the Aventine Hill, was built in 495 BCE. 
 
@@ -88,7 +88,7 @@ Mercury became extremely popular among the nations the Roman Empire conquered. T
 
 He was called Mercurius in Latin and was also known as Alipes ("with the winged feet")
 
-* [You can find more information, original sources and images](/http-www-elolimpo-com-personajes-personaje-asp-idper-1)
+* [You can find more information, original sources and images](http://www.elolimpo.com/personajes-personaje-asp-idper-1)
 
 
 
@@ -105,7 +105,7 @@ Hermes hides distribution and heterogeneity from the programmer. The programmer 
 0.7 Alpha for Unix ( [Hermes](/ftp-software-watson-ibm-com-pub-hermes) ) 
 Hermes features threads, relational tables; Hermes is typestate checking, capability-based access and dynamic configuration.
 
-* [Mercury](/http-en-wikipedia-org-wiki-mercury-programming-language) is also a programming language  Mercury is a functional/logical programming language based on Prolog, but designed to be more useful for real-world programming problems. Mercury is compiled rather than interpreted as is traditional for logic languages. It has a sophisticated, strict type and mode system which, when combined with the abstract nature of logic programming, is claimed by its authors to make writing reliable programs simpler and faster than by more conventional means. Mercury's module system also makes it easy to divide logic programs up into self-contained modules, a problem for logic programs in the past.
+* [Mercury](https://en.wikipedia.org/wiki/mercury-programming-language) is also a programming language  Mercury is a functional/logical programming language based on Prolog, but designed to be more useful for real-world programming problems. Mercury is compiled rather than interpreted as is traditional for logic languages. It has a sophisticated, strict type and mode system which, when combined with the abstract nature of logic programming, is claimed by its authors to make writing reliable programs simpler and faster than by more conventional means. Mercury's module system also makes it easy to divide logic programs up into self-contained modules, a problem for logic programs in the past.
 
 
 ## HERMES in Appleseed

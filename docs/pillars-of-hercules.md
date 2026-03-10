@@ -22,7 +22,7 @@ This is [The Confusion](/the-confusion)'s page about **Algiers**
 * [Stephenson:Neal:Quicksilver:605:Hava Nagila (Alan Sinder)](/stephenson-neal-quicksilver-605-hava-nagila-alan-sinder)
 
 
-### [Wikipedia: Algiers](/http-en-wikipedia-org-wiki-algiers)
+### [Wikipedia: Algiers](https://en.wikipedia.org/wiki/algiers)
 
 
 **Algiers** (Fr. *Alger*, Arab. الجزائر *El-Jezair*, i.e. The Islands), is the capital and largest city of Algeria, North Africa. It is situated on the west side of a bay of the Mediterranean Sea, to which it gives its name, in 36 deg. 47' N., 3 deg. 4' E., and is built on the slopes of the Sahel, a chain of hills parallel to the coast.![AlgiersMW.jpg](/images/AlgiersMW.jpg)  

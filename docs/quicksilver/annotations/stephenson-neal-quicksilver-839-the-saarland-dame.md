@@ -48,7 +48,7 @@ After the Napoleonic Wars, the region came to Prussia and later to the German Em
 
 * [Saarlouis](/) is a stub compared to it's German entry.
 * [Saarland](/) is about the German state.
-* [German Wikipedia Saarlouis entry](/http-de-wikipedia-org-wiki-saarlouis) with photos.
+* [German Wikipedia Saarlouis entry](https://de.wikipedia.org/wiki/saarlouis) with photos.
 * [Vauban](/)
 * [Louis XIV of France|Louis XIV](/)
 * [Nine Years War](/)

@@ -18,8 +18,8 @@ Readers will be forgiven for finding this conclusion absurd. But the argument ac
 ### External links / Further Reading
 
 
-* [Episteme Links resources on Zeno](/http-www-epistemelinks-com-main-philosophers-aspx-philcode-zen2)
-* [The Stanford Encyclopedia of Philosophy's entry on Zeno's Paradoxes](/http-plato-stanford-edu-entries-paradox-zeno) - Excellent background and further explanation
+* [Episteme Links resources on Zeno](http://www.epistemelinks.com/main-philosophers-aspx-philcode-zen2)
+* [The Stanford Encyclopedia of Philosophy's entry on Zeno's Paradoxes](http://plato.stanford.edu/entries-paradox-zeno) - Excellent background and further explanation
 
 
 ### Related Entries

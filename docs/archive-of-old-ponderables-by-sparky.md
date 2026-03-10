@@ -80,7 +80,7 @@ There were also some colonial provisions pertaining to North America: France rec
 
 Links:  
 
-[http://en2.wikipedia.org/wiki/Treaties\_of\_Utrecht](/http-en2-wikipedia-org-wiki-treaties_of_utrecht)   
+[http://en2.wikipedia.org/wiki/Treaties\_of\_Utrecht](https://en.wikipedia.org/wiki/treaties_of_utrecht)   
 
 
 
@@ -168,7 +168,7 @@ Footnotes:
 
 Link:  
 
-[http://en2.wikipedia.org/wiki/Anne\_I\_of\_Great\_Britain](/http-en2-wikipedia-org-wiki-anne_i_of_great_britain)  
+[http://en2.wikipedia.org/wiki/Anne\_I\_of\_Great\_Britain](https://en.wikipedia.org/wiki/anne_i_of_great_britain)  
 
 
 

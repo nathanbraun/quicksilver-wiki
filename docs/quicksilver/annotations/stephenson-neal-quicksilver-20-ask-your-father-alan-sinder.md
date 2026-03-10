@@ -21,15 +21,15 @@ This page will discuss **longevity**.
 
 If we discard alchemy as *T'was all rubbish* as Enoch admits on page 22  then Enoch is not living as long as he seems by a *[Philosopher's Stone](/philosopher-s-stone)*. Then, he must be doing it scientifically.
 
-### [Wikipedia: Longevity](/http-en-wikipedia-org-wiki-longevity)
+### [Wikipedia: Longevity](https://en.wikipedia.org/wiki/longevity)
 
 
 **Quote:**
-*To lengthen thy life, lessen thy meals.* - [Benjamin Franklin](/benjamin-franklin), *[Poor Richard's Almanack](/http-en-wikipedia-org-wiki-poor-richard-s-almanack)*, June 1733 
+*To lengthen thy life, lessen thy meals.* - [Benjamin Franklin](/benjamin-franklin), *[Poor Richard's Almanack](https://en.wikipedia.org/wiki/poor-richard-s-almanack)*, June 1733 
 
-**Longevity** is long life or existence. Reflections on longevity have usually gone beyond acknowledging the basic shortness of human life and included thinking about, and conceiving, methods to extend life (indefinitely). Longevity has been a topic not only for the scientific community but also for writers of [travel](/http-en-wikipedia-org-wiki-travel), [science fiction](/http-en-wikipedia-org-wiki-science-fiction), and [utopian](/http-en-wikipedia-org-wiki-utopia) novels. 
+**Longevity** is long life or existence. Reflections on longevity have usually gone beyond acknowledging the basic shortness of human life and included thinking about, and conceiving, methods to extend life (indefinitely). Longevity has been a topic not only for the scientific community but also for writers of [travel](https://en.wikipedia.org/wiki/travel), [science fiction](https://en.wikipedia.org/wiki/science-fiction), and [utopian](https://en.wikipedia.org/wiki/utopia) novels. 
 
-Different people have different lifestyles. But it appears that it matters most where in the world (rather than how) you live. Health care and hygiene seem to influence [life expectancy](/http-en-wikipedia-org-wiki-life-expectancy) more than any other factor (from the [CIA World Fact Book](/http-www-cia-gov-cia-publications-factbook-index-html)): 
+Different people have different lifestyles. But it appears that it matters most where in the world (rather than how) you live. Health care and hygiene seem to influence [life expectancy](https://en.wikipedia.org/wiki/life-expectancy) more than any other factor (from the [CIA World Fact Book](http://www.cia.gov/cia-publications-factbook-index.html)): 
 
 First World: 77-81 years 
 Second World: 65-77 years 
@@ -48,12 +48,12 @@ Australia: 80 years
 #### Scientists are working to extend our life, mainly with these ideas:
 
 
-* [Human growth hormone](/http-en-wikipedia-org-wiki-human-growth-hormone)
+* [Human growth hormone](https://en.wikipedia.org/wiki/human-growth-hormone)
 * Strong Anti-oxidants
-* [Cryonics](/http-en-wikipedia-org-wiki-cryonics)
-* [Caloric restriction](/http-en-wikipedia-org-wiki-caloric-restriction) mimicking agents.
+* [Cryonics](https://en.wikipedia.org/wiki/cryonics)
+* [Caloric restriction](https://en.wikipedia.org/wiki/caloric-restriction) mimicking agents.
 * Minimising insulin uptake.
-* A glass of [wine](/http-en-wikipedia-org-wiki-wine) or [beer](/http-en-wikipedia-org-wiki-beer) per day
+* A glass of [wine](https://en.wikipedia.org/wiki/wine) or [beer](https://en.wikipedia.org/wiki/beer) per day
 
 
 It is believed that life expectancy in First World countries will have risen to 100 years by 2030, and to 120 years by 2060. Some also think hibernation of sort can add years to one's life.
@@ -146,7 +146,7 @@ Thus both a conscious and an unconscious person can survive longer without oxyge
 #### Longevity in fiction
 
 
-* The Book of Genesis: *[Methuselah](/http-en-wikipedia-org-wiki-methuselah)*
+* The Book of Genesis: *[Methuselah](https://en.wikipedia.org/wiki/methuselah)*
 * [Jonathan Swift](/jonathan-swift): *[Gulliver's Travels](/gulliver-s-travels)* include a visit to the [Island of the Immortals](/island-of-the-immortals) located near [Japan](/japan). In Swift's work, immortality brings not joy but endless suffering as health deteriorates and everyone known perishes. [Taoists](/tao) also located immortality in Eastern islands.
 * James Hilton: *Lost Horizon*
 * P.D. James: *The Children of Men*
@@ -207,7 +207,7 @@ more soon
 ### External links
 
 
-* [Malthusian catastrophe](/http-en-wikipedia-org-wiki-malthusian-catastrophe)
-* [Methuselah](/http-en-wikipedia-org-wiki-methuselah)
-* [Life Extension](/http-en-wikipedia-org-wiki-life-extension)
-* [Immortality](/http-en-wikipedia-org-wiki-immortality)
+* [Malthusian catastrophe](https://en.wikipedia.org/wiki/malthusian-catastrophe)
+* [Methuselah](https://en.wikipedia.org/wiki/methuselah)
+* [Life Extension](https://en.wikipedia.org/wiki/life-extension)
+* [Immortality](https://en.wikipedia.org/wiki/immortality)

@@ -72,7 +72,7 @@ The airship's skin was not constructed in a way that allowed its charge to be ev
 
 The controversy around the rapid spread of the flames centres around whether blame lies primarily with the use of hydrogen gas for lift or the flammable coating used on the outside of the envelope fabric.
 
-[Proponents](/http-www-dwv-info-de-pm-hindbg-hbe-htm) of the "flammable fabric" theory contend that the extremely flammable iron oxide and aluminium impregnated cellulose acetate butyrate coating could have caught fire from atmospheric static, resulting in a leak through which flammable hydrogen gas could escape. After the disaster the Zeppelin company's engineers determined this skin material, used only on the Hindenburg, was more flammable than the skin used on previous craft. Cellulose acetate butyrate is of course flammable but iron oxide increases the flammability of aluminium powder. In fact iron oxide and aluminium can be used as components of solid rocket fuel.
+[Proponents](http://www.dwv.info/de-pm-hindbg-hbe.htm) of the "flammable fabric" theory contend that the extremely flammable iron oxide and aluminium impregnated cellulose acetate butyrate coating could have caught fire from atmospheric static, resulting in a leak through which flammable hydrogen gas could escape. After the disaster the Zeppelin company's engineers determined this skin material, used only on the Hindenburg, was more flammable than the skin used on previous craft. Cellulose acetate butyrate is of course flammable but iron oxide increases the flammability of aluminium powder. In fact iron oxide and aluminium can be used as components of solid rocket fuel.
 
 Hydrogen burns invisibly (emitting light in the UV range) so the visible flames (see photo) of the fire could not have been caused by the hydrogen gas. Also motion picture films show downward burning. Hydrogen, being less dense than air, burns upward. Some speculate that the German government placed the blame on flammable hydrogen in order to cast the U.S. helium embargo in a bad light.
 
@@ -80,7 +80,7 @@ Also, the naturally odorless hydrogen gas in the Hindenburg was 'odorised' with 
 
 It is also pointed out that none of the victims died burned by hydrogen. Of the 35 victims, 33 died because they jumped out of the airship.
 
-[Opponents](/http-spot-colorado-edu-dziadeck-zf-lz129fire-htm) of the "flammable fabric" theory contend that it is a recently developed analysis focused primarily on deflecting public concern about the safety of hydrogen. These opponents contend that the "flammable fabric" theory fails to account for many important facts of the case.
+[Opponents](http://spot.colorado.edu/dziadeck-zf-lz129fire.htm) of the "flammable fabric" theory contend that it is a recently developed analysis focused primarily on deflecting public concern about the safety of hydrogen. These opponents contend that the "flammable fabric" theory fails to account for many important facts of the case.
 
 ### Related entries
 
@@ -92,12 +92,12 @@ It is also pointed out that none of the victims died burned by hydrogen. Of the 
 ### External links
 
 
-* *[Hindenburg Disaster Newsreel Footage](/http-en-wikipedia-org-wiki-hindenburg-disaster-newsreel-footage)*
-* [The Hindenburg (1975 Movie) *The Hindenburg* (1975 Movie)](/http-en-wikipedia-org-wiki-the-hindenburg-1975-movie)
-* [An Article Supporting the Flammable Fabric Theory](/http-www-dwv-info-de-pm-hindbg-hbe-htm)
-* [An Article Rejecting the Flammable Fabric Theory](/http-spot-colorado-edu-dziadeck-zf-lz129fire-htm)
-* "[Hindenburg in Flames](/http-hearitnow-umd-edu-1937-htm)"
-* [Navy Lakehurst Historical Society, Inc](/http-www-nlhs-com) a non-profit organization dedicated to preserving the distinguished heritage of Naval Air Station Lakehurst.
+* *[Hindenburg Disaster Newsreel Footage](https://en.wikipedia.org/wiki/hindenburg-disaster-newsreel-footage)*
+* [The Hindenburg (1975 Movie) *The Hindenburg* (1975 Movie)](https://en.wikipedia.org/wiki/the-hindenburg-1975-movie)
+* [An Article Supporting the Flammable Fabric Theory](http://www.dwv.info/de-pm-hindbg-hbe.htm)
+* [An Article Rejecting the Flammable Fabric Theory](http://spot.colorado.edu/dziadeck-zf-lz129fire.htm)
+* "[Hindenburg in Flames](http://hearitnow.umd.edu/1937.htm)"
+* [Navy Lakehurst Historical Society, Inc](http://www.nlhs.com) a non-profit organization dedicated to preserving the distinguished heritage of Naval Air Station Lakehurst.
 
 
 ### References

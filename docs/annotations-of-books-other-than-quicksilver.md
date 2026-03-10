@@ -14,9 +14,9 @@ The Metaweb can be used for other purposes than posting annotations to one novel
 * [The Great Simoleon Caper](/stephenson-neal-the-great-simoleon-caper)
 	+ See also [Wikipedia: The Great Simoleon Caper](/)
 * [Snow Crash](/stephenson-neal-snow-crash) [ISBN 0553380958](/)
-	+ See also [Wikipedia: Snow Crash](/http-en2-wikipedia-org-wiki-snow-crash)
+	+ See also [Wikipedia: Snow Crash](https://en.wikipedia.org/wiki/snow-crash)
 * [Stephenson:Neal:The Diamond Age, or A Young Lady's Illustrated Primer](/stephenson-neal-the-diamond-age-or-a-young-lady-s-illustrated-primer) [ISBN 0553380966](/)
-	+ See also [Wikipedia: The Diamond Age](/http-en2-wikipedia-org-wiki-the-diamond-age)
+	+ See also [Wikipedia: The Diamond Age](https://en.wikipedia.org/wiki/the-diamond-age)
 	+ Dramatis Personae (in order of appearance): [John Percival Hackworth](/john-percival-hackworth), [Gwendolyn Hackworth](/gwendolyn-hackworth), [Fiona Hackworth](/fiona-hackworth), [Lord Finkle-McGraw](/lord-finkle-mcgraw), [Bud](/bud), [Constable Chang](/constable-chang), [Judge Fang](/judge-fang), [Miss Pao](/miss-pao), [Dr. X](/dr-x), [Harv](/harv), [Nellodee](/nellodee) (aka [Nell](/nell), [Princess Nell](/princess-nell)), [PhyrePhox](/phyrephox) (possibly [Enoch Root](/enoch-root)), [Miranda](/miranda), [Carl Hollywood](/carl-hollywood), [Elizabeth Finkle-McGraw](/elizabeth-finkle-mcgraw), [Miss Matheson](/miss-matheson) (possibly [YT](/yt))
 
 
@@ -51,4 +51,4 @@ The edition referred to is [ISBN 0-226-46940-9](/).
 
 
 *See [Wallace:David:Infinite Jest](/wallace-david-infinite-jest)* and [ISBN 0316921173](/)
-* An aid for readers: [David Foster Wallace's Infinite Jest: A Reader's Guide by Stephen Burn](/http-www-amazon-com-exec-obidos-tg-detail-082641477x-qid-1074861624-sr-1-1-ref-sr-1-1-104-6454628-2126332-v-glance-s-books), [ISBN 082641477X](/)
+* An aid for readers: [David Foster Wallace's Infinite Jest: A Reader's Guide by Stephen Burn](http://www.amazon.com/exec-obidos-tg-detail-082641477x-qid-1074861624-sr-1-1-ref-sr-1-1-104-6454628-2126332-v-glance-s-books), [ISBN 082641477X](/)

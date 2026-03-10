@@ -33,7 +33,7 @@ Also, some groups apply the title "society" to themselves, as the "American Soci
 
 If society is something of a shibboleth, confusions in its understanding can often be traced to the various nuances in which it has been used to describe a great variety of political opinion. For example, former British Prime Minister Margaret Thatcher famously denied that society exists at all. However, Thatcher's use of the term was narrow and should be understood within the context of her polemic. In the interview in Women's Own magazine, October 3 1987, Thatcher argued that the obligation for solving social problems, commonly expected of the government, was more properly the responsibility of individuals and families: "no government can do anything except through people, and people must look to themselves first" (Thatcher 1987). Thatcher only denies the existence of "society" as she understands it -- the idea that social welfare is the responsibility of government and not individuals. 
 
-### [Phyla](/http-en-wikipedia-org-wiki-scientific-classification)
+### [Phyla](https://en.wikipedia.org/wiki/scientific-classification)
 
 
 Scientific classification refers to how biologists group and categorize extinct and living species of organisms. Modern classification has its roots in the system of [Carl Linnaeus](/carl-linnaeus), who grouped species according to shared physical characteristics. These groupings have been revised since Linnaeus to improve consistency with the Darwinian principle of common descent. Molecular systematics, which uses Genomic DNA analysis has driven many recent revisions and is likely to continue to do so. Scientific classification belongs to the science of taxonomy or biological systematics.

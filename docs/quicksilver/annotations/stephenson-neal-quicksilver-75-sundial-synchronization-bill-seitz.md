@@ -14,7 +14,7 @@ In a sense, the Trinity bell was the instrument through which the sun's shadow w
 Related thought: distinguishing TimeAsABasisForSynchronizedAction vs ElapsedTimeAsABasisForCalculatingRates
 
 
-Here's a good webpage with images of Newton's sundial as well as a java app that attempts to reproduce it [http://www.quns.cam.ac.uk/Queens/Images/sundial.html](/http-www-quns-cam-ac-uk-queens-images-sundial-html)
+Here's a good webpage with images of Newton's sundial as well as a java app that attempts to reproduce it [http://www.quns.cam.ac.uk/Queens/Images/sundial.html](http://www.quns.cam.ac.uk/queens-images-sundial.html)
 
 
 ## different
@@ -53,5 +53,5 @@ These few seconds a day accumulate so that high noon occurs anywhere from 15 min
 
 
 
-* [http://visual.wiki.taoriver.net/moin.cgi/SunDial](/http-visual-wiki-taoriver-net-moin-cgi-sundial)
-* [http://en.wikipedia.org/wiki/Sundial](/http-en-wikipedia-org-wiki-sundial)
+* [http://visual.wiki.taoriver.net/moin.cgi/SunDial](http://visual.wiki.taoriver.net/moin-cgi-sundial)
+* [http://en.wikipedia.org/wiki/Sundial](https://en.wikipedia.org/wiki/sundial)

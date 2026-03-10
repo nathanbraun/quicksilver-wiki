@@ -52,4 +52,4 @@ Following the discovery of the so-called Rye House Plot in 1683, Monmouth was ob
 ### External links
 
 
-* [James, Duke of Monmouth (Wikipedia)](/http-www-wikipedia-org-wiki-james-duke-of-monmouth)
+* [James, Duke of Monmouth (Wikipedia)](https://en.wikipedia.org/wiki/james-duke-of-monmouth)

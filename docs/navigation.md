@@ -112,5 +112,5 @@ In 1974, the first GPS satellite was launched. The GPS system now permits accura
 ### External link
 
 
-* **[History of GPS and the "longitude problem"](/http-www-geocities-com-adriangps-history-html)**
-* **[Chinese historical navigation vs. Modern](/http-www-dragonvoyage-com-kids-zone-navigation-shtml)**
+* **[History of GPS and the "longitude problem"](http://www.geocities.com/adriangps-history.html)**
+* **[Chinese historical navigation vs. Modern](http://www.dragonvoyage.com/kids-zone-navigation-shtml)**

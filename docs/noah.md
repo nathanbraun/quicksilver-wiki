@@ -161,12 +161,12 @@ Noah left the ark on the tenth day of Mubarram. He and his companions built at t
 ### External links
 
 
-* **[Noah](/http-nlp-cs-jhu-edu-nasmith)**
-* **[Snow Crash](/http-en-wikipedia-org-wiki-snow-crash)**
-* **[Epic of Gilgamesh](/http-en2-wikipedia-org-wiki-epic-of-gilgamesh)**
-* **[Skeptic's Dictionary re:Noah's Ark](/http-skepdic-com-noahsark-html)**
-* **[Problem re: Global Flood](/http-www-talkorigins-org-faqs-faq-noahs-ark-html)**
-* **[National Geographic Bob Ballard page](/http-www-nationalgeographic-com-blacksea-ax-frame-html)**
-* **[2003 Black Sea expedition](/http-www-expedition2003-org)**
-* **[Robert Ballard Wikipedia entry](/http-en2-wikipedia-org-wiki-robert-ballard)**
-* **[Jewish Encyclopedia - Noah](/http-www-jewishencyclopedia-com-view-jsp-artid-318-letter-n-search-noah-991)**
+* **[Noah](http://nlp.cs.jhu.edu/nasmith)**
+* **[Snow Crash](https://en.wikipedia.org/wiki/snow-crash)**
+* **[Epic of Gilgamesh](https://en.wikipedia.org/wiki/epic-of-gilgamesh)**
+* **[Skeptic's Dictionary re:Noah's Ark](http://skepdic.com/noahsark.html)**
+* **[Problem re: Global Flood](http://www.talkorigins.org/faqs-faq-noahs-ark.html)**
+* **[National Geographic Bob Ballard page](http://www.nationalgeographic.com/blacksea-ax-frame.html)**
+* **[2003 Black Sea expedition](http://www.expedition2003.org)**
+* **[Robert Ballard Wikipedia entry](https://en.wikipedia.org/wiki/robert-ballard)**
+* **[Jewish Encyclopedia - Noah](http://www.jewishencyclopedia.com/view-jsp-artid-318-letter-n-search-noah-991)**

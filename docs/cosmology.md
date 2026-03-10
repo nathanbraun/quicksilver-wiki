@@ -16,4 +16,4 @@ The cosmos is the universe, especially when thought of as an orderly or harmonio
 
 By these definitions, it should be clear that some of the work of [Leibniz](/leibniz), [Spinoza](/spinoza) and many other thinkers of the time could be counted as cosmology in a wide sense.
 
-**... [Complete Wikipedia Entry on Cosmos](/http-en-wikipedia-org-wiki-cosmos)**
+**... [Complete Wikipedia Entry on Cosmos](https://en.wikipedia.org/wiki/cosmos)**

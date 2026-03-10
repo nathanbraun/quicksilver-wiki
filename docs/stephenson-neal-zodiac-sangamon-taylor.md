@@ -26,4 +26,4 @@ This is the [Zodiac](/stephenson-neal-zodiac) page for **Sangamon Taylor**.
 
 "Atoms are like people. Get lots of them together, never know what they'll do."
 
-Compare: [KISS principle](/http-en-wikipedia-org-wiki-kiss-principle)
+Compare: [KISS principle](https://en.wikipedia.org/wiki/kiss-principle)

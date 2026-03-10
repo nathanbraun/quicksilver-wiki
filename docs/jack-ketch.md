@@ -29,4 +29,4 @@ Jack Ketch is a nickname for English executioners.
 
 
 
-[John Price](/http-www-exclassics-com-newgate-ng148-htm) commonly called Jack Ketch, described as an executioner, from the "ex-classic," the Newgate Calendar.
+[John Price](http://www.exclassics.com/newgate-ng148.htm) commonly called Jack Ketch, described as an executioner, from the "ex-classic," the Newgate Calendar.

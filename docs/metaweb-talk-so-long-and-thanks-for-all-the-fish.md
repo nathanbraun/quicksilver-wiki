@@ -5,7 +5,7 @@ From the Quicksilver Metaweb.
 
 Ouch. Any idea as to when? How much storage would be needed to store all the articles? - [Sparky](/user-stsparky) 09:06, 2005 Sep 14 (PDT)
 
-Pat, you suggest wget as a archival mechanism, unfortunately that would not preserve the wiki markup. Furthermore it would involve a huge effort to retype the content and formatting into a new site. Is it possible to upgrade the site to a newer version of MediaWiki and then making use of the [MediaWiki export functionality](/http-meta-wikimedia-org-wiki-help-export) to export the site content to an XML file that can be imported into a new MediaWiki host? That would greatly ease the transition to another host. -- [RichardP](/user-richardp) 16:02, 14 Sep 2005 (PDT)
+Pat, you suggest wget as a archival mechanism, unfortunately that would not preserve the wiki markup. Furthermore it would involve a huge effort to retype the content and formatting into a new site. Is it possible to upgrade the site to a newer version of MediaWiki and then making use of the [MediaWiki export functionality](http://meta.wikimedia.org/wiki-help-export) to export the site content to an XML file that can be imported into a new MediaWiki host? That would greatly ease the transition to another host. -- [RichardP](/user-richardp) 16:02, 14 Sep 2005 (PDT)
 
  Unfortunately, there's no chance of upgrading the site's software. There is a *slim* chance that I could do a database dump of the site, though, if someone sent me the (presumably SQL) commands I would need to type. --[Pat](/user-patrick-tufts) 23:22, 15 Sep 2005 (PDT)
 

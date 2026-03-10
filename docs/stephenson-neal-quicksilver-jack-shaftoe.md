@@ -199,17 +199,17 @@ His exploits were recalled in (among other places):
 
 
 * [Jack Sheppard](/)
-* [Treaties of Utrecht](/http-en2-wikipedia-org-wiki-treaty-of-utrecht-1713) (Wikipedia)
+* [Treaties of Utrecht](https://en.wikipedia.org/wiki/treaty-of-utrecht-1713) (Wikipedia)
 * [The Peace Banquet of 1649](/http-www-museen-nuernberg-de-english-fembohaus-e-pages-zeitreise-e-16-html)
-* *[When Blackbeard Scourged the Seas](/http-www-history-org-foundation-journal-blackbea-cfm)* (History.org)
-* *[Bush Administration issues "Letters of Marque" to Airlines](/http-watleyreview-com-2003-061703-1-html)* - Parody news article
-* [An excellent first-hand account of the Siege of Vienna (1683)](/http-www-hillsdale-edu-oldacademics-history-war-louisxiv-1683-vienna-siege-htm)
-* [Ucblockhead's Journal](/http-www-ucblockhead-org-journal-archives-000489-html)
-* [Gopher Baroque](/http-www-mail-archive-com-cryptography-metzdowd-com-msg01197-html)
-* [Neal on Jack](/http-contemporarylit-about-com-cs-authorinterviews-a-nealstephenson-2-htm)
-* [The Onion on Quicksilver](/http-www-theonionavclub-com-review-pop-php-review-id-6955)
-* [Quicksilver Review](/http-www-sfrevu-com-issues-2003-0310-quicksilver-the-baroque-cycle-vol-1-review-htm)
-* [Guardian: Confusion Review](/http-books-guardian-co-uk-review-story-0-12084-1183506-00-html)
-* [Complete:Confusion Review](/http-www-allreaders-com-topics-info-24021-asp)
-* [Publisher: The Confusion](/http-www-harpercollins-com-catalog-book-xml-asp-isbn-0060523867)
-* [Casa Mysteriso](/http-casamysterioso-com-review-view-asp)'s review of ***[The Confusion](/the-confusion)*** focuses on Half-cocked Jack ...
+* *[When Blackbeard Scourged the Seas](http://www.history.org/foundation-journal-blackbea-cfm)* (History.org)
+* *[Bush Administration issues "Letters of Marque" to Airlines](http://watleyreview.com/2003-061703-1.html)* - Parody news article
+* [An excellent first-hand account of the Siege of Vienna (1683)](http://www.hillsdale.edu/oldacademics-history-war-louisxiv-1683-vienna-siege.htm)
+* [Ucblockhead's Journal](http://www.ucblockhead.org/journal-archives-000489.html)
+* [Gopher Baroque](http://www.mail.archive.com/cryptography-metzdowd-com-msg01197.html)
+* [Neal on Jack](http://contemporarylit.about.com/cs-authorinterviews-a-nealstephenson-2.htm)
+* [The Onion on Quicksilver](http://www.theonionavclub.com/review-pop-php-review-id-6955)
+* [Quicksilver Review](http://www.sfrevu.com/issues-2003-0310-quicksilver-the-baroque-cycle-vol-1-review.htm)
+* [Guardian: Confusion Review](http://books.guardian.co.uk/review-story-0-12084-1183506-00.html)
+* [Complete:Confusion Review](http://www.allreaders.com/topics-info-24021.asp)
+* [Publisher: The Confusion](http://www.harpercollins.com/catalog-book-xml-asp-isbn-0060523867)
+* [Casa Mysteriso](http://casamysterioso.com/review-view.asp)'s review of ***[The Confusion](/the-confusion)*** focuses on Half-cocked Jack ...

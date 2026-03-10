@@ -22,5 +22,5 @@ Apparently the Rev and his son Francis were fond of eating what others considere
 ### External links
 
 
-* [William Buckland in Retrospect](/http-www-asa3-org-asa-pscf-1990-pscf3-90armstrong-html)
-* [The Megalosaurus](/http-www-enchantedlearning-com-subjects-dinosaurs-dinos-megalosaurus-shtml)
+* [William Buckland in Retrospect](http://www.asa3.org/asa-pscf-1990-pscf3-90armstrong.html)
+* [The Megalosaurus](http://www.enchantedlearning.com/subjects-dinosaurs-dinos-megalosaurus-shtml)

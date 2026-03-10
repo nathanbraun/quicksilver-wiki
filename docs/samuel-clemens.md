@@ -94,11 +94,11 @@ The small town of Hannibal, Missouri is another town that features many Mark Twa
 ### External links
 
 
-* [Mark Twain quotes](/http-quote-wikipedia-org-wiki-mark-twain) at [Wikiquote](/http-wikiquote-org-wiki-list-of-literary-works)
-* [Ever the Twain Shall Meet](/http-users-telerama-com-joseph-mtwain-html), A guide to Mark Twain on the Web
-* [Web directory of Mark Twain e-texts](/http-dmoz-org-arts-literature-world-literature-american-19th-century-twain-mark-works) from [DMOZ](/http-en-wikipedia-org-wiki-dmoz)
-* [The Works of Mark Twain](/http-www-mtwain-com), Chapter-indexed, searchable versions of Twain's works.
-* [Project Gutenberg](/http-www-gutenberg-net), where more than 60 works of Twain's are freely available.
-* [Mark Twain and Nikola Tesla: Thunder and Lightning](/http-www-nuc-berkeley-edu-dept-courses-e-24-e-24projects-krumme1-pdf) (PDF)
-* [Mark Twain](/http-www-americaslibrary-gov-cgi-bin-page-cgi-aa-twain)
-* [Chapter 5: Late Nineteenth Century - Mark Twain (1835-1910)](/http-www-csustan-edu-english-reuben-pal-chap5-twain-html)
+* [Mark Twain quotes](https://quote.wikipedia.org/wiki/mark-twain) at [Wikiquote](http://wikiquote.org/wiki-list-of-literary-works)
+* [Ever the Twain Shall Meet](http://users.telerama.com/joseph-mtwain.html), A guide to Mark Twain on the Web
+* [Web directory of Mark Twain e-texts](http://dmoz.org/arts-literature-world-literature-american-19th-century-twain-mark-works) from [DMOZ](https://en.wikipedia.org/wiki/dmoz)
+* [The Works of Mark Twain](http://www.mtwain.com), Chapter-indexed, searchable versions of Twain's works.
+* [Project Gutenberg](http://www.gutenberg.net), where more than 60 works of Twain's are freely available.
+* [Mark Twain and Nikola Tesla: Thunder and Lightning](http://www.nuc.berkeley.edu/dept-courses-e-24-e-24projects-krumme1.pdf) (PDF)
+* [Mark Twain](http://www.americaslibrary.gov/cgi-bin-page-cgi-aa-twain)
+* [Chapter 5: Late Nineteenth Century - Mark Twain (1835-1910)](http://www.csustan.edu/english-reuben-pal-chap5-twain.html)

@@ -7,4 +7,4 @@ This term (also known as "Stuart Restoration" or "English Restoration") refers t
 
 In the time between kings, known unsuprisingly as "[the Interregnum](/the-interregnum-neal-stephenson)", England was ruled by [Oliver Cromwell](/oliver-cromwell) as "Lord Protector," and briefly by Cromwell's son [Richard Cromwell](/richard-cromwell).
 
-Further investigation into the Stuart Restoration is likely to be rewarding for the amateur student of history. The Wikipedia entry on the [English Restoration](/http-www-wikipedia-org-wiki-english-restoration) is a good place to start.
+Further investigation into the Stuart Restoration is likely to be rewarding for the amateur student of history. The Wikipedia entry on the [English Restoration](https://en.wikipedia.org/wiki/english-restoration) is a good place to start.

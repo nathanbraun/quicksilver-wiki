@@ -25,7 +25,7 @@ In a future where the concept of the nation state as a monopolistic authority ov
 
 Even today, the majority of the legal profession in the United States operates entirely in areas of private law, in which the state has no part, except as a form of [final arbiter](/final-arbiter) in the event that parties cannot reach agreement, and this market is only expected to grow in order to minimize costs to consumers and provide the right to speedy justice which today is the exception to the rule in the government courts.
 
-In the world of private law, many states have standardized protocols of contract law, known as [Uniform Commercial Codes](/), or UCCs, which were created by vested legal interests cherry-picking the Common Law for those rules that best benefitted the PTB. Internationally, there is the [[Principles of International Commercial Contracts](/http-lexmercatoria-org) or ICC, or UNIDROIT, which has been an evolution of the medieval and renaissance period [Law Merchant](/). 
+In the world of private law, many states have standardized protocols of contract law, known as [Uniform Commercial Codes](/), or UCCs, which were created by vested legal interests cherry-picking the Common Law for those rules that best benefitted the PTB. Internationally, there is the [[Principles of International Commercial Contracts](http://lexmercatoria.org) or ICC, or UNIDROIT, which has been an evolution of the medieval and renaissance period [Law Merchant](/). 
 
 In order to regularize the legalization of documents from one sovereign legal system into that of another sovereign entity, the [Hague Conference on Private International Law](/) located at [The Hague](/http-www-thehague-nl-s-312-gw-2004-thehague) established in the 1960's The [Hague Service Convention](/), which standardizes a method by which people can legalize legal documents from one nation to another, such as birth certificates, marriage licenses, or supoenas, summonses, or other court writs for the service of process across international boundaries.
 
@@ -44,6 +44,6 @@ In a world where nations and other sovereign entities are incredibly balkanized,
 ## External Links
 
 
-* [Blackstone's Commentaries On The Law](/http-www-yale-edu-lawweb-avalon-blackstone-blacksto-htm)
-* [The Common Economic Protocols, v 1.0](/http-ica-citystateinc-com-library)
+* [Blackstone's Commentaries On The Law](http://www.yale.edu/lawweb-avalon-blackstone-blacksto.htm)
+* [The Common Economic Protocols, v 1.0](http://ica.citystateinc.com/library)
 * [The Hague Conference On Private International Law](/http-hcch-e-vision-nl-index-en-php)

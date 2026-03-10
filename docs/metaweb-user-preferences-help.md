@@ -4,12 +4,12 @@
 From the Quicksilver Metaweb.
 
 
-<-[MediaWiki User's Guide](/http-meta-wikipedia-org-wiki-mediawiki-user-s-guide)
+<-[MediaWiki User's Guide](https://meta.wikipedia.org/wiki/mediawiki-user-s-guide)
 
-*This entry originally from the [Wikipedia](/http-www-wikipedia-org)*
+*This entry originally from the [Wikipedia](http://www.wikipedia.org)*
 
 
-The preferences dialog allows you to personalize some aspects of a [MediaWiki](/mediawiki) wiki. They will apply only when you are [logged in](/http-meta-wikipedia-org-wiki-mediawiki-user-s-guide-logging-in).
+The preferences dialog allows you to personalize some aspects of a [MediaWiki](/mediawiki) wiki. They will apply only when you are [logged in](https://meta.wikipedia.org/wiki/mediawiki-user-s-guide-logging-in).
 
 Logging in and setting preferences are done separately on each wiki. You may find it convenient to specify the same preferences on each wiki that you use, but this is not necessary.
 
@@ -45,7 +45,7 @@ MediaWiki allows you to enter mathematical equations as [TeX code](/mediawiki-us
 * **Underline links**. Normally, link text will be underlined. Optionally, you may request that links not be underlined, although your browser may not respect this setting. Normally links that are not underlined can still be recognized by color. However, one can then not distinguish between two consecutive words being a single link or two links, without pointing at the words with the cursor. There is some discussion of changing the default here: see [Link style vote](/link-style-vote)
 * **Format broken links like this**. This option is enabled by default. Normally, links to articles which do not yet exist (like [the weather in London](/the-weather-in-london)) will appear underlined and in red. You may optionally make these appear as a trailing question mark link (something like this?). This makes them stand out less, but it's kind of confusing to some people (it may be interpreted as indicating that the information is uncertain).
 * **Justify paragraphs**. You may choose to have paragraphs displayed with full justification.
-* **Hide minor edits in recent changes**. Registered users may choose to mark edits as being minor (meaning fixes too trivial for trusting users to check up on). It applies to [Recent changes](/recent-changes) and [Enhanced Recent Changes](/mediawiki-user-s-guide-the-enhanced-recent-changes-page), but not to the [Watchlist](/http-meta-wikipedia-org-wiki-mediawiki-user-s-guide-using-the-watchlist). It also affects [Related changes](/mediawiki-user-s-guide-the-related-changes-function), but currently in an odd way: if the last edit of a page linking to the current page was minor, than neither that nor the last major change is shown.
+* **Hide minor edits in recent changes**. Registered users may choose to mark edits as being minor (meaning fixes too trivial for trusting users to check up on). It applies to [Recent changes](/recent-changes) and [Enhanced Recent Changes](/mediawiki-user-s-guide-the-enhanced-recent-changes-page), but not to the [Watchlist](https://meta.wikipedia.org/wiki/mediawiki-user-s-guide-using-the-watchlist). It also affects [Related changes](/mediawiki-user-s-guide-the-related-changes-function), but currently in an odd way: if the last edit of a page linking to the current page was minor, than neither that nor the last major change is shown.
 * **Enhanced recent changes** (not for all browsers). Group recent changes per day by article, display the titles of the changed articles in order from new to old latest change, or in the case of hiding minor edits, latest major change (send ideas for improvement to [Magnus Manske](/user-magnus-manske), the author of this feature).
 * **Auto-number headings**. This adds hierarchical outline-style numbering to headers in articles.
 * **Show edit box toolbar**. In compatible browsers, a toolbar with editing buttons can be displayed. See [MediaWiki User's Guide: Editing toolbar](/mediawiki-user-s-guide-editing-toolbar).
@@ -109,7 +109,7 @@ Keep this in mind when copying an excerpt from Recent Changes, a revision histor
 * **Your e-mail**: You may optionally register your e-mail address (it will not be shown publicly on the site). This will enable you to reset your password by clicking the "Mail me a new password" box on the [log in](/mediawiki-user-s-guide-logging-in) screen, if you forget it. Additionally, it will enable other registered users to send e-mail to you from the "E-mail this user" link on your user page unless you've checked the *disable* box (see below).
 * **Disable e-mail from other users**: If you check this, users will not be able to send you e-mail by way of the "E-mail this user" feature.
 * **Your nickname**: You may optionally specify a nickname that is different from your username when you enter your signature with `~~~` or `~~~~`. You can get a bit more fancy by keeping in mind that the software enters **`[[User:Name|`** in front and **`]]`** in the back of your signature. So entering **`]] | [[User talk:Name|Talk`** as your signature will also include a link to your talk page.
-* **Number of titles on recent changes**: You may select the number of changes which will be shown by default on the [Recent Changes](/recent-changes) and [Watchlist](/http-meta-wikipedia-org-wiki-mediawiki-user-s-guide-using-the-watchlist) page. Once on those pages, links are provided for other options.
+* **Number of titles on recent changes**: You may select the number of changes which will be shown by default on the [Recent Changes](/recent-changes) and [Watchlist](https://meta.wikipedia.org/wiki/mediawiki-user-s-guide-using-the-watchlist) page. Once on those pages, links are provided for other options.
 * **Threshold for stub display**: Links to articles with fewer characters than the amount you may specify here (e.g. 500, 1000, etc.) will be displayed in a different color. Helpful for identifying stubs.
 * **Hits to show per page**: You may choose the number of results returned on each page of search results.
 * **Lines to show per hit** is somewhat cryptic; specifying a number n means: "do not show any context if the search term occurs beyond line n in the page"; here a paragraph, as well as the blank line between two paragrahs, each count as one "line"; line breaks in the source, even when not affecting the lay-out of the page (and even when not directly visible in the edit box of the article), affect the line count. Setting the parameter to 5000 or more gives context for every occurrence.

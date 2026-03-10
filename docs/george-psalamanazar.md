@@ -39,4 +39,4 @@ See also: [Don Quixote](/don-quixote), [Lemuel Gulliver](/lemuel-gulliver), [Wil
 
 
 * [WikiPedia:George Psalmanazar](/)
-* ["Orientalism as Performance Art: The Strange Case of George Psalmanazar"](/http-newark-rutgers-edu-jlynch-papers-psalm-html) - see also [Orientalism](/orientalism)
+* ["Orientalism as Performance Art: The Strange Case of George Psalmanazar"](http://newark.rutgers.edu/jlynch-papers-psalm.html) - see also [Orientalism](/orientalism)

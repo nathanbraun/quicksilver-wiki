@@ -3,7 +3,7 @@
 
 From the Quicksilver Metaweb.
 
-* [tongue-click](/http-www-greenfairy-com)
+* [tongue-click](http://www.greenfairy.com)
 
 
  KaufmannW@web.de added the Pynchon thing I believe - [Sparky](/user-stsparky) 10:07, 2005 Mar 19 (PST)

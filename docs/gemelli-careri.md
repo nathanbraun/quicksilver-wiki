@@ -32,6 +32,6 @@ This is an [intermediate page](/metaweb-intermediate-page) for
 ### [External links](/metaweb-external-links)
 
 
-* [http://www.cosmovisions.com/Gemelli.htm](/http-www-cosmovisions-com-gemelli-htm)
-* [http://www.common-place.org/vol-03/no-04/havana/](/http-www-common-place-org-vol-03-no-04-havana)
+* [http://www.cosmovisions.com/Gemelli.htm](http://www.cosmovisions.com/gemelli.htm)
+* [http://www.common-place.org/vol-03/no-04/havana/](http://www.common.place.org/vol-03-no-04-havana)
 * [http://www.circoloculturalelagora.it/gemellicareri.htm](/http-www-circoloculturalelagora-it-gemellicareri-htm)

@@ -42,12 +42,12 @@ This is an evolving page for **Eliza**.
 
 When she was five years old, Eliza and her (unnamed) mother were kidnapped from the "beaches" of [Qwghlm](/stephenson-neal-quicksilver-qwghlm) by a mysterious Personage, after which she was sold into slavery. Eliza's purpose in life is to revenge herself against this mysterious Personage and also to end the institution of slavery entirely. Much of [Quicksilver](/stephenson-neal-quicksilver)'s book two relates these adventures. She also ponders if she should offer *uptight* [Daniel Waterhouse](/daniel-waterhouse) the same treatment she gave Jack. And [Fatio](/nicolas-fatio-de-duillier) even informs her he has his own *calculus* maybe to excite the geek-friendly lass.  
 ![Eliza-de-la-Zeur.jpg](/images/Eliza-de-la-Zeur.jpg)  
-**[The Return of the Musketeers](/http-us-imdb-com-title-tt0098194)' Kim Catrall**  
+**[The Return of the Musketeers](http://us.imdb.com/title-tt0098194)' Kim Catrall**  
 **in a way captures my mental image of Eliza**
 
-“ ... In Book Two, we turn to the Dickensian tale of [Half-Cocked Jack Shaftoe the erstwhile *King of the Vagabonds*](/stephenson-neal-quicksilver-jack-shaftoe), a lusty adventurer whose genitalia met with an unfortunate accident (hence, the nickname). Jack rescues the lovely, high-spirited Eliza from a Turkish harem and the two set off across Europe. For about 100 pages, the novel turns into a brainier version of a swashbuckler starring Errol Flynn, Tyrone Power or, even, Johnny Depp (whose Pirates of the Caribbean character is, coincidentally, also named Jack). There's swordplay aplenty on these pages, with scenes cut straight from the best of Robert Louis Stevenson or Rafael Sabatini. The third part blends the stories of Waterhouse and Eliza with royal intrigue. Eliza becomes a spy at Versailles, at one point concealing coded message in embroidery. All three of the main characters are ancestors of characters from Cryptonomicon, though it's possible to appreciate Quicksilver without having read the earlier book. ... ”[[1]](/http-www-januarymagazine-com-fiction-quicksilver-html)
+“ ... In Book Two, we turn to the Dickensian tale of [Half-Cocked Jack Shaftoe the erstwhile *King of the Vagabonds*](/stephenson-neal-quicksilver-jack-shaftoe), a lusty adventurer whose genitalia met with an unfortunate accident (hence, the nickname). Jack rescues the lovely, high-spirited Eliza from a Turkish harem and the two set off across Europe. For about 100 pages, the novel turns into a brainier version of a swashbuckler starring Errol Flynn, Tyrone Power or, even, Johnny Depp (whose Pirates of the Caribbean character is, coincidentally, also named Jack). There's swordplay aplenty on these pages, with scenes cut straight from the best of Robert Louis Stevenson or Rafael Sabatini. The third part blends the stories of Waterhouse and Eliza with royal intrigue. Eliza becomes a spy at Versailles, at one point concealing coded message in embroidery. All three of the main characters are ancestors of characters from Cryptonomicon, though it's possible to appreciate Quicksilver without having read the earlier book. ... ”[[1]](http://www.januarymagazine.com/fiction-quicksilver.html)
 
-“ ... Eliza has a gift for business, while Jack seems only to have a gift for getting himself into trouble, but they also come to feel quite deeply for each other -- not that that works out too well (at least for the time being). A wanted man (ever more wanted -- and notorious --, as events proceed), Jack tends to be on the run, and his story is mainly one of narrow escapes (colourfully described). Eliza, meanwhile, is more patient in her plans, and makes herself useful to some important people. ... ” [[2]](/http-www-complete-review-com-reviews-stephenn-qsilver-htm)
+“ ... Eliza has a gift for business, while Jack seems only to have a gift for getting himself into trouble, but they also come to feel quite deeply for each other -- not that that works out too well (at least for the time being). A wanted man (ever more wanted -- and notorious --, as events proceed), Jack tends to be on the run, and his story is mainly one of narrow escapes (colourfully described). Eliza, meanwhile, is more patient in her plans, and makes herself useful to some important people. ... ” [[2]](http://www.complete.review.com/reviews-stephenn-qsilver.htm)
 
 Both [Louis XIV](/louis-xiv) and [William III](/william-iii) have plans for this woman. In the third book of Volume I — we've only her impressions and her coded messages which may be incorrectly or incompletely deciphered. She's so devious - she masks her own personality from herself. 
 
@@ -59,7 +59,7 @@ Eliza despises the institution of slavery. Link above is article.
 ### Eliza and the Pox
 
 
-In [The Confusion](/the-confusion) — Eliza survives a mammoth fight with [smallpox](/http-en-wikipedia-org-wiki-smallpox) that leaves her disfigured to the degree that it had "left perhaps three dozen pock marks on her face" of which at least some were so bad they "got the black patch treatment" which was to have bits of black felt stuck on them. Additionally her body was badly scarred. *(I got the impression the poxmarks healed eventually).*
+In [The Confusion](/the-confusion) — Eliza survives a mammoth fight with [smallpox](https://en.wikipedia.org/wiki/smallpox) that leaves her disfigured to the degree that it had "left perhaps three dozen pock marks on her face" of which at least some were so bad they "got the black patch treatment" which was to have bits of black felt stuck on them. Additionally her body was badly scarred. *(I got the impression the poxmarks healed eventually).*
 
 Of all the bodily descriptions of the characters, what with teeth falling out, fingers being cut off, limbs lost, etc.; It is what happens to Eliza that seems the most alien, the most removed from present sensibilities. In [The Confusion](/the-confusion), her scarring doesn't seem to matter, she still flirts like a heartless schoolgirl. 
 
@@ -67,7 +67,7 @@ Later, when [Jack](/jack-shaftoe) sees her naked and marvels at the battle she h
 
 *Dar' Islam* knew of inoculation. It had been around for centuries. Historically, the Chinese invented it by blowing dust from the scabs of smallpox patients up the noses of the healthy. Chances are Eliza was partially immune.
 
-**[Voltaire](/http-www-metaweb-com-wiki-wiki-phtml-title-voltaire)** in the 11th of his Philosophical Letters (observations of England in the late 1720s) claims that this practice was brought to England by Mrs. Wortley-Montaigue, wife of an ambassador to Constantinople where this practice was said to be the norm, who persuaded Persons of Quality in London to take up the same practice in the time of George 1st (which would fall into Baroque book 3 timeframe, I wonder if Eliza will meet her?). This inoculation would be rather dangerous (because the virus dust may not be completely dead) compared to the use of cowpox as realized by Edward Jenner from 1796 onwards.
+**[Voltaire](http://www.metaweb.com/wiki-wiki-phtml-title-voltaire)** in the 11th of his Philosophical Letters (observations of England in the late 1720s) claims that this practice was brought to England by Mrs. Wortley-Montaigue, wife of an ambassador to Constantinople where this practice was said to be the norm, who persuaded Persons of Quality in London to take up the same practice in the time of George 1st (which would fall into Baroque book 3 timeframe, I wonder if Eliza will meet her?). This inoculation would be rather dangerous (because the virus dust may not be completely dead) compared to the use of cowpox as realized by Edward Jenner from 1796 onwards.
 
 It seems as if the smallpox was rampant at the time, and its effects unremarkable. This is completely different to today where disfiguration or signs of illness are almost always remarked upon or noticed, either by friends in a sympathetic tone or strangers gawping.
 
@@ -119,17 +119,17 @@ Aside: Another famous emancipated *Eliza* is the strong Miss Dolittle from Georg
 ### Footnotes and External links
 
 
-* 1. [About.com Review](/http-contemporarylit-about-com-cs-currentreviews-fr-theconfusion-htm)
-* 1.5 [Review](/http-www-januarymagazine-com-fiction-quicksilver-html)
-* 2. [The complete review's Review](/http-www-complete-review-com-reviews-stephenn-qsilver-htm)
-* 3 [Adam Hochschild's “Against All Odds”](/http-www-motherjones-com-news-feature-2004-01-12-403-html)
-* [Neal Stephenson interview (baroquecycle.com)](/http-www-baroquecycle-com-interview-htm)
-* [Pygmalion e-text](/http-www-gutenberg-net-browse-bibrec-br3825-htm)
-* [Eliza](/http-www-cs-nott-ac-uk-gxk-courses-g5aiai-002history-eliza-htm): (Weizenbaum, 1966) was one of the first AI programs and, at the time, it impressed the people who used it. The name Eliza was chosen as "it" could learn to talk increasingly well as did Eliza of Pygmalion fame
+* 1. [About.com Review](http://contemporarylit.about.com/cs-currentreviews-fr-theconfusion.htm)
+* 1.5 [Review](http://www.januarymagazine.com/fiction-quicksilver.html)
+* 2. [The complete review's Review](http://www.complete.review.com/reviews-stephenn-qsilver.htm)
+* 3 [Adam Hochschild's “Against All Odds”](http://www.motherjones.com/news-feature-2004-01-12-403.html)
+* [Neal Stephenson interview (baroquecycle.com)](http://www.baroquecycle.com/interview.htm)
+* [Pygmalion e-text](http://www.gutenberg.net/browse-bibrec-br3825.htm)
+* [Eliza](http://www.cs.nott.ac.uk/gxk-courses-g5aiai-002history-eliza.htm): (Weizenbaum, 1966) was one of the first AI programs and, at the time, it impressed the people who used it. The name Eliza was chosen as "it" could learn to talk increasingly well as did Eliza of Pygmalion fame
 * [Chat and the Turing test](/http-www-compapp-dcu-ie-humphrys-turing-test-html)
-* [Wired Article](/http-www-wired-com-news-business-0-1367-38517-00-html)
+* [Wired Article](http://www.wired.com/news-business-0-1367-38517-00.html)
 * [How my program passed the Turing Test](/http-www-compapp-dcu-ie-humphrys-eliza-html)
-* [Excessive Candor](/http-www-scifi-com-sfw-issue337-excess-html)
-* [More, More, More](/http-books-guardian-co-uk-reviews-generalfiction-0-6121-1070331-00-html)
-* [Slave trade: a root of contemporary African Crisis](/http-www-afbis-com-analysis-slave-htm)
-* [Harem info](/http-www-radiobastet-com-linksbdm-html)
+* [Excessive Candor](http://www.scifi.com/sfw-issue337-excess.html)
+* [More, More, More](http://books.guardian.co.uk/reviews-generalfiction-0-6121-1070331-00.html)
+* [Slave trade: a root of contemporary African Crisis](http://www.afbis.com/analysis-slave.htm)
+* [Harem info](http://www.radiobastet.com/linksbdm.html)

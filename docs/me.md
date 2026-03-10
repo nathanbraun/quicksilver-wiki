@@ -7,7 +7,7 @@ This is a page on **Me** which leads us to the [Waterhouse family](/waterhouse-f
 ### Stephensonia
 
 
-***Ea** is **Enki** and a diety represented as a house on water. Ea is not Tolkein's [Eä](/http-en-wikipedia-org-wiki-eä) - though it might be a reason for [Randy Waterhouse](/randy-waterhouse)'s thinking of himself as a Dwarf.*
+***Ea** is **Enki** and a diety represented as a house on water. Ea is not Tolkein's [Eä](https://en.wikipedia.org/wiki/eä) - though it might be a reason for [Randy Waterhouse](/randy-waterhouse)'s thinking of himself as a Dwarf.*
 
 ### Authored entries
 
@@ -19,14 +19,14 @@ This is a page on **Me** which leads us to the [Waterhouse family](/waterhouse-f
 ### *Me*
 
 
-The **me** are the ancient [Sumerian](/http-en-wikipedia-org-wiki-sumer) [incantations](/http-en-wikipedia-org-wiki-magic) of [Neal Stephenson](/user-nealstephenson)'s third novel, [Snow Crash](/snow-crash), and its most compelling SF concept: a virus neé drug cum religion created by the intersection of these with modern cult/ure. 
+The **me** are the ancient [Sumerian](https://en.wikipedia.org/wiki/sumer) [incantations](https://en.wikipedia.org/wiki/magic) of [Neal Stephenson](/user-nealstephenson)'s third novel, [Snow Crash](/snow-crash), and its most compelling SF concept: a virus neé drug cum religion created by the intersection of these with modern cult/ure. 
 
-The **me** are short [verb phrases](/verb-phrase) that literally act on the [human mind](/human-mind) like commands in a programming language. That is, they activate the [human body](/human-body) directly and bypass the mind, which might otherwise inhibit obeying the command that is the **me**. They were supposed to be held by priests until certain actions like [harvesting](/http-en-wikipedia-org-wiki-harvest) or [planting](/http-en-wikipedia-org-wiki-plant) or [irrigating](/http-en-wikipedia-org-wiki-irrigate) or [building](/http-en-wikipedia-org-wiki-build) were required, and then released only for that purpose. Presumably [noun phrases](/noun-phrase) would also be required, for instance, to denote where to go to do the action, or what materials to use, if there's a choice. Which, in a primitive economy, there wouldn't be: huts are made of straw or sticks, granaries of brick, etc. ***Simple***.
+The **me** are short [verb phrases](/verb-phrase) that literally act on the [human mind](/human-mind) like commands in a programming language. That is, they activate the [human body](/human-body) directly and bypass the mind, which might otherwise inhibit obeying the command that is the **me**. They were supposed to be held by priests until certain actions like [harvesting](https://en.wikipedia.org/wiki/harvest) or [planting](https://en.wikipedia.org/wiki/plant) or [irrigating](https://en.wikipedia.org/wiki/irrigate) or [building](https://en.wikipedia.org/wiki/build) were required, and then released only for that purpose. Presumably [noun phrases](/noun-phrase) would also be required, for instance, to denote where to go to do the action, or what materials to use, if there's a choice. Which, in a primitive economy, there wouldn't be: huts are made of straw or sticks, granaries of brick, etc. ***Simple***.
 
 ### Deeper: *Me*
 
 
-**Me** is a concept in the cosmology of Sumerian mythology which describes the discrete bestowal of each of the arts and sciences by the gods to humans. In one poem, **[Inanna](/http-en-wikipedia-org-wiki-ishtar)** is described as meeting with **Enki**, the divine caretaker of the me, and getting him drunk in a plot to steal them from him (compare with the theft of fire by [Prometheus](/http-en-wikipedia-org-wiki-prometheus) in [Greek mythology](/http-en-wikipedia-org-wiki-greek-mythology)). 
+**Me** is a concept in the cosmology of Sumerian mythology which describes the discrete bestowal of each of the arts and sciences by the gods to humans. In one poem, **[Inanna](https://en.wikipedia.org/wiki/ishtar)** is described as meeting with **Enki**, the divine caretaker of the me, and getting him drunk in a plot to steal them from him (compare with the theft of fire by [Prometheus](https://en.wikipedia.org/wiki/prometheus) in [Greek mythology](https://en.wikipedia.org/wiki/greek-mythology)). 
 
 ### Deeper? Let me show you how deep the rabbit hole goes...Curiouser and curiouser....
 
@@ -54,7 +54,7 @@ Naturally, as a member of a triad, Ishtar is dissociated from any local limitati
 ### Sumerian mythology
 
  
-The **Sumerians** practised a polytheistic religion, with gods or goddesses representing forces or presences in the world, much as in the later [Greek mythology](/http-en-wikipedia-org-wiki-greek-mythology). The gods originally created humans as servants for themselves, but freed them when they became too much to handle. 
+The **Sumerians** practised a polytheistic religion, with gods or goddesses representing forces or presences in the world, much as in the later [Greek mythology](https://en.wikipedia.org/wiki/greek-mythology). The gods originally created humans as servants for themselves, but freed them when they became too much to handle. 
 
 Many stories in Sumerian religion appear homologous to stories in other middle-eastern religions. For example, the biblical account of the creation of man as well as [Noah](/noah)'s flood narrative resemble Sumerian tales very closely. Gods and goddesses from Sumer have distinctly similar representations in the religions of the Akkadians, Caananites, and others. A number of related stories and deities have Greek parallels as well; for example Innana's descent into the underworld strikingly recalls the story of Persephone. 
 
@@ -154,9 +154,9 @@ In various fictional texts, where words are critical to **making** -- [true name
 
 
 * [True Names](/), a science fiction novella by [Vernor Vinge](/).
-* [Sumerian Animal Zodiac](/http-freepages-history-rootsweb-com-catshaman-13sumerian-03round-htm) - called [a Round](/a-round)
-* [Inanna](/http-freepages-history-rootsweb-com-catshaman-0inanna-06hersuit1-htm)
-* [TO SEE I trip rapport](/http-www-erowid-org-experiences-exp-php-id-9425) ([Water of Life](/)).
-* [More aboot 2C-I, in Polish language version. ([[WikiPedia:2C-I|the Spice Essence](/https-hyperreal-info-neuro-groove-go-to-sec-189)]).
-* [Isthar](/http-www-geocities-com-grammarose)
-* [The Face on Mars](/http-xfacts-com-xvideo1-contents-html) - [Planet X](/planet-x)!
+* [Sumerian Animal Zodiac](http://freepages.history.rootsweb.com/catshaman-13sumerian-03round.htm) - called [a Round](/a-round)
+* [Inanna](http://freepages.history.rootsweb.com/catshaman-0inanna-06hersuit1.htm)
+* [TO SEE I trip rapport](http://www.erowid.org/experiences-exp-php-id-9425) ([Water of Life](/)).
+* [More aboot 2C-I, in Polish language version. ([[WikiPedia:2C-I|the Spice Essence](https://hyperreal.info/neuro-groove-go-to-sec-189)]).
+* [Isthar](http://www.geocities.com/grammarose)
+* [The Face on Mars](http://xfacts.com/xvideo1-contents.html) - [Planet X](/planet-x)!

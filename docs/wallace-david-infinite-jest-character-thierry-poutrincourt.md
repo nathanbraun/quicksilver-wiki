@@ -18,4 +18,4 @@ Let's look at some quotes:
 So the coat possibly points to Poutrincourt. DeLint was sitting that
 way before, but of course lots of people sit like that.
 
-Dan Schmidt | dfan@[omitted] | [http://www2.lglass.com/~dfan](/http-www2-lglass-com-dfan)
+Dan Schmidt | dfan@[omitted] | [http://www2.lglass.com/~dfan](http://www2.lglass.com/dfan)

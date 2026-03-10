@@ -3,7 +3,7 @@
 
 From the Quicksilver Metaweb.
 
-... no changes ... no changes ... no changes ... no changes ... no changes ... no changes ... no changes ... no changes ... no changes ... no changes ... no changes ... Thanks!!! Links: <a href='[http://www.dirare.com](/http-www-dirare-com)'>yellow pages main</a> : [business yellowpages](/http-www-dirare-com) - [HTTP://www.dirare.com business yellowpages] : [international directory|[http://www.dirare.com](/http-www-dirare-com)] - [international directory|HTTP://www.dirare.com] : [http://www.dirare.com/India/](/http-www-dirare-com-india) : [[companies of the world](/http-www-dirare-com)] : [[| YP national](/http-www-dirare-com)] : "global directory" [http://www.dirare.com](/http-www-dirare-com) : [http://www.dirare.com|online directory] This is a page for **Clarke's three laws**.
+... no changes ... no changes ... no changes ... no changes ... no changes ... no changes ... no changes ... no changes ... no changes ... no changes ... no changes ... Thanks!!! Links: <a href='[http://www.dirare.com](http://www.dirare.com)'>yellow pages main</a> : [business yellowpages](http://www.dirare.com) - [HTTP://www.dirare.com business yellowpages] : [international directory|[http://www.dirare.com](http://www.dirare.com)] - [international directory|HTTP://www.dirare.com] : [http://www.dirare.com/India/](http://www.dirare.com/india) : [[companies of the world](http://www.dirare.com)] : [[| YP national](http://www.dirare.com)] : "global directory" [http://www.dirare.com](http://www.dirare.com) : [http://www.dirare.com|online directory] This is a page for **Clarke's three laws**.
 
 Science fiction author [Arthur C. Clarke](/arthur-c-clarke) formulated the following three laws:
 
@@ -20,12 +20,12 @@ Other writers have since proposed corollaries (not all of them actually corollar
 
 * Gregory Benford's Corollary to Clarke's Third Law: Any technology distinguishable from magic is insufficiently advanced. (Foundation's Fear, 1997)
 
-Alternative version: Benford's Modified Clarke Law: Any technology that does not appear magical is insufficiently advanced.[[1]](/http-www-edge-org-q2004-index-html-benford)
+Alternative version: Benford's Modified Clarke Law: Any technology that does not appear magical is insufficiently advanced.[[1]](http://www.edge.org/q2004-index-html-benford)
 
-* Raymond's Second Law: Any sufficiently advanced system of magic would be indistinguishable from a technology.[[2]](/http-www-edge-org-q2004-index-html-raymond)
+* Raymond's Second Law: Any sufficiently advanced system of magic would be indistinguishable from a technology.[[2]](http://www.edge.org/q2004-index-html-raymond)
 
 
-* Sterling's Corollary to Clarke's Third Law: Any sufficiently advanced garbage is indistinguishable from magic.[[3]](/http-www-edge-org-q2004-page7-html-sterling)
+* Sterling's Corollary to Clarke's Third Law: Any sufficiently advanced garbage is indistinguishable from magic.[[3]](http://www.edge.org/q2004-page7-html-sterling)
 
 
 * Langford's application of Clarke's Third Law to science fiction: Any sufficiently advanced technology is indistinguishable from a completely ad-hoc plot device. ("A Gadget Too Far", New Worlds 2, 1992)
@@ -45,7 +45,7 @@ Alternative version: Benford's Modified Clarke Law: Any technology that does not
 
 
 * [WikiPedia:Clarke's\_three\_laws](/) was the basis for this entry.
-* [The origins of the Three Laws](/http-groups-google-com-au-groups-selm-1991nov13-122855-10634-sq-sq-com)
-* [Humorous corollary to Clarke's Third Law](/http-freefall-purrsia-com-ff300-fv00255-htm) (from the web comic *[Freefall](/http-en-wikipedia-org-wiki-freefall-webcomic)*)
-* ["What's Your Law?"](/http-www-edge-org-q2004) (lists some of the corollaries)
-* ["A Gadget Too Far"](/http-www-infinityplus-co-uk-nonfiction-dlnw-htm) at Infinity Plus
+* [The origins of the Three Laws](http://groups.google.com/au-groups-selm-1991nov13-122855-10634-sq-sq-com)
+* [Humorous corollary to Clarke's Third Law](http://freefall.purrsia.com/ff300-fv00255.htm) (from the web comic *[Freefall](https://en.wikipedia.org/wiki/freefall-webcomic)*)
+* ["What's Your Law?"](http://www.edge.org/q2004) (lists some of the corollaries)
+* ["A Gadget Too Far"](http://www.infinityplus.co.uk/nonfiction-dlnw.htm) at Infinity Plus

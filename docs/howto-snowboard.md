@@ -26,4 +26,4 @@ Pablos is just giving away the [Secrets of Snowboarding](/secrets-of-snowboardin
 
 
 
-Herei is a basic article on [How to snowboard](/http-allsands-com-sports-howto-howtosnowboard-fu-gn-htm), mostly encouraging people to be safe, take lessons, wear gloves, etc.
+Herei is a basic article on [How to snowboard](http://allsands.com/sports-howto-howtosnowboard-fu-gn.htm), mostly encouraging people to be safe, take lessons, wear gloves, etc.

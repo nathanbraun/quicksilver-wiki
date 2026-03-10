@@ -22,7 +22,7 @@ A [Cryptonomicon](/cryptonomicon) spanning page for the good **Reverend Dodson**
 **Charles Lutwidge Dodgson  
 AKA Lewis Carroll  
 Photo taken by Lewis Carroll  
-himself from [the Lewis Carroll Scrapbook](/http-international-loc-gov-intldl-carrollhtml-lcgallery-html)**
+himself from [the Lewis Carroll Scrapbook](http://international.loc.gov/intldl-carrollhtml-lcgallery.html)**
 
 **Charles Lutwidge Dodgson** ([January 27](/), [1832](/) – [January 14](/), [1898](/)), better known by the [pen name](/) **Lewis Carroll**, was a [British](/) [author](/), [mathematician](/), [Anglican](/) clergyman, [logician](/), and amateur [photographer](/).
 
@@ -131,9 +131,9 @@ Carroll did show some interest in the Jack the Ripper case, however; this is har
 
 
 * *In the Shadow of the Dreamchild* by Karoline Leach.
-* [Looking for Lewis Carroll](/http-www-lookingforlewiscarroll-com) website, based upon work of Leach and others.
+* [Looking for Lewis Carroll](http://www.lookingforlewiscarroll.com) website, based upon work of Leach and others.
 * *Lewis Carroll: A Biography* by Mortimer Cohen, Vintage, 1996
-* [Victorian Web](/http-www-victorianweb-org-authors-carroll-bioov-html)'s detailed biography section on Carroll.
+* [Victorian Web](http://www.victorianweb.org/authors-carroll-bioov.html)'s detailed biography section on Carroll.
 * *The Raven and the Writing Desk* by Francis Huxley, 1976 ([ISBN 0060121130](/)).
 * *Inventing Wonderland* by Jackie Wullschläger, ([ISBN 0743228928](/)) — also looks at [Edward Lear](/) (of the "nonsense" verses), [J. M. Barrie](/) (*[Peter Pan](/)*), [Kenneth Grahame](/) (*[The Wind in the Willows](/)*), and [A. A. Milne](/) (*[Winnie the Pooh](/)*).
 
@@ -141,22 +141,22 @@ Carroll did show some interest in the Jack the Ripper case, however; this is har
 ### External links
 
 
-* [Charles Lutwidge Dodgson in WikiQuote](/http-en-wikiquote-org-wiki-lewis-carroll)
-* [The Lewis Carroll Home Page](/http-www-lewiscarroll-org-carroll-html)
-* [Victorian Web](/http-www-victorianweb-org)
-* [Looking for Lewis Carroll](/http-www-lookingforlewiscarroll-com)
-* [The Lewis Carroll Society](/http-lewiscarrollsociety-org-uk)
-* [Lewis Carroll](/http-greatsfandf-com-authors-lewiscarroll-shtml): an introduction to his fiction
+* [Charles Lutwidge Dodgson in WikiQuote](http://en.wikiquote.org/wiki-lewis-carroll)
+* [The Lewis Carroll Home Page](http://www.lewiscarroll.org/carroll.html)
+* [Victorian Web](http://www.victorianweb.org)
+* [Looking for Lewis Carroll](http://www.lookingforlewiscarroll.com)
+* [The Lewis Carroll Society](http://lewiscarrollsociety.org/uk)
+* [Lewis Carroll](http://greatsfandf.com/authors-lewiscarroll-shtml): an introduction to his fiction
 
 
 #### Electronic texts
 
 
 Freely downloadable e-texts from [Project Gutenberg](/):
-* [*Alice's Adventures in Wonderland*](/http-www-gutenberg-org-etext-11)
-* [*Through the Looking-Glass*](/http-www-gutenberg-org-etext-12)
-* [*The Hunting of the Snark*](/http-www-gutenberg-org-etext-13)
-* [*Phantasmagoria and Other Poems*](/http-www-gutenberg-org-etext-651)
-* [*Sylvie and Bruno*](/http-www-gutenberg-org-etext-620)
-* [*The game of logic*](/http-www-gutenberg-org-etext-4763)
-* [*The Life and Letters of Lewis Carroll*](/http-www-gutenberg-org-etext-11483) by Stuart Dodgson Collingwood
+* [*Alice's Adventures in Wonderland*](http://www.gutenberg.org/etext-11)
+* [*Through the Looking-Glass*](http://www.gutenberg.org/etext-12)
+* [*The Hunting of the Snark*](http://www.gutenberg.org/etext-13)
+* [*Phantasmagoria and Other Poems*](http://www.gutenberg.org/etext-651)
+* [*Sylvie and Bruno*](http://www.gutenberg.org/etext-620)
+* [*The game of logic*](http://www.gutenberg.org/etext-4763)
+* [*The Life and Letters of Lewis Carroll*](http://www.gutenberg.org/etext-11483) by Stuart Dodgson Collingwood

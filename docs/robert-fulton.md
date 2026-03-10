@@ -45,4 +45,4 @@ Fulton County, Ohio is named for him.
 
 
 * [William\_Symington](/)
-* [William Symington](/http-www-gsk58-dial-pipex-com-symington-index-shtml) - one of Scotland's great inventors and engine builders
+* [William Symington](http://www.gsk58.dial.pipex.com/symington-index-shtml) - one of Scotland's great inventors and engine builders

@@ -89,13 +89,13 @@ For uniformity and to avoid complications use straight quotation marks and apost
  ' "
 not curved (smart) ones or the "backtick":
  ‘ ’ “ ” `
-If you are pasting text from [Microsoft Word](/microsoft-word), remember to turn off the smart quotes feature, unmark this feature in AutoEdit and "AutoEdit during typing"! [[1]](/http-www-ucar-edu-communications-thisweek-announcements-post-ascii-html)
+If you are pasting text from [Microsoft Word](/microsoft-word), remember to turn off the smart quotes feature, unmark this feature in AutoEdit and "AutoEdit during typing"! [[1]](http://www.ucar.edu/communications-thisweek-announcements-post-ascii.html)
 
 
 ## Capitalization of job titles
 
 
-Job titles such as "president", "king", or "emperor" are capitalized when used as a title, but in lower case when used generically. Thus, it is "President Bush" not "president Bush". However if one is using the correct formal name of an office, it is treated as a proper noun. Hence "Bush was President of the United States" but "Bush was U.S. president". Similarly "Louis XVI was French king" but "Louis XVI was King of France", 'King of France' being a title in that context. The same goes for historical offices: "Maximilian was Mexican emperor from X to Y". "Maximilian was Emperor of Mexico from X to Y". (Reference: Chicago Manual of Style 14th ed., par. 7.16; [The Guardian Manual of Style](/http-www-guardian-co-uk-styleguide-page-0-5817-184841-00-html), "Titles" keyword.) Exceptions may apply for specific offices; feel free to add them here.
+Job titles such as "president", "king", or "emperor" are capitalized when used as a title, but in lower case when used generically. Thus, it is "President Bush" not "president Bush". However if one is using the correct formal name of an office, it is treated as a proper noun. Hence "Bush was President of the United States" but "Bush was U.S. president". Similarly "Louis XVI was French king" but "Louis XVI was King of France", 'King of France' being a title in that context. The same goes for historical offices: "Maximilian was Mexican emperor from X to Y". "Maximilian was Emperor of Mexico from X to Y". (Reference: Chicago Manual of Style 14th ed., par. 7.16; [The Guardian Manual of Style](http://www.guardian.co.uk/styleguide-page-0-5817-184841-00.html), "Titles" keyword.) Exceptions may apply for specific offices; feel free to add them here.
 
 Remember in the case of prime minister, both letters are capitalised or lower-cased. Except when 'prime' starts a sentence, both are capitalised or lower-cased *together*. Again, when being used generically (ie, when talking generally about prime ministers) the office is lower-cased. When reference is made to a specific office, upper case is generally used. So "there are many prime ministers around the world." but "The British Prime Minister, Tony Blair, said today . . . " (However to complicate matters, some Manuals of Style, while saying "*The* British Prime Minister", recommend "British prime minister". A good rule of thumb is whether a definite article (The) or an indefinite article (A) is used. If *the* is used, capitalisation often follows. If *a* is used, the lowercase is preferred.)
 
@@ -144,12 +144,12 @@ It is appropriate to reference more detailed material from the [World Wide Web](
 The syntax of referencing a [URL](/url) is simple, just enclose it in single brackets, [full URL optional text after space]. The URL must begin with *http://* or other form, such as *ftp://*. Most URLs are ugly and uninformative, so it is better to hide them. The "printable version" of a page displays all URLs in full, even if concealed, so no information is lost.
 
 Without the optional text, such an external reference takes the form of a footnote: 
-* [[2]](/http-www-metaweb-com)
+* [[2]](http://www.metaweb.com)
 	+ [http://www.metaweb.com]
 
 
 If followed by a space and text, the text replaces the URL:
-* [the Metaweb](/http-www-metaweb-com)
+* [the Metaweb](http://www.metaweb.com)
 	+ [http://www.metaweb.com the Metaweb]
 
 
@@ -161,12 +161,12 @@ In most cases, however, it is clearer to keep the URL separate at the bottom of 
 As with other headers, two equals signs should be used to markup the external links header (see *Headline style* above).
 
 **Note:** At present, without brackets, URLs are presented as is:
-* [http://www.metaweb.com](/http-www-metaweb-com)
+* [http://www.metaweb.com](http://www.metaweb.com)
 	+ http://www.metaweb.com
 
 
 But this feature may disappear in a future release and in cases where you wish to display the URL because it is intrinsically valuable information, it is better to use the short form of the URL as the optional text:
-* [www.metaweb.com](/http-www-metaweb-com)
+* [www.metaweb.com](http://www.metaweb.com)
 	+ [http://www.metaweb.com www.metaweb.com]
 
 
@@ -231,4 +231,4 @@ Before you start writing or editing, it is a good idea to read through and under
 * [Metaweb:How does one edit a page](/metaweb-how-does-one-edit-a-page) will explain the mechanics of what codes are available to you when editing a page, to do things like titles, links, external links, and so on.
 
 
-*This article is based on [Wikipedia: Wikipedia:Manual of Style](/http-en-wikipedia-org-wiki-wikipedia-manual-of-style), released under the [Metaweb:GNU FDL](/metaweb-gnu-fdl).*
+*This article is based on [Wikipedia: Wikipedia:Manual of Style](https://en.wikipedia.org/wiki/wikipedia-manual-of-style), released under the [Metaweb:GNU FDL](/metaweb-gnu-fdl).*

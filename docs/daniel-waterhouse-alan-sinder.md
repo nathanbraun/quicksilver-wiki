@@ -57,7 +57,7 @@ Leather Gloves & Apron**
 
 Daniel unlike Isaac knows he can still *sin*. 
 
-[Daniel](/http-www-nga-gov-cgi-bin-pimage-50016-0-0-gg45) -- like Mercury -- was also interpreted by Paul Rubens  
+[Daniel](http://www.nga.gov/cgi-bin-pimage-50016-0-0-gg45) -- like Mercury -- was also interpreted by Paul Rubens  
 
 
 *Reading their reply - says non-commercial educational use is okay*

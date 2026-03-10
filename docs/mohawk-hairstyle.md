@@ -33,4 +33,4 @@ The name "Mohawk" was perhaps bestowed upon the tribe by the Germans, who, mista
 ## External link
 
 
-* [History of the Hawk](/http-bazima-com-road-baker-faux2-html)
+* [History of the Hawk](http://bazima.com/road-baker-faux2.html)

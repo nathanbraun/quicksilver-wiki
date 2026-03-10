@@ -21,7 +21,7 @@ A cheeky poke at Extropians - a community of right-wing techno libertarians.
 
 Several of [Randy Waterhouse](/randy-waterhouse)'s and Avi's friends and associates are Eutropians, who wear bracelets bearing information on the necessary protocols to prep their bodies for [cryonic suspension](/cryonic-suspension) in the event of their death. In this, these characters are fictional analogs to the real world's [Extropians](/extropians) and other [transhumanists](/transhumanists), who tend to maintain [cryonics contracts](/cryonics-contracts), wear such bracelets, are involved in [crypto-hacker](/crypto-hacker) and [libertarian](/libertarian) causes and projects, and are generally nerds of the dwarf or elvish variety who enjoy cool technology, be it [cryptosystems](/cryptosystems), [high-energy weaponry](/reason), [van Eck phreaking](/van-eck-phreaking), [guns](/ultima-ratio-regum), [private space development](/private-space-development), among other things. 
 
-They dislike [luddites](/) like [Andrew Loeb](/andrew-loeb) and statists like the *Golden* [Comstock](/comstock) clan. Extropians have been involved in the founding of [HavenCo](/http-www-havenco-com), the first real [Data haven](/data-havens), based at [SeaLand](/), the real-life tiny independent principality off the east coast of England, as well as other island and nation building projects, space development, software development, as well as the American Libertarian movement.
+They dislike [luddites](/) like [Andrew Loeb](/andrew-loeb) and statists like the *Golden* [Comstock](/comstock) clan. Extropians have been involved in the founding of [HavenCo](http://www.havenco.com), the first real [Data haven](/data-havens), based at [SeaLand](/), the real-life tiny independent principality off the east coast of England, as well as other island and nation building projects, space development, software development, as well as the American Libertarian movement.
 
 Extropians view the transhumanist movement as a follow-on to the [humanist](/humanist) movement spawned by the [Enlightenment](/enlightenment) that [Newton](/newton), [Leibniz](/leibniz), [Locke](/stephenson-neal-quicksilver-170-john-locke-was-writing-a-constitution-for-carolina-mike-lorrey-alan-sinder) and the other [Natural Philosophers](/royal-society-of-london-for-the-improvement-of-natural-knowledge) founded, to the point that many celebrate December 25th as Newtonmas, as it is Newton's Birthday. 
 
@@ -29,7 +29,7 @@ They believe that the humanists abandoned the Enlightenment approval of scientif
 
 **Extropianism**, also referred to as **extropy**, is an evolving framework of values and standards for continuously improving the human condition. Extropianism describes a pragmatic consilience of [transhuman](/) thought guided by a conscious, pro-active, self-directed approach to human evolution and progress. 
 
-Originated by a set of principles developed by Dr. [Max More](/): *[The Principles of Extropy](/http-www-extropy-org-principles-htm)*, extropianism stems from the transhuman tradition of [F.M. Esfandiary](/) and as conceptualized by More, places strong emphasis on rational thinking and practical [optimism](/). According to More, these principles "do not specify particular beliefs, technologies, or policies". Extropians share an optimistic view of the [future](/), expecting considerable advances in computational power, [life extension](/), [nanotechnology](/) and the like. Many extropians foresee the eventual realization of unlimited [maximum life spans](/), and the recovery, thanks to future advances in biomedical technology, of those whose bodies/brains have been preserved by means of [cryonics](/).
+Originated by a set of principles developed by Dr. [Max More](/): *[The Principles of Extropy](http://www.extropy.org/principles.htm)*, extropianism stems from the transhuman tradition of [F.M. Esfandiary](/) and as conceptualized by More, places strong emphasis on rational thinking and practical [optimism](/). According to More, these principles "do not specify particular beliefs, technologies, or policies". Extropians share an optimistic view of the [future](/), expecting considerable advances in computational power, [life extension](/), [nanotechnology](/) and the like. Many extropians foresee the eventual realization of unlimited [maximum life spans](/), and the recovery, thanks to future advances in biomedical technology, of those whose bodies/brains have been preserved by means of [cryonics](/).
 [![PD from Wikipedia](/web/20060725171650im_/http://www.metaweb.com/wiki/upload/b/b2/783px-We_Can_Rebuild_Him.jpg)](pd-from-wikipedia)  
 **[Imtech (Implantable technology)](/).  
 "Part infographic/part editorial illustration for Sync Magazine on our first steps into an inevitable  
@@ -57,13 +57,13 @@ The Internet soon became the most fertile breeding ground for people interested 
 ### External Links
 
 
-* [Extropy Institute](/http-www-extropy-org)
-* [World Transhumanist Association](/http-www-transhumanism-org)
-* [The Principles of Extropy](/http-www-extropy-org-principles-htm), published by the Extropy Institute
+* [Extropy Institute](http://www.extropy.org)
+* [World Transhumanist Association](http://www.transhumanism.org)
+* [The Principles of Extropy](http://www.extropy.org/principles.htm), published by the Extropy Institute
 * [Proactionary Principle](/)
 * [Transhumanism](/)
 * [Technophilia](/)
 * [Jaron Lanier](/)
-* [Meet the Extropians](/http-www-wired-com-wired-archive-2-10-extropians-html)
-* [EuTropian mentions](/http-www-themodernword-com-review-cryptonomicon-html)
+* [Meet the Extropians](http://www.wired.com/wired-archive-2-10-extropians.html)
+* [EuTropian mentions](http://www.themodernword.com/review-cryptonomicon.html)
 * [Ideels](/http-www-ideels-uni-bremen-de-statprof-html)

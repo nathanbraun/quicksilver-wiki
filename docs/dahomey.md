@@ -20,4 +20,4 @@ In 1960 the area gained independence as the Republic of Dahomey, which later cha
 
 Related entries:
 * [Dappa](/dappa)
-* [[Wikipedia entry for Dahomey](/http-en-wikipedia-org-wiki-dahomey)], from which this was drawn
+* [[Wikipedia entry for Dahomey](https://en.wikipedia.org/wiki/dahomey)], from which this was drawn

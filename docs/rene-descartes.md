@@ -101,30 +101,30 @@ Descartes's theory provided the basis for the calculus of [Newton](/isaac-newton
 ### External links
 
 
-* [Wikipedia entry](/http-en2-wikipedia-org-wiki-rené-descartes)
-* [Cartesian Coordinate System](/http-en2-wikipedia-org-wiki-cartesian-coordinate-system)
-* [La Géométrie](/http-en2-wikipedia-org-wiki-la-géométrie)
-* [Meditations on First Philosophy](/http-en2-wikipedia-org-wiki-meditations-on-first-philosophy)
-* [Wikiquote - Quotes by René Descartes](/http-quote-wikipedia-org-wiki-rené-descartes)
-* [Discourse On the Method](/http-www-ibiblio-org-gutenberg-cgi-bin-sdb-t9-cgi-t9-cgi-entry-59-full-yes) - at Project Gutenberg
-* [Selections from the Principles of Philosophy](/http-www-ibiblio-org-gutenberg-cgi-bin-sdb-t9-cgi-t9-cgi-entry-4391-full-yes) - at Project Gutenberg
-* [The Passions of the Soul](/http-www-cgu-edu-hum-phi-descartes) - at Descartes Web Project
+* [Wikipedia entry](https://en.wikipedia.org/wiki/rené-descartes)
+* [Cartesian Coordinate System](https://en.wikipedia.org/wiki/cartesian-coordinate-system)
+* [La Géométrie](https://en.wikipedia.org/wiki/la-géométrie)
+* [Meditations on First Philosophy](https://en.wikipedia.org/wiki/meditations-on-first-philosophy)
+* [Wikiquote - Quotes by René Descartes](https://quote.wikipedia.org/wiki/rené-descartes)
+* [Discourse On the Method](http://www.ibiblio.org/gutenberg-cgi-bin-sdb-t9-cgi-t9-cgi-entry-59-full-yes) - at Project Gutenberg
+* [Selections from the Principles of Philosophy](http://www.ibiblio.org/gutenberg-cgi-bin-sdb-t9-cgi-t9-cgi-entry-4391-full-yes) - at Project Gutenberg
+* [The Passions of the Soul](http://www.cgu.edu/hum-phi-descartes) - at Descartes Web Project
 
 
 
 ### Where the empty broken links should go
 
 
-* [mathematics](/http-en2-wikipedia-org-wiki-mathematics)
-* [mechanics](/http-en2-wikipedia-org-wiki-mechanics)
-* [morality](/http-en2-wikipedia-org-wiki-morality)
-* [imagination](/http-en2-wikipedia-org-wiki-imagination)
-* [body](/http-en-wikipedia-org-wiki-body)
-* [mind](/http-en2-wikipedia-org-wiki-mind)
-* [Platonism](/http-en-wikipedia-org-wiki-platonism)
-* [sin](/http-en-wikipedia-org-wiki-sin)
-* [thing](/http-en2-wikipedia-org-wiki-object-philosophy) - as **Thing** was the governing assembly in **Viking** society. Object was clearly meant.
-* [dreams](/http-en-wikipedia-org-wiki-dreaming)
-* [God's eye view](/http-en2-wikipedia-org-wiki-subject-object-problem) - In philosophy, the **subject-object problem** is a problem chiefly for Marxists, and for that idealistic revision of Marxism that supplies the background for *postmodernism*, social construction, and a constellation of related movements.
-* [cogito ergo sum](/http-en2-wikipedia-org-wiki-cogito-ergo-sum)
-* [anthropic bias](/http-en2-wikipedia-org-wiki-anthropic-principle-anthropic-bias-and-anthropic-reasoning)
+* [mathematics](https://en.wikipedia.org/wiki/mathematics)
+* [mechanics](https://en.wikipedia.org/wiki/mechanics)
+* [morality](https://en.wikipedia.org/wiki/morality)
+* [imagination](https://en.wikipedia.org/wiki/imagination)
+* [body](https://en.wikipedia.org/wiki/body)
+* [mind](https://en.wikipedia.org/wiki/mind)
+* [Platonism](https://en.wikipedia.org/wiki/platonism)
+* [sin](https://en.wikipedia.org/wiki/sin)
+* [thing](https://en.wikipedia.org/wiki/object-philosophy) - as **Thing** was the governing assembly in **Viking** society. Object was clearly meant.
+* [dreams](https://en.wikipedia.org/wiki/dreaming)
+* [God's eye view](https://en.wikipedia.org/wiki/subject-object-problem) - In philosophy, the **subject-object problem** is a problem chiefly for Marxists, and for that idealistic revision of Marxism that supplies the background for *postmodernism*, social construction, and a constellation of related movements.
+* [cogito ergo sum](https://en.wikipedia.org/wiki/cogito-ergo-sum)
+* [anthropic bias](https://en.wikipedia.org/wiki/anthropic-principle-anthropic-bias-and-anthropic-reasoning)

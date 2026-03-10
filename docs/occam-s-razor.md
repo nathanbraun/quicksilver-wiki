@@ -31,4 +31,4 @@ For example, after a storm you notice that a tree has fallen. Based on the evide
 Occam's Razor is not equivalent to the idea that "perfection is simplicity". Albert Einstein had this in mind when he wrote in 1933 that "The supreme goal of all theory is to make the irreducible basic elements as simple and as few as possible without having to surrender the adequate representation of a single datum of experience" often paraphrased as "Theories should be as simple as possible, but no simpler." It often happens that the best explanation is much more complicated than the simplest explanation because it requires fewer assumptions. Some people have oversimplified Occam's Razor as "The simplest explanation is the best." (or is "the true one")
 
 
-* [William of Ockham](/http-wotug-ukc-ac-uk-parallel-www-occam-occam-bio-html)
+* [William of Ockham](http://wotug.ukc.ac.uk/parallel-www-occam-occam-bio.html)

@@ -92,7 +92,7 @@ The film *[Dragon: The Bruce Lee Story](/)* is a highly fictionalized biography 
 
 In [1958](/), Lee was the [Cha Cha](/) Champion of Hong Kong. He worked part time as a Cha Cha instructor for a short time when he returned to San Francisco in April [1959](/).
 
-In September [2004](/), rumors circulated (e.g., [a BBC story](/http-news-bbc-co-uk-2-hi-entertainment-3620752-stm)) that the [Bosnia|Bosnian](/) city of [Mostar](/) was to honour Bruce Lee with a statue on the [Spanish Square](/), as a **symbol of solidarity**. It was stated that this would occur in November. However, it is not clear whether or not the statue was ever actually constructed.
+In September [2004](/), rumors circulated (e.g., [a BBC story](http://news.bbc.co.uk/2-hi-entertainment-3620752-stm)) that the [Bosnia|Bosnian](/) city of [Mostar](/) was to honour Bruce Lee with a statue on the [Spanish Square](/), as a **symbol of solidarity**. It was stated that this would occur in November. However, it is not clear whether or not the statue was ever actually constructed.
 
 ### Bruce Lee in fiction
 
@@ -188,9 +188,9 @@ N.B. : The U.S. English titles for the first two films were swapped by the U.S. 
 ### External links
 
 
-* [The Mystery of Bruce Lee's Death by Jake Seal](/http-www-allbrucelee-com-article-mystery-of-bruce-lee-htm)
-* [The Life of Bruce Lee](/http-www-ocf-berkeley-edu-chenj-brucelee-bruce-timeline-html)
-* [The Bruce Lee Foundation](/http-www-bruceleefoundation-com-brochurepages-art-html)
+* [The Mystery of Bruce Lee's Death by Jake Seal](http://www.allbrucelee.com/article-mystery-of-bruce-lee.htm)
+* [The Life of Bruce Lee](http://www.ocf.berkeley.edu/chenj-brucelee-bruce-timeline.html)
+* [The Bruce Lee Foundation](http://www.bruceleefoundation.com/brochurepages-art.html)
 
 
 #### Disambiguation

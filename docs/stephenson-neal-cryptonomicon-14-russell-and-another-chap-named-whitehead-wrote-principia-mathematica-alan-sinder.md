@@ -71,7 +71,7 @@ This is the [Cryptonomicon](/cryptonomicon) page for **Bertrand Russell**
 
 
 
-### [Wikipedia: Bertrand Russell](/http-en-wikipedia-org-wiki-bertrand-russell)
+### [Wikipedia: Bertrand Russell](https://en.wikipedia.org/wiki/bertrand-russell)
 
 
 ![Russell2.jpg](/images/Russell2.jpg)  
@@ -87,7 +87,7 @@ In 1950, Russell was made Nobel Laureate in Literature "in recognition of his va
 #### Logic
 
 
-In mathematical logic, Russell established Russell's paradox, which exposed an inconsistency in naïve set theory and led directly to the creation of modern axiomatic set theory. It also crippled Gottlob Frege's project of reducing mathematics to logic. Nonetheless, Russell defended logicism (the view that mathematics is in some important sense reducible to logic) and attempted this project himself, along with Alfred North Whitehead, in the [Principia Mathematica](/http-en-wikipedia-org-wiki-principia-mathematica), a clean axiomatic system on which all of mathematics can be built, but which was never fully completed. Although it did not fall prey to the paradoxes in Frege's approach, it was later proven by [Kurt Gödel](/stephenson-neal-quicksilver-36-it-is-the-product-of-five-primes-gary-thompson) thatfor exactly that reasonneither Principia Mathematica nor any other consistent logical system could prove all mathematical truths, and hence Russell's project was necessarily incomplete.
+In mathematical logic, Russell established Russell's paradox, which exposed an inconsistency in naïve set theory and led directly to the creation of modern axiomatic set theory. It also crippled Gottlob Frege's project of reducing mathematics to logic. Nonetheless, Russell defended logicism (the view that mathematics is in some important sense reducible to logic) and attempted this project himself, along with Alfred North Whitehead, in the [Principia Mathematica](https://en.wikipedia.org/wiki/principia-mathematica), a clean axiomatic system on which all of mathematics can be built, but which was never fully completed. Although it did not fall prey to the paradoxes in Frege's approach, it was later proven by [Kurt Gödel](/stephenson-neal-quicksilver-36-it-is-the-product-of-five-primes-gary-thompson) thatfor exactly that reasonneither Principia Mathematica nor any other consistent logical system could prove all mathematical truths, and hence Russell's project was necessarily incomplete.
 
 ### Principia Mathematica
 
@@ -169,7 +169,7 @@ He was succeeded in his titles by his son by his second marriage to Dora Russell
 **|  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  Preceded by  Acted as  Followed by
-| [John Russell](/http-en-wikipedia-org-wiki-john-francis-stanley-russell-2nd-earl-russell) [Earl Russell](/http-en-wikipedia-org-wiki-bertrand-russell) [John Russell](/http-en-wikipedia-org-wiki-john-conrad-russell-4th-earl-russell)|   2nd Earl   3rd Earl   4th Earl
+| [John Russell](https://en.wikipedia.org/wiki/john-francis-stanley-russell-2nd-earl-russell) [Earl Russell](https://en.wikipedia.org/wiki/bertrand-russell) [John Russell](https://en.wikipedia.org/wiki/john-conrad-russell-4th-earl-russell)|   2nd Earl   3rd Earl   4th Earl
  | | |
  | | |
  | | |**
@@ -195,23 +195,23 @@ He was succeeded in his titles by his son by his second marriage to Dora Russell
 #### Online writings
 
 
-* [*In Praise of Idleness* (1932)](/http-www-zpub-com-notes-idle-html)
-* [*Proposed Roads to Freedom* (1918)](/http-www-zpub-com-notes-rfree10-html)
-* [*Ideas that Have harmed Mankind*](/http-www-geocities-com-athens-oracle-2528-br-ideaharm-htm)
-* [*Am I an Atheist or an Agnostic?*](/http-www-positiveatheism-org-hist-russell8-htm)
-* [*Why I am not a Christian*](/http-www-positiveatheism-org-hist-russell0-htm)
-* [*16 Questions on the Assassination* (of President Kennedy)](/http-karws-gso-uri-edu-jfk-the-critics-russell-sixteen-questions-russell-html)
-* [*Political Ideals*](/http-onlinebooks-library-upenn-edu-webbin-gutbook-lookup-num-4776)
-* [*The Analysis Of Mind*](/http-onlinebooks-library-upenn-edu-webbin-gutbook-lookup-num-2529)
-* [*Proposed Roads to Freedom*](/http-onlinebooks-library-upenn-edu-webbin-gutbook-lookup-num-690)
+* [*In Praise of Idleness* (1932)](http://www.zpub.com/notes-idle.html)
+* [*Proposed Roads to Freedom* (1918)](http://www.zpub.com/notes-rfree10.html)
+* [*Ideas that Have harmed Mankind*](http://www.geocities.com/athens-oracle-2528-br-ideaharm.htm)
+* [*Am I an Atheist or an Agnostic?*](http://www.positiveatheism.org/hist-russell8.htm)
+* [*Why I am not a Christian*](http://www.positiveatheism.org/hist-russell0.htm)
+* [*16 Questions on the Assassination* (of President Kennedy)](http://karws.gso.uri.edu/jfk-the-critics-russell-sixteen-questions-russell.html)
+* [*Political Ideals*](http://onlinebooks.library.upenn.edu/webbin-gutbook-lookup-num-4776)
+* [*The Analysis Of Mind*](http://onlinebooks.library.upenn.edu/webbin-gutbook-lookup-num-2529)
+* [*Proposed Roads to Freedom*](http://onlinebooks.library.upenn.edu/webbin-gutbook-lookup-num-690)
 
 #### Other
 
 
-* [Wikiquote - Quotes by Bertrand Russell](/http-quote-wikipedia-org-wiki-bertrand-russell)
-* [The Bertrand Russell Society](/http-users-drew-edu-jlenz-brs-html)
+* [Wikiquote - Quotes by Bertrand Russell](https://quote.wikipedia.org/wiki/bertrand-russell)
+* [The Bertrand Russell Society](http://users.drew.edu/jlenz-brs.html)
 * [The Bertrand Russell Gallery](/http-desktop12-cis-mcmaster-ca-bertrand)
-* [*Stanford Encyclopedia of Philosophy* entry](/http-plato-stanford-edu-entries-russell)
+* [*Stanford Encyclopedia of Philosophy* entry](http://plato.stanford.edu/entries-russell)
 * [The Bertrand Russell Archives](/http-www-mcmaster-ca-russdocs-russell-htm)
 * [Immediate family information](/http-desktop12-cis-mcmaster-ca-bertrand-family-html)
 * [Resource list](/http-www-synaptic-bc-ca-ejournal-russell-htm)

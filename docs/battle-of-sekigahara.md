@@ -39,4 +39,4 @@ That chance came at Sekigahara in what is now Gifu Prefecture. Although the batt
 ### [External links](/metaweb-external-links)
 
 
-* [[The Wikipedia entry for the Battle of Sekigahara](/http-en-wikipedia-org-wiki-battle-of-sekigahara)]
+* [[The Wikipedia entry for the Battle of Sekigahara](https://en.wikipedia.org/wiki/battle-of-sekigahara)]

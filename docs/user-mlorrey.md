@@ -18,13 +18,13 @@ From the Quicksilver Metaweb.
 
 Libertarian politics. Presented NH state flag to Killington, VT town fathers on their vote to secede and join NH on March 2, 2004. Hopes to help spawn the development of Franchise Operated Quasi-National Entities ([FOQNE](/foqne)) by encouraging other Vermont towns, and overtaxed communities across the US, to secede from their home states.
 
-Former Vice-Chair [LP of NH](/http-www-lpnh-org), 2004-2005. Campaign manager for congressional candidate Rich Kahn. Has appeared on [NH Public Radio](/http-www-nhpr-org)'s "The Exchange", and other radio broadcasts. Author of online essays and blog(s).
+Former Vice-Chair [LP of NH](http://www.lpnh.org), 2004-2005. Campaign manager for congressional candidate Rich Kahn. Has appeared on [NH Public Radio](http://www.nhpr.org)'s "The Exchange", and other radio broadcasts. Author of online essays and blog(s).
 
-Noted [Extropian](/http-www-extropy-org) and transhumanist. Invented electroluminescent retrofit kit for exit signs and a tool called the "Slack Jack".
+Noted [Extropian](http://www.extropy.org) and transhumanist. Invented electroluminescent retrofit kit for exit signs and a tool called the "Slack Jack".
 
-blog: [The International Libertarian](/http-intlib-blogspot-com)
+blog: [The International Libertarian](http://intlib.blogspot.com)
 
-Founder: [Constitution Park Foundation](/http-constitutionpark-blogspot-com) - Pursuing eminent domain a la the Kelo v New London decision on the Plainfield, NH property of Supreme Court Justice Stephen G. Breyer to build **Constitution Park**. This has resulted in the passage of a state constitutional amendment to restrict eminent domain specifically to government owned projects, which will go to a statewide vote in November, 2006.
+Founder: [Constitution Park Foundation](http://constitutionpark.blogspot.com) - Pursuing eminent domain a la the Kelo v New London decision on the Plainfield, NH property of Supreme Court Justice Stephen G. Breyer to build **Constitution Park**. This has resulted in the passage of a state constitutional amendment to restrict eminent domain specifically to government owned projects, which will go to a statewide vote in November, 2006.
 
 ## Metaweb pages authored
 
@@ -70,8 +70,8 @@ Founder: [Constitution Park Foundation](/http-constitutionpark-blogspot-com) - P
 ## Other Published Articles Elsewhere
 
 
-* [It's About The Trust](/http-www-ncc-1776-com-tle2001-libe127-20010625-03-html) - Commentary on how incremental statism occurs by the slow corruption and redefinition of key words used in the US Constitution.
-* [Unsafe At Any Law](/http-www-asimovlaws-com-articles) - Discussing the problems of attempting to control the behavior of artificial intelligences, like natural intelligences, with easily corruptable 'laws', focusing on Asimov's Three Laws of Robotics with respect to the release of the movie "I, Robot".
+* [It's About The Trust](http://www.ncc.1776.com/tle2001-libe127-20010625-03.html) - Commentary on how incremental statism occurs by the slow corruption and redefinition of key words used in the US Constitution.
+* [Unsafe At Any Law](http://www.asimovlaws.com/articles) - Discussing the problems of attempting to control the behavior of artificial intelligences, like natural intelligences, with easily corruptable 'laws', focusing on Asimov's Three Laws of Robotics with respect to the release of the movie "I, Robot".
 * "Live from the Free State", Liberte-Cherie International, 2003
 * "Terraforming Mars and Venus", Innovative Concepts in Science Fiction, European Space Agency, 2001
-* ["High Density Fuels, Boron Fuels, and Diboride Thermal Protection Systems", Island One Society, 2006](/http-www-islandone-org-launch-boron-sharp-article-htm)
+* ["High Density Fuels, Boron Fuels, and Diboride Thermal Protection Systems", Island One Society, 2006](http://www.islandone.org/launch-boron-sharp-article.htm)

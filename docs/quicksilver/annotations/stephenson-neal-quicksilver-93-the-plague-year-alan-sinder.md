@@ -18,7 +18,7 @@ This is a page for the **Black Death**
  
 From Wikipedia, the free encyclopedia. 
 
-The **[Black Death](/http-en-wikipedia-org-wiki-black-death)** (also *The Plague*, and latterly *[Black Plague](/black-plague)* though not called this in earlier times) was a devastating epidemic in Europe in the 14th century which is estimated to have killed about a third of the population. Most scientists believe that the Black Death was an outbreak of [Bubonic Plague](/http-en-wikipedia-org-wiki-bubonic-plague) - (described below), a dreaded disease that has spread in pandemic form several times through history. The plague is caused by the bacterium Yersinia pestis which is spread by [fleas](/flea) with the help of animals like the black [rat](/rat) (Rattus rattus) -what we would call today the sewer rat. Sometimes, the term "Black Death" is used for all outbreaks of plague and epidemics.![PlagueFlea.jpg](/https://web.archive.org/web/20060725165624im_/http://www.metaweb.com/wiki/upload/e/ee/PlagueFlea.jpg)  
+The **[Black Death](https://en.wikipedia.org/wiki/black-death)** (also *The Plague*, and latterly *[Black Plague](/black-plague)* though not called this in earlier times) was a devastating epidemic in Europe in the 14th century which is estimated to have killed about a third of the population. Most scientists believe that the Black Death was an outbreak of [Bubonic Plague](https://en.wikipedia.org/wiki/bubonic-plague) - (described below), a dreaded disease that has spread in pandemic form several times through history. The plague is caused by the bacterium Yersinia pestis which is spread by [fleas](/flea) with the help of animals like the black [rat](/rat) (Rattus rattus) -what we would call today the sewer rat. Sometimes, the term "Black Death" is used for all outbreaks of plague and epidemics.![PlagueFlea.jpg](/https://web.archive.org/web/20060725165624im_/http://www.metaweb.com/wiki/upload/e/ee/PlagueFlea.jpg)  
 **A DANGEROUS PLAGUE VECTOR  THE FLEA**
 
 ### Its Evolution
@@ -104,7 +104,7 @@ The Great Plague of 1665 in London is also generally believed to have been an ou
 
 After a localised outbreak in Provence in southern France in 1720 -1721, Europe suffered no more such attacks of plague, though the disease remained virulent in other regions, killing upwards of ten million in India in the late nineteenth and early twentieth centuries according to some estimates. 
 
-The last rat-borne epidemic in the United States occurred in Los Angeles, California in 1924 -1925. Some local scientists have offered warnings about squirrel-born fleas.[[1]](/http-www-emedicinehealth-com-articles-8757-8-asp)
+The last rat-borne epidemic in the United States occurred in Los Angeles, California in 1924 -1925. Some local scientists have offered warnings about squirrel-born fleas.[[1]](http://www.emedicinehealth.com/articles-8757-8.asp)
 
 ### Contemporary cases
 
@@ -150,23 +150,23 @@ Diseases can also produce toxins that damage or kill human tissue as in food poi
 ### External links and references
 
 
-* 1 [Imagery of Plague's Effects](/http-www-emedicinehealth-com-articles-8757-8-asp) don't view on a full stoamach.
-* [The Decameron](/http-en-wikipedia-org-wiki-decameron) Famous Foreign Literature  *The Decameron is a distinctive work, in that it describes in detail the physical, psychological and social effects that the Bubonic Plague had on that part of Europe.*
-* [Bubonic Plague](/http-en-wikipedia-org-wiki-bubonic-plague)
-* [Flagellant](/http-en-wikipedia-org-wiki-flagellant)
-* [Pogrom](/http-en-wikipedia-org-wiki-pogrom)
-* [Danse of the Dead](/http-en-wikipedia-org-wiki-danse-macabre)
-* [BBC news story on controversy over Black Death origins](/http-news-bbc-co-uk-hi-english-health-newsid-1925000-1925513-stm)
-* [PLAGUE IN CALIFORNIA, 1994-95](/http-www-dhs-cahwnet-gov-org-ps-dcdc-cm-951101cm-htm)
-* [Plague](/http-www-msmosquito-com-plague-html)
-* Mark Derr, *[New Theories Link black Death to Ebola-Like Virus](/http-query-nytimes-com-gst-abstract-html-res-f20d1eff39590c718cdda90994d9404482)*,  *[The New York Times](/http-www-nytimes-com),*  Liverpool University researchers Drs Susan Scott and Christopher J Duncan argue hemorrhagic virus, like Ebola, not bubonic plague, probably caused Black Death that ravaged Europe between 1347 and 1352 and most of smaller epidemics that struck Europe for next three centuries; other experts dispute stand; Science Section, October 2, 2001.
-* [Researchers: Black Death not Bubonic Plague](/http-www-collegian-psu-edu-archive-2002-04-04-23-02tdc-04-23-02dscihealth-04-asp)
-* [Clues to the Plague's Nature](/http-www-pbs-org-wnet-secrets-case-plague-clues-html)
-* [Shibasaburo Kitasato](/http-en-wikipedia-org-wiki-shibasaburo-kitasato)
-* [Examination of "Ring around the Rosy"'s relationship to the plague](/http-www-snopes-com-language-literary-rosie-htm)
-* [Black Death: The Effect of the Plague](/http-www-bbc-co-uk-history-society-culture-welfare-plague-countryside-01-shtml)
-* [Black Death: Political and Social Changes](/http-www-bbc-co-uk-history-society-culture-welfare-blacksocial-01-shtm)
-* [Black Death](/http-www-bbc-co-uk-history-society-culture-welfare-blackdisease-01-shtml)
-* [Sir Arthur Conan Doyle's Sir Nigel](/http-www-gutenberg-net-browse-bibrec-br2845-htm) - the opening chapters speak of an earlier plague.
-* [A map of the spread of the Plague](/http-library-thinkquest-org-11170-maps-plague-html-tqskip1-1)
-* [Rats, Lice, and History, By Hans Zinsser](/http-www-self-help-hub-com-rats-lice-and-history-0316988960-html)
+* 1 [Imagery of Plague's Effects](http://www.emedicinehealth.com/articles-8757-8.asp) don't view on a full stoamach.
+* [The Decameron](https://en.wikipedia.org/wiki/decameron) Famous Foreign Literature  *The Decameron is a distinctive work, in that it describes in detail the physical, psychological and social effects that the Bubonic Plague had on that part of Europe.*
+* [Bubonic Plague](https://en.wikipedia.org/wiki/bubonic-plague)
+* [Flagellant](https://en.wikipedia.org/wiki/flagellant)
+* [Pogrom](https://en.wikipedia.org/wiki/pogrom)
+* [Danse of the Dead](https://en.wikipedia.org/wiki/danse-macabre)
+* [BBC news story on controversy over Black Death origins](http://news.bbc.co.uk/hi-english-health-newsid-1925000-1925513-stm)
+* [PLAGUE IN CALIFORNIA, 1994-95](http://www.dhs.cahwnet.gov.org/ps-dcdc-cm-951101cm.htm)
+* [Plague](http://www.msmosquito.com/plague.html)
+* Mark Derr, *[New Theories Link black Death to Ebola-Like Virus](http://query.nytimes.com/gst-abstract-html-res-f20d1eff39590c718cdda90994d9404482)*,  *[The New York Times](http://www.nytimes.com),*  Liverpool University researchers Drs Susan Scott and Christopher J Duncan argue hemorrhagic virus, like Ebola, not bubonic plague, probably caused Black Death that ravaged Europe between 1347 and 1352 and most of smaller epidemics that struck Europe for next three centuries; other experts dispute stand; Science Section, October 2, 2001.
+* [Researchers: Black Death not Bubonic Plague](http://www.collegian.psu.edu/archive-2002-04-04-23-02tdc-04-23-02dscihealth-04.asp)
+* [Clues to the Plague's Nature](http://www.pbs.org/wnet-secrets-case-plague-clues.html)
+* [Shibasaburo Kitasato](https://en.wikipedia.org/wiki/shibasaburo-kitasato)
+* [Examination of "Ring around the Rosy"'s relationship to the plague](http://www.snopes.com/language-literary-rosie.htm)
+* [Black Death: The Effect of the Plague](http://www.bbc.co.uk/history-society-culture-welfare-plague-countryside-01-shtml)
+* [Black Death: Political and Social Changes](http://www.bbc.co.uk/history-society-culture-welfare-blacksocial-01-shtm)
+* [Black Death](http://www.bbc.co.uk/history-society-culture-welfare-blackdisease-01-shtml)
+* [Sir Arthur Conan Doyle's Sir Nigel](http://www.gutenberg.net/browse-bibrec-br2845.htm) - the opening chapters speak of an earlier plague.
+* [A map of the spread of the Plague](http://library.thinkquest.org/11170-maps-plague-html-tqskip1-1)
+* [Rats, Lice, and History, By Hans Zinsser](http://www.self.help.hub.com/rats-lice-and-history-0316988960.html)

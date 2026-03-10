@@ -23,9 +23,9 @@ This is a page for the **Colt .45 ACP** and **Malabar**
 **M1911 Colt .45 ACP  
 [Near actual size image](/near-actual-size-image)**
 
-The **M1911** is a .45 caliber, single action, semi-automatic handgun, originally designed by [John Browning](/http-en-wikipedia-org-wiki-john-browning), which was the standard-issue handgun in the combat arm of the [United States Armed Forces](/http-en-wikipedia-org-wiki-united-states-armed-forces) from 1911 to 1985.
+The **M1911** is a .45 caliber, single action, semi-automatic handgun, originally designed by [John Browning](https://en.wikipedia.org/wiki/john-browning), which was the standard-issue handgun in the combat arm of the [United States Armed Forces](https://en.wikipedia.org/wiki/united-states-armed-forces) from 1911 to 1985.
 
-The weapon's origin was a response to problems encountered by American units fighting [Moro](/http-en-wikipedia-org-wiki-moro-islamic-liberation-front) insurgents during the [Philippine-American War](/http-en-wikipedia-org-wiki-philippine-american-war) in which the then-standard .38 caliber revolver was found to be unsuitable for the rigors of jungle warfare. The Army formed an Ordnance Board, headed by John T. Thompson, to select a more suitable weapon. The board decided a .45 caliber weapon would be most appropriate, and took bids from six firearms manufacturing companies in 1906. 
+The weapon's origin was a response to problems encountered by American units fighting [Moro](https://en.wikipedia.org/wiki/moro-islamic-liberation-front) insurgents during the [Philippine-American War](https://en.wikipedia.org/wiki/philippine-american-war) in which the then-standard .38 caliber revolver was found to be unsuitable for the rigors of jungle warfare. The Army formed an Ordnance Board, headed by John T. Thompson, to select a more suitable weapon. The board decided a .45 caliber weapon would be most appropriate, and took bids from six firearms manufacturing companies in 1906. 
 
 Of the six designs submitted, two were selected for field testing in 1907, one of them being Colt 's model, which Browning had basically modified to government specifications from an earlier autoloading .38 caliber design of his. A series of field tests was designed to decide between the two finalists (the other being a design by Arthur Savage ) and the Colt passed with flying colors, firing 6,000 rounds non-stop (a record at the time). 
 
@@ -39,7 +39,7 @@ After the Second World War, the sidearm continued to be a mainstay in the U.S. a
 
 Today the M1911A1 type is widely used by the general public in the United States for both practical and recreational purposes. The pistol is commonly used for concealed carry, personal defense, target shooting, and competition. Numerous aftermarket accessories allow the user to customize the pistol to his or her liking. There is a growing number of manufacturers of 1911A1-type pistols and the model continues to be quite popular for its reliability, simplicity, and All-American appeal. Various tactical, target, and compact models are available. Price ranges from a low end of $ 250USD for an imported "clunker" to more than $3,000 for the best competition or tactical models, which are precisely assembled and tuned by hand. Despite being challenged by more exotic and lightweight (and largely imported) pistol designs in .45 caliber, such as the Glock 21 and Sig Arms P220, the original 1911 design will soon be 100 years old with no signs of decreasing popularity. 
 
-The weapon typically uses a variety of 230-grain [full metal jacket](/http-en-wikipedia-org-wiki-full-metal-jacket-bullet) ammunition also originally designed by Browning, with a normal capacity of 7 or 8 rounds, or even more with larger aftermarket magazines. 
+The weapon typically uses a variety of 230-grain [full metal jacket](https://en.wikipedia.org/wiki/full-metal-jacket-bullet) ammunition also originally designed by Browning, with a normal capacity of 7 or 8 rounds, or even more with larger aftermarket magazines. 
 
 * Weight (unloaded) : 39 ounces
 * Height: 5.25"
@@ -49,7 +49,7 @@ The weapon typically uses a variety of 230-grain [full metal jacket](/http-en-wi
 ### Moros and .45s
 
 
-***Amok***, sometimes spelled ***amuck*** and often used as "running amok," is a [Malay word](/http-en-wikipedia-org-wiki-malay-language) which in this language means to be out of control. For this reason, there has been an unfair association made between the Malays as a race and susceptibility to uncontrollable anger. An Amok warrior is the equivalent of a Viking ***Beserker***. The Moro Freedom Fighters used religious ritual and body binding to put themselves into an altered state of consciousness prior to battles, and the .38 Long Colt would not adequately stop these highly motivated warriors. Thus Amok warriors were made numb and their leather armor allowed them to withstand the shock of smaller caliber gunshot wounds. This made them feared in the war.
+***Amok***, sometimes spelled ***amuck*** and often used as "running amok," is a [Malay word](https://en.wikipedia.org/wiki/malay-language) which in this language means to be out of control. For this reason, there has been an unfair association made between the Malays as a race and susceptibility to uncontrollable anger. An Amok warrior is the equivalent of a Viking ***Beserker***. The Moro Freedom Fighters used religious ritual and body binding to put themselves into an altered state of consciousness prior to battles, and the .38 Long Colt would not adequately stop these highly motivated warriors. Thus Amok warriors were made numb and their leather armor allowed them to withstand the shock of smaller caliber gunshot wounds. This made them feared in the war.
 
 A **kris** is a dagger noted for its wavy blade, which is to be feared for the excruciating pain of the undulations during a stabbing. Kris were used in the island arcs from the Malay Peninsula, through Indonesia, to Mindanao, in the Philippines. 
 
@@ -90,10 +90,10 @@ In **Malabar** there were certain professional assassins known to old travellers
 ### External links
 
 
-* [John Browning](/http-en-wikipedia-org-wiki-john-browning)
-* [United States Armed Forces](/http-en-wikipedia-org-wiki-united-states-armed-forces)
-* [Moro](/http-en-wikipedia-org-wiki-moro-islamic-liberation-front)
-* [Philippine-American War](/http-en-wikipedia-org-wiki-philippine-american-war)
-* [Springfield Armory](/http-www-springfield-armory-com)
-* [A 1911 Source](/http-www-sightm1911-com)
-* [Full metal jacket bullet](/http-en-wikipedia-org-wiki-full-metal-jacket-bullet)
+* [John Browning](https://en.wikipedia.org/wiki/john-browning)
+* [United States Armed Forces](https://en.wikipedia.org/wiki/united-states-armed-forces)
+* [Moro](https://en.wikipedia.org/wiki/moro-islamic-liberation-front)
+* [Philippine-American War](https://en.wikipedia.org/wiki/philippine-american-war)
+* [Springfield Armory](http://www.springfield.armory.com)
+* [A 1911 Source](http://www.sightm1911.com)
+* [Full metal jacket bullet](https://en.wikipedia.org/wiki/full-metal-jacket-bullet)

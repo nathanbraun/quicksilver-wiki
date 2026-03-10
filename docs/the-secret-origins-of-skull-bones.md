@@ -17,7 +17,7 @@ TBA
 ### Community entry:Skull & Bones
 
 
-[ISBN 0316720917](/) [Secrets of the Tomb by Alexandra Robbins](/http-www-bevsbest-com-authors-books-alexandra-robbins-secrets-of-the-tomb-by-alexandra-robbins-htm)
+[ISBN 0316720917](/) [Secrets of the Tomb by Alexandra Robbins](http://www.bevsbest.com/authors-books-alexandra-robbins-secrets-of-the-tomb-by-alexandra-robbins.htm)
 
 #### Excerpt: The Legend of Skull and Bones
 
@@ -47,7 +47,7 @@ He told me that the society demanded to know where I got my information.
 
 "I've never been in the tomb and I did nothing illegal in the process of reporting this article," I replied. ...
 
-Check link for full [article](/http-www-secretsofthetomb-com).
+Check link for full [article](http://www.secretsofthetomb.com).
 
 ### Related entries
 

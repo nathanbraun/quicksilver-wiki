@@ -15,7 +15,7 @@ This is a page for the **Spratly Islands**.
 
 The Spratly Islands (or Nansha Islands, Chinese: 南沙群島 in pinyin: nānshāqúndāo; Vietnamese: Trường Sa) are a disputed group of approximately 100 reefs and islets in the South China Sea. They are a part of the South China Sea Islands.
 
-*From the [CIA World Factbook](/http-www-cia-gov-cia-publications-factbook-geos-pg-html):*  
+*From the [CIA World Factbook](http://www.cia.gov/cia-publications-factbook-geos-pg.html):*  
 
 [![Pg-map.gif](/web/20060727101228im_/http://www.metaweb.com/wiki/upload/6/62/Pg-map.gif)](pg-map-gif)  
 
@@ -51,12 +51,12 @@ In the early 21st century, as part of foreign policy initiatives known as the ne
 ### External links
 
 
-* [Wikipedia: Spratly Islands](/http-en-wikipedia-org-wiki-spratly-islands) - basis for this entry, and also a better title...
-	+ [Geography](/http-en-wikipedia-org-wiki-geography-of-the-spratly-islands)
-	+ [Economy](/http-en-wikipedia-org-wiki-economy-of-the-spratly-islands)
-	+ [Transportation](/http-en-wikipedia-org-wiki-transportation-in-the-spratly-islands)
-* [Paracel Islands](/http-en-wikipedia-org-wiki-paracel-islands)
-* [Macclesfield Bank](/http-en-wikipedia-org-wiki-macclesfield-bank)
-* [Pratas Islands](/http-en-wikipedia-org-wiki-pratas-islands)
-* [Coming Attractions](/http-www-comebackalive-com-df-attractn-htm)
-* [The Solomons](/http-en-wikipedia-org-wiki-solomon-islands)
+* [Wikipedia: Spratly Islands](https://en.wikipedia.org/wiki/spratly-islands) - basis for this entry, and also a better title...
+	+ [Geography](https://en.wikipedia.org/wiki/geography-of-the-spratly-islands)
+	+ [Economy](https://en.wikipedia.org/wiki/economy-of-the-spratly-islands)
+	+ [Transportation](https://en.wikipedia.org/wiki/transportation-in-the-spratly-islands)
+* [Paracel Islands](https://en.wikipedia.org/wiki/paracel-islands)
+* [Macclesfield Bank](https://en.wikipedia.org/wiki/macclesfield-bank)
+* [Pratas Islands](https://en.wikipedia.org/wiki/pratas-islands)
+* [Coming Attractions](http://www.comebackalive.com/df-attractn.htm)
+* [The Solomons](https://en.wikipedia.org/wiki/solomon-islands)

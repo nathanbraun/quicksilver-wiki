@@ -18,7 +18,7 @@ this is a placeholder for **Corporate personhood**
 ### Community entry:Corporate personhood
 
 
-Original author most likely was expanding on [Wikipedia's entry](/http-en2-wikipedia-org-wiki-corporate-personhood) to be *generous*. I felt it really tied into Andrew Loeb for some reason. This is a summation of the problems of that entry from the talk pages:
+Original author most likely was expanding on [Wikipedia's entry](https://en.wikipedia.org/wiki/corporate-personhood) to be *generous*. I felt it really tied into Andrew Loeb for some reason. This is a summation of the problems of that entry from the talk pages:
 
 There are several problems with this article:
 1. First, it conflates a discussion of an argument against corporate personhood generally with a discussion of / argument against treating corporations as persons entitled to constitutional protections.
@@ -59,5 +59,5 @@ There is a lot of slanted language, irrelevant facts and insinuations that paint
 ### External links
 
 
-* [The review which gave our original poster the wrong idea about RIST 9E03](/http-www-themodernword-com-review-cryptonomicon-html)
+* [The review which gave our original poster the wrong idea about RIST 9E03](http://www.themodernword.com/review-cryptonomicon.html)
 * [Selling Zodiac](/http-dungeons-and-dragons-us-0553573861-html)  The return of the psycho nerd Dolmacher in Zodiac has similarities to that of Andrew Loeb in Cryptonomicon. Both of them have survivalist skills and seem to flit between being sane and a bit creepy to being completely psychologically deranged.

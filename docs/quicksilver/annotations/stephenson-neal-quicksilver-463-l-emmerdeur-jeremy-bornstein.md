@@ -22,9 +22,9 @@ The French term "L'Emmerdeur," which in the novel refers to [Jack Shaftoe](/step
 
 There is a panopoly of French epithets based on "merde," a somewhat vulgar term for fecal matter which by itself corresponds to the English "shit." Its usage in French curses, however, is more like the English "fuck." Screaming "emmerdeur!" at someone is more or less equivalent to screaming "fucker!"
 
-[Alta Vista's Babelfish](/http-babelfish-altavista-com) translates Emmerdeur to "Bloody nuisance".
+[Alta Vista's Babelfish](http://babelfish.altavista.com) translates Emmerdeur to "Bloody nuisance".
 
-Curiously - considering the Enoch Root character - there is something possibly bearing on *Emmerdeur* in the [Wikipedia article about the Biblical character *Enoch*](/http-en-wikipedia-org-wiki-enoch-ancestor-of-noah):
+Curiously - considering the Enoch Root character - there is something possibly bearing on *Emmerdeur* in the [Wikipedia article about the Biblical character *Enoch*](https://en.wikipedia.org/wiki/enoch-ancestor-of-noah):
 
 
 ```
@@ -52,5 +52,5 @@ The term for doing the opposite, "demerder", is the origin of the so-called "Sys
 ### External links
 
 
-* *[by page 22, Neal has already insulted the French](/http-overtaken-blogmosis-com-archives-2003-09-html)*
-* ["L' Emmerdeur"](/http-us-imdb-com-title-tt0072934) (1973), quoted as also being titled "A Pain in The Ass.", sounds like another take on this.
+* *[by page 22, Neal has already insulted the French](http://overtaken.blogmosis.com/archives-2003-09.html)*
+* ["L' Emmerdeur"](http://us.imdb.com/title-tt0072934) (1973), quoted as also being titled "A Pain in The Ass.", sounds like another take on this.

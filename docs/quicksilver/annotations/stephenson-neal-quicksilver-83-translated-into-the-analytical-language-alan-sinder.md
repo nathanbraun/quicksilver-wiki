@@ -18,7 +18,7 @@ This is a page for **platonism versus hedonism**
 ### Isaac & Plato's Cave
 
 
-On the banks of the River Cam  an older lad tries an old ***Platonic idea*** dressed up in Wilkins' **Analytical Language** upon on a hardened realist. Get out your wallets and buy the ***[Epicurus the Sage TPB Graphic Novel](/http-www-amazon-com-exec-obidos-tg-detail-1401200281-qid-1077889506-ref-pd-ka-1-104-8931055-5532701-v-glance-s-books-n-507846)***. This dialogue sums up my feeling for the *soft soap* Isaac is trying to shill Daniel.![SchoolofAthens_MW.jpg](/https://web.archive.org/web/20060725170452im_/http://www.metaweb.com/wiki/upload/1/12/SchoolofAthens_MW.jpg)  
+On the banks of the River Cam  an older lad tries an old ***Platonic idea*** dressed up in Wilkins' **Analytical Language** upon on a hardened realist. Get out your wallets and buy the ***[Epicurus the Sage TPB Graphic Novel](http://www.amazon.com/exec-obidos-tg-detail-1401200281-qid-1077889506-ref-pd-ka-1-104-8931055-5532701-v-glance-s-books-n-507846)***. This dialogue sums up my feeling for the *soft soap* Isaac is trying to shill Daniel.![SchoolofAthens_MW.jpg](/https://web.archive.org/web/20060725170452im_/http://www.metaweb.com/wiki/upload/1/12/SchoolofAthens_MW.jpg)  
 **Raphael's *School of Athens*, c. 1510-1511  
 Plato and Aristotle, are central to this piece  
 Epicurus is off to the left  
@@ -26,7 +26,7 @@ Epicurus is off to the left
 Plato looks very much like Leonardo da Vinci**
  **Epicurus**: *Let me see if I've got this Everything that **is** real doesn't exist, and the only things that **do** exist are the things in this cave, which you just made up?*
  **Plato**: *Right!*
-Starting with the classic "Rape of Persephone" tale, and moves on to a little historical context to set the stage. The story takes place after the Trojan War and the Battle of Marathon, a perfect place to start, as this was the beginning of classical philosophy.  set to introduce a young tyke named Alexander of Macedon, Pericles the Archon, and the goddess Demeter. Epicurus uses logic and mediation to come up with a solution that keeps everyone happy.  and you have this quote: Stinkin, liverless, lazy, spongin, Egyptoid, brainless, stuck up, pus-fartin, shit-lickin, eel-ased **philosophers**![[1]](/http-www-savantmag-com-76-essential-html)
+Starting with the classic "Rape of Persephone" tale, and moves on to a little historical context to set the stage. The story takes place after the Trojan War and the Battle of Marathon, a perfect place to start, as this was the beginning of classical philosophy.  set to introduce a young tyke named Alexander of Macedon, Pericles the Archon, and the goddess Demeter. Epicurus uses logic and mediation to come up with a solution that keeps everyone happy.  and you have this quote: Stinkin, liverless, lazy, spongin, Egyptoid, brainless, stuck up, pus-fartin, shit-lickin, eel-ased **philosophers**![[1]](http://www.savantmag.com/76-essential.html)
 
 Better yet, Plato (means wide-shouldered) and was a snide nick name for the man would teach the even wackier Aristotle (whose *science* was strangely embraced by [Christianity](/christianity)).
 
@@ -35,7 +35,7 @@ Better yet, Plato (means wide-shouldered) and was a snide nick name for the 
 
 Mostly sourced from the Wikipedia
 
-**Plato** (c. 427 BCE - c. 347 BCE) was an immensely influential [classical Greek](/http-en-wikipedia-org-wiki-hellenic-civilization) [philosopher](/http-en-wikipedia-org-wiki-philosophy), student of [Socrates](/http-en-wikipedia-org-wiki-socrates) and teacher of [Aristotle](/http-en-wikipedia-org-wiki-aristotle). His most famous work is ***[The Republic](/http-en-wikipedia-org-wiki-the-republic)*** (Greek *Politeia*, 'city') in which he outlines his vision of an "ideal" state. He also wrote the Laws and many dialogues in which Socrates is the main participant. 
+**Plato** (c. 427 BCE - c. 347 BCE) was an immensely influential [classical Greek](https://en.wikipedia.org/wiki/hellenic-civilization) [philosopher](https://en.wikipedia.org/wiki/philosophy), student of [Socrates](https://en.wikipedia.org/wiki/socrates) and teacher of [Aristotle](https://en.wikipedia.org/wiki/aristotle). His most famous work is ***[The Republic](https://en.wikipedia.org/wiki/the-republic)*** (Greek *Politeia*, 'city') in which he outlines his vision of an "ideal" state. He also wrote the Laws and many dialogues in which Socrates is the main participant. 
 
 ### Biography
 
@@ -79,12 +79,12 @@ One of Plato's legacies, and perhaps his greatest, was his dualistic metaphysics
 
 In the *Republic* Books VI and VII, Plato used a number of metaphors to explain his metaphysical views: the metaphor of the sun, the well-known allegory of the cave, and most explicitly, the divided line. Taken together, these metaphors convey a complex and, in places, difficult theory: there is something called The Form of the Good (often interpreted as Plato's God), which is the ultimate object of knowledge and which as it were sheds light on all the other forms (i.e., universals: abstract kinds and attributes) and from which all other forms "emanate." The Form of the Good does this in somewhat the same way as the sun sheds light on, or makes visible and "generates," things in the perceptual world. (See Plato's metaphor of the sun. ) But indeed, in the perceptual world, the particular objects we see around us bear only a dim resemblance to the more ultimately real forms of Plato's intelligible world: it is as if we are seeing shadows of cut-out shapes on the walls of a cave, which are mere representations of the reality outside the cave, illuminated by the sun. (See Plato's allegory of the cave. ) We can imagine everything in the universe represented on a line of increasing reality; it is divided once in the middle, and then once again in each of the resulting parts. The first division represents that between the intelligible and the perceptual worlds. Then there is a corresponding division in each of these worlds: the segment representing the perceptual world is divided into segments representing "real things" on the one hand, and shadows, reflections, and representations on the other. Similarly, the segment representing the intelligible world is divided into segments representing first principles and most general forms, on the one hand, and more derivative, "reflected" forms, on the other. (See the divided line of Plato. ) The form of government derived from this philosophy turns out to be one of a rigidly fixed hierarchy of hereditary classes, in which the arts are mostly suppressed for the good of the state, the size of the city and its social classes is determined by mathematical formula, and eugenic measures are applied secretly by rigging the lotteries in which the right to reproduce is allocated. The tightness of connection of such government to the lofty and original philosophy in the book has been debated. 
 
-### [Plato's allegory of the cave](/http-en-wikipedia-org-wiki-plato-s-allegory-of-the-cave)
+### [Plato's allegory of the cave](https://en.wikipedia.org/wiki/plato-s-allegory-of-the-cave)
 
 
 Plato 's **allegory of the cave** is perhaps the best-known of his many metaphors, allegories, and myths. 
 
-The allegory is told and interpreted at the beginning of Book VII of [The Republic](/http-en-wikipedia-org-wiki-plato-s-republic) (514a-520a). The allegory is probably best presented as a story, and then interpreted--as Plato himself does. ![Epicurus_MW.jpg](/https://web.archive.org/web/20060725170452im_/http://www.metaweb.com/wiki/upload/e/e5/Epicurus_MW.jpg)   
+The allegory is told and interpreted at the beginning of Book VII of [The Republic](https://en.wikipedia.org/wiki/plato-s-republic) (514a-520a). The allegory is probably best presented as a story, and then interpreted--as Plato himself does. ![Epicurus_MW.jpg](/https://web.archive.org/web/20060725170452im_/http://www.metaweb.com/wiki/upload/e/e5/Epicurus_MW.jpg)   
 **Epicurus  
 *Working on a book***
 
@@ -96,7 +96,7 @@ Imagine prisoners chained since childhood deep inside a cave. Not only are their
 Suppose a prisoner is released and compelled to stand up and turn around. His eyes will be blinded by the firelight, and the shapes passing will appear less real than their shadows. Similarly, if he is dragged up out of the cave into the sunlight, his eyes will be so blinded that he will not be able to see anything. At first, he will be able to see darker shapes such as shadows, and only later brighter and brighter objects. The last object he would be able to see is the sun, which, in time, he would learn to see as that
 it is that provides the seasons and the courses of the year and presides over all things in the visible region, and is in some sort the cause of all these things that they had seen. (*The Republic* bk. VII, 516b-c; trans. Paul Shorey) 
 
-This part of the allegory, incidentally, closely matches [Plato's metaphor of the sun](/http-en-wikipedia-org-wiki-plato-s-metaphor-of-the-sun) which occurs near the end of The Republic Book VI. 
+This part of the allegory, incidentally, closely matches [Plato's metaphor of the sun](https://en.wikipedia.org/wiki/plato-s-metaphor-of-the-sun) which occurs near the end of The Republic Book VI. 
 
 Once thus enlightened, so to speak, the freed prisoner would no doubt want to return to the cave to free "his fellow bondsmen." The problem however is that they would not want to be freed: descending back into the cave would require that the freed prisoner's eyes adjust again, and for a time, he would be inferior at the ludicrous process of identifying shapes on the wall. This would make his fellow prisoners murderous toward anyone who attempted to free them.
 
@@ -106,12 +106,12 @@ Once thus enlightened, so to speak, the freed prisoner would no doubt want to re
 Not content with mere suggestion, Plato interprets the allegory (beginning at 517b): "This image then [the allegory of the cave] we must apply as a whole to all that has been said"--i.e., it can be used to interpret the preceding several pages, which concern the metaphor of the sun and the divided line. In particular, Plato likens "the region revealed through sight," i.e., the ordinary objects we see around us 
 to the habitation of the prison, and the light of the fire in it to the power of the sun. And if you assume the ascent and the contemplation of the things above is the soul's ascension to the intelligible region, you will not miss my surmise... . [M]y dream as it appears to me is that in the region of the known the last thing to be seen and hardly seen is the idea of good, and that when seen it must needs point us to the conclusion that this is indeed the cause for all things of all that is right and beautiful, giving birth in the visible world to light, and the author of light and itself in the intelligible world being the authentic source of truth and reason... . (517b-c) 
 
-The brilliant sun outside the cave represents [the Form of the Good](/http-en-wikipedia-org-wiki-the-form-of-the-good), and this passage among others can easily give the impression that Plato regarded this as a creative god. Ordinarily we are held captive, viewing mere shadows of particular shapes that are themselves not even the genuine article--which can only be found "outside the cave," in an intelligible world of forms known by reason, not (relatively "dim") perception. 
+The brilliant sun outside the cave represents [the Form of the Good](https://en.wikipedia.org/wiki/the-form-of-the-good), and this passage among others can easily give the impression that Plato regarded this as a creative god. Ordinarily we are held captive, viewing mere shadows of particular shapes that are themselves not even the genuine article--which can only be found "outside the cave," in an intelligible world of forms known by reason, not (relatively "dim") perception. 
 
 Moreover, after "returning from divine contemplations to the petty miseries of men," one is apt to cut "a sorry figure" if, 
 while still blinking through the gloom, and before he has become sufficiently accustomed to the environing darkness, he is compelled in courtrooms or elsewhere to contend about the shadows of justice or the images that cast the shadows and to wrangle in debate about the notions of these things in the minds of those who have never seen justice itself? (517d-e) 
 
-Plato could, perhaps, be thinking (or subtly reminding the reader) of the [trial of Socrates](/http-en-wikipedia-org-wiki-trial-of-socrates) here. 
+Plato could, perhaps, be thinking (or subtly reminding the reader) of the [trial of Socrates](https://en.wikipedia.org/wiki/trial-of-socrates) here. 
 
 It might appear strange that, while acknowledging the political ineptness of one "returning from divine contemplations," Plato has all the while been describing the ideal state, ruled by philosopher-kings, a qualification of which is that they are in regular intercourse with the Form of the Good. 
 
@@ -161,7 +161,7 @@ Plato also had some influential opinions on the nature of knowledge and learning
 Plato's thought is often compared with that of his best and most famous student, Aristotle, whose reputation during the Middle Ages so completely eclipsed that of Plato that the Scholastic philosophers referred to Aristotle as "the Philosopher." 
 
 
-### [Aristotle](/http-en-wikipedia-org-wiki-aristotle)
+### [Aristotle](https://en.wikipedia.org/wiki/aristotle)
 
 
 **Aristotle**, known as **Aristoteles** in most languages other than English (**Aristotele** in Italian), (384 BCE - March 7, 322 BCE) was a Greek philosopher. Along with Plato, he is often considered to be one of the two most influential philosophers in Western thought. 
@@ -271,7 +271,7 @@ Epicurus' school, called "The Garden," seems to have been a moderately ascetic c
 
 Epicureanism was the main opponent of Stoicism. Epicurus and his followers shunned politics and as such it was never a major philosophy. After the death of Epicurus, its main proponent was the Roman Lucretius. It had all but died out by the end of the Roman Empire, and was again resurrected by the atomist Pierre Gassendi during the Enlightenment. 
 
-In modern popular usage, epicureanism implies a love or knowledgeable enjoyment of good food and drinksee the definition of gourmet at [Wiktionary](/http-wiktionary-org). 
+In modern popular usage, epicureanism implies a love or knowledgeable enjoyment of good food and drinksee the definition of gourmet at [Wiktionary](http://wiktionary.org). 
 
 ### Hedonism
 
@@ -305,22 +305,22 @@ Some of Sigmund Freud 's theories of human motivation have been called psycholog
 ### External links
 
 
-* [EPICURUS THE SAGE](/http-www-savantmag-com-76-essential-html)
+* [EPICURUS THE SAGE](http://www.savantmag.com/76-essential.html)
 * [ISBN 1401200281](/) EPICURUS THE SAGE;Publisher: DC Comics; (September 1, 2003)
 * [Interactive School of Athens](/http-un2sg4-unige-ch-athena-raphael-raf-ath4-html)
-* [evil](/http-en-wikipedia-org-wiki-evil)
-* [goodness](/http-en-wikipedia-org-wiki-goodness)
-* [Plato](/http-en-wikipedia-org-wiki-plato)
-* [Plato's Dialogues explained](/http-plato-dialogues-org-plato-htm)
+* [evil](https://en.wikipedia.org/wiki/evil)
+* [goodness](https://en.wikipedia.org/wiki/goodness)
+* [Plato](https://en.wikipedia.org/wiki/plato)
+* [Plato's Dialogues explained](http://plato.dialogues.org/plato.htm)
 * [The Republic](/ftp-sailor-gutenberg-org-pub-gutenberg-etext94-repub13-txt)
-* [Hedonism Resorts](/http-en-wikipedia-org-wiki-hedonism-resorts)
-* [hedonistic imperative](/http-en-wikipedia-org-wiki-hedonistic-imperative)
-* [millennialism](/http-en-wikipedia-org-wiki-millennialism)
-* [Paradox of hedonism](/http-en-wikipedia-org-wiki-paradox-of-hedonism)
-* [psychological hedonism](/http-en-wikipedia-org-wiki-psychological-hedonism)
-* Hedonism: [http://www.utm.edu/research/iep/h/hedonism.htm](/http-www-utm-edu-research-iep-h-hedonism-htm)
-* Epicurus: [http://www.utm.edu/research/iep/e/epicur.htm](/http-www-utm-edu-research-iep-e-epicur-htm)
-* Mill: [http://www.utm.edu/research/iep/m/milljs.htm](/http-www-utm-edu-research-iep-m-milljs-htm)
-* Freud: [http://www.utm.edu/research/iep/f/freud.htm](/http-www-utm-edu-research-iep-f-freud-htm)
-* [Epicurus.info](/http-www-epicurus-info) - Epicurean Philosophy Online
-* [Epicurean Links](/http-www-benthamlinks-com-epicurus)
+* [Hedonism Resorts](https://en.wikipedia.org/wiki/hedonism-resorts)
+* [hedonistic imperative](https://en.wikipedia.org/wiki/hedonistic-imperative)
+* [millennialism](https://en.wikipedia.org/wiki/millennialism)
+* [Paradox of hedonism](https://en.wikipedia.org/wiki/paradox-of-hedonism)
+* [psychological hedonism](https://en.wikipedia.org/wiki/psychological-hedonism)
+* Hedonism: [http://www.utm.edu/research/iep/h/hedonism.htm](http://www.utm.edu/research-iep-h-hedonism.htm)
+* Epicurus: [http://www.utm.edu/research/iep/e/epicur.htm](http://www.utm.edu/research-iep-e-epicur.htm)
+* Mill: [http://www.utm.edu/research/iep/m/milljs.htm](http://www.utm.edu/research-iep-m-milljs.htm)
+* Freud: [http://www.utm.edu/research/iep/f/freud.htm](http://www.utm.edu/research-iep-f-freud.htm)
+* [Epicurus.info](http://www.epicurus.info) - Epicurean Philosophy Online
+* [Epicurean Links](http://www.benthamlinks.com/epicurus)

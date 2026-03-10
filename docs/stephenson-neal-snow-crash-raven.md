@@ -101,10 +101,10 @@ The [Aleut language](/) is in the family called [Eskimo-Aleut languages](/). It 
 
 
 * [Eskimo](/)
-* [A good picture depicting use of the atlatl](/http-www-nps-gov-amis-eatlatl-htm)
-* [New Scientist story "Stone Age Kalashnikov"](/http-donsmaps-com-atlatl-html)
-* [The history of the spearthrower in the New World](/http-rbcm1-rbcm-gov-bc-ca-hhistory-atlatl-atlatl-html)
-* [The Legend of Sonny Sixkiller](/http-members-tripod-com-johnnyrodgers-centralsqindian-html)
+* [A good picture depicting use of the atlatl](http://www.nps.gov/amis-eatlatl.htm)
+* [New Scientist story "Stone Age Kalashnikov"](http://donsmaps.com/atlatl.html)
+* [The history of the spearthrower in the New World](http://rbcm1.rbcm.gov/bc-ca-hhistory-atlatl-atlatl.html)
+* [The Legend of Sonny Sixkiller](http://members.tripod.com/johnnyrodgers-centralsqindian.html)
 
 
 ## Literature

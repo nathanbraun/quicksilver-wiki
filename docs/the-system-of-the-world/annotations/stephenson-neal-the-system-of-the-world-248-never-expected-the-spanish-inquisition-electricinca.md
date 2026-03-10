@@ -33,5 +33,5 @@ This seems to be a reference to the following [Monty Python](/) sketch.
 ## External links
 
 
-* [Full text of The Spanish Inquisition sketch](/http-www-ai-mit-edu-people-paulfitz-spanish-script-html)
-* [Wikipedia](/) has a [15 seconds audio sample .ogg file](/http-upload-wikimedia-org-wikipedia-en-0-0f-the-spanish-inquisition-ogg).
+* [Full text of The Spanish Inquisition sketch](http://www.ai.mit.edu/people-paulfitz-spanish-script.html)
+* [Wikipedia](/) has a [15 seconds audio sample .ogg file](http://upload.wikimedia.org/wikipedia-en-0-0f-the-spanish-inquisition-ogg).

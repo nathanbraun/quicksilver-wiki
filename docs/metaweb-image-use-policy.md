@@ -131,12 +131,12 @@ Old versions of articles do not show corresponding old versions of images, but t
 
 
 * Adobe Photoshop
-* The [GIMP](/http-www-gimp-org)
-* [ImageMagick](/http-www-imagemagick-org)
-* [PMView](/http-www-pmview-com)
+* The [GIMP](http://www.gimp.org)
+* [ImageMagick](http://www.imagemagick.org)
+* [PMView](http://www.pmview.com)
 * [GraphicConverter](/http-lemkesoft-de-us-gcabout-html) (for Macs)
-* [Irfanview](/http-www-irfanview-com), a multi-featured freeware tool, supports many image formats.
+* [Irfanview](http://www.irfanview.com), a multi-featured freeware tool, supports many image formats.
 
 
 
-*This page originally from the [Wikipedia](/http-www-wikipedia-org).*
+*This page originally from the [Wikipedia](http://www.wikipedia.org).*

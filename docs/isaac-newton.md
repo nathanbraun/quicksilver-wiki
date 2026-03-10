@@ -73,10 +73,10 @@ Isaac Newton was a known stutterer. It is a suppressed rage issue. Stuttering al
 
 "White has provided the reader with a rumbustious, galloping tale. His *Isaac Newton: The Last Sorcerer* is one of those books that is extremely hard to put down. Every page reveals a diverting aspect of Newton's life. White has clearly studied his subject long and hard. But instead of going for the dry, dusty approach to scientific biography we are treated to a middle-of-the-road, 'tabloid journalistic' write-up. The reader is constantly titillated by imagined scurrilous headlines. Why did Newton love the colour crimson? Did he really die a virgin and never see the sea? Just how friendly was he with John Wickins (his room-mate at Trinity College, Cambridge for 20 years) and [Nicolas Fatio de Duillier](/nicolas-fatio-de-duillier) (a Swiss mathematician 22 years younger than Newton)? Was he a suppressed [homosexual](/homosexual)? What about his relationship with his beautiful, gregarious, intelligent, excitable and flirtatious half-niece [Catherine Barton](/catherine-barton)? How could such a devout puritan like Newton condone the fact that his aforementioned niece (and housekeeper in London) and his best friend (Charles Montague, Baron Halifax) were lovers?" *Details of any relationships are unclear as Newton defaced many letters that may have provided evidence of his sexuality."*
 
-* [John Wickens](/http-www-noglstp-org-bulletin-1999spring-pdf) "... Newton's first partner may have been his 20-year roommate John Wickens during his student and professor years at Cambridge. There is no direct evidence of this. Very little written material survives from John. Some Newton biographers interviewed him in old age, but he would only give anecdotes from the early days. John said he and Newton moved in together to escape from the disorderly Cambridge student life. John became a faculty fellow like Newton and later laboratory assistant and secretary to Newton. ..." -- He did all the mechanics and actual work.
+* [John Wickens](http://www.noglstp.org/bulletin-1999spring.pdf) "... Newton's first partner may have been his 20-year roommate John Wickens during his student and professor years at Cambridge. There is no direct evidence of this. Very little written material survives from John. Some Newton biographers interviewed him in old age, but he would only give anecdotes from the early days. John said he and Newton moved in together to escape from the disorderly Cambridge student life. John became a faculty fellow like Newton and later laboratory assistant and secretary to Newton. ..." -- He did all the mechanics and actual work.
 
 
-### **[Quote](/http-www-faqs-org-faqs-alt-sex-celibacy)**:
+### **[Quote](http://www.faqs.org/faqs-alt-sex-celibacy)**:
 
 
 *"Isaac Newton, the mathematician and scientist (said by some to be the greatest scientist ever), was a virgin all his life. He was also very unpopular. Let us move on."*
@@ -84,17 +84,17 @@ Isaac Newton was a known stutterer. It is a suppressed rage issue. Stuttering al
 ### Timeline
 
 
-try this [http://www.chemsoc.org/timeline/pages/1687.html](/http-www-chemsoc-org-timeline-pages-1687-html), seems user friendly
+try this [http://www.chemsoc.org/timeline/pages/1687.html](http://www.chemsoc.org/timeline-pages-1687.html), seems user friendly
 
 ### An Arian?
 
 
- And a penchant for the occult was not Newton's only quirk. He is reported to have laughed just once in his life-when someone asked him what use he saw in Euclid. He took to decorating his rooms in crimson. He stuck a knife behind his eyeball to induce optical effects, nearly blinding himself. He was a Catholic-hating Puritan who secretly subscribed to the Arian heresy, which denied the divinity of Christ. Newton was also given to endless feuding. He seems to have had only two romantic attachments, both with younger males, and suffered a paranoiac breakdown after the second came to rupture.  [[1]](/http-www-cftech-com-brainbank-otherreference-biography-newtonian-html)
+ And a penchant for the occult was not Newton's only quirk. He is reported to have laughed just once in his life-when someone asked him what use he saw in Euclid. He took to decorating his rooms in crimson. He stuck a knife behind his eyeball to induce optical effects, nearly blinding himself. He was a Catholic-hating Puritan who secretly subscribed to the Arian heresy, which denied the divinity of Christ. Newton was also given to endless feuding. He seems to have had only two romantic attachments, both with younger males, and suffered a paranoiac breakdown after the second came to rupture.  [[1]](http://www.cftech.com/brainbank-otherreference-biography-newtonian.html)
 Newton had embraced Arianism and thus was a secret *heritic*.
 Arianism, was an early theological view taught by Arius, a priest of Alexandria, Egypt. Arius, (256?-336 CE), was a priest of Alexandria, Egypt, who founded an early theological view called Arianism. In about 318, Bishop Alexander of Alexandria condemned Arius's teachings as heresy and excommunicated him. But Arius continued to teach and attracted many followers. To settle the dispute, the Roman emperor Constantine the Great called a general church council in Nicaea (in what is now Turkey) in 325. The council also condemned Arius's views. It issued the Nicene Creed, which states that the Son is fully divine and is equal to the Father. 
 About 318 CE, Arius and his followers rejected the doctrine that the three Persons of the Christian Trinity -- the Father, the Son, and the Holy Spirit -- were equal. Arius denied that Jesus Christ, the Son and second Person of the Trinity, was completely divine. Arius taught that the Son was created by God the Father and was inferior to Him. According to Arius, Jesus was not eternal but was a superior being created by God to redeem the human race. Arius believed that both the Father and the Son were superior to the Holy Spirit. In doing so, Arius' teachings proved that he and his teachings were not Christian at all in nature, but the opinions of his own beliefs. 
 
-In 325, the Council of Nicaea condemned Arius' teachings as heresy and affirmed that Jesus was completely divine. However, the view that Jesus Christ was not truly God continued to be taught in the eastern Roman Empire during the 300's. [[2]](/http-en-wikipedia-org-wiki-first-council-of-nicaea)
+In 325, the Council of Nicaea condemned Arius' teachings as heresy and affirmed that Jesus was completely divine. However, the view that Jesus Christ was not truly God continued to be taught in the eastern Roman Empire during the 300's. [[2]](https://en.wikipedia.org/wiki/first-council-of-nicaea)
 The Council of Constantinople condemned Arianism as heresy in 381, and it quickly disappeared within the Roman Empire. But followers of Arianism remained active outside the empire. Arian missionaries converted the German tribes of northern Europe to Christianity during the 300's and 400's. After these tribes invaded the Roman Empire, they reintroduced Arianism. Arian teachings received support until the 600's, when the last German tribes were converted to orthodox Christianity. 
 
 
@@ -107,7 +107,7 @@ F.Y.I.: The name Isaac -- son of Abraham in the TORAH -- means 'laughter.'
 ### See also
 
 
-[ISBN 0762413484](/) -- **[On the Shoulders of Giants](/http-www-amazon-com-exec-obidos-tg-detail-0762413484-qid-1071100757-sr-1-6-ref-sr-1-6-002-8705843-0436068-v-glance-s-books)** edited by Stephen Hawking:
+[ISBN 0762413484](/) -- **[On the Shoulders of Giants](http://www.amazon.com/exec-obidos-tg-detail-0762413484-qid-1071100757-sr-1-6-ref-sr-1-6-002-8705843-0436068-v-glance-s-books)** edited by Stephen Hawking:
  World-renowned physicist and bestselling author Stephen Hawking presents a revolutionary look at the momentous discoveries that changed our perception of the world with this first-ever compilation of seven classic works on physics and astronomy. His choice of landmark writings by some of the world's great thinkers traces the brilliant evolution of modern science and shows how each figure built upon the genius of his predecessors. On the Shoulders of Giants includes, in their entirety, On the Revolution of Heavenly Spheres by Nicolaus Copernicus; **Principia by Sir Isaac Newton**; The Principle of Relativity by Albert Einstein; Dialogues Concerning Two Sciences by [Galileo Galilei](/galileo-galilei) with Alfonso De Salvio; plus Mystery of the Cosmos, Harmony of the World, and Rudolphine Tables by Johannes Kepler. It includes an essay by each scientist preceded by biographies written by Hawking.
 
 #### Related entries
@@ -166,21 +166,21 @@ F.Y.I.: The name Isaac -- son of Abraham in the TORAH -- means 'laughter.'
 ### External links
 
 
-* [Issac Newton may have had Asperger's Syndrome](/http-www-wrongplanet-net), related to Autism
-* 1 [Agenda](/http-www-cftech-com-brainbank-otherreference-biography-newtonian-html)
-* 2 [First Council of Nicea](/http-en-wikipedia-org-wiki-first-council-of-nicaea)
-* **[Isaac Newton (Wikipedia)](/http-www-wikipedia-org-wiki-isaac-newton)**
-* **[Wikipedia's In-Depth Article](/http-en-wikipedia-org-wiki-isaac-newton-in-depth-biography)**
+* [Issac Newton may have had Asperger's Syndrome](http://www.wrongplanet.net), related to Autism
+* 1 [Agenda](http://www.cftech.com/brainbank-otherreference-biography-newtonian.html)
+* 2 [First Council of Nicea](https://en.wikipedia.org/wiki/first-council-of-nicaea)
+* **[Isaac Newton (Wikipedia)](https://en.wikipedia.org/wiki/isaac-newton)**
+* **[Wikipedia's In-Depth Article](https://en.wikipedia.org/wiki/isaac-newton-in-depth-biography)**
 * **[Principia:Book Two: Lemma II](/http-www-maths-tcd-ie-pub-histmath-people-newton-principia-bk2lem2)**
-* **[Opticks on CD (Octavo)](/http-www-octavo-com-collections-projects-nwtopt-index-html)**
-* **[gap.dcs](/http-www-gap-dcs-st-and-ac-uk-history-mathematicians-newton-html)**
-* **[Download the Principia1726.pdf](/http-dibinst-mit-edu-burndy-collections-babson-onlinenewton-principia-htm)** It's in Latin!
+* **[Opticks on CD (Octavo)](http://www.octavo.com/collections-projects-nwtopt-index.html)**
+* **[gap.dcs](http://www.gap.dcs.st.and.ac.uk/history-mathematicians-newton.html)**
+* **[Download the Principia1726.pdf](http://dibinst.mit.edu/burndy-collections-babson-onlinenewton-principia.htm)** It's in Latin!
 
 
-* **[Newton the Heretic.pdf](/http-members-aol-com-stevesnobelen-heretic-pdf)**
+* **[Newton the Heretic.pdf](http://members.aol.com/stevesnobelen-heretic.pdf)**
 * **Isaac Newton, Observation upon the Prophecies of Daniel (1733)**
-* **[Wall Street Journal Review](/http-www-cftech-com-brainbank-otherreference-biography-newtonian-html)**
-* **[NM Space Museum's Newton Article](/http-www-spacefame-org-newton2-html)**
-* **["The Newtonian Moment" (exhibit at the NY Public Library, 8 October 2004 - 5 February 2005)](/http-www-nypl-org-research-newton)**
-* **[Newton's Castle (online learning activities and free resources)](/http-www-tqnyc-org-nyc051308-index-htm)**
-* [The Chymistry of Isaac Newton](/http-webapp1-dlib-indiana-edu-newton-index-jsp): A growing collection of Isaac Newton's original alchemy notes, being prepared jointly by Indiana University and the National Science Foundation. Includes a complete scan of Newton's most complete laboratory notebook.
+* **[Wall Street Journal Review](http://www.cftech.com/brainbank-otherreference-biography-newtonian.html)**
+* **[NM Space Museum's Newton Article](http://www.spacefame.org/newton2.html)**
+* **["The Newtonian Moment" (exhibit at the NY Public Library, 8 October 2004 - 5 February 2005)](http://www.nypl.org/research-newton)**
+* **[Newton's Castle (online learning activities and free resources)](http://www.tqnyc.org/nyc051308-index.htm)**
+* [The Chymistry of Isaac Newton](http://webapp1.dlib.indiana.edu/newton-index-jsp): A growing collection of Isaac Newton's original alchemy notes, being prepared jointly by Indiana University and the National Science Foundation. Includes a complete scan of Newton's most complete laboratory notebook.

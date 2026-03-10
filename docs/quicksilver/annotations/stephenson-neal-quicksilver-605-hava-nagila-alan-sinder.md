@@ -27,7 +27,7 @@ Here is a reasonable translation for those who don't understand transliterated H
 
  Of course, the big goof here would be that Hava Nagila was composed in **1918**. Although the melody is considered traditional, it seems to be early Klezmer and thus, unlikely to date from before the mid-nineteenth century.
 
- Though it's actually possible someone beat **Cantor Moshe Nathanson** to the song *Hava Nagila* by 3 years -- **Abraham Zevi Idelsohn**, and he was the father of Jewish Musicology. [Larry Yudelson](/http-www-radiohazak-com-havahist-html) states: "... In the course of his research he visited a group of Sadigura Hasidim there, in 1915, and wrote down some of their Nigunim. This was one of them. It was a wordless "bim-bom" melody, a mystic chant. ... He arranged it in four parts, put some simple Hebrew lyrics to it, and performed it. The rest, as you know, is history, as this became the best-known Jewish song in the world. ..."
+ Though it's actually possible someone beat **Cantor Moshe Nathanson** to the song *Hava Nagila* by 3 years -- **Abraham Zevi Idelsohn**, and he was the father of Jewish Musicology. [Larry Yudelson](http://www.radiohazak.com/havahist.html) states: "... In the course of his research he visited a group of Sadigura Hasidim there, in 1915, and wrote down some of their Nigunim. This was one of them. It was a wordless "bim-bom" melody, a mystic chant. ... He arranged it in four parts, put some simple Hebrew lyrics to it, and performed it. The rest, as you know, is history, as this became the best-known Jewish song in the world. ..."
 
  So the *Kabalistic chant* could be old ---- like even circa 700 CE.
 
@@ -36,6 +36,6 @@ Here is a reasonable translation for those who don't understand transliterated H
 ### External links
 
 
-* **[What it means](/http-sniff-numachi-com-rickheit-dtrad-pages-tihavanagi-html)**
-* **[What it is supposed to sound like](/http-acc6-its-brooklyn-cuny-edu-phalsall-sounds-havanagh-mid)**
-* **[Its history](/http-www-radiohazak-com-havahist-html)**
+* **[What it means](http://sniff.numachi.com/rickheit-dtrad-pages-tihavanagi.html)**
+* **[What it is supposed to sound like](http://acc6.its.brooklyn.cuny.edu/phalsall-sounds-havanagh-mid)**
+* **[Its history](http://www.radiohazak.com/havahist.html)**

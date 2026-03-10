@@ -14,7 +14,7 @@ I don't think there is any evidence of this. On the contrary, Franklin was in th
 
 Thanks for pointing me to the fraud. - [Sparky](/user-stsparky) 16:24, 2004 Jan 30 (PST)
 
- This [article,](/http-www-adl-org-special-reports-franklin-prophecy-franklin-intro-asp) which thoroughly documents the history of the transparent fraud known as the Franklin "Prophecy", appeared almost forty-five years ago in the April-May 1954 issue of Facts, a publication of the Anti-Defamation League. At the time, the authors wrote "This 20-year-old anti-Semitic hoax is circulating again." Today, more than sixty-five years after it was manufactured, the "Prophecy" it is still circulating, a staple of anti-Semitic propaganda. It can be found on a number of web sites maintained by haters and hate-groups. The article is, therefore, still timely and instructive. 
+ This [article,](http://www.adl.org/special-reports-franklin-prophecy-franklin-intro.asp) which thoroughly documents the history of the transparent fraud known as the Franklin "Prophecy", appeared almost forty-five years ago in the April-May 1954 issue of Facts, a publication of the Anti-Defamation League. At the time, the authors wrote "This 20-year-old anti-Semitic hoax is circulating again." Today, more than sixty-five years after it was manufactured, the "Prophecy" it is still circulating, a staple of anti-Semitic propaganda. It can be found on a number of web sites maintained by haters and hate-groups. The article is, therefore, still timely and instructive. 
 
 
 
@@ -49,7 +49,7 @@ Fine, so, it's fixed in the entry. Next time you can rephrase it yourself.
 
 I actually really like the way you rephrased it! I couldn't have done as well, but in the future, I'll be more proactive about it... I'm still getting used to this whole metaweb idea. In addition, I liked the back and forth, since you helped illuminate for me your thinking. This is important for me, as I'm a teacher and I'm always trying to figure out how people are thinking as well as what they are thinking. Thanks!
 
-Any time. If you like this kind of back and forth you should check out [http://wikipedia.org](/http-wikipedia-org) and especially [http://simple.wikipedia.org](/http-simple-wikipedia-org) (more focused on teaching things). See especially [Being snarky](/http-simple-wikipedia-org-wiki-simple-english-user-stories) as a way to deal with the problems of empathizing with "users who are nothing like you".
+Any time. If you like this kind of back and forth you should check out [http://wikipedia.org](http://wikipedia.org) and especially [http://simple.wikipedia.org](http://simple.wikipedia.org) (more focused on teaching things). See especially [Being snarky](https://simple.wikipedia.org/wiki/simple-english-user-stories) as a way to deal with the problems of empathizing with "users who are nothing like you".
 
 
 

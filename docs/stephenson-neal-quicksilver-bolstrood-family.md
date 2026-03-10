@@ -47,6 +47,6 @@ The Bolstroods are a leading Puritan family linked to the Waterhouse clan by fri
 ### External Links
 
 
-* [History of Ethan Allen](/http-www-uvm-edu-vhnet-hertour-eallen-eahistory-html)
-* [Good review of CRYPTONOMICON](/http-www-themodernword-com-review-cryptonomicon-html)
-* [Bwahaha! Though once *normals* get it ...](/http-www-astrogirl-com-entry-001004-html)
+* [History of Ethan Allen](http://www.uvm.edu/vhnet-hertour-eallen-eahistory.html)
+* [Good review of CRYPTONOMICON](http://www.themodernword.com/review-cryptonomicon.html)
+* [Bwahaha! Though once *normals* get it ...](http://www.astrogirl.com/entry-001004.html)

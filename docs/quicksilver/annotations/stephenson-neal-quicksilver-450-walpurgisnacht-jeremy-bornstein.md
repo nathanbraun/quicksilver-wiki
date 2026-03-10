@@ -9,7 +9,7 @@ From the Quicksilver Metaweb.
 
 
 
-* [http://www.wikipedia.org/wiki/Walpurgisnacht](/http-www-wikipedia-org-wiki-walpurgisnacht)
-* [http://www.serve.com/shea/germusa/walpurgi.htm](/http-www-serve-com-shea-germusa-walpurgi-htm)
+* [http://www.wikipedia.org/wiki/Walpurgisnacht](https://en.wikipedia.org/wiki/walpurgisnacht)
+* [http://www.serve.com/shea/germusa/walpurgi.htm](http://www.serve.com/shea-germusa-walpurgi.htm)
 * [http://www.wildweb.de/hexen/brocken.html](/http-www-wildweb-de-hexen-brocken-html) - More specifically we seem to be on the "Brocken" here.
-* [http://www.levity.com/alchemy/faust18.html](/http-www-levity-com-alchemy-faust18-html) - Referenced in Johann Wolfgang von Goethes "Faust"
+* [http://www.levity.com/alchemy/faust18.html](http://www.levity.com/alchemy-faust18.html) - Referenced in Johann Wolfgang von Goethes "Faust"

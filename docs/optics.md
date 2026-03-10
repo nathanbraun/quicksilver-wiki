@@ -72,4 +72,4 @@ Scientists made several important discoveries in optics during the late 1800's a
 ### External links & footnotes
 
 
-* **[Wikipedia on Optics](/http-en2-wikipedia-org-wiki-optics)**
+* **[Wikipedia on Optics](https://en.wikipedia.org/wiki/optics)**

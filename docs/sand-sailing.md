@@ -31,4 +31,4 @@ Sand-sailing is an actual pastime which continues to be practiced in the present
 #### External links
 
 
-* **[North American Land Sailing Association](/http-www-nalsa-org)**
+* **[North American Land Sailing Association](http://www.nalsa.org)**

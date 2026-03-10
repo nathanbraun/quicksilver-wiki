@@ -76,6 +76,6 @@ You can join in! Help us build a better [Metaweb](/main-page).
 ### External links
 
 
-* [http://www.baroquecycle.com](/http-www-baroquecycle-com)
-* [ISBN 0738200301](/), [George Dyson](/http-www-amazon-com-exec-obidos-search-handle-url-index-books-field-author-george-dyson-104-8931055-5532701)'s [Darwin Among the Machines: The Evolution of Global Intelligence](/http-www-amazon-com-exec-obidos-tg-detail-0201406497-ref-ed-oe-h-104-8931055-5532701-v-glance-s-books-st) should be noted
-* [About.com Review](/http-contemporarylit-about-com-cs-currentreviews-fr-quicksilver-htm)
+* [http://www.baroquecycle.com](http://www.baroquecycle.com)
+* [ISBN 0738200301](/), [George Dyson](http://www.amazon.com/exec-obidos-search-handle-url-index-books-field-author-george-dyson-104-8931055-5532701)'s [Darwin Among the Machines: The Evolution of Global Intelligence](http://www.amazon.com/exec-obidos-tg-detail-0201406497-ref-ed-oe-h-104-8931055-5532701-v-glance-s-books-st) should be noted
+* [About.com Review](http://contemporarylit.about.com/cs-currentreviews-fr-quicksilver.htm)

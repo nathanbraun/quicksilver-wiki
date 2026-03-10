@@ -101,7 +101,7 @@ John Locke (August 29, 1632 - October 28, 1704) was an English Enlightenment phi
 
 Through his association with the First Earl of Shaftesbury, Anthony Ashley Cooper (similar to Daniel Waterhouse's association with Roger Comstock), he became a government official overseeing trade and colonies, an economic writer, a political dissident, and a revolutionary who is credited with the victory of the Glorious Revolution of 1688. In this, he is clearly a major part of the character of Daniel Waterhouse.
 
-His most influential work was the two part treatise On Civil Government [[1]](/http-www-constitution-org-jl-2ndtreat-htm). The first part describes the current condition of the civil government, while the second describes his justification for government and his ideals for its operation. He advocated that all men were equal and that each should be permitted to act as long as he harms no other. Using these foundations, he continued to make a classic justification for private property by declaring that the natural world is the common property of all men, but that any individual could appropriate some bit of it for himself by mixing his labor with the natural resources. 
+His most influential work was the two part treatise On Civil Government [[1]](http://www.constitution.org/jl-2ndtreat.htm). The first part describes the current condition of the civil government, while the second describes his justification for government and his ideals for its operation. He advocated that all men were equal and that each should be permitted to act as long as he harms no other. Using these foundations, he continued to make a classic justification for private property by declaring that the natural world is the common property of all men, but that any individual could appropriate some bit of it for himself by mixing his labor with the natural resources. 
 
 In this, he is commonly credited as a greater inspiration for the Founding Fathers of the United States than [Jean-Jacques Rousseau](/jean-jacques-rousseau) by most everyone outside of socialist circles. In fact, the philosophical differences between Locke and Rousseau are generally pointed to as the seed distinctions between the moderation, success, and long term stability of the American experiment in revolution and self government, versus the intemperate, emotional, tyrannical, and terroristic end of the French experiment in revolution and failure of self-government, as well as similar failures by socialistic and communist governments since.
 
@@ -124,7 +124,7 @@ In law, this also is the basis of the principle that the accused are presumed in
 #### Political Career
 
 
-From the [Stanford Encyclopedia of Philosophy](/http-plato-stanford-edu-entries-locke):
+From the [Stanford Encyclopedia of Philosophy](http://plato.stanford.edu/entries-locke):
 
 In 1666 Locke had a fateful meeting with Lord Ashley as a result of his friendship with Thomas. Ashley, one of the richest men in England, came to Oxford. He proposed to drink some medicinal waters there. He had asked Dr. Thomas to provide them. Thomas had to be out of town and asked Locke to see that the water was delivered. Locke met Ashley and they liked one another. As a result of this encounter, Ashley invited Locke to come to London as his personal physician. In 1667 Locke did move to London becoming not only Lord Ashley's personal physician, but secretary, researcher, political operative and friend. Living with him Locke found himself at the very heart of English politics in the 1670s and 1680s.
 
@@ -177,13 +177,13 @@ John Locke is the name of a character in the award winning television series "Lo
 * [Liberalism](/)
 * [Libertarianism](/)
 * [Contributions to liberal theory](/)
-* [Works by Locke on the Web](/http-weber-ucsd-edu-dmckiern-locke-htm)
+* [Works by Locke on the Web](http://weber.ucsd.edu/dmckiern-locke.htm)
 * [Another Locke page](/http-www-socsci-mcmaster-ca-econ-ugcm-3ll3-locke)
-* [Free, full-text works by John Locke](/http-onlinebooks-library-upenn-edu-webbin-book-search-amode-start-author-locke-john)
-* [John Locke at Project Gutenberg](/http-www-gutenberg-net-catalog-world-authrec-fk-authors-2447)
-* [Works by Locke on the Web](/http-weber-ucsd-edu-dmckiern-locke-htm)
-* [John Locke Online Bibliography](/http-www-libraries-psu-edu-tas-locke)
-* [LibertyForums](/http-www-libertyforums-com) - Classical Liberal, Libertarian & Objectivist Discussion Board
+* [Free, full-text works by John Locke](http://onlinebooks.library.upenn.edu/webbin-book-search-amode-start-author-locke-john)
+* [John Locke at Project Gutenberg](http://www.gutenberg.net/catalog-world-authrec-fk-authors-2447)
+* [Works by Locke on the Web](http://weber.ucsd.edu/dmckiern-locke.htm)
+* [John Locke Online Bibliography](http://www.libraries.psu.edu/tas-locke)
+* [LibertyForums](http://www.libertyforums.com) - Classical Liberal, Libertarian & Objectivist Discussion Board
 
 
 ### Suggested further reading

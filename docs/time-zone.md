@@ -27,9 +27,9 @@ All time zones are defined relative to Coordinated Universal Time (UTC). The ref
 
 ![Timezones_small.png](/images/Timezones_small.png)  
 
-*A map of the world's time zones, [Larger image](/http-en-wikipedia-org-upload-4-4b-timezones-png)*
+*A map of the world's time zones, [Larger image](http://en.wikipedia.org/upload-4-4b-timezones.png)*
 
-**... [Complete Wikipedia Entry on Time Zone](/http-en2-wikipedia-org-wiki-time-zone)**
+**... [Complete Wikipedia Entry on Time Zone](https://en.wikipedia.org/wiki/time-zone)**
 
 ### Related entries
 
@@ -42,4 +42,4 @@ All time zones are defined relative to Coordinated Universal Time (UTC). The ref
 ### External Links
 
 
-* **[Time Zone](/http-en2-wikipedia-org-wiki-time-zone)**
+* **[Time Zone](https://en.wikipedia.org/wiki/time-zone)**

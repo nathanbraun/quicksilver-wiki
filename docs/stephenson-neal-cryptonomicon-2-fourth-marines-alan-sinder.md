@@ -36,10 +36,10 @@ The Marines have one further difference from the other US military services: all
 
 Historically, the United States Marine Corps has achieved fame in several campaigns, as referenced in their anthem "From the Halls of Montezuma to the Shores of Tripoli". In the early 19th century, First Lieutenant Presley OBannon led a group of seven Marines in deposing the dictator of Tripoli (thereby restoring the rightful ruler). Separately, the Marines took part in the Mexican-American War (1846 - 1848). 
 
-### [The United State Marine Corps](/http-en-wikipedia-org-wiki-united-states-marine-corps)
+### [The United State Marine Corps](https://en.wikipedia.org/wiki/united-states-marine-corps)
 
 
-The **United States Marine Corps (USMC)** forms the second-smallest branch of the [United States Armed Forces](/http-en-wikipedia-org-wiki-united-states-armed-forces), with 170,000 active and 40,000 reserve members as of 2002. The USMC serves as a versatile combat element, adapted to a wide variety of combat situations. Its original purpose, giving it the name *Marine* Corps, comprised the provision naval infantry (combat forces serving aboard naval vessels), and carrying out amphibious operations from the sea onto land. The Marines fully developed and utilized the latter tactic in [World War II](/http-en-wikipedia-org-wiki-world-war-ii), most notably in the [Pacific Island Campaign](/http-en-wikipedia-org-wiki-pacific-theater-of-operations). The Marine Corps forms part of the Department of the Navy (but not part of the [United States Navy](/http-en-wikipedia-org-wiki-united-states-navy)). The Marine Corps has a reputation for being a fierce and effective fighting force, and is famous for the fact that US Marines have never in their entire history resorted to a full, large-scale retreat.
+The **United States Marine Corps (USMC)** forms the second-smallest branch of the [United States Armed Forces](https://en.wikipedia.org/wiki/united-states-armed-forces), with 170,000 active and 40,000 reserve members as of 2002. The USMC serves as a versatile combat element, adapted to a wide variety of combat situations. Its original purpose, giving it the name *Marine* Corps, comprised the provision naval infantry (combat forces serving aboard naval vessels), and carrying out amphibious operations from the sea onto land. The Marines fully developed and utilized the latter tactic in [World War II](https://en.wikipedia.org/wiki/world-war-ii), most notably in the [Pacific Island Campaign](https://en.wikipedia.org/wiki/pacific-theater-of-operations). The Marine Corps forms part of the Department of the Navy (but not part of the [United States Navy](https://en.wikipedia.org/wiki/united-states-navy)). The Marine Corps has a reputation for being a fierce and effective fighting force, and is famous for the fact that US Marines have never in their entire history resorted to a full, large-scale retreat.
 ### Commandant of the Marine Corps
 
 
@@ -50,7 +50,7 @@ Marine Generals Peter Pace (Vice Chairman of the Joint Chiefs of Staff) and Jame
 ### Reputation of the Marine Corps
 
 
-The Marines take pride in their [gung-ho](/http-en-wikipedia-org-wiki-gung-ho) attitude and are inculcated with a strong belief in their chain of command and the importance of esprit de corps, a spirit of enthusiasm and pride in themselves and the Corps. The Marine Corps' reputation often affects enemy planning and operations before and after combat. However, members of the other armed forces of the United States have complaints that the Marine Corps often emphasizes its prowness at the expense of the reputation of Army or Navy units which are nearby. An example occurred the Battle of the Chosin Reservior in the Korean War, when a Marine officer disparaged the undermanned army infantry regiment which took the initial Chinese attack.
+The Marines take pride in their [gung-ho](https://en.wikipedia.org/wiki/gung-ho) attitude and are inculcated with a strong belief in their chain of command and the importance of esprit de corps, a spirit of enthusiasm and pride in themselves and the Corps. The Marine Corps' reputation often affects enemy planning and operations before and after combat. However, members of the other armed forces of the United States have complaints that the Marine Corps often emphasizes its prowness at the expense of the reputation of Army or Navy units which are nearby. An example occurred the Battle of the Chosin Reservior in the Korean War, when a Marine officer disparaged the undermanned army infantry regiment which took the initial Chinese attack.
 
 Marine tactics and doctrine tends to emphasize aggressiveness and the offensive, compared to Army tactics for similar units. In addition, the Marines have made a point of recruiting at age 17, tending to enlist youths with more aggressive personalities than their counterparts who join the Army.
 
@@ -224,8 +224,8 @@ The funeral service was held Tuesday at 10 a.m. He has three surviving grandchil
 
 
 * [Official website](/http-www-usmc-mil)
-* [History of USMC](/http-www-venus-net-jsouth-history-html)
-* [Code talker](/http-en-wikipedia-org-wiki-code-talker)
-* [The Last Codetalker](/http-www-comanchenation-com-chibitty-html)
-* [Comanche Code Talker Charles Chibitty Dies](/http-www-washingtonpost-com-wp-dyn-content-article-2005-07-25-ar2005072501542-html)
-* [Last WWII Comanche 'code talker' dies in Oklahoma](/http-www-rednova-com-news-general-182675-last-wwii-comanche-code-talker-dies-in-oklahoma)
+* [History of USMC](http://www.venus.net/jsouth-history.html)
+* [Code talker](https://en.wikipedia.org/wiki/code-talker)
+* [The Last Codetalker](http://www.comanchenation.com/chibitty.html)
+* [Comanche Code Talker Charles Chibitty Dies](http://www.washingtonpost.com/wp-dyn-content-article-2005-07-25-ar2005072501542.html)
+* [Last WWII Comanche 'code talker' dies in Oklahoma](http://www.rednova.com/news-general-182675-last-wwii-comanche-code-talker-dies-in-oklahoma)

@@ -104,10 +104,10 @@ From the Quicksilver Metaweb.
 ### External Links
 
 
-* [Tom Brown Jr.](/http-www-trackerschool-com) Tom's courses are often many peoples initiation into the hands on world of brain tanning. At the time I took many of his classes, the focus was on  [Dry scraping](/dry-scraping-timberbee). Judging from what many, somewhat, recent students are doing, I would say that this focus is possibly shifting to  [Wet Scrape](/wet-scrape-timberbee).
+* [Tom Brown Jr.](http://www.trackerschool.com) Tom's courses are often many peoples initiation into the hands on world of brain tanning. At the time I took many of his classes, the focus was on  [Dry scraping](/dry-scraping-timberbee). Judging from what many, somewhat, recent students are doing, I would say that this focus is possibly shifting to  [Wet Scrape](/wet-scrape-timberbee).
 
 
-* [Braintan.com](/http-braintan-com-toc-html) This site offers some excellent resources, discussions and links to two of the major elements in Modern American Braintanning, Wet scraping and Dry scraping. There should also be numerous links to various authentic, aboriginal American techniques, both historic and present day.
+* [Braintan.com](http://braintan.com/toc.html) This site offers some excellent resources, discussions and links to two of the major elements in Modern American Braintanning, Wet scraping and Dry scraping. There should also be numerous links to various authentic, aboriginal American techniques, both historic and present day.
 
 
-* [Judy Kavanagh's Moccasin and Mukluk Page](/http-jumaka-com-moccasins) A truly beautiful collection of Handmade Mukluks, as well as some of the process she used to tan the Hides.
+* [Judy Kavanagh's Moccasin and Mukluk Page](http://jumaka.com/moccasins) A truly beautiful collection of Handmade Mukluks, as well as some of the process she used to tan the Hides.

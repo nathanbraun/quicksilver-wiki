@@ -25,4 +25,4 @@ This is an [intermediate page](/metaweb-intermediate-page) for
 #### External links
 
 
-* Someone who scavenges in river mud for items of value [Definition from World Wide Words](/http-www-quinion-com-words-weirdwords-ww-mud1-htm)
+* Someone who scavenges in river mud for items of value [Definition from World Wide Words](http://www.quinion.com/words-weirdwords-ww-mud1.htm)

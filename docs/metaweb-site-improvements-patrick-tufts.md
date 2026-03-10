@@ -15,7 +15,7 @@ According to [Patrick](/user-patrick-tufts), the latest stable MediaWiki version
 
 -- [Blair](/user-blair) Feb 2 17:10:31 PST 2005
 
- As Blair says, the more recent MediaWiki code (currently in use on [http://www.wikipedia.org)](/http-www-wikipedia-org) has improved editing features and also a cleaner user interface. While Blair upgrades the software, things might be a bit bumpy, but bear with us. The new code is worth it. --[Pat](/user-patrick-tufts) 23:21, 4 Feb 2005 (PST)
+ As Blair says, the more recent MediaWiki code (currently in use on [http://www.wikipedia.org)](http://www.wikipedia.org) has improved editing features and also a cleaner user interface. While Blair upgrades the software, things might be a bit bumpy, but bear with us. The new code is worth it. --[Pat](/user-patrick-tufts) 23:21, 4 Feb 2005 (PST)
 
  Due to unforseen work that needed to be done on the day of the upgrade, I've rescheduled the upgrade to Tuesday, February 15, 2005 at 10:00 am PST. I'll also be upgrading the server to MediaWiki 1.3.10. -- [Blair](/user-blair) Mon Feb 14 12:11:31 PST 2005
 

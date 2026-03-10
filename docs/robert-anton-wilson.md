@@ -22,15 +22,15 @@ In a 2003 interview with High Times magazine, R.A.W. called himself a "Model Agn
 ### External links and references
 
 
-* Wilson maintains his own [website](/http-www-rawilson-com-main-shtml), which includes thoughts of the month, jokes, and many links to obscure and informative Internet sites.
-* Documentary movie about Robert Anton Wilson [maybe logic - The Lives and Ideas of Robert Anton Wilson](/http-www-maybelogic-com)
-* [BlackCrayon.com: People: Robert Anton Wilson](/http-www-blackcrayon-com-people-raw)
-* Wilson and Miriam Joan Hill also maintain [Blackops](/http-www-cruzio-com-blackops), a website of conspiracies in which visitors can add their own.
-* [Robert Anton Wilson Online Library](/http-www-deepleafproductions-com-wilsonlibrary-index-htm) - has every RAW interview and text on the web
+* Wilson maintains his own [website](http://www.rawilson.com/main-shtml), which includes thoughts of the month, jokes, and many links to obscure and informative Internet sites.
+* Documentary movie about Robert Anton Wilson [maybe logic - The Lives and Ideas of Robert Anton Wilson](http://www.maybelogic.com)
+* [BlackCrayon.com: People: Robert Anton Wilson](http://www.blackcrayon.com/people-raw)
+* Wilson and Miriam Joan Hill also maintain [Blackops](http://www.cruzio.com/blackops), a website of conspiracies in which visitors can add their own.
+* [Robert Anton Wilson Online Library](http://www.deepleafproductions.com/wilsonlibrary-index.htm) - has every RAW interview and text on the web
 * Smoley, Richard and Jay Kinney, "Doubt!: The Gnosis Interview with Robert Anton Wilson," *Gnosis,* No. 50 (Winter 1999).
-* [Paul Krassner](/http-en-wikipedia-org-wiki-paul-krassner), [A Paul Krassner Interview With R. A. W](/http-www-newfalcon-com-author-articles-wilson-interview-pk-a-htm). *High Times,* some time in 2003 Please add details here.
-* [Wilson, Robert Anton booklist from New Falcon Publications](/http-www-newfalcon-com-alpha-by-author-htm-wilson)
-* [Robert Anton Wilson's political party](/http-www-gunsanddope-com)
+* [Paul Krassner](https://en.wikipedia.org/wiki/paul-krassner), [A Paul Krassner Interview With R. A. W](http://www.newfalcon.com/author-articles-wilson-interview-pk-a.htm). *High Times,* some time in 2003 Please add details here.
+* [Wilson, Robert Anton booklist from New Falcon Publications](http://www.newfalcon.com/alpha-by-author-htm-wilson)
+* [Robert Anton Wilson's political party](http://www.gunsanddope.com)
 
 
 ### Books
@@ -77,4 +77,4 @@ I also recommend
 ### Links
 
 
-* **[RAW on Wiki](/http-en2-wikipedia-org-wiki-robert-anton-wilson)**
+* **[RAW on Wiki](https://en.wikipedia.org/wiki/robert-anton-wilson)**

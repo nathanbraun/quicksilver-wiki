@@ -3,12 +3,12 @@
 
 (Redirected from [Shanghai](/shanghai))
 
-... no changes ... no changes ... no changes ... no changes ... no changes ... no changes ... no changes ... no changes ... no changes ... no changes ... no changes ... Thanks!!! Links: <a href='[http://www.dirare.com](/http-www-dirare-com)'>yellow pages main</a> : [business yellowpages](/http-www-dirare-com) - [HTTP://www.dirare.com business yellowpages] : [international directory|[http://www.dirare.com](/http-www-dirare-com)] - [international directory|HTTP://www.dirare.com] : [http://www.dirare.com/India/](/http-www-dirare-com-india) : [[companies of the world](/http-www-dirare-com)] : [[| YP national](/http-www-dirare-com)] : "global directory" [http://www.dirare.com](/http-www-dirare-com) : [http://www.dirare.com|online directory] [Cryptonomicon](/cryptonomicon)'s page on **Shanghai** linked to HEAP
+... no changes ... no changes ... no changes ... no changes ... no changes ... no changes ... no changes ... no changes ... no changes ... no changes ... no changes ... Thanks!!! Links: <a href='[http://www.dirare.com](http://www.dirare.com)'>yellow pages main</a> : [business yellowpages](http://www.dirare.com) - [HTTP://www.dirare.com business yellowpages] : [international directory|[http://www.dirare.com](http://www.dirare.com)] - [international directory|HTTP://www.dirare.com] : [http://www.dirare.com/India/](http://www.dirare.com/india) : [[companies of the world](http://www.dirare.com)] : [[| YP national](http://www.dirare.com)] : "global directory" [http://www.dirare.com](http://www.dirare.com) : [http://www.dirare.com|online directory] [Cryptonomicon](/cryptonomicon)'s page on **Shanghai** linked to HEAP
 
 ### Stephensonia
 
 
-*What do you get when you have [Marines](/http-en-wikipedia-org-wiki-u-s-marines), [prostitutes](/http-en-wikipedia-org-wiki-prostitutes), [spies](/http-en-wikipedia-org-wiki-espionage), **[Tintin](/stephenson-neal-cryptonomicon-1-shanghai-alan-sinder)**, **[Terry and the Pirates](/stephenson-neal-cryptonomicon-1-shanghai-alan-sinder)**, **[The Fugu Plan](/stephenson-neal-cryptonomicon-1-shanghai-alan-sinder)**, and [Jews](/judaism)? I guess every schoolboy was clued in to China's importance. Comics had more weight with the public. Note that [Lawrence](/lawrence-waterhouse) thinks in terms of **Superman** and **Ally Oop**. Shanghai takes center stage in [The Diamond Age](/the-diamond-age):
+*What do you get when you have [Marines](https://en.wikipedia.org/wiki/u-s-marines), [prostitutes](https://en.wikipedia.org/wiki/prostitutes), [spies](https://en.wikipedia.org/wiki/espionage), **[Tintin](/stephenson-neal-cryptonomicon-1-shanghai-alan-sinder)**, **[Terry and the Pirates](/stephenson-neal-cryptonomicon-1-shanghai-alan-sinder)**, **[The Fugu Plan](/stephenson-neal-cryptonomicon-1-shanghai-alan-sinder)**, and [Jews](/judaism)? I guess every schoolboy was clued in to China's importance. Comics had more weight with the public. Note that [Lawrence](/lawrence-waterhouse) thinks in terms of **Superman** and **Ally Oop**. Shanghai takes center stage in [The Diamond Age](/the-diamond-age):
 ### A thete visits a mod parlor;
 
 
@@ -84,14 +84,14 @@ November 28, 1941 is the day U.S. Marines left Shanghai, the era of the China Ma
 ![BlueLotusMW.jpg](/images/BlueLotusMW.jpg)  
 **Tintin Became Political  
 With This Adventure**
-***The Blue Lotus*** (originally *Le Lotus Bleu*) is a comic strip album in the [Tintin](/http-en-wikipedia-org-wiki-tintin) series by [Hergé](/http-en-wikipedia-org-wiki-hergé). It is the second half of a story, the first half being told in *[Cigars of the Pharaoh](/http-en-wikipedia-org-wiki-cigars-of-the-pharaoh)*. The Blue Lotus is generally considered to be a pivotal work in Hergé's carreer.
+***The Blue Lotus*** (originally *Le Lotus Bleu*) is a comic strip album in the [Tintin](https://en.wikipedia.org/wiki/tintin) series by [Hergé](https://en.wikipedia.org/wiki/hergé). It is the second half of a story, the first half being told in *[Cigars of the Pharaoh](https://en.wikipedia.org/wiki/cigars-of-the-pharaoh)*. The Blue Lotus is generally considered to be a pivotal work in Hergé's carreer.
 
 #### Synopsis
 
 
-Warning: *[Plot details follow](/http-en-wikipedia-org-wiki-wikipedia-spoiler-warning)*.
+Warning: *[Plot details follow](https://en.wikipedia.org/wiki/wikipedia-spoiler-warning)*.
 
-In *Cigars of the Pharaoh*, Tintin chases an international group of drug distributors through the [Middle](/http-en-wikipedia-org-wiki-middle-east) and [Far East](/http-en-wikipedia-org-wiki-far-east). He manages to catch them all, except for the leader, who crashes in a ravine. In order to unravel more of the network and stop the [opium](/http-en-wikipedia-org-wiki-opium) production at the source, he travels to [China](/http-en-wikipedia-org-wiki-china), where he is eagerly awaited by the assassins of the opium consortium. 
+In *Cigars of the Pharaoh*, Tintin chases an international group of drug distributors through the [Middle](https://en.wikipedia.org/wiki/middle-east) and [Far East](https://en.wikipedia.org/wiki/far-east). He manages to catch them all, except for the leader, who crashes in a ravine. In order to unravel more of the network and stop the [opium](https://en.wikipedia.org/wiki/opium) production at the source, he travels to [China](https://en.wikipedia.org/wiki/china), where he is eagerly awaited by the assassins of the opium consortium. 
 
 The title, *Blue Lotus*, refers to the name of an opium den. 
 
@@ -100,24 +100,24 @@ The title, *Blue Lotus*, refers to the name of an opium den.
 
 Up to the writing of *The Blue Lotus*, Hergé's writing was mainly based on popular prejudice and on what his mentor, the abbot Norbert Wallez, had told him. Tintin was published in a newspaper, and Hergé announced at the end of Cigars that his next setting would be China. 
 
-Father Gosset, the chaplain to the Chinese students at the University of Louvain, wrote to Hergé urging him to be sensitive about what he wrote about China. Hergé agreed, and in the spring of 1934 Gosset introduced him to [Chang Chong-chen](/http-en-wikipedia-org-wiki-chang-chong-chen), a young sculpture student at the Brussels Académie des Beaux-Arts. The two young artists quickly became close friends, and Chang introduced Hergé to [Chinese history](/http-en-wikipedia-org-wiki-chinese-history), [culture](/http-en-wikipedia-org-wiki-chinese-culture), and the techniques of [Chinese art](/http-en-wikipedia-org-wiki-chinese-art).
+Father Gosset, the chaplain to the Chinese students at the University of Louvain, wrote to Hergé urging him to be sensitive about what he wrote about China. Hergé agreed, and in the spring of 1934 Gosset introduced him to [Chang Chong-chen](https://en.wikipedia.org/wiki/chang-chong-chen), a young sculpture student at the Brussels Académie des Beaux-Arts. The two young artists quickly became close friends, and Chang introduced Hergé to [Chinese history](https://en.wikipedia.org/wiki/chinese-history), [culture](https://en.wikipedia.org/wiki/chinese-culture), and the techniques of [Chinese art](https://en.wikipedia.org/wiki/chinese-art).
 
-As a result of this experience, Hergé would strive in *The Blue Lotus*, and in subsequent Tintin adventures, to be meticulously accurate in depicting the places which Tintin visited. He reached this meticulousness by painstakingly researching all his topics. When his UK publisher complained that [The Black Island](/http-en-wikipedia-org-wiki-the-black-island) depicted an old-fashioned England, Hergé sent Bob de Moor  a longtime collaborator of Hergé's  across the [North-Sea](/http-en-wikipedia-org-wiki-north-sea) to redraw anything that was no longer accurate, resulting in huge changes to the album. This new-found accuratesse would become a Hergé trade mark. 
+As a result of this experience, Hergé would strive in *The Blue Lotus*, and in subsequent Tintin adventures, to be meticulously accurate in depicting the places which Tintin visited. He reached this meticulousness by painstakingly researching all his topics. When his UK publisher complained that [The Black Island](https://en.wikipedia.org/wiki/the-black-island) depicted an old-fashioned England, Hergé sent Bob de Moor  a longtime collaborator of Hergé's  across the [North-Sea](https://en.wikipedia.org/wiki/north-sea) to redraw anything that was no longer accurate, resulting in huge changes to the album. This new-found accuratesse would become a Hergé trade mark. 
 
 As a token of appreciation, he added a fictional "Chang" to The Blue Lotus , a young Chinese boy who meets and befriends Tintin. Hergé mocks his own naïveté deep inside the album, when he tries to let Tintin explain to Chang that Chang's fear for the 'white devils' is based on prejudice. He then recites a few Western stereotypes of the Chinese. 
 
 #### Political turmoil
 
 
-As another result of his friendship with Chang, Hergé became increasing aware of the problems of [colonialism](/http-en-wikipedia-org-wiki-colonialism), in particular the [Japanese](/http-en-wikipedia-org-wiki-japan) Empire's advances into China. *The Blue Lotus* carries a bold [anti-imperialist](/http-en-wikipedia-org-wiki-anti-imperialist) message, contrary to the prevailing view in the West, which was sympathetic to Japan and the colonial enterprise. 
+As another result of his friendship with Chang, Hergé became increasing aware of the problems of [colonialism](https://en.wikipedia.org/wiki/colonialism), in particular the [Japanese](https://en.wikipedia.org/wiki/japan) Empire's advances into China. *The Blue Lotus* carries a bold [anti-imperialist](https://en.wikipedia.org/wiki/anti-imperialist) message, contrary to the prevailing view in the West, which was sympathetic to Japan and the colonial enterprise. 
 
-Tintin is a direct witness to the [South Manchurian railroad](/http-en-wikipedia-org-wiki-south-manchurian-railroad) incident ([Mukden incident](/http-en-wikipedia-org-wiki-mukden-incident)), Japan's excuse to attack and occupy China and start the second [Sino-Japanese War (1937-1945)](/http-en-wikipedia-org-wiki-sino-japanese-war-1937-1945).
+Tintin is a direct witness to the [South Manchurian railroad](https://en.wikipedia.org/wiki/south-manchurian-railroad) incident ([Mukden incident](https://en.wikipedia.org/wiki/mukden-incident)), Japan's excuse to attack and occupy China and start the second [Sino-Japanese War (1937-1945)](https://en.wikipedia.org/wiki/sino-japanese-war-1937-1945).
 
 As a result, it drew sharp criticism from various parties, including a protest by Japanese diplomats to the Belgian Foreign Ministry. However, the passage of time has since vindicated Hergé's views. 
 
-The other side, China, in particular [Taiwan](/http-en-wikipedia-org-wiki-taiwan), was so pleased with the album, that they invited Hergé for a visit. 
+The other side, China, in particular [Taiwan](https://en.wikipedia.org/wiki/taiwan), was so pleased with the album, that they invited Hergé for a visit. 
 
-Oddly enough, according to [Tintin's Ideology](/http-www-eader-nl-onderzoek-tintin-ideology-htm), the [People's Republic of China](/http-en-wikipedia-org-wiki-people-s-republic-of-china) forbade the publication of the album for a long time. When it finally allowed publication in 1984, some pictures of the examples of Western prejudice were either altered or even taken out completely. 
+Oddly enough, according to [Tintin's Ideology](/http-www-eader-nl-onderzoek-tintin-ideology-htm), the [People's Republic of China](https://en.wikipedia.org/wiki/people-s-republic-of-china) forbade the publication of the album for a long time. When it finally allowed publication in 1984, some pictures of the examples of Western prejudice were either altered or even taken out completely. 
 
 ### Terry and the Pirates
 
@@ -134,12 +134,12 @@ As Terry grew up, he had less need of Pat  but more interest in the fascinatin
 
 Caniff had a contract dispute with his syndicate and left in 1946; his last Terry strip was published on December 29. He went on to create Steve Canyon, another continuing, action-adventure strip that Caniff ran until 1988, year of his death. After Caniff left, George Wunder carried Terry and the Pirates for twenty-seven more years until 1973.
 
-In 1953, Canada Dry offered a "premium giveaway" (freebie) with a case of its ginger ale  one minibook in a trilogy series of Terry and the Pirates strips printed by Harvey Comics. Later incarnations of Caniff's beloved work included a [television series](/http-en-wikipedia-org-wiki-terry-and-the-pirates-television-series) and a [radio show](/http-en-wikipedia-org-wiki-terry-and-the-pirates-radio-serial).
+In 1953, Canada Dry offered a "premium giveaway" (freebie) with a case of its ginger ale  one minibook in a trilogy series of Terry and the Pirates strips printed by Harvey Comics. Later incarnations of Caniff's beloved work included a [television series](https://en.wikipedia.org/wiki/terry-and-the-pirates-television-series) and a [radio show](https://en.wikipedia.org/wiki/terry-and-the-pirates-radio-serial).
 
 ### The Fugu Plan
 
 
-If the Japanese treatment of Jews seems odd  know that an American Jew helped with financing their war against [Russia](/http-en-wikipedia-org-wiki-russo-japanese-war) in 1905. In 1919, White Russians introduced the Japanese to the book, "[The Protocols of the Elders of Zion](/http-en-wikipedia-org-wiki-the-protocols-of-the-elders-of-zion)." The Japanese called their plan for Jewish settlement "The Fugu Plan." "Fugu" is highly poisonous blowfish. After the toxin-containing organs are painstakingly removed, it is used as a food in Japan, and is considered an exquisite delicacy. If it is not prepared carefully, however, its poison can kill a person. Ten thousand displaced people were relocated to Shanghai during its implementation with two thousand Jews housed in the Kansai region. What the Japanese didn't know was there were already Jews in Shanghai who traveled the Silk Road 25 to 15 centuries earlier. There was a thriving community in Kobe of Japanese Jews. Today, only one member of the clan seems active.
+If the Japanese treatment of Jews seems odd  know that an American Jew helped with financing their war against [Russia](https://en.wikipedia.org/wiki/russo-japanese-war) in 1905. In 1919, White Russians introduced the Japanese to the book, "[The Protocols of the Elders of Zion](https://en.wikipedia.org/wiki/the-protocols-of-the-elders-of-zion)." The Japanese called their plan for Jewish settlement "The Fugu Plan." "Fugu" is highly poisonous blowfish. After the toxin-containing organs are painstakingly removed, it is used as a food in Japan, and is considered an exquisite delicacy. If it is not prepared carefully, however, its poison can kill a person. Ten thousand displaced people were relocated to Shanghai during its implementation with two thousand Jews housed in the Kansai region. What the Japanese didn't know was there were already Jews in Shanghai who traveled the Silk Road 25 to 15 centuries earlier. There was a thriving community in Kobe of Japanese Jews. Today, only one member of the clan seems active.
 ![SilkroadMW.jpg](/images/SilkroadMW.jpg)  
 **Route Nomad Jewish Traders Took East**  
 
@@ -185,12 +185,12 @@ A year before he died in 1986, Yad Vashem, the Holocaust Martyrs' and Heroes' Re
 ### External links
 
 
-* [The Panay Incident](/http-en-wikipedia-org-wiki-panay-incident)
-* [Men of the China Marines](/http-www-chinamarines-com-docs-men-htm)
-* [Pete George](/http-www-chinamarines-com-docs-men-pg-htm)
-* [Milt Caniff's Biography](/http-www-budplant-com-bio-itml-icoid-9063) (Creator of *Terry and the Pirates*)
-* [Official Site of the Hergé Foundation](/http-www-tintin-com-uk)
-* [The Cult of Tintin at Tintinologist.org](/http-www-tintinologist-org) - an English language Tintin fan site
+* [The Panay Incident](https://en.wikipedia.org/wiki/panay-incident)
+* [Men of the China Marines](http://www.chinamarines.com/docs-men.htm)
+* [Pete George](http://www.chinamarines.com/docs-men-pg.htm)
+* [Milt Caniff's Biography](http://www.budplant.com/bio-itml-icoid-9063) (Creator of *Terry and the Pirates*)
+* [Official Site of the Hergé Foundation](http://www.tintin.com/uk)
+* [The Cult of Tintin at Tintinologist.org](http://www.tintinologist.org) - an English language Tintin fan site
 
 
 ### Read

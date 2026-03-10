@@ -10,4 +10,4 @@ A **large public wiki** refers to a type of collaborative website created by a l
 ---
 
 
-A discussion of wikis and the creation of wiki software by Ward Cunningham is discussed in this wikipedia entry. [http://en.wikipedia.org/wiki/Wiki](/http-en-wikipedia-org-wiki-wiki)
+A discussion of wikis and the creation of wiki software by Ward Cunningham is discussed in this wikipedia entry. [http://en.wikipedia.org/wiki/Wiki](https://en.wikipedia.org/wiki/wiki)

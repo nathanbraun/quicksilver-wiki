@@ -23,12 +23,12 @@ This is a page about dads and heros  **the mythic journey of the hero-father**
 ### The Hero With a Thousand Faces
 
 
-***The Hero With a Thousand Faces*** is a book ( [ISBN 0691017840](/) ) by mythologist Joseph Campbell. Originally published in 1949, it has sold nearly one million copies in various editions. It traces the stages of a [hero](/http-en-wikipedia-org-wiki-hero) [archetype](/http-en-wikipedia-org-wiki-archetype)'s journey and transformation through many traditional mythologies of the world. In the process, it uses many of the theories of [Carl Jung](/http-en-wikipedia-org-wiki-carl-jung), such as the concept of the collective unconscious.
+***The Hero With a Thousand Faces*** is a book ( [ISBN 0691017840](/) ) by mythologist Joseph Campbell. Originally published in 1949, it has sold nearly one million copies in various editions. It traces the stages of a [hero](https://en.wikipedia.org/wiki/hero) [archetype](https://en.wikipedia.org/wiki/archetype)'s journey and transformation through many traditional mythologies of the world. In the process, it uses many of the theories of [Carl Jung](https://en.wikipedia.org/wiki/carl-jung), such as the concept of the collective unconscious.
 ![Watts-galahad.jpg](/https://web.archive.org/web/20060725170640im_/http://www.metaweb.com/wiki/upload/9/9f/Watts-galahad.jpg)  
 **Sir Galahad, a prototypical hero**  
 **And Son of Sir Lancelot**
 
-### [Archetype](/http-en-wikipedia-org-wiki-archetype)
+### [Archetype](https://en.wikipedia.org/wiki/archetype)
 
 
 An **archetype** is an original model on which something is patterned or based. The term is often used in literature, architecture and the arts to refer to something that goes back to the fundamentals of the art. [William Shakespeare](/william-shakespeare)'s plays, for example, are held up as containing many archetypal roles because he was the first that we know of to write them.
@@ -57,7 +57,7 @@ The symbols of the unconscious abound in Jungian psychology:
 
 "Archetype" is sometimes broadly and misleadingly used as a substitute for such other words as prototype, stereotype, and epitome. This illustrates the Jungian concept of a complex. Since certain groups of word meanings are closely connected to each other in the mind, to the point of being nearly inseparable, some of those meanings may migrate from the most apt words to other related words. 
 
-*The Hero with a Thousand Faces* has been cited as an inspiration by many students, filmmakers (most notably [George Lucas](/http-en-wikipedia-org-wiki-george-lucas)), novelists, and comic book creators.![Icarus-and-DadMW.jpg](/https://web.archive.org/web/20060725170640im_/http://www.metaweb.com/wiki/upload/3/33/Icarus-and-DadMW.jpg)  
+*The Hero with a Thousand Faces* has been cited as an inspiration by many students, filmmakers (most notably [George Lucas](https://en.wikipedia.org/wiki/george-lucas)), novelists, and comic book creators.![Icarus-and-DadMW.jpg](/https://web.archive.org/web/20060725170640im_/http://www.metaweb.com/wiki/upload/3/33/Icarus-and-DadMW.jpg)  
 **Lord Frederick Leighton's  
 *Daedalus and Icarus***
 
@@ -125,11 +125,11 @@ Daedalus other son was **Iapyx**. Iapyx was Aeneas ' healer during the Trojan Wa
 
 
 * [WikiPedia:Hero](/)
-* [The Joseph Campbell Foundation](/http-www-jcf-org)
+* [The Joseph Campbell Foundation](http://www.jcf.org)
 * ***The Power of Myth*** [ISBN 0385247745](/)
-* [Lord Frederick Leighton](/http-www-artrenewal-org-asp-database-museum-template-asp-artist-14)
-* [PSD](/http-en-wikipedia-org-wiki-posttraumatic-stress-disorder)- QWLM
-* [George Lucas](/http-en-wikipedia-org-wiki-george-lucas)
-* [hero](/http-en-wikipedia-org-wiki-hero)
-* [archetype](/http-en-wikipedia-org-wiki-archetype)
-* [Carl Jung](/http-en-wikipedia-org-wiki-carl-jung)
+* [Lord Frederick Leighton](http://www.artrenewal.org/asp-database-museum-template-asp-artist-14)
+* [PSD](https://en.wikipedia.org/wiki/posttraumatic-stress-disorder)- QWLM
+* [George Lucas](https://en.wikipedia.org/wiki/george-lucas)
+* [hero](https://en.wikipedia.org/wiki/hero)
+* [archetype](https://en.wikipedia.org/wiki/archetype)
+* [Carl Jung](https://en.wikipedia.org/wiki/carl-jung)

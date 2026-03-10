@@ -31,16 +31,16 @@ A Fancy Rat and his treat.
 | --- |
 | [Blackrat.jpg](/blackrat-jpg) |
 | ***Rattus rattus*** |
-| **[Scientific classification](/http-en-wikipedia-org-scientific-classification)** |
+| **[Scientific classification](http://en.wikipedia.org/scientific-classification)** |
 | 
 
 |  |  |
 | --- | --- |
-| [Kingdom](/http-en-wikipedia-org-kingdom-biology): | [Animalia](/http-en-wikipedia-org-animalia) |
-| [Phylum](/http-en-wikipedia-org-phylum-biology): | [Chordata](/http-en-wikipedia-org-chordate) |
-| [Class](/http-en-wikipedia-org-class-biology): | [Mammalia](/http-en-wikipedia-org-mammalia) |
-| [Order](/http-en-wikipedia-org-order-biology): | [Rodentia](/http-en-wikipedia-org-rodentia) |
-| [Family](/http-en-wikipedia-org-family-biology): | [Muridae](/http-en-wikipedia-org-muridae) |
+| [Kingdom](http://en.wikipedia.org/kingdom-biology): | [Animalia](http://en.wikipedia.org/animalia) |
+| [Phylum](http://en.wikipedia.org/phylum-biology): | [Chordata](http://en.wikipedia.org/chordate) |
+| [Class](http://en.wikipedia.org/class-biology): | [Mammalia](http://en.wikipedia.org/mammalia) |
+| [Order](http://en.wikipedia.org/order-biology): | [Rodentia](http://en.wikipedia.org/rodentia) |
+| [Family](http://en.wikipedia.org/family-biology): | [Muridae](http://en.wikipedia.org/muridae) |
 
  |
 
@@ -65,7 +65,7 @@ Like mice, rats (especially albino rattus norvegicus ) are frequently subjects o
 ### Rats as pets
 
 
-In Western countries, many people keep domestic rats as pets. Descendants of rats bred for research, these animals also are called "[fancy rats](/http-en-wikipedia-org-wiki-fancy-rat)," "coloured rats" or "colour rats." Rat fanciers have developed many exotic varieties. Besides ones with unusual colouring, there have been rats bred that have bigger ears, no fur, no tails and oversized hind legs. Domesticated rats tend to be both more docile than their wild ancestors and more disease prone, presumably due to inbreeding.[![Rattus Qwghlmian MW.jpg](/web/20060725170425im_/http://www.metaweb.com/wiki/upload/8/88/Rattus_Qwghlmian_MW.jpg)](rattus-qwghlmian-mw-jpg)  
+In Western countries, many people keep domestic rats as pets. Descendants of rats bred for research, these animals also are called "[fancy rats](https://en.wikipedia.org/wiki/fancy-rat)," "coloured rats" or "colour rats." Rat fanciers have developed many exotic varieties. Besides ones with unusual colouring, there have been rats bred that have bigger ears, no fur, no tails and oversized hind legs. Domesticated rats tend to be both more docile than their wild ancestors and more disease prone, presumably due to inbreeding.[![Rattus Qwghlmian MW.jpg](/web/20060725170425im_/http://www.metaweb.com/wiki/upload/8/88/Rattus_Qwghlmian_MW.jpg)](rattus-qwghlmian-mw-jpg)  
 **A Qwghlmian Super Rat**  
 **it is to a *ship rat* what  
 a grizzley bear is to a brown bear**  
@@ -75,7 +75,7 @@ are a separate species ***Rattus Qwghlmian***
 [evolutionary](/) paths available to an island  
 species  [giganticism](/).
 
-Fancy Rats have been exhibited in Britain for almost a hundred years. The originator of the first true domestic rats was [Jack Black](/http-en-wikipedia-org-wiki-jack-black-rat-catcher), official Rat Catcher and Mole Destroyer by appointment to [Queen Victoria](/http-en-wikipedia-org-wiki-queen-victoria). His rats were bred from rattus norvegicus stock. Pet rats became very popular in the 1970s when the National Fancy Rat Society was founded. Other rat societies have since sprung up in other countries as pet rats have gained in popularity worldwide. 
+Fancy Rats have been exhibited in Britain for almost a hundred years. The originator of the first true domestic rats was [Jack Black](https://en.wikipedia.org/wiki/jack-black-rat-catcher), official Rat Catcher and Mole Destroyer by appointment to [Queen Victoria](https://en.wikipedia.org/wiki/queen-victoria). His rats were bred from rattus norvegicus stock. Pet rats became very popular in the 1970s when the National Fancy Rat Society was founded. Other rat societies have since sprung up in other countries as pet rats have gained in popularity worldwide. 
 
 Pet rats live to around 2-3 years of age. Adult bucks weigh around 500g and adult does around 300g. Rats are naturally social animals, and, as pets, are much happier when kept in single sex pairs rather than on their own. Both bucks and does make good pets.
 
@@ -109,9 +109,9 @@ More recently, rat has become a criminal slang term for a [police](/) [informant
 ### External links
 
 
-* [National Fancy Rat Society](/http-www-nfrs-org)
-* [Rat Fan Club of America](/http-www-ratfanclub-org)
+* [National Fancy Rat Society](http://www.nfrs.org)
+* [Rat Fan Club of America](http://www.ratfanclub.org)
 * [International Rat Fan Club](/http-www-irf-rattenclub-demon-nl-irf-index-2-html)
-* [Australian Rat Fanciers Society](/http-www-ausrfs-org-au)
-* [New Zealand Rat Club](/http-www-ratclub-org)
-* *[ISBN 1-86508-519-7](/) [The Story of Rats: Their Impact on Us, and Our Impact on Them](/http-www-amazon-com-exec-obidos-tg-detail-1865085197-qid-1076900322-sr-11-1-ref-sr-11-1-104-8931055-5532701-v-glance-s-books-product-details)*, S. Anthony Barnett, Allen & Unwin, Crows Nest, NSW, Australia, 2002, trade paperback, 202 pages, Monograph by an experienced "rat" man. Nice bibliography.
+* [Australian Rat Fanciers Society](http://www.ausrfs.org/au)
+* [New Zealand Rat Club](http://www.ratclub.org)
+* *[ISBN 1-86508-519-7](/) [The Story of Rats: Their Impact on Us, and Our Impact on Them](http://www.amazon.com/exec-obidos-tg-detail-1865085197-qid-1076900322-sr-11-1-ref-sr-11-1-104-8931055-5532701-v-glance-s-books-product-details)*, S. Anthony Barnett, Allen & Unwin, Crows Nest, NSW, Australia, 2002, trade paperback, 202 pages, Monograph by an experienced "rat" man. Nice bibliography.

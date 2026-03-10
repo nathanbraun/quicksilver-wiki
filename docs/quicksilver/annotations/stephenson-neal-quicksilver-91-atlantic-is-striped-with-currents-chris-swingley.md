@@ -9,8 +9,8 @@ At the point when Waterhouse is making these measurements, several studies of oc
 
 For more information, consult:
 
-[Ben Franklin and the Gulf Stream](/http-podaac-jpl-nasa-gov-kids-history-html)  
+[Ben Franklin and the Gulf Stream](http://podaac.jpl.nasa.gov/kids-history.html)  
 
-[Benjamin Franklin and the Gulf Stream](/http-www-oceansonline-com-ben-franklin-htm)  
+[Benjamin Franklin and the Gulf Stream](http://www.oceansonline.com/ben-franklin.htm)  
 
 Henry Stommel. 1950. "The Gulf Stream: A Brief History of the Ideas Concerning Its Cause". The Scientific Monthly LXX(4): 242-253.

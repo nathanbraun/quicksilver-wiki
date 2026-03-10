@@ -7,7 +7,7 @@ This is a [Quicksilver](/quicksilver) page on the **Rossignols**
 ### Stephensonia
 
 
-*[Susanna](/http-www-pepysdiary-com-archive-1660-04-25-index-php): I hope for Pepys sake that his cipher was a good one, although I doubt it was as cleverly nasty as the Great Cipher used by Louis XIVs spymasters, Antoine and Bonaventure Rossignol (father and son), which after their deaths (they had not passed its secrets on to anyone else) was not broken until the 1890s. (For more fascinating information about the history cryptography, I recommend The Code Book: the Evolution of Secrecy from Mary Queen of Scots to Quantum Cryptography, by Simon Singh.)*
+*[Susanna](http://www.pepysdiary.com/archive-1660-04-25-index.php): I hope for Pepys sake that his cipher was a good one, although I doubt it was as cleverly nasty as the Great Cipher used by Louis XIVs spymasters, Antoine and Bonaventure Rossignol (father and son), which after their deaths (they had not passed its secrets on to anyone else) was not broken until the 1890s. (For more fascinating information about the history cryptography, I recommend The Code Book: the Evolution of Secrecy from Mary Queen of Scots to Quantum Cryptography, by Simon Singh.)*
 
 ### Authored entries
 
@@ -54,12 +54,12 @@ Antoine Rossignol had the title of "King's counselor". Both Bonaventure and Anto
 
 
 * [Great Cipher](/)
-* [Holly Ingraham's original article](/http-www-hollyi-com)
+* [Holly Ingraham's original article](http://www.hollyi.com)
 * Laffin, John, *Codes and Ciphers: Secret Writing Through The Ages*, London, 1973
-* [A Short History of Cryptography](/http-all-net-books-ip-chap2-1-html)
-* [Paris Math History Sites?](/http-sunsite-utk-edu-math-archives-http-hypermail-historia-jan99-0127-html)
-* [Protection of Information: The Lessons of History](/http-www-danjryan-com-history-html)
-* [INFOSEC and INFOWAR: Considerations for Military Intelligence](/http-www-danjryan-com-mintl-html)
-* [Refining The Art](/http-www-vectorsite-net-ttcode2-html)
-* [ISBN 0385495323](/) Simon Singh [The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography](/http-www-amazon-com-exec-obidos-tg-detail-0385495323-qid-1122957322-sr-8-2-ref-sr-8-xs-ap-i1-xgl14-104-0383565-2342327-v-glance-s-books-n-507846). New York: Anchor Books, 1999.
-* [Codes and Ciphers in History, Part 1 - To 1852](/http-www-smithsrisca-demon-co-uk-crypto-ancient-html) - Copyright Notice: This material was written and published in Wales by Derek J. Smith (Chartered Engineer). It forms part of a multifile e-learning resource, and subject only to acknowledging Derek J. Smith's rights under international copyright law to be identified as author may be freely downloaded and printed off in single complete copies solely for the purposes of private study and/or review. Commercial exploitation rights are reserved. The remote hyperlinks have been selected for the academic appropriacy of their contents; they were free of offensive and litigious content when selected, and will be periodically checked to have remained so. Copyright © 2003-2004, Derek J. Smith (Chartered Engineer).
+* [A Short History of Cryptography](http://all.net/books-ip-chap2-1.html)
+* [Paris Math History Sites?](http://sunsite.utk.edu/math-archives-http-hypermail-historia-jan99-0127.html)
+* [Protection of Information: The Lessons of History](http://www.danjryan.com/history.html)
+* [INFOSEC and INFOWAR: Considerations for Military Intelligence](http://www.danjryan.com/mintl.html)
+* [Refining The Art](http://www.vectorsite.net/ttcode2.html)
+* [ISBN 0385495323](/) Simon Singh [The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography](http://www.amazon.com/exec-obidos-tg-detail-0385495323-qid-1122957322-sr-8-2-ref-sr-8-xs-ap-i1-xgl14-104-0383565-2342327-v-glance-s-books-n-507846). New York: Anchor Books, 1999.
+* [Codes and Ciphers in History, Part 1 - To 1852](http://www.smithsrisca.demon.co.uk/crypto-ancient.html) - Copyright Notice: This material was written and published in Wales by Derek J. Smith (Chartered Engineer). It forms part of a multifile e-learning resource, and subject only to acknowledging Derek J. Smith's rights under international copyright law to be identified as author may be freely downloaded and printed off in single complete copies solely for the purposes of private study and/or review. Commercial exploitation rights are reserved. The remote hyperlinks have been selected for the academic appropriacy of their contents; they were free of offensive and litigious content when selected, and will be periodically checked to have remained so. Copyright © 2003-2004, Derek J. Smith (Chartered Engineer).

@@ -5,7 +5,7 @@ From the Quicksilver Metaweb.
 
 Large map showing the general (presumed) location of Qwghlm.
 
-Based on [Image:United\_Kingdom\_map.png](/http-en-wikipedia-org-wiki-image-united-kingdom-map-png) from Wikipedia.
+Based on [Image:United\_Kingdom\_map.png](https://en.wikipedia.org/wiki/image-united-kingdom-map-png) from Wikipedia.
 
 ## Image history
 

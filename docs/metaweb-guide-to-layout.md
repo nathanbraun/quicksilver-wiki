@@ -94,7 +94,7 @@ If you can, include the ISBN for the most recent edition. The ISBN will automati
 
 Put here, in list form, any web sites that you have used or recommend for readers of the article.
 
-* Yale Style Manual (for web pages): [http://info.med.yale.edu/caim/manual/](/http-info-med-yale-edu-caim-manual)
+* Yale Style Manual (for web pages): [http://info.med.yale.edu/caim/manual/](http://info.med.yale.edu/caim-manual)
 
 
 
@@ -103,4 +103,4 @@ Put here, in list form, any web sites that you have used or recommend for reader
 
 
 
-*This page originally from the [Wikipedia](/http-www-wikipedia-org)*.
+*This page originally from the [Wikipedia](http://www.wikipedia.org)*.

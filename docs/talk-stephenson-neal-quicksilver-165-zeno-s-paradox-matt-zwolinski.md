@@ -36,7 +36,7 @@ Somehow my original comment got zapped -- Peek at [Einstein's Principle of Equiv
 
 The mighty Wikipedia says Zeno. - [Sparky](/user-stsparky) 16:48, 2004 Jan 22 (PST)
 
-### [Zeno's Paradoxes](/http-en2-wikipedia-org-wiki-zeno-s-paradoxes)
+### [Zeno's Paradoxes](https://en.wikipedia.org/wiki/zeno-s-paradoxes)
 
 
 Zeno's paradoxes are a set of paradoxes conceived by Zeno of Elea to support Parmenides's doctrine that all evidence of the senses is misleading, and particularly that there is no motion. 
@@ -52,9 +52,9 @@ In the paradox of Achilles and the tortoise, we imagine the Greek hero Achilles 
 
 In the modern analysis, the paradox is resolved with the fundamental insight of [calculus](/calculus) that a sum of infinitely many terms can yield a finite result. Adding the (infinitely many) times together that Achilles needs to reach the previous positions of the tortoise results in a finite total time, and that is indeed the time when Achilles overtakes the tortoise.
 
-* [Zeno's race course part 1](/http-faculty-washington-edu-smcohen-320-zeno1-htm)
-* [Why Zeno is unsound](/http-faculty-washington-edu-smcohen-320-zeno2-htm)
-* [Zeno's race course part 2](/http-faculty-washington-edu-smcohen-320-zeno3-htm)
+* [Zeno's race course part 1](http://faculty.washington.edu/smcohen-320-zeno1.htm)
+* [Why Zeno is unsound](http://faculty.washington.edu/smcohen-320-zeno2.htm)
+* [Zeno's race course part 2](http://faculty.washington.edu/smcohen-320-zeno3.htm)
 
 
 ### The rock thrown towards a tree
@@ -69,25 +69,25 @@ Finally, in the arrow paradox, we imagine an arrow in flight. At every moment in
 
 This paradox is resolved by [calculus](/calculus) as follows: in the limit, as the length of a moment approaches zero, the instantaneous rate of change or velocity (which is the quotient of distance over length of the moment) does not have to approach zero. This nonzero limit is the velocity of the arrow at the instant. 
 
-* [Zeno's Arrow](/http-faculty-washington-edu-smcohen-320-zenoarrow-html)
-* [Zeno's Arrow applied to Atomism](/http-faculty-washington-edu-smcohen-320-atomism-htm-arrow) -- *Zenos argument that an (apparently) moving arrow is really at rest throughout its flight seems easy to evade if one insists that space is continuous (and hence infinitely divisible).  But an atomist who insists on theoretically indivisible atoms seems bound to deny that space is infinitely divisible. And Zenos Arrow Paradox poses an especially troubling problem for such an atomist....*
+* [Zeno's Arrow](http://faculty.washington.edu/smcohen-320-zenoarrow.html)
+* [Zeno's Arrow applied to Atomism](http://faculty.washington.edu/smcohen-320-atomism-htm-arrow) -- *Zenos argument that an (apparently) moving arrow is really at rest throughout its flight seems easy to evade if one insists that space is continuous (and hence infinitely divisible).  But an atomist who insists on theoretically indivisible atoms seems bound to deny that space is infinitely divisible. And Zenos Arrow Paradox poses an especially troubling problem for such an atomist....*
 
 
 ### External links
 
 
-* [Philosophy Encyclopedia - Zeno](/http-plato-evansville-edu-public-burnet-ch8a-htm)
-* [Internet Encyclopedia - Zeno](/http-www-utm-edu-research-iep-z-zenoelea-htm)
-* [Zeno](/http-www-mathacademy-com-pr-prime-articles-zeno-tort-index)
-* [Stanford Encyclopedia of Philosophy](/http-plato-stanford-edu)]
-* [S. Marc Cohen - whose lectures appear below](/http-faculty-washington-edu-smcohen)
-* [Zeno's race course part 1](/http-faculty-washington-edu-smcohen-320-zeno1-htm)
-* [Why Zeno is unsound](/http-faculty-washington-edu-smcohen-320-zeno2-htm)
-* [Zeno's race course part 2](/http-faculty-washington-edu-smcohen-320-zeno3-htm)
-* [Zeno's Arrow](/http-faculty-washington-edu-smcohen-320-zenoarrow-html)
-* [Zeno's Arrow applied to Atomism](/http-faculty-washington-edu-smcohen-320-atomism-htm-arrow)
+* [Philosophy Encyclopedia - Zeno](http://plato.evansville.edu/public-burnet-ch8a.htm)
+* [Internet Encyclopedia - Zeno](http://www.utm.edu/research-iep-z-zenoelea.htm)
+* [Zeno](http://www.mathacademy.com/pr-prime-articles-zeno-tort-index)
+* [Stanford Encyclopedia of Philosophy](http://plato.stanford.edu)]
+* [S. Marc Cohen - whose lectures appear below](http://faculty.washington.edu/smcohen)
+* [Zeno's race course part 1](http://faculty.washington.edu/smcohen-320-zeno1.htm)
+* [Why Zeno is unsound](http://faculty.washington.edu/smcohen-320-zeno2.htm)
+* [Zeno's race course part 2](http://faculty.washington.edu/smcohen-320-zeno3.htm)
+* [Zeno's Arrow](http://faculty.washington.edu/smcohen-320-zenoarrow.html)
+* [Zeno's Arrow applied to Atomism](http://faculty.washington.edu/smcohen-320-atomism-htm-arrow)
 
-This [Frank & Ernest cartoon](/http-faculty-washington-edu-smcohen-320-zenof-e-gif) may help in understanding when Zeno is practical for humans.
+This [Frank & Ernest cartoon](http://faculty.washington.edu/smcohen-320-zenof-e.gif) may help in understanding when Zeno is practical for humans.
 
 
 
@@ -115,7 +115,7 @@ as soon as the distance becomes an unknown, the point of orgin, or destination l
 
 Damn, it's fun to think about these things.
 
-* [Zeno](/http-www-mathacademy-com-pr-prime-articles-zeno-tort-index)
+* [Zeno](http://www.mathacademy.com/pr-prime-articles-zeno-tort-index)
 
 
 
@@ -126,6 +126,6 @@ Zeno may be saying you can't cross the river in the same place twice. - [Sparky]
 
 Actually the Greeks had some bits of what we would today call the calculus, although not as a unified system.
 Eudoxus developed the method of exhaustion, that permits finding areas and volumes, integral-calculus-style. Archimedes did a lot of "practical" work on this line to apply the method to specific cases.
-Check out for example [http://www.nationmaster.com/encyclopedia/History-of-calculus](/http-www-nationmaster-com-encyclopedia-history-of-calculus)
+Check out for example [http://www.nationmaster.com/encyclopedia/History-of-calculus](http://www.nationmaster.com/encyclopedia-history-of-calculus)
 I can't find evidence of differential calculus in ancient Greece, but I believe I've read something of the sort somwhere, just can't find it now. At any rate, the use of integrative methods shows some insight into the ideas of infinity and the problem of the continuum sufficient to deal with the paradoxes in question.
 [213.60.77.115](/user-213-60-77-115) 20:36, 23 Feb 2006 (PST)

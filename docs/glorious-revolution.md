@@ -46,7 +46,7 @@ A conspiracy was launched to depose James and replace him with his daughter Mary
 
 Aside: **The War of the Grand Alliance** (War of the League of Augsburg or the Nine Years War) was a war which lasted from 1688 to 1697. The war was fought between France and the League of Augsburg (which, by 1689, was known as the "Grand Alliance"). France had expected assistance from England, during this war; but, after the Glorious Revolution (1689) -- England sided with the League of Augsburg, thus forming the Grand Alliance. This war was fought, not only in Europe, but also in North America; where it is known as King William's War. The period was marked by famine and recession. The war was ended by the Treaty of Ryswick (1697). 
 
-Historians like H.A.L. Fisher wax about how wonderful the Glorious Revolution was -- forgetting it was an invasion -- and a really big invasion at that.[[1]](/http-en-wikipedia-org-wiki-david-lloyd-george)
+Historians like H.A.L. Fisher wax about how wonderful the Glorious Revolution was -- forgetting it was an invasion -- and a really big invasion at that.[[1]](https://en.wikipedia.org/wiki/david-lloyd-george)
 
 In 1689, the Convention Parliament convened and declared that James' flight amounted to abdication. William and Mary were offered the throne as joint rulers, an arrangement which they accepted. Despite an uprising in support of James in Scotland, the first Jacobite rebellion, and in Ireland where James used local Catholic feeling to try to regain the throne in 1689-1690, the revolution was remarkably bloodless. It can thus be seen as much more of a coup d'état than an authentic revolution. England stayed calm throughout, the uprising in the Scottish Highlands was quelled despite the Jacobite victory at the Battle of Killiecrankie, and James was expelled from Ireland following the Battle of the Boyne. 
 
@@ -69,5 +69,5 @@ The success of the Glorious Revolution came three years after the failure of the
 ### Footnotes & External links
 
 
-1. [David Lloyd George, 1st Earl Lloyd George of Dwyfor, Prime Minister of the United Kingdom 1916-1922](/http-en-wikipedia-org-wiki-david-lloyd-george) H.A.L. Fisher - President of the Board of Education in George's 2nd Government
-* [Another bio of James II and presentation of his Jacobite heritage until the 21st Century](/http-members-rogers-com-jacobites-kings-james2-htm)
+1. [David Lloyd George, 1st Earl Lloyd George of Dwyfor, Prime Minister of the United Kingdom 1916-1922](https://en.wikipedia.org/wiki/david-lloyd-george) H.A.L. Fisher - President of the Board of Education in George's 2nd Government
+* [Another bio of James II and presentation of his Jacobite heritage until the 21st Century](http://members.rogers.com/jacobites-kings-james2.htm)

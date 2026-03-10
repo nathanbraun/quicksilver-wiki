@@ -7,7 +7,7 @@ Placeholder for **GUI**
 ### Stephensonia
 
 
-*["In the Beginning, was the Command Line"](/http-www-spack-org-index-cgi-inthebeginningwasthecommandline) By [Neal Stephenson](/user-nealstephenson) A brief and gentle introduction to the difference between command line interfaces and GUIs generally, and specifically between Windows and the Linux shells. Written by a novelist, non-technical, and often amusing.*
+*["In the Beginning, was the Command Line"](http://www.spack.org/index-cgi-inthebeginningwasthecommandline) By [Neal Stephenson](/user-nealstephenson) A brief and gentle introduction to the difference between command line interfaces and GUIs generally, and specifically between Windows and the Linux shells. Written by a novelist, non-technical, and often amusing.*
 
 ### Authored entries
 
@@ -38,9 +38,9 @@ Because GUIs and TUIs tend to show most or all relevant categories of commands o
 ### See also:
 
 
-* **[History of the GUI](/http-en2-wikipedia-org-wiki-history-of-the-gui)**
-* **[UIML](/http-en2-wikipedia-org-wiki-uiml)**
-* **[Fitts' law](/http-en-wikipedia-org-wiki-fitts-law)**
-* **[Alan Kay](/http-en2-wikipedia-org-wiki-alan-kay)** "The best way to predict the future is to invent it!" Inventor of SmallTalk
-* **[Anti-Mac](/http-en2-wikipedia-org-wiki-anti-mac)** The **Anti-Mac** is a hypothetical computer user interface that is not tied to the conventions of the Apple Macintosh graphical user interface. The term comes from an essay by Don Gentner and Jakob Nielsen.
-* **[Apple v. Microsoft](/http-en2-wikipedia-org-wiki-apple-v-microsoft)**
+* **[History of the GUI](https://en.wikipedia.org/wiki/history-of-the-gui)**
+* **[UIML](https://en.wikipedia.org/wiki/uiml)**
+* **[Fitts' law](https://en.wikipedia.org/wiki/fitts-law)**
+* **[Alan Kay](https://en.wikipedia.org/wiki/alan-kay)** "The best way to predict the future is to invent it!" Inventor of SmallTalk
+* **[Anti-Mac](https://en.wikipedia.org/wiki/anti-mac)** The **Anti-Mac** is a hypothetical computer user interface that is not tied to the conventions of the Apple Macintosh graphical user interface. The term comes from an essay by Don Gentner and Jakob Nielsen.
+* **[Apple v. Microsoft](https://en.wikipedia.org/wiki/apple-v-microsoft)**

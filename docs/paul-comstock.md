@@ -19,7 +19,7 @@ The [Cryptonomicon](/cryptonomicon) page for the **Comstock family**
 
 
 Ben Aris in Berlin and Duncan Campbell in Washington Saturday September 25, 2004:
-[How Bush's Grandfather Helped Hitler's Rise to Power](/http-www-guardian-co-uk-usa-story-0-12271-1312540-00-html): "Rumors of a link between the US first family and the Nazi war machine have circulated for decades. Now the Guardian can reveal how repercussions of events that culminated in action under the Trading with the Enemy Act are still being felt by today's president.
+[How Bush's Grandfather Helped Hitler's Rise to Power](http://www.guardian.co.uk/usa-story-0-12271-1312540-00.html): "Rumors of a link between the US first family and the Nazi war machine have circulated for decades. Now the Guardian can reveal how repercussions of events that culminated in action under the Trading with the Enemy Act are still being felt by today's president.
 
 George Bush's grandfather, the late US senator Prescott Bush, was a director and shareholder of companies that profited from their involvement with the financial backers of Nazi Germany.
 
@@ -43,7 +43,7 @@ In the 19th century, the smuggling of opium to [China](/) from [India](/), parti
 There were no legal restrictions on the importation or use of opium in the [WikiPedia:United States](/) until the [Harrison Narcotics Tax Act](/) of [1914](/). Medicines often contained opium without any warning label. Today, there are numerous national and international laws governing the production and distribution of [narcotic](/) substances. Its pharmaceutical use is strictly controlled worldwide and non-pharmaceutical uses are generally prohibited. Opium was grown in back yards of Chinese People during the Wang Chung Dynasty.
 
 
-* [Was President Bush's great-grandfather a Nazi?](/http-www-straightdope-com-columns-030214-html)
-* [Bush - Nazi Link Confirmed](/http-www-nhgazette-com-articles-nn-bush-nazi-link-html)
-* [- Bush - Nazi Dealings Continued Until 1951 - Federal Documents](/http-www-nhgazette-com-cgi-bin-nhgstore-cgi-user-action-detail-catalogno-nn-bush-nazi-2)
-* [THE BUSH NAZI CONNECTION](/http-www-lpdallas-org-features-draheim-dr991216-htm)
+* [Was President Bush's great-grandfather a Nazi?](http://www.straightdope.com/columns-030214.html)
+* [Bush - Nazi Link Confirmed](http://www.nhgazette.com/articles-nn-bush-nazi-link.html)
+* [- Bush - Nazi Dealings Continued Until 1951 - Federal Documents](http://www.nhgazette.com/cgi-bin-nhgstore-cgi-user-action-detail-catalogno-nn-bush-nazi-2)
+* [THE BUSH NAZI CONNECTION](http://www.lpdallas.org/features-draheim-dr991216.htm)

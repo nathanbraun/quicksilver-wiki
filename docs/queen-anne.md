@@ -53,4 +53,4 @@ From 1702 to 1712, Queen Annes War -- the second of the French and Indian Wars
 ### External links
 
 
-* [A short profile of Anne alongside other influential women of her time](/http-www-guide2womenleaders-com-womeninpower-womeninpower1700-htm)
+* [A short profile of Anne alongside other influential women of her time](http://www.guide2womenleaders.com/womeninpower-womeninpower1700.htm)

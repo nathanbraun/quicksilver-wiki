@@ -33,7 +33,7 @@ Features/abilities covered in canon:
 * When the plates are on, the person appears nearly twice their normal size.
 * The suit contains several weapon barrels on each forearm. [![jumping kiddies of righteous harmony](/web/20060725171326im_/http://www.metaweb.com/wiki/upload/6/61/Group_jump.jpg)](jumping-kiddies-of-righteous-harmony)  
 **Future [Fists of Righteous Harmony](/)?**  
-Just some kids jumping around on [Powerisers(tm)](/http-www-superdairyboy-com-poweriser-html).
+Just some kids jumping around on [Powerisers(tm)](http://www.superdairyboy.com/poweriser.html).
 
 
 * The suit enhances the strength of the wearer, possibly significantly. In the latter part of the book, [Fists](/) wearing Hoplite Armor leap from ground level into the third-storey window of a hotel. Weather this is due to the suit's strength-enhancing power or jet boosters of some kind is open to conjecture.
@@ -61,7 +61,7 @@ Another Exo prototype
 
 
 In the early 2000s a number of companies and research centres developed the first practical models of human exoskeletons. One of the main uses is enabling a soldier to carry heavy weights (50100 kg) while running or climbing stairs. Most models use a hydraulic system controlled by an on-board computer. They can be powered by an internal combustion engine, batteries or, potentially, fuel cells. Another area of application is medical care, nursing in particular. Faced with the impending shortage of medical professionals and the increasing number of people in elderly care, several teams of Japanese engineers have developed exoskeletons designed to help nurses lift and carry patients.
-[Commercially-available exoskeletons](/http-www-newscientist-com-article-ns-id-mg18624945-800) are expected by the end of 2005.
+[Commercially-available exoskeletons](http://www.newscientist.com/article-ns-id-mg18624945-800) are expected by the end of 2005.
 In the future exoskeletons are expected to become widely used by the military and police in the form of nanotechnological combat clothes. Civilian uses will no doubt be found later. However they will have to compete for adoption with another approach  surgically and genetically enhancing the human body itself by use of artificial bones and muscles.
 
 #### Human exoskeletons in science fiction
@@ -92,7 +92,7 @@ Armor is as old as war, from leather hide, shell, wood/bamboo armor, to bronze a
 
 During WWII, bomber flight crews started wearing 'flak jackets' to protect against shrapnel from exploding flak anti-aircraft artillery warheads. Steel wire was woven and layered with cotton or other fibers. They were very bulky and limited mobility, which was alright in the fuselage of a bomber. While ground infantry wore steel and bakelite helmets, they were not very effective beyond protecting against minor shrapnel. A direct hit to a helmetted head was still commonly a fatal wound.
 
-With the advent of synthetic materials, particularly the invention of Kevlar by the [DuPont De Nemours](/http-www-dupont-com) company, the bulkiness of body armor was reduced such that ground infantry could carry them on patrols with regularity, although special forces troops tended to shun them for the movement noise and remaining hindrance to physical dexterity. Today kevlar body armor is commonly used by policemen on duty and most military infantry units. Further armoring, with ceramic plates for the torso, are now also common.
+With the advent of synthetic materials, particularly the invention of Kevlar by the [DuPont De Nemours](http://www.dupont.com) company, the bulkiness of body armor was reduced such that ground infantry could carry them on patrols with regularity, although special forces troops tended to shun them for the movement noise and remaining hindrance to physical dexterity. Today kevlar body armor is commonly used by policemen on duty and most military infantry units. Further armoring, with ceramic plates for the torso, are now also common.
 
 #### Beyond Kevlar
 
@@ -101,9 +101,9 @@ With the advent of synthetic materials, particularly the invention of Kevlar by 
 **Armor Today**
 Kevlar is by far the most common fiber used to make body armor, but other materials are being developed. The most readily available alternative fiber is called Vectran, which is approximately twice as strong as Kevlar. Vectran is 5 to 10 times stronger than steel. 
 
-Another rapidly emerging fiber is [spider silk](/http-www-moaa-org-magazine-january2003-f-superwarriors-asp). Yes, spider silk. Goats have been genetically engineered to produce the chemical constituents of spider silk, and the resulting material is called Biosteel. A strand of Biosteel can be up to 20 times stronger than an equivalent strand of steel. 
+Another rapidly emerging fiber is [spider silk](http://www.moaa.org/magazine-january2003-f-superwarriors.asp). Yes, spider silk. Goats have been genetically engineered to produce the chemical constituents of spider silk, and the resulting material is called Biosteel. A strand of Biosteel can be up to 20 times stronger than an equivalent strand of steel. 
 
-Another candidate is carbon nanotubes, which promise to be even stronger than spider silk. Carbon nanotube thread is still rare, and fabric is even rarer. [CNet reports](/http-news-com-com-2009-7337-5091267-html) the current price of nanotubes at $500/gram. In time, prices should fall and make carbon nanotubes a viable fiber for body armor. 
+Another candidate is carbon nanotubes, which promise to be even stronger than spider silk. Carbon nanotube thread is still rare, and fabric is even rarer. [CNet reports](http://news.com/com-2009-7337-5091267.html) the current price of nanotubes at $500/gram. In time, prices should fall and make carbon nanotubes a viable fiber for body armor. 
 
 Question: *But won't that run into problems with additional heat conductivity, requiring every wearer to wear Nomex over it to avert a catastrophic reaction to catching on fire?*
 Answer: There will be a sophisticated heat cycling system capturing the heat to power the batteries. Nanotubes will likely be woven in lattice structures that have been proven capable of converting a large percent (50%+) of quanta of thermal energy to electricity.
@@ -113,7 +113,7 @@ It is carbon nanotubes which will most likely be the armor technology of the Hop
 ## External Links
 
 
-* [UC Berkeley Lowerbody Exoskeleton](/http-www-berkeley-edu-news-media-releases-2004-03-03-exo-shtml)
-* [BLEEX Project Home Page](/http-bleex-me-berkeley-edu-bleex-htm)
-* [Bionic suit offers wearers super-strength](/http-www-newscientist-com-article-ns-id-mg18624945-800)
-* [Black Armor](/http-www-blackarmor-com-vest-tactical-htm)
+* [UC Berkeley Lowerbody Exoskeleton](http://www.berkeley.edu/news-media-releases-2004-03-03-exo-shtml)
+* [BLEEX Project Home Page](http://bleex.me.berkeley.edu/bleex.htm)
+* [Bionic suit offers wearers super-strength](http://www.newscientist.com/article-ns-id-mg18624945-800)
+* [Black Armor](http://www.blackarmor.com/vest-tactical.htm)

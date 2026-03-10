@@ -33,7 +33,7 @@ Pat - the porn spambot is getting worse. Can you notify the various ISPs the jer
 
  In preparation for starting WikiMinion's evaluation period on Monday, this morning I had WikiMinion do a "passive" check of the existing pages listed in [Special:Allpages](/special-allpages) for spam (normally WikiMinion only checks new edits). WikiMinion only found four pages with spam: [Drive](/drive), [Drake](/drake), [Jean-Jacques\_Rousseau](/jean-jacques-rousseau), and [Vandalism\_Archive\_2005-03-29](/vandalism-archive-2005-03-29). I see that [User:Stsparky](/user-stsparky) has already deleted the first two. The last isn't actually spam - it's just a discussion of spammers using live links. I'm going to neuter those live links, no reason to give spammers the benefit of Metaweb's PageRank. --[RichardP](/user-richardp) 12:38, 24 Jul 2005 (PDT)
 
- As of this morning, WikiMinion is now periodically visiting Metaweb and reverting spam edits. See WikiMinion's [user contributions](/http-www-metaweb-com-wiki-wiki-phtml-title-special-contributions-target-wikiminion) to examine a list of reverts performed by WikiMinion. --[RichardP](/user-richardp) 07:05, 25 Jul 2005 (PDT)
+ As of this morning, WikiMinion is now periodically visiting Metaweb and reverting spam edits. See WikiMinion's [user contributions](http://www.metaweb.com/wiki-wiki-phtml-title-special-contributions-target-wikiminion) to examine a list of reverts performed by WikiMinion. --[RichardP](/user-richardp) 07:05, 25 Jul 2005 (PDT)
 
  Thanks, Richard. I'm keeping my fingers crossed that it works out well. One note for admins reading this -- when WikiMinion reverts spam, we'll still need to consider blocking the IP address. --[Pat](/user-patrick-tufts) 10:04, 25 Jul 2005 (PDT)
 
@@ -56,7 +56,7 @@ WikiMinion has no trouble with non-roman characters. For example, for the spam e
 ---
 
 
-Hi, please have a look at [http://www.metaweb.com/wiki/wiki.phtml?title=Stephenson:Neal:Cryptonomicon:401:HEAP%3F(Alan\_Sinder)](/http-www-metaweb-com-wiki-wiki-phtml-title-stephenson-neal-cryptonomicon-401-heap-3f-alan_sinder) and revert the pr0n spam changes. I don't know how to backout a complete commit within a wiki ...
+Hi, please have a look at [http://www.metaweb.com/wiki/wiki.phtml?title=Stephenson:Neal:Cryptonomicon:401:HEAP%3F(Alan\_Sinder)](http://www.metaweb.com/wiki-wiki-phtml-title-stephenson-neal-cryptonomicon-401-heap-3f-alan_sinder) and revert the pr0n spam changes. I don't know how to backout a complete commit within a wiki ...
 
  Done. And, see [Revert](/revert). - [Pronoiac](/user-pronoiac)
 
@@ -126,14 +126,14 @@ Curious if TiddleyWiki is something we could use here. I was working on another 
 
  I haven't used TiddleyWiki. What do you like about it? (and an ever-present soft towel is your friend) --[Pat](/user-patrick-tufts) 08:59, 23 Feb 2006 (PST)
 
- [TiddlyWiki](/http-www-tiddlywiki-com) example: [The Tough Guide to the Singularity](/http-www-accelerando-org-static-toughguide-html). It's nifty, I could use it as a personal wiki, and it has features I would love to incorporate into another wiki, but as it is, it scales badly... - [Pronoiac](/user-pronoiac) 10:27, 23 Feb 2006 (PST)
+ [TiddlyWiki](http://www.tiddlywiki.com) example: [The Tough Guide to the Singularity](http://www.accelerando.org/static-toughguide.html). It's nifty, I could use it as a personal wiki, and it has features I would love to incorporate into another wiki, but as it is, it scales badly... - [Pronoiac](/user-pronoiac) 10:27, 23 Feb 2006 (PST)
 
 ## Royal Society Minutes
 
 
 PATRICK! We need Neal to be a WHITE KNIGHT. Please read:
 
-[[1]](/http-www-guardian-co-uk-science-story-0-1705687-00-html)
+[[1]](http://www.guardian.co.uk/science-story-0-1705687-00.html)
 
 If you would please forward this information as immediately as possible to Neal. 
 
@@ -151,7 +151,7 @@ We're being clobbered by specific spammers who leave spoor. Can they be blocked?
 ### Spamming
 
 
-You seem to have a serious spamming problem. At Wikinfo we put in a blacklist which keeps many spam addresses from being saved. See [http://wikinfo.org/wiki.php?title=GetWiki:Blacklist](/http-wikinfo-org-wiki-php-title-getwiki-blacklist) Contact Proteus at Wikinfo User talk:Proteus there at Wikinfo, maybe he can help you set this up. [Fred Bauder](/user-fred-bauder) 18:08, 19 Jun 2006 (PDT) (Fred Bauder)
+You seem to have a serious spamming problem. At Wikinfo we put in a blacklist which keeps many spam addresses from being saved. See [http://wikinfo.org/wiki.php?title=GetWiki:Blacklist](http://wikinfo.org/wiki-php-title-getwiki-blacklist) Contact Proteus at Wikinfo User talk:Proteus there at Wikinfo, maybe he can help you set this up. [Fred Bauder](/user-fred-bauder) 18:08, 19 Jun 2006 (PDT) (Fred Bauder)
  Pat? Will that work? - [Sparky](/user-stsparky) 13:58, 2006 Jun 22 (PDT)
 ### Any guidelines
 

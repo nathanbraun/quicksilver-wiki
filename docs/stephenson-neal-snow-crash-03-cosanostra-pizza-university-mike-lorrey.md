@@ -55,9 +55,9 @@ your neighborhood Godfather's
 Pizza some time soon."*
 In the world of [Snow Crash](/snow-crash), pizza is one of the four industries which Americans still excel at better than anybody in the world following the massive offshoring of US industry. The novel opens upon a scene of one pizza deliveryman, [Hiro Protagonist](/hiro-protagonist), aka "The Deliverator", whose mission in life is to keep the sacred personal contract between [Uncle Enzo](/uncle-enzo) and his customers to deliver his pizzas within 30 minutes or it's free.
 
-Our two protagonists meet when one, [YT](/yt), a [plank](/http-www-gizmag-com-go-3603) Kourier with [RadiKS](/radiks), harpoons The Deliverator on a high speed run to deliver a pizza picked up at a ripe old age of 12 minutes. The resulting high speed hijinks ensure Hiro's exit from the pizza business (and into his other side-line as a [CIC](/cic) intelligence stringer that will land him in the middle of the plot of the novel) while YT's positive performance in keeping Uncle Enzo's covenant endear her to the old geezer.
+Our two protagonists meet when one, [YT](/yt), a [plank](http://www.gizmag.com/go-3603) Kourier with [RadiKS](/radiks), harpoons The Deliverator on a high speed run to deliver a pizza picked up at a ripe old age of 12 minutes. The resulting high speed hijinks ensure Hiro's exit from the pizza business (and into his other side-line as a [CIC](/cic) intelligence stringer that will land him in the middle of the plot of the novel) while YT's positive performance in keeping Uncle Enzo's covenant endear her to the old geezer.
 
-CosaNostra Pizza was likely inspired by the real life franchise chain (with outlets in 40 US states) known as "[Godfather's Pizza](/http-www-godfathers-com-home-godfather-appearances)", which features as a corporate mascot a fedora and double breasted suit clad gentleman with a twisted nose and a wise guy accent who promises delivery "or else". The Godfather promotes on his website his various efforts in good corporate citizenship, helping improve communities and educate kids, just like the [Our Thing Foundation](/our-thing-foundation). One wonders if NS was ever a Deliverator for the Godfather... fuggitaboutit....
+CosaNostra Pizza was likely inspired by the real life franchise chain (with outlets in 40 US states) known as "[Godfather's Pizza](http://www.godfathers.com/home-godfather-appearances)", which features as a corporate mascot a fedora and double breasted suit clad gentleman with a twisted nose and a wise guy accent who promises delivery "or else". The Godfather promotes on his website his various efforts in good corporate citizenship, helping improve communities and educate kids, just like the [Our Thing Foundation](/our-thing-foundation). One wonders if NS was ever a Deliverator for the Godfather... fuggitaboutit....
 
 ### Nova Sicilia Corporate Policy
 
@@ -96,4 +96,4 @@ The result is that corporate growth rates and productivity per worker drop, midd
 ### External Links
 
 
-* [Godfather's Pizza](/http-www-godfathers-com-home-godfather-appearances)
+* [Godfather's Pizza](http://www.godfathers.com/home-godfather-appearances)

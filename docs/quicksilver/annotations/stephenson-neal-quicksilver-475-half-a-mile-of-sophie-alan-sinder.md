@@ -9,7 +9,7 @@ The [Quicksilver](/quicksilver) page for **Sophie of Hannover**
 
 *She ennobled [the Doctor](/gottfried-wilhelm-von-leibniz) so she could have a decent conversation once in a while.*
 
-### [Wikipedia: Sophia of Hanover](/http-en-wikipedia-org-wiki-sophia-of-hanover)
+### [Wikipedia: Sophia of Hanover](https://en.wikipedia.org/wiki/sophia-of-hanover)
 
 ![Sophia_of_Hanover.jpg](http://upload.wikimedia.org/wikipedia/en/9/9b/Sophia_of_Hanover.jpg)  
 

@@ -21,13 +21,13 @@ This is the [Baroque Cycle](/baroque-cycle)'s [The System of the World](/the-sys
 * [Treaties terminating wars](/treaties-terminating-wars) - One of Daniel's Logic Mill Cards
 
 
-### [Wikipedia: George Frideric Handel](/http-en-wikipedia-org-wiki-george-frideric-handel)
+### [Wikipedia: George Frideric Handel](https://en.wikipedia.org/wiki/george-frideric-handel)
 
 
 
-**George Frideric Handel** (German Georg Friedrich Händel), (February 23, 1685 - April 14, 1759) was a German-born British Baroque music composer. His best-known work is *[Messiah](/http-en-wikipedia-org-wiki-messiah-handel)*, an oratorio set to texts from the King James Bible. It is customarily performed at Christmas time.
+**George Frideric Handel** (German Georg Friedrich Händel), (February 23, 1685 - April 14, 1759) was a German-born British Baroque music composer. His best-known work is *[Messiah](https://en.wikipedia.org/wiki/messiah-handel)*, an oratorio set to texts from the King James Bible. It is customarily performed at Christmas time.
 ![210px-Handel.jpg](/images/210px-Handel.jpg)  
- **[George Frideric Handel](/http-upload-wikimedia-org-wikipedia-en-5-5d-handel-jpg)  
+ **[George Frideric Handel](http://upload.wikimedia.org/wikipedia-en-5-5d-handel.jpg)  
 Close to [Queen Anne](/queen-anne)  
 and the Hanovers**
 
@@ -39,7 +39,7 @@ After his death, Handel's Italian operas fell into obscurity, save the odd fragm
 
 Since the 1960s, with the revival of interest in baroque music and original instrument playing styles, interest has revived in Handel's Italian operas, and many have been recorded and performed onstage. Of the fifty he wrote between 1705 and 1738, *Alcina* (1735), *Ariodante* (1735), *Orlando* (1733), *Rinaldo* (1711, 1731), *Rodelinda* (1725), and *Serse* (also known as Xerxes) (1738) stand out and are now performed regularly in opera houses and concert halls. Arguably the finest, however, is *Giulio Cesare* (1724) which, thanks to its superb orchestral and vocal writing, has entered the mainstream opera repertoire.
 
-Also revived in recent years are a number of secular cantatas and what one might call secular oratorios or concert operas, Of the former, Ode for St, Cecilia's Day (1739) (set to texts of John Dryden) and ***[Ode for the Birthday of Queen Anne](/http-en-wikipedia-org-wiki-ode-for-the-birthday-of-queen-anne)*** (1713) are particularly noteworthy, a secular canata composed to a libretto by Ambrose Philips (1674-1749), and first performed in 1713, shortly after Handel took up residence in Britain. The cantata celebrates Queen Anne's birthday. Each stanza of the cantata concludes:
+Also revived in recent years are a number of secular cantatas and what one might call secular oratorios or concert operas, Of the former, Ode for St, Cecilia's Day (1739) (set to texts of John Dryden) and ***[Ode for the Birthday of Queen Anne](https://en.wikipedia.org/wiki/ode-for-the-birthday-of-queen-anne)*** (1713) are particularly noteworthy, a secular canata composed to a libretto by Ambrose Philips (1674-1749), and first performed in 1713, shortly after Handel took up residence in Britain. The cantata celebrates Queen Anne's birthday. Each stanza of the cantata concludes:
 
 The day that gave great Anne birth
 Who fixed a lasting peace on Earth.

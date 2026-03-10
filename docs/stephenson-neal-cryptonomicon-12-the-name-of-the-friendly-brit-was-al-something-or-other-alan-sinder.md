@@ -31,7 +31,7 @@ The [Cryptonomicon](/cryptonomicon) page for **Alan Turing**
 ### Wikipedia: Alan Turing
 
 
-**Alan Mathison Turing** (June 23, 1912 - June 7, 1954) was a British mathematician and is considered to be one of the fathers of modern computer science. He provided an influential formalisation of the concept of [algorithm](/http-en-wikipedia-org-wiki-algorithm) and computation: the [Turing machine](/http-en-wikipedia-org-wiki-turing-machine). He formulated the now widely accepted [Church-Turing thesis](/http-en-wikipedia-org-wiki-church-turing-thesis), namely that every other practical computing model had either the equivalent or a subset of the capabilities of a Turing machine. During [World War II](/http-en-wikipedia-org-wiki-world-war-ii) he headed a successful effort of breaking the German secret code. After the war, he worked with one of the earliest digital computers, and later he provided a provocative contribution to the discussion ***[Can machines think?](/http-en-wikipedia-org-wiki-digital-sentience)***![Alan_Turing.jpg](/images/Alan_Turing.jpg)  
+**Alan Mathison Turing** (June 23, 1912 - June 7, 1954) was a British mathematician and is considered to be one of the fathers of modern computer science. He provided an influential formalisation of the concept of [algorithm](https://en.wikipedia.org/wiki/algorithm) and computation: the [Turing machine](https://en.wikipedia.org/wiki/turing-machine). He formulated the now widely accepted [Church-Turing thesis](https://en.wikipedia.org/wiki/church-turing-thesis), namely that every other practical computing model had either the equivalent or a subset of the capabilities of a Turing machine. During [World War II](https://en.wikipedia.org/wiki/world-war-ii) he headed a successful effort of breaking the German secret code. After the war, he worked with one of the earliest digital computers, and later he provided a provocative contribution to the discussion ***[Can machines think?](https://en.wikipedia.org/wiki/digital-sentience)***![Alan_Turing.jpg](/images/Alan_Turing.jpg)  
 **ALAN TURING**
 
 ### Childhood and youth
@@ -73,14 +73,14 @@ In 1952 Turing wrote a chess program. Lacking a computer powerful enough to exec
 ### Persecution for homosexuality and death
 
  
-Persecution of Turing for his [homosexuality](/homosexual) crippled his career. In 1952, his male lover helped an accomplice to break into Turing's house and commit larceny. Turing went to the police to report the crime. As a result of the police investigation, he was charged with "gross indecency and sexual perversion" (see [sodomy law](/http-en-wikipedia-org-wiki-sodomy-law)). He unapologetically offered no defence, and was convicted. Following the well-publicised trial, he was given a choice between incarceration and libido-reducing hormonal treatment. He chose the hormone injections, which lasted for a year, with side effects including the development of breasts during that period. In 1954, he died of poisoning after eating a cyanide-laced apple. Most believe that his death was intentional, and the death was ruled a suicide. His mother, however, strenuously argued that the ingestion was accidental due to his careless storage of laboratory chemicals. 
+Persecution of Turing for his [homosexuality](/homosexual) crippled his career. In 1952, his male lover helped an accomplice to break into Turing's house and commit larceny. Turing went to the police to report the crime. As a result of the police investigation, he was charged with "gross indecency and sexual perversion" (see [sodomy law](https://en.wikipedia.org/wiki/sodomy-law)). He unapologetically offered no defence, and was convicted. Following the well-publicised trial, he was given a choice between incarceration and libido-reducing hormonal treatment. He chose the hormone injections, which lasted for a year, with side effects including the development of breasts during that period. In 1954, he died of poisoning after eating a cyanide-laced apple. Most believe that his death was intentional, and the death was ruled a suicide. His mother, however, strenuously argued that the ingestion was accidental due to his careless storage of laboratory chemicals. 
 
 ### Turing in Fiction
 
 
 An AI watchguard dragon to a V/R castle is named "Alan", who wears an asbestos t-shirt with the logo of "Turing Magazine" on it, in the [Vernor Vinge](/vernor-vinge) novel, *[True Names](/vinge-vernor-true-names)* and his homosexuality forgotten as he is is fictionalized in *Enigma*. 
 Amazon.com: A gripping World War II mystery novel with a cryptographic twist, *Enigma*'s hero is Tom Jericho, a brilliant British mathematician working as a member of the team struggling to crack the Nazi Enigma code. Jericho's own struggles include nerve-wracking mental labor, the mysterious disappearance of a former girlfriend, the suspicions of his co-workers within the paranoid high-security project, and the certainty that someone close to him, perhaps the missing girl, is a Nazi spy. The plot is pure fiction but the historical background, Alan Turing's famous wartime computing project that cracked the German U-boat communications code, is real and accurately portrayed. Enigma is convincingly plotted, forcefully written, and filled with well drawn characters; in short, it's everything a good technomystery should be. 
-Also the [movie](/http-us-imdb-com-title-tt0157583) of the same name.
+Also the [movie](http://us.imdb.com/title-tt0157583) of the same name.
 
 ### Related entries
 
@@ -94,21 +94,21 @@ Also the [movie](/http-us-imdb-com-title-tt0157583) of the same name.
 ### External Links & Reference Material
 
 
-* [Alan Turing "Virtual Museum"](/http-www-turing-org-uk)
-* [The Turing Digital Archive](/http-www-turingarchive-org)
-* [MacTutor biography of Turing](/http-www-history-mcs-st-andrews-ac-uk-history-mathematicians-turing-html)
-* [Church-Turing thesis](/http-en-wikipedia-org-wiki-church-turing-thesis)
-* [Sodomy Law](/http-en-wikipedia-org-wiki-sodomy-law)
-* [A short biography of Turing](/http-www-turing-org-uk-bio-part1-html)
-* The [Turing Award](/http-www-wikipedia-org-wiki-turing-award) is given by the [Association for Computing Machinery](/http-www-wikipedia-org-wiki-association-for-computing-machinery) to a person for technical contributions to the computing community
-* [Famous gay lesbian or bisexual people](/http-www-wikipedia-org-wiki-famous-gay-lesbian-or-bisexual-people)
+* [Alan Turing "Virtual Museum"](http://www.turing.org/uk)
+* [The Turing Digital Archive](http://www.turingarchive.org)
+* [MacTutor biography of Turing](http://www.history.mcs.st.andrews.ac.uk/history-mathematicians-turing.html)
+* [Church-Turing thesis](https://en.wikipedia.org/wiki/church-turing-thesis)
+* [Sodomy Law](https://en.wikipedia.org/wiki/sodomy-law)
+* [A short biography of Turing](http://www.turing.org.uk/bio-part1.html)
+* The [Turing Award](https://en.wikipedia.org/wiki/turing-award) is given by the [Association for Computing Machinery](https://en.wikipedia.org/wiki/association-for-computing-machinery) to a person for technical contributions to the computing community
+* [Famous gay lesbian or bisexual people](https://en.wikipedia.org/wiki/famous-gay-lesbian-or-bisexual-people)
 * [An even shorter bio](/http-www-idsia-ch-juergen-turing-html)
-* [Alan Turing - Towards a Digital Mind: Part 1](/http-www-systemtoolbox-com-article-php-history-id-3)
-* [Computing machinery and intelligence](/http-www-loebner-net-prizef-turingarticle-html) Full text of article.
+* [Alan Turing - Towards a Digital Mind: Part 1](http://www.systemtoolbox.com/article-php-history-id-3)
+* [Computing machinery and intelligence](http://www.loebner.net/prizef-turingarticle.html) Full text of article.
 * Alan Turing, "Computing Machinery and Intelligence", Mind, vol. LIX, no. 236, October 1950, pp. 433-460. Online at:
-	+ [http://cogprints.soton.ac.uk/documents/disk0/00/00/04/99/](/http-cogprints-soton-ac-uk-documents-disk0-00-00-04-99)
-	+ [http://www.loebner.net/Prizef/TuringArticle.html](/http-www-loebner-net-prizef-turingarticle-html)
-* [Loebner prize home page](/http-www-loebner-net-prizef-loebner-prize-html)
-* [Stanford Encylopedia of Philosophy](/http-plato-stanford-edu) entry on [the Turing test](/http-plato-stanford-edu-entries-turing-test), by G. Oppy and [D. Dowe](/http-www-csse-monash-edu-au-dld).
-* [Turing Test: 50 Years Later](/http-crl-ucsd-edu-saygin-papers-mmtt-pdf) reviews a half-century of work on the Turing Test, from the vantage point of 2000.
+	+ [http://cogprints.soton.ac.uk/documents/disk0/00/00/04/99/](http://cogprints.soton.ac.uk/documents-disk0-00-00-04-99)
+	+ [http://www.loebner.net/Prizef/TuringArticle.html](http://www.loebner.net/prizef-turingarticle.html)
+* [Loebner prize home page](http://www.loebner.net/prizef-loebner-prize.html)
+* [Stanford Encylopedia of Philosophy](http://plato.stanford.edu) entry on [the Turing test](http://plato.stanford.edu/entries-turing-test), by G. Oppy and [D. Dowe](http://www.csse.monash.edu/au-dld).
+* [Turing Test: 50 Years Later](http://crl.ucsd.edu/saygin-papers-mmtt.pdf) reviews a half-century of work on the Turing Test, from the vantage point of 2000.
 * [ISBN 0804115486](/)

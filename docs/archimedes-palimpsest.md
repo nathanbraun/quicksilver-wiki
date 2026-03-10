@@ -36,6 +36,6 @@ The palimpsest is now on display at The Walters Art Museum in Baltimore.
 ### External Link
 
 
-* [The Archimedes Palimpsest web pages at the Walters Art Museum](/http-www-thewalters-org-archimedes-frame-html).
+* [The Archimedes Palimpsest web pages at the Walters Art Museum](http://www.thewalters.org/archimedes-frame.html).
 * [Did Isaac Barrow read it?](/http-dftuz-unizar-es-rivero-research-isisletter-htm)
-* [The Nova Program](/http-www-pbs-org-wgbh-nova-teachers-programs-3010-archimed-html)
+* [The Nova Program](http://www.pbs.org/wgbh-nova-teachers-programs-3010-archimed.html)

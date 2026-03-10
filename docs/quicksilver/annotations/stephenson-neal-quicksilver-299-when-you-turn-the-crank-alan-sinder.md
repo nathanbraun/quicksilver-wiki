@@ -38,11 +38,11 @@ Leibniz's trip to [London](/london) was cut short by the news of the sudden deat
 ### IBM's Replica
 
 
-IBM built [a replica](/http-www-1-ibm-com-ibm-history-exhibits-attic3-attic3-037-html) of the Leibniz Calculating Machine.
+IBM built [a replica](http://www.1.ibm.com/ibm-history-exhibits-attic3-attic3-037.html) of the Leibniz Calculating Machine.
 
 ### Logic Mill
 
-One is also curious about the logic mill of Daniel's. His school's [tee-shirt](/http-www-dogtownu-com-public-html-quicksilver-images-qs-halo-tan-jpg) display a portion of the machinery.
+One is also curious about the logic mill of Daniel's. His school's [tee-shirt](http://www.dogtownu.com/public-html-quicksilver-images-qs-halo-tan.jpg) display a portion of the machinery.
 
 [![Curta AdMW.jpg](/web/20060725170507im_/http://www.metaweb.com/wiki/upload/c/cf/Curta_AdMW.jpg)](curta-admw-jpg)  
 

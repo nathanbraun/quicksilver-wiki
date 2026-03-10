@@ -9,4 +9,4 @@ Set Theory is closely connected with this study, and Russell's Paradox (Is a set
 ### External Links
 
 
-* [Mereology](/http-en-wikipedia-org-wiki-mereology)
+* [Mereology](https://en.wikipedia.org/wiki/mereology)

@@ -32,7 +32,7 @@ Bartholomaeus Spranger - Flemish Painter c. 1585**
 * [Stephenson:Neal:The Confusion:84:Guadalquivir (Alan Sinder)](/stephenson-neal-the-confusion-84-guadalquivir-alan-sinder)
 
 
-### [Hermes](/http-en-wikipedia-org-wiki-hermes)
+### [Hermes](https://en.wikipedia.org/wiki/hermes)
 
 
 **Hermês** ("pile of marker stones"), in Greek mythology, was the god of travelers, shepherds, land travel, orators, literature, cunning, poets, athletics, weights and measures, and thieves, and the messenger from the gods to humans. Son of **Zeus** and a nymph named Maia, Hermes was equivalent to the Roman god [Mercury](/mercury) and the Etruscan Turms. Hermes was born in a cave on Mount Cyllene in Peloponnesus, between Achaia and Arcadia. His origin on Mount Cyllene explains the origin of an epithet for Hermes: **Hermes Cylleneius**. He was also referred to as **Enagonios**. As a psychopomp, Hermes was known as **Psychopompos** ("conductor of the soul"). The Roman Mercury later absorbed the Dei Lucrii, early gods of commerce and wealth, and were referred to by that name. Hermes was also later combined with the Egyptian Anubis to form Hermanubis. 
@@ -85,16 +85,16 @@ Invoke [DNA](/stephenson-neal-quicksilver-29-lace-alan-sinder)'s Double Helix?**
 ### Hermês' Offspring
 
 
-#### [Pan](/http-en-wikipedia-org-wiki-pan)
+#### [Pan](https://en.wikipedia.org/wiki/pan)
 
 
 **Pan** was the son of Hermês and Dryope, a human princess. She was terrified of her ugly, half-goat baby so she ran away. Hermês took the baby to Mount Olympus, where gods enjoyed the child's laughter and good nature. He became a god worshipped by shepherds and woodsmen particularly.
-#### [Abderus](/http-en-wikipedia-org-wiki-abderus)
+#### [Abderus](https://en.wikipedia.org/wiki/abderus)
 
 
 **Abderus** was a son of Hermês who was devoured by the Mares of Diomedes. He had gone to the Mares with his friend, [Heracles](/heracles). 
 
-#### [Hermaphroditus](/http-en-wikipedia-org-wiki-hermaphroditus)
+#### [Hermaphroditus](https://en.wikipedia.org/wiki/hermaphroditus)
 
 
 **Hermaphroditus** was the third son of Hermês, with Aphrodite. He was changed into a hermaphrodite by the gods, responding to the pleas of Salmacis, whose love Hermaphroditus spurned. 
@@ -154,12 +154,12 @@ King Atreus of Mycenae retook the throne from his brother, Thyestes using advice
 
 1. Daphnis
 
-### [English Wikipedia: Hermes Trismegistus](/http-en-wikipedia-org-wiki-hermes-trismegistus)
+### [English Wikipedia: Hermes Trismegistus](https://en.wikipedia.org/wiki/hermes-trismegistus)
 
 
-**Hermes Trismegistus** is the latin name for "Hermes the thrice-greatest" derived from ????? ? *Ερμης ο Τρισμεγιστος*, the Greek name of the Egyptian god [Thoth](/http-en-wikipedia-org-wiki-thoth) (the god of wisdom and writing). 
+**Hermes Trismegistus** is the latin name for "Hermes the thrice-greatest" derived from ????? ? *Ερμης ο Τρισμεγιστος*, the Greek name of the Egyptian god [Thoth](https://en.wikipedia.org/wiki/thoth) (the god of wisdom and writing). 
 
-Sometimes referred to as the god, sometimes as a man contemporary to [Moses](/http-en-wikipedia-org-wiki-moses), who was son of the god. According to some, the historic Moses' full name as a *royal hostage* was **Thothmoses**.
+Sometimes referred to as the god, sometimes as a man contemporary to [Moses](https://en.wikipedia.org/wiki/moses), who was son of the god. According to some, the historic Moses' full name as a *royal hostage* was **Thothmoses**.
 
 Historians have difficulty pinning down just when and where he lived, a task made no easier by the godlike powers often attributed to him by others in various documents of both history and fable. He is believed to have had several wives (a common practice in his day) and more than one son who took his name, as well as more than one grandson. This repetition of given and surname throughout the generations may at least partially account for the legend of his longevity, especially as it is believed that many of his children pursued careers as priests in the religion he started. 
 
@@ -181,7 +181,7 @@ During the Middle ages and the Renaissance, the hermetic scriptures enjoyed grea
 The Kid is the son of Argus - the many-eyed  
 who has killed the more powerful Greco-Roman gods  
 Image is a Kirby riff on a Thor vs. the Hulk comic ages ago (1964)**
-***[Eddie Campbell's](/http-www-weisshahn-de-bacchus-index-html)*** comics about **Bacchus** feature a very nasty Hermês (the tenfingered Postmaster of the Gods in a nasty Yakuza "... *someone's trying to send you a **message***" way. His approach to the **Telchines** (The Gods of Commerce) was fresh back in the early '90s... [[1]](/http-www-darkhorse-com-profile-profile-php-sku-92-440)
+***[Eddie Campbell's](/http-www-weisshahn-de-bacchus-index-html)*** comics about **Bacchus** feature a very nasty Hermês (the tenfingered Postmaster of the Gods in a nasty Yakuza "... *someone's trying to send you a **message***" way. His approach to the **Telchines** (The Gods of Commerce) was fresh back in the early '90s... [[1]](http://www.darkhorse.com/profile-profile-php-sku-92-440)
 
 #### Bacchus
 
@@ -211,9 +211,9 @@ The acidic juice of pomegranates is used in Indian cookery; thickened and sweete
 #### In Myth
 
 
-Pomegranates are a symbol of fertility because of their many seeds, yet of death because of the vivid blood red of the pulp. (See [life-death-rebirth deity](/http-en-wikipedia-org-wiki-life-death-rebirth-deity).) In mythology, **[Persephone](/http-en-wikipedia-org-wiki-persephone)** was condemned to spend time in the Underworld every year because **[Hades](/http-en-wikipedia-org-wiki-hades)** tricked her into eating six pomegranate seeds while she was his prisoner. 
+Pomegranates are a symbol of fertility because of their many seeds, yet of death because of the vivid blood red of the pulp. (See [life-death-rebirth deity](https://en.wikipedia.org/wiki/life-death-rebirth-deity).) In mythology, **[Persephone](https://en.wikipedia.org/wiki/persephone)** was condemned to spend time in the Underworld every year because **[Hades](https://en.wikipedia.org/wiki/hades)** tricked her into eating six pomegranate seeds while she was his prisoner. 
 
-The pomegranate was a symbol of the Aegean [Triple Goddess](/http-en-wikipedia-org-wiki-triple-goddess) who evolved into Olympian **[Hera](/http-en-wikipedia-org-wiki-hera)**, who is represented offering the pomegranate. 
+The pomegranate was a symbol of the Aegean [Triple Goddess](https://en.wikipedia.org/wiki/triple-goddess) who evolved into Olympian **[Hera](https://en.wikipedia.org/wiki/hera)**, who is represented offering the pomegranate. 
 
 #### Astrology
 
@@ -223,7 +223,7 @@ It is under **[Mercury](/mercury)** which would link it to **[Athena](/athena)**
 #### Symbols
 
 
-A pomegranate appears in the shield of the Spanish city Granada and the flag of Caribbean island Grenada. The pomegranate gave its name to the [grenade](/http-en-wikipedia-org-wiki-grenade) for its shape, and to the [garnet](/http-en-wikipedia-org-wiki-garnet) for its color.
+A pomegranate appears in the shield of the Spanish city Granada and the flag of Caribbean island Grenada. The pomegranate gave its name to the [grenade](https://en.wikipedia.org/wiki/grenade) for its shape, and to the [garnet](https://en.wikipedia.org/wiki/garnet) for its color.
 
 #### Flowering time
 
@@ -238,23 +238,23 @@ It flowers in early summer.
 | **Pomegranate** |
 | --- |
 | Pomegranate.jpg |
-| **[Scientific classification](/http-en-wikipedia-org-wiki-scientific-classification)** |
+| **[Scientific classification](https://en.wikipedia.org/wiki/scientific-classification)** |
 | 
 
 |  |  |
 | --- | --- |
-| [Kingdom](/http-en-wikipedia-org-wiki-kingdom-biology):  | [Plantae](/http-en-wikipedia-org-wiki-plantae) |
-| [Division](/http-en-wikipedia-org-wiki-division-biology):  | [Magnoliophyta](/http-en-wikipedia-org-wiki-magnoliophyta) |
-| [Class](/http-en-wikipedia-org-wiki-class-biology):  | [Magnoliopsida](/http-en-wikipedia-org-wiki-magnoliopsida) |
+| [Kingdom](https://en.wikipedia.org/wiki/kingdom-biology):  | [Plantae](https://en.wikipedia.org/wiki/plantae) |
+| [Division](https://en.wikipedia.org/wiki/division-biology):  | [Magnoliophyta](https://en.wikipedia.org/wiki/magnoliophyta) |
+| [Class](https://en.wikipedia.org/wiki/class-biology):  | [Magnoliopsida](https://en.wikipedia.org/wiki/magnoliopsida) |
 | Subclass:
- | [Rosidae](/http-en-wikipedia-org-wiki-rosidae) |
-| [Order](/http-en-wikipedia-org-wiki-order-biology):  | [Myrtales](/http-en-wikipedia-org-wiki-myrtales) |
-| [Family](/http-en-wikipedia-org-wiki-family-biology):  | [Punicaceae](/http-en-wikipedia-org-wiki-punicaceae) |
-| **[Genus](/http-en-wikipedia-org-wiki-genus)**:  | ***Punica*** |
+ | [Rosidae](https://en.wikipedia.org/wiki/rosidae) |
+| [Order](https://en.wikipedia.org/wiki/order-biology):  | [Myrtales](https://en.wikipedia.org/wiki/myrtales) |
+| [Family](https://en.wikipedia.org/wiki/family-biology):  | [Punicaceae](https://en.wikipedia.org/wiki/punicaceae) |
+| **[Genus](https://en.wikipedia.org/wiki/genus)**:  | ***Punica*** |
 
 | **Species** |
-| *[P. granatum](/http-en-wikipedia-org-wiki-punica-granatum)*
-*[P. proto-punica](/http-en-wikipedia-org-wiki-punica-proto-punica)* |
+| *[P. granatum](https://en.wikipedia.org/wiki/punica-granatum)*
+*[P. proto-punica](https://en.wikipedia.org/wiki/punica-proto-punica)* |
  |
 
 
@@ -297,7 +297,7 @@ A decoction of the rind of the fruit cheeks diarrhoea and dysentery and, injecte
 ### External links
 
 
-1. [Hermes vs the Eyeball Kid](/http-www-darkhorse-com-profile-profile-php-sku-92-440)
-* [more Hermes info](/http-www-elolimpo-com-personajes-personaje-asp-idper-1)
-* **[Alchemy's Symbols](/http-www-chemsoc-org-viselements-pages-alchemist-alchemy-html)**
-* [Orion (mythology)](/http-en-wikipedia-org-wiki-orion-mythology)
+1. [Hermes vs the Eyeball Kid](http://www.darkhorse.com/profile-profile-php-sku-92-440)
+* [more Hermes info](http://www.elolimpo.com/personajes-personaje-asp-idper-1)
+* **[Alchemy's Symbols](http://www.chemsoc.org/viselements-pages-alchemist-alchemy.html)**
+* [Orion (mythology)](https://en.wikipedia.org/wiki/orion-mythology)

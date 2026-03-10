@@ -39,9 +39,9 @@ For example (taken from *The Code Book* by Simon Singh, 1999)
      Ciphertext: Y H Q L, Y L G L, Y L F L  
 
 
-It is claimed the earliest known reference to this type of cipher is in the *[Kama Sutra](/http-en-wikipedia-org-wiki-kama-sutra)*, which says women should learn the art of secret writing to conceal their liasons. It was also used extensively by [Julius Caesar](/http-en-wikipedia-org-wiki-julius-caesar) in his military campaigns, which is why it carries his name.
+It is claimed the earliest known reference to this type of cipher is in the *[Kama Sutra](https://en.wikipedia.org/wiki/kama-sutra)*, which says women should learn the art of secret writing to conceal their liasons. It was also used extensively by [Julius Caesar](https://en.wikipedia.org/wiki/julius-caesar) in his military campaigns, which is why it carries his name.
 
-This type of cipher is easily defeated by [frequency analysis](/http-en-wikipedia-org-wiki-frequency-analysis) and is superseded by [the vigenère cipher](/the-vigenère-cipher-talith).
+This type of cipher is easily defeated by [frequency analysis](https://en.wikipedia.org/wiki/frequency-analysis) and is superseded by [the vigenère cipher](/the-vigenère-cipher-talith).
 
 ### Related entries
 

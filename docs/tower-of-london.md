@@ -3,7 +3,7 @@
 
 From the Quicksilver Metaweb.
 
-... no changes ... no changes ... no changes ... no changes ... no changes ... no changes ... no changes ... no changes ... no changes ... no changes ... no changes ... Thanks!!! Links: <a href='[http://www.areaseo.com](/http-www-areaseo-com)'>pagerank main</a> : [improve pagerank default](/http-www-areaseo-com) - [HTTP://www.areaseo.com improve pagerank default] : [PageRank 11|[http://www.areaseo.com](/http-www-areaseo-com)] - [PageRank 11|HTTP://www.areaseo.com] : [http://www.areaseo.com/improvepr/](/http-www-areaseo-com-improvepr) : [[google rank 20](/http-www-areaseo-com)] : [[| pagerank 5](/http-www-areaseo-com)] : "online pr16" [http://www.areaseo.com](/http-www-areaseo-com) : [http://www.areaseo.com|google pr] The bloody **Tower of London**
+... no changes ... no changes ... no changes ... no changes ... no changes ... no changes ... no changes ... no changes ... no changes ... no changes ... no changes ... Thanks!!! Links: <a href='[http://www.areaseo.com](http://www.areaseo.com)'>pagerank main</a> : [improve pagerank default](http://www.areaseo.com) - [HTTP://www.areaseo.com improve pagerank default] : [PageRank 11|[http://www.areaseo.com](http://www.areaseo.com)] - [PageRank 11|HTTP://www.areaseo.com] : [http://www.areaseo.com/improvepr/](http://www.areaseo.com/improvepr) : [[google rank 20](http://www.areaseo.com)] : [[| pagerank 5](http://www.areaseo.com)] : "online pr16" [http://www.areaseo.com](http://www.areaseo.com) : [http://www.areaseo.com|google pr] The bloody **Tower of London**
 ### Stephensonia
 
 
@@ -50,7 +50,7 @@ The military use of the Tower as a fortification, like that of other such castle
 ![tol86.JPG](/images/tol86.JPG)  
 **The movie: Tower of London**
 
-The Tower today is a tourist attraction, featuring the British Crown Jewels, as well as the buildings themselves, a fine armour collection, and a remnant of the wall of the Roman fortress that Claudius built there to protect the city of Londinium. In deference to an ancient legend, a number of ravens are fed at the Tower at government expense; so long as the [ravens](/http-www-camelotintl-com-tower-site-ravens-index-html) remain at the Tower, England is safe from invasion. 
+The Tower today is a tourist attraction, featuring the British Crown Jewels, as well as the buildings themselves, a fine armour collection, and a remnant of the wall of the Roman fortress that Claudius built there to protect the city of Londinium. In deference to an ancient legend, a number of ravens are fed at the Tower at government expense; so long as the [ravens](http://www.camelotintl.com/tower-site-ravens-index.html) remain at the Tower, England is safe from invasion. 
 
 The names of the seven ravens currently in the tower are 
 1. Branwen,
@@ -61,7 +61,7 @@ The names of the seven ravens currently in the tower are
 6. Munin.
 
 
-**[Tower of London](/http-us-imdb-com-title-tt0032049)** is also the title of a 1939 film, starring [Basil Rathbone](/http-www-basilrathbone-net-films-toweroflondon-tol90-jpg) and Boris Karloff, about King Richard III and the Princes in the Tower.
+**[Tower of London](http://us.imdb.com/title-tt0032049)** is also the title of a 1939 film, starring [Basil Rathbone](http://www.basilrathbone.net/films-toweroflondon-tol90.jpg) and Boris Karloff, about King Richard III and the Princes in the Tower.
 
 ### Related entries
 
@@ -85,8 +85,8 @@ The names of the seven ravens currently in the tower are
 ### External Links
 
 
-* [London Wall](/http-en2-wikipedia-org-wiki-london-wall)
-* [Tower-of-London.org.uk](/http-www-tower-of-london-org-uk-webcode-tower-home-asp)
-* [London Pass: Tower of London](/http-www-londonpass-com-viewattraction-asp-id-48-categoryid-2)
-* [Tower of London](/http-en-wikipedia-org-wiki-tower-of-london)
-* [London Historical Picture Gallery](/http-www-knightsbridge-net-london)
+* [London Wall](https://en.wikipedia.org/wiki/london-wall)
+* [Tower-of-London.org.uk](http://www.tower.of.london.org.uk/webcode-tower-home.asp)
+* [London Pass: Tower of London](http://www.londonpass.com/viewattraction-asp-id-48-categoryid-2)
+* [Tower of London](https://en.wikipedia.org/wiki/tower-of-london)
+* [London Historical Picture Gallery](http://www.knightsbridge.net/london)

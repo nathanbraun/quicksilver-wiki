@@ -24,7 +24,7 @@ So, *How* does Enoch **Know** When, and where and **How** these moments Must occ
 Why is this so important? [timberbee](/user-timberbee) 05:23, 8 Feb 2004 (PST)
 
  Explain the presence of [Dr GEB Kivistik](/dr-geb-kivistik)? Was becoming defrocked a help for Kivistik's mom? There are *anthropomorphic* representatives of **Help** in SF&F such as Susan Sto-Helit, Death's granddaughter (i.e. the daughter of Ysabell and Mort) - from Discworld. I view Enoch Root as having an agenda of ethics-grounded scientific and cultural progress. - [Sparky](/user-stsparky) 15:59, 2004 Feb 8 (PST)
- [Sweevo the God of Cut Timber](/http-en-wikipedia-org-wiki-sweevo-god-of-cut-timber) from the same Discworld series may be worth a look. Wonder what *panupunitoplasty* means?
+ [Sweevo the God of Cut Timber](https://en.wikipedia.org/wiki/sweevo-god-of-cut-timber) from the same Discworld series may be worth a look. Wonder what *panupunitoplasty* means?
 
  [Jack](/stephenson-neal-quicksilver-jack-shaftoe) is more of a cultural savant-and-apparent *fool* - he's got more going on than you'd expect of an imbecile. He's paid a price in being branded a vagabond. But he's not clever in the sense you'd expect. I'd expect a smarter man to change a **V brand** into an **A** one. - [Sparky](/user-stsparky)
 

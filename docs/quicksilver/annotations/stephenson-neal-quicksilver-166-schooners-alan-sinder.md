@@ -22,7 +22,7 @@ This is a placeholder for **schooners** as techo-wiz Dappa would have it...
  
 Developed from Wikipedia, the free encyclopedia.
 
-A **Schooner** is a type of sailing ship. Schooners were first used by the Dutch[[1]](/http-en2-wikipedia-org-wiki-dutch) in the 16th or 17th century, and further developed in North America from the time of the American Revolution[[2]](/http-en2-wikipedia-org-wiki-american-revolution).
+A **Schooner** is a type of sailing ship. Schooners were first used by the Dutch[[1]](https://en.wikipedia.org/wiki/dutch) in the 16th or 17th century, and further developed in North America from the time of the American Revolution[[2]](https://en.wikipedia.org/wiki/american-revolution).
 
 ![Smallschooner.jpg](/https://web.archive.org/web/20060725170412im_/http://en.wikipedia.org/upload/8/8e/Smallschooner.jpg)  
 
@@ -98,7 +98,7 @@ The vessel dealt with here is the fully rigged ship of three or more masts. But 
 
 The simplest of all forms of rigging is the dipping lug, a quadrangular sail hanging from a yard, and always hoisted on the side of the mast opposite toto that on which the wind is blowing (the lee side). When the boat is to be tacked so as to bring the wind on the other side, the - sail is lowered and rehoisted. One rope can serve as balliard to hoist the sail and as a stay when it is made fast on the weather side on which the wind is blowing. 
 
-The difference between such a craft and the fully rigged ship is that between a simple organism and a very complex one; but it is one of degree, not of kind. The steps in the scale are innumerable. Every sea has its own type. Some in eastern waters are of extreme antiquity, and even in Europe vessels are still to be met with which differ very little if at all from the ships of the Norsemen of the 9th and 10th centuries.[[3]](/http-en2-wikipedia-org-wiki-rigging)
+The difference between such a craft and the fully rigged ship is that between a simple organism and a very complex one; but it is one of degree, not of kind. The steps in the scale are innumerable. Every sea has its own type. Some in eastern waters are of extreme antiquity, and even in Europe vessels are still to be met with which differ very little if at all from the ships of the Norsemen of the 9th and 10th centuries.[[3]](https://en.wikipedia.org/wiki/rigging)
 
 ### A Ship of the Line
 
@@ -133,8 +133,8 @@ In the earlier form of ships the top was a species of crows nest placed at the
 ### Footnotes and External links
 
 
-1. [Dutch](/http-en2-wikipedia-org-wiki-dutch)
-2. [American Revolution](/http-en2-wikipedia-org-wiki-american-revolution) Daniel hints to Enoch
-3. [Rigging](/http-en2-wikipedia-org-wiki-rigging)
+1. [Dutch](https://en.wikipedia.org/wiki/dutch)
+2. [American Revolution](https://en.wikipedia.org/wiki/american-revolution) Daniel hints to Enoch
+3. [Rigging](https://en.wikipedia.org/wiki/rigging)
 
-[http://www.schoonerman.com/home.htm](/http-www-schoonerman-com-home-htm)
+[http://www.schoonerman.com/home.htm](http://www.schoonerman.com/home.htm)

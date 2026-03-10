@@ -22,23 +22,23 @@ This is not a good direction for a wiki which generally tries to avoid the [perm
 ### long term platform
 
 
-Also, [Mediawiki](/http-meta-wikipedia-org-wiki-mediawiki) has many other problems. It is probably not a good long term platform once a [wikitext standard](/http-meta-wikipedia-org-wiki-wikitext-standard) evolves. Put the energy into the standard, and into figuring out how [large public wikis](/large-public-wiki) really operate and how their politics resembles real world policies, parties and all, rather than wasting energy hacking bad PHP code.
+Also, [Mediawiki](https://meta.wikipedia.org/wiki/mediawiki) has many other problems. It is probably not a good long term platform once a [wikitext standard](https://meta.wikipedia.org/wiki/wikitext-standard) evolves. Put the energy into the standard, and into figuring out how [large public wikis](/large-public-wiki) really operate and how their politics resembles real world policies, parties and all, rather than wasting energy hacking bad PHP code.
 
-Consider [MoinMoin](/http-moin-sourceforge-net) as an option. It is modular and extensible in [Python](/http-www-python-org). It is used by most archgeek wikis. [XML Dumping](/xml-dump) is another good feature that Usemod has that other wikis don't.
+Consider [MoinMoin](http://moin.sourceforge.net) as an option. It is modular and extensible in [Python](http://www.python.org). It is used by most archgeek wikis. [XML Dumping](/xml-dump) is another good feature that Usemod has that other wikis don't.
 
 #### Links
 
 
-* [http://en.wikipedia.org/wiki/XML](/http-en-wikipedia-org-wiki-xml)
-* [http://meta.wikipedia.org/wiki/XML\_syntax](/http-meta-wikipedia-org-wiki-xml_syntax)
-* [http://twistedmatrix.com/wiki/moin/](/http-twistedmatrix-com-wiki-moin)
-* [http://meta.wikipedia.org/wiki/Mediawiki](/http-meta-wikipedia-org-wiki-mediawiki)
-* [http://openwiki.com/](/http-openwiki-com)
-* [http://moin.sourceforge.net/](/http-moin-sourceforge-net)
-* [http://www.python.org/](/http-www-python-org)
+* [http://en.wikipedia.org/wiki/XML](https://en.wikipedia.org/wiki/xml)
+* [http://meta.wikipedia.org/wiki/XML\_syntax](https://meta.wikipedia.org/wiki/xml_syntax)
+* [http://twistedmatrix.com/wiki/moin/](http://twistedmatrix.com/wiki-moin)
+* [http://meta.wikipedia.org/wiki/Mediawiki](https://meta.wikipedia.org/wiki/mediawiki)
+* [http://openwiki.com/](http://openwiki.com)
+* [http://moin.sourceforge.net/](http://moin.sourceforge.net)
+* [http://www.python.org/](http://www.python.org)
 
 
 #### Contrariness
 
 
-* [http://c2.com/cgi/wiki?XmlSucks](/http-c2-com-cgi-wiki-xmlsucks)
+* [http://c2.com/cgi/wiki?XmlSucks](http://c2.com/cgi-wiki-xmlsucks)

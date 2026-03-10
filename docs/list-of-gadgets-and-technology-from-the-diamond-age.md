@@ -7,7 +7,7 @@ From the Quicksilver Metaweb.
 ## List of Gadgets and Technology in Neal Stephensons "The Diamond Age"
 
 
-This is a working list of interesting marvels in [The Diamond Age](/http-www-metaweb-com-wiki-wiki-phtml-title-the-diamond-age). 
+This is a working list of interesting marvels in [The Diamond Age](http://www.metaweb.com/wiki-wiki-phtml-title-the-diamond-age). 
 
 ### Nanotech
 
@@ -46,4 +46,4 @@ This is a working list of interesting marvels in [The Diamond Age](/http-www-met
 ### External Sources
 
 
-* [Nanotech writings by various authors](/http-www-nanoindustries-com-essays-variousauthors-html)
+* [Nanotech writings by various authors](http://www.nanoindustries.com/essays-variousauthors.html)

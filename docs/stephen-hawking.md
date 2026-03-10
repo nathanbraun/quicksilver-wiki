@@ -42,7 +42,7 @@ His many publications include *The Large Scale Structure of Spacetime* with G.F.
 
 In addition to his PBS television show, he has appeared in several science fiction shows as a cameo character, most notably as a holodeck version of himself on Star Trek: The Next Generation.
 
-### [Stephen Hawking's Universe: The PBS show](/http-www-pbs-org-wnet-hawking-html-home-html)
+### [Stephen Hawking's Universe: The PBS show](http://www.pbs.org/wnet-hawking-html-home.html)
 
 
 This wonderful show opened with these quotes:
@@ -58,7 +58,7 @@ This wonderful show opened with these quotes:
 #### Science Mystery explored:
 
 
-[Is Time Travel Possible?](/http-www-pbs-org-wnet-hawking-mysteries-html-kaku1-1-html) answered by Dr. Michio Kaku, Professor of Theoretical Physics at the City University of New York, is the author of VISIONS: HOW SCIENCE WILL REVOLUTIONIZE THE 21ST CENTURY and the best-seller HYPERSPACE, writes:
+[Is Time Travel Possible?](http://www.pbs.org/wnet-hawking-mysteries-html-kaku1-1.html) answered by Dr. Michio Kaku, Professor of Theoretical Physics at the City University of New York, is the author of VISIONS: HOW SCIENCE WILL REVOLUTIONIZE THE 21ST CENTURY and the best-seller HYPERSPACE, writes:
 
 Interestingly enough, Stephen Hawking once opposed the idea of time travel. He even claimed he had empirical evidence against it. If time travel existed, he said, then we would have been visited by tourists from the future. Yet we see no tourists from the future. Ergo: time travel is not possible.
 

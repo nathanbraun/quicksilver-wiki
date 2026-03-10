@@ -47,4 +47,4 @@ Physicist Stephen Hawking is famous for his oft-made statement, "When I hear of 
 ### External links
 
 
-* [Thought Experiments](/http-en2-wikipedia-org-wiki-thought-experiment)
+* [Thought Experiments](https://en.wikipedia.org/wiki/thought-experiment)

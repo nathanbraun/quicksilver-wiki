@@ -32,6 +32,6 @@ This is an [intermediate page](/metaweb-intermediate-page) for
 ## [External links](/metaweb-external-links)
 
 
-* [The Freenet Project](/http-freenet-sourceforge-net)
-* [distributed.net](/http-distributed-net)
-* [Distributed computing](/http-en-wikipedia-org-wiki-distributed-computing) and [peer-to-peer](/http-en-wikipedia-org-wiki-peer-to-peer) networks
+* [The Freenet Project](http://freenet.sourceforge.net)
+* [distributed.net](http://distributed.net)
+* [Distributed computing](https://en.wikipedia.org/wiki/distributed-computing) and [peer-to-peer](https://en.wikipedia.org/wiki/peer-to-peer) networks

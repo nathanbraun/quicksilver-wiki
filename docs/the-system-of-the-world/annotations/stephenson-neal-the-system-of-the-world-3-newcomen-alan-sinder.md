@@ -17,7 +17,7 @@ From the Quicksilver Metaweb.
 * [Stephenson:Neal:The System of the World:3:Newcomen and Lostwithiel (Neal Stephenson)](/stephenson-neal-the-system-of-the-world-3-newcomen-and-lostwithiel-neal-stephenson)
 
 
-### [Wikipedia: Thomas Newcomen](/http-en-wikipedia-org-wiki-thomas-newcomen)
+### [Wikipedia: Thomas Newcomen](https://en.wikipedia.org/wiki/thomas-newcomen)
 
 
 ![Newcomen6325.png](/https://web.archive.org/web/20060725223735im_/http://en.wikipedia.org/upload/3/31/Newcomen6325.png)  
@@ -38,7 +38,7 @@ Further engines were installed by Newcomen himself in mines in the Midlands, nor
 
 In London in 1920, a learned society to promote and encourage the study of the history of engineering and technology was formed, called the Newcomen Society, after Thomas Newcomen. An American branch was established soon after, and there are branches in Birmingham and Manchester, but the Newcomen Society of the United States is now entirely separate from its UK counterpart.
 
-### [Wikipedia: The Newcomen Engine](/http-en-wikipedia-org-wiki-newcomen-engine)
+### [Wikipedia: The Newcomen Engine](https://en.wikipedia.org/wiki/newcomen-engine)
 
 
 Thomas Newcomen's atmospheric engine, today referred to as a Newcomen steam engine, was the first practical device to harness the power of steam to produce mechanical work. Newcomen engines were used throughout England and Europe to pump water out of mines starting in the early 18th century, and was the basis for James Watt's later improved versions. Although Watt is far more famous today (due largely to Matthew Boulton's tireless salesmanship), Newcomen rightly deserves the majority of the credit for the widespread introduction of steam power.
@@ -77,5 +77,5 @@ A working replica of an early Newcomen Engine has been constructed at the Black 
 ## External Links
 
 
-* [Samuel Morey](/http-kinnexions-com-smlsource-samuel-htm)
-* [Robert Fulton](/http-fultonsteam-com-overview-steamboat)
+* [Samuel Morey](http://kinnexions.com/smlsource-samuel.htm)
+* [Robert Fulton](http://fultonsteam.com/overview-steamboat)

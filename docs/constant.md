@@ -26,4 +26,4 @@ In mathematics and the mathematical sciences, a constant is a fixed, but possibl
 ### [External links](/metaweb-external-links)
 
 
-* [http://en2.wikipedia.org/wiki/Constant](/http-en2-wikipedia-org-wiki-constant)
+* [http://en2.wikipedia.org/wiki/Constant](https://en.wikipedia.org/wiki/constant)

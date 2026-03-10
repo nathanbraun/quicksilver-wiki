@@ -28,4 +28,4 @@ The concept of a scalar is used in mathematics and physics. The concept used in 
 #### [External links](/metaweb-external-links)
 
 
-* [http://en.wikipedia.org/wiki/Scalar](/http-en-wikipedia-org-wiki-scalar)
+* [http://en.wikipedia.org/wiki/Scalar](https://en.wikipedia.org/wiki/scalar)

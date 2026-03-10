@@ -56,11 +56,11 @@ Alan and Rudy bickeringly explain a number of deep concepts to Lawrence to help 
 Which would connect implicitly to Archimedes who had achieved the first theoretical (rather than measured) means of approximating π. Now Archimedes lived in Siracusa which is where the Fount of [Arethusa](/arethusa) is located. Arethusa is Rudy's cipher based on the Riemann Zeta Function which would seem to connect back to Leibniz's formula in this way:
 
 ![\pi = \sqrt{6\zeta(2)}](/web/20060725223704im_/http://www.metaweb.com/wiki/upload/math/04eea41102e395276b19ae0fcb33a3e9.png)
-(from [[planetmath](/http-planetmath-org-encyclopedia-pi-html)])
+(from [[planetmath](http://planetmath.org/encyclopedia-pi.html)])
 
 This is a formula to find π by determining the value of the Riemann Zeta function at s = 2. So Arethusa connects the ancient world of greek mathematics with Rudy's most advanced cryptosystem which will soon baffle Alan and Lawrence.
 
-### [Wikipedia:Franz Kafka excerpt](/http-en-wikipedia-org-wiki-kafka)
+### [Wikipedia:Franz Kafka excerpt](https://en.wikipedia.org/wiki/kafka)
 
 
 Franz Kafka (July 3, 1883 - June 3, 1924), was a novelist who was born and lived in Prague, Bohemia, which was then part of the Austro-Hungarian Empire. He is by English speakers generally considered neither a Czech author, since he wrote exclusively in German, nor a German author since he spent almost his entire life in Bohemia.
@@ -78,16 +78,16 @@ The von Hacklhebers show up in [The Baroque Cycle](/stephenson-neal-baroque-cycl
 ### External Links
 
 
-* From [MathWorld](/http-mathworld-wolfram-com):
-	+ [Leibniz Series](/http-mathworld-wolfram-com-leibnizseries-html)
-	+ [Riemann Zeta Function](/http-mathworld-wolfram-com-riemannzetafunction-html)
+* From [MathWorld](http://mathworld.wolfram.com):
+	+ [Leibniz Series](http://mathworld.wolfram.com/leibnizseries.html)
+	+ [Riemann Zeta Function](http://mathworld.wolfram.com/riemannzetafunction.html)
 
 
-* From [PlanetMath](/http-planetmath-org):
-	+ [Pi](/http-planetmath-org-encyclopedia-pi-html)
-	+ [Riemann Zeta Function](/http-planetmath-org-encyclopedia-riemannzetafunction-html)
+* From [PlanetMath](http://planetmath.org):
+	+ [Pi](http://planetmath.org/encyclopedia-pi.html)
+	+ [Riemann Zeta Function](http://planetmath.org/encyclopedia-riemannzetafunction.html)
 
 
-* From the [On-Line Encyclopedia of Integer Sequences](/http-www-research-att-com-njas-sequences-seis-html):
-	+ [Sequence derrived from the Leibniz Series](/http-www-research-att-com-cgi-bin-access-cgi-as-njas-sequences-eisa-cgi-anum-a072172)
-	+ [Zeros of the Riemann Zeta Function](/http-www-research-att-com-cgi-bin-access-cgi-as-njas-sequences-eisa-cgi-anum-a084799)
+* From the [On-Line Encyclopedia of Integer Sequences](http://www.research.att.com/njas-sequences-seis.html):
+	+ [Sequence derrived from the Leibniz Series](http://www.research.att.com/cgi-bin-access-cgi-as-njas-sequences-eisa-cgi-anum-a072172)
+	+ [Zeros of the Riemann Zeta Function](http://www.research.att.com/cgi-bin-access-cgi-as-njas-sequences-eisa-cgi-anum-a084799)

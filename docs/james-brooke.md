@@ -3,7 +3,7 @@
 
 From the Quicksilver Metaweb.
 
-### [James Brooke](/http-en-wikipedia-org-wiki-james-brooke)
+### [James Brooke](https://en.wikipedia.org/wiki/james-brooke)
 
 
 
@@ -32,4 +32,4 @@ A fictionalised account of James Brooke's exploits in Sarawak is given in C. S. 
 ### External links
 
 
-* [James Brooke](/http-en-wikipedia-org-wiki-james-brooke) - the basis for this entry
+* [James Brooke](https://en.wikipedia.org/wiki/james-brooke) - the basis for this entry

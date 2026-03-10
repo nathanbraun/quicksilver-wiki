@@ -103,8 +103,8 @@ However, their influence lives on through many standard conventions and file for
 ### Hanging chads: Factional View
 
 
-The term for the punched card area which is removed during a punch is *chad*. One notorious problem with a punched card system of tabulation is the incomplete punch; this can lead to a smaller hole than expected, or to a mere slit on the card, or to a mere dimple on the card. Thus a chad which is still attached to the card is a *hanging chad*. This technical problem actually influenced the 2000 U.S. presidential election; in the state of Florida, voting machines -- which used punched cards to tabulate votes generated improperly rendered records of several hundred votes, spread out over an entire state, which tipped the vote in favor of George W. Bush over Albert Gore, thus influencing history -- were used to sucessfully hide a [cunning scheme](/http-en-wikipedia-org-wiki-greg-palast-choicepoint-and-the-2000-election) to disfranchise a large group of [voters](/http-www-usccr-gov-pubs-vote2000-berry-htm) using [ChoicePoint](/http-en-wikipedia-org-wiki-choicepoint). Choicepoint is currently being shown to have less than stellar crypto and security for its clients. 
-[The United States Commission on Civil Rights](/http-www-usccr-gov) demonstrated further in its' report on [Voting Irregularities in Florida During the 2000 Presidential Election](/http-www-usccr-gov-pubs-vote2000-report-main-htm) that:
+The term for the punched card area which is removed during a punch is *chad*. One notorious problem with a punched card system of tabulation is the incomplete punch; this can lead to a smaller hole than expected, or to a mere slit on the card, or to a mere dimple on the card. Thus a chad which is still attached to the card is a *hanging chad*. This technical problem actually influenced the 2000 U.S. presidential election; in the state of Florida, voting machines -- which used punched cards to tabulate votes generated improperly rendered records of several hundred votes, spread out over an entire state, which tipped the vote in favor of George W. Bush over Albert Gore, thus influencing history -- were used to sucessfully hide a [cunning scheme](https://en.wikipedia.org/wiki/greg-palast-choicepoint-and-the-2000-election) to disfranchise a large group of [voters](http://www.usccr.gov/pubs-vote2000-berry.htm) using [ChoicePoint](https://en.wikipedia.org/wiki/choicepoint). Choicepoint is currently being shown to have less than stellar crypto and security for its clients. 
+[The United States Commission on Civil Rights](http://www.usccr.gov) demonstrated further in its' report on [Voting Irregularities in Florida During the 2000 Presidential Election](http://www.usccr.gov/pubs-vote2000-report-main.htm) that:
 1. Many voters who attempted to register to vote were not notified of alleged application errors until Election Day, or in some instances, after Election Day. These voters were also denied the opportunity to correct the information so that they could vote.
 2. Other voters in Florida submitted their voter registration applications well before the deadline, but on Election Day were informed by poll workers that there was no evidence of their registrations.
 3. Many Floridians who were registered and voted in past elections were informed for the first time on November 7, 2000, that their names had been removed prior to Election Day. These individuals were given no opportunity to appeal this determination.
@@ -172,10 +172,10 @@ To be fair there were additional issues of excessive purging of felons from vote
 ### External links
 
 
-* [History of computing hardware](/http-en-wikipedia-org-wiki-history-of-computing-hardware)
-* [computer storage](/http-en-wikipedia-org-wiki-computer-storage)
-* [memory](/http-en-wikipedia-org-wiki-memory)
-* [Herman Hollerith](/http-en-wikipedia-org-wiki-herman-hollerith)
-* A [review](/http-www-americanheritage-com-amher-2001-05-cutedge-shtml) of the book *IBM and the Holocaust* ([ISBN 0609808990](/)) by Edwin Black, an interesting take on IBM's involvement with Nazi Germany.
+* [History of computing hardware](https://en.wikipedia.org/wiki/history-of-computing-hardware)
+* [computer storage](https://en.wikipedia.org/wiki/computer-storage)
+* [memory](https://en.wikipedia.org/wiki/memory)
+* [Herman Hollerith](https://en.wikipedia.org/wiki/herman-hollerith)
+* A [review](http://www.americanheritage.com/amher-2001-05-cutedge-shtml) of the book *IBM and the Holocaust* ([ISBN 0609808990](/)) by Edwin Black, an interesting take on IBM's involvement with Nazi Germany.
 * [Various punched card codes](/http-homepages-cwi-nl-dik-english-codes-80col-html)
-* [*The Undead* - Wired magazine article about modern day use of punch cards](/http-www-wired-com-wired-archive-7-03-punchcards-pr-html)
+* [*The Undead* - Wired magazine article about modern day use of punch cards](http://www.wired.com/wired-archive-7-03-punchcards-pr.html)

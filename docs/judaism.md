@@ -41,10 +41,10 @@ Koach = strength. At the bottom of the hand, the two letters on each
 hand combine to form the name of God.*
 The Tanach and the Talmud are the main holy books in Judaism. The Tanach contains the Written Torah, the writings of the major prophets, and the writings of the minor prophets. The Talmud contains Judaism's oral law. 
 
-### [Principles of Faith](/http-en-wikipedia-org-wiki-jewish-principles-of-faith)
+### [Principles of Faith](https://en.wikipedia.org/wiki/jewish-principles-of-faith)
 
 
-Judaism has always affirmed a number of other Jewish Principles of Faith, but unlike Roman Catholicism, has never developed a binding catechism. A number of formulations of Jewish beliefs have appeared, most of which have much in common with each other, yet they differ in certain details. A comparison of several such formulations demonstrates a wide array of tolerance for varying theological perspectives. Below is a summary of Jewish beliefs. A more detailed discussion of these beliefs, along with a discussion of how they developed, is found in the article on [Jewish principles of faith](/http-en-wikipedia-org-wiki-jewish-principles-of-faith). 
+Judaism has always affirmed a number of other Jewish Principles of Faith, but unlike Roman Catholicism, has never developed a binding catechism. A number of formulations of Jewish beliefs have appeared, most of which have much in common with each other, yet they differ in certain details. A comparison of several such formulations demonstrates a wide array of tolerance for varying theological perspectives. Below is a summary of Jewish beliefs. A more detailed discussion of these beliefs, along with a discussion of how they developed, is found in the article on [Jewish principles of faith](https://en.wikipedia.org/wiki/jewish-principles-of-faith). 
 
 * Monotheism - Judaism is based on strict unitarian monotheism, the belief in one God. God is conceived of as eternal, the creator of the universe, and the source of morality.
 

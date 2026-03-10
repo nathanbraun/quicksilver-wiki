@@ -30,4 +30,4 @@ The use of fermented fish in cooking has continued into the present in the form 
 #### [External links](/metaweb-external-links)
 
 
-* [http://www.geocities.com/Athens/Ithaca/8337/c\_garum.html](/http-www-geocities-com-athens-ithaca-8337-c_garum-html)
+* [http://www.geocities.com/Athens/Ithaca/8337/c\_garum.html](http://www.geocities.com/athens-ithaca-8337-c_garum.html)

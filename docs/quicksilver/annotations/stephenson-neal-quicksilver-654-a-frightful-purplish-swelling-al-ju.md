@@ -3,7 +3,7 @@
 
 From the Quicksilver Metaweb.
 
-This event is based in fact. In 1686, Louis XIV developed an perianal [fistula](/http-en-wikipedia-org-wiki-fistula).
+This event is based in fact. In 1686, Louis XIV developed an perianal [fistula](https://en.wikipedia.org/wiki/fistula).
 This is a tract connecting the inside of the anal canal with the skin surrounding the anus. It can come from inflammatory conditions like Crohn's Disease, but also from chronic infections or abscesses in the area. In particular, Louis XIV's fistula was said to come from a perirectal abscess. These present with pain, itching, and discharge, and can be VERY unpleasant.
 
 The standard surgery is a fistulotomy, in which the fistula is cut through and laid open, replacing the closed tract with an open wound that can heal over properly. These surgeries are pretty routine nowadays. The fistula can recur, but the number one complication is fecal incontinence, the risk of which depends on the location and size of the fistula.

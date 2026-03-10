@@ -28,7 +28,7 @@ from various Wikipedia sources
 **Oliver Cromwell** (April 25, 1599 - September 3, 1658) was an English politician; who, as Lord Protector following the overthrow of the British Monarchy, ruled England, Scotland and Ireland from December 16, 1653, until his death. 
 ![Oliver_Cromwell.jpg](/images/Oliver_Cromwell.jpg)
 
-When the English Civil War broke out, Cromwell raised a cavalry troop which became the basis of his **Ironsides**[[1]](/http-en2-wikipedia-org-wiki-ironside). It was at the Battle of Marston Moor (1644) that Cromwell came to prominence. As a leader of the Parliamentarian cause, and commander of the **New Model Army** which he was instrumental in forming, he defeated King Charles I's forces, thus bringing to an end the absolute power of the English monarchy. 
+When the English Civil War broke out, Cromwell raised a cavalry troop which became the basis of his **Ironsides**[[1]](https://en.wikipedia.org/wiki/ironside). It was at the Battle of Marston Moor (1644) that Cromwell came to prominence. As a leader of the Parliamentarian cause, and commander of the **New Model Army** which he was instrumental in forming, he defeated King Charles I's forces, thus bringing to an end the absolute power of the English monarchy. 
 
 ### Ironsides
 
@@ -147,8 +147,8 @@ The Lord Protector and his Son**
 ### External links
 
 
-1. [Ironsides](/http-en2-wikipedia-org-wiki-ironside) Bless Raymond Burr!
-* [Oliver Cromwell (Wikipedia)](/http-www-wikipedia-org-wiki-oliver-cromwell)
-* [Cromwell's internet portal](/http-www-cromwell-argonet-co-uk)
-* [Cromwell's ancestry (Rootsweb)](/http-papayne-rootsweb-com-d0014-f0000021-html)
-* [The Cromwell family](/http-www-tudorplace-com-ar-cromwell-htm)
+1. [Ironsides](https://en.wikipedia.org/wiki/ironside) Bless Raymond Burr!
+* [Oliver Cromwell (Wikipedia)](https://en.wikipedia.org/wiki/oliver-cromwell)
+* [Cromwell's internet portal](http://www.cromwell.argonet.co.uk)
+* [Cromwell's ancestry (Rootsweb)](http://papayne.rootsweb.com/d0014-f0000021.html)
+* [The Cromwell family](http://www.tudorplace.com/ar-cromwell.htm)

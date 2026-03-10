@@ -11,5 +11,5 @@ The second link leads to a map that could be the original of the one used in *Qu
 
 
 
-* [Lots of London maps](/http-freepages-genealogy-rootsweb-com-genmaps-genfiles-cou-pages-eng-pages-lon-htm)
-* [The Original?](/http-www-collectbritain-co-uk-personalisation-object-cfm-uid-007000000000002u00066000)
+* [Lots of London maps](http://freepages.genealogy.rootsweb.com/genmaps-genfiles-cou-pages-eng-pages-lon.htm)
+* [The Original?](http://www.collectbritain.co.uk/personalisation-object-cfm-uid-007000000000002u00066000)

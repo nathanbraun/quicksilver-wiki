@@ -21,10 +21,10 @@ Statutory basis for the Trial of the Pyx is given by the [Coinage Act 1971](/coi
 
 * *[Halsbury's Laws of England](/halsbury-s-laws-of-england)*
 * [WikiPedia:Trial of the Pyx](/)
-* [Trial of the Pyx Order 1998](/http-www-hmso-gov-uk-si-si1998-19981764-htm)
-* [Royal Mint description](/http-www-royalmint-com-about-trialofpyx-asp)
-* [Company of Goldsmiths description](/http-www-thegoldsmiths-co-uk-company-trial-htm)
-* [Pyx Chamber at Westminster Abbey](/http-www-westminster-abbey-org-tour-pyx-chamber-htm)
+* [Trial of the Pyx Order 1998](http://www.hmso.gov/uk-si-si1998-19981764.htm)
+* [Royal Mint description](http://www.royalmint.com/about-trialofpyx.asp)
+* [Company of Goldsmiths description](http://www.thegoldsmiths.co.uk/company-trial.htm)
+* [Pyx Chamber at Westminster Abbey](http://www.westminster.abbey.org/tour-pyx-chamber.htm)
 
 
 ## Stephensonia

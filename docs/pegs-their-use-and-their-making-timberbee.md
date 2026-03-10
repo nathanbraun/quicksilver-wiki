@@ -13,7 +13,7 @@ To many Lay people, the peg is often the quintessential element of a Timber Fram
 
 What Many Lay people do not seem to understand is that it is Simply Not possible for a Nail to replace a Peg, in Many of its applications.
 
-A peg, also, is not Always needed. As [Peter McCurdy](/http-www-mccurdyco-com-page3-html) discovered in his Survey of the [Great Tithing Barn at Harmondsworth](/http-www-mccurdyco-com-harmondsworth-html). 
+A peg, also, is not Always needed. As [Peter McCurdy](http://www.mccurdyco.com/page3.html) discovered in his Survey of the [Great Tithing Barn at Harmondsworth](http://www.mccurdyco.com/harmondsworth.html). 
 
 A peg is said to have two main functions;
 * As a Fastener

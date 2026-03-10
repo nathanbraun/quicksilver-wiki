@@ -14,8 +14,8 @@ Some may well ask what a blunderbuss was. Indeed, this very question, it is said
 
 
 
-* [http://www.loc.gov/exhibits/lewisandclark/preview.html](/http-www-loc-gov-exhibits-lewisandclark-preview-html)
-* [http://www.historylives.com/citizensoldiers.htm](/http-www-historylives-com-citizensoldiers-htm)
+* [http://www.loc.gov/exhibits/lewisandclark/preview.html](http://www.loc.gov/exhibits-lewisandclark-preview.html)
+* [http://www.historylives.com/citizensoldiers.htm](http://www.historylives.com/citizensoldiers.htm)
 
 
 Startled to see this definition, and I have to say that I think gentlemen of the 17th and 18th Centuries would be as well.

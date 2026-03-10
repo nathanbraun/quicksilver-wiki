@@ -345,7 +345,7 @@ From the Quicksilver Metaweb.
 ## External Links
 
 
-* [GoldMoney.com](/http-www-goldmoney-com)
-* [eGold.com](/http-www-egold-com)
-* [Pecunix](/http-www-pecunix-com)
-* [BullionVault](/http-www-bullionvault-com)
+* [GoldMoney.com](http://www.goldmoney.com)
+* [eGold.com](http://www.egold.com)
+* [Pecunix](http://www.pecunix.com)
+* [BullionVault](http://www.bullionvault.com)

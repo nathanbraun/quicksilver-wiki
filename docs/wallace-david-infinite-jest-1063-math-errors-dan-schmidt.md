@@ -17,4 +17,4 @@ Maybe this last one is just a proofing error, but in general his hit
 rate on being correct about math is below 50%, which is pretty
 bad. Perhaps only people like me care.
 
-Dan Schmidt | dfan@[omitted] | [http://www2.lglass.com/~dfan](/http-www2-lglass-com-dfan)
+Dan Schmidt | dfan@[omitted] | [http://www2.lglass.com/~dfan](http://www2.lglass.com/dfan)

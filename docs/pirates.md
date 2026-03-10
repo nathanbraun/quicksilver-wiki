@@ -103,7 +103,7 @@ The belief that Kidd left a buried treasure somewhere contributed considerably t
 
 Daniel's pursuer **Blackbeard** (1680? - November 22, 1718) was the nickname of **Edward Teach** *alias* **Edward Thatch**, a notorious English pirate who had a short reign of terror in the Caribbean Sea between 1716 and 1718. 
 
-Little is known about his early life, though it is believed he was born in Bristol, England in 1680. His career began as a seaman on privateers sailing out of Jamaica during the [War of the Spanish Succession](/http-en-wikipedia-org-wiki-war-of-the-spanish-succession) ( 1701-1713), and later served aboard a Jamaican ship commanded by the pirate, Benjamin Hornigold. He was eventually made a captain while serving under Hornigold when they captured the French merchant ship the "Concorde" which he renamed the "[Queen Anne](/queen-anne)'s Revenge."
+Little is known about his early life, though it is believed he was born in Bristol, England in 1680. His career began as a seaman on privateers sailing out of Jamaica during the [War of the Spanish Succession](https://en.wikipedia.org/wiki/war-of-the-spanish-succession) ( 1701-1713), and later served aboard a Jamaican ship commanded by the pirate, Benjamin Hornigold. He was eventually made a captain while serving under Hornigold when they captured the French merchant ship the "Concorde" which he renamed the "[Queen Anne](/queen-anne)'s Revenge."
 
 Other forms of his last name were commonly cited in letters of the day - "Thatch," "Tach," "Tash," and even "Drummond" to list a few. It is believed that he was a well educated man since he could read and write and papers were found on him after his death. It is reasonable to believe that he wished to keep his true identity secret to protect his relatives at home, so "Edward Teach" may have been just an alias. Personally Teach was said to be a somewhat amiable man, who was almost forgiving and genorous to those that cooperated with him, but at the same time he did not waste time with those who fought him or did not cooperate with him.
 
@@ -188,11 +188,11 @@ Clipperton's enterprise was to attack a [Manila Galleon](/manila-galleon), howev
 ### External links
 
 
-* **[Treaties of Utrecht](/http-en2-wikipedia-org-wiki-treaty-of-utrecht-1713)**
-* **[The Pirate Queen Grace OMalley AKA Granuaile](/http-www-piratequeen-org)**
-* **[More Grace](/http-www-rencentral-com-oct-nov-vol1-graceomalley-shtml)**
-* **[And more still Grace](/http-www-irishclans-com-articles-famirish-omalleyg-html)**
-* **[Grace Again](/http-va-essortment-com-graceomalley-rayy-htm)**
+* **[Treaties of Utrecht](https://en.wikipedia.org/wiki/treaty-of-utrecht-1713)**
+* **[The Pirate Queen Grace OMalley AKA Granuaile](http://www.piratequeen.org)**
+* **[More Grace](http://www.rencentral.com/oct-nov-vol1-graceomalley-shtml)**
+* **[And more still Grace](http://www.irishclans.com/articles-famirish-omalleyg.html)**
+* **[Grace Again](http://va.essortment.com/graceomalley-rayy.htm)**
 * **[The Peace Banquet of 1649](/http-www-museen-nuernberg-de-english-fembohaus-e-pages-zeitreise-e-16-html)**
-* **[When Blackbeard Scourged the Seas](/http-www-history-org-foundation-journal-blackbea-cfm)**
-* ***[Bush Administration issues Letters of Marque to Airlines](/http-watleyreview-com-2003-061703-1-html)*** - Parody news article
+* **[When Blackbeard Scourged the Seas](http://www.history.org/foundation-journal-blackbea-cfm)**
+* ***[Bush Administration issues Letters of Marque to Airlines](http://watleyreview.com/2003-061703-1.html)*** - Parody news article

@@ -22,7 +22,7 @@ This [Cryptonomicon](/cryptonomicon) page is about **Baseball** and **the curse 
 **Babe Ruth  
 Rookie Portrait 1915  
 Looks pretty smug  
-© [Baseball Antiquities](/http-www-baseballantiquities-com)**
+© [Baseball Antiquities](http://www.baseballantiquities.com)**
 The **Curse of the Bambino** was a tongue-in-cheek explanation for the failure of the [Boston](/boston) Red Sox baseball team to win the World Series for 86 years after they sold Babe Ruth, sometimes called *The Bambino,* to the New York Yankees. The flip side of the "curse" was New York's success—after the sale, the once-lackluster Yankees became one of the most successful franchises in North American professional sports. 
 
 The future of the phrase seems in doubt, since the Sox defeated the Yankees in dramatic fashion in the 2004 American League Championship Series and then won the 2004 World Series. However, it remains a legend of America's fascination with baseball and helps to frame the mythical rivalry between the Red Sox and the Yankees that reflects a similarly storied rivalry between the cities of Boston and New York that dates back to the colonial era, when Boston, once the largest city in North America, became supplanted by New York.
@@ -70,14 +70,14 @@ Below is the payroll history of the Boston Red Sox:
 |  |  |  |
 | --- | --- | --- |
 | Year | Median salary | Total Payroll |
-| [2005](/http-asp-usatoday-com-sports-baseball-salaries-teamdetail-aspx-team-3-amp-year-2005) | [$ 2,875,000](/http-asp-usatoday-com-sports-baseball-salaries-mediansalaries-aspx-year-2005) | [$123,505,125](/http-asp-usatoday-com-sports-baseball-salaries-totalpayroll-aspx-year-2005) |
-| [2004](/http-asp-usatoday-com-sports-baseball-salaries-teamdetail-aspx-team-3-amp-year-2004) | [$ 3,087,500](/http-asp-usatoday-com-sports-baseball-salaries-mediansalaries-aspx-year-2004) | [$ 127,298,500](/http-asp-usatoday-com-sports-baseball-salaries-totalpayroll-aspx-year-2004) |
-| [2003](/http-asp-usatoday-com-sports-baseball-salaries-teamdetail-aspx-team-3-amp-year-2003) | [$ 2,000,000](/http-asp-usatoday-com-sports-baseball-salaries-mediansalaries-aspx-year-2003) | [$ 99,946,500](/http-asp-usatoday-com-sports-baseball-salaries-totalpayroll-aspx-year-2003) |
-| [2002](/http-asp-usatoday-com-sports-baseball-salaries-teamdetail-aspx-team-3-amp-year-2002) | [$ 2,287,500](/http-asp-usatoday-com-sports-baseball-salaries-mediansalaries-aspx-year-2002) | [$ 108,366,060](/http-asp-usatoday-com-sports-baseball-salaries-totalpayroll-aspx-year-2002) |
-| [2001](/http-asp-usatoday-com-sports-baseball-salaries-teamdetail-aspx-team-3-amp-year-2001) | [$ 1,962,500](/http-asp-usatoday-com-sports-baseball-salaries-mediansalaries-aspx-year-2001) | [$ 109,675,833](/http-asp-usatoday-com-sports-baseball-salaries-totalpayroll-aspx-year-2001) |
-| [2000](/http-asp-usatoday-com-sports-baseball-salaries-teamdetail-aspx-team-3-amp-year-2000) | [$ 2,000,000](/http-asp-usatoday-com-sports-baseball-salaries-mediansalaries-aspx-year-2000) | [$ 81,210,333](/http-asp-usatoday-com-sports-baseball-salaries-totalpayroll-aspx-year-2000) |
-| [1999](/http-asp-usatoday-com-sports-baseball-salaries-teamdetail-aspx-team-3-amp-year-1999) | [$ 1,500,000](/http-asp-usatoday-com-sports-baseball-salaries-mediansalaries-aspx-year-1999) | [$ 71,720,000](/http-asp-usatoday-com-sports-baseball-salaries-totalpayroll-aspx-year-1999) |
-| [1998](/http-asp-usatoday-com-sports-baseball-salaries-teamdetail-aspx-team-3-amp-year-1998) | [$ 1,000,000](/http-asp-usatoday-com-sports-baseball-salaries-mediansalaries-aspx-year-1998) | [$ 51,647,000](/http-asp-usatoday-com-sports-baseball-salaries-totalpayroll-aspx-year-1998) |
+| [2005](http://asp.usatoday.com/sports-baseball-salaries-teamdetail-aspx-team-3-amp-year-2005) | [$ 2,875,000](http://asp.usatoday.com/sports-baseball-salaries-mediansalaries-aspx-year-2005) | [$123,505,125](http://asp.usatoday.com/sports-baseball-salaries-totalpayroll-aspx-year-2005) |
+| [2004](http://asp.usatoday.com/sports-baseball-salaries-teamdetail-aspx-team-3-amp-year-2004) | [$ 3,087,500](http://asp.usatoday.com/sports-baseball-salaries-mediansalaries-aspx-year-2004) | [$ 127,298,500](http://asp.usatoday.com/sports-baseball-salaries-totalpayroll-aspx-year-2004) |
+| [2003](http://asp.usatoday.com/sports-baseball-salaries-teamdetail-aspx-team-3-amp-year-2003) | [$ 2,000,000](http://asp.usatoday.com/sports-baseball-salaries-mediansalaries-aspx-year-2003) | [$ 99,946,500](http://asp.usatoday.com/sports-baseball-salaries-totalpayroll-aspx-year-2003) |
+| [2002](http://asp.usatoday.com/sports-baseball-salaries-teamdetail-aspx-team-3-amp-year-2002) | [$ 2,287,500](http://asp.usatoday.com/sports-baseball-salaries-mediansalaries-aspx-year-2002) | [$ 108,366,060](http://asp.usatoday.com/sports-baseball-salaries-totalpayroll-aspx-year-2002) |
+| [2001](http://asp.usatoday.com/sports-baseball-salaries-teamdetail-aspx-team-3-amp-year-2001) | [$ 1,962,500](http://asp.usatoday.com/sports-baseball-salaries-mediansalaries-aspx-year-2001) | [$ 109,675,833](http://asp.usatoday.com/sports-baseball-salaries-totalpayroll-aspx-year-2001) |
+| [2000](http://asp.usatoday.com/sports-baseball-salaries-teamdetail-aspx-team-3-amp-year-2000) | [$ 2,000,000](http://asp.usatoday.com/sports-baseball-salaries-mediansalaries-aspx-year-2000) | [$ 81,210,333](http://asp.usatoday.com/sports-baseball-salaries-totalpayroll-aspx-year-2000) |
+| [1999](http://asp.usatoday.com/sports-baseball-salaries-teamdetail-aspx-team-3-amp-year-1999) | [$ 1,500,000](http://asp.usatoday.com/sports-baseball-salaries-mediansalaries-aspx-year-1999) | [$ 71,720,000](http://asp.usatoday.com/sports-baseball-salaries-totalpayroll-aspx-year-1999) |
+| [1998](http://asp.usatoday.com/sports-baseball-salaries-teamdetail-aspx-team-3-amp-year-1998) | [$ 1,000,000](http://asp.usatoday.com/sports-baseball-salaries-mediansalaries-aspx-year-1998) | [$ 51,647,000](http://asp.usatoday.com/sports-baseball-salaries-totalpayroll-aspx-year-1998) |
 
 
 
@@ -106,6 +106,6 @@ In July of 2005, the International Olympic Committee announced it would be dropp
 ### External links
 
 
-* [Official Website of Major League Baseball](/http-www-mlb-com)
-* [Baseball Basics from MLB.com](/http-mlb-mlb-com-nasapp-mlb-mlb-official-info-baseball-basics-on-the-field-jsp)
-* [MLB Official Rules](/http-www-mlb-mlb-com-nasapp-mlb-mlb-official-info-official-rules-foreword-jsp)
+* [Official Website of Major League Baseball](http://www.mlb.com)
+* [Baseball Basics from MLB.com](http://mlb.mlb.com/nasapp-mlb-mlb-official-info-baseball-basics-on-the-field-jsp)
+* [MLB Official Rules](http://www.mlb.mlb.com/nasapp-mlb-mlb-official-info-official-rules-foreword-jsp)

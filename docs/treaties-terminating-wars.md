@@ -32,7 +32,7 @@ Think of Drake and Morgan and how they advanced the English position. Both had '
 #### Arty Messenger of Peace
 
 
-* ***(Aside - [Peter Paul Rubens](/http-en2-wikipedia-org-wiki-rubens)*** - His picture in the National Gallery, London, [The Allegory of Peace and War](/http-gallery-euroweb-hu-html-r-rubens-3allegor), 1629, reflects, and even illustrates, his strong concern for peace. It was given to King [Charles I](/charles-i) and helped to create a peace treaty between London and Madrid. He even visited Holland which was enemy territory partly to meet Dutch artists and partly to seek for reconciliation. It was here that he came up against the attitude that courtiers should not use their hands an any art or craft. But because he was such a fine artist King Philip and King Charles both enjoyed his company as well as his art. Rubens is to be seen as a highly talented artist, a scholar and diplomat, brilliant at drawing and painting).
+* ***(Aside - [Peter Paul Rubens](https://en.wikipedia.org/wiki/rubens)*** - His picture in the National Gallery, London, [The Allegory of Peace and War](/http-gallery-euroweb-hu-html-r-rubens-3allegor), 1629, reflects, and even illustrates, his strong concern for peace. It was given to King [Charles I](/charles-i) and helped to create a peace treaty between London and Madrid. He even visited Holland which was enemy territory partly to meet Dutch artists and partly to seek for reconciliation. It was here that he came up against the attitude that courtiers should not use their hands an any art or craft. But because he was such a fine artist King Philip and King Charles both enjoyed his company as well as his art. Rubens is to be seen as a highly talented artist, a scholar and diplomat, brilliant at drawing and painting).
 
 **Allegory on the Blessings of Peace** is the only surviving Rubens' ceiling painting.
 
@@ -49,5 +49,5 @@ Think of Drake and Morgan and how they advanced the English position. Both had '
 ### External Links
 
 
-* **[Treaties of Ultrecht](/http-en2-wikipedia-org-wiki-treaty-of-utrecht-1713)**
+* **[Treaties of Ultrecht](https://en.wikipedia.org/wiki/treaty-of-utrecht-1713)**
 * **[The Peace Banquet of 1649](/http-www-museen-nuernberg-de-english-fembohaus-e-pages-zeitreise-e-16-html)**

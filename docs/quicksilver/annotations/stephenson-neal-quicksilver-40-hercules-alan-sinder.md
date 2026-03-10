@@ -7,7 +7,7 @@ This is the [Quicksilver](/quicksilver) page for **Hercules**
 ### Stephensonia
 
 
-*This is the 2nd time we catch [Enoch Root](/enoch-root) discussing [Heracles](/heracles) with a member of the [Waterhouse family](/waterhouse-family); though it may be the first chronologically. Is it poetic for 'probable '[Deists](/http-en-wikipedia-org-wiki-deist) *like Enoch and [Daniel](/daniel-waterhouse) to talk of pagan mythology?**
+*This is the 2nd time we catch [Enoch Root](/enoch-root) discussing [Heracles](/heracles) with a member of the [Waterhouse family](/waterhouse-family); though it may be the first chronologically. Is it poetic for 'probable '[Deists](https://en.wikipedia.org/wiki/deist) *like Enoch and [Daniel](/daniel-waterhouse) to talk of pagan mythology?**
 
 ### Authored entries
 

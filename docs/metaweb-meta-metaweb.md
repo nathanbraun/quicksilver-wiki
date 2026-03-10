@@ -24,10 +24,10 @@ Here's a preview of the new front page by [User:Ken](/user-ken). To view it, ext
 
 More web logs linking here. --[Pat](/user-patrick-tufts) 21:08, 21 Oct 2003 (PDT)
 
-* [Tingilinde](/http-tingilinde-typepad-com-starstuff-2003-09-quicksilver-wik-html)
-* [Kairosnews](/http-kairosnews-org-node-view-3369)
-* [Vanderwal.net](/http-www-vanderwal-net-random-entrysel-php-blog-1335)
-* [Gadgetopia](/http-www-gadgetopia-com-2003-09-26-quicksilverwiki-html)
+* [Tingilinde](http://tingilinde.typepad.com/starstuff-2003-09-quicksilver-wik.html)
+* [Kairosnews](http://kairosnews.org/node-view-3369)
+* [Vanderwal.net](http://www.vanderwal.net/random-entrysel-php-blog-1335)
+* [Gadgetopia](http://www.gadgetopia.com/2003-09-26-quicksilverwiki.html)
 
 
 ### Authored vs anonymous pages
@@ -47,13 +47,13 @@ The discussion is on [metaweb: authored vs anonymous pages](/metaweb-authored-vs
 Here are some recent mentions of this site. --[Pat](/user-patrick-tufts) 17:30, 2 Oct 2003 (PDT)
 
 * blogs
-	+ [BoingBoing](/http-boingboing-net-2003-09-01-archive-html-106438136711313636)
-	+ [Alternate BoingBoing Link](/http-www-boingboing-net-2003-09-23-neal-stephenson-laun-html)
-	+ [MemeWatch](/http-memewatch-com-thelist-archives-2003-09-25-quicksilver-wiki-metaweb-html-003291)
-	+ [PolyTropos](/http-www-polytropos-org-archives-000100-html)
-	+ [MetaGrrrl](/http-www-metagrrrl-com-metagrrrl-2003-09-blurring-lines-html)
-	+ [Many To Many](/http-www-corante-com-many-archives-2003-09-24-neal-stephenson-wiki-php)
-	+ [Vacuum](/http-vielmetti-typepad-com-vacuum-2003-10-neal-stephenson-html)
+	+ [BoingBoing](http://boingboing.net/2003-09-01-archive-html-106438136711313636)
+	+ [Alternate BoingBoing Link](http://www.boingboing.net/2003-09-23-neal-stephenson-laun.html)
+	+ [MemeWatch](http://memewatch.com/thelist-archives-2003-09-25-quicksilver-wiki-metaweb-html-003291)
+	+ [PolyTropos](http://www.polytropos.org/archives-000100.html)
+	+ [MetaGrrrl](http://www.metagrrrl.com/metagrrrl-2003-09-blurring-lines.html)
+	+ [Many To Many](http://www.corante.com/many-archives-2003-09-24-neal-stephenson-wiki.php)
+	+ [Vacuum](http://vielmetti.typepad.com/vacuum-2003-10-neal-stephenson.html)
 
 
 ### Printable version of all page annotations
@@ -74,7 +74,7 @@ I put a link at the bottom of the all\_annotations\_by\_page\_number page to the
 
 
 This page seems to be broken, as it only lists pages up into the letter "L". Can someone have a look at it? - [Mike Lorrey](/user-mlorrey) 25 Jan 2005
- You mean [this page?](/http-www-metaweb-com-wiki-wiki-phtml-title-special-allpages-from-1656) Check [this page](/http-www-metaweb-com-wiki-wiki-phtml-title-special-allpages) instead. Also, it goes Lucy Walter, MMORPGs:Breaking The Addiction (Timberbee) due to sorting caps before lowercase... - [Pronoiac](/user-pronoiac) 17:38, 26 Jan 2005 (PST)
+ You mean [this page?](http://www.metaweb.com/wiki-wiki-phtml-title-special-allpages-from-1656) Check [this page](http://www.metaweb.com/wiki-wiki-phtml-title-special-allpages) instead. Also, it goes Lucy Walter, MMORPGs:Breaking The Addiction (Timberbee) due to sorting caps before lowercase... - [Pronoiac](/user-pronoiac) 17:38, 26 Jan 2005 (PST)
 
 ### Administrative issues
 
@@ -85,17 +85,17 @@ This page seems to be broken, as it only lists pages up into the letter "L". Can
 
 
 
-Shouldn't metaweb look into federating with existing wikis, such as [wikipedia.org](/http-wikipedia-org)? Can't see much use in creating Metaweb specific topics for, example: [Newton](/http-www-wikipedia-org-wiki-isaac-newton), [Leibniz](/http-www-wikipedia-org-wiki-gottfried-wilhelm-leibniz), and [Huygen](/http-www-metaweb-com-wiki-wiki-phtml) are already defined on wikipedia... along with various topics such as [monads](/http-www-wikipedia-org-wiki-monad).
+Shouldn't metaweb look into federating with existing wikis, such as [wikipedia.org](http://wikipedia.org)? Can't see much use in creating Metaweb specific topics for, example: [Newton](https://en.wikipedia.org/wiki/isaac-newton), [Leibniz](https://en.wikipedia.org/wiki/gottfried-wilhelm-leibniz), and [Huygen](http://www.metaweb.com/wiki-wiki-phtml) are already defined on wikipedia... along with various topics such as [monads](https://en.wikipedia.org/wiki/monad).
 
  I'm not sure what federating means, but you might be interested in the differences between the Wikipedia and the Metaweb. See [Metaweb:An explanation of the similarities and differences between Wikipedia and Metaweb](/metaweb-an-explanation-of-the-similarities-and-differences-between-wikipedia-and-metaweb) for some discussion of this. If you would like to link to Wikipedia content in the [metaweb:intermediate pages](/metaweb-intermediate-page), I encourage you to do so. If you want to copy content from the Metaweb into the Wikipedia, or vice versa, this is fine too, as long as you cite your source. --[Pat](/user-patrick-tufts) 21:38, 28 Sep 2003 (PDT)
 
-Two challenges that prevent "federating" are (a) lack of a [wikitext standard](/wikitext-standard) to keep content portable. So far most GFDL wikis have used [mediawiki](/mediawiki) software, but it clearly isn't the best, so, that will probably change soon. (b) [Metaweb:governance ideas](/metaweb-governance-ideas) that may differ from other Wikis. Especially since [Wikipedia is always provoking discussion of how bad its governance is](/http-meta-wikipedia-org-wiki-regime-change) and has no [peace process](/http-meta-wikipedia-org-wiki-wikipedia-peace-process) in place to head off its [vicious cycle](/http-meta-wikipedia-org-wiki-wikipedia-vicious-cycle). Very different editorial standards don't easily cooperate, nor it seems do different political views. Just what do you mean by "federating"?
+Two challenges that prevent "federating" are (a) lack of a [wikitext standard](/wikitext-standard) to keep content portable. So far most GFDL wikis have used [mediawiki](/mediawiki) software, but it clearly isn't the best, so, that will probably change soon. (b) [Metaweb:governance ideas](/metaweb-governance-ideas) that may differ from other Wikis. Especially since [Wikipedia is always provoking discussion of how bad its governance is](https://meta.wikipedia.org/wiki/regime-change) and has no [peace process](https://meta.wikipedia.org/wiki/wikipedia-peace-process) in place to head off its [vicious cycle](https://meta.wikipedia.org/wiki/wikipedia-vicious-cycle). Very different editorial standards don't easily cooperate, nor it seems do different political views. Just what do you mean by "federating"?
 
 I don't know what the original poster meant by "federating".
-There's a lot of ideas floating around at [http://CommunityWiki.org/](/http-communitywiki-org) on various ways of making it easier for people to go back and forth between wiki.
+There's a lot of ideas floating around at [http://CommunityWiki.org/](http://communitywiki.org) on various ways of making it easier for people to go back and forth between wiki.
 Those methods include:
-* Sister sites: When you reach the end of the article, there's icons for a few other wiki. When you click on one, it sends you to -- not the homepage of that wiki, but -- the corresponding page with the same name. It's useful for seeing different wiki point of view on a particular subject. (for more details, see [http://c2.com/cgi/wiki?SisterSites](/http-c2-com-cgi-wiki-sistersites) )
-* Interwiki linking allows Page authors to use simplified links. It's easier to write *[[Wikipedia:Newton]]* than *http://www.wikipedia.org/wiki/Isaac\_Newton*. This is already built into MediaWiki software. It's used on [http://wikibooks.org/](/http-wikibooks-org) all the time to link to Wikipedia articles, and vice versa.
+* Sister sites: When you reach the end of the article, there's icons for a few other wiki. When you click on one, it sends you to -- not the homepage of that wiki, but -- the corresponding page with the same name. It's useful for seeing different wiki point of view on a particular subject. (for more details, see [http://c2.com/cgi/wiki?SisterSites](http://c2.com/cgi-wiki-sistersites) )
+* Interwiki linking allows Page authors to use simplified links. It's easier to write *[[Wikipedia:Newton]]* than *http://www.wikipedia.org/wiki/Isaac\_Newton*. This is already built into MediaWiki software. It's used on [http://wikibooks.org/](http://wikibooks.org) all the time to link to Wikipedia articles, and vice versa.
 
 --[DavidCary](/user-davidcary) 09:37, 28 Feb 2005 (PST)
 I found this odd spelling works where noncapitalization of the P fails: *[[WikiPedia:Newton]]* - [Sparky](/user-stsparky)

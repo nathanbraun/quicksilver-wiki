@@ -37,7 +37,7 @@ A [Quicksilver](/quicksilver) page that looks at what moves
 
 
 
-### [Wikipedia: Gears](/http-en-wikipedia-org-wiki-gears)
+### [Wikipedia: Gears](https://en.wikipedia.org/wiki/gears)
 
 
 A gear is a toothed wheel designed to transmit torque to another gear or toothed component. The teeth of a gear are shaped to minimize wear, vibration and noise, and to maximize the efficiency of power transmission.![200px-Gears_large.jpg](/https://web.archive.org/web/20060725170231im_/http://en.wikipedia.org/upload/thumb/5/57/200px-Gears_large.jpg)  
@@ -70,14 +70,14 @@ In some machines it is necessary to change the gear ratio to suit the task. Ther
 
 The tooth form used for most applications is involute but there are other tooth forms such as cycloidal (used in mechanical clocks) or rack (used in automobile steering).
 
-### [Wikipedia: Crank (mechanism)](/http-en-wikipedia-org-wiki-crank)
+### [Wikipedia: Crank (mechanism)](https://en.wikipedia.org/wiki/crank)
 
 
 A crank is a bent portion of an axle, or shaft, or an arm keyed at right angles to the end of a shaft, by which motion is imparted to or received from it; also used to change circular into reciprocating motion, or reciprocating into circular motion. Familiar examples of a crank for manual use include the crank on a manual pencil sharpener and the cranks on the pedals that drive a bicycle.
 
 Cranks were formerly common on some machines in the early 20th century; for example almost all phonographs before the 1930s were powered by clockwork motors wound with cranks, and internal combustion engines of automobiles were usually started with cranks before electric starters came into general use.
 
-### [Wikipedia: Crankshaft](/http-en-wikipedia-org-wiki-crankshaft) or shaft
+### [Wikipedia: Crankshaft](https://en.wikipedia.org/wiki/crankshaft) or shaft
 
 
 ![Crankshaft.png](/https://web.archive.org/web/20060725170231im_/http://upload.wikimedia.org/wikipedia/en/f/f0/Crankshaft.png)  
@@ -129,7 +129,7 @@ In the Wankel engine, the rotors drive the eccentic shaft, which can be consider
 ### External link
 
 
-* [1670 GOTTFRIED VON LIEBNIZ CREATES A MORE RELIABLE ADDING MACHINE THAT ADDS, SUBTRACTS, MULTIPLIES, DIVIDES, AND CALCULATES SQUARE ROOTS.](/http-www-cis-usouthal-edu-faculty-daigle-project1-70gott-htm)
-* [Leibniz Calculating Machine](/http-www-1-ibm-com-ibm-history-exhibits-attic3-attic3-037-html)
-* [Antikythera mechanism](/http-en-wikipedia-org-wiki-antikythera-mechanism)
-* [Epicyclic gearing](/http-en-wikipedia-org-wiki-epicyclic-gearing)
+* [1670 GOTTFRIED VON LIEBNIZ CREATES A MORE RELIABLE ADDING MACHINE THAT ADDS, SUBTRACTS, MULTIPLIES, DIVIDES, AND CALCULATES SQUARE ROOTS.](http://www.cis.usouthal.edu/faculty-daigle-project1-70gott.htm)
+* [Leibniz Calculating Machine](http://www.1.ibm.com/ibm-history-exhibits-attic3-attic3-037.html)
+* [Antikythera mechanism](https://en.wikipedia.org/wiki/antikythera-mechanism)
+* [Epicyclic gearing](https://en.wikipedia.org/wiki/epicyclic-gearing)

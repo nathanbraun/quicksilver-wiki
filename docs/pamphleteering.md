@@ -48,7 +48,7 @@ Topics ranged from Elizabethan religious controversy, the book trade, the distri
 ### External links
 
 
-* [Pamphlets and Pamphleteering in Early Modern Britain](/http-www-cambridge-org-uk-catalogue-catalogue-asp-isbn-0521819016)
+* [Pamphlets and Pamphleteering in Early Modern Britain](http://www.cambridge.org.uk/catalogue-catalogue-asp-isbn-0521819016)
 
 
   

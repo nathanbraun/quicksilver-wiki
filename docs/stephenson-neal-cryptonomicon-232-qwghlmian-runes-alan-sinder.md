@@ -23,7 +23,7 @@ A Possible Qwghlmian Alphabet
 
 created for Wikipedia for its  
 
-[Runic Alphabet entry](/http-en-wikipedia-org-wiki-runic-alphabet)**
+[Runic Alphabet entry](https://en.wikipedia.org/wiki/runic-alphabet)**
 
 #### Authored entries
 
@@ -51,8 +51,8 @@ created for Wikipedia for its
 ### External links
 
 
-* [Neal Stephenson interview (baroquecycle.com)](/http-www-baroquecycle-com-interview-htm)
-* On [Omniglot](/http-www-omniglot-com):
-	+ [Runic alphabet](/http-www-omniglot-com-writing-runic-htm)
-	+ Tolkien's [Cirth runes](/http-www-omniglot-com-writing-cirth-htm) (often used by [Dwarves](/stephenson-neal-cryptonomicon-121-randy-is-a-dwarf-alan-sinder))
-* [Siglas Poveiras](/http-en-wikipedia-org-wiki-siglas-poveiras)
+* [Neal Stephenson interview (baroquecycle.com)](http://www.baroquecycle.com/interview.htm)
+* On [Omniglot](http://www.omniglot.com):
+	+ [Runic alphabet](http://www.omniglot.com/writing-runic.htm)
+	+ Tolkien's [Cirth runes](http://www.omniglot.com/writing-cirth.htm) (often used by [Dwarves](/stephenson-neal-cryptonomicon-121-randy-is-a-dwarf-alan-sinder))
+* [Siglas Poveiras](https://en.wikipedia.org/wiki/siglas-poveiras)

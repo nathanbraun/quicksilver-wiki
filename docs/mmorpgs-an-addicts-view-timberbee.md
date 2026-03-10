@@ -139,14 +139,14 @@ One of the easiest ways to gauge an online Game's health has been to see how man
 ### Industry Related
 
 
-* [Bite The Hand](/http-www-skotos-net-articles-bth-shtml)
+* [Bite The Hand](http://www.skotos.net/articles-bth-shtml)
 
 ### Ultima Online
 
 
-* [Uo Stratics](/http-uo-stratics-com)
-* [Uo'sOfficial Website](/http-www-uo-com)
-* [A Wiki-Like UO write up](/http-www-fact-index-com-u-ul-ultima-online-html)
+* [Uo Stratics](http://uo.stratics.com)
+* [Uo'sOfficial Website](http://www.uo.com)
+* [A Wiki-Like UO write up](http://www.fact.index.com/u-ul-ultima-online.html)
 
 ### Anarchy Online
 
@@ -169,11 +169,11 @@ One of the easiest ways to gauge an online Game's health has been to see how man
 ## The Virtues
 
 
-* [Compassion](/http-uo-stratics-com-content-virtues-compassion-shtml)
-* [Honesty](/http-uo-stratics-com-content-virtues-virtues-shtml)
-* [Honor](/http-uo-stratics-com-content-virtues-honor-shtml)
-* [Humility](/http-uo-stratics-com-content-virtues-humility-shtml)
-* [Justice](/http-uo-stratics-com-content-virtues-justice-shtml)
-* [Sacrifice](/http-uo-stratics-com-content-virtues-sacrifice-shtml)
-* [Spirituality](/http-uo-stratics-com-content-virtues-sacrifice-shtml)
-* [Valor](/http-uo-stratics-com-content-virtues-valor-shtml)
+* [Compassion](http://uo.stratics.com/content-virtues-compassion-shtml)
+* [Honesty](http://uo.stratics.com/content-virtues-virtues-shtml)
+* [Honor](http://uo.stratics.com/content-virtues-honor-shtml)
+* [Humility](http://uo.stratics.com/content-virtues-humility-shtml)
+* [Justice](http://uo.stratics.com/content-virtues-justice-shtml)
+* [Sacrifice](http://uo.stratics.com/content-virtues-sacrifice-shtml)
+* [Spirituality](http://uo.stratics.com/content-virtues-sacrifice-shtml)
+* [Valor](http://uo.stratics.com/content-virtues-valor-shtml)

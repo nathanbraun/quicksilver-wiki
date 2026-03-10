@@ -67,4 +67,4 @@ Thus, the less confusing, more fundamental and more accurate term **neoclassical
 
 
 
-* [THE FREE-MARKET AL-QAEDA: Neoliberal Think Tanks and the Harm They Do](/http-www-baltimorechronicle-com-jun03-behan-shtml) by [Richard W. Behan](/richard-w-behan)
+* [THE FREE-MARKET AL-QAEDA: Neoliberal Think Tanks and the Harm They Do](http://www.baltimorechronicle.com/jun03-behan-shtml) by [Richard W. Behan](/richard-w-behan)

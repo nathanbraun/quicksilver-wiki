@@ -11,7 +11,7 @@ What seems ironic in the book is that the FBI's consideration of Andrew as the *
 ---
 
 
-This note was to the original poster -- Read the book. [Cayuse](/http-www-endoftheoregontrail-org-road2oregon-sa19indians-html) hunting skillsets may not effectively work in a tropical jungle with WWII boobytraps.
+This note was to the original poster -- Read the book. [Cayuse](http://www.endoftheoregontrail.org/road2oregon-sa19indians.html) hunting skillsets may not effectively work in a tropical jungle with WWII boobytraps.
 
 
 ---
@@ -50,7 +50,7 @@ I would not know where to begin editing this Article. It is certainly nothing li
 
 [timberbee](/user-timberbee) 04:29, 5 Jan 2004 (PST)
 
-You have my permission to edit the article. The original author seemed to extoll what he saw as the *proper* confrontational [survivalist](/http-en2-wikipedia-org-wiki-libertarian-survivalist) mindset of Andrew Loeb without bothering to read the book. Any community entry can be edited to finess the Neutral Point of View (NPOV) we strive for at the [Metaweb](/main-page). I'm only human and that I failed to get the self professed troll to actually read the book may have leaked through while I wrote the second entry, - [Sparky](/user-stsparky) 04:59, 2004 Jan 5 (PST)
+You have my permission to edit the article. The original author seemed to extoll what he saw as the *proper* confrontational [survivalist](https://en.wikipedia.org/wiki/libertarian-survivalist) mindset of Andrew Loeb without bothering to read the book. Any community entry can be edited to finess the Neutral Point of View (NPOV) we strive for at the [Metaweb](/main-page). I'm only human and that I failed to get the self professed troll to actually read the book may have leaked through while I wrote the second entry, - [Sparky](/user-stsparky) 04:59, 2004 Jan 5 (PST)
 
 #### It's a Difficult Question
 
@@ -118,7 +118,7 @@ There is the *Satanist* cousin of the evil Padre.
 ---
 
 
-A.A: [Golem](/http-www-homunculus-com) is not helping those who read the book. - [Sparky](/user-stsparky)
+A.A: [Golem](http://www.homunculus.com) is not helping those who read the book. - [Sparky](/user-stsparky)
 
 
 ---

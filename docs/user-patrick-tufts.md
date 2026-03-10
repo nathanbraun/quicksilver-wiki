@@ -11,4 +11,4 @@ I am a real person based on a fictional character. I am often found at *Applied 
 
 I'm also one of the people behind the Metaweb. If you have any problems with the site, add a note to [my talk page](/user-talk-patrick-tufts) and I will take a look.
 
-My home page is [[http://www.cs.brandeis.edu/~zippy](/http-www-cs-brandeis-edu-zippy)](http-www-cs-brandeis-edu-zippy).
+My home page is [[http://www.cs.brandeis.edu/~zippy](http://www.cs.brandeis.edu/zippy)](http-www-cs-brandeis-edu-zippy).

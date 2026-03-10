@@ -14,14 +14,14 @@ From the Quicksilver Metaweb.
 
 * [Leibniz  and Black Humor (Alan Sinder)](/leibniz-and-black-humor-alan-sinder)
 * [Stephenson:Neal:Cryptonomicon:121:Randy is a Dwarf...(Alan Sinder)](/stephenson-neal-cryptonomicon-121-randy-is-a-dwarf-alan-sinder) - Tolkien
-* [Stephenson:Neal:Cryptonomicon:277:a sharpened Y...(Alan Sinder)](/stephenson-neal-cryptonomicon-277-a-sharpened-y-alan-sinder) - [Jonny Quest](/http-en-wikipedia-org-wiki-jonny-quest)'s Giant Komodo Dragons
+* [Stephenson:Neal:Cryptonomicon:277:a sharpened Y...(Alan Sinder)](/stephenson-neal-cryptonomicon-277-a-sharpened-y-alan-sinder) - [Jonny Quest](https://en.wikipedia.org/wiki/jonny-quest)'s Giant Komodo Dragons
 * [Stephenson:Neal:Quicksilver:166:Strange information (Neal Stephenson)](/stephenson-neal-quicksilver-166-strange-information-neal-stephenson)
 * [Stephenson:Neal:The System of the World:9:a Dwarf out of some Saxon ring-saga (Armaced)](/stephenson-neal-the-system-of-the-world-9-a-dwarf-out-of-some-saxon-ring-saga-armaced)
 * [Stephenson:Neal:The System of the World:248:...never expected the Spanish Inquisition (Electricinca)](/stephenson-neal-the-system-of-the-world-248-never-expected-the-spanish-inquisition-electricinca)
 * [Stephenson:Neal:The System of the World:469:Python explain'd (DaveSeidel)](/stephenson-neal-the-system-of-the-world-469-python-explain-d-daveseidel)
 
 
-### [Wikipedia:Men in Black (movie)](/http-en-wikipedia-org-wiki-men-in-black-movie)
+### [Wikipedia:Men in Black (movie)](https://en.wikipedia.org/wiki/men-in-black-movie)
 
 
 
@@ -41,7 +41,7 @@ An animated television series followed, based closely on the style of the movie.
 
 The movie sequel Men in Black II or (M.II.B.) was released in summer 2002, which had the memory of Jones' character restored so he could battle new threats alongside his former partner. 
 
-### [Smith and Jones Wikipedia: Alias Smith and Jones](/http-en-wikipedia-org-wiki-alias)
+### [Smith and Jones Wikipedia: Alias Smith and Jones](https://en.wikipedia.org/wiki/alias)
 
 
 ***Alias Smith and Jones*** was a television comedy-western series on ABC from 1971 to 1973, starring Pete Duel and Ben Murphy.
@@ -55,7 +55,7 @@ When Pete Duel died suddenly, December 31 1971 -- a possible suicide -- an attem
 #### The Young Country
 
 
-[Alias Smith and Jones](/http-us-imdb-com-title-tt0065381): is actually a reworking of an earlier pilot/movie, called "The Young Country," about con artists in the Old West. It starred Roger Davis AND Pete Duel and was quite good. If it has ever been shown anywhere since its or- iginal ABC network airings(I assume they reran it once)it got by me. Apparently an ABC executive said "Not bad, but make it more like "Butch Cassidy And The Sundance Kid'" and a Universal studio exec added, "Here's a sort of Paul Newman look-a-like we've got under contract you can use, so lose one of those guys." So Ben Murphy replaced Davis in the second pilot and the rest is history. If you doubt me, note that in "Country" Joan Hackett plays a character called Clementine Hale, the same name given to Sally Field's two-time guest role in the "AS&J" series. It is a shame that Roger Davis is thought of as the guy that flopped as Duel's replacement, because he was very effective in the original.
+[Alias Smith and Jones](http://us.imdb.com/title-tt0065381): is actually a reworking of an earlier pilot/movie, called "The Young Country," about con artists in the Old West. It starred Roger Davis AND Pete Duel and was quite good. If it has ever been shown anywhere since its or- iginal ABC network airings(I assume they reran it once)it got by me. Apparently an ABC executive said "Not bad, but make it more like "Butch Cassidy And The Sundance Kid'" and a Universal studio exec added, "Here's a sort of Paul Newman look-a-like we've got under contract you can use, so lose one of those guys." So Ben Murphy replaced Davis in the second pilot and the rest is history. If you doubt me, note that in "Country" Joan Hackett plays a character called Clementine Hale, the same name given to Sally Field's two-time guest role in the "AS&J" series. It is a shame that Roger Davis is thought of as the guy that flopped as Duel's replacement, because he was very effective in the original.
 
 ### [Alas Smith and Jones](/)
 
@@ -77,5 +77,5 @@ December 21, 1988: 40 minutes special, Alas Sage And Onion
 
 
 * [Mr. Smith and Mr. Jones](/http-www-kinomarkt-ch-bilderusplakate-740568-jpg) - Movie promotional poster that used the names Mr. Smith and Mr. Jones
-* [Alias Smith and Jones](/http-us-imdb-com-title-tt0065381)
-* [Alas Smith and Jones from the BBC Comedy Guide](/http-www-bbc-co-uk-comedy-guide-articles-a-alassmithandjone-1299002882-shtml)
+* [Alias Smith and Jones](http://us.imdb.com/title-tt0065381)
+* [Alas Smith and Jones from the BBC Comedy Guide](http://www.bbc.co.uk/comedy-guide-articles-a-alassmithandjone-1299002882-shtml)

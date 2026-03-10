@@ -199,9 +199,9 @@ In Roman mythology, Acca Larentia was Hercules' mistress. She was married to Tar
 
 ![Mighty-Hercules-mw.jpg](/images/Mighty-Hercules-mw.jpg)  
 ***The Mighty Hercules***
-Later interpretations of Heracles' legend cast him as a wise leader and a good friend (many of the movie and TV adaptations cast him in this light, especially the recent syndicated TV series **[Hercules: The Legendary Journeys](/http-en-wikipedia-org-wiki-hercules-the-legendary-journeys)**, but in the original legend Heracles was as often foolish as wise; he was often seen as rash, egotistical, prone to wild berserker rages, and petty. While he was a champion and a great warrior, he was not above cheating and using any unfair trick to his advantage. This hardly put him on a level below the Greek gods themselves, as their faults were certainly on par with Heracles. However, he was renowned as having made the world safe for man by destroying many dangerous monsters, and he was also held up as an example for never having attacked first, but for having conquered all merely by defending himself when attacked. His legend endures, though often co-opted to suit the political fashion of the day. 
+Later interpretations of Heracles' legend cast him as a wise leader and a good friend (many of the movie and TV adaptations cast him in this light, especially the recent syndicated TV series **[Hercules: The Legendary Journeys](https://en.wikipedia.org/wiki/hercules-the-legendary-journeys)**, but in the original legend Heracles was as often foolish as wise; he was often seen as rash, egotistical, prone to wild berserker rages, and petty. While he was a champion and a great warrior, he was not above cheating and using any unfair trick to his advantage. This hardly put him on a level below the Greek gods themselves, as their faults were certainly on par with Heracles. However, he was renowned as having made the world safe for man by destroying many dangerous monsters, and he was also held up as an example for never having attacked first, but for having conquered all merely by defending himself when attacked. His legend endures, though often co-opted to suit the political fashion of the day. 
 
-As a public domain character **[Hercules](/http-en-wikipedia-org-wiki-hercules-comics)** or Heracles have appeared in several comic book adaptations. See also: [sword and sandal](/http-en-wikipedia-org-wiki-sword-and-sandal) (film genre); [Maciste](/http-en-wikipedia-org-wiki-maciste); [The Sons of Hercules](/http-en-wikipedia-org-wiki-the-sons-of-hercules); [The Mighty Hercules](/http-en-wikipedia-org-wiki-the-mighty-hercules).
+As a public domain character **[Hercules](https://en.wikipedia.org/wiki/hercules-comics)** or Heracles have appeared in several comic book adaptations. See also: [sword and sandal](https://en.wikipedia.org/wiki/sword-and-sandal) (film genre); [Maciste](https://en.wikipedia.org/wiki/maciste); [The Sons of Hercules](https://en.wikipedia.org/wiki/the-sons-of-hercules); [The Mighty Hercules](https://en.wikipedia.org/wiki/the-mighty-hercules).
 
 ### Related entries
 
@@ -215,11 +215,11 @@ As a public domain character **[Hercules](/http-en-wikipedia-org-wiki-hercules-c
 ### External links
 
 
-* **[Metis explained](/http-markpasc-org-blog-gems-athena-html)**
-* **[pretty statues](/http-www-insecula-com-contact-a004087-html)**
-* **[Wikipedia article](/http-en-wikipedia-org-wiki-heracles)**
-* **[Hercules: The Legendary Journeys](/http-en-wikipedia-org-wiki-hercules-the-legendary-journeys)**
-* **[Hercules](/http-en-wikipedia-org-wiki-hercules-comics)**
-* **[The Sons of Hercules](/http-en-wikipedia-org-wiki-the-sons-of-hercules)**
-* **[Gladiators](/http-en-wikipedia-org-wiki-sword-and-sandal)** - the film genre
-* **[Cartoon Herc](/http-en-wikipedia-org-wiki-the-mighty-hercules)** *"The witch! The witch!"*
+* **[Metis explained](http://markpasc.org/blog-gems-athena.html)**
+* **[pretty statues](http://www.insecula.com/contact-a004087.html)**
+* **[Wikipedia article](https://en.wikipedia.org/wiki/heracles)**
+* **[Hercules: The Legendary Journeys](https://en.wikipedia.org/wiki/hercules-the-legendary-journeys)**
+* **[Hercules](https://en.wikipedia.org/wiki/hercules-comics)**
+* **[The Sons of Hercules](https://en.wikipedia.org/wiki/the-sons-of-hercules)**
+* **[Gladiators](https://en.wikipedia.org/wiki/sword-and-sandal)** - the film genre
+* **[Cartoon Herc](https://en.wikipedia.org/wiki/the-mighty-hercules)** *"The witch! The witch!"*

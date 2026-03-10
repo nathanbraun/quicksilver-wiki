@@ -70,7 +70,7 @@ James VI/I died in 1625 of gout and senility and is buried in the Henry VII chap
 
 
 
-* "Monarchy is the greatest thing on earth. Kings are rightly called gods since just like God they have power of life and death over all their subjects in all things. They are accountable to God only ... so it is a crime for anyone to argue about what a king can do" [[1]](/http-www-autodidactproject-org-other-pkcs-html)
+* "Monarchy is the greatest thing on earth. Kings are rightly called gods since just like God they have power of life and death over all their subjects in all things. They are accountable to God only ... so it is a crime for anyone to argue about what a king can do" [[1]](http://www.autodidactproject.org/other-pkcs.html)
 * "Kings...have power of raising and casting down, of life and death, judges over all their subjects...and yet accountable to none but God only."
 * "A Scotch Presbytery agreeth as well with monarchy as God with the devil. Then Jack and Tom and Will and Dick shall meet, and at their pleasure censure me and my council...Until you find that I grow lazy, let that alone..."
 
@@ -95,6 +95,6 @@ James VI/I died in 1625 of gout and senility and is buried in the Henry VII chap
 ### External Links
 
 
-* [Website on James VI/I](/http-www-luminarium-org-sevenlit-james)
+* [Website on James VI/I](http://www.luminarium.org/sevenlit-james)
 * [Another website about James VI/I](/http-web-uvic-ca-shakespeare-library-sltnoframes-history-james-html)
-* [website on which is published Rictor Norton, "Queen James and His Courtiers" from *The Great Queens of History*](/http-www-infopt-demon-co-uk-jamesi-htm)
+* [website on which is published Rictor Norton, "Queen James and His Courtiers" from *The Great Queens of History*](http://www.infopt.demon.co.uk/jamesi.htm)

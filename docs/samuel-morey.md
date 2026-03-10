@@ -22,6 +22,6 @@ Morey moved to Orford, New Hampshire, with his family in 1768. He later moved to
 ### External links
 
 
-* [Robert H Thurton's A HISTORY OF THE GROWTH OF THE STEAM-ENGINE](/http-www-history-rochester-edu-steam-thurston-1878)
-* [Samuel Morey - Inventor Extraordinary](/http-kinnexions-com-smlsource-samuel-htm)
+* [Robert H Thurton's A HISTORY OF THE GROWTH OF THE STEAM-ENGINE](http://www.history.rochester.edu/steam-thurston-1878)
+* [Samuel Morey - Inventor Extraordinary](http://kinnexions.com/smlsource-samuel.htm)
 * [Samuel Morey Memorial Bridge](/http-www-orfordnh-us-history-bridge-htm)

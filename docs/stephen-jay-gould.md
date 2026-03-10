@@ -55,6 +55,6 @@ Gould is the author of The Mismeasure of Man, a study of the history of psychome
 ## External links
 
 
-* [Article by Gould on evolution](/http-www-nybooks-com-articles-1151)
-* [The Median Isn't the Message](/http-www-cancerguide-org-median-not-msg-html) – Gould confronts the statistics of cancer and finds hope
-* [The Gould vs. Dawkins debate](/http-www-world-of-dawkins-com-catalano-the-g-files-htm)
+* [Article by Gould on evolution](http://www.nybooks.com/articles-1151)
+* [The Median Isn't the Message](http://www.cancerguide.org/median-not-msg.html) – Gould confronts the statistics of cancer and finds hope
+* [The Gould vs. Dawkins debate](http://www.world.of.dawkins.com/catalano-the-g-files.htm)

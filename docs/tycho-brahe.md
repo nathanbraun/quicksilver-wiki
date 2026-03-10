@@ -76,7 +76,7 @@ A Color View**
 
 Recent investigations suppose that Tycho did not die directly of his urinary problems, but may have poisoned himself unintentionally by administering some medicine containing mercury (he pursued alchemical studies as well throughout his life, however he seems either not to have kept records or to have destroyed them)
 
-Using the growth rate of hair it was concluded that Tycho was poisoned by mercury one day before his death.  It was not a burst bladder caused by his courteousness, but mercury in his own medicines that led to the uremia of which he died.[[1]](/http-www-griffithobs-org-ipshowtychodied-html)
+Using the growth rate of hair it was concluded that Tycho was poisoned by mercury one day before his death.  It was not a burst bladder caused by his courteousness, but mercury in his own medicines that led to the uremia of which he died.[[1]](http://www.griffithobs.org/ipshowtychodied.html)
 
 Within a few years of his death, the castle and observatory he built on his beloved island Hven were destroyed.
 
@@ -98,4 +98,4 @@ Within a few years of his death, the castle and observatory he built on his belo
 ### Footnote and External Link
 
 
-* [How Tycho Brahe Died](/http-www-griffithobs-org-ipshowtychodied-html)
+* [How Tycho Brahe Died](http://www.griffithobs.org/ipshowtychodied.html)

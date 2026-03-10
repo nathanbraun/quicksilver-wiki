@@ -34,7 +34,7 @@ Periodically he would resolve to cut down on drinking and womanizing and to devo
 
 The diary gives a detailed account of the pattern of Pepys' life. Reading it, one cannot help thinking how very much we must all be alike. His characteristic closing sentence was: "And so to bed."
 
-*The original text for this entry taken from [Wikipedia](/http-www-wikipedia-org), the free encyclopedia*
+*The original text for this entry taken from [Wikipedia](http://www.wikipedia.org), the free encyclopedia*
 
 #### Related entries
 
@@ -45,6 +45,6 @@ The diary gives a detailed account of the pattern of Pepys' life. Reading it, on
 #### External links
 
 
-* [Samuel Pepys (Wikipedia)](/http-www-wikipedia-org-wiki-samuel-pepys)
-* [Samuel Pepys's diary online](/http-www-pepysdiary-com)
-* [Pepys library online](/http-www-magd-cam-ac-uk-pepys-contents-html)
+* [Samuel Pepys (Wikipedia)](https://en.wikipedia.org/wiki/samuel-pepys)
+* [Samuel Pepys's diary online](http://www.pepysdiary.com)
+* [Pepys library online](http://www.magd.cam.ac.uk/pepys-contents.html)

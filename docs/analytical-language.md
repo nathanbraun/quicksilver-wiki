@@ -29,7 +29,7 @@ page for **Analytical Language**
 
 From Wikipedia
 
-The chief of the numerous works of John Wilkins was [An Essay towards a Real Character and a Philosophical Language](/http-reliant-teknowledge-com-wilkins) (London, 1668), in which he expounds a new universal language for the use of philosophers. 
+The chief of the numerous works of John Wilkins was [An Essay towards a Real Character and a Philosophical Language](http://reliant.teknowledge.com/wilkins) (London, 1668), in which he expounds a new universal language for the use of philosophers. 
 
 In the essay, Wilkins defines his "real character", which is a new orthography for the English language that resembles shorthand, and his "philosophical language" which is based an early classification scheme or ontology (in what would later become the computer science meaning of the term). 
 
@@ -54,6 +54,6 @@ The resulting words thus encode some of the semantics of their meanings into the
 ### External links
 
 
-* **[The Dream of a Perfect Language ,Part IV](/http-www-aymara-org-biblio-dream4-html)** , by Umberto Eco
-* **[The Semantic Web: An Introduction](/http-infomesh-net-2001-swintro)**
-* **[Wikipedia entry for Wilkins](/http-en-wikipedia-org-wiki-john-wilkins)**
+* **[The Dream of a Perfect Language ,Part IV](http://www.aymara.org/biblio-dream4.html)** , by Umberto Eco
+* **[The Semantic Web: An Introduction](http://infomesh.net/2001-swintro)**
+* **[Wikipedia entry for Wilkins](https://en.wikipedia.org/wiki/john-wilkins)**

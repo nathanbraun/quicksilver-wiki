@@ -20,10 +20,10 @@ From the Quicksilver Metaweb.
 
 
 From Wikipedia, the free encyclopedia. 
-The [Geneva Bible](/http-en2-wikipedia-org-wiki-geneva-bible) was a Protestant translation of the Holy Bible into English. 
-During the time when England was ruled by Queen Mary, who persecuted Protestants, a number of Protestant scholars fled to Geneva in Switzerland, which was then ruled as a republic by [John Calvin](/http-en-wikipedia-org-wiki-john-calvin) and [Theodore Beza](/http-en2-wikipedia-org-wiki-theodore-beza). 
+The [Geneva Bible](https://en.wikipedia.org/wiki/geneva-bible) was a Protestant translation of the Holy Bible into English. 
+During the time when England was ruled by Queen Mary, who persecuted Protestants, a number of Protestant scholars fled to Geneva in Switzerland, which was then ruled as a republic by [John Calvin](https://en.wikipedia.org/wiki/john-calvin) and [Theodore Beza](https://en.wikipedia.org/wiki/theodore-beza). 
 Among these scholars was William Whittingham, who supervised the translation project. The first edition of this Bible appeared in 1560. It was revised substantially in 1576 and again in 1599. Like most English translations of the time, it was translated out of the original Greek and Hebrew, and was substantially based on the earlier English translations by [William Tyndale](/william-tyndale) and [Myles Coverdale](/myles-coverdale). 
-The Geneva Bible was extensively annotated by Laurence Tomson, who based his notes on Beza's 1574 Latin translation of the Bible. As such, it was the first annotated study Bible to appear in English, and the annotations made it more useful for private Bible reading than for public worship. This was the Bible read by [William Shakespeare](/william-shakespeare), by [John Donne](/http-en-wikipedia-org-wiki-john-donne), and by [John Bunyan](/http-en-wikipedia-org-wiki-john-bunyan), author of [Pilgrim's Progress](/http-en2-wikipedia-org-wiki-the-pilgrim-s-progress). 
+The Geneva Bible was extensively annotated by Laurence Tomson, who based his notes on Beza's 1574 Latin translation of the Bible. As such, it was the first annotated study Bible to appear in English, and the annotations made it more useful for private Bible reading than for public worship. This was the Bible read by [William Shakespeare](/william-shakespeare), by [John Donne](https://en.wikipedia.org/wiki/john-donne), and by [John Bunyan](https://en.wikipedia.org/wiki/john-bunyan), author of [Pilgrim's Progress](https://en.wikipedia.org/wiki/the-pilgrim-s-progress). 
 Because the language of the Geneva Bible was more forceful and vigorous, most readers preferred this version strongly over the Bishops' Bible, the translation authorised by the Church of England under Elizabeth I, often considered a political compromise of the type that Elizabeth often had to make to keep her throne. 
 The annotations were strongly Protestant in character, and as such were disliked by [King James I](/james-i-of-england), who commissioned the Authorised Version or [King James Bible](/king-james-version-of-the-bible) to replace it. The Geneva Bible remained popular among [Puritans](/puritan) and remained in widespread use until after the English Civil War. 
 Perhaps fearing that the anti-authority bias of the Geneva text and annotations had led to civil disruption, and perhaps also the loss of royal authority, the King James version slowly became more popular with all in authority. Today, the Geneva Bible is rarely used except as a source for translation of new versions in modern English.
@@ -44,6 +44,6 @@ Perhaps because these versions lack the dedicated scholarship and poetic vision 
 ### External Links
 
 
-* **[The Skeptic's Annotated Bible](/http-www-skepticsannotatedbible-com)** - a version of the Bible annotated from a skeptical point of view.
-* **[The Brick Bible](/http-www-thereverend-com-brick-testament)** - Scenes from the Bible staged by Lego characters
-* **[The Polyglot Bible](/http-mdavies-for-ilstu-edu-polyglot)** - allows the user to view parallel versions of the Bible in numerous ancient and modern languages.
+* **[The Skeptic's Annotated Bible](http://www.skepticsannotatedbible.com)** - a version of the Bible annotated from a skeptical point of view.
+* **[The Brick Bible](http://www.thereverend.com/brick-testament)** - Scenes from the Bible staged by Lego characters
+* **[The Polyglot Bible](http://mdavies.for.ilstu.edu/polyglot)** - allows the user to view parallel versions of the Bible in numerous ancient and modern languages.

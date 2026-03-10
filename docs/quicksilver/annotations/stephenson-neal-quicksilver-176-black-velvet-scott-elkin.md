@@ -25,7 +25,7 @@ Page for **she wore black velvet**
 ### Restoration Fashion
 
 
-**[Royalty Restored or London under Charles II](/http-www-worldwideschool-org-library-books-hst-english-royaltyrestoredorlondonundercharlesii-chap21-html)**:
+**[Royalty Restored or London under Charles II](http://www.worldwideschool.org/library-books-hst-english-royaltyrestoredorlondonundercharlesii-chap21.html)**:
 
 “… Throughout this merry reign, many fantastic changes took place in the costumes of courtiers and their followers. At the restoration, the dress most common to women of all ranks consisted of a gown with a laced stomacher and starched neckerchief, a sad-coloured cloak with a French hood, and a high- crowned hat. Such habiliments, admitting of little variety and less ornament, found no favour in the eyes of those who returned from foreign courts with the king, and therefore a change was gradually effected. The simple gown of wool and cotton gave place to loose and flowing draperies of silk and satin; the stiff neckerchief was removed to display fair shoulders and voluptuous breasts; the hat was bedecked by feathers of rare plumage and rich colour; the cloaks changed hues from sad to gay; the hoods being of "yellow bird's eye," and other bright tints. Indeed, the prodigal manner in which ladies of quality now exposed their bosoms, though pleasing to the court, became a matter of grave censure to worthy men. One of these in a pamphlet, entitled "A Just and Seasonable Reprehension of Naked Breasts and Shoulders," charges women of fashion with "overlacing their gown bodies, and so thrusting up their breasts in order that they might show them half-naked." It was not only at balls and in chambers of entertainment, he avowed, they appeared in this manner, but likewise at church, where their dress was "not only immodest, but sometimes impudent and lascivious;" for they braved all dangers to have the satisfaction of being seen, and the consolation of giving pleasure. 
 
@@ -37,7 +37,7 @@ The uttermost extravagance and luxury in dress now obtained; indeed, to such a p
 
 This determination he solemnly declared to his council in October, 1666, and on the 14th of the month appeared clad in a long vest slashed with white silk, reaching the knee, having the sword girt over it, a loose coat, straight Spanish breeches ruffled with black ribbons, and buskins instead of shoes and stockings. Though the habit was pronounced decent and becoming to his majesty, and was quickly adopted by the courtiers, there were those amongst his friends who offered him a wager he would not persist in wearing it long. At this the king stated his resolution afresh of never changing; but before the month was out he had made an alteration, for inasmuch as the vest being slashed with white, was said by a wag to make the wearers look like magpies, his majesty changed the colour of the silk to black. This "manly and comely habit" might have become permanently the fashion, if the King of France, by way of ridiculing the merry monarch, had not caused his footmen to be clad in like manner. Therefore, in less than two years, this mode gave place to others more fantastical. The vest was retained, but the shape and material were altered; the surcoat of cloth was discarded for velvet and rich plush, adorned with buckles of precious stones and chains of gold; the Spanish leather boots were laid aside for high-heeled shoes with rosettes and silver buckles. Towards the close of the reign the costume became much plainer. Through all these varying fashions the periwig, introduced in 1663, held its own, increasing in length and luxuriance with time. On its first coming into general use, the clergy had cried out against it as ministering to the vanity and extravagance of the age; but in a while many of them adopted its use, for, as Granger remarks, "it was observed that a periwig procured many persons a respect and even veneration which they mere strangers to before, and to which they had not the least claim from their personal merit." …”
 
-### [Patches](/http-alpha-furman-edu-kgossman-history-restor-terms-htm)
+### [Patches](http://alpha.furman.edu/kgossman-history-restor-terms.htm)
 
 
 
@@ -59,6 +59,6 @@ This determination he solemnly declared to his council in October, 1666, and on 
 ### External links
 
 
-* [Royalty Restored or London under Charles II](/http-www-worldwideschool-org-library-books-hst-english-royaltyrestoredorlondonundercharlesii-chap21-html)
-* [Patches](/http-alpha-furman-edu-kgossman-history-restor-terms-htm)
-* [English fashion timeline](/http-romancereaderatheart-com-england-timeline)
+* [Royalty Restored or London under Charles II](http://www.worldwideschool.org/library-books-hst-english-royaltyrestoredorlondonundercharlesii-chap21.html)
+* [Patches](http://alpha.furman.edu/kgossman-history-restor-terms.htm)
+* [English fashion timeline](http://romancereaderatheart.com/england-timeline)

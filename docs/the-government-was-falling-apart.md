@@ -34,5 +34,5 @@ Now, in the beginning of 2005, the [US Dollar](/us-dollar) has seen a 40% devalu
 ## External Links
 
 
-* [GoldMoney](/http-www-goldmoney-com)
-* [eGold](/http-www-egold-com)
+* [GoldMoney](http://www.goldmoney.com)
+* [eGold](http://www.egold.com)

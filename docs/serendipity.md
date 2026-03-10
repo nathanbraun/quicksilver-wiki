@@ -21,4 +21,4 @@ Serendipity is used as a sociological method in Anselm L. Strauss' and Barney G.
 ### External links
 
 
-* [Wikipedia: Serendipity](/http-en-wikipedia-org-wiki-serendipity) was the basis for this entry.
+* [Wikipedia: Serendipity](https://en.wikipedia.org/wiki/serendipity) was the basis for this entry.

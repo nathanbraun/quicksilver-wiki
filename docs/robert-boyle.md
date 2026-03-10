@@ -26,4 +26,4 @@ This is an [intermediate page](/metaweb-intermediate-page) for **Robert Boyle**.
 #### External links
 
 
-* [Biography of Robert Boyle](/http-www-gap-dcs-st-and-ac-uk-history-mathematicians-boyle-html)
+* [Biography of Robert Boyle](http://www.gap.dcs.st.and.ac.uk/history-mathematicians-boyle.html)

@@ -23,7 +23,7 @@ And then there's the Enforcers--but they cost a lot and don't take well to super
 ## Description
 
 
-As indicated in Neal Stephenson's Snow Crash: An organization that, like a nation-state, is a sovereign entity that provides and enforces a system of rules within a given geographic territory. Unlike most nation-states, however, a FOQNE's territory is not contiguous. It consists of plots of real estate that are relatively small (apparently ranging in size from a [city-state](/http-en-wikipedia-org-wiki-city-state) down to a portion of a building) and widely scattered across North America and elsewhere.
+As indicated in Neal Stephenson's Snow Crash: An organization that, like a nation-state, is a sovereign entity that provides and enforces a system of rules within a given geographic territory. Unlike most nation-states, however, a FOQNE's territory is not contiguous. It consists of plots of real estate that are relatively small (apparently ranging in size from a [city-state](https://en.wikipedia.org/wiki/city-state) down to a portion of a building) and widely scattered across North America and elsewhere.
 
 Each FOQNE offers its citizens a number of havens where the rules and culture are uniform and familiar, no matter what region the individual FOQNE site is in. Stephenson compares them to franchised fast-food restaurant chains, in which the individual restaurants and their menus are highly uniform whether located in Dallas, San Francisco, Manhattan, Moscow, Beijing, Paris, etc. A FOQNE may offer citizens a place to live, or it may specialize in providing certain goods or services (pizza, "physical plant security" protection, drugs, religion, etc.).
 
@@ -53,7 +53,7 @@ The second form of sovereignty in legality is Allodial Title, which, in its simp
 
 To dispense with claims by critics that such a heavily enclaved society, as that depicted in Snow Crash or The Diamond Age, would not work, Stephenson institutes the concept of the [Common Economic Protocol](/common-economic-protocol), a system of law, much like the [Common Law](/common-law) and various forms of [International Law](/international-law), which any sovereign entity can accede to, in part or in whole. Such enclave franchise nations are also discussed in economist [David Friedman](/david-friedman)'s seminal [anarcho-capitalist](/anarcho-capitalist) book, "[The Machinery of Freedom](/the-machinery-of-freedom)".
 
-Some such laws already exist and are implemented to varying degrees. For example, [The Hague Convention](/http-hcch-e-vision-nl-index-en-php-act-home-splash) has worked for several decades on implementing various conventions to regularize private law among nations, including the Hague Service Convention, the Hague Apostille Convention, among others. There is also a [Common Economic Protocol](/common-economic-protocol) in [v 1.0 implementation](/http-ica-citystateinc-com-library) on the web that was inspired by Stephenson's novels.
+Some such laws already exist and are implemented to varying degrees. For example, [The Hague Convention](/http-hcch-e-vision-nl-index-en-php-act-home-splash) has worked for several decades on implementing various conventions to regularize private law among nations, including the Hague Service Convention, the Hague Apostille Convention, among others. There is also a [Common Economic Protocol](/common-economic-protocol) in [v 1.0 implementation](http://ica.citystateinc.com/library) on the web that was inspired by Stephenson's novels.
 
 ## The Problem of Allodial Title
 
@@ -61,11 +61,11 @@ Some such laws already exist and are implemented to varying degrees. For example
 
 Allodial Title is a well known and ancient form of land title in which the landholder owns it without overlord, as a freehold. This form of title is as opposed to the feudal land title of 'fee simple', 'feod', etc. in which the landholder posesses the land by fealty and/or rent to a greater authority, such as a king or other monarch, who granted the land to his or her vassal.
 
-Quite a number of land holdings in europe remain in allodial state even today. In the US, at the time of the American Revolution, it was declared that by dint of conquest as represented by the American victory, all feudal land grants by the King to colonists or other vassals were transformed to allodial title. However, the original [Articles of Confederation](/http-www-usconstitution-net-articles-html), and the pre-Civil War US Constitution both demanded that the several states contribute funds to the federal government based on the value of the land held by each state, this measure was used to justify property taxes on all supposedly allodial titles, a state of taxation which clearly contradicts the principle of allodial title. 
+Quite a number of land holdings in europe remain in allodial state even today. In the US, at the time of the American Revolution, it was declared that by dint of conquest as represented by the American victory, all feudal land grants by the King to colonists or other vassals were transformed to allodial title. However, the original [Articles of Confederation](http://www.usconstitution.net/articles.html), and the pre-Civil War US Constitution both demanded that the several states contribute funds to the federal government based on the value of the land held by each state, this measure was used to justify property taxes on all supposedly allodial titles, a state of taxation which clearly contradicts the principle of allodial title. 
 
 Some states outlaw property tax on ones homestead, but essentially any land which has been seized for bankruptcy or tax lein by a state government has had allodial title seized by the state or by a reserve bank, and thereafter any property holder can only obtain Certificate of Deed (which is not a Deed per se, only a certificate that a Deed exists).
 
-Nevada, however, has instituted an [Allodial Title Program](/http-nevadatreasurer-gov-specialprograms-allodial-nrs-html), in which a property holder pays a discounted amount, relative to all future property taxes they would pay in their lifetime, to the state, and thereafter no longer pays taxes, or is subject to local jurisdiction.
+Nevada, however, has instituted an [Allodial Title Program](http://nevadatreasurer.gov/specialprograms-allodial-nrs.html), in which a property holder pays a discounted amount, relative to all future property taxes they would pay in their lifetime, to the state, and thereafter no longer pays taxes, or is subject to local jurisdiction.
 
 However, we shall note that even in the mature ancap society of *The Diamond Age*, the [Neo-Victorian](/neo-victorian) [FOQNE](/foqne) held much territory entirely as lands leased from other sovereign entities. Indeed, the island of High Victoria is an entirely nanotechnological construct, risen out of an area of the sea leased from the Chinese Republic. Even if land is held allodial by one sovereign entity, it can be leased to another entity to be an entirely separate sovereign territory, particularly if the lessee's sovereignty is affirmed by the lessor as a term of the agreement, as was the case with [Hong Kong](/mr-lee-s-greater-hong-kong), the [Panama Canal Zone](/), and is currently the case with [Guantanamo Bay](/).
 
@@ -89,11 +89,11 @@ Contiguity of territory is a fiction invented by the nationalist movement of the
 
 The enclave territory of [Nagorno-Karabakh](/), an Armenian area entirely within Azerbaijan, as well as the Azeri territory of Nakhichevanskaya, demonstrate that non-contiguity is not necessary on a large scale.
 
-On a much smaller scale the Belgian-Dutch community of [Baarle-Hertog/Baarle-Nassau](/http-ontology-buffalo-edu-smith-baarle-htm), which is a border community in which city blocks, streets, and neighborhoods make up a patchwork quilt of Belgian and Dutch fealties, where one can enter a persons front door in Holland and exit the back door in Belgium. 
+On a much smaller scale the Belgian-Dutch community of [Baarle-Hertog/Baarle-Nassau](http://ontology.buffalo.edu/smith-baarle.htm), which is a border community in which city blocks, streets, and neighborhoods make up a patchwork quilt of Belgian and Dutch fealties, where one can enter a persons front door in Holland and exit the back door in Belgium. 
 
 The recent vote by [Killington](/), VT on March 2, 2004 to secede and join NH (despite being separated from NH by 25 miles of Vermont territory), and interest in secession by other isolated Vermont "gold" towns has arisen with possible secession votes by several at town meeting in March of 2005, it is clear that the concept is not dismissed out of hand by persons and communities under dire confiscatory pressure by their present political fealties.
 
-Members of the [Free State Project](/http-www-freestateproject-org) have proposed that towns and cities across the country who feel overtaxed by their respective state governments should secede and join New Hampshire.
+Members of the [Free State Project](http://www.freestateproject.org) have proposed that towns and cities across the country who feel overtaxed by their respective state governments should secede and join New Hampshire.
 
 Online nations have also arisen which have little or no existence in the real world, however many Non-Governmental Organizations (NGOs) have been gaining increasing authority and sovereignty in the international stage. 
 
@@ -115,7 +115,7 @@ A limited number of gated communities have long been established for foreigners 
 
 In more recent times, a much larger number of gated communities has rapidly developed in various regions throughout the world, especially in [China](/china), [Mexico](/), and the [United States](/). Especially in China, the trend towards gated communities is accelerating, in response to changing laws and economics.
 
-In [2000](/), eight million [U.S.](/) residents lived in gated communities. However, in China, by law, all new residential developments are gated, and China is already well on the way to overtaking the U.S. for the largest number of residents living in gated communities [(more info)](/http-www-gated-communities-de-abstracts-new-orleans-htm).
+In [2000](/), eight million [U.S.](/) residents lived in gated communities. However, in China, by law, all new residential developments are gated, and China is already well on the way to overtaking the U.S. for the largest number of residents living in gated communities [(more info)](http://www.gated.com/munities-de-abstracts-new-orleans.htm).
 
 [J.G. Ballard](/) has examined the phenomena in his novel [Super-Cannes](/).
 
@@ -139,16 +139,16 @@ However, this analysis is entirely couched within the leftish postmodern mindset
 
 Some of the newest gated communities in China include:
 * [Riverside Garden](/) [(more info)](/http-218-25-39-149-74598586884554752-20021226-1045557-shtml), ([Shenyang city](/), [Liaoning province](/)) A luxury development with over 1,000 housing units, a supermarket, business center, laundry delivery service, tennis court, and fitness club.
-* [Beijing Riviera](/) [(more info)](/http-www-bjriviera-com-select-html), (Chaoyang District, [Beijing](/)) This multi-faceted development includes hundreds of apartments, condominiums, and villas, along with an onsite water treatment plant, an office center, sports and recreation facilities (including swimming pools, tennis courts, a skate park, and a golf driving range), a supermarket, a beauty salon, and a travel agency.
-* [Oriental Grand Garden](/) [(more info)](/http-www-moveandstay-com-shanghai-apartments-description-asp-id-1451) (Pudong District, [Shanghai](/)) The facilities at this gated community include a swimming pool, spa, gym, tennis court, a hair salon, and a 24-hour convenience store.
+* [Beijing Riviera](/) [(more info)](http://www.bjriviera.com/select.html), (Chaoyang District, [Beijing](/)) This multi-faceted development includes hundreds of apartments, condominiums, and villas, along with an onsite water treatment plant, an office center, sports and recreation facilities (including swimming pools, tennis courts, a skate park, and a golf driving range), a supermarket, a beauty salon, and a travel agency.
+* [Oriental Grand Garden](/) [(more info)](http://www.moveandstay.com/shanghai-apartments-description-asp-id-1451) (Pudong District, [Shanghai](/)) The facilities at this gated community include a swimming pool, spa, gym, tennis court, a hair salon, and a 24-hour convenience store.
 
 
 Some of the gated communities in Mexico include:
-* [Bajamar](/) [(more info)](/http-www-bajaexpo-com-cities-bajam-htm-anchor234567), [Baja](/) A gated complex of homes and condominiums, with a view of the Pacific Ocean, centered around a 27-hole gold course.
-* [Chula Vista Norte](/) [(more info)](/http-www-mexconnect-com-amex-cvn), (San Antonio, [Jalisco](/)) This secure development overlooks Lake Chapala, and offers various sizes of lots on which to build homes.
+* [Bajamar](/) [(more info)](http://www.bajaexpo.com/cities-bajam-htm-anchor234567), [Baja](/) A gated complex of homes and condominiums, with a view of the Pacific Ocean, centered around a 27-hole gold course.
+* [Chula Vista Norte](/) [(more info)](http://www.mexconnect.com/amex-cvn), (San Antonio, [Jalisco](/)) This secure development overlooks Lake Chapala, and offers various sizes of lots on which to build homes.
 
 
-Examples of gated communities in the United States are [Seagate](/) in [Brooklyn](/brooklyn) ([New York City](/new-york-city)), while a rural form can be found in the [Eastman Village District](/http-www-eastmannh-com-about-eastman) of Grantham, NH, which uses the dense New Hampshire forests as its walls.
+Examples of gated communities in the United States are [Seagate](/) in [Brooklyn](/brooklyn) ([New York City](/new-york-city)), while a rural form can be found in the [Eastman Village District](http://www.eastmannh.com/about-eastman) of Grantham, NH, which uses the dense New Hampshire forests as its walls.
 
 ## Related Links:
 
@@ -168,7 +168,7 @@ Examples of gated communities in the United States are [Seagate](/) in [Brooklyn
 ### External Links:
 
 
-* [The Privatization of Urban Space: Gated Communities - A New Trend in Global Urban Development?](/http-www-gated-communities-de-abstracts-new-orleans-htm)
-* [Land Use and Design Innovations in Private Communities](/http-www-lincolninst-edu-pubs-pub-detail-asp-id-971)
-* [China's Transition at a Turning Point](/http-www-cfr-org-pub6442-elizabeth-c-economy-john-pomfret-deborah-davis-chinas-transition-at-a-turning-point-session-ii-php)
-* [Fortress America: Gated Communities in the United States](/http-www-popcultures-com-reviews-rev-0035-htm)
+* [The Privatization of Urban Space: Gated Communities - A New Trend in Global Urban Development?](http://www.gated.com/munities-de-abstracts-new-orleans.htm)
+* [Land Use and Design Innovations in Private Communities](http://www.lincolninst.edu/pubs-pub-detail-asp-id-971)
+* [China's Transition at a Turning Point](http://www.cfr.org/pub6442-elizabeth-c-economy-john-pomfret-deborah-davis-chinas-transition-at-a-turning-point-session-ii.php)
+* [Fortress America: Gated Communities in the United States](http://www.popcultures.com/reviews-rev-0035.htm)

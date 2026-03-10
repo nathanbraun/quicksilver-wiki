@@ -22,11 +22,11 @@ none as yet
 
 Parts of the text below from Wikipedia, the free encyclopedia. 
 
-Laputa is a fictional place from the book **[Gulliver's Travels](/http-en2-wikipedia-org-wiki-gulliver-s-travels)** by [Jonathan Swift](/jonathan-swift). 
+Laputa is a fictional place from the book **[Gulliver's Travels](https://en.wikipedia.org/wiki/gulliver-s-travels)** by [Jonathan Swift](/jonathan-swift). 
 
 Laputa is a flying island or rock, that can be directed by its inhabitants in any direction. Its tyrannic ruler uses it to control the mainland by threatening with covering rebel regions with the island's shadow. The people of Laputa are fond of mathematics and technology, but fail to make practical use of their knowledge. They insert technologies and abstractions into their conversations inappropriately, such as using large sacks of objects to show each other, which they consider "purer" than words. These sacks weigh them down and bend them over with their weight (any resemblance to the [Graphic User Interface](/graphic-user-interface) is purely anticipatory rather than coincidental).
 
-They created such marvels as a mirror that would let you converse with any historical figure, but couldn't construct well-designed clothing. This is a satire on the [Royal Society](/http-en2-wikipedia-org-wiki-royal-society) of his day. 
+They created such marvels as a mirror that would let you converse with any historical figure, but couldn't construct well-designed clothing. This is a satire on the [Royal Society](https://en.wikipedia.org/wiki/royal-society) of his day. 
 
 The satire of the Royal Society is made even more obvious when Gulliver descends to the mainland of Laputa's kingdom and visits its capital, Lagado, where there is a *"Grand Academy of Projectors"*. Among the projects in course in the Academy are:
 
@@ -39,9 +39,9 @@ The satire of the Royal Society is made even more obvious when Gulliver descends
 
 At least some of these projects were inspired by an actual visit that Jonathan Swift made to the Royal Society in 1710.
 
-The "Laputa Missile Complex" is the target of the B-52 bomber "Leper Colony" in the 1964 satire [Dr. Strangelove](/http-en-wikipedia-org-wiki-dr-strangelove), a reference to the highly theroetical discussions of nuclear war and deterrence that led the world to catastrophe in that film. 
+The "Laputa Missile Complex" is the target of the B-52 bomber "Leper Colony" in the 1964 satire [Dr. Strangelove](https://en.wikipedia.org/wiki/dr-strangelove), a reference to the highly theroetical discussions of nuclear war and deterrence that led the world to catastrophe in that film. 
 
-The 1986 [anime](/http-en2-wikipedia-org-wiki-anime) film [Laputa: The Castle in the Sky](/http-en2-wikipedia-org-wiki-laputa-the-castle-in-the-sky) by [Hayao Miyazaki](/http-en2-wikipedia-org-wiki-hayao-miyazaki) features a floating city named Laputa after that of Gulliver's Travels. "La puta" means "the whore" in Spanish. Swift probably knew this, and Miyazaki probably not. The Walt Disney company did, and as the American distributor of Miyazaki's film (though still unreleased in the USA), contracted the name to "Castle in the Sky." Some Spanish editions of "Gulliver's Travels" use "Lupata" as an euphemism.
+The 1986 [anime](https://en.wikipedia.org/wiki/anime) film [Laputa: The Castle in the Sky](https://en.wikipedia.org/wiki/laputa-the-castle-in-the-sky) by [Hayao Miyazaki](https://en.wikipedia.org/wiki/hayao-miyazaki) features a floating city named Laputa after that of Gulliver's Travels. "La puta" means "the whore" in Spanish. Swift probably knew this, and Miyazaki probably not. The Walt Disney company did, and as the American distributor of Miyazaki's film (though still unreleased in the USA), contracted the name to "Castle in the Sky." Some Spanish editions of "Gulliver's Travels" use "Lupata" as an euphemism.
 
 ### Related entries
 
@@ -54,8 +54,8 @@ The 1986 [anime](/http-en2-wikipedia-org-wiki-anime) film [Laputa: The Castle in
 ### External links
 
 
-* [*The Diamond Age*](/http-en2-wikipedia-org-wiki-the-diamond-age)
-* [Royal Society](/http-en2-wikipedia-org-wiki-royal-society)
-* [*Gulliver's Travels*](/http-en2-wikipedia-org-wiki-gulliver-s-travels)
-* [*Dr. Strangelove*](/http-en-wikipedia-org-wiki-dr-strangelove)
-* [Hayao Miyazaki](/http-en2-wikipedia-org-wiki-hayao-miyazaki) -- he understands *enough* Spanish
+* [*The Diamond Age*](https://en.wikipedia.org/wiki/the-diamond-age)
+* [Royal Society](https://en.wikipedia.org/wiki/royal-society)
+* [*Gulliver's Travels*](https://en.wikipedia.org/wiki/gulliver-s-travels)
+* [*Dr. Strangelove*](https://en.wikipedia.org/wiki/dr-strangelove)
+* [Hayao Miyazaki](https://en.wikipedia.org/wiki/hayao-miyazaki) -- he understands *enough* Spanish

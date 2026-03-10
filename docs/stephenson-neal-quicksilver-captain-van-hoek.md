@@ -25,7 +25,7 @@ This is an [intermediate page](/metaweb-intermediate-page) for
 ### Captain van Hoek
 
 
-Operator of a very high tech ship, Captain van Hoek amusingly possesses an interchangable prosthesis which is normally a hook. He can be mistaken for a stout boy of ten so he must be short of stature. He *might* be a Dutch byblow of the wee [Charles I](/charles-i-of-england) and thus the inspiration for the pirate "Captain Hook.[1](/http-en2-wikipedia-org-wiki-charles-i-of-england)" Which is rather ironic as he is a captain with very anti-pirate views forged some 20 years earlier. ***1690** was the start of the Golden Age of Piracy according to some; Many more feel The Treaty of [Utrecht](/utrecht) in 1713 started it. Those nations who did sign the treaty were promising not to charter 'privateers.'*
+Operator of a very high tech ship, Captain van Hoek amusingly possesses an interchangable prosthesis which is normally a hook. He can be mistaken for a stout boy of ten so he must be short of stature. He *might* be a Dutch byblow of the wee [Charles I](/charles-i-of-england) and thus the inspiration for the pirate "Captain Hook.[1](https://en.wikipedia.org/wiki/charles-i-of-england)" Which is rather ironic as he is a captain with very anti-pirate views forged some 20 years earlier. ***1690** was the start of the Golden Age of Piracy according to some; Many more feel The Treaty of [Utrecht](/utrecht) in 1713 started it. Those nations who did sign the treaty were promising not to charter 'privateers.'*
 
 ![Dappa%26VanHoekMW.jpg](/images/Dappa%26VanHoekMW.jpg)  
 
@@ -67,8 +67,8 @@ Nailing the colors to the mast is a traditional sign of defiance, indicating tha
 ### External Links & Footnotes
 
 
-* [[Wikipedia entry for Charles I of England](/http-en2-wikipedia-org-wiki-charles-i-of-england)], "... listed in the Guinness Book of Records as Britain's shortest king..."
+* [[Wikipedia entry for Charles I of England](https://en.wikipedia.org/wiki/charles-i-of-england)], "... listed in the Guinness Book of Records as Britain's shortest king..."
 * [[an article on striking the flag, to surrender](/http-www-history-navy-mil-trivia-trivia03-1-htm)]
-* [[Wikipedia entry for Captain Hook](/http-en2-wikipedia-org-wiki-captain-hook)]
-* [*Provisions for the Benefit of the Hospital for Sick Children*](/http-www-legislation-hmso-gov-uk-acts-acts1988-ukpga-19880048-en-28-htm-sdiv6), regarding royalties for Peter Pan
-* [[Peter Pan, Project Gutenberg electronic edition](/http-digital-library-upenn-edu-webbin-gutbook-lookup-num-16)] (Project Gutenberg claims a copyright "to assist in the preservation of this edition in proper usage". It is only to be distributed in the United States).
+* [[Wikipedia entry for Captain Hook](https://en.wikipedia.org/wiki/captain-hook)]
+* [*Provisions for the Benefit of the Hospital for Sick Children*](http://www.legislation.hmso.gov/uk-acts-acts1988-ukpga-19880048-en-28-htm-sdiv6), regarding royalties for Peter Pan
+* [[Peter Pan, Project Gutenberg electronic edition](http://digital.library.upenn.edu/webbin-gutbook-lookup-num-16)] (Project Gutenberg claims a copyright "to assist in the preservation of this edition in proper usage". It is only to be distributed in the United States).

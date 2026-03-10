@@ -59,7 +59,7 @@ The King James Version tends to be less sanitized than later versions. This can 
 ### External links
 
 
-* **[King James Version](/http-en2-wikipedia-org-wiki-king-james-bible)**
-* **[The Skeptic's Annotated Bible](/http-www-skepticsannotatedbible-com)** - a version of the Bible annotated from a skeptical point of view.
-* **[The Brick Bible](/http-www-thereverend-com-brick-testament)** - Scenes from the Bible staged by Lego characters
-* **[The Polyglot Bible](/http-mdavies-for-ilstu-edu-polyglot)** - allows the user to view parallel versions of the Bible in numerous ancient and modern languages.
+* **[King James Version](https://en.wikipedia.org/wiki/king-james-bible)**
+* **[The Skeptic's Annotated Bible](http://www.skepticsannotatedbible.com)** - a version of the Bible annotated from a skeptical point of view.
+* **[The Brick Bible](http://www.thereverend.com/brick-testament)** - Scenes from the Bible staged by Lego characters
+* **[The Polyglot Bible](http://mdavies.for.ilstu.edu/polyglot)** - allows the user to view parallel versions of the Bible in numerous ancient and modern languages.

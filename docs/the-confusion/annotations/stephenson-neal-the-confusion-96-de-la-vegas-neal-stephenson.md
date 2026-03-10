@@ -8,4 +8,4 @@ The de la Vegas are named in homage to the author of "Confusion de Confusiones" 
 ### External Links
 
 
-* [*Wired* interview with Neal Stephenson including discussion of *Confusion de Confusiones*](/http-www-wired-com-news-culture-0-1284-63050-00-html)
+* [*Wired* interview with Neal Stephenson including discussion of *Confusion de Confusiones*](http://www.wired.com/news-culture-0-1284-63050-00.html)

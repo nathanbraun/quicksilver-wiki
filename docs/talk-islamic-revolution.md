@@ -11,7 +11,7 @@ And, who holds the deeds is one thing, whose court you report to, to adjudicate 
 
 Ask the Lebanese about the Syrians and the Bekka Valley, was in the area last in 1982 with an UN observer bud. Expect the Syrians to redirect the sources of the Tigris and Euphrates soon. - [Sparky](/user-stsparky) 00:44, 2004 Apr 6 (PDT)
 
-Yeah, it's always a war waiting to happen, when a border bisects a watershed. That's why the peacenik type Greens all want bioregional borders to have legal and political status, like, districts would be formed based on them - [en: Wikipedia: bioregional democracy](/http-en-wikipedia-org-wiki-bioregional-democracy). Stops [gerrymandering](/http-en-wikipedia-org-wiki-gerrymandering) too.
+Yeah, it's always a war waiting to happen, when a border bisects a watershed. That's why the peacenik type Greens all want bioregional borders to have legal and political status, like, districts would be formed based on them - [en: Wikipedia: bioregional democracy](https://en.wikipedia.org/wiki/bioregional-democracy). Stops [gerrymandering](https://en.wikipedia.org/wiki/gerrymandering) too.
 
 
 
@@ -31,7 +31,7 @@ OK, so it's the Christians that are the common factor, not Europe. You're right.
 ---
 
 
-Christianity considered itself a revival and correction; Whereas, Jews consider the splitting of GOD blasphemous. Many don't consider a **Triune Godhead** a true monotheistic POV. Judaism was pretty robust in the 7th Century along the Silk Road (even likely reaching Japan[[1]](/http-www-biblemysteries-com-library-tribesjapan-htm) [[2]](/http-www-pbs-org-wgbh-nova-israel-losttribes3-html)). I'd suggest a re-write.
+Christianity considered itself a revival and correction; Whereas, Jews consider the splitting of GOD blasphemous. Many don't consider a **Triune Godhead** a true monotheistic POV. Judaism was pretty robust in the 7th Century along the Silk Road (even likely reaching Japan[[1]](http://www.biblemysteries.com/library-tribesjapan.htm) [[2]](http://www.pbs.org/wgbh-nova-israel-losttribes3.html)). I'd suggest a re-write.
 
 The "robust" Judaism wasn't really affected. It was this somewhat odd variant that got extincted. Though it lived on among the Falashas and others.
 
@@ -54,7 +54,7 @@ When the Church Militant is scraping the flesh off live female pagan librarians 
 ---
 
 
-nitpicking - Bath party? Which one - the Syrian or Iraqi one? It's normally spelt with an extra a as in [Ba'athist Party](/http-en-wikipedia-org-wiki-ba-ath-party).
+nitpicking - Bath party? Which one - the Syrian or Iraqi one? It's normally spelt with an extra a as in [Ba'athist Party](https://en.wikipedia.org/wiki/ba-ath-party).
 
 No standard transliteration, pick one and stick to it. The two parties have the same root, but in Iraq, under British administration, they started more clandestine, whereas in Syria they were supported under the ruling Vichy French.
 
@@ -64,7 +64,7 @@ Plus - how long are you going leave empty red links in this article? - [Sparky](
 
 When it's clear who has an unbiased version of an article to point to, it'll be easier to do this. Really what we need is to auto-generate stubs based on keywords in the title - and a check to see whether the article really exists.
 
-I'd vote for [WikiInfo](/http-internet-encyclopedia-org-wiki-phtml-title-main-page) until the Recyclopedia returns as they seem to have implemented [GetWiki](/http-internet-encyclopedia-org-wiki-phtml-title-getwiki).
+I'd vote for [WikiInfo](http://internet.encyclopedia.org/wiki-phtml-title-main-page) until the Recyclopedia returns as they seem to have implemented [GetWiki](http://internet.encyclopedia.org/wiki-phtml-title-getwiki).
 
 The right answer is really to move to [GetWiki](/getwiki) - which auto-imports Wikipedia or whatever other source is specified; Voila! All links closed, and the Metaweb pages are an overlay on the Wikipedia pages, with their special emphasis respected.
 
@@ -72,7 +72,7 @@ One problem is, GetWiki's author, named Parrot/Proteus or something, seems to ha
 
 The time may have come for FSF itself to actually take control and enforce the GFDL and clear out all these petty [GodKings](/godking) and their stupid friends. A lot of people contributed to the [GFDL corpus](/gfdl-corpus) in good faith, and they're being mocked and abused daily by these people. Also the crappy PHP software has to go: both mediawiki and getwiki are trash compared to Python or C++ or C# or even Java code that could be written as a better front end to do the same things. Applied Minds was interested in doing something like this, or they'd never have set up [intermediate pages](/intermediate-page)... So where is that discussion going?
 
-[WikiInfo](/http-internet-encyclopedia-org-wiki-phtml-title-main-page) then?
+[WikiInfo](http://internet.encyclopedia.org/wiki-phtml-title-main-page) then?
 
 
 ---

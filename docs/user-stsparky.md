@@ -59,7 +59,7 @@ I don't know the origin of the word, or if it's regional or not, but I like it a
 
  Thanks. The hat goes on the business end I gather. Thanks - [Sparky](/user-stsparky) 20:32, 2004 Oct 10 (PDT)
 
- The [Urban Dictionary](/http-www-urbandictionary-com) [shines some light](/http-www-urbandictionary-com-define-php-term-asshat) onto this term. --[Pat](/user-patrick-tufts) 11:55, 11 Oct 2004 (PDT)
+ The [Urban Dictionary](http://www.urbandictionary.com) [shines some light](http://www.urbandictionary.com/define-php-term-asshat) onto this term. --[Pat](/user-patrick-tufts) 11:55, 11 Oct 2004 (PDT)
 My favorite definition follows - as my onetime Disney animation professor (One of NASA animators for hire as well) worked on Scrappy and considered it a worthwhile addition to the Doo family. My hero Jack Kirby also did at the end of his career in art. Heh. Bless you Pat.
  **asshat**: One who enters into a new environment without taking the time to learn any of the social rules of the place. Then they promptly make pretty much every social gaff you can imagine this side of shitting on the dinner table.
  You know, a moron.
@@ -103,7 +103,7 @@ I c'n't express my gratitude for your expansions of my suggestions. Flowers and 
 
 *> I was misdiagnosed as having Asperger's about 7 years ago. Jeepers - you look a tad like me from your blog pic.*
 
-Yes, we are the Bearded Ones! AS can be a tricky diagnosis, and is oft confused with other things, e.g., ADHD. Our daughter is aspie, but since autism is a spectrum, and the "divisions" within it are not hard and fast, we've become more confortable with just using the term autistic. BTW, my wife Kathleen has a big site full of resources of the overall subject: [neurodiversity.com](/http-neurodiversity-com). - [DaveSeidel](/user-daveseidel) 03:58, 12 Feb 2005 (PST)
+Yes, we are the Bearded Ones! AS can be a tricky diagnosis, and is oft confused with other things, e.g., ADHD. Our daughter is aspie, but since autism is a spectrum, and the "divisions" within it are not hard and fast, we've become more confortable with just using the term autistic. BTW, my wife Kathleen has a big site full of resources of the overall subject: [neurodiversity.com](http://neurodiversity.com). - [DaveSeidel](/user-daveseidel) 03:58, 12 Feb 2005 (PST)
 1. How many mutually exclusive (MUTEX) idea machines you can believe in at the same time? My personal statistic will be given after you ansfer. No I will not cheat. It's important. [ALinkA](/user-agquarx)
 
 A. Many. Belief is a flexible thing. No one owns the truth. - [Sparky](/user-stsparky)
@@ -176,7 +176,7 @@ Well, I like WikiMinion, but it reminds me of an octopus trying to plug every ne
 
 She's having a baby around Groundhog Day? If the kid pops out and doesn't see his shadow, are you gonna put him back in the oven for another month???? :) Anyways, congratulations! [Mike Lorrey](/user-mlorrey) 22:28, 30 Jul 2005 (PDT)
 There will be a fight if we do that I guess - [Sparky](/user-stsparky) 21:31, 2005 Jul 31 (PDT)
-Thought you might resemble this [remark](/http-www-starterupsteve-com-video-conan-triumph-star-wars-html). [Mike Lorrey](/user-mlorrey) 17:47, 14 Aug 2005 (PDT)
+Thought you might resemble this [remark](http://www.starterupsteve.com/video-conan-triumph-star-wars.html). [Mike Lorrey](/user-mlorrey) 17:47, 14 Aug 2005 (PDT)
 ## Quitting
 
 
@@ -186,4 +186,4 @@ I think it would be more effective to blank out the page text and simply protect
 ---
 
 
-[iWeb experiment](/http-web-mac-com-stsparky-iweb-stsparkyssatomimabel-say-hello-html)
+[iWeb experiment](http://web.mac.com/stsparky-iweb-stsparkyssatomimabel-say-hello.html)

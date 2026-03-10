@@ -32,10 +32,10 @@ See also:  [List of World Heritage Sites in Spain](/list-of-world-heritage-sites
 
 
 * [WikiPedia:El Escorial](/)
-* [Spanish Wikipedia](/http-es-wikipedia-org-wiki-monasterio-de-el-escorial)
+* [Spanish Wikipedia](https://es.wikipedia.org/wiki/monasterio-de-el-escorial)
 
 
 ## External link
 
 
-* [Simbology and projective genesis in architecture - El Escorial and the Temple of Solomon](/http-sapiens-ya-com-jrcuadra-jringles-htm), by Juan Rafael de la Cuadra Blanco, Ph. Dr. Architect.
+* [Simbology and projective genesis in architecture - El Escorial and the Temple of Solomon](http://sapiens.ya.com/jrcuadra-jringles.htm), by Juan Rafael de la Cuadra Blanco, Ph. Dr. Architect.

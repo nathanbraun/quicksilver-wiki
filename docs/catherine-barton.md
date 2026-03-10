@@ -10,7 +10,7 @@ From the Quicksilver Metaweb.
 [![CZJ](/web/20060725171251im_/http://www.metaweb.com/wiki/upload/a/ac/Catherine_for_MW.jpg)](czj)  
 **Catherine  
 AKA *The Body***
-*The non-fictional [niece](/http-www-glegge-fsnet-co-uk-newton-page4-html) of **[Isaac Newton](/isaac-newton)** appears in [The System of the World](/stephenson-neal-the-system-of-the-world) as [Roger Comstock](/stephenson-neal-quicksilver-roger-comstock)'s mistress. In reality, she had a relationship with [Charles Montagu, 1st Earl of Halifax](/). In the book, we see some folks get lucky. Interesting that she and Eliza are both smallpox survivors.*
+*The non-fictional [niece](http://www.glegge.fsnet.co.uk/newton-page4.html) of **[Isaac Newton](/isaac-newton)** appears in [The System of the World](/stephenson-neal-the-system-of-the-world) as [Roger Comstock](/stephenson-neal-quicksilver-roger-comstock)'s mistress. In reality, she had a relationship with [Charles Montagu, 1st Earl of Halifax](/). In the book, we see some folks get lucky. Interesting that she and Eliza are both smallpox survivors.*
 ### Authored entries
 
 

@@ -16,5 +16,5 @@ Byron Smith is credited with explaining the mechanism (Smith B, Regan WF. (1957)
 
 
 
-* [Orbital Floor Fracture: Evaluation, Management, and Materials](/http-www-uic-edu-depts-doms-rounds-rounds-39-html)
-* [American Journal of Ophthalmology](/http-www-ajo-com)
+* [Orbital Floor Fracture: Evaluation, Management, and Materials](http://www.uic.edu/depts-doms-rounds-rounds-39.html)
+* [American Journal of Ophthalmology](http://www.ajo.com)

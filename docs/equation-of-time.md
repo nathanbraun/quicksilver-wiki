@@ -22,15 +22,15 @@ This is to explain what Isaac and Daniel were up to with the **sundial - the equ
 
 edited from Wikipedia, the free encyclopedia. 
 
-**Solar time** is based on the idea that, when the sun reaches its highest point in the sky, it is noon. **Apparent solar time** is based on the **apparent solar day**, which is the interval between two successive returns of the [sun](/http-en-wikipedia-org-wiki-sun) to the local meridian[[1]](/http-en2-wikipedia-org-wiki-meridian). Solar time can be measured by a [sundial](/http-en-wikipedia-org-wiki-sundial).
+**Solar time** is based on the idea that, when the sun reaches its highest point in the sky, it is noon. **Apparent solar time** is based on the **apparent solar day**, which is the interval between two successive returns of the [sun](https://en.wikipedia.org/wiki/sun) to the local meridian[[1]](https://en.wikipedia.org/wiki/meridian). Solar time can be measured by a [sundial](https://en.wikipedia.org/wiki/sundial).
 
-The length of a solar day varies throughout the [year](/http-en2-wikipedia-org-wiki-year). This is because the [Earth](/http-en-wikipedia-org-wiki-earth)'s orbit is an ellipse , and not a circle, and the Earth moves faster when it is nearest the Sun and slower when it is farthest from the sun (as it follows [http://en2.wikipedia.org/wiki/Kepler's\_laws\_of\_planetary\_motion Kepler's laws of planetary motion]). Because of this, apparent solar days are shorter in March and September than they are in June or December . (The amount of daylight also varies because of the 23.5º tilt of the Earth's axis . A [tropical year](/http-en-wikipedia-org-wiki-tropical-year) is the length of time that the Sun , as viewed from the Earth , takes to return to the same position along the ecliptic (its path among the stars on the celestial sphere ). Position along the ecliptic is measured from the vernal equinox , one of the four cardinal points along the ecliptic. 
+The length of a solar day varies throughout the [year](https://en.wikipedia.org/wiki/year). This is because the [Earth](https://en.wikipedia.org/wiki/earth)'s orbit is an ellipse , and not a circle, and the Earth moves faster when it is nearest the Sun and slower when it is farthest from the sun (as it follows [http://en2.wikipedia.org/wiki/Kepler's\_laws\_of\_planetary\_motion Kepler's laws of planetary motion]). Because of this, apparent solar days are shorter in March and September than they are in June or December . (The amount of daylight also varies because of the 23.5º tilt of the Earth's axis . A [tropical year](https://en.wikipedia.org/wiki/tropical-year) is the length of time that the Sun , as viewed from the Earth , takes to return to the same position along the ecliptic (its path among the stars on the celestial sphere ). Position along the ecliptic is measured from the vernal equinox , one of the four cardinal points along the ecliptic. 
 
 **Mean solar time** is based on a fictional **mean sun** which travels at a constant rate throughout the year. The length of a **mean solar day** is a constant 24 hours throughout the year although, as noted above, the amount of daylight varies. 
 
 The difference between apparent solar time and mean solar time, which is sometimes as great as 15 minutes, is called **the equation of time**.
 
-See also [time](/http-en-wikipedia-org-wiki-time), [day](/http-en-wikipedia-org-wiki-day), [ecliptic](/http-en-wikipedia-org-wiki-ecliptic), [sundial](/http-en-wikipedia-org-wiki-sundial), [sidereal time](/http-en-wikipedia-org-wiki-sidereal-time)
+See also [time](https://en.wikipedia.org/wiki/time), [day](https://en.wikipedia.org/wiki/day), [ecliptic](https://en.wikipedia.org/wiki/ecliptic), [sundial](https://en.wikipedia.org/wiki/sundial), [sidereal time](https://en.wikipedia.org/wiki/sidereal-time)
 
 A pedantical note: The above is the standard explanation of apparent solar time and mean solar time found on most encyclopaedias, and it is "good enough" for most purposes; However, it contains a flaw. It is in the pass from *apparent solar time is based on the apparent solar day*, which is the interval between two successive returns of the sun to the local meridian . The length of a solar day varies throughout the year *to* Mean solar time is based on a fictional mean sun which travels at a constant rate throughout the year. The length of a solar day does not vary. 
 
@@ -81,7 +81,7 @@ The analemma is a figure-eight shaped plot of the position of the sun in the cel
 
 The deviation between solar time and mean time is due to the variation in the length of the synodic day, which is due to variation in the distance between the earth and the sun.
 
-A discussion of the derivation of this curve can be found at the following address: [discussion of the analemma](/http-astro-isi-edu-games-analemma-html)
+A discussion of the derivation of this curve can be found at the following address: [discussion of the analemma](http://astro.isi.edu/games-analemma.html)
 
 ### Related links
 
@@ -94,6 +94,6 @@ A discussion of the derivation of this curve can be found at the following addre
 ### External links
 
 
-* [discussion of the analemma](/http-astro-isi-edu-games-analemma-html)
+* [discussion of the analemma](http://astro.isi.edu/games-analemma.html)
 
 TBA

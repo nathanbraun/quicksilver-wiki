@@ -56,6 +56,6 @@ where the function *E* is the complete elliptic integral of the second kind.
 ### External Links
 
 
-* [Ellipsoid](/http-en-wikipedia-org-wiki-ellipsoid), a higher dimensional analog of an ellipse
-* [Spheroid](/http-en-wikipedia-org-wiki-spheroid), the ellipsoids obtained by rotating an ellipse about its major or minor axis.
-* [Super ellipse](/http-en-wikipedia-org-wiki-super-ellipse), a generalization of an ellipse that can look more rectangular
+* [Ellipsoid](https://en.wikipedia.org/wiki/ellipsoid), a higher dimensional analog of an ellipse
+* [Spheroid](https://en.wikipedia.org/wiki/spheroid), the ellipsoids obtained by rotating an ellipse about its major or minor axis.
+* [Super ellipse](https://en.wikipedia.org/wiki/super-ellipse), a generalization of an ellipse that can look more rectangular

@@ -38,9 +38,9 @@ This is the [Xeno's Paradox](/http-www-eccosys-jp-bigtwin-tekrom-xeno-html) of Q
 
 
 * [http://www.newtonphysics.on.ca/EINSTEIN/Chapter10.html](/http-www-newtonphysics-on-ca-einstein-chapter10-html)
-* [http://altair.syr.edu:2024/lightcone/equivalence.html](/http-altair-syr-edu-2024-lightcone-equivalence-html)
+* [http://altair.syr.edu:2024/lightcone/equivalence.html](http://altair.syr.edu/2024-lightcone-equivalence.html)
 * F. W. Sears, Principles of Physics, Addison-Wesley, p. 267, 1946
 
-[ISBN 0738200239](/) [The Einstein Paradox: And Other Science Mysteries Solved by Sherlock Holmes](/http-www-perseusbooksgroup-com-perseus-cgi-bin-display-0-7382-0023-9) AKA [The Strange Case of Mrs. Hudson's Cat](/http-www-amazon-com-exec-obidos-tg-detail-0738200239-qid-1087859869-sr-8-2-ref-pd-ka-2-104-8931055-5532701-v-glance-s-books-n-507846-product-details) by [Colin Bruce](/http-www-amazon-com-exec-obidos-search-handle-url-index-books-field-author-bruce-colin-104-8931055-5532701) - he uses a train instead of a elevator but the scheme is the same. Einstein for the Mathphobic.  
+[ISBN 0738200239](/) [The Einstein Paradox: And Other Science Mysteries Solved by Sherlock Holmes](http://www.perseusbooksgroup.com/perseus-cgi-bin-display-0-7382-0023-9) AKA [The Strange Case of Mrs. Hudson's Cat](http://www.amazon.com/exec-obidos-tg-detail-0738200239-qid-1087859869-sr-8-2-ref-pd-ka-2-104-8931055-5532701-v-glance-s-books-n-507846-product-details) by [Colin Bruce](http://www.amazon.com/exec-obidos-search-handle-url-index-books-field-author-bruce-colin-104-8931055-5532701) - he uses a train instead of a elevator but the scheme is the same. Einstein for the Mathphobic.  
 
-[ISBN 0738205893](/) [Conned Again, Watson! Cautionary Tales of Logic, Math, and Probability](/http-www-amazon-com-exec-obidos-tg-detail-0738205893-ref-pd-bxgy-text-1-104-8931055-5532701-v-glance-s-books-st-product-details): there has never been a more exciting way to learn when to take a calculated risk-and how to spot a scam.
+[ISBN 0738205893](/) [Conned Again, Watson! Cautionary Tales of Logic, Math, and Probability](http://www.amazon.com/exec-obidos-tg-detail-0738205893-ref-pd-bxgy-text-1-104-8931055-5532701-v-glance-s-books-st-product-details): there has never been a more exciting way to learn when to take a calculated risk-and how to spot a scam.

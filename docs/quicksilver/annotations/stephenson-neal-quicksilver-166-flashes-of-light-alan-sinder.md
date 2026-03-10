@@ -31,7 +31,7 @@ The heliograph is a mirror set on a metal base which allows the mirror to be pos
 
 Australian Light Horse made good use of the helio in the Desert campaigns in WW1, but they were aware of the drawbacks of the device. In open desert conditions it was a very useful item, but using it required the operator to be in a position where he could be seen, an obvious danger in warfare, and with sunlight unavailable the helio would not function.
 
-Enthusiast [James Riddle](/http-myweb-cableone-net-kd7aoi): recieved information from Tom Windes, an archaeologist with the National Park Service (UNM, Albuquerque), and another archaeologist, Tom Barker expressing the similarity between the [army heliograph](/http-www-warlinks-com-pages-heliograph-html) signaling system and a possible prehistoric Chacoan signaling system (800 or 900 CE) discovered by them along with Al Hayes in the early 1970s in the San Juan Basin of north-western New Mexico while doing archaeological work.
+Enthusiast [James Riddle](http://myweb.cableone.net/kd7aoi): recieved information from Tom Windes, an archaeologist with the National Park Service (UNM, Albuquerque), and another archaeologist, Tom Barker expressing the similarity between the [army heliograph](http://www.warlinks.com/pages-heliograph.html) signaling system and a possible prehistoric Chacoan signaling system (800 or 900 CE) discovered by them along with Al Hayes in the early 1970s in the San Juan Basin of north-western New Mexico while doing archaeological work.
 
 The idea certainly isn't new. In fiction the ***Lone Ranger and Tonto*** often came up against *bad guys* using the easier to use mirror or shaving knife with a sight hole signaling device (which any average *teenaged* scout figures out before tackling the more complex concept of social skills though I know of advanced *webelos* and *bluejays*). *America Native Peoples* may have been using mica to signal at a distance for centuries along with signal fires and smoke signals.![mark5-helio.jpg](/https://web.archive.org/web/20060725170610im_/http://www.sscnet.ucla.edu/geog/gessler/collections/mark5-helio.jpg)  
 **MARK V HELIOGRAPH  
@@ -42,7 +42,7 @@ reflecting sunlight from the mirrors and was
 favored in sunny climates like Australia  
 and Southern Africa.**
 
-### [Edited Wikipedia Telegraphy](/http-en-wikipedia-org-wiki-telegraphy)
+### [Edited Wikipedia Telegraphy](https://en.wikipedia.org/wiki/telegraphy)
 
 
 **Telegraphy** is the long distance transmission of written messages without physical transport of letters. This definition includes recent forms of data transmission such as fax, email, and computer networks in general. (A telegraph is a machine for transmitting and receiving messages over long distances, i.e. for telegraphy.) 
@@ -58,7 +58,7 @@ Semaphores are faster (in the sense of 'provide much larger bandwidth') than smo
 ### [Wikipedia: Morse Code](/)
 
 
-**Morse code** is a system of representing letters, numbers and punctuation marks by means of a code signal sent intermittently. It was developed by [Alfred Vail](/http-en-wikipedia-org-wiki-alfred-vail) while he was helping [Samuel Morse](/http-en-wikipedia-org-wiki-samuel-f-b-morse) with Morse's invention of the telegraph in 1835. 
+**Morse code** is a system of representing letters, numbers and punctuation marks by means of a code signal sent intermittently. It was developed by [Alfred Vail](https://en.wikipedia.org/wiki/alfred-vail) while he was helping [Samuel Morse](https://en.wikipedia.org/wiki/samuel-f-b-morse) with Morse's invention of the telegraph in 1835. 
 
 Morse code is an early form of digital communication, however unlike modern binary digital codes that use just two states (commonly represented as 1 and 0), it uses five: dot (·), dash (-), short gap (between each letter), medium gap (between words) and long gap (between sentences). 
 
@@ -97,13 +97,13 @@ International Morse code is still in use today, although it has become almost ex
 
 Since Morse relies on only a steady (unmodulated) radio signal, it requires less complex equipment than other forms of radio communication, and it can be used in very high noise / low signal environments. It also requires very little bandwidth and facilitates communication between amateur radio operators who do not share a common mother tongue and would have great difficulty in communicating using voice modes. It is also very popular among QRP operators. 
 
-In the United States until 1991, a demonstration of the ability to send and receive Morse code at 5 words per minute (WPM) was required to receive an FCC amateur radio license permitting use of the HF bands. Until 1999 proficiency at the 20 WPM level was required to receive the highest level of amateur license (Extra Class); effective April 15, 2000, the FCC reduced the Extra Class requirement to 5 WPM.[[1]](/http-www-arrl-org-announce-regulatory-wt98-143ro-pdf)
+In the United States until 1991, a demonstration of the ability to send and receive Morse code at 5 words per minute (WPM) was required to receive an FCC amateur radio license permitting use of the HF bands. Until 1999 proficiency at the 20 WPM level was required to receive the highest level of amateur license (Extra Class); effective April 15, 2000, the FCC reduced the Extra Class requirement to 5 WPM.[[1]](http://www.arrl.org/announce-regulatory-wt98-143ro.pdf)
 
 The World Radiocommunication Conference of 2003 (WRC-03) made optional the international Morse code requirement for amateur radio licensing. Although the requirement remains on the books in the US, Canada, and elsewhere, some countries are working to eliminate the requirement entirely. 
 
 Amateur and military radio operators skilled in Morse code can often understand ("copy") code in their heads at rates in excess of 40 WPM. Although the traditional telegraph key is still used by many amateurs, the use of semi- and fully-automatic electronic keyers is prevalent today. Computer software is also frequently employed to produce and decode Morse code RF signals. 
 
-Interestingly, the ITU have recently (in February 2004) added the "@" (the "commercial at" or "commat") character to the Morse character set and is the digraph "AC" (probably to represent the letter a inside the swirl appearing to be a C)[[2]](/http-www-cjonline-com-stories-021704-pag-morsecode-shtml). It is notable since this is the first addition to the Morse set of characters since World War I. 
+Interestingly, the ITU have recently (in February 2004) added the "@" (the "commercial at" or "commat") character to the Morse character set and is the digraph "AC" (probably to represent the letter a inside the swirl appearing to be a C)[[2]](http://www.cjonline.com/stories-021704-pag-morsecode-shtml). It is notable since this is the first addition to the Morse set of characters since World War I. 
 
 ### Timing and Representation
 
@@ -173,7 +173,7 @@ Prosigns are dot/dash sequences that have a special meaning. They are composed o
 AR ·-·-· Stop (end of message), often written +
 AS ·-··· Wait (for 10 s), respond with C (yes)
 AS2 means wait 2 min, AS5 5 mins, etc
-For pauses of 10 min or longer, you must use QRX (see [Q Code](/http-en-wikipedia-org-wiki-q-code))
+For pauses of 10 min or longer, you must use QRX (see [Q Code](https://en.wikipedia.org/wiki/q-code))
 K -·- Invitation to transmit
 (normally follows AR to indicate 'back-to-you')
 SK ···-·- End (end of contact), sometimes written VA
@@ -311,8 +311,8 @@ Stations were just testing a connection. VA, meaning bye or end, is sent as one 
 ### Still The Speed King!
 
 
-Okay, the world title for [fastest text messaging](/http-www-engadget-com-entry-8288620206451518) is still raging in the streets. The victor in the most recent contest was a bit of a dark horse  93-year-old telegraph operator Gordon Hill delivered a resounding ass-whoopin to his rival, 13-year-old Brittany Devlin, using Morse Code. Of course, Mr. Hill does have nigh on 80 years of practice under his belt, which was enough to help him triumph even despite Brittanys liberal use of texting slang (Mr. Hill transmitted the chosen phrase verbatim). The showdown was sponsored by the Powerhouse Museum in Sydney, Australia, and the rivals had to transmit the following message: Hey, girlfriend, you can text all your best pals to tell them where you are going and what you are wearing. Damn straight! Screw the [T9](/http-www-tegic-com), Engadgets switching over to Morse from now on.
- ... [mentalflossboy](/http-hardware-slashdot-org-article-pl-sid-05-05-06-2145200-tid-126) writes "Engadget is reporting that Morse Code is actually faster than text messaging. According to the article, 93 year old Gordon Hill transmitted a message faster than 13 year old Brittany Devlin, despite Devlin's 'liberal use of texting slang.' And the fabulous quote they were they sending: 'Hey, girlfriend, you can text all your best pals to tell them where you are going and what you are wearing.'" ...
+Okay, the world title for [fastest text messaging](http://www.engadget.com/entry-8288620206451518) is still raging in the streets. The victor in the most recent contest was a bit of a dark horse  93-year-old telegraph operator Gordon Hill delivered a resounding ass-whoopin to his rival, 13-year-old Brittany Devlin, using Morse Code. Of course, Mr. Hill does have nigh on 80 years of practice under his belt, which was enough to help him triumph even despite Brittanys liberal use of texting slang (Mr. Hill transmitted the chosen phrase verbatim). The showdown was sponsored by the Powerhouse Museum in Sydney, Australia, and the rivals had to transmit the following message: Hey, girlfriend, you can text all your best pals to tell them where you are going and what you are wearing. Damn straight! Screw the [T9](http://www.tegic.com), Engadgets switching over to Morse from now on.
+ ... [mentalflossboy](http://hardware.slashdot.org/article-pl-sid-05-05-06-2145200-tid-126) writes "Engadget is reporting that Morse Code is actually faster than text messaging. According to the article, 93 year old Gordon Hill transmitted a message faster than 13 year old Brittany Devlin, despite Devlin's 'liberal use of texting slang.' And the fabulous quote they were they sending: 'Hey, girlfriend, you can text all your best pals to tell them where you are going and what you are wearing.'" ...
 
 ### Related entries
 
@@ -325,21 +325,21 @@ Okay, the world title for [fastest text messaging](/http-www-engadget-com-entry-
 ### External links
 
 
-* [So-Called *computers* includes a cheese cutter  go here now!](/http-www-sscnet-ucla-edu-geog-gessler-collections)
-* [Tom Barker on the Army version](/http-www-warlinks-com-pages-heliograph-html)
-* [[James Riddle](/http-myweb-cableone-net-kd7aoi)
-* [Southampton University](/http-www-soton-ac-uk-scp93ch-morse-jtrans-html)
-* [Omnicron.com](/http-www-omnicron-com-ford-java-nmorse-html)
-* [A Morse code trainer for Windows 32 bit machines](/http-morsemadness-sourceforge-net) (Open source)
-* [Morse code for Esperanto](/http-lingvo-org-morso)
-* [Q Code](/http-en-wikipedia-org-wiki-q-code)
-* [Tegic Communications Delivers Version 7.2 Of Industry Leading T9(r) Text Input Software](/http-www-tegic-com-press-view-html-release-num-55254280)
-* [T9 Dictionary pdf](/http-www-t9-com-t9dictionary) Java applet
-* [Among Text Messengers, New 'Slanguage' Crops Up, and Not Just With Teens](/http-www-tegic-com-press-view-html-release-num-55254185) - T9
-* [Tegic Communications' New Texting Survey Reveals Surprising Trends in the 'Text Culture' of Japan](/http-www-tegic-com-press-view-html-release-num-55254339)
-* [the morse-rises-from-grave-and-goes-on-killing-spree dept.](/http-hardware-slashdot-org-comments-pl-sid-05-05-06-2145200) Discuss this story
-* [Morse code trumps SMS in head-to-head speed texting combat](/http-engadget-com-entry-1234000463042528)
-* [New world record for fastest text messaging?](/http-www-engadget-com-entry-8288620206451518)
-* [The new world record for fastest text messaging](/http-www-engadget-com-entry-6280854764242732)
-* [CGI Morse Code Translator](/http-scphillips-com-morse-trans-html)
-* [Java Morse Code Translator](/http-scphillips-com-morse-jtrans-html)
+* [So-Called *computers* includes a cheese cutter  go here now!](http://www.sscnet.ucla.edu/geog-gessler-collections)
+* [Tom Barker on the Army version](http://www.warlinks.com/pages-heliograph.html)
+* [[James Riddle](http://myweb.cableone.net/kd7aoi)
+* [Southampton University](http://www.soton.ac.uk/scp93ch-morse-jtrans.html)
+* [Omnicron.com](http://www.omnicron.com/ford-java-nmorse.html)
+* [A Morse code trainer for Windows 32 bit machines](http://morsemadness.sourceforge.net) (Open source)
+* [Morse code for Esperanto](http://lingvo.org/morso)
+* [Q Code](https://en.wikipedia.org/wiki/q-code)
+* [Tegic Communications Delivers Version 7.2 Of Industry Leading T9(r) Text Input Software](http://www.tegic.com/press-view-html-release-num-55254280)
+* [T9 Dictionary pdf](http://www.t9.com/t9dictionary) Java applet
+* [Among Text Messengers, New 'Slanguage' Crops Up, and Not Just With Teens](http://www.tegic.com/press-view-html-release-num-55254185) - T9
+* [Tegic Communications' New Texting Survey Reveals Surprising Trends in the 'Text Culture' of Japan](http://www.tegic.com/press-view-html-release-num-55254339)
+* [the morse-rises-from-grave-and-goes-on-killing-spree dept.](http://hardware.slashdot.org/comments-pl-sid-05-05-06-2145200) Discuss this story
+* [Morse code trumps SMS in head-to-head speed texting combat](http://engadget.com/entry-1234000463042528)
+* [New world record for fastest text messaging?](http://www.engadget.com/entry-8288620206451518)
+* [The new world record for fastest text messaging](http://www.engadget.com/entry-6280854764242732)
+* [CGI Morse Code Translator](http://scphillips.com/morse-trans.html)
+* [Java Morse Code Translator](http://scphillips.com/morse-jtrans.html)

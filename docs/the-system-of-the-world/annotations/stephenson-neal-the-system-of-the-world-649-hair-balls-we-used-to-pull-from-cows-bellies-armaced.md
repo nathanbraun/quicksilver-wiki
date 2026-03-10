@@ -12,6 +12,6 @@ Bezoars were formerly sought after because they were believed to have the power 
 ## External Links
 
 
-* [Trichinobezoar from Wikipedia](/http-en-wikipedia-org-wiki-trichinobezoar)
+* [Trichinobezoar from Wikipedia](https://en.wikipedia.org/wiki/trichinobezoar)
 * [Sandman #17 - Calliope](/ftp-theory-lcs-mit-edu-pub-people-wald-sandman-sandman-17) - A writer trades a trichinobezoar for a muse.
 * [Picture of a tirchinobezoar](/http-nmhm-washingtondc-museum-explore-anatifacts-4-trich-html)

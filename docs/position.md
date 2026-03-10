@@ -33,5 +33,5 @@ Location is position in physical space, expressed in relative to other things' l
 ### [External links](/metaweb-external-links)
 
 
-* [http://en.wikipedia.org/wiki/Physical\_space](/http-en-wikipedia-org-wiki-physical_space)
-* [http://en2.wikipedia.org/wiki/Cartesian\_coordinate\_system](/http-en2-wikipedia-org-wiki-cartesian_coordinate_system)
+* [http://en.wikipedia.org/wiki/Physical\_space](https://en.wikipedia.org/wiki/physical_space)
+* [http://en2.wikipedia.org/wiki/Cartesian\_coordinate\_system](https://en.wikipedia.org/wiki/cartesian_coordinate_system)

@@ -41,5 +41,5 @@ The number of FRNs in circulation, of course, are only a large fraction of the M
 
 Thus, the current day money supply is quite similar to the land-backed currency proposed by the Tories during the age of The Baroque Cycle and which led to such economic ruin for England and the Bank of England.
 
-* ["The Creature From Jekyll Island"](/http-www-amazon-com-gp-product-0912986212-102-7445426-8529757-v-glance-n-283155) by G Edward Griffin (at amazon.com)
-* [G Edward Griffin's Website](/http-www-realityzone-com-realityzone-index-html)
+* ["The Creature From Jekyll Island"](http://www.amazon.com/gp-product-0912986212-102-7445426-8529757-v-glance-n-283155) by G Edward Griffin (at amazon.com)
+* [G Edward Griffin's Website](http://www.realityzone.com/realityzone-index.html)

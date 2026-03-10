@@ -78,12 +78,12 @@ The plot backfired spectacularly upon England's Catholics. It halted any moves t
 **V FOR VENDETTA**  
 The Protagonist in his Guy Fawkes Mask
 
-Modern physicists have calculated that if the Plot had succeeded, it would have have destroyed buildings throughout much of [Westminster](/http-en2-wikipedia-org-wiki-westminster), and shattered glass windows within a 2/3 mile (1 [kilometer](/kilometer)) radius (window glass having only recently become common). 
+Modern physicists have calculated that if the Plot had succeeded, it would have have destroyed buildings throughout much of [Westminster](https://en.wikipedia.org/wiki/westminster), and shattered glass windows within a 2/3 mile (1 [kilometer](/kilometer)) radius (window glass having only recently become common). 
 
 ### In Fiction
 
 
-In the [dystopian](/http-en-wikipedia-org-wiki-dystopia) [science fiction](/http-en2-wikipedia-org-wiki-science-fiction) [graphic novel](/http-en2-wikipedia-org-wiki-graphic-novel), [V for Vendetta](/http-en2-wikipedia-org-wiki-v-for-vendetta) by [Alan Moore](/http-en2-wikipedia-org-wiki-alan-moore), V, a mysterious [anarchist](/http-en2-wikipedia-org-wiki-anarchist) who disguises and models himself as a latter day Guy Fawkes, finally explodes the abandoned parliament buildings on a future November 5 as his first move to bring down a nightmarish [Thatcher](/http-en2-wikipedia-org-wiki-margaret-thatcher) inspired English nation's [Brownshirted](/http-en2-wikipedia-org-wiki-fascism) tyranny. It's also an element in [Diana Wynne Jones](/http-en-wikipedia-org-wiki-diana-wynne-jones)' *Witch Week*.
+In the [dystopian](https://en.wikipedia.org/wiki/dystopia) [science fiction](https://en.wikipedia.org/wiki/science-fiction) [graphic novel](https://en.wikipedia.org/wiki/graphic-novel), [V for Vendetta](https://en.wikipedia.org/wiki/v-for-vendetta) by [Alan Moore](https://en.wikipedia.org/wiki/alan-moore), V, a mysterious [anarchist](https://en.wikipedia.org/wiki/anarchist) who disguises and models himself as a latter day Guy Fawkes, finally explodes the abandoned parliament buildings on a future November 5 as his first move to bring down a nightmarish [Thatcher](https://en.wikipedia.org/wiki/margaret-thatcher) inspired English nation's [Brownshirted](https://en.wikipedia.org/wiki/fascism) tyranny. It's also an element in [Diana Wynne Jones](https://en.wikipedia.org/wiki/diana-wynne-jones)' *Witch Week*.
 
 ### Related links
 
@@ -101,14 +101,14 @@ In the [dystopian](/http-en-wikipedia-org-wiki-dystopia) [science fiction](/http
 ### External links
 
 
-* [Westminster](/http-en2-wikipedia-org-wiki-westminster)
-* [dystopian](/http-en-wikipedia-org-wiki-dystopia)
-* [science fiction](/http-en2-wikipedia-org-wiki-science-fiction)
-* [graphic novel](/http-en2-wikipedia-org-wiki-graphic-novel)
-* [V for Vendetta](/http-www-amazon-com-exec-obidos-tg-detail-0930289528-103-8140691-3696657-v-glance) Amazon Listing of *[V for Vendatta](/http-en2-wikipedia-org-wiki-v-for-vendetta)*
-* [Alan Moore](/http-en2-wikipedia-org-wiki-alan-moore)
-* [anarchist](/http-en2-wikipedia-org-wiki-anarchist)
+* [Westminster](https://en.wikipedia.org/wiki/westminster)
+* [dystopian](https://en.wikipedia.org/wiki/dystopia)
+* [science fiction](https://en.wikipedia.org/wiki/science-fiction)
+* [graphic novel](https://en.wikipedia.org/wiki/graphic-novel)
+* [V for Vendetta](http://www.amazon.com/exec-obidos-tg-detail-0930289528-103-8140691-3696657-v-glance) Amazon Listing of *[V for Vendatta](https://en.wikipedia.org/wiki/v-for-vendetta)*
+* [Alan Moore](https://en.wikipedia.org/wiki/alan-moore)
+* [anarchist](https://en.wikipedia.org/wiki/anarchist)
 * [Friday](/), a [science fiction](/) novel by [Robert E. Henlein](/), mentioned as an example.
-* [Thatcher](/http-en2-wikipedia-org-wiki-margaret-thatcher)
-* [Brownshirts](/http-en2-wikipedia-org-wiki-fascism)
-* [Diana Wynne Jones](/http-en-wikipedia-org-wiki-diana-wynne-jones)
+* [Thatcher](https://en.wikipedia.org/wiki/margaret-thatcher)
+* [Brownshirts](https://en.wikipedia.org/wiki/fascism)
+* [Diana Wynne Jones](https://en.wikipedia.org/wiki/diana-wynne-jones)

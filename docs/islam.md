@@ -78,7 +78,7 @@ ijtihad (Arabic, original meaning "struggle") is a technical term of the Islamic
 ### External links
 
 
-* **[Wikipedia's entry on Islam](/http-en-wikipedia-org-wiki-islam)**
-* **[History of Islam](/http-en2-wikipedia-org-wiki-history-of-islam)**
-* **[Life of the Prophet](/http-en2-wikipedia-org-wiki-life-of-prophet-muhammad)**
-* **[IslamWeb](/http-www-islamweb-net-ver2-archive-index2-php-vpart-40-startno-1-thelang-e)**
+* **[Wikipedia's entry on Islam](https://en.wikipedia.org/wiki/islam)**
+* **[History of Islam](https://en.wikipedia.org/wiki/history-of-islam)**
+* **[Life of the Prophet](https://en.wikipedia.org/wiki/life-of-prophet-muhammad)**
+* **[IslamWeb](http://www.islamweb.net/ver2-archive-index2-php-vpart-40-startno-1-thelang-e)**

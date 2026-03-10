@@ -21,14 +21,14 @@ As does the *[Mineva's](/minerva)* handy handed *[Captain van Hoek](/stephenson-
 ## ***MERCURY***
 
 
-**Quicksilver** as 'Mercury' appears in several aspects -- in paintings and in metaphysical discourse. Mercury is mentioned as poison and possible [pox](/http-www-hyperdictionary-com-dictionary-syphilis) cure. Hermes is also linked to Alchemy -- as [Hermes Trismegistus](/http-en2-wikipedia-org-wiki-hermes-trismegistus) the thrice greatest -- as the teacher the magical system known as Hermetism of which *high magic* and [alchemy](/alchemy) are thought to be twin branches.
+**Quicksilver** as 'Mercury' appears in several aspects -- in paintings and in metaphysical discourse. Mercury is mentioned as poison and possible [pox](http://www.hyperdictionary.com/dictionary-syphilis) cure. Hermes is also linked to Alchemy -- as [Hermes Trismegistus](https://en.wikipedia.org/wiki/hermes-trismegistus) the thrice greatest -- as the teacher the magical system known as Hermetism of which *high magic* and [alchemy](/alchemy) are thought to be twin branches.
  Its funny to note that [Drake Waterhouse](/stephenson-neal-quicksilver-drake-waterhouse)'s mutilated face with its lack of a nose shares the same fate that befalls some of those unGodly libertines seeking a pox cure.  
 
 
 ## ***Merciful MINERVA***
 
 
-**[Minerva](/stephenson-neal-quicksilver-12-minerva-alan-sinder)** AKA 'Athena' pops up too. She is a high tech ship (which must have had several incarnations if her crockery is *old* as **[Daniel Waterhouse](/daniel-waterhouse)** observed on page 92; And since we must believe 'Dappa the hipster' about Minerva being a Malabar Brigantine and not some mere *floaty* Flemish-style [boat](/http-www-qaronline-org-rcorner-genhistory-htm) that *zogs*1 when it shouldn't.  
+**[Minerva](/stephenson-neal-quicksilver-12-minerva-alan-sinder)** AKA 'Athena' pops up too. She is a high tech ship (which must have had several incarnations if her crockery is *old* as **[Daniel Waterhouse](/daniel-waterhouse)** observed on page 92; And since we must believe 'Dappa the hipster' about Minerva being a Malabar Brigantine and not some mere *floaty* Flemish-style [boat](http://www.qaronline.org/rcorner-genhistory.htm) that *zogs*1 when it shouldn't.  
 
 
 ### Footnotes and links
@@ -36,9 +36,9 @@ As does the *[Mineva's](/minerva)* handy handed *[Captain van Hoek](/stephenson-
 
 1. **Now** I understand "*zog-zog*" from the Ringo Starr Caveman film.  
 
-[http://www.hyperdictionary.com/dictionary/syphilis](/http-www-hyperdictionary-com-dictionary-syphilis)  
+[http://www.hyperdictionary.com/dictionary/syphilis](http://www.hyperdictionary.com/dictionary-syphilis)  
 
-[http://www.qaronline.org/rcorner/genhistory.htm](/http-www-qaronline-org-rcorner-genhistory-htm)  
+[http://www.qaronline.org/rcorner/genhistory.htm](http://www.qaronline.org/rcorner-genhistory.htm)  
 
 [ISBN 0521796628](/) The Alchemy Reader: From Hermes Trismegistus to Isaac Newton  
 

@@ -117,6 +117,6 @@ Charles's life has more often been treated seriously in novels and plays and on 
 ### External links
 
 
-* [http://www.autodidactproject.org/other/PKCS.html](/http-www-autodidactproject-org-other-pkcs-html)
-* [http://en2.wikipedia.org/wiki/Charles\_I\_of\_England](/http-en2-wikipedia-org-wiki-charles_i_of_england)
-* [House of Bourbon family tree](/http-www-nealstephenson-com-family-bourbon-htm)
+* [http://www.autodidactproject.org/other/PKCS.html](http://www.autodidactproject.org/other-pkcs.html)
+* [http://en2.wikipedia.org/wiki/Charles\_I\_of\_England](https://en.wikipedia.org/wiki/charles_i_of_england)
+* [House of Bourbon family tree](http://www.nealstephenson.com/family-bourbon.htm)

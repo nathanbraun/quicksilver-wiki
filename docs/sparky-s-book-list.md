@@ -19,7 +19,7 @@ The spouse
 
 
 The New World by Frederick Turner
-[Future Primitive](/http-en-wikipedia-org-wiki-future-primitive), anthology edited by Kim Stanley Robinson, containing many good authors Kim and me like
+[Future Primitive](https://en.wikipedia.org/wiki/future-primitive), anthology edited by Kim Stanley Robinson, containing many good authors Kim and me like
 Mars series by Robinson (Red Mars etc.)
  * I read the first two of the Mars books -- I'm looking for the others, Scarce in Japan. :(
 The Moon is a Harsh Mistress, Robert Heinlein
@@ -30,7 +30,7 @@ Hyperion, by Dan Simmons, most compelling portrayal of AIs anywhere
  * Dan used be a regular at **Dangerous Visions Bookstore** - the odd child of **Change of Hobbit** in Sherman Oaks California.
 Dune, by Frank Herbert, right to the end (sixth book really quite rules)
  * I was mystified by the *Face Dancers* as well.
-Oryx and Crake, Margaret Atwood (very new, [http://www.oryxandcrake.co.uk](/http-www-oryxandcrake-co-uk) )
+Oryx and Crake, Margaret Atwood (very new, [http://www.oryxandcrake.co.uk](http://www.oryxandcrake.co.uk) )
  * You'll have to sell me on Atwood. 
 ANYTHING by Damon Knight, a marvellous author often unrightfully overlooked
  * Damon Knight is always a jolly read; his wife has written some good mysteries and SF
@@ -53,7 +53,7 @@ Bought: Claire Tomalin's Samuel Pepys: The Unequaled Self, John Gribben's Scienc
 
 On order from Amazon Japan:
 Have Space Suit-Will Travel
-Glory Road  which I want to compare to Neverwhere: A Novel (I've a theory to compare Heinlein's [Podkayne of Mars](/http-www-amazon-co-jp-exec-obidos-asin-0709071396-qid-1073631762-sr-1-22-ref-sr-1-2-22-250-0112413-1501025) / Alexei and Cory Panshin's [Rite of Passage](/http-www-amazon-com-exec-obidos-tg-detail-0441727859-ref-lpr-g-2-103-8140691-3696657-v-glance-s-ebooks) against the two. Then again - folks may not like Panshin's take on RAH).
+Glory Road  which I want to compare to Neverwhere: A Novel (I've a theory to compare Heinlein's [Podkayne of Mars](/http-www-amazon-co-jp-exec-obidos-asin-0709071396-qid-1073631762-sr-1-22-ref-sr-1-2-22-250-0112413-1501025) / Alexei and Cory Panshin's [Rite of Passage](http://www.amazon.com/exec-obidos-tg-detail-0441727859-ref-lpr-g-2-103-8140691-3696657-v-glance-s-ebooks) against the two. Then again - folks may not like Panshin's take on RAH).
 And these two:  Tanner's Tiger (An Evan Tanner Suspense Thriller) and Me Tanner, You Jane because Lawrence Block is fun. 
 
 Found a copy of HG Wells World History! He's not a jingoist like HAL Fisher.
@@ -66,7 +66,7 @@ Can't find images of the volume 2 hardcover
 * [Cover of V2 # 2](/http-www-comp-dit-ie-dgordon-league-covers-loeg2cover2-jpg)
 * [V2 # 3](/http-www-comp-dit-ie-dgordon-league-covers-loeg2cover3-jpg)
 * [V2 # 4](/http-www-comp-dit-ie-dgordon-league-covers-loeg2cover4-jpg)
-* [V2 #5 FC](/http-www-comicscontinuum-com-stories-0305-02-lc-jpg)
+* [V2 #5 FC](http://www.comicscontinuum.com/stories-0305-02-lc.jpg)
 * [V2 #5 BC](/http-www-comp-dit-ie-dgordon-league-covers-loeg2cover5-jpg)
 * [V2 #6](/http-www-comp-dit-ie-dgordon-league-covers-loeg2cover6-jpg)
 
@@ -83,40 +83,40 @@ Can't find images of the volume 2 hardcover
  
 
 ```
-Please visit [Jess Online](/http-www-geocities-com-athens-olympus-7160-league1-html) to see annotation at its best.
+Please visit [Jess Online](http://www.geocities.com/athens-olympus-7160-league1.html) to see annotation at its best.
 
 
 **Book Links** to investigate -so far- I promise more  
 
-[http://www.metaweb.com/wiki/wiki.phtml?title=Stephenson:Neal:Cryptonomicon](/http-www-metaweb-com-wiki-wiki-phtml-title-stephenson-neal-cryptonomicon)   
+[http://www.metaweb.com/wiki/wiki.phtml?title=Stephenson:Neal:Cryptonomicon](http://www.metaweb.com/wiki-wiki-phtml-title-stephenson-neal-cryptonomicon)   
 
-[http://www.williamgibsonbooks.com/books/pattern.asp](/http-www-williamgibsonbooks-com-books-pattern-asp) - Pattern Recognition  
+[http://www.williamgibsonbooks.com/books/pattern.asp](http://www.williamgibsonbooks.com/books-pattern.asp) - Pattern Recognition  
 
-[http://www.thrillingdetective.com/eyes/mori.html](/http-www-thrillingdetective-com-eyes-mori-html) Tokyo's 'Jim Rockford' - Mori-*san*!  
+[http://www.thrillingdetective.com/eyes/mori.html](http://www.thrillingdetective.com/eyes-mori.html) Tokyo's 'Jim Rockford' - Mori-*san*!  
 
-[http://www.wired.com/wired/archive/9.09/gibson.html](/http-www-wired-com-wired-archive-9-09-gibson-html) - Tokyo as the background ...  
+[http://www.wired.com/wired/archive/9.09/gibson.html](http://www.wired.com/wired-archive-9-09-gibson.html) - Tokyo as the background ...  
 
-[http://www.metaweb.com/wiki/wiki.phtml?title=Stephenson:Neal:Quicksilver](/http-www-metaweb-com-wiki-wiki-phtml-title-stephenson-neal-quicksilver)  
+[http://www.metaweb.com/wiki/wiki.phtml?title=Stephenson:Neal:Quicksilver](http://www.metaweb.com/wiki-wiki-phtml-title-stephenson-neal-quicksilver)  
 
-[http://www.rawilson.com/](/http-www-rawilson-com) - Who's here old enough to remember his Oui articles?  
+[http://www.rawilson.com/](http://www.rawilson.com) - Who's here old enough to remember his Oui articles?  
 
-[http://www.fanzing.com/mag/fanzing17/feature3.shtml](/http-www-fanzing-com-mag-fanzing17-feature3-shtml) - John Broome   
+[http://www.fanzing.com/mag/fanzing17/feature3.shtml](http://www.fanzing.com/mag-fanzing17-feature3-shtml) - John Broome   
 
-[http://www.njedge.net/~knapp/tenyears.htm](/http-www-njedge-net-knapp-tenyears-htm) - Cay Van Ash  
+[http://www.njedge.net/~knapp/tenyears.htm](http://www.njedge.net/knapp-tenyears.htm) - Cay Van Ash  
 
-[http://www.davidbrin.com/index.html](/http-www-davidbrin-com-index-html) - That Brin guy! His dad was a prince!   
+[http://www.davidbrin.com/index.html](http://www.davidbrin.com/index.html) - That Brin guy! His dad was a prince!   
 
-[http://onlinebooks.library.upenn.edu/webbin/gutbook/lookup?num=2845](/http-onlinebooks-library-upenn-edu-webbin-gutbook-lookup-num-2845) - Sir Nigel  
+[http://onlinebooks.library.upenn.edu/webbin/gutbook/lookup?num=2845](http://onlinebooks.library.upenn.edu/webbin-gutbook-lookup-num-2845) - Sir Nigel  
 
-[http://onlinebooks.library.upenn.edu/webbin/gutbook/lookup?num=903](/http-onlinebooks-library-upenn-edu-webbin-gutbook-lookup-num-903) - The White Company  
+[http://onlinebooks.library.upenn.edu/webbin/gutbook/lookup?num=903](http://onlinebooks.library.upenn.edu/webbin-gutbook-lookup-num-903) - The White Company  
 
-[http://www.bookrags.com/books/tosjm/index.htm](/http-www-bookrags-com-books-tosjm-index-htm) - The Travels as a e-book  
+[http://www.bookrags.com/books/tosjm/index.htm](http://www.bookrags.com/books-tosjm-index.htm) - The Travels as a e-book  
 
-[http://www.fsbassociates.com/fsg/riddleandknight.htm](/http-www-fsbassociates-com-fsg-riddleandknight-htm) - Sir John Manddville explored  
+[http://www.fsbassociates.com/fsg/riddleandknight.htm](http://www.fsbassociates.com/fsg-riddleandknight.htm) - Sir John Manddville explored  
 
-[http://www.reviewsofbooks.com/baudolino/](/http-www-reviewsofbooks-com-baudolino) - Your choice of reviews  
+[http://www.reviewsofbooks.com/baudolino/](http://www.reviewsofbooks.com/baudolino) - Your choice of reviews  
 
-[http://www.perseusbooksgroup.com/perseus-cgi-bin/display/0-7382-0023-9](/http-www-perseusbooksgroup-com-perseus-cgi-bin-display-0-7382-0023-9) Einstein for the Mathphobic.  
+[http://www.perseusbooksgroup.com/perseus-cgi-bin/display/0-7382-0023-9](http://www.perseusbooksgroup.com/perseus-cgi-bin-display-0-7382-0023-9) Einstein for the Mathphobic.  
 
   Mary Renault wrote in her Introduction to the Pan 1975 version of Sir Nigil that there was a real person with the name, which Sir Arthur does not inform us of, known as Sir Neil or Sir Nigil Loring.   
 
@@ -127,22 +127,22 @@ Please visit [Jess Online](/http-www-geocities-com-athens-olympus-7160-league1-h
 
 
 ![1038026228_LargoRes.jpg](/images/1038026228_LargoRes.jpg)  
-**brought to you by [Quizilla](/http-quizilla-com)**
-[Which MegaTokyo Character are you?](/http-quizilla-com-users-amethystheartkawi-quizzes-which-megatokyo-character-are-you)
+**brought to you by [Quizilla](http://quizilla.com)**
+[Which MegaTokyo Character are you?](http://quizilla.com/users-amethystheartkawi-quizzes-which-megatokyo-character-are-you)
 
 Putting edited stuff here for the moment.
 
 ![MT04984MW.jpg](/images/MT04984MW.jpg)  
-**Go to [Megatokyo!](/http-www-megatokyo-com) now!  
+**Go to [Megatokyo!](http://www.megatokyo.com) now!  
 Miho is the Queen  
 of the undead...  
-as revealed [here](/http-www-megatokyo-com-strips-0096-gif).  
+as revealed [here](http://www.megatokyo.com/strips-0096.gif).  
 A wondeful webcomic  
 which houses the  
  Hard Question Room  
 for it members  
-Bigger image [here](/http-www-metaweb-com-wiki-upload-7-7e-mtmiho-jpg)**
-* [The Necrowombicom](/http-www-megatokyo-com-strips-0096-gif) - A [Megatokyo](/http-www-megatokyo-com) strip mining the same source.
+Bigger image [here](http://www.metaweb.com/wiki-upload-7-7e-mtmiho.jpg)**
+* [The Necrowombicom](http://www.megatokyo.com/strips-0096.gif) - A [Megatokyo](http://www.megatokyo.com) strip mining the same source.
 
 ![Test.png](/images/Test.png)
 ![John_Vernon.jpg](/images/John_Vernon.jpg)

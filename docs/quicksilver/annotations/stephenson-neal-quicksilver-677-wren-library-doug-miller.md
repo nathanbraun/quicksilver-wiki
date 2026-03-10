@@ -7,7 +7,7 @@ This [Quicksilver](/quicksilver) page talks about **the Wren Library** **Cambrid
 ### Stephenson
 
 
-*[Wren](/http-en-wikipedia-org-wiki-christopher-wren) went everywhere in the greater [London](/london) area in the Baroque Era.*
+*[Wren](https://en.wikipedia.org/wiki/christopher-wren) went everywhere in the greater [London](/london) area in the Baroque Era.*
 
 ### Authored entries
 
@@ -28,10 +28,10 @@ This [Quicksilver](/quicksilver) page talks about **the Wren Library** **Cambrid
 * [Stephenson:Neal:Quicksilver:688:hypotheses non fingo (Steven Horst)](/stephenson-neal-quicksilver-688-hypotheses-non-fingo-steven-horst)
 
 
-### [Wikipedia: Trinity College](/http-en-wikipedia-org-wiki-trinity-college-cambridge)
+### [Wikipedia: Trinity College](https://en.wikipedia.org/wiki/trinity-college-cambridge)
 
 
-**Trinity College** is one of the constituent [colleges of the University of Cambridge](/http-en-wikipedia-org-wiki-university-of-cambridge) in Cambridge, England. Trinity is the largest and richest of the colleges in Cambridge, and is now a home to around 600 undergraduates, 300 graduates, and over 160 Fellows.
+**Trinity College** is one of the constituent [colleges of the University of Cambridge](https://en.wikipedia.org/wiki/university-of-cambridge) in Cambridge, England. Trinity is the largest and richest of the colleges in Cambridge, and is now a home to around 600 undergraduates, 300 graduates, and over 160 Fellows.
 ![Trinity_CollegeMW.jpg](/https://web.archive.org/web/20060725170636im_/http://www.metaweb.com/wiki/upload/e/e2/Trinity_CollegeMW.jpg)  
  **Trinity College's Great Court, with the students Dinner Hall on the very left, the Master's Lodge  
 (currently being renovated), the Fountain in the middle, and the Chapel on the right.  
@@ -47,7 +47,7 @@ Trinity's rowing club is the First and Third Trinity Boat Club.
 
 Trinity has a strong academic tradition and has provided four Fields Medallists, as well as 31 Nobel prize laureates since they were first awarded in 1901.
 
-### [Wikipedia: Wren Library, Cambridge](/http-en-wikipedia-org-wiki-wren-library-cambridge)
+### [Wikipedia: Wren Library, Cambridge](https://en.wikipedia.org/wiki/wren-library-cambridge)
 
 
 
@@ -77,7 +77,7 @@ Included in the collection are;
 
 The library is open to the public, but opening times are very limited. Check the external link for current times. There is no admission charge, but there is usually a charge for tourists entering the college
 
-### [Wikipedia: Christopher Wren](/http-en-wikipedia-org-wiki-christopher-wren)
+### [Wikipedia: Christopher Wren](https://en.wikipedia.org/wiki/christopher-wren)
 
 
 Sir **Christopher Wren** (October 20, 1632 - February 25, 1723) was an English architect of the seventeenth century, famous for his role in the re-building of London's churches after the Great Fire of London of 1666.
@@ -100,5 +100,5 @@ Wren died in 1723 and was buried at St Paul's.
 ### External links
 
 
-* [Trinity college pages for the Wren Library](/http-rabbit-trin-cam-ac-uk-tcwren-html)
-* [Wren Library](/http-www-bluffton-edu-sullivanm-england-cambridge-wren-library-html) has photos with descriptive information. Photos of Christopher Wren's Library at Trinity can be found at this site, as well as other photos of Christopher Wren buildings.
+* [Trinity college pages for the Wren Library](http://rabbit.trin.cam.ac.uk/tcwren.html)
+* [Wren Library](http://www.bluffton.edu/sullivanm-england-cambridge-wren-library.html) has photos with descriptive information. Photos of Christopher Wren's Library at Trinity can be found at this site, as well as other photos of Christopher Wren buildings.

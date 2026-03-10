@@ -9,7 +9,7 @@ The American Trade Paperback cover:
 
 [![Cryptonomicon.jpg](/web/20060725224129im_/http://www.metaweb.com/wiki/upload/c/c2/Cryptonomicon.jpg)](cryptonomicon-jpg)
   
-Bigger image [link](/http-www-metaweb-com-wiki-upload-8-89-bcl-stephenson-cryptonomicon-jpg)
+Bigger image [link](http://www.metaweb.com/wiki-upload-8-89-bcl-stephenson-cryptonomicon.jpg)
 
 A heavily-(ab)used American mass-market paperback, with various coins for size comparison:  
 
@@ -28,7 +28,7 @@ Release in France:
 
 [![BigcoverUK.jpg](/web/20060725224129im_/http://www.metaweb.com/wiki/upload/c/cd/BigcoverUK.jpg)](bigcoveruk-jpg)  
 **The UK Cover**  
-Bigger image [here](/http-www-metaweb-com-wiki-upload-c-c1-cryptouk-jpg)
+Bigger image [here](http://www.metaweb.com/wiki-upload-c-c1-cryptouk.jpg)
 
 [![Cryptonomicon pl.jpg](/web/20060725224129im_/http://www.metaweb.com/wiki/upload/d/d9/Cryptonomicon_pl.jpg)](cryptonomicon-pl-jpg)  
 **The Polish Cover**

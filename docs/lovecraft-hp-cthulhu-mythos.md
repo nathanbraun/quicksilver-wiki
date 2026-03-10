@@ -7,7 +7,7 @@ This page connects to the ***[Cryptonomicon](/cryptonomicon)*** via Lovecraft's 
 ### Stephensonia
 
 
-*When Stephenson came up with the title *Cryptonomicon*, he was not aware of the word's origin. He was directly inspired by the fictional book's appearance in [the Evil Dead](/http-en-wikipedia-org-wiki-the-evil-dead) series of comedic horror films. Mining the same source material are [Penny Arcade](/http-www-penny-arcade-com-view-php3-date-1999-07-28-res-l) and [Megatokyo](/http-www-megatokyo-com-strips-0096-gif) with the use of the Necrowombicom; And, [Howard Hallis](/http-www-howardhallis-com-bis-cthulhuchick) makes light of this [Jack Chick tract](/http-www-chick-com-reading-tracts-0100-0100-01-asp) while talking of the [elder gods](/http-www-geocities-com-tribhis-cthulhutract-html) (which earned him a phony *cease and desist* letter). A mysterious character like [Enoch Root](/enoch-root) will always invoke *[mages](/stephenson-neal-quicksilver-22-t-was-all-rubbish-alan-sinder) and [monsters](/stephenson-neal-cryptonomicon-277-a-sharpened-y-alan-sinder)*.
+*When Stephenson came up with the title *Cryptonomicon*, he was not aware of the word's origin. He was directly inspired by the fictional book's appearance in [the Evil Dead](https://en.wikipedia.org/wiki/the-evil-dead) series of comedic horror films. Mining the same source material are [Penny Arcade](http://www.penny.arcade.com/view-php3-date-1999-07-28-res-l) and [Megatokyo](http://www.megatokyo.com/strips-0096.gif) with the use of the Necrowombicom; And, [Howard Hallis](http://www.howardhallis.com/bis-cthulhuchick) makes light of this [Jack Chick tract](http://www.chick.com/reading-tracts-0100-0100-01.asp) while talking of the [elder gods](http://www.geocities.com/tribhis-cthulhutract.html) (which earned him a phony *cease and desist* letter). A mysterious character like [Enoch Root](/enoch-root) will always invoke *[mages](/stephenson-neal-quicksilver-22-t-was-all-rubbish-alan-sinder) and [monsters](/stephenson-neal-cryptonomicon-277-a-sharpened-y-alan-sinder)*.
 
 Lovecraft could easily qualify for the oddest duck in a room of odd ducks - but that is a different tale for another day.*
 
@@ -30,7 +30,7 @@ Lovecraft could easily qualify for the oddest duck in a room of odd ducks - but 
 * [Stephenson:Neal:Quicksilver:747:A Swiss mathematician named Fatio (Neal Stephenson)](/stephenson-neal-quicksilver-747-a-swiss-mathematician-named-fatio-neal-stephenson)
 
 
-### [Wikipedia: Cthulhu Mythos plus enhancements](/http-en-wikipedia-org-wiki-cthulhu-mythos)
+### [Wikipedia: Cthulhu Mythos plus enhancements](https://en.wikipedia.org/wiki/cthulhu-mythos)
 
 
 [![Lovecraft.jpg](/web/20060725223727im_/http://www.metaweb.com/wiki/upload/2/2e/Lovecraft.jpg)](lovecraft-jpg)  
@@ -55,15 +55,15 @@ Central to the mythos are the Great Old Ones, a fearsome assortment of deities l
 ### External Links
 
 
-* [Wikipedia: Cthulhu mythos](/http-en-wikipedia-org-wiki-cthulhu-mythos) was the initial basis for this entry.
-* [The H. P. Lovecraft Archive](/http-www-hplovecraft-com)
+* [Wikipedia: Cthulhu mythos](https://en.wikipedia.org/wiki/cthulhu-mythos) was the initial basis for this entry.
+* [The H. P. Lovecraft Archive](http://www.hplovecraft.com)
 * [The Cthulhu Lexicon](/http-www-netherreal-de-library-lexicon)
 * [When the Stars are Right... (Cthulhu Mythos chronology)](/http-www-netherreal-de-library-timeline)
-* [Essay on Lovecraft by S. T. Joshi](/http-www-themodernword-com-scriptorium-lovecraft-html)
-* [The HP Lovecraft Film Festival](/http-www-hplfilmfestival-com-homeflash-htm)
-* [Wikiquote - Quotes by H. P. Lovecraft](/http-quote-wikipedia-org-wiki-howard-phillips-lovecraft)
-* [Library of Bookz - Biblioteka - Horror - H.P. Lovecraft - (Spiral of Life)](/http-terror-org-pl-darkeye-bookz-hor-lovecraft-html)
-* [The Eldritch Dark](/http-www-eldritchdark-com) - This website contains almost all of Smith's written work, as well as a comprehensive selection of his art, biographies, a bibliography, a discussion board, readings, fiction tributes and more.
-* [A more detailed Robert E. Howard biography](/http-www-crossplains-com-howard)
-* [Robert E. Howard United Press Association](/http-www-rehupa-com)
-* [Cthulhu Mythos](/http-en-wikipedia-org-wiki-cthulhu-mythos) - we 70's state university wags would mock the CCC with our Campus Crusade for Cthulhu.
+* [Essay on Lovecraft by S. T. Joshi](http://www.themodernword.com/scriptorium-lovecraft.html)
+* [The HP Lovecraft Film Festival](http://www.hplfilmfestival.com/homeflash.htm)
+* [Wikiquote - Quotes by H. P. Lovecraft](https://quote.wikipedia.org/wiki/howard-phillips-lovecraft)
+* [Library of Bookz - Biblioteka - Horror - H.P. Lovecraft - (Spiral of Life)](http://terror.org/pl-darkeye-bookz-hor-lovecraft.html)
+* [The Eldritch Dark](http://www.eldritchdark.com) - This website contains almost all of Smith's written work, as well as a comprehensive selection of his art, biographies, a bibliography, a discussion board, readings, fiction tributes and more.
+* [A more detailed Robert E. Howard biography](http://www.crossplains.com/howard)
+* [Robert E. Howard United Press Association](http://www.rehupa.com)
+* [Cthulhu Mythos](https://en.wikipedia.org/wiki/cthulhu-mythos) - we 70's state university wags would mock the CCC with our Campus Crusade for Cthulhu.

@@ -10,7 +10,7 @@ This is the [Snow Crash](/stephenson-neal-snow-crash) page for **Reason**
 [![200px|left|thumb|Gatling gun photo](/web/20060725221723im_/http://www.metaweb.com/wiki/upload/c/ca/200px-GatlingGun.jpg)](200px-left-thumb-gatling-gun-photo)  
 Gatling Gun
 *Big gun that invokes all the big gun movie cliches ... such as:
-**[Dick Durkin](/http-us-imdb-com-title-tt0105459-fr-c2l0zt1kznxted0ymhxzzz0xfgxtptiwmhx0dd1vbnxmyj11fhbuptb8ct1zcgxpdcbzzwnvbmr8ahrtbd0xfg5tpw9u-fc-1-ft-21-fm-1)**: We need to get bigger guns. BIG FUCKING GUNS!
+**[Dick Durkin](http://us.imdb.com/title-tt0105459-fr-c2l0zt1kznxted0ymhxzzz0xfgxtptiwmhx0dd1vbnxmyj11fhbuptb8ct1zcgxpdcbzzwnvbmr8ahrtbd0xfg5tpw9u-fc-1-ft-21-fm-1)**: We need to get bigger guns. BIG FUCKING GUNS!
 This is something that spans much of Neal Stephenson's works ... but brought to birth in Snow Crash.
      ... "It's okay, I'm sure they'll listen to Reason," [Fisheye](/fisheye) says. ...
      Fisheye is up on his knees now and has torn away the canopy and space blanket that have covered him until this point. In one hand he is holding a long device a couple inches in diameter, which is the source of the whirring noise. It is a circular bundle of parallel tubes about pencil-sized and a couple fee long, like a miniaturized Gatling gun ...****R E A S O N**
@@ -133,7 +133,7 @@ Although conceptually simple, the operation of a railgun involves several factor
 A wire carrying an [electrical current](/), when in a [magnetic field](/), experiences a [force](/acceleration) [perpendicular](/) to the direction of the current and the direction of the magnetic field. This is the principle behind the operation of an [electric motor](/), where fixed [magnets](/) create a magnetic field, and a coil of wire is carried upon a shaft that is free to rotate. When electricity is applied to the coil of wire a current flows, causing it to experience a force due to the magnetic field; the wires of the coil are arranged such that all the forces on the wires act to make the shaft rotate, and so the motor runs.
 
 A railgun is even simpler than a motor. It consists of two [parallel](/) metal rails (hence the name) connected to an electrical [power supply](/). When a conductive projectile is inserted between the rails (from the end connected to the power supply), it completes the circuit. Electrical current runs from the [positive](/) terminal of the power supply up the positive rail, across the projectile, and down the [negative](/) rail back to the power supply again.![Railgun-DrBob.png](/images/Railgun-DrBob.png)  
-Schematic diagram of a railgun by WikiPedia's [DrBob](/http-en-wikipedia-org-wiki-user-drbob)
+Schematic diagram of a railgun by WikiPedia's [DrBob](https://en.wikipedia.org/wiki/user-drbob)
 
 This flow of current makes the railgun act like an [electromagnet](/), creating a powerful magnetic field in the region of the rails up to the position of the projectile. In accordance with the [right-hand rule](/), the created magnetic field circulates around each conductor. Since the current flows in opposite direction along each rail, the net magnetic field between the rails (**B**) is directed vertically. In combination with the current (**I**) flowing across the projectile, this produces a Lorentz force which accelerates the projectile along the rails. There are also forces acting on the rails attempting to push them apart, but since the rails are firmly mounted they cannot move. The projectile is able to slide up the rails away from the end with the power supply.
 
@@ -157,7 +157,7 @@ Railguns are being pursued as weapons with [projectiles](/) that do not contain 
 
 Although full scale guns have been built and fired, including a very successful 90 mm bore, 9MJ kinetic energy gun developed by DARPA, they all suffer from extreme rail damage and need to be serviced after every shot. Rail and insulator ablation issues still need to be addressed before railguns can start to replace conventional weapons.
 
-The [United States](/) military is funding railgun experiments. At the [University of Texas](/)' [Center for Electromechanics](/http-www-iat-utexas-edu-electrodyn-html), military railguns capable of delivering [tungsten](/) [armor piercing](/) [bullets](/) with [kinetic energy|kinetic energies]] of nine million [joules](/) have been developed. Nine million joules is enough energy to deliver 1 kg of projectile at 3 km/s - which will tear a [tank](/) to pieces in a single shot.
+The [United States](/) military is funding railgun experiments. At the [University of Texas](/)' [Center for Electromechanics](http://www.iat.utexas.edu/electrodyn.html), military railguns capable of delivering [tungsten](/) [armor piercing](/) [bullets](/) with [kinetic energy|kinetic energies]] of nine million [joules](/) have been developed. Nine million joules is enough energy to deliver 1 kg of projectile at 3 km/s - which will tear a [tank](/) to pieces in a single shot.
 
 Due to the very high [muzzle velocity](/) that can be attained with railguns, there is interest in using them to shoot down high-speed [missiles](/).
 
@@ -280,4 +280,4 @@ in an 1885 encyclopedia
 
 
 * [A .22LR Gatling Gun manufactured today](/http-www-machineguns-co-nz-products-shtml) (this is half scale operable model of a British Navy Gatling, almost twice the caliber of Reason)
-* [Reason.com](/http-www-reason-com)
+* [Reason.com](http://www.reason.com)

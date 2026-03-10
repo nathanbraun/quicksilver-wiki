@@ -17,7 +17,7 @@ Some of us think this deserves a page of its own. - **Eliza and Abolition**
 * TBA
 
 
-### [Wikipedia: Haiti's Great Slave Rebellion of 1791](/http-en-wikipedia-org-wiki-history-of-haiti-the-great-slave-rebellion-of-1791)
+### [Wikipedia: Haiti's Great Slave Rebellion of 1791](https://en.wikipedia.org/wiki/history-of-haiti-the-great-slave-rebellion-of-1791)
 
 
 
@@ -28,7 +28,7 @@ The indigenous army, now led by Dessalines, defeated Charles Leclerc and the arm
 ### Abolition
 
 
- [W]hat began at 2 George Yard, picture the world as it existed in 1787. Well over three-quarters of the people on earth are in bondage of one land or another. In parts of the Americas, slaves far outnumber free people. African slaves are also scattered widely through much of the Islamic world. Slavery is routine in most of Africa itself. In India and other parts of Asia, some people are outright slaves, others in debt bondage that ties them to a particular landlord as harshly as any slave to a Southern plantation owner. In Russia the majority of the population are serfs. Nowhere is slavery more firmly rooted than in Britain's overseas empire, where some half-million slaves are being systematically worked to an early death growing West Indian sugar. Caribbean slave-plantation fortunes underlie many a powerful dynasty, from the ancestors of Elizabeth Barrett Browning to the family of the fabulously wealthy William Beckford, lord mayor of London, who hired Mozart to give his son piano lessons. One of the most prosperous sugar plantations on Barbados is owned by the Church of England. Furthermore, Britain's ships dominate the slave trade, delivering tens of thousands of chained captives each year to French, Dutch, Spanish, and Portuguese colonies as well as to its own. [[1]](/http-www-motherjones-com-news-feature-2004-01-12-403-html)
+ [W]hat began at 2 George Yard, picture the world as it existed in 1787. Well over three-quarters of the people on earth are in bondage of one land or another. In parts of the Americas, slaves far outnumber free people. African slaves are also scattered widely through much of the Islamic world. Slavery is routine in most of Africa itself. In India and other parts of Asia, some people are outright slaves, others in debt bondage that ties them to a particular landlord as harshly as any slave to a Southern plantation owner. In Russia the majority of the population are serfs. Nowhere is slavery more firmly rooted than in Britain's overseas empire, where some half-million slaves are being systematically worked to an early death growing West Indian sugar. Caribbean slave-plantation fortunes underlie many a powerful dynasty, from the ancestors of Elizabeth Barrett Browning to the family of the fabulously wealthy William Beckford, lord mayor of London, who hired Mozart to give his son piano lessons. One of the most prosperous sugar plantations on Barbados is owned by the Church of England. Furthermore, Britain's ships dominate the slave trade, delivering tens of thousands of chained captives each year to French, Dutch, Spanish, and Portuguese colonies as well as to its own. [[1]](http://www.motherjones.com/news-feature-2004-01-12-403.html)
 
 ### Roots of Abolitionism: borrowed from various Wikipedia sources
 
@@ -79,7 +79,7 @@ The main difficulty with this argument is that the decline only began to manifes
 
 Slavery's origins are simply too old to recount. So, too, are movements to free large or distinct groups of them. Moses led Israelite slaves from ancient Egypt in the Biblical Book of Exodus - possibly the first detailed account of a movement to free slaves, although clearly not accepted at face value as real history in all particulars. 
 
-### [Lord Mansfield and abolition of slavery](/http-en-wikipedia-org-wiki-william-murray-1st-earl-of-mansfield)
+### [Lord Mansfield and abolition of slavery](https://en.wikipedia.org/wiki/william-murray-1st-earl-of-mansfield)
 
 
 Lord Mansfield played a key role in smoothly ending slavery in England. 
@@ -99,7 +99,7 @@ Mansfield declared, "A foreigner cannot be imprisoned here on the authority of a
 ### The End of Slavery
 
 
-Slavery has always had its opponents. In 1771 Granville Sharp brought the case of the escaped slave **James Somerset** before the **[Lord Chief Justice William Murray, Lord Mansfield](/http-en-wikipedia-org-wiki-william-murray-1st-earl-of-mansfield)**. Somerset had escaped and been recaptured in England by his American owner. Basing his judgement on Magna Carta and habeas corpus he declared - "Whatever inconveniences, therefore, may follow from a decision, I cannot say this case is allowed or approved by the law of England; and therefore the black must be discharged." But the movement to abolish the slave trade only took off in the late 1770's. It was thus declared that the condition of slavery could not be enforced under English law. However, little effort was made towards enforcing the judgement, and slaves continued to be held in Britain for years to come. 
+Slavery has always had its opponents. In 1771 Granville Sharp brought the case of the escaped slave **James Somerset** before the **[Lord Chief Justice William Murray, Lord Mansfield](https://en.wikipedia.org/wiki/william-murray-1st-earl-of-mansfield)**. Somerset had escaped and been recaptured in England by his American owner. Basing his judgement on Magna Carta and habeas corpus he declared - "Whatever inconveniences, therefore, may follow from a decision, I cannot say this case is allowed or approved by the law of England; and therefore the black must be discharged." But the movement to abolish the slave trade only took off in the late 1770's. It was thus declared that the condition of slavery could not be enforced under English law. However, little effort was made towards enforcing the judgement, and slaves continued to be held in Britain for years to come. 
 
 Somerset was set free. But slaves continued to be sold in Britain and British slaves ships carried on operating, taking slaves to the Caribbean. In the 1780's the Quakers under Granville Sharp began to publicly campaign against slavery. At this time slavery was not merely something that happened far away - slaves could be seen for sale in Liverpool and Bristol. West Indian planters took to coming to England with their slaves, pricking the consciences of those who might otherwise not have given slavery a second thought. 
 
@@ -169,14 +169,14 @@ Meanwhile in Africa slavery of the old traditional variety continued in small po
 ### Footnotes and External links
 
 
-* 1. [Review](/http-www-januarymagazine-com-fiction-quicksilver-html)
-* 2. [The complete review's Review](/http-www-complete-review-com-reviews-stephenn-qsilver-htm)
-* 3 [Adam Hochschild's Against All Odds](/http-www-motherjones-com-news-feature-2004-01-12-403-html)
-* [Neal Stephenson interview (baroquecycle.com)](/http-www-baroquecycle-com-interview-htm)
-* [More, More, More](/http-books-guardian-co-uk-reviews-generalfiction-0-6121-1070331-00-html)
-* [Slave trade: a root of contemporary African Crisis](/http-www-afbis-com-analysis-slave-htm)
-* [Slavery Primer](/http-www-diduknow-info-slavery)
-* [BBC History: Slavery](/http-www-bbc-co-uk-worldservice-africa-features-storyofafrica-index-section9-shtml)
-* [BBC Slavery Links](/http-www-bbc-co-uk-worldservice-africa-features-storyofafrica-9generic5-shtml-2)
-* [Anti-Slavery International](/http-en-wikipedia-org-wiki-anti-slavery-international)
-* [Free The Slaves](/http-freetheslaves-net)
+* 1. [Review](http://www.januarymagazine.com/fiction-quicksilver.html)
+* 2. [The complete review's Review](http://www.complete.review.com/reviews-stephenn-qsilver.htm)
+* 3 [Adam Hochschild's Against All Odds](http://www.motherjones.com/news-feature-2004-01-12-403.html)
+* [Neal Stephenson interview (baroquecycle.com)](http://www.baroquecycle.com/interview.htm)
+* [More, More, More](http://books.guardian.co.uk/reviews-generalfiction-0-6121-1070331-00.html)
+* [Slave trade: a root of contemporary African Crisis](http://www.afbis.com/analysis-slave.htm)
+* [Slavery Primer](http://www.diduknow.info/slavery)
+* [BBC History: Slavery](http://www.bbc.co.uk/worldservice-africa-features-storyofafrica-index-section9-shtml)
+* [BBC Slavery Links](http://www.bbc.co.uk/worldservice-africa-features-storyofafrica-9generic5-shtml-2)
+* [Anti-Slavery International](https://en.wikipedia.org/wiki/anti-slavery-international)
+* [Free The Slaves](http://freetheslaves.net)

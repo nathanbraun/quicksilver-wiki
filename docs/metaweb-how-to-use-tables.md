@@ -4,7 +4,7 @@
 From the Quicksilver Metaweb.
 
 
-Tables can be useful for a variety of content presentation on Wikipedia. If you are familiar with the [HTML](/http-en-wikipedia-org-wiki-html) code needed to create tables, you can simply insert the code directly into the article as you are editing. Table markup is often difficult to edit, however, especially for those unfamiliar with HTML. There are some situations where tables are inappropriate, and simpler markup should be used instead. This page discusses how to create tables in Wikipedia articles, and when they are appropriate.
+Tables can be useful for a variety of content presentation on Wikipedia. If you are familiar with the [HTML](https://en.wikipedia.org/wiki/html) code needed to create tables, you can simply insert the code directly into the article as you are editing. Table markup is often difficult to edit, however, especially for those unfamiliar with HTML. There are some situations where tables are inappropriate, and simpler markup should be used instead. This page discusses how to create tables in Wikipedia articles, and when they are appropriate.
 
 **Please note that the use of HTML is no longer necessary. [Metaweb:How to edit a page](/metaweb-how-to-edit-a-page) explains how to use wikicode for creating tables.**
 
@@ -63,9 +63,9 @@ The important things to note in the example:
 * **Table data** cells fill out the rest of the table. They begin with `<td>` and end with the optional `</td>`
 
 
-The `td` and `th` elements are sometimes called "cells", somewhat like the cells in a [spreadsheet](/http-en-wikipedia-org-wiki-spreadsheet). Each row must have the same number of cells as the other rows, so that the number of columns in the table remains consistent (unless there are cells which span several columns or rows, but this is not discussed here). For empty cells, use the non-breaking space "`&nbsp;`" as content, otherwise some browsers may not format the table properly.
+The `td` and `th` elements are sometimes called "cells", somewhat like the cells in a [spreadsheet](https://en.wikipedia.org/wiki/spreadsheet). Each row must have the same number of cells as the other rows, so that the number of columns in the table remains consistent (unless there are cells which span several columns or rows, but this is not discussed here). For empty cells, use the non-breaking space "`&nbsp;`" as content, otherwise some browsers may not format the table properly.
 
-If your table doesn't look right, make sure that all of the [HTML tag](/http-en-wikipedia-org-wiki-html-tag)s are properly nested. You may find it easier to leave out the optional closing tags for some elements, since they are not strictly required in [HTML](/http-en-wikipedia-org-wiki-html). The best way to find errors in your table, though, is to check the article using the [W3C MarkUp Validation Service](/http-validator-w3-org). Simply copy the URL of your article and paste it into the validator's address box. This service is especially useful for large, complex tables that would be difficult to check visually.
+If your table doesn't look right, make sure that all of the [HTML tag](https://en.wikipedia.org/wiki/html-tag)s are properly nested. You may find it easier to leave out the optional closing tags for some elements, since they are not strictly required in [HTML](https://en.wikipedia.org/wiki/html). The best way to find errors in your table, though, is to check the article using the [W3C MarkUp Validation Service](http://validator.w3.org). Simply copy the URL of your article and paste it into the validator's address box. This service is especially useful for large, complex tables that would be difficult to check visually.
 
 The sample above without the optional closing tags looks as follows:
 
@@ -313,9 +313,9 @@ If a list is quite long, or is relatively simple, use one of the standard Wikipe
 
 
 
-Many times, images in an article are placed using a quirk of table rendering. Because a table can be floated to the left or right side of the screen, it has become common practice to utilize a simple one-celled table to place an image in a particular part of the screen. This was a necessary workaround for old browsers, since it generates a consistent rendering of images in browsers which do not adequately support [Cascading Style Sheets](/http-en-wikipedia-org-wiki-cascading-style-sheets). By far, the majority of browsers in use today, however, should do just fine with style sheets. The recommended practice now is to arrange images using an element called `div`.
+Many times, images in an article are placed using a quirk of table rendering. Because a table can be floated to the left or right side of the screen, it has become common practice to utilize a simple one-celled table to place an image in a particular part of the screen. This was a necessary workaround for old browsers, since it generates a consistent rendering of images in browsers which do not adequately support [Cascading Style Sheets](https://en.wikipedia.org/wiki/cascading-style-sheets). By far, the majority of browsers in use today, however, should do just fine with style sheets. The recommended practice now is to arrange images using an element called `div`.
 
-For detailed instructions, see [Wikipedia:Image Use Policy](/http-en-wikipedia-org-wiki-wikipedia-image-use-policy) and the [Wikipedia:Image markup gallery](/http-en-wikipedia-org-wiki-wikipedia-image-markup-gallery). Here's a brief example, though:
+For detailed instructions, see [Wikipedia:Image Use Policy](https://en.wikipedia.org/wiki/wikipedia-image-use-policy) and the [Wikipedia:Image markup gallery](https://en.wikipedia.org/wiki/wikipedia-image-markup-gallery). Here's a brief example, though:
 
 #### Table formatting (Don't do this)
 
@@ -361,14 +361,14 @@ Tables may cause other difficulties, even when used appropriately. Here are some
 
 * Tables may be hard for other people to edit, especially for people who are new to Wikipedia. New editors may be daunted if they click "Edit this page" and see a large block of unintelligible (to them) HTML code. Try to keep your tables simple, and well-formatted in the code. You might also add a comment (which won't appear in the rendered page) like "<!-- To edit the text of this article, skip past the table. -->" in order to reassure editors.
 * It is tricky, even for experienced HTML authors, to make sure that tables render correctly on all (or even many) web browsers. Even the slightest typographical mistake can cause drastic visual problems with the table. You may be confident of your abilities to prevent this from happening, but future editors may not be. Again, keep tables simple and well-formatted, and this is less likely to be a problem.
-* Large tables, with lots of information, may run off the right side of the screen on lower resolutions. This is sometimes acceptable, especially if the user is warned beforehand (for example, [Periodic Table (Huge)](/http-en-wikipedia-org-wiki-periodic-table-huge) is deliberately very large). If you find it necessary to create a very large table for an article, you may want to consider creating a simpler, smaller version for users who cannot effectively use the larger version (for example, the periodic table is also available in a [smaller version](/http-en-wikipedia-org-wiki-periodic-table-standard)).
+* Large tables, with lots of information, may run off the right side of the screen on lower resolutions. This is sometimes acceptable, especially if the user is warned beforehand (for example, [Periodic Table (Huge)](https://en.wikipedia.org/wiki/periodic-table-huge) is deliberately very large). If you find it necessary to create a very large table for an article, you may want to consider creating a simpler, smaller version for users who cannot effectively use the larger version (for example, the periodic table is also available in a [smaller version](https://en.wikipedia.org/wiki/periodic-table-standard)).
 * If you include fixed-width text inside a table (using the HTML `code`, `pre`, or `tt` elements, for example), it may force the page to be wider than necessary. Whenever possible, avoid using fixed-width text inside tables, so the text can flow naturally. A similar problem can happen if you include images inside tables (since images are usually constrained to be a fixed width).
-* Cells containing a great deal of information may cause rendering problems on some browsers. In particular, a cell containing a large paragraph may jumble the formatting on text-only browsers such as [Lynx](/http-en-wikipedia-org-wiki-lynx-web-browser). This is often necessary, depending on what sort of table you're creating, but if at all possible, try to limit the amount of content you place in table cells.
+* Cells containing a great deal of information may cause rendering problems on some browsers. In particular, a cell containing a large paragraph may jumble the formatting on text-only browsers such as [Lynx](https://en.wikipedia.org/wiki/lynx-web-browser). This is often necessary, depending on what sort of table you're creating, but if at all possible, try to limit the amount of content you place in table cells.
 
 
 ## External links
 
 
-[The Table Sampler](/http-wp-netscape-com-assist-net-sites-table-sample-html) - Various useful example tables
+[The Table Sampler](http://wp.netscape.com/assist-net-sites-table-sample.html) - Various useful example tables
 
-*This entry originally from the [Wikipedia](/http-www-wikipedia-org)*
+*This entry originally from the [Wikipedia](http://www.wikipedia.org)*

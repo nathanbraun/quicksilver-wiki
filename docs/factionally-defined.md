@@ -19,4 +19,4 @@ A person might be factionally defined if they live their life according to the r
 
 Actually [personhood](/personhood) is a strictly legal concept, so this is always true. Slaves, women, corporations and great apes all are or are not persons based on who you ask.
 
- **[Personhood](/http-en-wikipedia-org-wiki-person)** is an elastic concept to contributors to the **[Metaweb](/main-page)**. We extend it to the fictional creations and *snarky* AI agents of [Neal Stephenson](/neal-stephenson); We'd stand behind the good Jane Goodall's demand for apes being recognised as people.
+ **[Personhood](https://en.wikipedia.org/wiki/person)** is an elastic concept to contributors to the **[Metaweb](/main-page)**. We extend it to the fictional creations and *snarky* AI agents of [Neal Stephenson](/neal-stephenson); We'd stand behind the good Jane Goodall's demand for apes being recognised as people.

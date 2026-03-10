@@ -9,12 +9,12 @@ A page for **Neal**
 
 *Is Fort Meade the key here?*
 
-### [Wikipedia: Neal Stephenson](/http-www-wikipedia-org-wiki-neal-stephenson)
+### [Wikipedia: Neal Stephenson](https://en.wikipedia.org/wiki/neal-stephenson)
 
 
 From Wikipedia, the free encyclopedia.
 
-**Neal Stephenson** (b. October 31, 1959 in Fort Meade, Maryland) is primarily a science fiction [writer](/writer) in the postcyberpunk genre. He also writes non-fiction articles about technology in publications such as Wired Magazine, and works part-time as an advisor for Blue Origin, a company (funded by Jeff Bezos) developing a manned suborbital launch system [[1]](/http-www-well-com-user-neal-myrelationship-html) .
+**Neal Stephenson** (b. October 31, 1959 in Fort Meade, Maryland) is primarily a science fiction [writer](/writer) in the postcyberpunk genre. He also writes non-fiction articles about technology in publications such as Wired Magazine, and works part-time as an advisor for Blue Origin, a company (funded by Jeff Bezos) developing a manned suborbital launch system [[1]](http://www.well.com/user-neal-myrelationship.html) .
 
 Although he wrote earlier novels such as the eco-thriller Zodiac, he came to fame in the early 1990s with the novel [Snow Crash](/snow-crash) (1992) which fuses memetics, computer viruses, and other high-tech themes with Sumerian mythology. Averaging one novel every four years, he has written these subsequent novels: [The Diamond Age: or A Young Lady's Illustrated Primer](/the-diamond-age) (1995) which deals with a future with extensive nanotechnology; [Cryptonomicon](/cryptonomicon) (1999), a novel concerned with computing and codebreaking from the Second World War codebreakers to a modern attempt to set up a data haven; and [The Baroque Cycle](/baroque-cycle), a three volume work consisting of [Quicksilver](/quicksilver) (2003), [The Confusion](/the-confusion) (2004) and [The System of the World](/the-system-of-the-world) (2004), making a very long historical novel cycle that is in some respects a prequel to Cryptonomicon.
 
@@ -63,29 +63,29 @@ A characteristic aspect of his books is the "breakdown in events", a (conscious 
 ### External links
 
 
-* [http://www.well.com/user/neal/myrelationship.htm](/http-www-well-com-user-neal-myrelationship-htm)
-* [Neal Stephenson's official website](/http-www-nealstephenson-com)
-* [Neal Stephenson's older personal website](/http-www-well-com-user-neal)
-* [*Neal Stephenson Sees the Light*](/http-www-geocities-com-tokyo-island-3102-neals-htm) – By David Chute, LA Weekly
-* [Images of Neal Stephenson](/http-images-google-com-images-q-neal-stephenson)
-* [data haven](/http-en-wikipedia-org-wiki-data-haven)
-* [HavenCo](/http-www-wired-com-wired-archive-8-07-haven-html)
-* [Principality of Sealand](/http-en-wikipedia-org-wiki-sealand)
-* [The First True Cypherpunk Novel](/http-www-wired-com-news-culture-0-1284-19720-00-html)
-* [When Geeks Inherit the Earth](/http-www-wired-com-news-politics-0-1283-17916-00-html)
-* [Bruce Schneier, Founder and CTO](/http-www-counterpane-com)
-* [Bruce Sterling](/http-en-wikipedia-org-wiki-bruce-sterling) shows up in Chapter 76  Pulse
-* [Neal Stephenson](/http-en-wikipedia-org-wiki-neal-stephenson)
-* [Cryptonomicon](/http-en-wikipedia-org-wiki-cryptonomicon)
-* [anonymity](/http-en-wikipedia-org-wiki-anonymity)
-* [pseudonymity](/http-en-wikipedia-org-wiki-pseudonymity)
-* [crypto-anarchism](/http-en-wikipedia-org-wiki-crypto-anarchism)
-* [Crypto-society](/http-en-wikipedia-org-wiki-crypto-society)
-* [Neal Stephenson's personal home page](/http-www-well-com-user-neal)  (includes "Why I am a Bad Correspondent")
-* [Addicted to Noise interview](/http-www-addict-com-atn-issues-1-07-features-neal-stephenson)
-* [Dominion interview](/http-www-scifi-com-pulp-fw-stephenson-interview-html)
-* [TIME short story "The Simolean Caper" (about e-cash)](/http-www-virtualschool-edu-mon-outlaws-simoleoncaper-html)
-* [Wired short story "Spew"](/http-www-wired-com-wired-archive-2-10-spew-pr-html)
-* [TIME magazine essay "Dreams and Nightmares of the Digital Age"](/http-cgi-pathfinder-com-time-magazine-1997-int-970203-special-dreams-html)
-* [Solitaire - encryption algorithm based on playing cards, created for](/http-www-counterpane-com-solitaire-html) *[Cryptonomicon](/cryptonomicon)*
-* [The Command Line in 2004](/http-home-earthlink-net-android606-commandline-index-html) - a fan-made update & annotation of "In the Beginning was the Command Line"
+* [http://www.well.com/user/neal/myrelationship.htm](http://www.well.com/user-neal-myrelationship.htm)
+* [Neal Stephenson's official website](http://www.nealstephenson.com)
+* [Neal Stephenson's older personal website](http://www.well.com/user-neal)
+* [*Neal Stephenson Sees the Light*](http://www.geocities.com/tokyo-island-3102-neals.htm) – By David Chute, LA Weekly
+* [Images of Neal Stephenson](http://images.google.com/images-q-neal-stephenson)
+* [data haven](https://en.wikipedia.org/wiki/data-haven)
+* [HavenCo](http://www.wired.com/wired-archive-8-07-haven.html)
+* [Principality of Sealand](https://en.wikipedia.org/wiki/sealand)
+* [The First True Cypherpunk Novel](http://www.wired.com/news-culture-0-1284-19720-00.html)
+* [When Geeks Inherit the Earth](http://www.wired.com/news-politics-0-1283-17916-00.html)
+* [Bruce Schneier, Founder and CTO](http://www.counterpane.com)
+* [Bruce Sterling](https://en.wikipedia.org/wiki/bruce-sterling) shows up in Chapter 76  Pulse
+* [Neal Stephenson](https://en.wikipedia.org/wiki/neal-stephenson)
+* [Cryptonomicon](https://en.wikipedia.org/wiki/cryptonomicon)
+* [anonymity](https://en.wikipedia.org/wiki/anonymity)
+* [pseudonymity](https://en.wikipedia.org/wiki/pseudonymity)
+* [crypto-anarchism](https://en.wikipedia.org/wiki/crypto-anarchism)
+* [Crypto-society](https://en.wikipedia.org/wiki/crypto-society)
+* [Neal Stephenson's personal home page](http://www.well.com/user-neal)  (includes "Why I am a Bad Correspondent")
+* [Addicted to Noise interview](http://www.addict.com/atn-issues-1-07-features-neal-stephenson)
+* [Dominion interview](http://www.scifi.com/pulp-fw-stephenson-interview.html)
+* [TIME short story "The Simolean Caper" (about e-cash)](http://www.virtualschool.edu/mon-outlaws-simoleoncaper.html)
+* [Wired short story "Spew"](http://www.wired.com/wired-archive-2-10-spew-pr.html)
+* [TIME magazine essay "Dreams and Nightmares of the Digital Age"](http://cgi.pathfinder.com/time-magazine-1997-int-970203-special-dreams.html)
+* [Solitaire - encryption algorithm based on playing cards, created for](http://www.counterpane.com/solitaire.html) *[Cryptonomicon](/cryptonomicon)*
+* [The Command Line in 2004](http://home.earthlink.net/android606-commandline-index.html) - a fan-made update & annotation of "In the Beginning was the Command Line"

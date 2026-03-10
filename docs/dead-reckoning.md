@@ -36,4 +36,4 @@ The folk etymology from deduced is not documented in the OED or any other histor
 ### External links
 
 
-* **[Dava Sobel Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time](/http-www-amazon-com-exec-obidos-tg-detail-0140258795-qid-1071050236-sr-1-2-ref-sr-1-2-002-8705843-0436068-v-glance-s-books)**
+* **[Dava Sobel Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time](http://www.amazon.com/exec-obidos-tg-detail-0140258795-qid-1071050236-sr-1-2-ref-sr-1-2-002-8705843-0436068-v-glance-s-books)**

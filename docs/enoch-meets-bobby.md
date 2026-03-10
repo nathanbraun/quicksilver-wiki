@@ -75,12 +75,12 @@ Following the Attack on Pearl Harbor and Singapore, the Japanese forces advanced
 
 The Battle of Cape Esperance was fought on October 11, 1942 on the northwest coast of Guadalcanal. In the battle, United States Navy ships intercepted and defeated a Japanese fleet on their way to reinforce troops on the island. US forces reinvaded and, after six months of fighting, managed to halt the Japanese advance, driving Japan's troops into the sea on January 15, 1943.
 
-### [The Solomon Islands](/http-en-wikipedia-org-wiki-solomon-islands)
+### [The Solomon Islands](https://en.wikipedia.org/wiki/solomon-islands)
 
 
 The Solomon Islands are a nation in the South Pacific Ocean, east of Papua New Guinea and is part of the British Commonwealth. It consists of more than 990 islands, which together cover a land mass of 28,000 square kilometres.
 
-### [History of the Islands](/http-en-wikipedia-org-wiki-history-of-the-solomon-islands)
+### [History of the Islands](https://en.wikipedia.org/wiki/history-of-the-solomon-islands)
 
 
 The Spanish explorer Alvaro de Mendaña de Neyra discovered the islands in 1568. Spain lost its interest in the islands late in the 16th century, when one of Alvaro's ships was lost on a second visit to the area. Later, Dutch, French and British navigators visited the islands; their reception was often hostile.

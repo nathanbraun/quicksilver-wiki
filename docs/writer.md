@@ -53,5 +53,5 @@ This pitch, as ancient writers do report, doth defile. -- Shakespear.
 
 * [borderline personality disorder](/)
 * [Girl, Interrupted](/), a book by [Susanna Kaysen](/), a [writer](/writer) AND a movie produced AND acted by [Winona Ryder](/winona-ryder), an [Icon](/icon), [actrees](/) AND a star.
-* [Three Colours, Blue](/http-en-wikipedia-org-wiki-three-colors-blue)
-* [Three Colours, Red](/http-en-wikipedia-org-wiki-three-colors-blue)
+* [Three Colours, Blue](https://en.wikipedia.org/wiki/three-colors-blue)
+* [Three Colours, Red](https://en.wikipedia.org/wiki/three-colors-blue)

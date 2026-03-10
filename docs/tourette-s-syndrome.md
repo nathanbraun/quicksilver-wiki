@@ -28,11 +28,11 @@ The term "involuntary" used to describe TS tics is a source of confusion since i
 
 Other commonly associated symptoms are obsessive-compulsive disorder (OCD) and attention deficit hyperactivity disorder (ADHD)
 
-TS has recently been found to be very uncommon in Japan, compared to Europe and North America. [[[1]](/http-www3-interscience-wiley-com-cgi-bin-abstract-82501999-abstract)]
+TS has recently been found to be very uncommon in Japan, compared to Europe and North America. [[[1]](http://www3.interscience.wiley.com/cgi-bin-abstract-82501999-abstract)]
 
 The entertainment industry has often depicted those with TS as being social misfits whose only tic is *coprolalia*, which has led to the general public's misunderstanding of TS sufferers as "people who can't help yelling swear words a lot". However, this is merely a *clinomorphism*, as coprolalia is a relatively rare symptom compared to other types of tics.
 
 ### Reference link
 
 
-* [The Tic Code](/http-www-imdb-com-title-tt0165986) is an unusually accurate discussion of the syndrome, with extensive input from Polly Draper, whose husband and son both suffer from it.
+* [The Tic Code](http://www.imdb.com/title-tt0165986) is an unusually accurate discussion of the syndrome, with extensive input from Polly Draper, whose husband and son both suffer from it.

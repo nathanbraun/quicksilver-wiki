@@ -5,7 +5,7 @@ From the Quicksilver Metaweb.
 
 All right, but what does the morphogenetic field *do*? How does it interact with life, and presumably DNA? Or is that just a bad name based on an earlier misinterpretation?
 
-It's still used by Sheldrake although he uses [morphic resonance](/morphic-resonance) more generally. Read about it and related ideas from the [Baroque](/baroque) era and thereabouts at [Wikipedia: morphogenetic field](/http-en-wikipedia-org-wiki-morphogenetic-field).
+It's still used by Sheldrake although he uses [morphic resonance](/morphic-resonance) more generally. Read about it and related ideas from the [Baroque](/baroque) era and thereabouts at [Wikipedia: morphogenetic field](https://en.wikipedia.org/wiki/morphogenetic-field).
 
 The term [epigenetics](/epigenetics) vs. [epigenetic](/epigenetic) is no worse in terms of bad naming.
 

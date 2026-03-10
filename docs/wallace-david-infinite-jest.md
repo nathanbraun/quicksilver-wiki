@@ -5,13 +5,13 @@ From the Quicksilver Metaweb.
 
 This is the start of a MetaWeb annotation for David Foster Wallace's Infinite Jest, a brilliant 1996 novel that has captured the minds and souls of hundreds, if not thousands, of people.
 
-Active discussion of the book happens often on [wallace-l](/wallace-l), a mailing list that averages 100 messages per week. Because [wallace-l](/wallace-l) includes discussion of Wallace's many other writings, though, as well as Wallace's career and a number of tangential topics, you may not wish to subscribe until you've had a look at the [archives](/http-www-waste-org-mail-list-wallace-l).
+Active discussion of the book happens often on [wallace-l](/wallace-l), a mailing list that averages 100 messages per week. Because [wallace-l](/wallace-l) includes discussion of Wallace's many other writings, though, as well as Wallace's career and a number of tangential topics, you may not wish to subscribe until you've had a look at the [archives](http://www.waste.org/mail-list-wallace-l).
 
 ## Links to outside resources
 
 
 
-There are many scattered resources on the Internet that deal with the book, but the most comprehensive one is [The Howling Fantods](/http-www-thehowlingfantods-com-inf-htm). There is also a [character guide](/http-www-ilstu-edu-tffeene-ij-characterguide-html), a [scene-by-scene guide](/http-www-english-uga-edu-koneill-infinite-htm) to the book, an [index](/http-members-aol-com-russillosm-ijndx-html), and an [essay](/http-www-thehowlingfantods-com-ij-first-htm) about the drafts of the book.
+There are many scattered resources on the Internet that deal with the book, but the most comprehensive one is [The Howling Fantods](http://www.thehowlingfantods.com/inf.htm). There is also a [character guide](http://www.ilstu.edu/tffeene-ij-characterguide.html), a [scene-by-scene guide](http://www.english.uga.edu/koneill-infinite.htm) to the book, an [index](http://members.aol.com/russillosm-ijndx.html), and an [essay](http://www.thehowlingfantods.com/ij-first.htm) about the drafts of the book.
 
 Plus, there are many [Wallace:David:Infinite\_Jest:Reviews](/wallace-david-infinite-jest-reviews) of the book.
 

@@ -3,7 +3,7 @@
 
 From the Quicksilver Metaweb.
 
-[Peter McCurdy](/http-www-mccurdyco-com-page3-html) & Co. Though one of their most prominent jobs was the Replication of Shakespeare's Globe theater in York, England, it is just one of a long line of Awe-Inspiring projects. 
+[Peter McCurdy](http://www.mccurdyco.com/page3.html) & Co. Though one of their most prominent jobs was the Replication of Shakespeare's Globe theater in York, England, it is just one of a long line of Awe-Inspiring projects. 
 
 **interconnectedness**. A number of years ago Peter and Co. was hired to do an extensive survey, of Harmondsworth Barn in England -- A Tithing barn, very long. That data was then used by Richard Lawson (Dovetail Woodworking at the time) to produce a replica of it in Conn. USA, a replica that was approxiamately half as long, or less. At the end of the project, Paul Martin was called in, as a consultant to help finish out the Hipped roof on one end of the structure. paul and Richard were later to form a team, along with Tom Haris, Richard's son, Jack Sobon (as an Architectural Consultant), adn at least one other who currently slips my mind. This team competed for, and won, the bid to rebuild the Timber Framed Roof of the Cabildo in New Orleans after a fire had devastated the original. Fredric Brillant was recruited to provide the absolutely essential expertise in Traditional French Scribe, the layout system which was used to construct the Historic Roof System.
 

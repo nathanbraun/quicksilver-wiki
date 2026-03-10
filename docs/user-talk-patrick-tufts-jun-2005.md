@@ -63,7 +63,7 @@ Pat? [User:Tew](/user-tew) seems into odd things that I do not want to check out
 ---
 
 
-Are these spambots [eggdrops](/http-www-egghelp-org-whatis-htm) of some evil design? And they simply pump google stats? Seems pathetic. - [Sparky](/user-stsparky) 15:18, 2004 Jul 19 (PDT)
+Are these spambots [eggdrops](http://www.egghelp.org/whatis.htm) of some evil design? And they simply pump google stats? Seems pathetic. - [Sparky](/user-stsparky) 15:18, 2004 Jul 19 (PDT)
 
  I think these are done by one or two individuals who have a block of links that they paste in by hand. I strongly suspect this is just to bump up the Google PageRank for the linked sites. Pathetic? Yep. [Pat](/user-patrick-tufts) 17:31, 11 Aug 2004 (PDT)
 
@@ -71,7 +71,7 @@ Are these spambots [eggdrops](/http-www-egghelp-org-whatis-htm) of some evil des
 ---
 
 
-Hi Patrick, I just removed a lod of spam links from this guy: [210.82.76.17](/http-www-metaweb-com-wiki-wiki-phtml-title-special-contributions-target-210-82-76-17). Seems like a ripe one for IP banning.... [DaveSeidel](/user-daveseidel) 08:29, 10 Sep 2004 (PDT)
+Hi Patrick, I just removed a lod of spam links from this guy: [210.82.76.17](http://www.metaweb.com/wiki-wiki-phtml-title-special-contributions-target-210-82-76-17). Seems like a ripe one for IP banning.... [DaveSeidel](/user-daveseidel) 08:29, 10 Sep 2004 (PDT)
 
 The user will be banned. Thank you! - [Sparky](/user-stsparky) 16:12, 2004 Sep 10 (PDT)
 
@@ -95,7 +95,7 @@ Furthermore, it makes the history a little less obvious when a page is edited by
 
  If you really want to implement the above function/restriction I can have a look at MediaWiki's code and produce the snippets needed. Only, what release do you have installed? Don't want to look in the wrong place... [Valis](/user-valis) 13:01, 11 Oct 2004 (PDT)
 
- Valis, we're running an older version of MediaWiki. Our SVN repository is here - [http://svn-public.appliedminds.com:8000/repos/metaweb/metaweb/](/http-svn-public-appliedminds-com-8000-repos-metaweb-metaweb) - and publically readable. You should be able to 'svn co [http://svn-public.appliedminds.com:8000/repos/metaweb/metaweb/](/http-svn-public-appliedminds-com-8000-repos-metaweb-metaweb)'. If you can help us switch to the current version, let me know. My PHP skills and MediaWiki skills are weak enough that I've been the bottleneck on us switching over to the current MediaWiki code (the current version has significant architectural differences from the version we're running). --[Pat](/user-patrick-tufts) 11:00, 20 Oct 2004 (PDT)
+ Valis, we're running an older version of MediaWiki. Our SVN repository is here - [http://svn-public.appliedminds.com:8000/repos/metaweb/metaweb/](http://svn.public.appliedminds.com/8000-repos-metaweb-metaweb) - and publically readable. You should be able to 'svn co [http://svn-public.appliedminds.com:8000/repos/metaweb/metaweb/](http://svn.public.appliedminds.com/8000-repos-metaweb-metaweb)'. If you can help us switch to the current version, let me know. My PHP skills and MediaWiki skills are weak enough that I've been the bottleneck on us switching over to the current MediaWiki code (the current version has significant architectural differences from the version we're running). --[Pat](/user-patrick-tufts) 11:00, 20 Oct 2004 (PDT)
 
  Hm. I can't connect via web, subversion, or telnet, to that address. I probably won't be much help in coding... - [Pronoiac](/user-pronoiac) 21:47, 3 Nov 2004 (PST)
 

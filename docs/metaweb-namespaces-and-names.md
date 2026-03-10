@@ -32,7 +32,7 @@ I just noticed that some pages here already use single colons pretty much as I w
 
  For now, what do you think of a "QS" prefix for Quicksilver articles while we design and build a more general system?
 
- Jeremy (and anyone else interested in digging), would you have time to investigate the wikipedia software documentation and see how much of this the namespace mechanism can handle? Useful start points are [[1]](/http-meta-wikipedia-org-wiki-mediawiki-architecture) and [[2]](/http-meta-wikipedia-org-wiki-mediawiki)
+ Jeremy (and anyone else interested in digging), would you have time to investigate the wikipedia software documentation and see how much of this the namespace mechanism can handle? Useful start points are [[1]](https://meta.wikipedia.org/wiki/mediawiki-architecture) and [[2]](https://meta.wikipedia.org/wiki/mediawiki)
 
  The MySQL backend for the Wikipedia software appears to use a one byte value for the namespace, which probably means that we can have over a hundred of them at least (and up to somewhere around 250 at maximum, since there are some already existing). --[Jeremy](/user-jeremybornstein) 21:15, 16 Sep 2003 (PDT) (This isn't indenting properly. Can anyone see what I'm doing wrong?)
 

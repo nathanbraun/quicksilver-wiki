@@ -168,10 +168,10 @@ Note that TeX handles most spacing automatically, but you may sometimes want man
 ## External Links
 
 
-* A [PDF](/portable-document-format) document introducing TeX -- see page 39 onwards for a good introduction to the maths side of things: [http://www.ctan.org/tex-archive/info/gentle/gentle.pdf](/http-www-ctan-org-tex-archive-info-gentle-gentle-pdf)
-* Various extensions to LaTeX: [http://www.ams.org/tex/amslatex.html](/http-www-ams-org-tex-amslatex-html)
-* A set of public domain fixed-size math symbol bitmaps: [http://us.metamath.org/symbols/symbols.html](/http-us-metamath-org-symbols-symbols-html)
-* TeX Wizard: [http://de.geocities.com/richyfourtythree/texwizard.html](/http-de-geocities-com-richyfourtythree-texwizard-html)
+* A [PDF](/portable-document-format) document introducing TeX -- see page 39 onwards for a good introduction to the maths side of things: [http://www.ctan.org/tex-archive/info/gentle/gentle.pdf](http://www.ctan.org/tex-archive-info-gentle-gentle.pdf)
+* Various extensions to LaTeX: [http://www.ams.org/tex/amslatex.html](http://www.ams.org/tex-amslatex.html)
+* A set of public domain fixed-size math symbol bitmaps: [http://us.metamath.org/symbols/symbols.html](http://us.metamath.org/symbols-symbols.html)
+* TeX Wizard: [http://de.geocities.com/richyfourtythree/texwizard.html](http://de.geocities.com/richyfourtythree-texwizard.html)
 
 
-*This entry originally from the [Wikipedia](/http-www-wikipedia-org)*
+*This entry originally from the [Wikipedia](http://www.wikipedia.org)*

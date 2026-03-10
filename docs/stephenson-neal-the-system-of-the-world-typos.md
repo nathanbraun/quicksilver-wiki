@@ -30,5 +30,5 @@ Uebersetzen doesn't only mean 'to translate', it also means 'to ferry across' (a
 * page 542, 1/2 down: "exhiliration" [exhilaration]
 * page 543, 3/4 down: "and may phant'sy that I have kllled as many as Tamerlane,"
 * page 586, 3/4 down: " "I wonder about that," said. "
-* page 622: refers to "Carox" initially, then "Corax" for the rest of the page ([Corax](/http-en-wikipedia-org-wiki-corax) appears to be the correct spelling)
+* page 622: refers to "Carox" initially, then "Corax" for the rest of the page ([Corax](https://en.wikipedia.org/wiki/corax) appears to be the correct spelling)
 * page 708, near top: Bank of England is called Bank of Hanover [the only occurrence, after having just been referred to as the B. of E.; and later always referred to as the B. of E. If it were someone speaking, it might be a jest on their part, but rather than a quote, it is a phrase summing up Daniel's explanation to Marlborough.]

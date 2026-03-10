@@ -40,7 +40,7 @@ He is remembered by the Moonstones in Birmingham.
 ### The Evolutionary Thinker in the Family
 
 
-Metaweb contributor [George Dyson](/http-www-amazon-com-exec-obidos-search-handle-url-index-books-field-author-george-dyson-104-8931055-5532701) states Erasmus Darwin (Charles's grandfather) was the real *evolutionary* thinker in the family, that evolution itself has to be intelligent in order to evolve and that reproduction versus replication is one of the great struggles that science needs to understand.[[1]](/http-www-bbc-co-uk-education-darwin-dyson-dad-htm) In [Darwin Among the Machines: The Evolution of Global Intelligence](/http-www-amazon-com-exec-obidos-tg-detail-0201406497-ref-ed-oe-h-104-8931055-5532701-v-glance-s-books-st) - His hypothesis takes in forest fires and their relationship with neural networks, the possible evolution or otherwise of the first AI computer, the evolution of the World Wide Web and whether or not it mirrors human evolution. He ties this into [John Locke](/john-locke), [Leibniz](/leibniz), and [Samuel Butler](/samuel-butler) which echoes into modern thought on the topic including [Richard Feynman](/richard-feynman)'s 1959 lecture on nanotechnology. 
+Metaweb contributor [George Dyson](http://www.amazon.com/exec-obidos-search-handle-url-index-books-field-author-george-dyson-104-8931055-5532701) states Erasmus Darwin (Charles's grandfather) was the real *evolutionary* thinker in the family, that evolution itself has to be intelligent in order to evolve and that reproduction versus replication is one of the great struggles that science needs to understand.[[1]](http://www.bbc.co.uk/education-darwin-dyson-dad.htm) In [Darwin Among the Machines: The Evolution of Global Intelligence](http://www.amazon.com/exec-obidos-tg-detail-0201406497-ref-ed-oe-h-104-8931055-5532701-v-glance-s-books-st) - His hypothesis takes in forest fires and their relationship with neural networks, the possible evolution or otherwise of the first AI computer, the evolution of the World Wide Web and whether or not it mirrors human evolution. He ties this into [John Locke](/john-locke), [Leibniz](/leibniz), and [Samuel Butler](/samuel-butler) which echoes into modern thought on the topic including [Richard Feynman](/richard-feynman)'s 1959 lecture on nanotechnology. 
 
 Erasmus seems to be connected to all the pending nodes of the Industrial Revolution. He was interested and interesting. However, Samuel Butler has it wrong. Charles Darwin may have had a leg up thanks to his grandfathers but that Alfred Russel Wallace also reached similar results shows that [Evolution](/theory-of-evolution) was an idea whose time had come. Had it not been Darwin  it may have been the Huxleys. What Butler has right is that we need to look at work of past scientists with more respect.
 
@@ -67,15 +67,15 @@ Erasmus seems to be connected to all the pending nodes of the Industrial Revolut
 ### Footnotes
 
 
-1. [Dyson on Darwin Intro](/http-www-bbc-co-uk-education-darwin-dyson)
+1. [Dyson on Darwin Intro](http://www.bbc.co.uk/education-darwin-dyson)
 
 
 ### External links
 
 
-* [UC Berkeley's Evolution link](/http-www-ucmp-berkeley-edu-history-edarwin-html)
-* [Victorian Science](/http-www-stg-brown-edu-projects-hypertext-landow-victorian-science-edarwin-html)
-* [BBC History link](/http-www-bbc-co-uk-history-historic-figures-darwin-erasmus-shtml)
-* [Dyson and Darwin Transcript](/http-www-bbc-co-uk-education-darwin-dyson-script-htm)
-* [Virginia College](/http-hsc-virginia-edu-hs-library-historic)
-* [ISBN 0738200301](/) [Darwin Among the Machines: The Evolution of Global Intelligence](/http-www-amazon-com-exec-obidos-tg-detail-0201406497-ref-ed-oe-h-104-8931055-5532701-v-glance-s-books-st) by [George Dyson](/http-www-amazon-com-exec-obidos-search-handle-url-index-books-field-author-george-dyson-104-8931055-5532701),
+* [UC Berkeley's Evolution link](http://www.ucmp.berkeley.edu/history-edarwin.html)
+* [Victorian Science](http://www.stg.brown.edu/projects-hypertext-landow-victorian-science-edarwin.html)
+* [BBC History link](http://www.bbc.co.uk/history-historic-figures-darwin-erasmus-shtml)
+* [Dyson and Darwin Transcript](http://www.bbc.co.uk/education-darwin-dyson-script.htm)
+* [Virginia College](http://hsc.virginia.edu/hs-library-historic)
+* [ISBN 0738200301](/) [Darwin Among the Machines: The Evolution of Global Intelligence](http://www.amazon.com/exec-obidos-tg-detail-0201406497-ref-ed-oe-h-104-8931055-5532701-v-glance-s-books-st) by [George Dyson](http://www.amazon.com/exec-obidos-search-handle-url-index-books-field-author-george-dyson-104-8931055-5532701),

@@ -14,6 +14,6 @@ The word organ is also a euphemism for penis allowing for double entendres in th
 
 In addition to the obvious euphemism organs have a profound effect on and connection to the [Waterhouse Savants](/waterhouse-family) typified by the vision of angels experienced by [Lawrence](/lawrence-waterhouse) upon first discovering the internal workings of a pipe organ.
 
-The [Baroque](/baroque) music of [Johann Sebastian Bach](/http-en-wikipedia-org-wiki-johann-sebastian-bach) was written especially for the organ and is generally the classical music that is most purchased by geeks.
+The [Baroque](/baroque) music of [Johann Sebastian Bach](https://en.wikipedia.org/wiki/johann-sebastian-bach) was written especially for the organ and is generally the classical music that is most purchased by geeks.
 
 There is an interesting parallel between: 1) the scene of Lawrence's epiphany while playing the organ, in which "the top of his skull comes off" and he sees an exploded view of the entire workings of the organ and 2) his ancestor Daniel's important childhood memory of watching a church organ being obliterated by Knott Bolstrood. Lawrence's epiphany directly results in his successful creation of the digital computer, which project Daniel had begun before him.

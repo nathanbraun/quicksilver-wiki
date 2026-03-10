@@ -78,9 +78,9 @@ The Digger colonies, consisting in all of only about 100-200 people throughout E
 * The Saints Paradise (Ca. 1648)
 * Truth Lifting up its Head above Scandals (1649, Dedication dated October 16, 1648)
 * The New Law Of Righteousness (January 26, 1649)
-* *[The True Levellers Standard A D V A N C E D: or, The State of Community opened, and Presented to the Sons of Men](/http-darkwing-uoregon-edu-rbear-digger-html)* William Everard, John Palmer, John South, John Courton. William Taylor, Christopher Clifford, John Barker. Gerrard Winstanley, Richard Goodgroome, Thomas Starre, William Hoggrill, Robert Sawyer, Thomas Eder, Henry Bickerstaffe, John Taylor, &c. (April 20, 1649)
-* *[A DECLARATION FROM THE Poor oppressed People OF ENGLAND, DIRECTED To all that call themselves, or are called Lords of Manors, through this NATION...](/http-www-tlio-demon-co-uk-poor-htm)* Gerrard Winstanley, John Coulton, John Palmer, Thomas Star ,Samuel Webb, John Hayman, Thomas Edcer, William Hogrill, Daniel Weeden, Richard Wheeler, Nathaniel Yates, William Clifford, John Harrison, Thomas Hayden, James Hall. James Manley, Thomas Barnard, John South, Robert Sayer, Christopher Clifford, John Beechee, William Coomes, Christopher Boncher, Richard Taylor, Urian Worthington, Nathaniel Holcombe, Giles Childe (senior), John Webb, Thomas Yarwel, William Bonnington. John Ash, Ralph Ayer, John Pra, John Wilkinson, Anthony Spire, Thomas East, Allen Brown, Edward Parret, Richard Gray, John Mordy, John Bachilor, William Childe, William Hatham, Edward Wicher, William Tench.(June 1, 1649).
-* , *[A LETTER TO The Lord Fairfax, AND His Councell of War, WITH Divers Questions to the Lawyers, and Ministers: Proving it an undeniable Equity, That the common People ought to dig, plow, plant and dwell upon the Commons, with-out hiring them, or paying Rent to any](/http-www-tlio-demon-co-uk-letter-htm)*. On the behalf of those who have begun to dig upon [George-Hill](/) in Surrey. Gerrard Winstanly (June 9, 1649)
+* *[The True Levellers Standard A D V A N C E D: or, The State of Community opened, and Presented to the Sons of Men](http://darkwing.uoregon.edu/rbear-digger.html)* William Everard, John Palmer, John South, John Courton. William Taylor, Christopher Clifford, John Barker. Gerrard Winstanley, Richard Goodgroome, Thomas Starre, William Hoggrill, Robert Sawyer, Thomas Eder, Henry Bickerstaffe, John Taylor, &c. (April 20, 1649)
+* *[A DECLARATION FROM THE Poor oppressed People OF ENGLAND, DIRECTED To all that call themselves, or are called Lords of Manors, through this NATION...](http://www.tlio.demon.co.uk/poor.htm)* Gerrard Winstanley, John Coulton, John Palmer, Thomas Star ,Samuel Webb, John Hayman, Thomas Edcer, William Hogrill, Daniel Weeden, Richard Wheeler, Nathaniel Yates, William Clifford, John Harrison, Thomas Hayden, James Hall. James Manley, Thomas Barnard, John South, Robert Sayer, Christopher Clifford, John Beechee, William Coomes, Christopher Boncher, Richard Taylor, Urian Worthington, Nathaniel Holcombe, Giles Childe (senior), John Webb, Thomas Yarwel, William Bonnington. John Ash, Ralph Ayer, John Pra, John Wilkinson, Anthony Spire, Thomas East, Allen Brown, Edward Parret, Richard Gray, John Mordy, John Bachilor, William Childe, William Hatham, Edward Wicher, William Tench.(June 1, 1649).
+* , *[A LETTER TO The Lord Fairfax, AND His Councell of War, WITH Divers Questions to the Lawyers, and Ministers: Proving it an undeniable Equity, That the common People ought to dig, plow, plant and dwell upon the Commons, with-out hiring them, or paying Rent to any](http://www.tlio.demon.co.uk/letter.htm)*. On the behalf of those who have begun to dig upon [George-Hill](/) in Surrey. Gerrard Winstanly (June 9, 1649)
 * A Declaration of The bloudie and unchristian acting of William Star and John Taylor of Walton (June 22, 1649)
 * An Appeal To the House of Commons (July 11, 1649)
 * A Watch-Word to the City of London, and the Armie (August 26, 1649)
@@ -88,7 +88,7 @@ The Digger colonies, consisting in all of only about 100-200 people throughout E
 * To My Lord Generall and his Councell of Warr (December 8, 1649)
 * *The Decleration and Standard Of the Levellers of England*William Everard
 * Several Pieces gathered into one volume (1650, Preface dated December 20, 1649)
-* *[A New-yeers Gift FOR THE PARLIAMENT AND ARMIE: SHEWING, What the KINGLY Power is; And that the CAUSE of those They call DIGGERS](/http-www-tlio-demon-co-uk-gift-htm)* Gerrard Winstanley (January 1, 1650)
+* *[A New-yeers Gift FOR THE PARLIAMENT AND ARMIE: SHEWING, What the KINGLY Power is; And that the CAUSE of those They call DIGGERS](http://www.tlio.demon.co.uk/gift.htm)* Gerrard Winstanley (January 1, 1650)
 * Englands Spirit Unfoulded (Ca. February or March, 1650)
 * A Vindication of those ... called Diggers (March 4, 1650)
 * Fire in the Bush (March 19, 1650)
@@ -114,7 +114,7 @@ The Digger colonies, consisting in all of only about 100-200 people throughout E
 
 * "The World Turned Upside-Down", by [Rosselson, Leon](/leon-rosselson). - 1975. (A song about the Diggers and their activities on St. George's Hill in 1649.)
 * "The World Turned Upside-Down" (by Rosselon), performed by [Bragg, Billy](/billy-bragg). *[Between The Wars](/between-the-wars)* EP. 1985.
-* [*Winstanley*, a fictionalized movie portrait of the Diggers](/http-www-earlymodernweb-org-uk-film-winstan-htm), directed by [Brownlow, Kevin](/kevin-brownlow). 1975. (Based upon the novel *Comrade Jacob* by [Caute, David](/david-caute).)
+* [*Winstanley*, a fictionalized movie portrait of the Diggers](http://www.earlymodernweb.org.uk/film-winstan.htm), directed by [Brownlow, Kevin](/kevin-brownlow). 1975. (Based upon the novel *Comrade Jacob* by [Caute, David](/david-caute).)
 * Rev Hammer's Freeborn John (The Story of [John Lilburne](/john-lilburne) - The Leader of the Levellers), by Rev Hammer (and company). - Cooking Vinyl CD. London. 1997. (This production is a recent example of the confusion that has been created between the Levellers and True Levellers.)
 * Ringolevio (A life played for keeps) by [Grogan, Emmett](/emmett-grogan). - Little Brown & Company, 1972. Library of Congress No.78-186970. (The story of the revival of the Diggers in the Haight-Ashbury district of [San Francisco](/san-francisco), [California](/california) and [New York](/new-york) during the mid-1960s. Grogan was one of the leaders of this revival. He sang backup with [Ramblin' Jack Elliott](/ramblin-jack-elliott) on "[Mr. Tambourine Man](/mr-tambourine-man)", written by [Bob Dylan](/bob-dylan).)
 * "The World Turned Upside-Down" (by Rossselson), performed by Seattle Celt-rock band Coventry on the album *Red Hair and Black Leather*
@@ -130,21 +130,21 @@ The Digger colonies, consisting in all of only about 100-200 people throughout E
 ## External links
 
 
-* [English Diggers](/http-www-diggers-org-english-diggers-htm)
-* [Surrey Diggers Trail](/http-www-diggerstrail-co-uk-the-diggers-cfm)
-* [English Dissenters: Diggers](/http-www-exlibris-org-nonconform-engdis-diggers-html)
-* [Chapter IX: The "True" Levellers and Their Practical Communism](/http-www-marxists-org-reference-archive-bernstein-works-1895-cromwell-09-communism-htm) from *Cromwell and Communism* by Eduard Bernstein
-* [1642-52: Levellers and Diggers in the English Revolution](/http-www-libcom-org-history-articles-diggers-levellers-1642-52)
-* [An index page](/http-www-diggers-org-english-diggers-htm) at Diggers.org.
-* [An index page](/http-www-strecorsoc-org-worldlinks-html-diggers) at strecorsoc.org
+* [English Diggers](http://www.diggers.org/english-diggers.htm)
+* [Surrey Diggers Trail](http://www.diggerstrail.co.uk/the-diggers-cfm)
+* [English Dissenters: Diggers](http://www.exlibris.org/nonconform-engdis-diggers.html)
+* [Chapter IX: The "True" Levellers and Their Practical Communism](http://www.marxists.org/reference-archive-bernstein-works-1895-cromwell-09-communism.htm) from *Cromwell and Communism* by Eduard Bernstein
+* [1642-52: Levellers and Diggers in the English Revolution](http://www.libcom.org/history-articles-diggers-levellers-1642-52)
+* [An index page](http://www.diggers.org/english-diggers.htm) at Diggers.org.
+* [An index page](http://www.strecorsoc.org/worldlinks-html-diggers) at strecorsoc.org
 
 
 ## Footnotes
 
 
 
-1. {{note|True\_Levellers}} {{note label|True\_Levellers|1|a}} [The True Levellers Standard A D V A N C E D: or, The State of Community opened, and Presented to the Sons of Men](/http-darkwing-uoregon-edu-rbear-digger-html)
+1. {{note|True\_Levellers}} {{note label|True\_Levellers|1|a}} [The True Levellers Standard A D V A N C E D: or, The State of Community opened, and Presented to the Sons of Men](http://darkwing.uoregon.edu/rbear-digger.html)
 2. {{note|LaurenceClarkson}}Laurence Clarkson
 	* Laurence, Ann, "Two Ranter Poems" (*The Review of English Studies*, New Series, Vol. 31, No. 121. [February, 1980], 56-59), 57.
 	* Vann, Richard T., "The Later Life of Gerrard Winstanley" (*Journal of the History of Ideas,* Vol. 26, No. 1. (January - March, 1965), 133-136), 133.
-3. {{note|Declaration}} [A Declaration by the Diggers of Wellingborough - 1650](/http-www-rogerlovejoy-co-uk-philosophy-diggers-diggers3-htm)
+3. {{note|Declaration}} [A Declaration by the Diggers of Wellingborough - 1650](http://www.rogerlovejoy.co.uk/philosophy-diggers-diggers3.htm)

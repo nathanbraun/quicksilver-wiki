@@ -7,10 +7,10 @@ This is the [Cryptonomicon](/cryptonomicon) page for the **ABC - Atanasoff Berry
 ### Stephensonia
 
 
-*Like many, [Lawrence Waterhouse](/lawrence-waterhouse) misunderstands the super vision powers of [Superman](/http-en-wikipedia-org-wiki-superman)  specifically his X-Ray Vision. Objects as dense or denser than lead can impede this ability. Contrary to some beliefs, lead objects are not invisible to [Superman's X-Ray Vision](/http-en-wikipedia-org-wiki-superman-superman-27s-abilities); they simply appear opaque to him. Nor do his eyes actually emit X-rays.*![ABComputer.GIF](/images/ABComputer.GIF)  
+*Like many, [Lawrence Waterhouse](/lawrence-waterhouse) misunderstands the super vision powers of [Superman](https://en.wikipedia.org/wiki/superman)  specifically his X-Ray Vision. Objects as dense or denser than lead can impede this ability. Contrary to some beliefs, lead objects are not invisible to [Superman's X-Ray Vision](https://en.wikipedia.org/wiki/superman-superman-27s-abilities); they simply appear opaque to him. Nor do his eyes actually emit X-rays.*![ABComputer.GIF](/images/ABComputer.GIF)  
 **Atanasoff Berry Computer**  
 
-     *** When not marching back and forth on the flood plain of the [Skunk River](/http-en-wikipedia-org-wiki-skunk-river) making loud dinging noises, Lawrence was majoring in mechanical engineering. He ended up doing poorly in this area because he had fallen in with a Bulgarian professor named [John Vincent Atanasoff](/http-en-wikipedia-org-wiki-john-vincent-atanasoff) and his graduate student, [Clifford Berry](/http-en-wikipedia-org-wiki-clifford-e-berry), who were building a machine that was intended to automate the solution of some especially tedious differential equations.***  
+     *** When not marching back and forth on the flood plain of the [Skunk River](https://en.wikipedia.org/wiki/skunk-river) making loud dinging noises, Lawrence was majoring in mechanical engineering. He ended up doing poorly in this area because he had fallen in with a Bulgarian professor named [John Vincent Atanasoff](https://en.wikipedia.org/wiki/john-vincent-atanasoff) and his graduate student, [Clifford Berry](https://en.wikipedia.org/wiki/clifford-e-berry), who were building a machine that was intended to automate the solution of some especially tedious differential equations.***  
 
      ***The basic problem for Lawrence was that he was lazy. He had figured out that everything was much simpler if, like Superman with his X-ray vision, you just stared through the cosmetic distractions and saw the underlying mathematical skeleton. Once you found the math in a thing, you knew everything about it, and you could manipulate it to your heart's content with nothing more than a pencil and a napkin. He saw it in the curve of the silver bars on his glockenspiel, saw it in the catenary arch of a bridge and in the capacitor-studded drum of Atanasoff and Berry's computing machine. Actually pounding on the glockenspiel, riveting the bridge together, or trying to figure out why the computing machine wasn't working were not as interesting to him. ***  
   
@@ -23,7 +23,7 @@ This is the [Cryptonomicon](/cryptonomicon) page for the **ABC - Atanasoff Berry
 * TBA
 
 
-### [Wikipedia: Atanasoff Berry Computer](/http-en-wikipedia-org-wiki-atanasoff-berry-computer)
+### [Wikipedia: Atanasoff Berry Computer](https://en.wikipedia.org/wiki/atanasoff-berry-computer)
 
 
 
@@ -57,6 +57,6 @@ Although the Atanasoff-Berry Computer was an important step up from earlier comp
 ### External links
 
 
-* [History of computing hardware](/http-en-wikipedia-org-wiki-history-of-computing-hardware)
-* [The Birth of the ABC](/http-www-cs-iastate-edu-jva-jva-archive-shtml)
-* [Rebuilding the ABC](/http-www-scl-ameslab-gov-abc)
+* [History of computing hardware](https://en.wikipedia.org/wiki/history-of-computing-hardware)
+* [The Birth of the ABC](http://www.cs.iastate.edu/jva-jva-archive-shtml)
+* [Rebuilding the ABC](http://www.scl.ameslab.gov/abc)

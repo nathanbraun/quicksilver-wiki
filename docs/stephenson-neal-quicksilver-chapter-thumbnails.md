@@ -4,7 +4,7 @@
 From the Quicksilver Metaweb.
 
 This is inspired & motivated by 
-[Chapter Thumbnails for Infinite Jest](/http-members-aol-com-russillosm-ij-html). "Knowing the jist of each chapter, I found, makes it easy to hop around and reread relevant passages; these notes were, for me, VERY helpful in keeping track..."
+[Chapter Thumbnails for Infinite Jest](http://members.aol.com/russillosm-ij.html). "Knowing the jist of each chapter, I found, makes it easy to hop around and reread relevant passages; these notes were, for me, VERY helpful in keeping track..."
 
 Here are the notes I took when reading it. I took page numbers from my first edition US hardback, though the page numbers appear to match the trade paperback, which even has the same typos. 
 

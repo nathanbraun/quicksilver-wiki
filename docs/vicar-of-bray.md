@@ -154,16 +154,16 @@ His frequent changes of heart mirror those of [Roger Comstock](/roger-comstock).
 ### External Links
 
 
-* [Vicar of Bray at the Contemplator's folk music site (with midi)](/http-www-contemplator-com-england-vicrbray-html)
-* [The Parish Church of Bray](/http-www-braystmichael-co-uk)
+* [Vicar of Bray at the Contemplator's folk music site (with midi)](http://www.contemplator.com/england-vicrbray.html)
+* [The Parish Church of Bray](http://www.braystmichael.co.uk)
 * [The Vicar of Bray (song](/)
-* [John Wilkins on Wikipedia](/http-www-wikipedia-org-wiki-john-wilkins)
-* [THE ANALYTICAL LANGUAGE OF JOHN WILKINS By Jorge Luis Borges](/http-www-alamut-com-subj-artiface-language-johnwilkins-html)
-* [An Essay Toward a Real Character and a Philosophical Language](/http-reliant-teknowledge-com-wilkins) - Full text
-* [MacTutor: John Wilkins](/http-www-gap-dcs-st-and-ac-uk-history-mathematicians-wilkins-html)
-* *[The Discovery of a World in the Moon](/http-www-positiveatheism-org-hist-brunof14-htm)*
-* [BBC: John Wilkins](/http-www-bbc-co-uk-history-historic-figures-wilkins-john-shtml)
-* [Galileo Project: Wilkins](/http-es-rice-edu-es-humsoc-galileo-catalog-files-wilkins-html)
-* [a Wilkins bio](/http-www-hertford-ox-ac-uk-alumni-wilkins-htm)
-* [Another Wilkins bio](/http-www-cl-cam-ac-uk-rja14-wilkins-wilkins-html)
-* [John Aubrey's *Brief Lives*](/http-www-gap-dcs-st-and-ac-uk-history-societies-aubrey-html) - There is a Wilkins' entry
+* [John Wilkins on Wikipedia](https://en.wikipedia.org/wiki/john-wilkins)
+* [THE ANALYTICAL LANGUAGE OF JOHN WILKINS By Jorge Luis Borges](http://www.alamut.com/subj-artiface-language-johnwilkins.html)
+* [An Essay Toward a Real Character and a Philosophical Language](http://reliant.teknowledge.com/wilkins) - Full text
+* [MacTutor: John Wilkins](http://www.gap.dcs.st.and.ac.uk/history-mathematicians-wilkins.html)
+* *[The Discovery of a World in the Moon](http://www.positiveatheism.org/hist-brunof14.htm)*
+* [BBC: John Wilkins](http://www.bbc.co.uk/history-historic-figures-wilkins-john-shtml)
+* [Galileo Project: Wilkins](http://es.rice.edu/es-humsoc-galileo-catalog-files-wilkins.html)
+* [a Wilkins bio](http://www.hertford.ox.ac.uk/alumni-wilkins.htm)
+* [Another Wilkins bio](http://www.cl.cam.ac.uk/rja14-wilkins-wilkins.html)
+* [John Aubrey's *Brief Lives*](http://www.gap.dcs.st.and.ac.uk/history-societies-aubrey.html) - There is a Wilkins' entry

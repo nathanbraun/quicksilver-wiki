@@ -4,7 +4,7 @@
 From the Quicksilver Metaweb.
 
 A page for **Roger Bacon**
-### [Wikipedia:Roger Bacon](/http-en-wikipedia-org-wiki-roger-bacon)
+### [Wikipedia:Roger Bacon](https://en.wikipedia.org/wiki/roger-bacon)
 
 
 **Roger Bacon** (1214-1294), also known as **Doctor Mirabilis** (Latin: *"astounding doctor"*), was an English philosopher who placed considerable emphasis on empiricism, and is thought of as one of the earliest advocates of the modern scientific method. 

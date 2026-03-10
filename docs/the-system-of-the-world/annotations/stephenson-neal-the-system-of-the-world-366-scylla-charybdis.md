@@ -33,7 +33,7 @@ It is said that by the time [Aeneas](/aeneas)' fleet came through the strait aft
 #### External link
 
 
-* [Bulfinch's retelling of the myth of Glaucus and Scylla](/http-www-bulfinch-org-fables-bull7-html)
+* [Bulfinch's retelling of the myth of Glaucus and Scylla](http://www.bulfinch.org/fables-bull7.html)
 
 
 ### Charybdis

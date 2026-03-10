@@ -99,8 +99,8 @@ While Sir Isaac's newly minted coinage not welcome *as yet* in the colonies -- r
 ### External links
 
 
-* [Web elements](/http-www-webelements-com)
+* [Web elements](http://www.webelements.com)
 * [Ernest Rutherford Biography](/http-www-nobel-se-chemistry-laureates-1908-rutherford-bio-html)
-* [E-gold](/http-www-e-gold-com)
-* [Pharmacy in a chip](/http-www-microchips-com)
-* [World Gold Council](/http-www-gold-org)
+* [E-gold](http://www.e.gold.com)
+* [Pharmacy in a chip](http://www.microchips.com)
+* [World Gold Council](http://www.gold.org)

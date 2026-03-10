@@ -17,7 +17,7 @@ This is an [intermediate page](/metaweb-intermediate-page) for
 
 In *mathematics*, a **square number**, sometimes also called a **perfect square**, is a positive *integer* that can be written as the *square* of some other integer. So for example, nine is a square number since it can be written as three × three. By convention, the first square number is one. The number *m* is a square number if and only if one can arrange *m* points in a square.
 
-More in [link](/http-en-wikipedia-org-wiki-square-number)
+More in [link](https://en.wikipedia.org/wiki/square-number)
 
 ### [Related entries](/metaweb-related-entry)
 
@@ -28,4 +28,4 @@ More in [link](/http-en-wikipedia-org-wiki-square-number)
 ### [External links](/metaweb-external-links)
 
 
-* [http://en.wikipedia.org/wiki/Square\_number](/http-en-wikipedia-org-wiki-square_number)
+* [http://en.wikipedia.org/wiki/Square\_number](https://en.wikipedia.org/wiki/square_number)

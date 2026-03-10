@@ -29,14 +29,14 @@ This is a placeholder for **Gold knows...**
 
 It seems old and genuine - and doesn't show up on Google. One must wonder if **Silver** forgets easier. One recalls *30 pieces of silver* as payment is common in literature.
 
-### [The Royal Mint](/http-en-wikipedia-org-wiki-royal-mint)
+### [The Royal Mint](https://en.wikipedia.org/wiki/royal-mint)
 
 
 enhanced from various Wikipedia articles
 
 The **Royal Mint** is the name of the body permitted to make (mint) coins in the United Kingdom. Their work and history is discussed below. The Royal Mint originated over one thousand years ago, but is now (since 1975) a *Government Trading Fund*, operating in much the same way as a government owned company, that not only mints coins for the United Kingdom, but also mints and exports coins to many other countries. It also produces military medals, commemorative medals and other such items for governments, schools and businesses. The mint is now on a single site in Llantrisant, South Wales.
 
-### [Trial of the Pyx](/http-en-wikipedia-org-wiki-trial-of-the-pyx)
+### [Trial of the Pyx](https://en.wikipedia.org/wiki/trial-of-the-pyx)
 
 
 
@@ -52,7 +52,7 @@ The jury is composed of at least six assayers from the Company of Goldsmiths. Th
 
 Statutory basis for the Trial of the Pyx is given by the Coinage Act 1971, the latest in a long series of similarly-named Acts of Parliament. Specific procedures are established by Order-in-Council, the most recent being the Trial of the Pyx Order 1998. It is *not* required for a new Order to be issued for each Trial: this only happens when the rules change.
 
-### [Wikipedia: Halsbury's Laws of England](/http-en-wikipedia-org-wiki-halsbury-s-laws-of-england)
+### [Wikipedia: Halsbury's Laws of England](https://en.wikipedia.org/wiki/halsbury-s-laws-of-england)
 
 
 
@@ -60,7 +60,7 @@ Statutory basis for the Trial of the Pyx is given by the Coinage Act 1971, the l
 
 Halsbury's Laws of England covers every proposition of English law (whether statutory or common law), and is divided into alphabetically arranged titles, making it convenient to use and enabling quick and easy research into any area of law.
 
-### [Wikipedia: Coinage](/http-en-wikipedia-org-wiki-coin)
+### [Wikipedia: Coinage](https://en.wikipedia.org/wiki/coin)
 
 
 A coin is a piece of hard material, traditionally metal and usually in the shape of a disc, which is used as a form of money. With banknotes, coins make up the cash forms of all modern money systems. Coins are used for lower valued units, notes for the higher values.
@@ -77,17 +77,17 @@ To distinguish between these two types of coins, as well as from other forms of 
 3. It must be marked to identify the authority that guarantees the content.
 
 
-By the above definition, the invention and first known usage of coins comes from the Kingdom of [Lydia](/http-en-wikipedia-org-wiki-lydia) circa 643-630 BCE. Under three generations of Lydian kings, the money of Lydia gradually moved from being lumps of electrum (a naturally-occurring mixture of silver and gold) to coins of a guaranteed weight and purity, marked with the seal of the King. True coins also developed very close to this timeframe in both India and China. The [History of Coins](/http-en-wikipedia-org-wiki-history-of-coins) is a long and interesting one.
+By the above definition, the invention and first known usage of coins comes from the Kingdom of [Lydia](https://en.wikipedia.org/wiki/lydia) circa 643-630 BCE. Under three generations of Lydian kings, the money of Lydia gradually moved from being lumps of electrum (a naturally-occurring mixture of silver and gold) to coins of a guaranteed weight and purity, marked with the seal of the King. True coins also developed very close to this timeframe in both India and China. The [History of Coins](https://en.wikipedia.org/wiki/history-of-coins) is a long and interesting one.
 
 #### Coin Debasement
 
  
-Throughout history governments have been known to create more coinage than their supply of precious metals would allow. By replacing some fraction of a coin's precious metal content with a base metal, a government reduces the value of the coins (thereby *"debasing"* their money) and would then produce more coins then they could otherwise. Debasement of money almost always leads to price inflation unless price controls are also instituted by the governing authority. Some consider a classic example of this phenomenon to be the behavior of price levels in the United States since 1964 (the last year [United States Coins](/http-en-wikipedia-org-wiki-united-states-coin) were minted of silver). 
+Throughout history governments have been known to create more coinage than their supply of precious metals would allow. By replacing some fraction of a coin's precious metal content with a base metal, a government reduces the value of the coins (thereby *"debasing"* their money) and would then produce more coins then they could otherwise. Debasement of money almost always leads to price inflation unless price controls are also instituted by the governing authority. Some consider a classic example of this phenomenon to be the behavior of price levels in the United States since 1964 (the last year [United States Coins](https://en.wikipedia.org/wiki/united-states-coin) were minted of silver). 
 
 #### Features of Modern Coinage
 
  
-The milled edges still found on many coins were originally designed to show that none of the valuable metal had been shaved off the coin. Prior to the use of milled edged coins, circulating currency suffered from "shaving", a common problem where members of the public would cut the edges off circulating coins made of precious metals. Circulating unmilled british sterling silver coins were known to be shaved to almost half of their minted weight. This form of debasement in Tudor England lead to the formulation of [Gresham's Law](/http-en-wikipedia-org-wiki-gresham-s-law). The monarch would have to periodically recall, paying only bullion value of the silver, and re-mint circulating coins.![1c_comm.png](/https://web.archive.org/web/20060725170211im_/http://en.wikipedia.org/upload/2/2d/1c_comm.png)  
+The milled edges still found on many coins were originally designed to show that none of the valuable metal had been shaved off the coin. Prior to the use of milled edged coins, circulating currency suffered from "shaving", a common problem where members of the public would cut the edges off circulating coins made of precious metals. Circulating unmilled british sterling silver coins were known to be shaved to almost half of their minted weight. This form of debasement in Tudor England lead to the formulation of [Gresham's Law](https://en.wikipedia.org/wiki/gresham-s-law). The monarch would have to periodically recall, paying only bullion value of the silver, and re-mint circulating coins.![1c_comm.png](/https://web.archive.org/web/20060725170211im_/http://en.wikipedia.org/upload/2/2d/1c_comm.png)  
 Modern 1c Euro coin
 
 The front side of a coin, traditionally carrying a picture of the head of a monarch or other authority, is called the *obverse*, or colloquially *heads*. The back side is called the *reverse*, or colloquially *tails*.
@@ -105,7 +105,7 @@ The Royal Mint first became a single institution around 1660s, when minting oper
 
 Isaac Newton, who took up his post in 1696 is the best known Master of the Royal Mint. He unofficially moved Sterling to the gold standard from silver in 1717.
 
-#### [Pound Sterling](/http-en-wikipedia-org-wiki-pound-sterling)
+#### [Pound Sterling](https://en.wikipedia.org/wiki/pound-sterling)
 
 
 The basic currency unit of Sterling is now the **pound** - hence *Pound Sterling*, which strictly speaking refers to the currency unit rather than the currency. The Standard ISO 4217 currency code is GBP. *UKP is a non-standard abbreviation*. 
@@ -123,7 +123,7 @@ As a unit of currency, the term **pound** originates from the value of a Troy po
 
 Sterling (with a basic currency unit of the *Tealby Penny*, rather than the pound) was introduced as the English currency by King Henry II in 1158, though the name *Sterling* wasn't acquired until later. 
 
-### [The gold standard](/http-en-wikipedia-org-wiki-gold-standard)
+### [The gold standard](https://en.wikipedia.org/wiki/gold-standard)
 
 
 Sterling unofficially moved to the gold standard from silver in 1717 thanks to Sir [Isaac Newton](/isaac-newton), who was Master of the Royal Mint, and the use of silver declined until the official adoption of the gold standard following the end of the Napoleonic Wars, in 1821. This lasted until Britain, in common with many other countries, abandoned the standard during World War I, in 1919. During this period, the pound was generally valued at around 4.9 US dollars.![Gold-Newtons.jpg](/https://web.archive.org/web/20060725170211im_/http://www.metaweb.com/wiki/upload/5/5b/Gold-Newtons.jpg)  
@@ -165,7 +165,7 @@ As a member of the European Union, the UK has the option of adopting the euro as
 #### On the value of British money
 
  
-In 1999 the House of Commons Library published a [research paper](/http-www-parliament-uk-commons-lib-research-rp99-rp99-020-pdf) (PDF document) which included an index of the value of the Pound for each year between 1750 and 1998, where the value in 1974 was indexed at 100.
+In 1999 the House of Commons Library published a [research paper](http://www.parliament.uk.com/mons-lib-research-rp99-rp99-020.pdf) (PDF document) which included an index of the value of the Pound for each year between 1750 and 1998, where the value in 1974 was indexed at 100.
 
 Reading this document, one is struck by the fact that the value of the Pound remained remarkably constant for the whole of the period until the First World War, allowing for inflationary fluctuations in wartime and with many periods when prices declined. The value of the index in 1750 was 5.0, increasing to a peak of 16.0 in 1813 before declining very soon after the end of the Napoleonic Wars to around 10.0 and remaining in the range 8.5 - 10.0 at the end of the nineteenth century. The index was 9.6 in 1914 and peaked at 24.8 in 1920, before declining again to 15.5 in 1933 and 1934 i.e. prices were only about three times higher than they had been 180 years earlier. 
 
@@ -227,19 +227,19 @@ Inflation really kicked off during and after the Second World War - the index wa
 ### External links
 
 
-* **[Alchemy's Symbols](/http-www-chemsoc-org-viselements-pages-alchemist-alchemy-html)**
-* **[Royal Mint](/http-www-royalmint-com)**
-* **[Isac Newton - Royal Mint site](/http-www-royalmint-com-about-newton-asp)**
-* **[British coins](/http-en-wikipedia-org-wiki-british-coinage)**
-* **[British banknotes](/http-en-wikipedia-org-wiki-british-banknotes)**
-* **[United Kingdom](/http-en-wikipedia-org-wiki-united-kingdom)**
-* **[The Royal Mint](/http-en-wikipedia-org-wiki-royal-mint)**
-* **[Coin](/http-en-wikipedia-org-wiki-coin)**
-* **[The gold standard](/http-en-wikipedia-org-wiki-gold-standard)**
-* **[Pound Sterling](/http-en-wikipedia-org-wiki-pound-sterling)**
-* **[Lydia](/http-en-wikipedia-org-wiki-lydia)**
-* *[Halsbury's Laws of England](/http-en-wikipedia-org-wiki-halsbury-s-laws-of-england)*
-* [Trial of the Pyx Order 1998](/http-www-hmso-gov-uk-si-si1998-19981764-htm)
-* [Royal Mint description](/http-www-royalmint-com-about-trialofpyx-asp)
-* [Company of Goldsmiths description](/http-www-thegoldsmiths-co-uk-company-trial-htm)
-* [Pyx Chamber at Westminster Abbey](/http-www-westminster-abbey-org-tour-pyx-chamber-htm)
+* **[Alchemy's Symbols](http://www.chemsoc.org/viselements-pages-alchemist-alchemy.html)**
+* **[Royal Mint](http://www.royalmint.com)**
+* **[Isac Newton - Royal Mint site](http://www.royalmint.com/about-newton.asp)**
+* **[British coins](https://en.wikipedia.org/wiki/british-coinage)**
+* **[British banknotes](https://en.wikipedia.org/wiki/british-banknotes)**
+* **[United Kingdom](https://en.wikipedia.org/wiki/united-kingdom)**
+* **[The Royal Mint](https://en.wikipedia.org/wiki/royal-mint)**
+* **[Coin](https://en.wikipedia.org/wiki/coin)**
+* **[The gold standard](https://en.wikipedia.org/wiki/gold-standard)**
+* **[Pound Sterling](https://en.wikipedia.org/wiki/pound-sterling)**
+* **[Lydia](https://en.wikipedia.org/wiki/lydia)**
+* *[Halsbury's Laws of England](https://en.wikipedia.org/wiki/halsbury-s-laws-of-england)*
+* [Trial of the Pyx Order 1998](http://www.hmso.gov/uk-si-si1998-19981764.htm)
+* [Royal Mint description](http://www.royalmint.com/about-trialofpyx.asp)
+* [Company of Goldsmiths description](http://www.thegoldsmiths.co.uk/company-trial.htm)
+* [Pyx Chamber at Westminster Abbey](http://www.westminster.abbey.org/tour-pyx-chamber.htm)

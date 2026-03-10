@@ -30,26 +30,26 @@ We return to **coffee**
 | **Coffee** |
 | --- |
 | Coffee_Bean_Structure.png |
-| [Scientific classification](/http-en-wikipedia-org-wiki-scientific-classification) |
+| [Scientific classification](https://en.wikipedia.org/wiki/scientific-classification) |
 | 
 
 |  |  |
 | --- | --- |
-| [Kingdom](/http-en-wikipedia-org-wiki-kingdom-biology): | [Plantae](/http-en-wikipedia-org-wiki-plant) |
-| [Division](/http-en-wikipedia-org-wiki-division-biology): | [Magnoliophyta](/http-en-wikipedia-org-wiki-magnoliophyta) |
-| [Class](/http-en-wikipedia-org-wiki-class-biology): | [Magnoliopsida](/http-en-wikipedia-org-wiki-magnoliopsida) |
-| [Order](/http-en-wikipedia-org-wiki-order-biology): | [Rubiales](/http-en-wikipedia-org-wiki-rubiales) |
-| [Family](/http-en-wikipedia-org-wiki-family-biology):  | [Rubiaceae](/http-en-wikipedia-org-wiki-rubiaceae) |
-| [Genus](/http-en-wikipedia-org-wiki-genus): | ***Coffea*** |
+| [Kingdom](https://en.wikipedia.org/wiki/kingdom-biology): | [Plantae](https://en.wikipedia.org/wiki/plant) |
+| [Division](https://en.wikipedia.org/wiki/division-biology): | [Magnoliophyta](https://en.wikipedia.org/wiki/magnoliophyta) |
+| [Class](https://en.wikipedia.org/wiki/class-biology): | [Magnoliopsida](https://en.wikipedia.org/wiki/magnoliopsida) |
+| [Order](https://en.wikipedia.org/wiki/order-biology): | [Rubiales](https://en.wikipedia.org/wiki/rubiales) |
+| [Family](https://en.wikipedia.org/wiki/family-biology):  | [Rubiaceae](https://en.wikipedia.org/wiki/rubiaceae) |
+| [Genus](https://en.wikipedia.org/wiki/genus): | ***Coffea*** |
 
-| **[Species](/http-en-wikipedia-org-wiki-species)** |
-| *[Coffea arabica](/http-en-wikipedia-org-wiki-coffea-arabica)*
-*[Coffea benghalensis](/http-en-wikipedia-org-wiki-coffea-benghalensis)*
-*[Coffea canephora](/http-en-wikipedia-org-wiki-coffea-canephora)* = *C. robusta*
-*[Coffea congensis](/http-en-wikipedia-org-wiki-coffea-congensis)*
-*[Coffea liberica](/http-en-wikipedia-org-wiki-coffea-liberica)*
-*[Coffea stenophylla](/http-en-wikipedia-org-wiki-coffea-stenophylla)* |
-| Ref: [ITIS 35189](/http-www-itis-usda-gov-servlet-singlerpt-singlerpt-search-topic-tsn-search-value-35189) 2003-01-03
+| **[Species](https://en.wikipedia.org/wiki/species)** |
+| *[Coffea arabica](https://en.wikipedia.org/wiki/coffea-arabica)*
+*[Coffea benghalensis](https://en.wikipedia.org/wiki/coffea-benghalensis)*
+*[Coffea canephora](https://en.wikipedia.org/wiki/coffea-canephora)* = *C. robusta*
+*[Coffea congensis](https://en.wikipedia.org/wiki/coffea-congensis)*
+*[Coffea liberica](https://en.wikipedia.org/wiki/coffea-liberica)*
+*[Coffea stenophylla](https://en.wikipedia.org/wiki/coffea-stenophylla)* |
+| Ref: [ITIS 35189](http://www.itis.usda.gov/servlet-singlerpt-singlerpt-search-topic-tsn-search-value-35189) 2003-01-03
  |
  |
 
@@ -101,7 +101,7 @@ The coffee may be served plain ("black") or mixed with milk or cream, sweetened 
 
 There are many conveniences available for coffee drinkers, which ease the preparation for hurried workers about to begin their commute. Instant coffee is a powder that may be mixed with hot water and drunk moments later. Electronic coffee makers boil the water and brew the infusion with little human assistance and sometimes according to a timer. Connoisseurs shun such conveniences, which compromise the flavor of the coffee; they prefer freshly ground beans and traditional brewing techniques. 
 
-Coffee is occasionally combined with alcohol, a troublesome combination since caffeine does not directly counteract alcohol intoxication. Coffee-infused liqueurs are available under several brands. Hot brewed coffee spiked with [whiskey](/http-en-wikipedia-org-wiki-whiskey) is called *Irish coffee.*
+Coffee is occasionally combined with alcohol, a troublesome combination since caffeine does not directly counteract alcohol intoxication. Coffee-infused liqueurs are available under several brands. Hot brewed coffee spiked with [whiskey](https://en.wikipedia.org/wiki/whiskey) is called *Irish coffee.*
 
 #### Problems of maintaining quality during bean production
 
@@ -136,7 +136,7 @@ The United States is the largest market for coffee, followed by Germany. Finland
 
 In some countries, notably in northern Europe, coffee parties are a popular form of entertaining. Besides coffee, the host or hostess at the coffee party also serves cake and pastries, hopefully homemade.
 
-The stimulant properties of coffee and the fact that coffee does not adversely impact higher mental functions causes coffee to be associated with white collar jobs. Social habits involving coffee include the morning coffee and coffee breaks. These aspects of "coffee culture" jar unpleasantly with the facts about the workers in coffee plantations. The conditions of work are described as "sweatshops in the fields".[[source: Global Exchange- Fair Trade Coffee.](/http-www-globalexchange-org-campaigns-fairtrade-coffee)]
+The stimulant properties of coffee and the fact that coffee does not adversely impact higher mental functions causes coffee to be associated with white collar jobs. Social habits involving coffee include the morning coffee and coffee breaks. These aspects of "coffee culture" jar unpleasantly with the facts about the workers in coffee plantations. The conditions of work are described as "sweatshops in the fields".[[source: Global Exchange- Fair Trade Coffee.](http://www.globalexchange.org/campaigns-fairtrade-coffee)]
 Additionally, the use of coffee as a "cash crop", sold to the west in order to pay countries' debts, causes ecological and social problems in plantation areas - if coffee is all that is grown locally, food for the already poor workers must be imported, raising prices. The future livlihoods of native people are also compromised, as intensive mono-cropping can ruin land for production of any crop in a few decades.
 
 ### Coffee as a Stimulant
@@ -173,15 +173,15 @@ Some studies have assessed the health risks of coffee directly. For example, a F
 ### External Links
 
 
-* [Coffee Forums](/http-www-coffeeforums-com) offers open discussion about coffee, the beans, machines and effects.
+* [Coffee Forums](http://www.coffeeforums.com) offers open discussion about coffee, the beans, machines and effects.
 
 
 ### References
 
 
-* [TooMuchCoffeeMan  the Magazine](/http-www-tmcm-com)
-* [When Coffee gets un-fun](/http-www-cbldf-org-pr-001130-starbucks-shtml)
-* Wisborg, Kirsten et al.: Maternal consumption of coffee during pregnancy and stillbirth and infant death in first year of life: prospective study. *British Medical Journal* 2003;326:420 (22 February). [Online copy](/http-bmj-com-cgi-content-full-326-7386-420-ijkey-uubp-lv5owx42-t1).
-* [Excellent article about the nutritional needs of coffee plants (written by an expert in Hawaii)](/http-www-ctahr-hawaii-edu-ctahr2001-ctahrinaction-may-02-coffee-nutrition-needs-html)
-* [University of Hawaii spreadsheets dealing with costs of production including those of coffee growing in Hawaii](/http-www2-ctahr-hawaii-edu-oc-freepubs-spreads)
-* [Farmers Bookshelf guide to coffee growing and processing in Hawaii](/http-agrss-sherman-hawaii-edu-bookshelf-coffee-coffee-htm)
+* [TooMuchCoffeeMan  the Magazine](http://www.tmcm.com)
+* [When Coffee gets un-fun](http://www.cbldf.org/pr-001130-starbucks-shtml)
+* Wisborg, Kirsten et al.: Maternal consumption of coffee during pregnancy and stillbirth and infant death in first year of life: prospective study. *British Medical Journal* 2003;326:420 (22 February). [Online copy](http://bmj.com/cgi-content-full-326-7386-420-ijkey-uubp-lv5owx42-t1).
+* [Excellent article about the nutritional needs of coffee plants (written by an expert in Hawaii)](http://www.ctahr.hawaii.edu/ctahr2001-ctahrinaction-may-02-coffee-nutrition-needs.html)
+* [University of Hawaii spreadsheets dealing with costs of production including those of coffee growing in Hawaii](http://www2.ctahr.hawaii.edu/oc-freepubs-spreads)
+* [Farmers Bookshelf guide to coffee growing and processing in Hawaii](http://agrss.sherman.hawaii.edu/bookshelf-coffee-coffee.htm)

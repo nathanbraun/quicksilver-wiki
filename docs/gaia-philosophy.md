@@ -4,7 +4,7 @@
 From the Quicksilver Metaweb.
 
 a page for **Gaia Philosophy**
-### [Gaia philosophy](/http-en-wikipedia-org-wiki-gaia-philosophy)
+### [Gaia philosophy](https://en.wikipedia.org/wiki/gaia-philosophy)
 
 
 From Wikipedia, the free encyclopedia. 
@@ -21,7 +21,7 @@ These theories are also very significant in green politics.
  
 There are some mystical, scientific and religious predecessors to the theory, which had a Gaia-like conceptual basis.. Many religious mythologies had a view of Earth as being a whole that is greater than the sum of its parts. (e.g. some Native American Indian religions). 
 
-Lewis Thomas held that Earth should be viewed as a single cell; he derived this view from [Johannes Kepler](/johannes-kepler)'s view of Earth as a single round organism. Teilhard de Chardin, a paleontologist and geologist, believes that evolution unfolded from cell to organism to planet to solar system and ultimately the whole-universe as we humans see it from our limited perspective. De Chardin later influenced Thomas Berry and many Catholic humanist thinkers of the 20th century. **[Buckminster Fuller](/http-en-wikipedia-org-wiki-buckminster-fuller)** is generally credited with making the idea respectable in Western scientific circles in the 20th century. Building to some degree on his observations and artifacts, e.g. the Dymaxion Map of the Earth he created, others began to ask if there was a way to make Gaia theory scientifically sound. 
+Lewis Thomas held that Earth should be viewed as a single cell; he derived this view from [Johannes Kepler](/johannes-kepler)'s view of Earth as a single round organism. Teilhard de Chardin, a paleontologist and geologist, believes that evolution unfolded from cell to organism to planet to solar system and ultimately the whole-universe as we humans see it from our limited perspective. De Chardin later influenced Thomas Berry and many Catholic humanist thinkers of the 20th century. **[Buckminster Fuller](https://en.wikipedia.org/wiki/buckminster-fuller)** is generally credited with making the idea respectable in Western scientific circles in the 20th century. Building to some degree on his observations and artifacts, e.g. the Dymaxion Map of the Earth he created, others began to ask if there was a way to make Gaia theory scientifically sound. 
 
 None of these ideas are considered scientific hypotheses; by definition a scientific hypothesis must make testable predictions. As the above claims are not testable, they are outsides the bounds of science. These are conjectures and perhaps can only be considered as social and maybe political philosophy; they may have implications for theology. 
 
@@ -39,7 +39,7 @@ Much more speculative versions of Gaia, including all versions in which it is he
 ### Gaia in biology and science
 
 
-*See the main article [Gaia theory (science)](/http-en-wikipedia-org-wiki-gaia-theory-science) for more.*
+*See the main article [Gaia theory (science)](https://en.wikipedia.org/wiki/gaia-theory-science) for more.*
 
 Buckminster Fuller has been credited as the first to incorporate scientific ideas into a Gaia theory, which he did with his Dymaxion Map of the Earth. 
 
@@ -85,15 +85,15 @@ More speculative versions of Gaia, including all versions in which it is held th
 ### External links
 
 
-* [arcology](/http-en-wikipedia-org-wiki-arcology) -- [Paolo Soleri](/http-en-wikipedia-org-wiki-paolo-soleri) and [Arcosanti](/http-en-wikipedia-org-wiki-arcosanti)
-* [Buckminster Fuller](/http-en-wikipedia-org-wiki-buckminster-fuller)
-* [climate engineering](/http-en-wikipedia-org-wiki-climate-engineering)
-* [Gaia hypothesis](/http-en-wikipedia-org-wiki-gaia-hypothesis) (James Lovelock's ideas)
-* [gardening](/http-en-wikipedia-org-wiki-gardening)
-* [Industrial ecology](/http-en-wikipedia-org-wiki-industrial-ecology)
-* [keystone species](/http-en-wikipedia-org-wiki-keystone-species)
-* [places to intervene in a system](/http-en-wikipedia-org-wiki-donella-meadows-twelve-leverage-points-to-intervene-in-a-system)
-* [urban ecology](/http-en-wikipedia-org-wiki-urban-ecology)
-* [The Gaia Hypothesis](/http-www-oceansonline-com-gaiaho-htm)
-* [Gaia: Argument over a single word](/http-www-colorado-edu-iec-fall299rw-eco-html)
-* [Gaia: Science, Metaphor, or Myth?](/http-www-lawrence-edu-dept-environmental-studies-gaia-html)
+* [arcology](https://en.wikipedia.org/wiki/arcology) -- [Paolo Soleri](https://en.wikipedia.org/wiki/paolo-soleri) and [Arcosanti](https://en.wikipedia.org/wiki/arcosanti)
+* [Buckminster Fuller](https://en.wikipedia.org/wiki/buckminster-fuller)
+* [climate engineering](https://en.wikipedia.org/wiki/climate-engineering)
+* [Gaia hypothesis](https://en.wikipedia.org/wiki/gaia-hypothesis) (James Lovelock's ideas)
+* [gardening](https://en.wikipedia.org/wiki/gardening)
+* [Industrial ecology](https://en.wikipedia.org/wiki/industrial-ecology)
+* [keystone species](https://en.wikipedia.org/wiki/keystone-species)
+* [places to intervene in a system](https://en.wikipedia.org/wiki/donella-meadows-twelve-leverage-points-to-intervene-in-a-system)
+* [urban ecology](https://en.wikipedia.org/wiki/urban-ecology)
+* [The Gaia Hypothesis](http://www.oceansonline.com/gaiaho.htm)
+* [Gaia: Argument over a single word](http://www.colorado.edu/iec-fall299rw-eco.html)
+* [Gaia: Science, Metaphor, or Myth?](http://www.lawrence.edu/dept-environmental-studies-gaia.html)

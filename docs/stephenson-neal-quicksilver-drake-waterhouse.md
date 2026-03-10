@@ -91,8 +91,8 @@ Maybe Drake deserves his explosive end. I can almost hear *a George Bush Junior 
 ### External links
 
 
-* [English Civil War](/http-en-wikipedia-org-wiki-english-civil-war)
-* [An Enhanced Wikipedia entry on Charles I](/http-www-dropbears-com-b-broughsbooks-history-articles-charles-i-england-htm)
-* [Oliver Cromwell](/http-www-dropbears-com-b-broughsbooks-history-articles-oliver-cromwell-htm)
-* [Archbishop Laud](/http-en-wikipedia-org-wiki-william-laud)
-* [William Prynne](/http-en-wikipedia-org-wiki-william-prynne)
+* [English Civil War](https://en.wikipedia.org/wiki/english-civil-war)
+* [An Enhanced Wikipedia entry on Charles I](http://www.dropbears.com/b-broughsbooks-history-articles-charles-i-england.htm)
+* [Oliver Cromwell](http://www.dropbears.com/b-broughsbooks-history-articles-oliver-cromwell.htm)
+* [Archbishop Laud](https://en.wikipedia.org/wiki/william-laud)
+* [William Prynne](https://en.wikipedia.org/wiki/william-prynne)

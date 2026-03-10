@@ -35,5 +35,5 @@ In Greek mythology, the **Muses** were originally nymphs of springs, then goddes
 #### External links
 
 
-* [Muse (Wikipedia)](/http-www-wikipedia-org-wiki-muse)
-* [Muse (Encyclopedia Mythica)](/http-www-pantheon-org-articles-m-muses-html)
+* [Muse (Wikipedia)](https://en.wikipedia.org/wiki/muse)
+* [Muse (Encyclopedia Mythica)](http://www.pantheon.org/articles-m-muses.html)

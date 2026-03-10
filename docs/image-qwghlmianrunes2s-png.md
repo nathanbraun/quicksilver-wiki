@@ -8,7 +8,7 @@ A stab at what the [Qwghlmian](/qwghlm) alphabet1 might look like, based on the 
 Variations on the same glyph are grouped together in blue boxes.
 
 
-1. Though, since (according to page 828 of [Quicksilver](/stephenson-neal-quicksilver)) it contains no vowels, it is technically an [abjad](/http-en-wikipedia-org-wiki-abjad).
+1. Though, since (according to page 828 of [Quicksilver](/stephenson-neal-quicksilver)) it contains no vowels, it is technically an [abjad](https://en.wikipedia.org/wiki/abjad).
 
 ## Image history
 

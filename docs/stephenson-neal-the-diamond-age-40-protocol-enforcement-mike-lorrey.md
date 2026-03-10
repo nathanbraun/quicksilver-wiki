@@ -49,6 +49,6 @@ Protocol Enforcement is not ostensibly a [final arbiter](/final-arbiter), but en
 ## External Links
 
 
-* [Blackstone's Commentaries On The Law](/http-www-yale-edu-lawweb-avalon-blackstone-blacksto-htm)
-* [The Common Economic Protocols, v 1.0](/http-ica-citystateinc-com-library)
+* [Blackstone's Commentaries On The Law](http://www.yale.edu/lawweb-avalon-blackstone-blacksto.htm)
+* [The Common Economic Protocols, v 1.0](http://ica.citystateinc.com/library)
 * [The Hague Conference On Private International Law](/http-hcch-e-vision-nl-index-en-php)

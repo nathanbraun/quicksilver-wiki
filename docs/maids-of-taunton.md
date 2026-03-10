@@ -46,4 +46,4 @@ SUNDERLAND."
 ### External link
 
 
-* [Macaulay's History of England Chapter 5 - The Monmouth Rebellion (continued)](/http-www-strecorsoc-org-macaulay-m05f-html-5f6)
+* [Macaulay's History of England Chapter 5 - The Monmouth Rebellion (continued)](http://www.strecorsoc.org/macaulay-m05f-html-5f6)

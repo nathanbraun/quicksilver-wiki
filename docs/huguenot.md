@@ -30,7 +30,7 @@ In the 16th and 17th centuries, Protestants in France were called Huguenots, a w
 
 Most Huguenots were Calvinists. During most of the 16th century, the Huguenots faced fierce persecution, which towards the end of the century led to large internal religious wars. However, in 1561 the Edict of Orléans stopped the persecution for a number of years, and the Edict of Saint-Germain recognized them for the first time (January 17, 1562). The French Wars of Religion then began with a massacre of 1,000 Huguenots at Vassy on March 1, 1562. In 1572 thousands of Huguenots were killed in the St. Bartholomew's Day Massacre, and amnesty was granted the next year. The 5th holy war against the Huguenots began on February 23, 1574, and persecution continued periodically until 1598 when king Henry IV issued the Edict of Nantes, which granted the Protestants full religious freedom and equal rights to Catholics. 
 
-Louis XIV revoked the edict in 1685 and declared Protestantism illegal with the Edict of Fontainebleau. After this, many Huguenots fled to surrounding Protestant countries, especially to Prussia and the [United Republics](/http-en2-wikipedia-org-wiki-republic-of-the-seven-united-netherlands). On December 31, 1687 a band of Huguenots set sail from France to the Cape of Good Hope. 
+Louis XIV revoked the edict in 1685 and declared Protestantism illegal with the Edict of Fontainebleau. After this, many Huguenots fled to surrounding Protestant countries, especially to Prussia and the [United Republics](https://en.wikipedia.org/wiki/republic-of-the-seven-united-netherlands). On December 31, 1687 a band of Huguenots set sail from France to the Cape of Good Hope. 
 
 Huguenot refugees flocked to Shoreditch, London in large numbers. They established a major weaving industry in and around Spitalfields. The Truman Brewery appeared in 1724, although it was known as the Black Eagle Brewery then. Huguenot refugees fled Tours, France virtually wiping out the great silk mills they had built. Some of them brought their skills to Northern Ireland and were responsible for the founding of the great Irish linen industry. 
 
@@ -46,5 +46,5 @@ Huguenot refugees flocked to Shoreditch, London in large numbers. They establish
 ### External links
 
 
-* [(Wikipedia) Huguenot](/http-wikipedia-org-wiki-huguenot)
-* [http://en2.wikipedia.org/wiki/Republic\_of\_the\_Seven\_United\_Netherlands](/http-en2-wikipedia-org-wiki-republic_of_the_seven_united_netherlands)
+* [(Wikipedia) Huguenot](http://wikipedia.org/wiki-huguenot)
+* [http://en2.wikipedia.org/wiki/Republic\_of\_the\_Seven\_United\_Netherlands](https://en.wikipedia.org/wiki/republic_of_the_seven_united_netherlands)

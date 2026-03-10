@@ -45,7 +45,7 @@ Juanita's new-found powers at the conclusion of the novel are given relatively s
 ### Suitable Metaphors For Eden
 
 
-[Martin Buber](/) and his proteges have always maintained that **[Eden](/http-en-wikipedia-org-wiki-garden-of-eden)** was a [kindergarten](/http-en-wikipedia-org-wiki-kindergarten); And that it is consistent with the [origin myth](/http-en-wikipedia-org-wiki-creation-myths) God wanted Adam and Eve to have knowledge of [Good and Evil](/http-en-wikipedia-org-wiki-original-sin-original-sin-in-the-torah). 
+[Martin Buber](/) and his proteges have always maintained that **[Eden](https://en.wikipedia.org/wiki/garden-of-eden)** was a [kindergarten](https://en.wikipedia.org/wiki/kindergarten); And that it is consistent with the [origin myth](https://en.wikipedia.org/wiki/creation-myths) God wanted Adam and Eve to have knowledge of [Good and Evil](https://en.wikipedia.org/wiki/original-sin-original-sin-in-the-torah). 
 
 ### [Catholic Guilt](/)?
 
@@ -65,12 +65,12 @@ In the end, we speculate. Neal doesn't address it other than show us her charact
 ### External links
 
 
-* [Inanna](/http-en-wikipedia-org-wiki-ishtar)
-* [Sumerian Myths](/http-en-wikipedia-org-wiki-sumerian-mythology)
-* [Enheduanna](/http-en-wikipedia-org-wiki-enheduanna) - considered the oldest author known by name
-* [Epic of Gilgamesh](/http-en-wikipedia-org-wiki-epic-of-gilgamesh)
-* [The Heroes and The Masses](/http-www-cyberartsweb-org-cpace-scifi-ns-schwartz-html)
-* [Black Sun Passport](/http-www-digitalspace-com-avatars-book-fullbook-chch-chch1-htm)
-* [Snow Crash](/http-www-cyberartsweb-org-cpace-scifi-ns-snowcrashov-html)
-* [CyberSpace](/http-www-cyberartsweb-org-cpace-theory-baudrillard-studentov-html)
-* [Bad Asses of the Future](/http-www-cyberartsweb-org-cpace-scifi-ns-pillsbury-html)
+* [Inanna](https://en.wikipedia.org/wiki/ishtar)
+* [Sumerian Myths](https://en.wikipedia.org/wiki/sumerian-mythology)
+* [Enheduanna](https://en.wikipedia.org/wiki/enheduanna) - considered the oldest author known by name
+* [Epic of Gilgamesh](https://en.wikipedia.org/wiki/epic-of-gilgamesh)
+* [The Heroes and The Masses](http://www.cyberartsweb.org/cpace-scifi-ns-schwartz.html)
+* [Black Sun Passport](http://www.digitalspace.com/avatars-book-fullbook-chch-chch1.htm)
+* [Snow Crash](http://www.cyberartsweb.org/cpace-scifi-ns-snowcrashov.html)
+* [CyberSpace](http://www.cyberartsweb.org/cpace-theory-baudrillard-studentov.html)
+* [Bad Asses of the Future](http://www.cyberartsweb.org/cpace-scifi-ns-pillsbury.html)

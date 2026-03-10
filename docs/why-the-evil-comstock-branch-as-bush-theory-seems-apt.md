@@ -11,7 +11,7 @@ Let's consider this a [HEAP](/heap) orientated [Cryptonomicon](/cryptonomicon) a
 *It's all about fighting evil. But if you want to talk about Presidents and blowjobs instead I'll understand ...* 
 ![header-1.gif](/images/header-1.gif)
 
-## Toby Rogers' [Heir to the Holocaust: Prescott Bush, $1.5 million, and Auschwitz: how the Bush family wealth is linked to the holocaust](/http-www-clamormagazine-org-issues-14-feature3-shtml)
+## Toby Rogers' [Heir to the Holocaust: Prescott Bush, $1.5 million, and Auschwitz: how the Bush family wealth is linked to the holocaust](http://www.clamormagazine.org/issues-14-feature3-shtml)
 
 
 

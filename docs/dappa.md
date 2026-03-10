@@ -39,4 +39,4 @@ He may also have been one of the Crewmates of Otto Kivistik in Cryptonomicon.
 ### External Link
 
 
-* [http://www.westafrica.com/](/http-www-westafrica-com)
+* [http://www.westafrica.com/](http://www.westafrica.com)

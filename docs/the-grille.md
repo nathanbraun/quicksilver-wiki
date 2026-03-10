@@ -21,4 +21,4 @@ A better, but more complicated method, for creating a grille method is to make u
 ### Giralomo Cardano?
 
 
-A possible correction to your data... while browsing found **[Giralomo Cardano](/http-www-nsa-gov-publications-publi00013-cfm)** (1501-1576) given credit for grille steganography by the NSA.
+A possible correction to your data... while browsing found **[Giralomo Cardano](http://www.nsa.gov/publications-publi00013-cfm)** (1501-1576) given credit for grille steganography by the NSA.

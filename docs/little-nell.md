@@ -22,9 +22,9 @@ This [Diamond Age](/stephenson-neal-the-diamond-age-or-a-young-lady-s-illustrate
 
 
  another primer? consider character
-from the novel by Charlotte Bronte - [Jane Eyre](/http-en-wikipedia-org-wiki-jane-eyre), uses similar tactics as ALICE, funny...
+from the novel by Charlotte Bronte - [Jane Eyre](https://en.wikipedia.org/wiki/jane-eyre), uses similar tactics as ALICE, funny...
 
 ### External links
 
 
-* [e-text of Jane Eyre](/http-www-gutenberg-org-etext-1260)
+* [e-text of Jane Eyre](http://www.gutenberg.org/etext-1260)

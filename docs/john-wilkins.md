@@ -40,15 +40,15 @@ The chief of his numerous works is an Essay towards a Real Character and a Philo
 
 The chief of the numerous works of John Wilkins was ***An Essay towards a Real Character and a Philosophical Language*** (London, 1668), in which he expounds a new universal language for the use of philosophers. 
 
-In the essay, Wilkins defines his "real character", which is a new [orthography](/http-en-wikipedia-org-wiki-orthography) for the English language that resembles [shorthand](/http-en-wikipedia-org-wiki-shorthand), and his "philosophical language" which is based an early classification scheme or [ontology](/http-en-wikipedia-org-wiki-ontology) (in what would later become the [computer science](/http-en-wikipedia-org-wiki-computer-science) meaning of the term). 
+In the essay, Wilkins defines his "real character", which is a new [orthography](https://en.wikipedia.org/wiki/orthography) for the English language that resembles [shorthand](https://en.wikipedia.org/wiki/shorthand), and his "philosophical language" which is based an early classification scheme or [ontology](https://en.wikipedia.org/wiki/ontology) (in what would later become the [computer science](https://en.wikipedia.org/wiki/computer-science) meaning of the term). 
 
 Wilkins describes a large number of possible concepts as single words by first dividing all reality into forty different categories, each assigned to a different syllable, then sub-dividing these categories into sub-categories, and so on. 
 
-The resulting words thus encode some of the [semantics](/http-en-wikipedia-org-wiki-semantics) of their meanings into their spelling. Such a-priori languages were inspired by accounts of how the [Chinese writing system](/http-en-wikipedia-org-wiki-chinese-writing-system) worked. 
+The resulting words thus encode some of the [semantics](https://en.wikipedia.org/wiki/semantics) of their meanings into their spelling. Such a-priori languages were inspired by accounts of how the [Chinese writing system](https://en.wikipedia.org/wiki/chinese-writing-system) worked. 
 
-[Jorge Luis Borges](/http-en-wikipedia-org-wiki-jorge-luis-borges) wrote a critique of Wilkins' philosophical language in his essay El idioma analítico de John Wilkins ([The Analytical Language of John Wilkins](/http-www-alamut-com-subj-artiface-language-johnwilkins-html)). 
+[Jorge Luis Borges](https://en.wikipedia.org/wiki/jorge-luis-borges) wrote a critique of Wilkins' philosophical language in his essay El idioma analítico de John Wilkins ([The Analytical Language of John Wilkins](http://www.alamut.com/subj-artiface-language-johnwilkins.html)). 
 
-More modern a-priori languages are [Solresol](/http-en-wikipedia-org-wiki-solresol) and [Ro](/http-en-wikipedia-org-wiki-ro). 
+More modern a-priori languages are [Solresol](https://en.wikipedia.org/wiki/solresol) and [Ro](https://en.wikipedia.org/wiki/ro). 
 
 ### Related Links
 
@@ -68,13 +68,13 @@ More modern a-priori languages are [Solresol](/http-en-wikipedia-org-wiki-solres
 ### External links
 
 
-* [John Wilkins on Wikipedia](/http-www-wikipedia-org-wiki-john-wilkins)
-* [THE ANALYTICAL LANGUAGE OF JOHN WILKINS By Jorge Luis Borges](/http-www-alamut-com-subj-artiface-language-johnwilkins-html)
-* [An Essay Toward a Real Character and a Philosophical Language](/http-reliant-teknowledge-com-wilkins) - Full text
-* [MacTutor: John Wilkins](/http-www-gap-dcs-st-and-ac-uk-history-mathematicians-wilkins-html)
-* *[The Discovery of a World in the Moon](/http-www-positiveatheism-org-hist-brunof14-htm)*
-* [BBC: John Wilkins](/http-www-bbc-co-uk-history-historic-figures-wilkins-john-shtml)
-* [Galileo Project: Wilkins](/http-es-rice-edu-es-humsoc-galileo-catalog-files-wilkins-html)
-* [a Wilkins bio](/http-www-hertford-ox-ac-uk-alumni-wilkins-htm)
-* [Another Wilkins bio](/http-www-cl-cam-ac-uk-rja14-wilkins-wilkins-html)
-* [John Aubrey's *Brief Lives*](/http-www-gap-dcs-st-and-ac-uk-history-societies-aubrey-html) - There is a Wilkins' entry
+* [John Wilkins on Wikipedia](https://en.wikipedia.org/wiki/john-wilkins)
+* [THE ANALYTICAL LANGUAGE OF JOHN WILKINS By Jorge Luis Borges](http://www.alamut.com/subj-artiface-language-johnwilkins.html)
+* [An Essay Toward a Real Character and a Philosophical Language](http://reliant.teknowledge.com/wilkins) - Full text
+* [MacTutor: John Wilkins](http://www.gap.dcs.st.and.ac.uk/history-mathematicians-wilkins.html)
+* *[The Discovery of a World in the Moon](http://www.positiveatheism.org/hist-brunof14.htm)*
+* [BBC: John Wilkins](http://www.bbc.co.uk/history-historic-figures-wilkins-john-shtml)
+* [Galileo Project: Wilkins](http://es.rice.edu/es-humsoc-galileo-catalog-files-wilkins.html)
+* [a Wilkins bio](http://www.hertford.ox.ac.uk/alumni-wilkins.htm)
+* [Another Wilkins bio](http://www.cl.cam.ac.uk/rja14-wilkins-wilkins.html)
+* [John Aubrey's *Brief Lives*](http://www.gap.dcs.st.and.ac.uk/history-societies-aubrey.html) - There is a Wilkins' entry

@@ -61,9 +61,9 @@ Rife is in for a world of hurt, cause no power in the 'verse can stop Fido.
 [![](/web/20060725223535im_/http://www.metaweb.com/wiki/upload/f/f6/Clash11.jpg)]()  
 [Athena](/athena)'s reproduction of her pet"  
 
-The concept of the robotic pet goes back into antiquity, though in science fiction we see it quite commonly. The movie "[Clash of the Titans](/http-us-imdb-com-title-tt0082186-fr-c2l0zt1kznxted0ymhxzzz0xfgxtptuwmhx0dd1vbnxmyj11fhbuptb8ct1dbgfzacbvzib0agugvgl0yw5zfgh0bww9mxxubt1vbg-fc-1-ft-20-fm-1)" featured a robotic-clockwork owl. After [Perseus](/perseus)' first encounter with Calibos in the marshes he loses his magical helmet, [Zeus](/zeus) decides to provide him with a replacement to aid him in his quest to save the princess. [Bubo](/bubo) was [Athena](/athena)'s beloved magical owl, Zeus commands her to hand over her owl to Perseus, but she "will never part" with her owl. She decides to build an exact replica of Bubo but made of brass and iron with the help of Hephaestus. This mechanical owl is not very well documented in real Greek mythology and as comic-relief in the movie is generally considered a flop by most critics.
+The concept of the robotic pet goes back into antiquity, though in science fiction we see it quite commonly. The movie "[Clash of the Titans](http://us.imdb.com/title-tt0082186-fr-c2l0zt1kznxted0ymhxzzz0xfgxtptuwmhx0dd1vbnxmyj11fhbuptb8ct1dbgfzacbvzib0agugvgl0yw5zfgh0bww9mxxubt1vbg-fc-1-ft-20-fm-1)" featured a robotic-clockwork owl. After [Perseus](/perseus)' first encounter with Calibos in the marshes he loses his magical helmet, [Zeus](/zeus) decides to provide him with a replacement to aid him in his quest to save the princess. [Bubo](/bubo) was [Athena](/athena)'s beloved magical owl, Zeus commands her to hand over her owl to Perseus, but she "will never part" with her owl. She decides to build an exact replica of Bubo but made of brass and iron with the help of Hephaestus. This mechanical owl is not very well documented in real Greek mythology and as comic-relief in the movie is generally considered a flop by most critics.
 
-The 1980's television show "[Battlestar Galactica](/http-us-imdb-com-title-tt0077215-fr-c2l0zt1kznxted0ymhxzzz0xfgxtptuwmhx0dd1vbnxmyj11fhbuptb8ct1cyxr0bgvzdgfyiedhbgfjdgljyxxodg1sptf8bm09b24-fc-2-ft-10-fm-1)" featured a dog-like pet of the young character 'Boxie' which was killed in the first episode and replaced by a cybernetic/robot daggit named Muffit.
+The 1980's television show "[Battlestar Galactica](http://us.imdb.com/title-tt0077215-fr-c2l0zt1kznxted0ymhxzzz0xfgxtptuwmhx0dd1vbnxmyj11fhbuptb8ct1cyxr0bgvzdgfyiedhbgfjdgljyxxodg1sptf8bm09b24-fc-2-ft-10-fm-1)" featured a dog-like pet of the young character 'Boxie' which was killed in the first episode and replaced by a cybernetic/robot daggit named Muffit.
 
 Muffit on occasion saved Boxie and others, earning the recognition of the crew of Galactica for going beyond his artificial programming in caring for humans, a feat not accomplished by the Cylons, a robot/cyborg race created by the humans of the colonies which turned against humanity. The duality of Muffit versus Cylon depicts the distinction in how humanity treats its creations. Treated as loved pets or children, they could be benevolent partners and evolutionary offspring. However, if feared or hated by those that distrust technology, and subject to penalizing regulation as a result, our technological offspring could destroy us because of our own flaws, not because of theirs.[![Boxie and Muffit the daggit cyborg](/web/20060725223535im_/http://www.metaweb.com/wiki/upload/6/6e/Battlestar-gallatica.jpg)](boxie-and-muffit-the-daggit-cyborg)  
 *Battlestar Galactica Characters Boxie and   
@@ -71,7 +71,7 @@ his pet "Muffit", a daggit cyborg*
 
 On the show, this character was played by a three-year-old chimp named Eve. The chimp was said to have hated humans and would never listen to its trainer, frequently tossing her costume head across the stage.
 
-In the [S Andrew Swann](/http-www-sff-net-people-saswann) novel ["Emperors of the Twilight"](/http-www-sff-net-people-saswann-books-eott-htm), we see a cybernetic doberman pinscher assault the main character following the opening scene sequence, only to be blown to pieces by its victim, an artificial person or 'frank' herself who daily lives with the conundrum of protecting the human species that fears or hates her.
+In the [S Andrew Swann](http://www.sff.net/people-saswann) novel ["Emperors of the Twilight"](http://www.sff.net/people-saswann-books-eott.htm), we see a cybernetic doberman pinscher assault the main character following the opening scene sequence, only to be blown to pieces by its victim, an artificial person or 'frank' herself who daily lives with the conundrum of protecting the human species that fears or hates her.
 
 ## The Cybernetic Conundrum
 
@@ -93,35 +93,35 @@ As commented by Ng, cybernetic technologies have the potential to allow their us
 
 This leads to a question of whether a person with superhuman performance would properly be an acceptable athlete at a Paralympics competition, or an Olympics Competition, or should superhuman-abled athletes have their own competetive leagues entirely?
 
-From:[Keeping Track Newsletter](/http-www-keepingtracknewsletter-com-archive-index-php-keepingtrack-52)
+From:[Keeping Track Newsletter](http://www.keepingtracknewsletter.com/archive-index-php-keepingtrack-52)
 DOUBLE-AMPUTEE Oscar Pistorious, a 17-year-old from South Africa competing in the Athens Paralympics, became the first amputee to dip under 22 seconds for 200 meters. His 21.97 in Athens compares with the current B Olympic standard for able-bodied men, 20.75. Given his disadvantage coming out of the blocks, Pistorious may move up to the 400 in an attempt to become the first person with even one prosthetic leg to compete in the Games. He is just .45 shy of the qualifying mark for world juniors in the 200 and has only been competing in track since January of this year.
 
 When asked if an athlete with a prosthetic leg could compete in the Olympics, the IOC referred the question to the IAAF. There is no mention of prosthetics in the rules, an IAAF official tells the Agence France Presse. The case has never presented itself before.
 
 Whether this open mindedness lasts beyond the day when amputees sweep gold-silver-bronze in an Olympic event is questionable, given the International Olympic Committee's opposition to use of performance enhancing drugs for normal athletes. At the Athens games, the leading single-amputee Americans, Brian Frasure and Marlon Shirley, were inspired by Pistorious' performance to lodge a light-hearted complaint that the Springbok's twin prosthetics constituted an unfair advantage for Pistorious.
 
-### [Liam Chronnell: Dog's wheel clamp triumph](/http-www-manchesteronline-co-uk-news-s-23-23045-dogs-wheel-clamp-triumph-html)
+### [Liam Chronnell: Dog's wheel clamp triumph](http://www.manchesteronline.co.uk/news-s-23-23045-dogs-wheel-clamp-triumph.html)
 
 
 [![Bethany the ChampI](/web/20060725223535im_/http://www.metaweb.com/wiki/upload/9/90/Beagle-mongrel_Bethany.jpg)](bethany-the-champi)  
 **Bethany**
 A disabled dog has won through to the finals of a national competition - thanks to an ingenious "wheel clamp" that has enabled her to walk again.
 
-Beagle-mongrel Bethany suffered paralysis of her back legs two years ago, but the canine has triumphed in the northern heat of the cross-breed awards. (complete in [link](/http-www-manchesteronline-co-uk-news-s-23-23045-dogs-wheel-clamp-triumph-html)).
+Beagle-mongrel Bethany suffered paralysis of her back legs two years ago, but the canine has triumphed in the northern heat of the cross-breed awards. (complete in [link](http://www.manchesteronline.co.uk/news-s-23-23045-dogs-wheel-clamp-triumph.html)).
 
 ## Dog As Cyborg
 
 
 
-Animal rights advocate, Professor [Donna Harraway](/http-www-egs-edu-faculty-haraway-haraway-birth-of-the-kennel-2000-html), looks at dogs as the first cyborg species: humans shaped their evolution to serve as tools of our needs, and particularly in work areas such as bomb sniffing, assisting the blind or other handicapped, guard dogs, etc. dogs are already cyborgs metaphorically speaking as creatures of biotechnology that serve our needs.
+Animal rights advocate, Professor [Donna Harraway](http://www.egs.edu/faculty-haraway-haraway-birth-of-the-kennel-2000.html), looks at dogs as the first cyborg species: humans shaped their evolution to serve as tools of our needs, and particularly in work areas such as bomb sniffing, assisting the blind or other handicapped, guard dogs, etc. dogs are already cyborgs metaphorically speaking as creatures of biotechnology that serve our needs.
 
 If dogs had any more intelligence, and seeing how we treat some of them, they might have grounds to rise up against us. 
 
 ### External links
 
 
-* [source of graphic](/http-www-traipse-com-rat-thing)
-* [Oblivions Gate / TeaJae](/http-www-oblivionsgate-com-user-teajae-entry-428)
-* [Skiing Cyborgs!!!](/http-www-freedom-innovations-com-gallery-asp)
-* [Buddy](/http-handicappedpets-com-gallery0303-buddy-htm)
-* [Bethany](/http-www-manchesteronline-co-uk-news-s-23-23045-dogs-wheel-clamp-triumph-html)
+* [source of graphic](http://www.traipse.com/rat-thing)
+* [Oblivions Gate / TeaJae](http://www.oblivionsgate.com/user-teajae-entry-428)
+* [Skiing Cyborgs!!!](http://www.freedom.innovations.com/gallery.asp)
+* [Buddy](http://handicappedpets.com/gallery0303-buddy.htm)
+* [Bethany](http://www.manchesteronline.co.uk/news-s-23-23045-dogs-wheel-clamp-triumph.html)

@@ -44,12 +44,12 @@ In 2001, delegates for green parties from 70 countries decided upon a Global Gre
 
 The signatory parties and political movements of the Global Greens Charter commit themselves to global partnership and to six guiding principles. These principles are: 
 
-1. **[Ecological Wisdom](/http-en2-wikipedia-org-wiki-ecological-health)**
-2. **[Social Justice](/http-en-wikipedia-org-wiki-social-justice)**
-3. **[Participatory Democracy](/http-en-wikipedia-org-wiki-participatory-democracy)**
-4. **[Nonviolence](/http-en-wikipedia-org-wiki-nonviolence)**
-5. **[Sustainability](/http-en-wikipedia-org-wiki-sustainability)**
-6. **[Respect for Diversity](/http-en2-wikipedia-org-wiki-respect-diversity)**
+1. **[Ecological Wisdom](https://en.wikipedia.org/wiki/ecological-health)**
+2. **[Social Justice](https://en.wikipedia.org/wiki/social-justice)**
+3. **[Participatory Democracy](https://en.wikipedia.org/wiki/participatory-democracy)**
+4. **[Nonviolence](https://en.wikipedia.org/wiki/nonviolence)**
+5. **[Sustainability](https://en.wikipedia.org/wiki/sustainability)**
+6. **[Respect for Diversity](https://en.wikipedia.org/wiki/respect-diversity)**
 
 
 The charter document describes these principles and proposes ten key fields of political action following from the principles.
@@ -57,5 +57,5 @@ The charter document describes these principles and proposes ten key fields of p
 ### External links
 
 
-* **[The text of the charter in English, German, Portuguese and French](/http-www-global-greens-org-au-charter-htm)**
-* **[Wikipedia: Six Principles](/http-wikipedia-org-wiki-six-principles)**
+* **[The text of the charter in English, German, Portuguese and French](http://www.global.greens.org/au-charter.htm)**
+* **[Wikipedia: Six Principles](http://wikipedia.org/wiki-six-principles)**

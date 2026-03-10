@@ -20,14 +20,14 @@ This is an intermediate page for
 ### Community entry: English Civil War Timeline
 
 
-The **English Civil War**[[1]](/http-en-wikipedia-org-wiki-english-civil-war) broke out in 1642, largely as a result of an ongoing series of conflicts between the then King [Charles I](/charles-i) and Parliament. The Parliamentarian army was commanded by [Oliver Cromwell](/oliver-cromwell), which after much bloodshed and destruction, was ultimately victorious. The capture and subsequent trial of Charles I led to his execution by beheading in January 1649 at Whitehall Gate in London.
+The **English Civil War**[[1]](https://en.wikipedia.org/wiki/english-civil-war) broke out in 1642, largely as a result of an ongoing series of conflicts between the then King [Charles I](/charles-i) and Parliament. The Parliamentarian army was commanded by [Oliver Cromwell](/oliver-cromwell), which after much bloodshed and destruction, was ultimately victorious. The capture and subsequent trial of Charles I led to his execution by beheading in January 1649 at Whitehall Gate in London.
 ![Parliment.horseMW.jpg](/images/Parliment.horseMW.jpg)  
 Lord Protector Cromwell & Parliment Horse Guard
 
 ### 1642
 
  
-The king, [Charles I](/charles-i), raised his standard at Nottingham in what is accepted by historians as a sign by the king that he intended to fight Parliament for power in England. January 4 - Charles I attempts to arrest five leading members of the Long Parliament, but they escape. Beginning of English Civil War. His support came from the nobility, large landowners, the church and from people in the north and west of England.[[2]](/http-en-wikipedia-org-wiki-battle-of-lostwithiel) July - Charles I besiges Hull in an attempt to gain control of its arsenal. In October, a battle was fought at Edgehill but neither side won it and from a military point of view it was an indecisive battle.[[3]](/http-en-wikipedia-org-wiki-battle-of-edgehill)
+The king, [Charles I](/charles-i), raised his standard at Nottingham in what is accepted by historians as a sign by the king that he intended to fight Parliament for power in England. January 4 - Charles I attempts to arrest five leading members of the Long Parliament, but they escape. Beginning of English Civil War. His support came from the nobility, large landowners, the church and from people in the north and west of England.[[2]](https://en.wikipedia.org/wiki/battle-of-lostwithiel) July - Charles I besiges Hull in an attempt to gain control of its arsenal. In October, a battle was fought at Edgehill but neither side won it and from a military point of view it was an indecisive battle.[[3]](https://en.wikipedia.org/wiki/battle-of-edgehill)
 
 *[in science]*:
 * [Blaise Pascal](/blaise-pascal) produces a mechanical adding machine (the "Pascaline").
@@ -50,7 +50,7 @@ July 2 - Battle of Marston Moor , a crushing victory for the Parliamentary side 
 ### 1645
 
  
-The **New Model Army** was formed by Parliament. This exceptionally well trained force inflicted a severe defeat on the army of Charles at Naseby. The king lost his guns and ammunition at the end of this battle. July 2: Fight at Alford, Aberdeenshire. Siege of Ragban Castle [Abergavenny](/http-en2-wikipedia-org-wiki-abergavenny). 
+The **New Model Army** was formed by Parliament. This exceptionally well trained force inflicted a severe defeat on the army of Charles at Naseby. The king lost his guns and ammunition at the end of this battle. July 2: Fight at Alford, Aberdeenshire. Siege of Ragban Castle [Abergavenny](https://en.wikipedia.org/wiki/abergavenny). 
 
 In a political move, the Long Parliament outlaws the 1559 version of the Book of Common Prayer.
 
@@ -95,6 +95,6 @@ Birth of April 9 - James Crofts, illegitimate son of [Charles II](/charles-ii) o
 ### Footnotes & External links
 
 
-1. [English Civil War](/http-en-wikipedia-org-wiki-english-civil-war)
-2. [Battle of Lostwithiel](/http-en-wikipedia-org-wiki-battle-of-lostwithiel)
-3. [Battle of Edgehill](/http-en-wikipedia-org-wiki-battle-of-edgehill)
+1. [English Civil War](https://en.wikipedia.org/wiki/english-civil-war)
+2. [Battle of Lostwithiel](https://en.wikipedia.org/wiki/battle-of-lostwithiel)
+3. [Battle of Edgehill](https://en.wikipedia.org/wiki/battle-of-edgehill)

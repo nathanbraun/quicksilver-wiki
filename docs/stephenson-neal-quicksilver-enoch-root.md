@@ -15,7 +15,7 @@ This is an intermediate page for **Enoch Root**.
 
 
 [![BarbarossaMW.jpg](/web/20060725165601im_/http://www.metaweb.com/wiki/upload/0/01/BarbarossaMW.jpg)](barbarossamw-jpg)  
-**[The King in the Mountain](/http-en-wikipedia-org-wiki-sleeping-hero)**  
+**[The King in the Mountain](https://en.wikipedia.org/wiki/sleeping-hero)**  
 *Could this be Enoch?*
 *Enoch's existence is Stephensonia illustrated. [Randy Waterhouse](/randy-waterhouse) seems to liken him to [Gandalf the White](/stephenson-neal-cryptonomicon-121-randy-is-a-dwarf-alan-sinder). Neal has been quoted that Enoch of [Cryptonomicon](/cryptonomicon), is the the same character in the [Baroque Cycle](/baroque-cycle); Though, his manifestations may have different corporal bases. 
 One also wonders how much Enoch's name owes to [Elihu Root](/)? ...*
@@ -68,7 +68,7 @@ Maybe Just Enjoying His Warm Fire**
 
 **Shave Head And Appear Old**
 
-The author mentions this explicitly in [an interview](/http-www-baroquecycle-com-interview-htm), saying "[T]here's a character, Enoch Root, who possesses unnatural longevity...."
+The author mentions this explicitly in [an interview](http://www.baroquecycle.com/interview.htm), saying "[T]here's a character, Enoch Root, who possesses unnatural longevity...."
 
 There are a few other references to his extended lifespan, not all apparently consistent:
  [Quicksilver](/quicksilver) p9: "He is an old man." "Older than you?" "No, but he might *seem* older."
@@ -80,10 +80,10 @@ Note that the Biblical character named Enoch is reported to have avoided death, 
 ### Wikipedia:Enoch
 
 
-In the [Book of Genesis](/http-en-wikipedia-org-wiki-genesis), **Enoch** ([Hebrew](/http-en-wikipedia-org-wiki-hebrew-language) חנוך *Chanoch* or *Ḥănôkh*) is a name shared by two individuals.
+In the [Book of Genesis](https://en.wikipedia.org/wiki/genesis), **Enoch** ([Hebrew](https://en.wikipedia.org/wiki/hebrew-language) חנוך *Chanoch* or *Ḥănôkh*) is a name shared by two individuals.
 
-* The first was the son of [Cain](/http-en-wikipedia-org-wiki-cain). Cain later founded a city which he named Enoch.
-* The second was the son of [Jared](/http-en-wikipedia-org-wiki-jared), father of [Methuselah](/http-en-wikipedia-org-wiki-methuselah) and the grandfather of [Noah](/noah), although Noah is thought to have taken the name 'Noah', post-flood, and was originally named "Enoch". Genesis 5:24 tells us, "Enoch walked with God; then he was no more, because God took him away". According to the [Hebrew](/http-en-wikipedia-org-wiki-hebrew) [Book of Enoch](/http-en-wikipedia-org-wiki-book-of-enoch), [God](/http-en-wikipedia-org-wiki-god) took Enoch and transformed him into the [angel](/http-en-wikipedia-org-wiki-angel) [Metatron](/http-en-wikipedia-org-wiki-metatron). In the new testament [Jude](/http-en-wikipedia-org-wiki-epistle-of-jude) quotes Enoch as prophesying a day of judgement. According to the **Church of Jesus Christ of Latter-day Saints's** [Pearl of Great Price](/http-en-wikipedia-org-wiki-pearl-of-great-price) [[1]](/http-www-metaweb-com-wiki-wiki-phtml-title-robert-hooke), this Enoch founded the righteous city of [Zion](/http-en-wikipedia-org-wiki-zion) in a very wicked world. He and the entire city's inhabitants were "translated" by God and vanished from the presence of the earth before the [Great Flood](/http-en-wikipedia-org-wiki-great-flood). Methuselah and his family (including Noah) were left behind so that righteous people could still populate the earth.
+* The first was the son of [Cain](https://en.wikipedia.org/wiki/cain). Cain later founded a city which he named Enoch.
+* The second was the son of [Jared](https://en.wikipedia.org/wiki/jared), father of [Methuselah](https://en.wikipedia.org/wiki/methuselah) and the grandfather of [Noah](/noah), although Noah is thought to have taken the name 'Noah', post-flood, and was originally named "Enoch". Genesis 5:24 tells us, "Enoch walked with God; then he was no more, because God took him away". According to the [Hebrew](https://en.wikipedia.org/wiki/hebrew) [Book of Enoch](https://en.wikipedia.org/wiki/book-of-enoch), [God](https://en.wikipedia.org/wiki/god) took Enoch and transformed him into the [angel](https://en.wikipedia.org/wiki/angel) [Metatron](https://en.wikipedia.org/wiki/metatron). In the new testament [Jude](https://en.wikipedia.org/wiki/epistle-of-jude) quotes Enoch as prophesying a day of judgement. According to the **Church of Jesus Christ of Latter-day Saints's** [Pearl of Great Price](https://en.wikipedia.org/wiki/pearl-of-great-price) [[1]](http://www.metaweb.com/wiki-wiki-phtml-title-robert-hooke), this Enoch founded the righteous city of [Zion](https://en.wikipedia.org/wiki/zion) in a very wicked world. He and the entire city's inhabitants were "translated" by God and vanished from the presence of the earth before the [Great Flood](https://en.wikipedia.org/wiki/great-flood). Methuselah and his family (including Noah) were left behind so that righteous people could still populate the earth.
 
 
 ### Wikipedia: Metatron
@@ -109,7 +109,7 @@ In Philip Pullman's His Dark Materials trilogy, Metatron is the Regent of Heaven
 
 In the [Quran](/), the prophet Enoch is known as Idris.
 
-### Wikipedia: [Holy Roman Emperor Frederick I](/http-en-wikipedia-org-wiki-frederick-i-holy-roman-emperor)
+### Wikipedia: [Holy Roman Emperor Frederick I](https://en.wikipedia.org/wiki/frederick-i-holy-roman-emperor)
 
 
 
@@ -139,7 +139,7 @@ The German invasion of the Soviet Union in 1941 was codenamed Operation Barbaros
 
 Umberto Eco has his character *Baudolino* interact with Frederick.
 
-### Wikipedia: [The King in the Mountains](/http-en-wikipedia-org-wiki-sleeping-hero)
+### Wikipedia: [The King in the Mountains](https://en.wikipedia.org/wiki/sleeping-hero)
 
 
 A **king in the mountain**, also known as a **sleeping hero**, is a repeated motif that appears in a number of folktales. 
@@ -193,7 +193,7 @@ The motif is interesting in that it combines the idea of a supernatural national
 * Of his youth — we've this quote (p. 524): "...Enoch shrugs modestly. 'Where I grew up, memorizing the digits of pi was the closest thing we had to entertainment.' "
 * on a beach (coming down from the mountains) working as a *spotter* for the *good guys* after the China Raider [Bobby Shaftoe](/bobby-shaftoe) seems to have had a nightmare encounter with a [big lizard](/megalania-prisca). [Enoch meets Bobby](/enoch-meets-bobby)
 * in the hospital where [Goto Dengo](/goto-dengo) is convalescing during WWII after Bobby convinces him to surrender ...
-* during the **[Second World War](/http-en2-wikipedia-org-wiki-world-war-ii)** as an Army chaplain-of-sorts, with Cpl. Bobby Shaftoe detailed to a special division Dept. 2702 acting on information massaged by [Lawrence Waterhouse](/stephenson-neal-cryptonomicon-lawrence-waterhouse).
+* during the **[Second World War](https://en.wikipedia.org/wiki/world-war-ii)** as an Army chaplain-of-sorts, with Cpl. Bobby Shaftoe detailed to a special division Dept. 2702 acting on information massaged by [Lawrence Waterhouse](/stephenson-neal-cryptonomicon-lawrence-waterhouse).
 * is part of a gold pirating conspiracy with Bobby Shaftoe, the crew of the V-1 Million, and Rudi.
 * has some sort of family connection to Rudolf *Rudi* von Hacklheber seemingly based upon the *Societas Eruditorum*, and **now** most likely has the Leibniz Archives — that Göering collected for his escaped *slave*.
 * Enoch is pronounced dead from wounds inflicted by Germans. Bobby Shaftoe witnesses a body being hussled away afterwards. Later, Enoch is alive.
@@ -219,7 +219,7 @@ highest level is thought to be ten. (I welcome discussion on this hypothesis ...
 
 ***E no chroot*** being an UNIX command. Enoch, as the sole immortal, see-all know-all character in all the Neal Stephenson novels, is the avatar of the author within his created universe. This is why he has memory problems (particularly in that he wrote the Baroque Cycle AFTER the later 20th and 21st century novels in the same universe). Stephenson wrote his modern novels on a Mac, later OSX, an UNIX derivative, ergo his universe is written in a Unixverse.
 
-Also, in an article in the Guardian, Thursday November 4, 2004, [http://www.guardian.co.uk/online/news/0,12597,1343417,00.html](/http-www-guardian-co-uk-online-news-0-12597-1343417-00-html), Stephenson says: The way I actually produced the Baroque Cycle novels was markedly low-tech and disorderly: writing them with a pen on paper and keeping track of all of my notes in notebooks with no indexing system. Compare with Enoch Root to Ben Franklin and Godfrey Waterhouse in th opening chapter of Quiksilver: the way I remember things is most disorderly. 
+Also, in an article in the Guardian, Thursday November 4, 2004, [http://www.guardian.co.uk/online/news/0,12597,1343417,00.html](http://www.guardian.co.uk/online-news-0-12597-1343417-00.html), Stephenson says: The way I actually produced the Baroque Cycle novels was markedly low-tech and disorderly: writing them with a pen on paper and keeping track of all of my notes in notebooks with no indexing system. Compare with Enoch Root to Ben Franklin and Godfrey Waterhouse in th opening chapter of Quiksilver: the way I remember things is most disorderly. 
 
 This literary device is not new. Heinlein used both Jubal Harshaw and Lazarus Long to be the voice of the author (Lazarus being immortal much like Enoch Root). Heinlein even posited that universes were created by the acts of their authors (see Number of the Beast). Stephenson has even stated that to "state what Enoch Root is would destroy his purpose."
 
@@ -228,7 +228,7 @@ Who is Enoch? He is Neal Stephenson (or his alter ego).
 #### Johann Faust and John Dee:
 
 
-(I'm a little surprised this isn't mentioned yet...) The Enoch Root of Quicksilver seems connected to the legends of Johann Faust (a real character, fictionalised by Marlowe, Goethe and others). Marlowe's Faust was based on a [chapbook](/http-lettersfromthedustbowl-com-fbk1-html) description, and also on [John Dee](/http-en-wikipedia-org-wiki-john-dee), alchemist to Queen Mary and Elizabeth I, whose name means John *Black*. Dee promoted the idea of a *National Library* (as Enoch does throughout Quicksilver), travelled the courts of europe meeting the great minds of his day, and he also claimed to have been dictated books by angels in the *Enochian* language. John Dee seems to be a clear inspiration for the Enoch of Quicksilver, but his longevity may be another Faust connection: the contract of Goethe's Faust means he cannot die until he is satisfied with the state of the world. A perhaps more convincing 'Red/Rood/Root' connection with Dee is his association with the Rosicrucian order of alchemists ('Rose Cross').
+(I'm a little surprised this isn't mentioned yet...) The Enoch Root of Quicksilver seems connected to the legends of Johann Faust (a real character, fictionalised by Marlowe, Goethe and others). Marlowe's Faust was based on a [chapbook](http://lettersfromthedustbowl.com/fbk1.html) description, and also on [John Dee](https://en.wikipedia.org/wiki/john-dee), alchemist to Queen Mary and Elizabeth I, whose name means John *Black*. Dee promoted the idea of a *National Library* (as Enoch does throughout Quicksilver), travelled the courts of europe meeting the great minds of his day, and he also claimed to have been dictated books by angels in the *Enochian* language. John Dee seems to be a clear inspiration for the Enoch of Quicksilver, but his longevity may be another Faust connection: the contract of Goethe's Faust means he cannot die until he is satisfied with the state of the world. A perhaps more convincing 'Red/Rood/Root' connection with Dee is his association with the Rosicrucian order of alchemists ('Rose Cross').
 
 #### The Wandering Jew
 
@@ -338,29 +338,29 @@ While the skill and cunning of many of Stephenson's characters is clearly a bit 
 **A better question?**
 * [Robert Hooke](/robert-hooke) - promised [Daniel Waterhouse](/daniel-waterhouse) such a pearl.
 * **[Wikipedia: Cryptonomicon](/)**
-* **[What civilian spotters watched out for](/http-world-std-com-ted7-minorafp-htm)**
-* **[See the DC Comics WW2 Heroes as GI Joes](/http-www-wishbooktoys-com-dc)** - Easy Co.'s Wildman especially
+* **[What civilian spotters watched out for](http://world.std.com/ted7-minorafp.htm)**
+* **[See the DC Comics WW2 Heroes as GI Joes](http://www.wishbooktoys.com/dc)** - Easy Co.'s Wildman especially
 * [ISBN 0156029065](/) Baudolino by Umberto Eco (Author), William Weaver (Translator) Harvest Books; (October 6, 2003) - feautures Frederic Barbarossa
-* [Senjou no Merii Kurisumas](/http-us-imdb-com-title-tt0085933) - is where the padre image originated as Bowie's Maj. Jack 'Strafer' Celliers...
-* [Enochian alphabet](/http-www-omniglot-com-writing-enochian-htm) at [Omniglot](/http-www-omniglot-com)
+* [Senjou no Merii Kurisumas](http://us.imdb.com/title-tt0085933) - is where the padre image originated as Bowie's Maj. Jack 'Strafer' Celliers...
+* [Enochian alphabet](http://www.omniglot.com/writing-enochian.htm) at [Omniglot](http://www.omniglot.com)
 * Cafe au Lait
-	+ [What's up with Enoch Root?](/http-www-cafeaulait-org-cryptonomicon-html) - lots of spoilers here, covering Cryptonomicon and just a tiny bit of Quicksilver
-	+ [What's up with Enoch Root part II? More on the Mystery of Root!](/http-www-cafeaulait-org-baroquecycle-html) - covering Quicksilver and The Confusion
-	+ [What's up with Enoch Root III?](/http-www-cafeaulait-org-systemoftheworld-html) - covering The System of the World
+	+ [What's up with Enoch Root?](http://www.cafeaulait.org/cryptonomicon.html) - lots of spoilers here, covering Cryptonomicon and just a tiny bit of Quicksilver
+	+ [What's up with Enoch Root part II? More on the Mystery of Root!](http://www.cafeaulait.org/baroquecycle.html) - covering Quicksilver and The Confusion
+	+ [What's up with Enoch Root III?](http://www.cafeaulait.org/systemoftheworld.html) - covering The System of the World
 
 
 #### Sleeping Heroes:
 
 
-* [Frederick Barbarossa](/http-en-wikipedia-org-wiki-frederick-barbarossa) (probably the original) (Germany)
-* [Henry the Fowler](/http-en-wikipedia-org-wiki-henry-the-fowler) (Germany)
-* [Charlemagne](/http-en-wikipedia-org-wiki-charlemagne) (Germany, France)
-* [William Tell](/http-en-wikipedia-org-wiki-william-tell) (Switzerland)
-* [King Arthur](/http-en-wikipedia-org-wiki-king-arthur) (England, Wales)
-* Sir [Francis Drake](/http-en-wikipedia-org-wiki-francis-drake) (England)
-* [Ogier the Dane](/http-en-wikipedia-org-wiki-ogier-the-dane) (Denmark)
-* [Wenceslas](/http-en-wikipedia-org-wiki-wenceslas) or Vaclav (Czech Republic)
-* [Theodore Roosevelt](/http-en-wikipedia-org-wiki-theodore-roosevelt) (United States)
-* An unnamed giant is supposed to sleep in Plynlimmon in [Wales](/http-en-wikipedia-org-wiki-wales).
-* [Seven Sleepers](/http-en-wikipedia-org-wiki-seven-sleepers)
-* [Rip van Winkle](/http-en-wikipedia-org-wiki-rip-van-winkle)
+* [Frederick Barbarossa](https://en.wikipedia.org/wiki/frederick-barbarossa) (probably the original) (Germany)
+* [Henry the Fowler](https://en.wikipedia.org/wiki/henry-the-fowler) (Germany)
+* [Charlemagne](https://en.wikipedia.org/wiki/charlemagne) (Germany, France)
+* [William Tell](https://en.wikipedia.org/wiki/william-tell) (Switzerland)
+* [King Arthur](https://en.wikipedia.org/wiki/king-arthur) (England, Wales)
+* Sir [Francis Drake](https://en.wikipedia.org/wiki/francis-drake) (England)
+* [Ogier the Dane](https://en.wikipedia.org/wiki/ogier-the-dane) (Denmark)
+* [Wenceslas](https://en.wikipedia.org/wiki/wenceslas) or Vaclav (Czech Republic)
+* [Theodore Roosevelt](https://en.wikipedia.org/wiki/theodore-roosevelt) (United States)
+* An unnamed giant is supposed to sleep in Plynlimmon in [Wales](https://en.wikipedia.org/wiki/wales).
+* [Seven Sleepers](https://en.wikipedia.org/wiki/seven-sleepers)
+* [Rip van Winkle](https://en.wikipedia.org/wiki/rip-van-winkle)

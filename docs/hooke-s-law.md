@@ -28,4 +28,4 @@ This was apparently a common contemporary way of establishing priority in scient
 #### External links
 
 
-* [http://scienceworld.wolfram.com/physics/HookesLaw.html](/http-scienceworld-wolfram-com-physics-hookeslaw-html)
+* [http://scienceworld.wolfram.com/physics/HookesLaw.html](http://scienceworld.wolfram.com/physics-hookeslaw.html)

@@ -89,10 +89,10 @@ G.D.Fahrenheit / R.-A.F.de Réaumur / A. Celsius by Horst Kant, 1984.
 
 
 * c. 1714 Gabriel Fahrenheit introduces the [mercury](/quicksilver-or-mercury) thermometer and his new scale of temperature.
-* 1. [TEMPERATURE](/http-www-kooltrak-com-data-loggers-temperature-html)
-* 2 [Below Absolute Zero - What Does Negative Temperature Mean?](/http-math-ucr-edu-home-baez-physics-particleandnuclear-neg-temperature-html)
+* 1. [TEMPERATURE](http://www.kooltrak.com/data-loggers-temperature.html)
+* 2 [Below Absolute Zero - What Does Negative Temperature Mean?](http://math.ucr.edu/home-baez-physics-particleandnuclear-neg-temperature.html)
 * 3. [Was there a Little Ice Age and a Medieval Warm Period?"](/http-www-grida-no-climate-ipcc-tar-wg1-070-htm)
 * 4. [Variations of the Earths surface temperature](/http-www-grida-no-climate-ipcc-tar-wg1-figspm-1-htm)
-* [color temperature](/http-en2-wikipedia-org-wiki-color-temperature)
-* [Timeline of temperature and pressure measurement technology](/http-en-wikipedia-org-wiki-timeline-of-temperature-and-pressure-measurement-technology)
-* [Planck temperature](/http-en-wikipedia-org-wiki-natural-units)
+* [color temperature](https://en.wikipedia.org/wiki/color-temperature)
+* [Timeline of temperature and pressure measurement technology](https://en.wikipedia.org/wiki/timeline-of-temperature-and-pressure-measurement-technology)
+* [Planck temperature](https://en.wikipedia.org/wiki/natural-units)

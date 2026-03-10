@@ -74,4 +74,4 @@ The breed was named in the 18th century after Dalmatia, a region of modern Croat
 ### External links
 
 
-* [Wikipedia: Firefighter](/http-en-wikipedia-org-wiki-firefighter)
+* [Wikipedia: Firefighter](https://en.wikipedia.org/wiki/firefighter)

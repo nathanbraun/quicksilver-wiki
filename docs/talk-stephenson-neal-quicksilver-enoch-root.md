@@ -33,18 +33,18 @@ Given that Cryptonomicon stands sort of apart from the Baroque Cycle, is it wort
 
 
  Any mention of Doctor Dee's Enochian Alphabet yet? 
-* [http://www.omniglot.com/writing/enochian.htm](/http-www-omniglot-com-writing-enochian-htm) -- [Sparky](/user-stsparky)
+* [http://www.omniglot.com/writing/enochian.htm](http://www.omniglot.com/writing-enochian.htm) -- [Sparky](/user-stsparky)
 
  BTW - Barbarossa or "Redbeard" (c. 1465-1546): Raised on Lesbos, he moved to Djerba with his three brothers when their father died. Scorning both the weakness of the Muslim rulers and the presence of Iberian invaders in North Africa, the brothers undertook a campaign of brutal piracy. They formed a principality on Djidjelli, but Spain captured their land in 1518. Barbarossa, now the head of the family, was saved from annihilation by the sultan of Turkey, and for the rest of his life he worked for the sultan. He conquered Tunis for the Ottomans (1534) and permanently loosened Spain's grip on North Africa. 
-* [Barbary Pirates](/http-www-ku-edu-history-index-europe-ancient-rome-e-gazetteer-topics-history-american-and-military-barbary-pirates-britannica-1911-html) [Sparky](/user-stsparky) 06:46, 27 Oct 2003 (PST)
+* [Barbary Pirates](http://www.ku.edu/history-index-europe-ancient-rome-e-gazetteer-topics-history-american-and-military-barbary-pirates-britannica-1911.html) [Sparky](/user-stsparky) 06:46, 27 Oct 2003 (PST)
 
  And we all know that the color 'red' sounds like 'root' in Germanic languages. [Sparky](/user-stsparky) 06:46, 27 Oct 2003 (PST)
 
  Slight correction - the color red in German is spelled 'Rot' and pronounced like the English word 'rote'. The double 'o' phoneme is pronounced like an English long 'oh' sound as in the word Boot, meaning 'boat' and pronounced the same as the English word. Ergo, although incorrect, the word 'Rot' can be spelled 'Root' without losing its pronunciation or meaning
 
- [http://en.wikipedia.org/wiki/Frederick\_I,\_Holy\_Roman\_Emperor](/http-en-wikipedia-org-wiki-frederick_i-_holy_roman_emperor) *leads us to*  
+ [http://en.wikipedia.org/wiki/Frederick\_I,\_Holy\_Roman\_Emperor](https://en.wikipedia.org/wiki/frederick_i-_holy_roman_emperor) *leads us to*  
 
- [http://en.wikipedia.org/wiki/Sleeping\_hero](/http-en-wikipedia-org-wiki-sleeping_hero)  
+ [http://en.wikipedia.org/wiki/Sleeping\_hero](https://en.wikipedia.org/wiki/sleeping_hero)  
 
 
 [![PossERootminiMW.jpg](/web/20060725222906im_/http://www.metaweb.com/wiki/upload/6/68/PossERootminiMW.jpg)](posserootminimw-jpg)  
@@ -111,7 +111,7 @@ Most Shaftoes' faults aren't as interesting as Enoch's — perhaps? -- [Sparky](
 ---
 
 
-[JAVA Cafe au Lait Summation](/http-www-cafeaulait-org-cryptonomicon-html):
+[JAVA Cafe au Lait Summation](http://www.cafeaulait.org/cryptonomicon.html):
 * [Isaac Newton](/isaac-newton) invents [calculus](/calculus), governments rise, governments fall, a few small wars take place mostly off camera, and the beginnings of the modern stock markets get going in Amsterdam and [London](/london).
 * The one notable exception is the middle third of the book, the rather picaresque adventures of one [Jack Shaftoe](/jack-shaftoe).
 * [Enoch Root](/enoch-root) shows up at several times and locations throughout the book. He does seem to have an interest in [alchemy](/alchemy), at least in its more chemical, less mystical form. At one point late in the novel he does provide some medicine for one character, but it's not the magic cure-all he's toting around in [Cryptonomicon](/cryptonomicon), just a mild anaesthetic. Whatever's in the cigar box, he doesn't appear to have it in the 17th century.
@@ -183,8 +183,8 @@ war, he got a job as a combat photographer
 
 for the Australian army.
 (George Silk / AP)
-1. [AP WWII photog George Silk](/http-www-latimes-com-news-obituaries-la-me-silk28oct28-1-2361950-print-story-coll-la-news-obituaries) - especially his New Guinea pictures.
-2. [Yo-yo king Bill Liebowitz](/http-www-latimes-com-news-obituaries-la-me-liebowitz29oct29-1-4264846-print-story-coll-la-news-obituaries)
+1. [AP WWII photog George Silk](http://www.latimes.com/news-obituaries-la-me-silk28oct28-1-2361950-print-story-coll-la-news-obituaries) - especially his New Guinea pictures.
+2. [Yo-yo king Bill Liebowitz](http://www.latimes.com/news-obituaries-la-me-liebowitz29oct29-1-4264846-print-story-coll-la-news-obituaries)
 
 
 
@@ -192,7 +192,7 @@ for the Australian army.
 ---
 
 
-Being unused to this wiki, I'd added the John Dee connection to the page without spotting this discussion... oh well. It may also be of interest given some of the above discussion that *Ignoti et quasi occulti in hoc mundo* is in fact the motto of the [Society of Mary](/http-www-newadvent-org-cathen-09750b-htm), a Catholic order that did missionary work in the South Seas.
+Being unused to this wiki, I'd added the John Dee connection to the page without spotting this discussion... oh well. It may also be of interest given some of the above discussion that *Ignoti et quasi occulti in hoc mundo* is in fact the motto of the [Society of Mary](http://www.newadvent.org/cathen-09750b.htm), a Catholic order that did missionary work in the South Seas.
 1. Also not mentioned here: the 'mark of Cain' is supposedly red hair, so presumably the first Enoch was a redhead. Also - the Solomon references - isn't it easier to link Root to King David (a redhead, root of the house?).
 2. My own opinion is that he's just the author-as-deus-ex-machina, hence his existence outside time, but the Quicksilver characters perception of him has been based on John Dee. -- BrianEwins
 

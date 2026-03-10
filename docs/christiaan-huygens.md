@@ -40,7 +40,7 @@ In 1675, Christian Huygens patented a pocket watch.
 
 Huygens moved back to The Hague in 1681 after serious illness and died there 14 years later on July 8, 1695. 
 
-### [Cassini-Huygens](/http-saturn-jpl-nasa-gov-operations-present-position-cfm)
+### [Cassini-Huygens](http://saturn.jpl.nasa.gov/operations-present-position-cfm)
 
 
 The lander for the Saturn moon Titan that is part of the Cassini probe was named after Huygens. The Huygens probe, supplied by the European Space Agency (ESA) and named after the Dutch 17th century astronomer Christiaan Huygens, successfully scrutinized the clouds, atmosphere, and surface of Saturn's moon Titan. It was designed to enter and brake in Titan's atmosphere and parachute a fully instrumented robotic laboratory down to the surface. The Huygens probe system consists of the probe itself, which descended to Titan, and the probe support equipment (PSE), which remained attached to the orbiting spacecraft. The PSE includes the electronics necessary to track the probe, to recover the data gathered during its descent, and to process and deliver the data to the orbiter, from which it was transmitted or "downlinked" back to Earth (although due to technical problems, some of the data had to be recovered directly from Huygens by Earth-based radio telescopes). Cassini-Huygens is an international collaboration between three space agencies. Seventeen nations contributed to building the spacecraft. The Cassini orbiter was built and managed by NASA's Jet Propulsion Laboratory. The Huygens probe was built by the European Space Agency. The Italian Space agency provided Cassini's high-gain communication antenna. More than 200 scientists worldwide are studying the data collected. 
@@ -72,7 +72,7 @@ The main mission phase was the parachute descent through Titan's atmosphere. The
 ### External links
 
 
-* [Christiaan Huygens](/http-en-wikipedia-org-wiki-christian-huygens) Wikipedia entry
-* [Cassini-Huygens Mission to Saturn Overview](/http-saturn-jpl-nasa-gov-overview-index-cfm)
-* [Final approach for NASA's Saturn probe](/http-www-msnbc-msn-com-id-5131004) Cassini-Huygens zooms toward June 30 encounter
-* [More on Cassini](/http-www-msnbc-msn-com-id-5183503)
+* [Christiaan Huygens](https://en.wikipedia.org/wiki/christian-huygens) Wikipedia entry
+* [Cassini-Huygens Mission to Saturn Overview](http://saturn.jpl.nasa.gov/overview-index-cfm)
+* [Final approach for NASA's Saturn probe](http://www.msnbc.msn.com/id-5131004) Cassini-Huygens zooms toward June 30 encounter
+* [More on Cassini](http://www.msnbc.msn.com/id-5183503)

@@ -64,7 +64,7 @@ Sir Isaac Newton was a very popular visitor at the court of [George I](/george-i
 ### External links
 
 
-* **[Dava Sobel's Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time](/http-www-amazon-com-exec-obidos-tg-detail-0140258795-qid-1071050236-sr-1-2-ref-sr-1-2-002-8705843-0436068-v-glance-s-books)**
-* **[Newton & Longitude](/http-en-wikipedia-org-wiki-isaac-newton-s-later-life-the-longitude-problem)**
-* **[English attack on the Longitude Problem](/http-www-history-mcs-st-andrews-ac-uk-history-histtopics-longitude2-html-16)**
-* **[Isaac Newton's 1702 Lunar Theory](/http-www-ucl-ac-uk-sts-nk-ntn-htm)** -A Forgotten Solution to the Longitude Problem
+* **[Dava Sobel's Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time](http://www.amazon.com/exec-obidos-tg-detail-0140258795-qid-1071050236-sr-1-2-ref-sr-1-2-002-8705843-0436068-v-glance-s-books)**
+* **[Newton & Longitude](https://en.wikipedia.org/wiki/isaac-newton-s-later-life-the-longitude-problem)**
+* **[English attack on the Longitude Problem](http://www.history.mcs.st.andrews.ac.uk/history-histtopics-longitude2-html-16)**
+* **[Isaac Newton's 1702 Lunar Theory](http://www.ucl.ac.uk/sts-nk-ntn.htm)** -A Forgotten Solution to the Longitude Problem

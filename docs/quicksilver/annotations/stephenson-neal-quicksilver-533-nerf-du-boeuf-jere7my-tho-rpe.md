@@ -9,5 +9,5 @@ From the Quicksilver Metaweb.
 
 
 * [Non-Asian weapons, fencing and fighting methods](/http-www-etp-phys-tue-nl-bertus-schermen-types-htm), a marvelous list of fighting implements
-* [pizzle](/http-dictionary-reference-com-search-db-q-pizzle) dictionary.com
-* [The Phallus Palace: Sigurdur Hjartarson's Icelandic penis museum caters to travelers with a penchant for the unusual](/http-www-time-com-time-europe-webonly-europe-2000-08-penis-html) *Time* magazine
+* [pizzle](http://dictionary.reference.com/search-db-q-pizzle) dictionary.com
+* [The Phallus Palace: Sigurdur Hjartarson's Icelandic penis museum caters to travelers with a penchant for the unusual](http://www.time.com/time-europe-webonly-europe-2000-08-penis.html) *Time* magazine

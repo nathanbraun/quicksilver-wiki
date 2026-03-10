@@ -83,7 +83,7 @@ The first article in 1905, named "On the Motion - Required by the Molecular Kine
 
 Before this paper, atoms were recognized as a useful concept, but physicists and chemists hotly debated the question of whether atoms were real things. Einstein's statistical discussion of atomic behavior gave experimentalists a way to count atoms by looking through an ordinary microscope. Wilhelm Ostwald, one of the leaders of the anti-atom school, later told Arnold Sommerfeld that he had been converted to a belief in atoms by Einstein's complete explanation of Brownian motion.
 
-#### [Photoelectric effect](/http-en-wikipedia-org-wiki-photoelectric-effect)
+#### [Photoelectric effect](https://en.wikipedia.org/wiki/photoelectric-effect)
 
 
 The second paper, named "On a Heuristic Viewpoint Concerning the Production and Transformation of Light", proposed the idea of "light quanta" (now called photons) and showed how they could be used to explain such phenomena as the photoelectric effect. The idea of light quanta was motivated by Max Planck's earlier derivation of the law of blackbody radiation by assuming that luminous energy could only be absorbed or emitted in discrete amounts, called quanta. Einstein showed that, by assuming that light actually consisted of discrete packets, he could explain the mysterious photoelectric effect. 
@@ -92,12 +92,12 @@ The idea of light quanta contradicted the wave theory of light that followed nat
 
 The theory of light quanta was a strong indication of wave-particle duality, the concept that physical systems can display both wave-like and particle-like properties, and that was used as a fundamental principle by the creators of quantum mechanics. A complete picture of the photoelectric effect was only obtained after the maturity of quantum mechanics. 
 
-#### [Special relativity](/http-en-wikipedia-org-wiki-special-relativity)
+#### [Special relativity](https://en.wikipedia.org/wiki/special-relativity)
 
 
-Einstein's third paper that year was called "On the Electrodynamics of Moving Bodies". While developing this paper, Einstein wrote to Mileva about "our work on relative motion". This paper introduced the special theory of relativity, a theory of time, distance, mass and energy (which was consistent with electromagnetism, but omitted the force of gravity). Special relativity solved the puzzle that had been apparent since the Michelson-Morley experiment, which had shown that light waves could not be travelling through any medium (other known waves travelled through media - such as water or air). The speed of light was thus fixed, and not relative to the movement of the observer. This was impossible under [Newtonian](/isaac-newton) [classical mechanics](/http-en2-wikipedia-org-wiki-classical-mechanics). 
+Einstein's third paper that year was called "On the Electrodynamics of Moving Bodies". While developing this paper, Einstein wrote to Mileva about "our work on relative motion". This paper introduced the special theory of relativity, a theory of time, distance, mass and energy (which was consistent with electromagnetism, but omitted the force of gravity). Special relativity solved the puzzle that had been apparent since the Michelson-Morley experiment, which had shown that light waves could not be travelling through any medium (other known waves travelled through media - such as water or air). The speed of light was thus fixed, and not relative to the movement of the observer. This was impossible under [Newtonian](/isaac-newton) [classical mechanics](https://en.wikipedia.org/wiki/classical-mechanics). 
 
-Some of the paper's core mathematical ideas -- the [Lorentz transforms](/http-en2-wikipedia-org-wiki-lorentz-transformation) -- had been introduced a year earlier by the Dutch physicist [Hendrik Lorentz](/http-en2-wikipedia-org-wiki-hendrik-lorentz), but Einstein showed how to understand these mathematical oddities. His explanation arose from two axioms: one was Galileo's old idea that the laws of nature should be the same for all observers that move with constant speed relative to each other; and the other was that the speed of light is the same for every observer. Special relativity had several striking consequences because the absolute concepts of time and size are rejected. The theory came to be called the "special theory of relativity" to distinguish it from his later theory of general relativity, which considers all observers to be equivalent.
+Some of the paper's core mathematical ideas -- the [Lorentz transforms](https://en.wikipedia.org/wiki/lorentz-transformation) -- had been introduced a year earlier by the Dutch physicist [Hendrik Lorentz](https://en.wikipedia.org/wiki/hendrik-lorentz), but Einstein showed how to understand these mathematical oddities. His explanation arose from two axioms: one was Galileo's old idea that the laws of nature should be the same for all observers that move with constant speed relative to each other; and the other was that the speed of light is the same for every observer. Special relativity had several striking consequences because the absolute concepts of time and size are rejected. The theory came to be called the "special theory of relativity" to distinguish it from his later theory of general relativity, which considers all observers to be equivalent.
 
 #### Energy equivalency
 
@@ -119,7 +119,7 @@ In 1914, just before the start of World War I, Einstein settled in Berlin. His p
 
 From 1914 to 1933 he served as director of Kaiser Wilhelm Institute for Physics in Berlin, and it was during this time he received his Nobel Prize.
 
-#### [General relativity](/http-en2-wikipedia-org-wiki-general-relativity)
+#### [General relativity](https://en.wikipedia.org/wiki/general-relativity)
 
 
 In November 1915, Einstein presented a series of lectures before the Prussian Academy of Sciences in which he described his theory of general relativity. The final lecture climaxed with his introduction of an equation that replaced Newton's law of gravity. This theory considered all observers to be equivalent, not only those moving at a uniform speed. In general relativity, gravity is no longer a force (as it was in Newton's law of gravity) but is a consequence of the curvature of space-time. The theory provided the foundation for the study of cosmology and gave scientists the tools for understanding many features of the universe that were not discovered until well after Einstein's death. General relativity becomes a method of perceiving all of physics. 
@@ -143,7 +143,7 @@ In 1924, Einstein received a short paper from a young Indian physicist named Sat
 #### Later years
 
 
-Einstein and former student Leo Szilard co-invented a unique type of refrigerator (usually called "The Einstein Refrigerator") in 1926. [[2]](/http-gtalumni-org-stayinformed-magazine-sum98-einsrefr-html) [[3]](/http-www-uspto-gov-web-offices-ac-ahrpa-opa-pulse-epulse-pulse01101-6-htm) On November 11, 1930, patent number US1781541 was awarded to Albert Einstein and Leo Szilard. The patent covered a thermodynamic refrigeration cycle providing cooling with no moving parts, at a constant pressure, with only heat as an input. The refrigeration cycle used ammonia, butane, and water. 
+Einstein and former student Leo Szilard co-invented a unique type of refrigerator (usually called "The Einstein Refrigerator") in 1926. [[2]](http://gtalumni.org/stayinformed-magazine-sum98-einsrefr.html) [[3]](http://www.uspto.gov/web-offices-ac-ahrpa-opa-pulse-epulse-pulse01101-6.htm) On November 11, 1930, patent number US1781541 was awarded to Albert Einstein and Leo Szilard. The patent covered a thermodynamic refrigeration cycle providing cooling with no moving parts, at a constant pressure, with only heat as an input. The refrigeration cycle used ammonia, butane, and water. 
 
 After Adolf Hitler came to power in 1933, Einstein was accused by the National Socialist regime of creating a "Jewish physics". Nazi physicists (notably including the Nobel laureate Johannes Stark) attempted to discredit his theories. Einstein fled to the United States. In 1935, Einstein was given permanent residency in the United States. He accepted a position at the Institute of Advanced Study in Princeton, New Jersey. He became an American citizen in 1940 (though maintaining possession of his Swiss citizenship). 
 
@@ -178,7 +178,7 @@ He died at Princeton in 1955, leaving the Generalized Theory of Gravitation unso
 #### Political views
 
 
-Einstein considered himself a pacifist [[4]](/http-www-amnh-org-exhibitions-einstein-peace-index-php) and humanitarian [[5]](/http-www-amnh-org-exhibitions-einstein-global-index-php). Einstein's views on other issues, including socialism, McCarthyism and racism, were controversial. ([Einstein on socialism](/http-en2-wikipedia-org-wiki-einstein-on-socialism)) 
+Einstein considered himself a pacifist [[4]](http://www.amnh.org/exhibitions-einstein-peace-index.php) and humanitarian [[5]](http://www.amnh.org/exhibitions-einstein-global-index.php). Einstein's views on other issues, including socialism, McCarthyism and racism, were controversial. ([Einstein on socialism](https://en.wikipedia.org/wiki/einstein-on-socialism)) 
 
 The American FBI kept a 1,427 page file on his activities and recommended that he be barred from immigrating to the United States under the Alien Exclusion Act, alleging that Einstein "believes in, advises, advocates, or teaches a doctrine which, in a legal sense, as held by the courts in other cases, 'would allow [anarchy](/anarchy) to stalk in unmolested' and result in 'government in name only'," among other charges. 
 
@@ -190,14 +190,14 @@ Albert Einstein was a supporter of Zionism and bequeathed his manuscripts to the
 
 Albert Einstein has become the subject of a number of novels, films and plays including:
 * Films
-	+ Nicolas Roeg's film, [Insignificance](/http-us-imdb-com-title-tt0089343) -- Four 1950's icons meet in the same hotel room and two of them discover more in common between them than they ever anticipate.
-	+ Fred Schepisi's film [I.Q.](/http-us-imdb-com-title-tt0110099) -- in which Albert Einstein plays Cupid to help a young man who's in love with Einstein's niece to catch her attention by pretending temporarily to be a great physicist.
-	+ Robert Wise's [The Day the Earth Stood Still](/http-us-imdb-com-title-tt0043456) -- has a stand-in for Einstein in Sam Jaffe's Prof. Jacob Barnhardt.
+	+ Nicolas Roeg's film, [Insignificance](http://us.imdb.com/title-tt0089343) -- Four 1950's icons meet in the same hotel room and two of them discover more in common between them than they ever anticipate.
+	+ Fred Schepisi's film [I.Q.](http://us.imdb.com/title-tt0110099) -- in which Albert Einstein plays Cupid to help a young man who's in love with Einstein's niece to catch her attention by pretending temporarily to be a great physicist.
+	+ Robert Wise's [The Day the Earth Stood Still](http://us.imdb.com/title-tt0043456) -- has a stand-in for Einstein in Sam Jaffe's Prof. Jacob Barnhardt.
 * Fiction
 	+ Alan Lightman's novel, Einstein's Dreams.
 	+ [Robert Anton Wilson](/robert-anton-wilson)'s Mask of the Illuminati has Einstein as Sherlock Holmes to James Joyce's Doctor Watson solving a mystery or two.
 * Comic Strips
-	+ *Lawrence Waterhouse associating Marine Raider Bobbie Shaftoe with Ally Opp* -- Time Travel Expert Doc Wonmug! [Alley Oop](/http-home-comcast-net-cjh5801-alley-htm)
+	+ *Lawrence Waterhouse associating Marine Raider Bobbie Shaftoe with Ally Opp* -- Time Travel Expert Doc Wonmug! [Alley Oop](http://home.comcast.net/cjh5801-alley.htm)
 * Opera
 	+ Philip Glass's groundbreaking 1976 opera Einstein on the Beach.
 
@@ -224,24 +224,24 @@ Albert Einstein has become the subject of a number of novels, films and plays in
 ### External Links, Resources, and References
 
 
-* S. Morgan Friedman, "[Albert Einstein Online](/http-www-westegg-com-einstein)" -- Comprehensive listing of online resources about Einstein.
-* [MacTutor Einstein History](/http-www-gap-dcs-st-and-ac-uk-history-mathematicians-einstein-html)
+* S. Morgan Friedman, "[Albert Einstein Online](http://www.westegg.com/einstein)" -- Comprehensive listing of online resources about Einstein.
+* [MacTutor Einstein History](http://www.gap.dcs.st.and.ac.uk/history-mathematicians-einstein.html)
 * [The Nobel Prize in Physics 1921](/http-www-nobel-se-physics-laureates-1921-press-html) - [Albert Einstein](/http-www-nobel-se-physics-laureates-1921-index-html)
-* [Theory of relativity](/http-www-muppetlabs-com-breadbox-txt-al-html) in 4-letter words or shorter.
-* [NOVA Einstein](/http-www-pbs-org-wgbh-nova-einstein)
+* [Theory of relativity](http://www.muppetlabs.com/breadbox-txt-al.html) in 4-letter words or shorter.
+* [NOVA Einstein](http://www.pbs.org/wgbh-nova-einstein)
 * [Juergen Schmidhuber's Einstein biographical highlights](/http-www-idsia-ch-juergen-einstein-html)
-* [Leibniz Series](/http-mathworld-wolfram-com-leibnizseries-html)
+* [Leibniz Series](http://mathworld.wolfram.com/leibnizseries.html)
 
 
 ### Archives
 
 
-* [Official Einstein Archives Online](/http-www-alberteinstein-info) -- 3000 documents
-* [Einstein Papers Project](/http-www-einstein-caltech-edu)
+* [Official Einstein Archives Online](http://www.alberteinstein.info) -- 3000 documents
+* [Einstein Papers Project](http://www.einstein.caltech.edu)
 * [Max Planck Institute's Living Einstein](/http-living-einstein-mpiwg-berlin-mpg-de-living-einstein)
-* [American Institute of Physics's Einstein](/http-www-aip-org-history-einstein-index-html)
-* [American Museum of Natural History's Einstein](/http-www-amnh-org-exhibitions-einstein-index-php)
-* [Albert Einstein Archive](/http-www-albert-einstein-org)
+* [American Institute of Physics's Einstein](http://www.aip.org/history-einstein-index.html)
+* [American Museum of Natural History's Einstein](http://www.amnh.org/exhibitions-einstein-index.php)
+* [Albert Einstein Archive](http://www.albert.einstein.org)
 
 
 ### Texts and Pictures
@@ -249,28 +249,28 @@ Albert Einstein has become the subject of a number of novels, films and plays in
 
 * Einstein, Albert, "*[On the Electrodynamics of Moving Bodies](/http-www-fourmilab-ch-etexts-einstein-specrel-www)*" Annalen der Physik. June 30, 1905
 * Einstein, Albert, "*[Does the Inertia of a Body Depend Upon Its Energy Content?](/http-www-fourmilab-ch-etexts-einstein-e-mc2-www)*". Annalen der Physik. September 27, 1905.
-* Einstein, Albert, "*[Inaugural Lecture to the Prussian Academy of Sciences](/http-alberteinstein-info-gallery-pdf-cp6doc3-english-pp16-18-pdf)*". 1914. [PDF]
-* [Relativity - The Special And General Theory](/http-www-ibiblio-org-gutenberg-authors-einstein-albert-1879-19-html) [Project Gutenberg E-text]
-* Einstein, Albert, "*[On the Generalized Theory of Gravitation](/http-www-alberteinstein-info-db-viewimage-do-documentid-34170-page-1)*". April, 1950.
+* Einstein, Albert, "*[Inaugural Lecture to the Prussian Academy of Sciences](http://alberteinstein.info/gallery-pdf-cp6doc3-english-pp16-18.pdf)*". 1914. [PDF]
+* [Relativity - The Special And General Theory](http://www.ibiblio.org/gutenberg-authors-einstein-albert-1879-19.html) [Project Gutenberg E-text]
+* Einstein, Albert, "*[On the Generalized Theory of Gravitation](http://www.alberteinstein.info/db-viewimage-do-documentid-34170-page-1)*". April, 1950.
 * [Einstein family pictures](/http-www-th-physik-uni-frankfurt-de-jr-physpiceinfam-html)
-* [PBS](/http-www-pbs-org)'s [Einstein's wife](/http-www-pbs-org-opb-einsteinswife) : Mileva Maric
-* [Albert Einstein images via Google](/http-images-google-com-images-q-albert-einstein)
+* [PBS](http://www.pbs.org)'s [Einstein's wife](http://www.pbs.org/opb-einsteinswife) : Mileva Maric
+* [Albert Einstein images via Google](http://images.google.com/images-q-albert-einstein)
 
 
 ### Government
 
 
-* [Einstein's letter to Roosevelt](/http-www-pbs-org-wgbh-amex-truman-psources-ps-einstein-html)
-* [FBI files](/http-foia-fbi-gov-einstein-htm) -- investigation regarding affiliation with the Communist Party
+* [Einstein's letter to Roosevelt](http://www.pbs.org/wgbh-amex-truman-psources-ps-einstein.html)
+* [FBI files](http://foia.fbi.gov/einstein.htm) -- investigation regarding affiliation with the Communist Party
 
 
 ### Quotes
 
 
 We should take care not to make the intellect our god; it has, of course, powerful muscles, but no personality.
-* Albert Einstein [Quotations](/http-quote-wikipedia-org-wiki-albert-einstein) (Wikiquote)
-* [Albert Einstein's Famous Quotes](/http-www-thinkexist-com-english-author-x-author-1082-1-htm)
-* Albert Einstein: [Famous Quotes](/http-www-some-guy-com-quotes-einstein-html)
+* Albert Einstein [Quotations](https://quote.wikipedia.org/wiki/albert-einstein) (Wikiquote)
+* [Albert Einstein's Famous Quotes](http://www.thinkexist.com/english-author-x-author-1082-1.htm)
+* Albert Einstein: [Famous Quotes](http://www.some.guy.com/quotes-einstein.html)
 
 
 ### Some Books by Albert Einstein

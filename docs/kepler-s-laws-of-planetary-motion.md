@@ -100,13 +100,13 @@ G = Gravitational constant
 ### External Links
 
 
-* [Interactive version of Euclid's Elements](/http-aleph0-clarku-edu-djoyce-java-elements-elements-html) - David E. Joyce
-* [Euclid's Elements](/http-www-headmap-org-unlearn-euclid-book1-def1-htm)
-* [Oliver Byrne's edition of the Elements of Euclid](/http-www-sunsite-ubc-ca-digitalmatharchive-euclid-byrne-html), published in 1847. These scanned images are presumably now available in the [public domain](/http-en-wikipedia-org-wiki-public-domain), although it would be polite to contact the site operator first
-* [a **ray**, or *half-line*](/http-en-wikipedia-org-wiki-ray)
-* [Non-Euclidean geometry](/http-en-wikipedia-org-wiki-non-euclidean-geometry)
-* [MacTutor Archive article on non-Euclidean geometry](/http-www-groups-dcs-st-and-ac-uk-history-histtopics-non-euclidean-geometry-html)
-* [Projective geometry](/http-en-wikipedia-org-wiki-projective-geometry)
-* [Spherical geometry](/http-en-wikipedia-org-wiki-spherical-geometry) - Spherical geometry has important practical uses in celestial navigation and astronomy .
-* [Taxicab geometry](/http-en-wikipedia-org-wiki-taxicab-geometry)
-* [Thought Experiments](/http-en2-wikipedia-org-wiki-thought-experiment)
+* [Interactive version of Euclid's Elements](http://aleph0.clarku.edu/djoyce-java-elements-elements.html) - David E. Joyce
+* [Euclid's Elements](http://www.headmap.org/unlearn-euclid-book1-def1.htm)
+* [Oliver Byrne's edition of the Elements of Euclid](/http-www-sunsite-ubc-ca-digitalmatharchive-euclid-byrne-html), published in 1847. These scanned images are presumably now available in the [public domain](https://en.wikipedia.org/wiki/public-domain), although it would be polite to contact the site operator first
+* [a **ray**, or *half-line*](https://en.wikipedia.org/wiki/ray)
+* [Non-Euclidean geometry](https://en.wikipedia.org/wiki/non-euclidean-geometry)
+* [MacTutor Archive article on non-Euclidean geometry](http://www.groups.dcs.st.and.ac.uk/history-histtopics-non-euclidean-geometry.html)
+* [Projective geometry](https://en.wikipedia.org/wiki/projective-geometry)
+* [Spherical geometry](https://en.wikipedia.org/wiki/spherical-geometry) - Spherical geometry has important practical uses in celestial navigation and astronomy .
+* [Taxicab geometry](https://en.wikipedia.org/wiki/taxicab-geometry)
+* [Thought Experiments](https://en.wikipedia.org/wiki/thought-experiment)

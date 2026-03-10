@@ -7,7 +7,7 @@ From the Quicksilver Metaweb.
 
 
 
-* **[Annotations.PDF](/http-www-frontier-iarc-uaf-edu-cswingle-baroque-cycle-annotations-pdf)**
+* **[Annotations.PDF](http://www.frontier.iarc.uaf.edu/cswingle-baroque-cycle-annotations.pdf)**
 
 
 * [Sparky's Book List](/sparky-s-book-list)
@@ -23,10 +23,10 @@ From the Quicksilver Metaweb.
 
 
 
-* Difference, if any, between a Stephenson [phyle](/phyle) and a [Metaweb:phyle](/metaweb-phyle), and comparing with related concepts elsewhere, e.g. [Consumerium concept of faction](/http-consumerium-org-wiki-wiki-phtml-title-faction), [OurAnswer.org's concept of faction](/http-ouranswer-org-wiki-index-php-ouranswer-faction), Wikipedia attempt at generic arbitrarion model without factions or phyles (failing badly, it seems), and [Recyclopedia](/recyclopedia)'s more anarchist "direct democracy with faction fallback"
+* Difference, if any, between a Stephenson [phyle](/phyle) and a [Metaweb:phyle](/metaweb-phyle), and comparing with related concepts elsewhere, e.g. [Consumerium concept of faction](http://consumerium.org/wiki-wiki-phtml-title-faction), [OurAnswer.org's concept of faction](http://ouranswer.org/wiki-index-php-ouranswer-faction), Wikipedia attempt at generic arbitrarion model without factions or phyles (failing badly, it seems), and [Recyclopedia](/recyclopedia)'s more anarchist "direct democracy with faction fallback"
 
 
-* Comparing [Metaweb:intermediate page](/metaweb-intermediate-page) format with related projects elsewhere, e.g. [Consumerium's format](/http-consumerium-org-wiki-wiki-phtml-title-consumerium-intermediate-page-format)
+* Comparing [Metaweb:intermediate page](/metaweb-intermediate-page) format with related projects elsewhere, e.g. [Consumerium's format](http://consumerium.org/wiki-wiki-phtml-title-consumerium-intermediate-page-format)
 
 
 
@@ -37,10 +37,10 @@ From the Quicksilver Metaweb.
 
 
 
-* Surveying alternate technologies to suck in intermediate pages and manage editing, which do more than [mediawiki](/mediawiki), but might require custom coding; Consider replacing mediawiki with the much more functional [GetWiki](/getwiki) - see [http://internet-encyclopedia.org/wiki.phtml?title=Wikinfo:GetWiki](/http-internet-encyclopedia-org-wiki-phtml-title-wikinfo-getwiki)
+* Surveying alternate technologies to suck in intermediate pages and manage editing, which do more than [mediawiki](/mediawiki), but might require custom coding; Consider replacing mediawiki with the much more functional [GetWiki](/getwiki) - see [http://internet-encyclopedia.org/wiki.phtml?title=Wikinfo:GetWiki](http://internet.encyclopedia.org/wiki-phtml-title-wikinfo-getwiki)
 
 
 * Making pages accessible from [mobile devices](/mobile-device), e.g. using [Python](/python) which is now supported by Nokia and PalmOS
 
 
-* Define some [Metaweb:public library](/metaweb-public-library) and [Metaweb:bookstore](/metaweb-bookstore) interfaces useful in these locations where people consult books and may have mobile devices on hand, or where computers may be accessible to provide additional information; Consider working more closely with [Consumerium](/http-consumerium-org-wiki) on such problems as [book buy](/http-consumerium-org-wiki-wiki-phtml-title-buy-book)ing, possibly extending them to support [Metaweb:public library](/metaweb-public-library) functions for books one is not about to buy, but is consulting or about to read.
+* Define some [Metaweb:public library](/metaweb-public-library) and [Metaweb:bookstore](/metaweb-bookstore) interfaces useful in these locations where people consult books and may have mobile devices on hand, or where computers may be accessible to provide additional information; Consider working more closely with [Consumerium](http://consumerium.org/wiki) on such problems as [book buy](http://consumerium.org/wiki-wiki-phtml-title-buy-book)ing, possibly extending them to support [Metaweb:public library](/metaweb-public-library) functions for books one is not about to buy, but is consulting or about to read.

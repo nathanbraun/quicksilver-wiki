@@ -85,4 +85,4 @@ Boston's neighbor across the Charles River is a separate city. The areas you're 
 ### External links
 
 
-* **[MIT](/http-www-mit-edu)**
+* **[MIT](http://www.mit.edu)**

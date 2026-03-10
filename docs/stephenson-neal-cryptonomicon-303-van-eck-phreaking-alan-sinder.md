@@ -40,7 +40,7 @@ This [Cryptonomicon](/cryptonomicon) page is on Phreaking
 
 [Wim van Eck](/) was born in [Zeist](/) (Netherlands). He graduated from Twente University of Technology in 1981 on his research subject, "Automatic on-line Exercise Electrocardiography in patients unable to perform leg exercise." He was a member of the Bio-engineering Group of the Electronics Department of the TUT. In January 1982 he joined the Propagation and Electromagnetic Compatibility Department of Dr. Neher Laboratories of the Netherlands PTT. He was in charge of several EMC research projects, ranging from NEMP protection to emission and susceptibility aspects of telecommunications equipment.
 
-[This](/http-jya-com-emr-pdf) paper by van Eck describes the results of research into the possibility of 'eavesdropping' on video display units by picking up and decoding the electromagnetic interference produced by this type of equipment. During the research project, which started in 1983, it became more and more clear that this type of information theft can be committed very easily using a normal TV receiver.
+[This](http://jya.com/emr.pdf) paper by van Eck describes the results of research into the possibility of 'eavesdropping' on video display units by picking up and decoding the electromagnetic interference produced by this type of equipment. During the research project, which started in 1983, it became more and more clear that this type of information theft can be committed very easily using a normal TV receiver.
 
 Van Eck phreaking is a form of eavesdropping in which special equipment is used to pick up telecommunication signals or data within a computer device by monitoring and picking up the electromagnetic fields (EM fields) that are produced by the signals or movement of the data. This electromagnetic radiation is present in, and with the proper equipment, can be captured from computer displays that use cathode ray tubes (CRTs), from printers, and from other devices.
 
@@ -59,6 +59,6 @@ According to Eric Raymond's The New Hacker's Dictionary, phreaking was originall
 ### Links
 
 
-* [ELF White Paper](/http-jya-com-emr-pdf)
-* [Tempest in a Teapot?](/http-www-wired-com-news-politics-0-1283-32097-00-html)
+* [ELF White Paper](http://jya.com/emr.pdf)
+* [Tempest in a Teapot?](http://www.wired.com/news-politics-0-1283-32097-00.html)
 * [Alt-2600 FAQ](/http-project-cyberpunk-ru-idb-alt-2600-faq-html)

@@ -5,8 +5,17 @@ theme:
   features:
     - navigation.instant
     - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - search.highlight
+plugins:
+  - search
 markdown_extensions:
   - footnotes
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/nathanbraun/quicksilver-wiki
 nav: 
   - About: index.md
   - Quicksilver:

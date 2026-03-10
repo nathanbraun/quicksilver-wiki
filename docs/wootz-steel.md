@@ -37,4 +37,4 @@ Wootz steel was widely exported thoughout the region, and became particularly fa
 #### External links
 
 
-* [Wikipedia: Wootz Steel](/http-en-wikipedia-org-wiki-wootz-steel)
+* [Wikipedia: Wootz Steel](https://en.wikipedia.org/wiki/wootz-steel)

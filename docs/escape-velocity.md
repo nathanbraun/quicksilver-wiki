@@ -60,4 +60,4 @@ where *v**e* is the escape velocity, *G* is the *gravitational constant*, *M* is
 ### External links
 
 
-* [http://en2.wikipedia.org/wiki/Escape\_velocity](/http-en2-wikipedia-org-wiki-escape_velocity)
+* [http://en2.wikipedia.org/wiki/Escape\_velocity](https://en.wikipedia.org/wiki/escape_velocity)

@@ -35,4 +35,4 @@ Russian encroachments from the north led the shogunate to extend direct rule to 
 ### External links
 
 
-* [The Wikipedia entry for Japanese contact with the West](/http-en-wikipedia-org-wiki-history-of-japan-contact-with-the-west)
+* [The Wikipedia entry for Japanese contact with the West](https://en.wikipedia.org/wiki/history-of-japan-contact-with-the-west)

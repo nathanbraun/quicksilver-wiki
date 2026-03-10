@@ -14,7 +14,7 @@ continues to hold no matter how large the finite cardinal number n of terms in t
 
 The non-existence of nonzero infinitesimal real numbers follows from the least-upper-bound property of the real numbers, as follows. If nonzero infinitesimals exist, then the set of all of them has a least upper bound c. Either c is infinitesimal or it is not. If c is infinitesimal, then so is 2c, but that contradicts the fact that c is an upper bound of the set of all infinitesimals (unless c is 0, so that 2c is no bigger than c). If c is not infinitesimal, then neither is c/2, but that contradicts the fact that among all upper bounds, c is the least (unless c is 0, so that c/2 is no smaller than c). 
 
-[Archimedes](/archimedes) of [Syracuse](/http-en-wikipedia-org-wiki-syracuse) stated that for any two line segments, laying the shorter end-to-end only a finite number of times will always suffice to create a segment exceeding the longer of the two in length. Nonetheless, How Archimedes used infinitesimals in mathematical arguments, although he denied that those were finished mathematical proofs.
+[Archimedes](/archimedes) of [Syracuse](https://en.wikipedia.org/wiki/syracuse) stated that for any two line segments, laying the shorter end-to-end only a finite number of times will always suffice to create a segment exceeding the longer of the two in length. Nonetheless, How Archimedes used infinitesimals in mathematical arguments, although he denied that those were finished mathematical proofs.
 
 ### How Archimedes used infinitesimals
 
@@ -50,4 +50,4 @@ End-of-proof symbolism in the present day is often the symbol ■ (solid black s
 
 In Hong Kong, students jokingly reinterpret Q.E.D. as "Question Easy Done" (in Chinglish) after they finish a "difficult" mathematical proof in their schoolwork. 
 
-* Not to be confused with QED, the acronym for **[quantum electrodynamics](/http-www-vega-org-uk-series-lectures-feynman-index-html)**
+* Not to be confused with QED, the acronym for **[quantum electrodynamics](http://www.vega.org.uk/series-lectures-feynman-index.html)**

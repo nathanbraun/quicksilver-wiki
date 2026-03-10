@@ -52,4 +52,4 @@ this is a page for **nam-shubs**
 ### External links
 
 
-* [Nam-Shub of Enki: text](/http-www-piney-com-babnamshub-html)
+* [Nam-Shub of Enki: text](http://www.piney.com/babnamshub.html)

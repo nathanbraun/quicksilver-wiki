@@ -86,6 +86,6 @@ nice simulator so you can try it from your computer!
 #### External links
 
 
-* [Calculating the Center of Effort](/http-dragonflycanoe-com-stephens-sails-and-rigging-html)
-* [Basic Sail Trim](/http-www-sailingusa-info-sail-trim-htm)
-* [Sailing Trim Simulator](/http-www-nationalgeographic-com-volvooceanrace-interactives-sailing-index-html)
+* [Calculating the Center of Effort](http://dragonflycanoe.com/stephens-sails-and-rigging.html)
+* [Basic Sail Trim](http://www.sailingusa.info/sail-trim.htm)
+* [Sailing Trim Simulator](http://www.nationalgeographic.com/volvooceanrace-interactives-sailing-index.html)

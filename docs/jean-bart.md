@@ -20,7 +20,7 @@ This is [The Confusion](/the-confusion) page for **Jean Bart**
 * [Stephenson:Neal:Quicksilver:576:rotten fish (Neal Stephenson)](/stephenson-neal-quicksilver-576-rotten-fish-neal-stephenson)
 
 
-### [Wikipedia: Jean Bart](/http-en-wikipedia-org-wiki-jean-bart)
+### [Wikipedia: Jean Bart](https://en.wikipedia.org/wiki/jean-bart)
 
 
 **Jean Bart** (October 21, 1651 - April 27, 1702) was a French naval commander.![JbartMW.jpg](/images/JbartMW.jpg)  
@@ -68,13 +68,13 @@ Jean Bart's success was attributed to Dunkirk's numerous population of sailors w
 Jean Bart was rapidly promoted. In 1674, he got his own ship "le roi David" . Colbert soon noticed his successes in fighting heavily armed Dutch naval ships, and in bringing home Dutch merchant vessels with cargoes of cacao beans, timber, hides, coal, and wine. He married a local inn-keeper's daughter, had a son, François, and by the end of the war was Dunkirk's most celebrated corsair with 81 prizes and a victory at the Battle of the Texel (1674) to his credit. ![BattleOfTexelSmall.jpeg](/images/BattleOfTexelSmall.jpeg)  
 **The Battle at Texel  
 Willem van de Velde, 1683  
-[Click for a Larger Version](/http-en-wikipedia-org-upload-5-51-battleoftexel-jpeg)**
+[Click for a Larger Version](http://en.wikipedia.org/upload-5-51-battleoftexel-jpeg)**
 
 The naval **Battle of Texel** took place between the Dutch and the combined English and French fleets on August 11, 1673, and was the last major battle of the Third Anglo-Dutch War, which was itself part of the Franco-Dutch War (1672-1674), during which [Louis XIV](/louis-xiv) of France sought to establish control over the Spanish Netherlands. The English involvement came about because of treaty obligations and was highly unpopular. 
 
 The overall commanders of the English and Dutch military forces were James, Duke of York, afterwards King [James II](/james-ii) of England, and [William III](/william-iii) of Orange, James' son-in-law and also a future King of England. The Battle of Texel was joined when a Dutch fleet sought to oppose the landing of troops by a combined Anglo-French fleet. Both were future kings of England.
 
-[Prince Rupert](/http-en-wikipedia-org-wiki-prince-rupert-of-the-rhine) commanded the Allied fleet of about 92 ships and 30 fireships, taking control of the centre himself, with D'Estrees comanding the van, and Sir Edward Spragge the rear division. The Dutch fleet of 75 ships and 30 fireships was commanded by de Ruyter, with Banckerts in charge of the van and Tromp the rear. 
+[Prince Rupert](https://en.wikipedia.org/wiki/prince-rupert-of-the-rhine) commanded the Allied fleet of about 92 ships and 30 fireships, taking control of the centre himself, with D'Estrees comanding the van, and Sir Edward Spragge the rear division. The Dutch fleet of 75 ships and 30 fireships was commanded by de Ruyter, with Banckerts in charge of the van and Tromp the rear. 
 
 Although outnumbered, De Ruyter gained the weather gauge and sent his van under Banckerts in to separate the Allied van (under D'Estrees) from the main fleet. His ploy was effective, and the French ships were unable to play a significant part in the remainder of the battle, which became a gruelling encounter between the bulk of the Dutch fleet and the English centre and rear divisions. Both suffered badly during hours of fierce fighting. 
 
@@ -82,7 +82,7 @@ Spragge and Tromp, commanding their respective rear divisions, clashed repeatedy
 
 With both fleets exhausted, the English eventually abandoned their attempt to land troops, and both sides retired. No ship was sunk, but many were seriously damaged and about 3000 men died: two-thirds of them English or French. After the battle Prince Rupert complained that the French had not done their share of the fighting, but historians ascribe the lack of French impact on the battle to de Ruyter's brilliant fleet handling. Despite its inconclusive finish, the battle was a clear strategic victory for the Dutch. 
 
-In the months following, the Netherlands formed an alliance with Spain and the French withdrew. The war came to an end with the signing of the **Treaty of Westminster** between the English and the Dutch in 1674. It was the peace treaty that ended the [Third Anglo-Dutch War](/http-en-wikipedia-org-wiki-third-anglo-dutch-war). It was signed on February 19, 1674. It led to a restoration of the status quo ante bellum, including the return of New York and New Jersey to England. When the Dutch allied themselves with Spain - which was itself at war with the Netherlands until 1648 - France withdrew in 1673. England was also forced to sign the treaty as the parliament would not allow more money to be spent on the war.
+In the months following, the Netherlands formed an alliance with Spain and the French withdrew. The war came to an end with the signing of the **Treaty of Westminster** between the English and the Dutch in 1674. It was the peace treaty that ended the [Third Anglo-Dutch War](https://en.wikipedia.org/wiki/third-anglo-dutch-war). It was signed on February 19, 1674. It led to a restoration of the status quo ante bellum, including the return of New York and New Jersey to England. When the Dutch allied themselves with Spain - which was itself at war with the Netherlands until 1648 - France withdrew in 1673. England was also forced to sign the treaty as the parliament would not allow more money to be spent on the war.
 
 ### Fortifying the Corsairs' Base
 
@@ -110,7 +110,7 @@ With Dunkirk Highlighted**
 ### His Legacy
 
 
-Many anecdotes are narrated of the courage and bluntness of the uncultivated sailor, who became the popular hero of the French naval service.The spirit of Jean Bart and the corsairs lives on in Dunkirk. He is the town's local hero, with a statue in the main square. His body is buried in the nearby Eglise St. Eloi, whose belfry dates back to the 15th century. Participants in the town's boisterous carnival call themselves "the children of Jean Bart" and sing [Pirate](/pirates) songs every year. A WWII era french battleship was named after him and remained in service up to 1970. Currently one of France's most advanced frigates is named the [FS Jean Bart](/http-www-netmarine-net-bat-fregates-jeanbart-caracter-htm).
+Many anecdotes are narrated of the courage and bluntness of the uncultivated sailor, who became the popular hero of the French naval service.The spirit of Jean Bart and the corsairs lives on in Dunkirk. He is the town's local hero, with a statue in the main square. His body is buried in the nearby Eglise St. Eloi, whose belfry dates back to the 15th century. Participants in the town's boisterous carnival call themselves "the children of Jean Bart" and sing [Pirate](/pirates) songs every year. A WWII era french battleship was named after him and remained in service up to 1970. Currently one of France's most advanced frigates is named the [FS Jean Bart](http://www.netmarine.net/bat-fregates-jeanbart-caracter.htm).
 
 ### Related entries
 
@@ -139,7 +139,7 @@ Many anecdotes are narrated of the courage and bluntness of the uncultivated sai
 ### External links
 
 
-* [Jean Bart (in French / en Français)](/http-www-netmarine-net-bat-fregates-jeanbart-celebre-htm)
-* [The Battleship "JEAN BART" (1940) 1949-1970](/http-www-warship-get-net-pl-francja-battleships-1940-richelieu-class-jean-bart-photos-html)
-* [Treaty of Utrecht](/http-en-wikipedia-org-wiki-treaty-of-utrecht-1713)
-* [Prince Rupert](/http-en-wikipedia-org-wiki-prince-rupert-of-the-rhine)
+* [Jean Bart (in French / en Français)](http://www.netmarine.net/bat-fregates-jeanbart-celebre.htm)
+* [The Battleship "JEAN BART" (1940) 1949-1970](http://www.warship.get.net/pl-francja-battleships-1940-richelieu-class-jean-bart-photos.html)
+* [Treaty of Utrecht](https://en.wikipedia.org/wiki/treaty-of-utrecht-1713)
+* [Prince Rupert](https://en.wikipedia.org/wiki/prince-rupert-of-the-rhine)

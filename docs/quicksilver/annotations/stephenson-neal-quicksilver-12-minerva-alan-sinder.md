@@ -35,7 +35,7 @@ Primarily a prize for the shipping world, the Flute was an impressive 300 ton, 8
 
 One suspect the actual name of the van Hoek's ship would be the *Juffrouw Minerva*. And a Dutch designed ship would be bigger than the the British *La Concorde*. 
 
-A Dutch flute was a big ship for the time — 38 meters from stem to stern — a three-masted ship. This would make it one of the biggest merchant ships of the day. Typically, a flute would carry about 20 guns, to fight pirates with twice the number. (E.G. - The [Risdam](/http-college-hmco-com-history-readerscomp-ships-html-sh-076800-risdam-htm) and [Anne-Maria](/http-www-abc-se-pa-uwa-annamari-htm)) - First Dutch flute ships in Amsterdam designed circa the 1620s with approximatel dimensions of 121 feet * 31 feet (38.1 meters * 9.5 meters). 
+A Dutch flute was a big ship for the time — 38 meters from stem to stern — a three-masted ship. This would make it one of the biggest merchant ships of the day. Typically, a flute would carry about 20 guns, to fight pirates with twice the number. (E.G. - The [Risdam](http://college.hmco.com/history-readerscomp-ships-html-sh-076800-risdam.htm) and [Anne-Maria](/http-www-abc-se-pa-uwa-annamari-htm)) - First Dutch flute ships in Amsterdam designed circa the 1620s with approximatel dimensions of 121 feet * 31 feet (38.1 meters * 9.5 meters). 
 
 There are two ways to construct the planking of a wooden vessel. If the planks are laid flush at the seams, the vessel is carvel-built. If the planks overlap, the vessel is clinker-built. Most merchants would be carvel-built (karvel) — method of hull construction in which the longitudinal strakes forming the skin of the hull are flush at the edges. In carvel construction, the planks are fastened to a pre-erected frame. *Daniel the Royal Navy boffin hadn't mentioned which.*
 
@@ -86,9 +86,9 @@ But the ship designs were technologically advanced and desired by knowledgeable 
 ### External links
 
 
-* [Rubens link—search for Ruben](/http-www-nationalgallery-org-uk)
-* [Enoch Root explains Athena to Randy Waterhouse from "Cryptonomicon" excerpted from pages 804 through 807](/http-markpasc-org-blog-gems-athena-html)
-* [Queen Anne's Revenge](/http-www-unc-edu-depts-cmse-science-blackbeard-html)
-* [Risdam](/http-college-hmco-com-history-readerscomp-ships-html-sh-076800-risdam-htm)
+* [Rubens link—search for Ruben](http://www.nationalgallery.org/uk)
+* [Enoch Root explains Athena to Randy Waterhouse from "Cryptonomicon" excerpted from pages 804 through 807](http://markpasc.org/blog-gems-athena.html)
+* [Queen Anne's Revenge](http://www.unc.edu/depts-cmse-science-blackbeard.html)
+* [Risdam](http://college.hmco.com/history-readerscomp-ships-html-sh-076800-risdam.htm)
 * [Anne-Maria](/http-www-abc-se-pa-uwa-annamari-htm)
-* [Port Royal Game pieces](/http-www-ascaron-com-gb-gb-portroyale-gb-portroyale-schiffe-html)
+* [Port Royal Game pieces](http://www.ascaron.com/gb-gb-portroyale-gb-portroyale-schiffe.html)

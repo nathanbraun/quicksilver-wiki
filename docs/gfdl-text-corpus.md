@@ -16,13 +16,13 @@ Note also that there is a de facto [wikitext standard](/wikitext-standard) impos
 
 See [Metaweb:Projects](/metaweb-projects) for some suggestions as to how to better manage the **GFDL text corpus** and remove some of the idiosyncratic [wiki management](/wiki-management) problems that arise due to biases of Wikipedia and Disinfopedia.
 
-*More on these issues at [Consumerium: GFDL text corpus](/http-consumerium-org-wiki-wiki-phtml-title-gfdl-text-corpus).*
+*More on these issues at [Consumerium: GFDL text corpus](http://consumerium.org/wiki-wiki-phtml-title-gfdl-text-corpus).*
 
 ## WikiInfo: GNU Free Documentation License Text Corpus
 
 
 
-The **[GFDL text corpus](/http-internet-encyclopedia-org-wiki-phtml-title-gfdl-text-corpus)** is the body of all texts licensed under the GNU Free Documentation License. At present it consists of at least hundreds of thousands of general interest articles in dozens of languages. The number is many more than all other free documentation licenses combined, making this corpus a theoretical target for any wikitext standard, or markup management based on MediaWiki or GetWiki. 
+The **[GFDL text corpus](http://internet.encyclopedia.org/wiki-phtml-title-gfdl-text-corpus)** is the body of all texts licensed under the GNU Free Documentation License. At present it consists of at least hundreds of thousands of general interest articles in dozens of languages. The number is many more than all other free documentation licenses combined, making this corpus a theoretical target for any wikitext standard, or markup management based on MediaWiki or GetWiki. 
 
 The corpus is not coterminous with the texts and content presented by Wikimedia. Some web services use other software, such as GetWiki, while others plan to produce entirely different packages. There is disagreement on the problems of how to manage the corpus, especially given that different point of view rules are evolving. Text corpus management, web services management, nonprofit governance, wiki management, and wikitext standard issues are separate, but because of technological dependencies, are very often intertwined. 
 

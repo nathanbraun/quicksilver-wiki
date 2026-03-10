@@ -29,8 +29,8 @@ Because of its relative simplicity, kinematics is usually taught before dynamics
 ### External links
 
 
-* [http://en2.wikipedia.org/wiki/Equation\_of\_motion](/http-en2-wikipedia-org-wiki-equation_of_motion)
-* [http://en2.wikipedia.org/wiki/Mechanics](/http-en2-wikipedia-org-wiki-mechanics)
-* [http://en2.wikipedia.org/wiki/Motion](/http-en2-wikipedia-org-wiki-motion)
-* [http://en.wikipedia.org/wiki/Force\_(physics)](/http-en-wikipedia-org-wiki-force_-physics)
-* [http://en.wikipedia.org/wiki/Dynamics\_(mechanics)](/http-en-wikipedia-org-wiki-dynamics_-mechanics)
+* [http://en2.wikipedia.org/wiki/Equation\_of\_motion](https://en.wikipedia.org/wiki/equation_of_motion)
+* [http://en2.wikipedia.org/wiki/Mechanics](https://en.wikipedia.org/wiki/mechanics)
+* [http://en2.wikipedia.org/wiki/Motion](https://en.wikipedia.org/wiki/motion)
+* [http://en.wikipedia.org/wiki/Force\_(physics)](https://en.wikipedia.org/wiki/force_-physics)
+* [http://en.wikipedia.org/wiki/Dynamics\_(mechanics)](https://en.wikipedia.org/wiki/dynamics_-mechanics)

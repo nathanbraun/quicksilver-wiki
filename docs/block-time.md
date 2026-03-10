@@ -32,4 +32,4 @@ The concept of block time and the whole digital quality of quantum physics indic
 ### External links
 
 
-* 4D View of Time [http://plato.stanford.edu/entries/time/#8](/http-plato-stanford-edu-entries-time-8)
+* 4D View of Time [http://plato.stanford.edu/entries/time/#8](http://plato.stanford.edu/entries-time-8)

@@ -62,4 +62,4 @@ Look at the world, but don't experiment!, such was the view of the natural philo
 
 At the end of the scientific revolution the organic, quantitative world of book-reading philosophers had been changed into a mechanical, mathematical world to be known through experimental research. Though it is certainly not true that Newtonian science was like modern science in all respects, it closely resembled ours in many ways - much more so than the Aristotelian science of a century earlier. 
 
-grabbed from -- [Scientific Revolution](/http-en-wikipedia-org-wiki-scientific-revolution)
+grabbed from -- [Scientific Revolution](https://en.wikipedia.org/wiki/scientific-revolution)

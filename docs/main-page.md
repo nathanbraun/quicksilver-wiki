@@ -29,7 +29,7 @@ We are currently working on 1078 articles. See the community section at the bott
 *In the coming weeks, this site will be moving to a new name and, potentially, a new domain as well. The site name is changing from The Metaweb to the Quicksilver Wiki. I'll post updates on the move [here](/metaweb-site-renaming-patrick-tufts).*
 
 **[Photo annotations on Flickr (Patrick Tufts)](/photo-annotations-on-flickr-patrick-tufts)** by [Patrick Tufts](/user-patrick-tufts), 23 Feb 2006
- *[Flickr](/http-www-flickr-com) user [notlikecalvin](/http-www-flickr-com-photos-notlikecalvin) has made a photoset of [Tower of London](/tower-of-london) locations mentioned in [The System of the World](/stephenson-neal-the-system-of-the-world). [More inside](/photo-annotations-on-flickr-patrick-tufts)*
+ *[Flickr](http://www.flickr.com) user [notlikecalvin](http://www.flickr.com/photos-notlikecalvin) has made a photoset of [Tower of London](/tower-of-london) locations mentioned in [The System of the World](/stephenson-neal-the-system-of-the-world). [More inside](/photo-annotations-on-flickr-patrick-tufts)*
 
 **[Metaweb:Mo' Metaweb (Patrick Tufts)](/metaweb-mo-metaweb-patrick-tufts)** by [Patrick Tufts](/user-patrick-tufts), 3 Oct 2005
 *Wanted to give you an update on the site. AMI produced a database backup of the site which several active users are now looking at installing on another machine. There are no guarantees, but there are several efforts to bring this site back up elsewhere. It won't be called the Metaweb, but it will hopefully be running on a more modern version of MediaWiki.*
@@ -37,13 +37,13 @@ We are currently working on 1078 articles. See the community section at the bott
 **[So long, and thanks for all the fish](/metaweb-so-long-and-thanks-for-all-the-fish)** by [Patrick Tufts](/user-patrick-tufts), 13 Sep 2005
 *A few years ago, Applied Minds created this site with [User:Neal Stephenson](/user-neal-stephenson) to make a collaboratively edited collection of annotations, initially for Neal's book Quicksilver, and later, for other works as well. We called this site "The Quicksilver Metaweb."*
 
-*More recently, I and my co-workers at Applied Minds have begun a project called "The Metaweb" which bears little resemblance to this site. Applied Minds will soon remove the link from metaweb.com's front page to here. If you wish to reach this site, you will need to use the URL [www.metaweb.com/wiki/wiki.phtml?title=Main\_Page](/http-www-metaweb-com-wiki-wiki-phtml-title-main-page)* ... [more](/metaweb-so-long-and-thanks-for-all-the-fish)
+*More recently, I and my co-workers at Applied Minds have begun a project called "The Metaweb" which bears little resemblance to this site. Applied Minds will soon remove the link from metaweb.com's front page to here. If you wish to reach this site, you will need to use the URL [www.metaweb.com/wiki/wiki.phtml?title=Main\_Page](http://www.metaweb.com/wiki-wiki-phtml-title-main-page)* ... [more](/metaweb-so-long-and-thanks-for-all-the-fish)
 
 **[Discussion: Dealing with spam](/metaweb-spam-activity-jul-2005)** by [Patrick Tufts](/user-patrick-tufts), 21 Jul 2005
 *Death, taxes, and Wiki spam. The Metaweb is currently being "edited" by a persistent vandal. Come in to the discussion to organize a response.*
 
-**[Slashdot: Ask Neal Stephenson](/http-interviews-slashdot-org-article-pl-sid-04-10-20-1518217-tid-192-tid-214-tid-126-tid-11)** updated 20 Oct 2004
-*Slashdot readers posed a series of questions to Neal Stephenson to celebrate the completion of the [Baroque Cycle](/baroque-cycle) with the US publication of [The System of the World](/the-system-of-the-world) on September 21, 2004.*[Here are the top ones with Neal's answers.](/http-interviews-slashdot-org-article-pl-sid-04-10-20-1518217-tid-192-tid-214-tid-126-tid-11)
+**[Slashdot: Ask Neal Stephenson](http://interviews.slashdot.org/article-pl-sid-04-10-20-1518217-tid-192-tid-214-tid-126-tid-11)** updated 20 Oct 2004
+*Slashdot readers posed a series of questions to Neal Stephenson to celebrate the completion of the [Baroque Cycle](/baroque-cycle) with the US publication of [The System of the World](/the-system-of-the-world) on September 21, 2004.*[Here are the top ones with Neal's answers.](http://interviews.slashdot.org/article-pl-sid-04-10-20-1518217-tid-192-tid-214-tid-126-tid-11)
 
 **[The Confusion, p. 1, Giovanni Francesco Gemelli Careri](/stephenson-neal-the-confusion-1-giovanni-francesco-gemelli-careri-neal-stephenson)** by [Neal Stephenson](/user-neal-stephenson), 11 Aug 2004
 *Briefly, he was a Neapolitan lawyer who in the late 1690's circumnavigated the world eastwards ...*
@@ -67,7 +67,7 @@ We are currently working on 1078 articles. See the community section at the bott
 
 
 Starting Points
-[Index of all entries](/http-www-metaweb-com-wiki-wiki-phtml-title-special-allpages-from-1656) - [Quicksilver page annotations](/stephenson-neal-quicksilver-all-annotations-by-page-number) - [Dramatis Personæ](/stephenson-neal-quicksilver-list-of-people) - [Cryptosystems in Quicksilver](/stephenson-neal-quicksilver-cryptosystems) - [Scientific principles](/scientific-principles) - [Popular pages](/special-popularpages) - [Newly created entries](/special-newpages) - [Long entries](/special-longpages) - [Annotations of books other than Quicksilver](/annotations-of-books-other-than-quicksilver)
+[Index of all entries](http://www.metaweb.com/wiki-wiki-phtml-title-special-allpages-from-1656) - [Quicksilver page annotations](/stephenson-neal-quicksilver-all-annotations-by-page-number) - [Dramatis Personæ](/stephenson-neal-quicksilver-list-of-people) - [Cryptosystems in Quicksilver](/stephenson-neal-quicksilver-cryptosystems) - [Scientific principles](/scientific-principles) - [Popular pages](/special-popularpages) - [Newly created entries](/special-newpages) - [Long entries](/special-longpages) - [Annotations of books other than Quicksilver](/annotations-of-books-other-than-quicksilver)
 
  | Community
 

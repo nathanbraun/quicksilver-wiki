@@ -137,7 +137,7 @@ Note especially what is missing here from the full ISO-8859-1 set: The broken ba
 
 Special care should be taken with characters that do exist in the native character set of popular machines but not in the above set. These are not safe, even though they may display correctly to you when you use them. Characters from Windows code page 1252 not in ISO-8859-1 include the euro sign (`&euro;`), dagger and double dagger (`&dagger;, &Dagger;`), bullet (`&bull;`), trade mark sign (`&trade;`), typeset-style punctuation (see below), per mille sign (`&permil;`), some Eastern European caron-accented letters, and the oe ligatures. Characters from the Macintosh Roman set not in ISO-8859-1 include dagger and double dagger, bullet, trade mark sign, a few math symbols such as infinity (`&infin;`) and not equal (`&ne;`), a few commonly-used Greek letters such as pi (`&pi;`), ligatures like oe and fl, typeset-style punctuation, per mille sign, and lone accents such as the breve, [ogonek](/ogonek), and caron.
 
-[HTML 4.0](/http-www-w3-org-tr-html4) defines named character entities for some Latin characters not in ISO-8859-1 that are used by popular languages, such as OE ligature (`&OElig;, &oelig;`), uppercase Y with diaeresis (`&Yuml;`), and some Eastern European accented characters like `&scaron;`. These are also unsafe, though if they entered as HTML named character entity references, they may display on some machines.
+[HTML 4.0](http://www.w3.org/tr-html4) defines named character entities for some Latin characters not in ISO-8859-1 that are used by popular languages, such as OE ligature (`&OElig;, &oelig;`), uppercase Y with diaeresis (`&Yuml;`), and some Eastern European accented characters like `&scaron;`. These are also unsafe, though if they entered as HTML named character entity references, they may display on some machines.
 
 In short, don't assume that it is safe to use a special character just because it looks correct on your machine. Use the ones from the table above, and read and understand how to use others shown below.
 
@@ -247,7 +247,7 @@ These should be considered unsafe to use except perhaps on pages intended for a 
 ## Unicode
 
 
-The official [character set](/character-set) of [HTML 4.01](/http-www-w3-org-tr-html4-charset-html) is the [ISO 10646](/iso-10646) [Universal Character Set](/ucs), which is equivalent to the character set defined by [Unicode](/unicode).
+The official [character set](/character-set) of [HTML 4.01](http://www.w3.org/tr-html4-charset.html) is the [ISO 10646](/iso-10646) [Universal Character Set](/ucs), which is equivalent to the character set defined by [Unicode](/unicode).
 Many browsers, though, are only capable of displaying a small subset of the full UCS [repertoire](/repertoire).
 
 For example, the codes `&#1049; &#1511; &#1605;` display on your browser as **Й**, **ק**, and **م**, which ideally look like the [Cyrillic](/cyrillic-alphabet) letter "Short I", the [Hebrew](/hebrew-alphabet) letter "Qof", and the [Arabic](/arabic-alphabet) letter "Meem", respectively.
@@ -287,4 +287,4 @@ The Esperanto, Polish, Czech, Bosnian, Serb, Croat, Malayalam, Japanese, Chinese
 * delete the garbage and save (if you want to be sure, click "Show preview" again before you save).
 
 
-*This entry originally from the [Wikipedia](/http-www-wikipedia-org)*
+*This entry originally from the [Wikipedia](http://www.wikipedia.org)*

@@ -8,7 +8,7 @@ a stub for **Goto Dengo** (ゴト・デンゴ)
 ### Stephensonia
 
 
- ***[N.T.S](/user-nealstephenson)**. stated that he can not be sure, but **Goto Dengo's** eating of the Raw Shark on his swim to New Guinea may have been inspired by [Alan Moore](/http-en2-wikipedia-org-wiki-alan-moore)'s **[The Watchmen](/http-en2-wikipedia-org-wiki-watchmen)** comic, which he certainly read.* **Berkeley, California on September 25th, 2003, Book reading and signing at Cody's on Telegraph.** 
+ ***[N.T.S](/user-nealstephenson)**. stated that he can not be sure, but **Goto Dengo's** eating of the Raw Shark on his swim to New Guinea may have been inspired by [Alan Moore](https://en.wikipedia.org/wiki/alan-moore)'s **[The Watchmen](https://en.wikipedia.org/wiki/watchmen)** comic, which he certainly read.* **Berkeley, California on September 25th, 2003, Book reading and signing at Cody's on Telegraph.** 
 
 ### Authored entries
 
@@ -29,7 +29,7 @@ We first meet Dengo as an ex-miner become soldier *cum* poet unafraid of interac
 **Takara's Japanese WW2  
 Infantryman**
 
-[Cryptonominon Excerpt](/http-www-cryptonomicon-com-text-html):  The Bund is jammed with onlookers in a riot of differently colored clothing, so one patch of uniform drab catches his eye: a group of Nip soldiers who've come down to bid their Yank counterparts a sarcastic farewell. Shaftoe scans the group looking for someone tall and bulky, and picks him out easily. **Goto Dengo**'s waving to him.
+[Cryptonominon Excerpt](http://www.cryptonomicon.com/text.html):  The Bund is jammed with onlookers in a riot of differently colored clothing, so one patch of uniform drab catches his eye: a group of Nip soldiers who've come down to bid their Yank counterparts a sarcastic farewell. Shaftoe scans the group looking for someone tall and bulky, and picks him out easily. **Goto Dengo**'s waving to him.
 
 Shaftoe takes his helmet off and waves back. Then, on impulse, just for the hell of it, he winds up and flings the helmet directly at Goto Dengo's head. The throw goes awry and Goto Dengo has to knock down about a dozen of his comrades in order to catch it. All of them seem to think that it is a high honor, as well as tremendously amusing, to be knocked down by Goto Dengo.
 

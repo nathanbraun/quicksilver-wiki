@@ -26,7 +26,7 @@ And she can *sure* cook a yummy bowl of oatmeal  I really don't like casting
 *Imaginary* films guessing at but as really unsuitable choices have been  
 suggested on the net this is my vote for the *right* America Shaftoe.**
 
-China Raider [Bobby Shaftoe](/bobby-shaftoe) knows women (of all types and nationalities)- and what's true about [Glory](/glory) is pretty much good for the majority of Filipina women. [Avi](/avi-halaby)'s OCW prostitute claim is likely based on the same data. Pinoys are beautiful and passionate. While I've met women who identified with hobbits (not [Sherri Gottlieb](/http-www-transylvania-com-bite-html) - though I knew the woman); And, hunting *dwarf* women is for the *rich idiots* who presented cable TV  ***[The Man Show](/http-www-tvtome-com-tvtome-servlet-showmainservlet-showid-2689)*** - and very pathetic behavior. Behavior  that in actual grown-ups  is way *beyond* infantile.
+China Raider [Bobby Shaftoe](/bobby-shaftoe) knows women (of all types and nationalities)- and what's true about [Glory](/glory) is pretty much good for the majority of Filipina women. [Avi](/avi-halaby)'s OCW prostitute claim is likely based on the same data. Pinoys are beautiful and passionate. While I've met women who identified with hobbits (not [Sherri Gottlieb](http://www.transylvania.com/bite.html) - though I knew the woman); And, hunting *dwarf* women is for the *rich idiots* who presented cable TV  ***[The Man Show](http://www.tvtome.com/tvtome-servlet-showmainservlet-showid-2689)*** - and very pathetic behavior. Behavior  that in actual grown-ups  is way *beyond* infantile.
 
 Amy and Randy's romance is all about patience and wisdom. Randy can no longer *coast* with the sort of behavior he did as in previous relationship. (Amy probably guessed right that Charlene was a tepid lover). Randy knows the ***Information Superhighway*** fight didn't put *finish* to his relationship with Charlene. ***It was that he wanted to start a family.*** So was this part of an [Enoch Root](/enoch-root) masterplan? Root had knowledge of all the *players* - [GEB](/dr-geb-kivistik) is likely his son (though it can be more accurately said that GEB is his nihilistic mother's son. He was part of the **conspiracy** with Bobby. I think its *meaningful* that Amy has seen the ruin of Randy's California home; And, that [Grandma Mary](/mary-ccmndhd) has *bonded* with her as well.
 
@@ -116,4 +116,4 @@ A: I play Nicole Noone, who helps drag Flynn into real life, kicking and screami
 ### External links
 
 
-* [Signal to Noise](/http-www-aracnet-com-lewallen-quotes-cryptonomiconquotes-html) - quotes!
+* [Signal to Noise](http://www.aracnet.com/lewallen-quotes-cryptonomiconquotes.html) - quotes!

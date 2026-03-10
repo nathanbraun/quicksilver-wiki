@@ -42,7 +42,7 @@ worked! The fear his new image created had the psycholigcal effect he
 wanted. ..."  
 
 
-([http://tinpan.fortunecity.com/lennon/897/teach.html)](/http-tinpan-fortunecity-com-lennon-897-teach-html)
+([http://tinpan.fortunecity.com/lennon/897/teach.html)](http://tinpan.fortunecity.com/lennon-897-teach.html)
 
 
 > 

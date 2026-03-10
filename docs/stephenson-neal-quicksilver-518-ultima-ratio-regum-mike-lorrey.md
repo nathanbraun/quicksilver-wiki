@@ -68,7 +68,7 @@ ordinance during this age of royal absolutism.
 
 Author Paul Blackstock in his seminal OSS work on Propaganda says: "Propaganda in the context of political warfare, has been termed "the planned dissemination of news, information, special arguments, and appeals designed to influence the beliefs, thoughts, and actions of a specific group." The relationship of the rational use of force to persuasion is symbolized in the Latin motto which Louis XIV had inscribed on his canons *ultima ratio regum* (the last argument of kings). Curiously enough, Soviet theory and practice subscribe to the same principle "persuasion first, coercion afterward." Persuasion may thus be likened to Santayana's characterization of love an ultraviolet angel at one end of the spectrum and a red devil at the other; it has been defined as "the act of influencing the mind by arguments and [reasons](/reason)." 
 
-(see: Blackstock, Paul, "[Propaganda, Violence and Manipulative Persuasion](/http-www-icdc-com-paulwolf-oss-manipulativepersuasion-htm)", Quadrangle Books, 1964)
+(see: Blackstock, Paul, "[Propaganda, Violence and Manipulative Persuasion](http://www.icdc.com/paulwolf-oss-manipulativepersuasion.htm)", Quadrangle Books, 1964)
 
 In this, we see that before [Cromwell](/oliver-cromwell) and his allies employed Ultima Ratio Regum, they regularly issued libels and broadsides, i.e. pamphlets, to the populace to argue their points of propaganda. See [Pamphleteering](/pamphleteering) for more.
 

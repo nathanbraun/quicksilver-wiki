@@ -15,7 +15,7 @@ The [Baroque Cycle](/baroque-cycle) page for **Sir Christopher Wren**
 * TBA
 
 
-### [Wikipedia: Sir Christopher Wren](/http-en2-wikipedia-org-wiki-christopher-wren)
+### [Wikipedia: Sir Christopher Wren](https://en.wikipedia.org/wiki/christopher-wren)
 
 
 **Sir Christopher Wren** (October 20, 1632 - February 25, 1723) was an English architect of the 17th century, famous for his role in the re-building of London's churches after the Great Fire of London of 1666. 
@@ -35,4 +35,4 @@ Wren died in 1723 and was buried at St Paul's.
 ### External links
 
 
-* [where to look for Wren](/http-www-dcs-warwick-ac-uk-bshm-zingaz-londonpeoples-html-wre)
+* [where to look for Wren](http://www.dcs.warwick.ac.uk/bshm-zingaz-londonpeoples-html-wre)

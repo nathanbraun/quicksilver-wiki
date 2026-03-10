@@ -39,5 +39,5 @@ The original form of circumcision practiced by Jews was more minimal than the fo
 ### External links
 
 
-* [Jewish.com on circumcision](/http-jewish-com-page-php-do-page-cat-id-976)
+* [Jewish.com on circumcision](http://jewish.com/page-php-do-page-cat-id-976)
 * [WikiPedia:Brit\_milah](/) provided the original basis for this entry

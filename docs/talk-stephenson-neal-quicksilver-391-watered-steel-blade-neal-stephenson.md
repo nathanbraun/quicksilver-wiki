@@ -4,7 +4,7 @@
 From the Quicksilver Metaweb.
 
 
-## [The Adventures of **Mercury Ali** of Cairo](/http-www-globusz-com-ebooks-1001v6-00000026-htm)
+## [The Adventures of **Mercury Ali** of Cairo](http://www.globusz.com/ebooks-1001v6-00000026.htm)
 
   
 

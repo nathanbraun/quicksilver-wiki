@@ -21,7 +21,7 @@ this is for **Laplace**
 
 from Wikipedia and other sources
 
-French physicist and mathematician who put the final capstone on mathematical astronomy by summarizing and extending the work of his predecessors in his five volume *Mécanique Céleste (Celestial Mechanics)* (1799-1825). This work was important because it translated the geometrical study of [mechanics](/http-en2-wikipedia-org-wiki-classical-mechanics) used by [Isaac Newton](/isaac-newton) to one based on [calculus](/calculus), known as physical mechanics. In *Mécanique Céleste*, Laplace proved the dynamical stability of the solar system (with tidal friction ignored) on short time scales. On long time scales, however, this assertion was proven false in the early 1990s. Laplace solved the libration of the Moon. In this work, he frequently omitted derivations, leaving only results with the remark "il est aisé à voir" (it is easy to see). It is said that he himself could not always fill in the derivations later without days of work.![MaquisLaplacMW.jpg](/images/MaquisLaplacMW.jpg)  
+French physicist and mathematician who put the final capstone on mathematical astronomy by summarizing and extending the work of his predecessors in his five volume *Mécanique Céleste (Celestial Mechanics)* (1799-1825). This work was important because it translated the geometrical study of [mechanics](https://en.wikipedia.org/wiki/classical-mechanics) used by [Isaac Newton](/isaac-newton) to one based on [calculus](/calculus), known as physical mechanics. In *Mécanique Céleste*, Laplace proved the dynamical stability of the solar system (with tidal friction ignored) on short time scales. On long time scales, however, this assertion was proven false in the early 1990s. Laplace solved the libration of the Moon. In this work, he frequently omitted derivations, leaving only results with the remark "il est aisé à voir" (it is easy to see). It is said that he himself could not always fill in the derivations later without days of work.![MaquisLaplacMW.jpg](/images/MaquisLaplacMW.jpg)  
 The Good Maquis
 
 For a revealing quote, see the remark made by Laplace's translator Bowditch. After reading *Mécanique céleste*, Napoleon is said to have questioned Laplace on his neglect to mention God. In stark contrast to Newton's view on the subject, Laplace replied that he had no need for that hypothesis (Boyer 1968, p. 538). 
@@ -44,16 +44,16 @@ After being appointed Minister of the Interior by Napoleon, Laplace was dismisse
 
 "We may regard the present state of the universe as the effect of its past and the cause of its future. An intellect which at any given moment knew all of the forces that animate nature and the mutual positions of the beings that compose it, if this intellect were vast enough to submit the data to analysis, could condense into a single formula the movement of the greatest bodies of the universe and that of the lightest atom; for such an intellect nothing could be uncertain and the future just like the past would be present before its eyes." 
 
-This intellect is often referred to as *Laplace's demon*. The discoveries of modern physics , especially [quantum physics](/http-en2-wikipedia-org-wiki-quantum-physics) proved that the existence of such an intellect is not possible even in principle[[1]](/http-en2-wikipedia-org-wiki-uncertainty-principle). 
+This intellect is often referred to as *Laplace's demon*. The discoveries of modern physics , especially [quantum physics](https://en.wikipedia.org/wiki/quantum-physics) proved that the existence of such an intellect is not possible even in principle[[1]](https://en.wikipedia.org/wiki/uncertainty-principle). 
 
 ### Causal determinism
 
  
-Put simply, [causal determinism](/http-en2-wikipedia-org-wiki-causal-determinism) expresses the belief that every effect has a cause, and therefore science, pursued diligently enough, will explain all natural phenomena and thus produce a TOE ([Theory of Everything](/http-en2-wikipedia-org-wiki-theory-of-everything)). This idea goes hand in hand with [materialism](/http-en2-wikipedia-org-wiki-materialism). Scientists and skeptics may implicitly favour causal determinism because it does not allow for any [supernatural](/http-en2-wikipedia-org-wiki-supernatural) explanations of reality. 
+Put simply, [causal determinism](https://en.wikipedia.org/wiki/causal-determinism) expresses the belief that every effect has a cause, and therefore science, pursued diligently enough, will explain all natural phenomena and thus produce a TOE ([Theory of Everything](https://en.wikipedia.org/wiki/theory-of-everything)). This idea goes hand in hand with [materialism](https://en.wikipedia.org/wiki/materialism). Scientists and skeptics may implicitly favour causal determinism because it does not allow for any [supernatural](https://en.wikipedia.org/wiki/supernatural) explanations of reality. 
 
 As Pierre-Simon Laplace noted around 1814, such a theory would also (in theory) grant a sufficiently powerful being the ability to determine any future state of the universe, thus making the future as readily accessible as the past (at least from that powerful being's frame of reference). 
 
-In a disturbing consequence of all effects having only material causes, [morality](/http-en2-wikipedia-org-wiki-morality) would become a [non sequitur](/http-en2-wikipedia-org-wiki-non-sequitur), since people would effectively have no [free will](/http-en2-wikipedia-org-wiki-free-will): i.e., regardless of the choices you make, your mind and its decisions actually remain the result of countless underlying chemical reactions interacting with the environment through your senses. At a fundamental level in a causal deterministic universe, you do not really decide anything -- everything just consists of particles dancing their dance according to mere physical law. 
+In a disturbing consequence of all effects having only material causes, [morality](https://en.wikipedia.org/wiki/morality) would become a [non sequitur](https://en.wikipedia.org/wiki/non-sequitur), since people would effectively have no [free will](https://en.wikipedia.org/wiki/free-will): i.e., regardless of the choices you make, your mind and its decisions actually remain the result of countless underlying chemical reactions interacting with the environment through your senses. At a fundamental level in a causal deterministic universe, you do not really decide anything -- everything just consists of particles dancing their dance according to mere physical law. 
 
 ### Related entries
 
@@ -67,6 +67,6 @@ In a disturbing consequence of all effects having only material causes, [moralit
 ### External links
 
 
-* [Laplace](/http-www-groups-dcs-st-and-ac-uk-history-mathematicians-laplace-html)
-* [Portraits of Laplace](/http-www-groups-dcs-st-and-ac-uk-history-pictdisplay-laplace-html)
+* [Laplace](http://www.groups.dcs.st.and.ac.uk/history-mathematicians-laplace.html)
+* [Portraits of Laplace](http://www.groups.dcs.st.and.ac.uk/history-pictdisplay-laplace.html)
 * please add more

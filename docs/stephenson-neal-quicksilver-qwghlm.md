@@ -26,7 +26,7 @@ This is an [intermediate page](/metaweb-intermediate-page) for
 ### Qwghlm
 
 
-**Qwghlm** is a fictitious country off the northwestern coast of Britain. Neal Stephenson says in an interview with Therese Littleton of Harper Collins Books [[1]](/http-www-baroquecycle-com-interview-htm) that the landscape features:
+**Qwghlm** is a fictitious country off the northwestern coast of Britain. Neal Stephenson says in an interview with Therese Littleton of Harper Collins Books [[1]](http://www.baroquecycle.com/interview.htm) that the landscape features:
 
 ... towering spires of rock, some of which are underwater. It's surrounded by hazards to navigation that ships are forever running aground on. Some mudflats along the beaches. Lots of ice, and lots of guano deposited by seagulls.
 
@@ -65,4 +65,4 @@ There are many similarities to be made with Qwghlm and the real islands of the H
 #### External links
 
 
-* [Neal Stephenson interview (baroquecycle.com)](/http-www-baroquecycle-com-interview-htm)
+* [Neal Stephenson interview (baroquecycle.com)](http://www.baroquecycle.com/interview.htm)

@@ -6,7 +6,7 @@ From the Quicksilver Metaweb.
 This is a version of [Stephenson:Neal:Quicksilver:Chapter Thumbnails](/stephenson-neal-quicksilver-chapter-thumbnails) with many character appearances noted. 
 
 This is inspired & motivated by 
-[Chapter Thumbnails for Infinite Jest](/http-members-aol-com-russillosm-ij-html). "Knowing the jist of each chapter, I found, makes it easy to hop around and reread relevant passages; these notes were, for me, VERY helpful in keeping track..."
+[Chapter Thumbnails for Infinite Jest](http://members.aol.com/russillosm-ij.html). "Knowing the jist of each chapter, I found, makes it easy to hop around and reread relevant passages; these notes were, for me, VERY helpful in keeping track..."
 
 Here are the notes I took when reading it. People mentioned are in parentheses. I took page numbers from my first edition US hardback, though the page numbers appear to match the trade paperback, which even has the same typos. 
 Characters noted varied; once the main characters appeared for a while, I'd stop writing them down, & I was otherwise lax. I'm also adding characters in spots as I re-read.

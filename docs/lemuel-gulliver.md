@@ -17,7 +17,7 @@ This is the [Quicksilver](/quicksilver) page for **Lemuel Gulliver**.
 
 some of the below is from the Wikipedia entry
 
-*Lemuel Gulliver* is the fictional protagonist of [Gulliver's Travels](/http-wikipedia-org-wiki-gulliver-s-travels) by [Jonathan Swift](/jonathan-swift), a [notable Baroque figure](/list-of-notable-baroque-figures), one of many who published traveloques of doubtful authenticity, which was seemingly a sport at the time, e.g. [George Psalamanazar](/george-psalamanazar).
+*Lemuel Gulliver* is the fictional protagonist of [Gulliver's Travels](http://wikipedia.org/wiki-gulliver-s-travels) by [Jonathan Swift](/jonathan-swift), a [notable Baroque figure](/list-of-notable-baroque-figures), one of many who published traveloques of doubtful authenticity, which was seemingly a sport at the time, e.g. [George Psalamanazar](/george-psalamanazar).
 
 Gulliver's Travels is discussed [here](/stephenson-neal-the-confusion-32-st-lemuel-alan-sinder)
 
@@ -33,4 +33,4 @@ Gulliver's Travels is discussed [here](/stephenson-neal-the-confusion-32-st-lemu
 #### External links
 
 
-* [Gulliver's Travels (Wikipedia)](/http-wikipedia-org-wiki-gulliver-s-travels)
+* [Gulliver's Travels (Wikipedia)](http://wikipedia.org/wiki-gulliver-s-travels)

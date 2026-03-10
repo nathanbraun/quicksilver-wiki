@@ -202,13 +202,13 @@ Tooling is one of the Largest Determining Factors of all. At the most flexible e
 * **Power Tools** - Add a layer of requirements. The first is the need for Power. The flexibility on what supplies that Power depends greatly upon the requirements of the individual tool. The needs of a Maffel Three-Phase 10" Circular Saw, are far different than those of a Makitta 110v 16" Circular Saw, still different are the needs of a gas powered saw, say, a standard chainsaw, which carries it's power plant with it -- Similar to a Human Being.
 
 
-* **Power For the Power Tool**; Sourcing power can be answered in a number of ways, from the Conventional manner of "Hooking into the Grid" to the use of various generators, from the portable shop generator to the Larger, more stationary, [China Diesel Generators](/http-www-generatorpro-com-china-diesel-generator-aspx)
+* **Power For the Power Tool**; Sourcing power can be answered in a number of ways, from the Conventional manner of "Hooking into the Grid" to the use of various generators, from the portable shop generator to the Larger, more stationary, [China Diesel Generators](http://www.generatorpro.com/china-diesel-generator-aspx)
 
 The question of Three phase can be answered with Three-Phase converters, should that service not be available localy (Check with local regulations).
 
-Alternatives such as [Wind](/http-www-eere-energy-gov-re-wind-html), [Solar](/http-www-eere-energy-gov-re-solar-html) and [Water](/http-www-eere-energy-gov-re-hydropower-html) Power are also available, and greatly extend the zones in which Small scale power tools can be used.
+Alternatives such as [Wind](http://www.eere.energy.gov/re-wind.html), [Solar](http://www.eere.energy.gov/re-solar.html) and [Water](http://www.eere.energy.gov/re-hydropower.html) Power are also available, and greatly extend the zones in which Small scale power tools can be used.
 
-* **Shelter From the Storm**; Unlike Most Handtools, A power tool cannot be, wiped down, tuned up and be expected to work well After having been subjected Hurican conditions, Sand Storms, or after having been recovered from a MudSlide. Most Power Tools require at least a minimum level of protection from the elements, in order to continue functioning at top effeciency. They also require more General care, and protection from Dampness, than do most Handtools. Though all Tools should be protected from rusting, Or, over drying, Handtools are, typicaly, not as delicate as the average Power Tool, in addition. The Repair, and Re-Tuning, of a Handtool is often Well within the capabilities of the craftsman using it. Not so with most of the Power Tools in use. It's a [Rare](/http-www-vtf-com-paul-profile-html) Individual who takes their Router apart in order to turn it's Armature on a lathe at home, in order to restore it to life.
+* **Shelter From the Storm**; Unlike Most Handtools, A power tool cannot be, wiped down, tuned up and be expected to work well After having been subjected Hurican conditions, Sand Storms, or after having been recovered from a MudSlide. Most Power Tools require at least a minimum level of protection from the elements, in order to continue functioning at top effeciency. They also require more General care, and protection from Dampness, than do most Handtools. Though all Tools should be protected from rusting, Or, over drying, Handtools are, typicaly, not as delicate as the average Power Tool, in addition. The Repair, and Re-Tuning, of a Handtool is often Well within the capabilities of the craftsman using it. Not so with most of the Power Tools in use. It's a [Rare](http://www.vtf.com/paul-profile.html) Individual who takes their Router apart in order to turn it's Armature on a lathe at home, in order to restore it to life.
 
 
 
@@ -216,7 +216,7 @@ Alternatives such as [Wind](/http-www-eere-energy-gov-re-wind-html), [Solar](/ht
 
 
 Industrial Timber Framing
-New tooling, such as the [[Hundegger](/http-www-hundeggerusa-com)], thrusts the cutting of the timber frame into the realm of Commercial Production. Though some of the machines are relatively small, it is still more appropriate to study Industrial production methods, rather than Craft, or trade methods when looking to organize a site for efficently using such a tool.
+New tooling, such as the [[Hundegger](http://www.hundeggerusa.com)], thrusts the cutting of the timber frame into the realm of Commercial Production. Though some of the machines are relatively small, it is still more appropriate to study Industrial production methods, rather than Craft, or trade methods when looking to organize a site for efficently using such a tool.
 
 Section III - The Doing
 
@@ -486,8 +486,8 @@ People And Profiles
 * [Ken Rower](/traditional-timber-framing-people-and-profile-ken-rower-timberbee)
 
 External Links
-* [A General Barn Repair](/http-www-thebarnjournal-org-resource-technical3-html)
-* [TTRAG Homepage](/http-www-tfguild-org-ttrag-html)
-* [Timber Framers Guild of north America](/http-www-tfguild-org)
-* [An Article on TTRAG](/http-crm-cr-nps-gov-archive-20-12-20-12-10-pdf)
+* [A General Barn Repair](http://www.thebarnjournal.org/resource-technical3.html)
+* [TTRAG Homepage](http://www.tfguild.org/ttrag.html)
+* [Timber Framers Guild of north America](http://www.tfguild.org)
+* [An Article on TTRAG](http://crm.cr.nps.gov/archive-20-12-20-12-10.pdf)
  |

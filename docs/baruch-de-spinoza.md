@@ -25,7 +25,7 @@ Spinoza (Benedict, after c. 1656, or Baruch de) (1632-77) was a real person , a 
 ![Spinoza.jpg](/images/Spinoza.jpg)  
 **Baruch Spinoza**
 
-He is considered, with [Hugo Grotius](/http-en-wikipedia-org-wiki-hugo-grotius), the key figure in the [Dutch Golden Age](/http-en-wikipedia-org-wiki-dutch-golden-age). His views on [ethics](/http-en-wikipedia-org-wiki-ethics) and [metaphysics](/http-en-wikipedia-org-wiki-metaphysics) strike readers as being remarkably modern. He is often stated as having been influential on the [Green Parties](/http-en-wikipedia-org-wiki-green-politics) especially in Europe and North America. The [Green Party of Ontario](/http-en-wikipedia-org-wiki-ontario-green-party) for instance lists [Mohandas Karamchand Gandh](/http-en-wikipedia-org-wiki-mahatma-gandhi) and Spinoza as the most direct influences on their consultative policy process - probably referring to *The Ethics* and its requirement that "every man" take a direct interest in government. Today we call this [democracy](/http-en-wikipedia-org-wiki-representative-democracy); Spinoza is on a very short list of figures from this era whose work is still fresh and relevant today.
+He is considered, with [Hugo Grotius](https://en.wikipedia.org/wiki/hugo-grotius), the key figure in the [Dutch Golden Age](https://en.wikipedia.org/wiki/dutch-golden-age). His views on [ethics](https://en.wikipedia.org/wiki/ethics) and [metaphysics](https://en.wikipedia.org/wiki/metaphysics) strike readers as being remarkably modern. He is often stated as having been influential on the [Green Parties](https://en.wikipedia.org/wiki/green-politics) especially in Europe and North America. The [Green Party of Ontario](https://en.wikipedia.org/wiki/ontario-green-party) for instance lists [Mohandas Karamchand Gandh](https://en.wikipedia.org/wiki/mahatma-gandhi) and Spinoza as the most direct influences on their consultative policy process - probably referring to *The Ethics* and its requirement that "every man" take a direct interest in government. Today we call this [democracy](https://en.wikipedia.org/wiki/representative-democracy); Spinoza is on a very short list of figures from this era whose work is still fresh and relevant today.
 
 #### Wikipedia says;
 
@@ -178,7 +178,7 @@ e.g.,J. S. Spiegler,Gesch. der Philosophie des Judenthums,xli.-xliii. Berlin, 19
 ### Quotes
 
 
-**[Rabbi Harold Schulweis](/http-www-vbs-org-rabbi-hshulw-index-htm)** summed up Spinoza teachings on ethics: *"Ethics are personal, morals are mob behavior."*
+**[Rabbi Harold Schulweis](http://www.vbs.org/rabbi-hshulw-index.htm)** summed up Spinoza teachings on ethics: *"Ethics are personal, morals are mob behavior."*
 
 ### Bibliography
 
@@ -202,10 +202,10 @@ e.g.,J. S. Spiegler,Gesch. der Philosophie des Judenthums,xli.-xliii. Berlin, 19
 ### External links
 
 
-* [The Ethics](/http-www-ibiblio-org-gutenberg-cgi-bin-sdb-t9-cgi-t9-cgi-entry-3800-full-yes) - at Project Gutenberg
+* [The Ethics](http://www.ibiblio.org/gutenberg-cgi-bin-sdb-t9-cgi-t9-cgi-entry-3800-full-yes) - at Project Gutenberg
 * [The Ethics](/http-rwmeijer-ws-spinoza) - Split-screen Latin/English or Latin/French
-* [On the Improvement of the Understanding](/http-www-ibiblio-org-gutenberg-cgi-bin-sdb-t9-cgi-t9-cgi-entry-1016-full-yes) - at Project Gutenberg
-* [http://www.spinoza.net](/http-www-spinoza-net)
-* [Internet Encyclopedia of Philosophy - Spinoza](/http-www-utm-edu-research-iep-s-spinoza-htm)
-* [Spinoza's Metaphysics](/http-www-encyclopedia-com-html-section-spinoza-metaphysics-asp)
-* [Nietzsche and Passover](/http-www-vbs-org-rabbi-hshulw-nap-htm)
+* [On the Improvement of the Understanding](http://www.ibiblio.org/gutenberg-cgi-bin-sdb-t9-cgi-t9-cgi-entry-1016-full-yes) - at Project Gutenberg
+* [http://www.spinoza.net](http://www.spinoza.net)
+* [Internet Encyclopedia of Philosophy - Spinoza](http://www.utm.edu/research-iep-s-spinoza.htm)
+* [Spinoza's Metaphysics](http://www.encyclopedia.com/html-section-spinoza-metaphysics.asp)
+* [Nietzsche and Passover](http://www.vbs.org/rabbi-hshulw-nap.htm)

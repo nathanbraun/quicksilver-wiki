@@ -17,7 +17,7 @@ This is a page for **Freedom of Religion**
 * [Stephenson:Neal:Quicksilver:86:Ashkenazi (Jeremy Bornstein)](/stephenson-neal-quicksilver-86-ashkenazi-jeremy-bornstein)
 
 
-### [Wikipedia: Freedom of religion](/http-en-wikipedia-org-wiki-freedom-of-religion)
+### [Wikipedia: Freedom of religion](https://en.wikipedia.org/wiki/freedom-of-religion)
 
 
 **Freedom of religion** is the individual's right or freedom to hold whatever religious beliefs he or she wishes, or none at all. This freedom extends mere freedom of thought by adding the freedom of worship and the freedom of religious congregation, and is regarded as one of the basic human rights. 
@@ -27,12 +27,12 @@ During history some countries accepted some form of freedom of religion (e.g. Po
 Earlier, the ideas of religious tolerance on the political level were invented in the Central Europe: Polish-Lithuanian Commonwealth, Hungary and Austria and were practised since the 16th century. With the expulsion of Polish brethren accused of high treason during the Deluge, the Central European ideas of tolerance were propagated to the Netherlands. Until Enlightenment it was widely accepted, however not always fully implemented: 
 * on January 11th 1571, freedom of religion was granted to Austrian nobles;
 * on January 28th 1573, Warsaw convention granting freedom of religion;
-* on April 13th 1598, King Henry IV of France issued the Edict of Nantes, allowing freedom of religion to the [Huguenots](/http-en-wikipedia-org-wiki-huguenot);
+* on April 13th 1598, King Henry IV of France issued the Edict of Nantes, allowing freedom of religion to the [Huguenots](https://en.wikipedia.org/wiki/huguenot);
 * on July 6th 1609 Bohemia was granted freedom of religion;
 * on April 20th 1657, New Amsterdam granted freedom of religion to [Jews](/judaism);
 * in 1787 the US Constitution's Bill of Rights recognised the natural rights of freedom of expression, conscience, and barring state establishment of religion.
-* in June 1789 - France, during the [declaration of the Rights of Man](/http-en-wikipedia-org-wiki-declaration-of-the-rights-of-man), included freedom of religion;
-* on April 13th 1829 [British Parliament](/http-en-wikipedia-org-wiki-british-parliament) granted [Catholic Emancipation](/http-en-wikipedia-org-wiki-catholic-emancipation);
+* in June 1789 - France, during the [declaration of the Rights of Man](https://en.wikipedia.org/wiki/declaration-of-the-rights-of-man), included freedom of religion;
+* on April 13th 1829 [British Parliament](https://en.wikipedia.org/wiki/british-parliament) granted [Catholic Emancipation](https://en.wikipedia.org/wiki/catholic-emancipation);
 * on April 29th 1988 in the spirit of Glasnost, Soviet Union leader Mikhail Gorbachev promised increased religious freedoms.
 
 
@@ -44,21 +44,21 @@ in October 1685, issue of Edict of Fontainebleau revoking the Edict of Nantes an
 * Pope Pius IX stated "freedom of religion" is an error
 
 
-The [Separation of Church and State](/http-en-wikipedia-org-wiki-separation-of-church-and-state) and [laïcité](/http-en-wikipedia-org-wiki-laïcité) are related, but different concepts.
+The [Separation of Church and State](https://en.wikipedia.org/wiki/separation-of-church-and-state) and [laïcité](https://en.wikipedia.org/wiki/laïcité) are related, but different concepts.
 
 #### Controversies in freedom of religion
 
 
-* [apostasy](/http-en-wikipedia-org-wiki-apostasy)
-* [sacrifice](/http-en-wikipedia-org-wiki-sacrifice)
-* [polygamy](/http-en-wikipedia-org-wiki-polygamy)
-* [evangelism](/http-en-wikipedia-org-wiki-evangelism)
-* [peyote](/http-en-wikipedia-org-wiki-peyote)
-* [religion and abortion](/http-en-wikipedia-org-wiki-religion-and-abortion)
-* [cults](/http-en-wikipedia-org-wiki-cult)
+* [apostasy](https://en.wikipedia.org/wiki/apostasy)
+* [sacrifice](https://en.wikipedia.org/wiki/sacrifice)
+* [polygamy](https://en.wikipedia.org/wiki/polygamy)
+* [evangelism](https://en.wikipedia.org/wiki/evangelism)
+* [peyote](https://en.wikipedia.org/wiki/peyote)
+* [religion and abortion](https://en.wikipedia.org/wiki/religion-and-abortion)
+* [cults](https://en.wikipedia.org/wiki/cult)
 
 
-### [Wikipedia: Religious pluralism](/http-en-wikipedia-org-wiki-religious-pluralism)
+### [Wikipedia: Religious pluralism](https://en.wikipedia.org/wiki/religious-pluralism)
 
 
 Religious pluralism refers to the attitude that one can overcome religious differences between different religions, and denominational conflicts within the same religion. For most religious traditions, religious pluralism is essentially based on a non-literal view of one's religious traditions, hence allowing for respect to be engendered between different traditions on core principles rather than more marginal issues. It is perhaps summarized as an attitude which rejects focus on immaterial differences, and instead gives respect to those beliefs held in common. 
@@ -85,5 +85,5 @@ Freedom of religion encompasses all religions acting within the law in a particu
 ### External links
 
 
-* [The Lemon Test](/http-en-wikipedia-org-wiki-lemon-v-kurtzman)
-* [Cult list](/http-en-wikipedia-org-wiki-list-of-purported-cults)
+* [The Lemon Test](https://en.wikipedia.org/wiki/lemon-v-kurtzman)
+* [Cult list](https://en.wikipedia.org/wiki/list-of-purported-cults)

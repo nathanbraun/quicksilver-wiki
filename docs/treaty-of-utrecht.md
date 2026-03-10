@@ -16,10 +16,10 @@ The main provisions of the treaties confirmed that Louis XIV's grandson Philip V
 There were also some colonial provisions pertaining to North America: France recognized British control of the Hudson Bay Territory and Newfoundland and ceded Acadia to the British. France retained Cape Breton Island, the St. Lawrence Islands, and fishing rights off of Newfoundland.
 
 See also 
- [King George's War](/http-en2-wikipedia-org-wiki-king-george-s-war)
- [Treaty of Ryswick](/http-en2-wikipedia-org-wiki-treaty-of-ryswick)
- [Treaty of Paris (1763)](/http-en2-wikipedia-org-wiki-treaty-of-paris-1763)
- [Jean Bart the Dunkirk Pirate](/http-en-wikipedia-org-wiki-jean-bart)
+ [King George's War](https://en.wikipedia.org/wiki/king-george-s-war)
+ [Treaty of Ryswick](https://en.wikipedia.org/wiki/treaty-of-ryswick)
+ [Treaty of Paris (1763)](https://en.wikipedia.org/wiki/treaty-of-paris-1763)
+ [Jean Bart the Dunkirk Pirate](https://en.wikipedia.org/wiki/jean-bart)
 
 ## Further reading
 
@@ -31,7 +31,7 @@ See also
 ### External Links
 
 
-* **[War of the Grand Alliance](/http-en-wikipedia-org-wiki-war-of-the-grand-alliance)**
-* **[Franche-Comté](/http-en-wikipedia-org-wiki-franche-comté)** Franche-Comté was occupied by the French in 1668 but handed back at the subsequent peace; conquered a second time in 1674, it was finally ceded to France in 1678.
-* **[Select Articles from the Treaty of Utrecht](/http-members-rogers-com-jacobites-documents-1713utrecht-htm)**
-* **[The Treaties of Utrecht (lengthy texts)](/http-www-heraldica-org-topics-france-utrecht-htm)**
+* **[War of the Grand Alliance](https://en.wikipedia.org/wiki/war-of-the-grand-alliance)**
+* **[Franche-Comté](https://en.wikipedia.org/wiki/franche-comté)** Franche-Comté was occupied by the French in 1668 but handed back at the subsequent peace; conquered a second time in 1674, it was finally ceded to France in 1678.
+* **[Select Articles from the Treaty of Utrecht](http://members.rogers.com/jacobites-documents-1713utrecht.htm)**
+* **[The Treaties of Utrecht (lengthy texts)](http://www.heraldica.org/topics-france-utrecht.htm)**

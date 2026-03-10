@@ -3,7 +3,7 @@
 
 From the Quicksilver Metaweb.
 
-Disinfopedia has changed names. It is now SourceWatch - [http://www.sourcewatch.org/](/http-www-sourcewatch-org)
+Disinfopedia has changed names. It is now SourceWatch - [http://www.sourcewatch.org/](http://www.sourcewatch.org)
 
 
 
@@ -17,4 +17,4 @@ An "encyclopedia of propaganda" using the [MediaWiki](/mediawiki) software, it h
 
 It will probably eventually stress [source attribution](/source-attribution) capabilities of a [wikitext standard](/wikitext-standard).
 
-[http://disinfopedia.org](/http-disinfopedia-org)
+[http://disinfopedia.org](http://disinfopedia.org)

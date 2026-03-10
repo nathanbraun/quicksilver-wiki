@@ -18,9 +18,9 @@ Galton invented the Quincunx, also known as the bean machine as a tool for demon
 
 Galton was knighted in 1909, and died in Haslemere, Surrey. 
 
-Nearly all of Galton's published work has been made available online, including all his major books and over 300 of his scientific papers, at [http://galton.org](/http-galton-org)
+Nearly all of Galton's published work has been made available online, including all his major books and over 300 of his scientific papers, at [http://galton.org](http://galton.org)
 
 ### External link
 
 
-* [Francis Galton Homepage](/http-galton-org)
+* [Francis Galton Homepage](http://galton.org)

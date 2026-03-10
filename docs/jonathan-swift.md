@@ -111,6 +111,6 @@ He served human liberty.
 
 
 * e-texts of Swift's works
-	+ at [The Internet Public Library](/http-readroom-ipl-org-cgi-i-ipl-ipl-books-idx-pl-rgn-in-author-q1-jonathan-swift)
-	+ at [The Online Books Page](/http-onlinebooks-library-upenn-edu-webbin-book-search-amode-start-author-swift-jonathan)
-	+ at [gutenberg.org](/http-www-gutenberg-org-index-by-author-sw0-html)
+	+ at [The Internet Public Library](http://readroom.ipl.org/cgi-i-ipl-ipl-books-idx-pl-rgn-in-author-q1-jonathan-swift)
+	+ at [The Online Books Page](http://onlinebooks.library.upenn.edu/webbin-book-search-amode-start-author-swift-jonathan)
+	+ at [gutenberg.org](http://www.gutenberg.org/index-by-author-sw0.html)

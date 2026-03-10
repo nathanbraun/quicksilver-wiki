@@ -11,7 +11,7 @@ From the Quicksilver Metaweb.
 ## Definition
 
 
-A bit of a [KOA](/http-www-koa-com) franchise chain, there are three castes of Snooze n Cruise citizenry:
+A bit of a [KOA](http://www.koa.com) franchise chain, there are three castes of Snooze n Cruise citizenry:
 
 1. Camper owners: these folks drive into a lot, plug their camper in, snooze, and can drive right out, without having to back up. Such cruise the highways and byways of the former United States, Canada, and Mexico.
 2. Tenters: arrive in cars or motorcycles, or by hitchiking, these folks prefer to tent.
@@ -21,4 +21,4 @@ A bit of a [KOA](/http-www-koa-com) franchise chain, there are three castes of S
 ## External Links
 
 
-[KOA](/http-www-koa-com)
+[KOA](http://www.koa.com)

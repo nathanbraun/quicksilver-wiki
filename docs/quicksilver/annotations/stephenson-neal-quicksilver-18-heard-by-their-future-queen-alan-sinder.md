@@ -4,10 +4,10 @@
 From the Quicksilver Metaweb.
 
 
-For Chris' sake - I'm putting the entire Dennis Moore ([lupin](/http-en-wikipedia-org-wiki-lupin)) Sketch here:  
+For Chris' sake - I'm putting the entire Dennis Moore ([lupin](https://en.wikipedia.org/wiki/lupin)) Sketch here:  
 
 
-## **[The Ballad of Dennis Moore](/http-www-jumpstation-ca-recroom-comedy-python-dennis-html)**
+## **[The Ballad of Dennis Moore](http://www.jumpstation.ca.recroom.com/edy-python-dennis.html)**
 
 
 England, 1747   
@@ -203,7 +203,7 @@ Mr Moore, Mr Moore, Mr Moore.
   
 
 
-*Voice Over: Just starting on BBC 1 now, "[Victoria Regina](/http-en-wikipedia-org-wiki-victoria-of-the-united-kingdom)" the inspiring tale of the simple crofter's daughter who worked her way up to become Queen of England and Empress of the Greatest Empire television has ever seen. On BBC 2 now Episode 3 of "[George I](/george-i-of-england)" the new 116 part serial about the famous English King who hasn't been done yet. On ITV now the *(sound of a punch)* Ugh!*  
+*Voice Over: Just starting on BBC 1 now, "[Victoria Regina](https://en.wikipedia.org/wiki/victoria-of-the-united-kingdom)" the inspiring tale of the simple crofter's daughter who worked her way up to become Queen of England and Empress of the Greatest Empire television has ever seen. On BBC 2 now Episode 3 of "[George I](/george-i-of-england)" the new 116 part serial about the famous English King who hasn't been done yet. On ITV now the *(sound of a punch)* Ugh!*  
   
 
 
@@ -756,7 +756,7 @@ Dennis Moore: Wait a tic ... blimey, this redistribution of wealth is trickier t
 #### External links
 
 
-* [Pythonline](/http-www-pythonline-com)
-* [PythOnline's Daily Llama](/http-www-dailyllama-com) -- includes current Python news
-* [The Graham Chapman Archives](/http-www-gcarchives-com)
-* [Our Favorite Bits from Monty Python](/http-www-jumpstation-ca-recroom-comedy-python-index-html) (Jump Station)
+* [Pythonline](http://www.pythonline.com)
+* [PythOnline's Daily Llama](http://www.dailyllama.com) -- includes current Python news
+* [The Graham Chapman Archives](http://www.gcarchives.com)
+* [Our Favorite Bits from Monty Python](http://www.jumpstation.ca.recroom.com/edy-python-index.html) (Jump Station)

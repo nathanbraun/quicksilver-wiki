@@ -19,9 +19,9 @@ This is the preliminary page for ***The System of the World***
 ### Initial Discussion
 
 
-***The System of the World*** is a [novel](/http-en-wikipedia-org-wiki-novel) by [Neal Stephenson](/user-nealstephenson), the third in his **"[Baroque Cycle](/baroque-cycle)**".
+***The System of the World*** is a [novel](https://en.wikipedia.org/wiki/novel) by [Neal Stephenson](/user-nealstephenson), the third in his **"[Baroque Cycle](/baroque-cycle)**".
 
-The title appears to be an allusion to the third volume of [Isaac Newton](/isaac-newton)'s *[Philosophiae Naturalis Principia Mathematica](/principia-mathematica)*. *Wikipedia Entry* [[[1]](/http-en-wikipedia-org-wiki-philosophiae-naturalis-principia-mathematica)]
+The title appears to be an allusion to the third volume of [Isaac Newton](/isaac-newton)'s *[Philosophiae Naturalis Principia Mathematica](/principia-mathematica)*. *Wikipedia Entry* [[[1]](https://en.wikipedia.org/wiki/philosophiae-naturalis-principia-mathematica)]
 
 Novel = [romance](/stephenson-neal-quicksilver-1-those-who-assume-hypotheses-neal-stephenson).
 

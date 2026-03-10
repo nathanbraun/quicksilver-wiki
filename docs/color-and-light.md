@@ -206,5 +206,5 @@ Chroma is a measurement of the saturation (concentration) of a color. For exampl
 ### External links & footnotes
 
 
-* **[Opticks 1704](/http-www-octavo-com-collections-projects-nwtopt-index-html)**
+* **[Opticks 1704](http://www.octavo.com/collections-projects-nwtopt-index.html)**
 * The scientific search to explain photons is a major consideration in Colin Bruce's (by way of Sherlock Holmes) explores Einstein in The Strange Case of Mrs. Hudson's Cat is a help to understand the end of the Newtonian Universe; now known under a new title -- The Einstein Paradox And Other Science Mysteries Solved By Sherlock Holmes.

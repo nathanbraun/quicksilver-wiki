@@ -26,4 +26,4 @@ The empire began a slow stagnation and decline, culminating in its defeat in, an
 
 
 
-[Ottoman Empire (Wikipedia)](/http-wikipedia-org-wiki-ottoman-empire) - from which the above text is drawn.
+[Ottoman Empire (Wikipedia)](http://wikipedia.org/wiki-ottoman-empire) - from which the above text is drawn.

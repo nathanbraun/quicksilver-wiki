@@ -34,4 +34,4 @@ As of 2000, there were an estimated 15,000-50,000 members of the Donmeh, mostly 
 
 * [WikiPedia:Converso](/) - the original basis of this entry
 * [Wikipedia: Columbus the Converso?](/)
-* [Hidden Jewish meaning in ***Don Quixote?***](/http-www-h-net-org-cervantes-csa-artics04-mcgaha-pdf) Was Cervantes also a converso?
+* [Hidden Jewish meaning in ***Don Quixote?***](http://www.h.net.org/cervantes-csa-artics04-mcgaha.pdf) Was Cervantes also a converso?

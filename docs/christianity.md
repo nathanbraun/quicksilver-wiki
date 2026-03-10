@@ -66,7 +66,7 @@ Paul and the other apostles did their work well. The new religion spread through
 
 Not all the early Christians were poor, and it became customary for the rich to provide for the poor at the common meals. The sense of common love focused the community's attention on the needs of the weak, the sick, the unfortunate, and the unprotected. This concern gave the early Christian communities a warmth and a human appeal that contrasted with the coldness and impersonality of the pagan cults. No less attractive were the promise of salvation, the importance to God of each individual human soul, and the spiritual equality of everybody, in the eyes of God. 
 
-Complete in **[History of Christianity](/http-en2-wikipedia-org-wiki-history-of-christianity)**.
+Complete in **[History of Christianity](https://en.wikipedia.org/wiki/history-of-christianity)**.
 
 ### Related entries
 
@@ -105,8 +105,8 @@ Complete in **[History of Christianity](/http-en2-wikipedia-org-wiki-history-of-
 ### External links
 
 
-* **[Wikipedia's entry on Christianity](/http-en2-wikipedia-org-wiki-christianity)**
-* **[History of Christianity](/http-en2-wikipedia-org-wiki-history-of-christianity)**
+* **[Wikipedia's entry on Christianity](https://en.wikipedia.org/wiki/christianity)**
+* **[History of Christianity](https://en.wikipedia.org/wiki/history-of-christianity)**
 
 
 **Apologists**
@@ -114,5 +114,5 @@ Complete in **[History of Christianity](/http-en2-wikipedia-org-wiki-history-of-
 
 
 **Critics**
-* [Anti-Christ.net](/http-www-anti-christ-net) - FFTAC - alliance of individuals and organizations that are attempting to expose the atrocities of the church, and the government.
-* [Biblical America Resistance Front](/http-www-barf-org) - resource for all who work to monitor and counter the social and political movement that aims to use its particular reading of the Bible as the basis of governance and American society.
+* [Anti-Christ.net](http://www.anti.christ.net) - FFTAC - alliance of individuals and organizations that are attempting to expose the atrocities of the church, and the government.
+* [Biblical America Resistance Front](http://www.barf.org) - resource for all who work to monitor and counter the social and political movement that aims to use its particular reading of the Bible as the basis of governance and American society.

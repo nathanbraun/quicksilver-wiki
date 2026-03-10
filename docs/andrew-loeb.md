@@ -11,7 +11,7 @@ real apologies for any **Spoilers**!
 
 *The lesson that Andrew Loeb imparts to [Randal Lawrence Waterhouse](/stephenson-neal-cryptonomicon-randy-waterhouse), in some ways, resembles the lesson that Nell, of [The Diamond Age, or A Young Lady's Illustrated Primer](/stephenson-neal-the-diamond-age-or-a-young-lady-s-illustrated-primer), recieves at the Hands of one of her teachers at Miss Matheson's school for girls, though there is no explanation, such as the one Nell is given by Miss Matheson.
 
-In many ways, though, Andrew Loeb more closely resembles the figure of Dona Soledad, from [Carlos Castaneda's Second Ring of Power](/http-216-239-37-104-search-q-cache-2xfey22czkmj-www-amazon-com-exec-obidos-tg-detail-0671732471-v-glance-soledad-castaneda-hl-en-ie-utf-8) -- that of an "Enemy". One difference, one amoung many, is that Andrew Loeb appears to be either completely insane, or utterly evil. There is also the question of how effective Mr. Loeb's enmity was.*
+In many ways, though, Andrew Loeb more closely resembles the figure of Dona Soledad, from [Carlos Castaneda's Second Ring of Power](http://216.239.37.104.search.q.cache.2xfey22czkmj.www.amazon.com/exec-obidos-tg-detail-0671732471-v-glance-soledad-castaneda-hl-en-ie-utf-8) -- that of an "Enemy". One difference, one amoung many, is that Andrew Loeb appears to be either completely insane, or utterly evil. There is also the question of how effective Mr. Loeb's enmity was.*
 
 ### Authored entries
 
@@ -81,10 +81,10 @@ Experience is knowledge of and skill in something gained through being involved 
 
 Versus to someone like Randy: Experience is a number used in almost all Role Playing Games to measure how far ones character has progressed in the game. It is generally referred to as Experience Points and, usually, abbrevated to "exp" or "xp" in such games.
 
-### Once in [Luzon](/http-en2-wikipedia-org-wiki-luzon)
+### Once in [Luzon](https://en.wikipedia.org/wiki/luzon)
 
  
-Andrew Loeb's transference of his expertise of Survival in Northwestern American rainforests to a tropical [rainforest](/http-en2-wikipedia-org-wiki-rainforest) setting, is the embodiment of Machiavelli's counsel to a Prince;
+Andrew Loeb's transference of his expertise of Survival in Northwestern American rainforests to a tropical [rainforest](https://en.wikipedia.org/wiki/rainforest) setting, is the embodiment of Machiavelli's counsel to a Prince;
 
 "To engage continually in hunting, and thus accustom his body to hardships; and meanwhile learn the nature of the land."
 
@@ -97,9 +97,9 @@ the statement concludes;
 "And that prince who is lacking in this skill is wanting in the first essentials of a leader; for it is this which teaches how to find the enemy, take up quarters, lead armies, plan battles and lay siege to towns with advantage."
 
 
-Remember, also, that there still remain some pocket rebellions with fragmented rebel groups, particularly some communist groups operating in the mountains of Luzon and the Visayas, and a smattering of [Muslim](/islam) fighters who do not recognize the 1996 peace treaty. Outside the cities the countryside is tropical rainforests and are [volcanic](/http-en-wikipedia-org-wiki-volcano) in origin. The highest point is Mount Apo on Mindanao standing at 2,954 [meter]s tall. Many volcanoes in the country, such as the Pinatubo, are active. The country is also astride the [typhoon](/http-en-wikipedia-org-wiki-tropical-cyclone) belt of the Western Pacific and is struck by about 19 typhoons per year.
+Remember, also, that there still remain some pocket rebellions with fragmented rebel groups, particularly some communist groups operating in the mountains of Luzon and the Visayas, and a smattering of [Muslim](/islam) fighters who do not recognize the 1996 peace treaty. Outside the cities the countryside is tropical rainforests and are [volcanic](https://en.wikipedia.org/wiki/volcano) in origin. The highest point is Mount Apo on Mindanao standing at 2,954 [meter]s tall. Many volcanoes in the country, such as the Pinatubo, are active. The country is also astride the [typhoon](https://en.wikipedia.org/wiki/tropical-cyclone) belt of the Western Pacific and is struck by about 19 typhoons per year.
 
-### Not the Cryptonomicon Universe's [Unabomber](/http-www-crimelibrary-com-terrorists-unabomber)
+### Not the Cryptonomicon Universe's [Unabomber](http://www.crimelibrary.com/terrorists-unabomber)
 
 
 
@@ -119,9 +119,9 @@ The Finnish Linus act-alike Van Eck phreaker Pekka who was the *first* known vic
 ### External links
 
 
-* [Why the future doesn't need us](/http-www-wired-com-wired-archive-8-04-joy-pr-html)
-* [The review which gave our original poster the wrong idea about **RIST 9E03**](/http-www-themodernword-com-review-cryptonomicon-html)
+* [Why the future doesn't need us](http://www.wired.com/wired-archive-8-04-joy-pr.html)
+* [The review which gave our original poster the wrong idea about **RIST 9E03**](http://www.themodernword.com/review-cryptonomicon.html)
 * [Selling Zodiac](/http-dungeons-and-dragons-us-0553573861-html)  The return of the psycho nerd Dolmacher in Zodiac has similarities to that of Andrew Loeb in Cryptonomicon. Both of them have survivalist skills and seem to flit between being sane and a bit creepy to being completely psychologically deranged.
-* [ (Andrew Loeb always struck as a bizarre mutation of Marcus Schouler from Norris' McTeague) ](/http-misc-wordherders-net-archives-cat-print-html)
-* [Wilderness Survival Instructor, and Author, Tom Brown Jr.](/http-www-trackerschool-com)
-* [HTML Text of Machiavelli's The Prince](/http-www-constitution-org-mac-prince00-htm)
+* [ (Andrew Loeb always struck as a bizarre mutation of Marcus Schouler from Norris' McTeague) ](http://misc.wordherders.net/archives-cat-print.html)
+* [Wilderness Survival Instructor, and Author, Tom Brown Jr.](http://www.trackerschool.com)
+* [HTML Text of Machiavelli's The Prince](http://www.constitution.org/mac-prince00.htm)

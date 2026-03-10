@@ -19,4 +19,4 @@ When the page starts with a link to *DeleteThisPage*, it is considered "marked f
 
 
 
-Click the [What links here](/http-www-metaweb-com-wiki-wiki-phtml-title-special-whatlinkshere-target-deletethispage) link in the toolbar on the left to find all pages that have been marked for deletion.
+Click the [What links here](http://www.metaweb.com/wiki-wiki-phtml-title-special-whatlinkshere-target-deletethispage) link in the toolbar on the left to find all pages that have been marked for deletion.

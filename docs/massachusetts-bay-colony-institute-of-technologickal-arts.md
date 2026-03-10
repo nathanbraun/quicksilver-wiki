@@ -36,4 +36,4 @@ The **Massachusetts Bay Colony Institute of Technologickal Arts** is Neal's roma
 #### External links
 
 
-* [Massachusetts Bay Colony Institute of Technologickal Arts t-shirts (dogtownu.com)](/http-www-dogtownu-com-public-html-quicksilver) showing school logo.
+* [Massachusetts Bay Colony Institute of Technologickal Arts t-shirts (dogtownu.com)](http://www.dogtownu.com/public-html-quicksilver) showing school logo.

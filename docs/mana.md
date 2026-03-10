@@ -22,4 +22,4 @@ If you have sexually arousing pictures - USE THEM! A fan masturbating
 with picture of an Icon is worth 100 times more than a "decent" fan!
 Sexual desire is one of the most common and powerful sources of mana.
 
-Feel free to expand. <a href="[http://en.wikipedia.org/wiki/Talk:Arrow\_of\_time](/http-en-wikipedia-org-wiki-talk-arrow_of_time)">I am going, the day after tomorrow</a>.
+Feel free to expand. <a href="[http://en.wikipedia.org/wiki/Talk:Arrow\_of\_time](https://en.wikipedia.org/wiki/talk-arrow_of_time)">I am going, the day after tomorrow</a>.

@@ -3,7 +3,7 @@
 
 From the Quicksilver Metaweb.
 
-[FAQ](/http-www-nothingisreal-com-mentifex) on this software's author.
+[FAQ](http://www.nothingisreal.com/mentifex) on this software's author.
 
 From the Arthur T. Murray/Mentifex FAQ:
 
@@ -34,7 +34,7 @@ From the Arthur T. Murray/Mentifex FAQ:
 ```
    This FAQ is a public document available in several different formats,
    including PDF, HTML, and plain text. All versions are available for
-   download at the following URL: [http://www.nothingisreal.com/mentifex](/http-www-nothingisreal-com-mentifex)
+   download at the following URL: [http://www.nothingisreal.com/mentifex](http://www.nothingisreal.com/mentifex)
 
 ```
 
@@ -137,5 +137,5 @@ From the Arthur T. Murray/Mentifex FAQ:
 ### External links
 
 
-* [ACM Sigplan Notices 33(12):25-31](/http-doi-acm-org-10-1145-307824-307853) Mind.Forth: Thoughts on AI and Forth
-* [ACM Sigplan Notices 39(12):11-16](/http-doi-acm-org-10-1145-1052883-1052885) Forth and AI Revisited: BRAIN.FORTH
+* [ACM Sigplan Notices 33(12):25-31](http://doi.acm.org/10-1145-307824-307853) Mind.Forth: Thoughts on AI and Forth
+* [ACM Sigplan Notices 39(12):11-16](http://doi.acm.org/10-1145-1052883-1052885) Forth and AI Revisited: BRAIN.FORTH

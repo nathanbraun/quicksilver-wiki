@@ -14,7 +14,7 @@ This anecdote is supported by a short article by Heidi Schultz on page 1 in the 
 Neurosyphilis, a form of syphilis that causes mental illness and paralysis, once meant sure death. [Mercury](/mercury), the common treatment for syphilis for centuries, could not cure it. By the 19th Century, however, psychiatrists noticed that in rare cases of remission, neurosyphili patients had often contracted a disease such as typhoid that caused high fever. Some doctors started injecting a curable form of malaria, which triggered fevers exceeding 104 degrees [Farenheit](/farenheit), into the neurosyphilis victims. A dangerous option- but with death the only other one, fever therapy remained widespread until the 1940s, when penicillin became the drug of choice for syphilis. - Heidi Schultz  
 
 
-### Medterms.com Medical Definition of *[Fever Therapy](/http-www-medterms-com-script-main-art-asp-articlekey-8917)*
+### Medterms.com Medical Definition of *[Fever Therapy](http://www.medterms.com/script-main-art-asp-articlekey-8917)*
 
 
 
@@ -26,7 +26,7 @@ In 1927 Wagner von Jauregg received the Nobel Prize in Physiology or Medicine "f
 
 Fever therapy is rarely, if ever, used nowadays. Sometimes, however, a patient with a very high fever from an infection upon recovery from the infection enters into a seemingly impossible remission from an unrelated disease or is even cured of it! (This writer has cared for two such remarkable patients.)
 
-### Now Known As "[The Issels Therapy](/http-www-issels-com-fevertherapy-asp)" For Treating Cancer
+### Now Known As "[The Issels Therapy](http://www.issels.com/fevertherapy.asp)" For Treating Cancer
 
 
 FEVER THERAPY: 
@@ -87,7 +87,7 @@ Clinical research suggests that the restoration of the non-specific regulatory m
 * Wiemann, B., Starnes, Ch.O. "Coley's Toxins, Tumor Necrosis Factor and Cancer research: A Historical Perspective" 1994, Pharmac.Ther. Vol. 64, 529-564.
 
 
-### [Modern Practice of Fever Therapy At Home](/http-www-heartlandnaturopathic-com-fevertherapy-htm)
+### [Modern Practice of Fever Therapy At Home](http://www.heartlandnaturopathic.com/fevertherapy.htm)
 
 
 

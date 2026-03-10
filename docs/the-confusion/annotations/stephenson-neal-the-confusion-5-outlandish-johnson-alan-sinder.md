@@ -64,12 +64,12 @@ Big Ben, crown jewels, Eiffel Tower, family jewels, frank 'n beans, lunchbox (UK
 ### External links
 
 
-* Project Gutenberg e-texts of [some of Dr. Samuel Johnson's works](/http-onlinebooks-library-upenn-edu-webbin-gutbook-author-name-johnson-samuel)
-* Over 1,700 Johnson quotations are at [The Samuel Johnson Sound Bite Page](/http-www-samueljohnson-com)
-* [WikiQuote - Quotes by Samuel Johnson](/http-www-wikiquote-org-wiki-samuel-johnson)
-* *[Life Of Johnson](/http-www-gutenberg-net-etext-1564)* by [James Boswell](/http-en-wikipedia-org-wiki-james-boswell) Project Gutenberg
-* *[Anecdotes of the late Samuel Johnson](/http-www-thrale-com-history-english-hester-and-henry-hesters-writings-johnson-anecdotes-php)* by Hester Thrale
-* [Roger's Profanisaurus](/http-www-viz-co-uk-profanisaurus-profanis-htm)
-* [Urban Dictionary](/http-www-urbandictionary-com) (for all slang)
-* [Thesaurus](/http-www-amatory-ink-co-uk-thesaurus-miscellaneous-htm)
-* [Penis Slang](/http-www-amatory-ink-co-uk-thesaurus-penis-htm)
+* Project Gutenberg e-texts of [some of Dr. Samuel Johnson's works](http://onlinebooks.library.upenn.edu/webbin-gutbook-author-name-johnson-samuel)
+* Over 1,700 Johnson quotations are at [The Samuel Johnson Sound Bite Page](http://www.samueljohnson.com)
+* [WikiQuote - Quotes by Samuel Johnson](http://www.wikiquote.org/wiki-samuel-johnson)
+* *[Life Of Johnson](http://www.gutenberg.net/etext-1564)* by [James Boswell](https://en.wikipedia.org/wiki/james-boswell) Project Gutenberg
+* *[Anecdotes of the late Samuel Johnson](http://www.thrale.com/history-english-hester-and-henry-hesters-writings-johnson-anecdotes.php)* by Hester Thrale
+* [Roger's Profanisaurus](http://www.viz.co.uk/profanisaurus-profanis.htm)
+* [Urban Dictionary](http://www.urbandictionary.com) (for all slang)
+* [Thesaurus](http://www.amatory.ink.co.uk/thesaurus-miscellaneous.htm)
+* [Penis Slang](http://www.amatory.ink.co.uk/thesaurus-penis.htm)

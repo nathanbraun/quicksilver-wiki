@@ -33,10 +33,10 @@ This is the [Cryptonomicon](/cryptonomicon) page for **The Epiphyte Corporation*
 
      "It's been ten years. You haven't married her. Fill in the fucking blanks."**
 
-### [Wikipedia: Epiphyte](/http-en-wikipedia-org-wiki-epiphyte)
+### [Wikipedia: Epiphyte](https://en.wikipedia.org/wiki/epiphyte)
 
 
-The term **epiphyte** refers to any [plant](/http-en-wikipedia-org-wiki-plant) that grows upon or attached to another living plant. The term stems from the Greek *epi-* (meaning 'upon') and *phyton* (meaning 'plant'). These plants are sometimes called "air plants" because they do not root in soil. However, there are many species of [algae](/http-en-wikipedia-org-wiki-alga), including [seaweeds](/http-en-wikipedia-org-wiki-seaweed), that are *epiphytes* on other aquatic plants (seaweeds or aquatic [angiosperms](/http-en-wikipedia-org-wiki-angiosperms)).![Epiphytes.jpg](/images/Epiphytes.jpg)  
+The term **epiphyte** refers to any [plant](https://en.wikipedia.org/wiki/plant) that grows upon or attached to another living plant. The term stems from the Greek *epi-* (meaning 'upon') and *phyton* (meaning 'plant'). These plants are sometimes called "air plants" because they do not root in soil. However, there are many species of [algae](https://en.wikipedia.org/wiki/alga), including [seaweeds](https://en.wikipedia.org/wiki/seaweed), that are *epiphytes* on other aquatic plants (seaweeds or aquatic [angiosperms](https://en.wikipedia.org/wiki/angiosperms)).![Epiphytes.jpg](/images/Epiphytes.jpg)  
 **An epiphyte assemblage of orchids and bromeliads  
 
 Photograph taken by Eric Guinther of epihytes (bromeliads  
@@ -46,7 +46,7 @@ setting in Hawai'i. Released under the GNU
 
 Free Documentation License**
 
-An epiphyte uses [photosynthesis](/http-en-wikipedia-org-wiki-photosynthesis) for energy and (where non-aquatic) obtains moisture from the air or from dampness ([rain](/http-en-wikipedia-org-wiki-rain) and cloud moisture) on the surface of its host. [Roots](/http-en-wikipedia-org-wiki-root) may develop primarily for attachment, and specialized structures (for example, cups and scales) used to collect or hold moisture. Epiphytes are not [parasitic](/http-en-wikipedia-org-wiki-parasitic) on their "host", growing independently and deriving only physical support. A clear advantage is gained over other herbs restricted to the ground ([soil](/http-en-wikipedia-org-wiki-soil)) surface where light is less available in the forest and herbivores are more active. However, epiphytes may grow so thickly as to damage the host plant.
+An epiphyte uses [photosynthesis](https://en.wikipedia.org/wiki/photosynthesis) for energy and (where non-aquatic) obtains moisture from the air or from dampness ([rain](https://en.wikipedia.org/wiki/rain) and cloud moisture) on the surface of its host. [Roots](https://en.wikipedia.org/wiki/root) may develop primarily for attachment, and specialized structures (for example, cups and scales) used to collect or hold moisture. Epiphytes are not [parasitic](https://en.wikipedia.org/wiki/parasitic) on their "host", growing independently and deriving only physical support. A clear advantage is gained over other herbs restricted to the ground ([soil](https://en.wikipedia.org/wiki/soil)) surface where light is less available in the forest and herbivores are more active. However, epiphytes may grow so thickly as to damage the host plant.
 
 The best-known epiphytes include mosses, lichens, orchids, and bromeliads (such as Spanish moss and Tillandsia). Assemblages of large epiphytes occur most abundantly in moist tropical forests, but mosses and lichens occur as epiphytes in almost any environment with trees.
 
@@ -58,6 +58,6 @@ The first important monograph on epiphyte ecology was written by A.F.W. Schimper
 
 
 The fictitious company Epiphyte evolves into **Epiphyte2** in [Cryptonomicon](/cryptonomicon). At the book's start, **... Epiphyte has no assets other than information -- it is an idea, with some facts and data to back it up. This makes it eminently stealable. ...** Epiphyte Corporation, a telecommunications start-up company, is tasked to create the backbone for highspeed telephony throughout east Asia starting in the [Philippines](/philippines). Randy is the first corporate officer on the scene. One idea is **Pinoy-Grams**.
-Yet the deeper plan is to build the **Crypt** which is revealed when we see the latest [business plan](/http-en-wikipedia-org-wiki-business-plan). The Crypt is a "data heaven" designed to store and retrieve the world's most private information with absolute security. Laying underwater cable for him are [Doug Shaftoe](/douglas-macarthur-shaftoe) and his daughter [Amy](/america-shaftoe). Various parties that run the gamut from the insanely litigious to the dangerously criminal pay attention to Epiphyte as the Crypt nears completion.
+Yet the deeper plan is to build the **Crypt** which is revealed when we see the latest [business plan](https://en.wikipedia.org/wiki/business-plan). The Crypt is a "data heaven" designed to store and retrieve the world's most private information with absolute security. Laying underwater cable for him are [Doug Shaftoe](/douglas-macarthur-shaftoe) and his daughter [Amy](/america-shaftoe). Various parties that run the gamut from the insanely litigious to the dangerously criminal pay attention to Epiphyte as the Crypt nears completion.
 
 - More to come*

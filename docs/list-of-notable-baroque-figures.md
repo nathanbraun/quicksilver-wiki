@@ -38,7 +38,7 @@ From the Quicksilver Metaweb.
 * [Johannes Kepler](/johannes-kepler) - discovered the 3 laws of planetary motion that bear his name. Polymath.
 * **[Galileo Galilei](/galileo-galilei)** - Italian natural philosopher, astronomer, and mathematician who suffered under the Inquisition for his insistance the solar system was heliocentric. Aided navigation with a method using Jovian moons to solve longitude
 * **[Sir Francis Bacon](/francis-bacon)** - wrote [The Advancement of Learning](/the-advancement-of-learning) and [Novum Organum](/novum-organum), promoted the [Royal Society of London for the Improvement of Natural Knowledge](/royal-society-of-london-for-the-improvement-of-natural-knowledge)
-* [Sir Robert Morray](/sir-robert-morray) - polymath - see [James Gregory](/http-en-wikipedia-org-wiki-james-gregory)
+* [Sir Robert Morray](/sir-robert-morray) - polymath - see [James Gregory](https://en.wikipedia.org/wiki/james-gregory)
 * [Gaspard Bauhin](/gaspard-bauhin) -Swiss physician, anatomist, and botanist who introduced a scientific binomial system of classification to both anatomy and botany.
 * [Reinier de Graaf](/reinier-de-graaf) - anatomist
 * [Jan Baptista van Helmont](/jan-baptista-van-helmont) - bridged alchemy and chemistry, recognized the existence of discrete gases which helped him identifiy carbon dioxide

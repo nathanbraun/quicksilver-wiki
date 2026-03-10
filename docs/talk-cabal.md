@@ -9,7 +9,7 @@ Interesting. Is this the origin of the word, or did the acronym just happen to b
 
  The word comes from the Hebrew kabbalah. The acronym is a happy coincidence. --[Pat](/user-patrick-tufts) 06:22, 24 Sep 2003 (PDT)
 
-[Wikipedia](/http-en-wikipedia-org-wiki-cabal) explains CABAL in wonderful detail.
+[Wikipedia](https://en.wikipedia.org/wiki/cabal) explains CABAL in wonderful detail.
 
 
 

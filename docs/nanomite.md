@@ -7,7 +7,7 @@ From the Quicksilver Metaweb.
 ### Stephensonia
 
 
-*More [Buckyball](/)-type **[fairy dust](/http-www-accelerando-org-static-toughguide-html)** stuff here.
+*More [Buckyball](/)-type **[fairy dust](http://www.accelerando.org/static-toughguide.html)** stuff here.
      ... "At your Honor's convenience," Miss Pao said, "I would invite you to examine the two objects I laid on the table."
      Judge Fang was startled to notice that, while the block's appearance had not changed, the book had become covered in a layer of thick gray dust, as if it had been growing mildew for several decades.
      "Oooh," Chang blurted, sucking in a lengthy skein of noodles into his maw and bulging his eyes in the direction of this particular exhibit.
@@ -35,12 +35,12 @@ In the novel, we see several uses for nanomites:
 
 In the novel, we see that nanomites, nanocites, nanites, and other nanoscopic devices of diamondoid, are a distinct health hazard. Harv dies late in the novel of a nanomite-related form of silicosis or emphysema that decimates his respiratory/cardiovascular system, primarily of spending too much time outside in the [Leased Territories](/leased-territories) collecting nanomites during bouts of nano-combat which leave gazillions of nanomite hulls strewn about the landscape.
 
-This [health hazard](/http-www-eurekalert-org-pub-releases-2004-03-acs-ob031904-php) is not just fictional:
+This [health hazard](http://www.eurekalert.org/pub-releases-2004-03-acs-ob031904.php) is not just fictional:
 Contact: Michael Bernstein
 202-872-6042 in Washington, D.C. 
 March 27 - April 1, 2004, in Anaheim
 714-765-2068
-[American Chemical Society](/http-www-acs-org)
+[American Chemical Society](http://www.acs.org)
   
 
 ### Type Of Buckyball Shown To Cause Brain Damage In Fish
@@ -85,4 +85,4 @@ The paper on this research, **IEC 21**, will be presented at 1:40 p.m. on Sunday
 ### Link
 
 
-* [fairy dust](/http-www-accelerando-org-static-toughguide-html): why it sucks ...
+* [fairy dust](http://www.accelerando.org/static-toughguide.html): why it sucks ...

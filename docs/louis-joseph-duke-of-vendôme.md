@@ -60,5 +60,5 @@ The succession passed by various marriages to the houses of Nevers, Preuilly and
 ### External links
 
 
-* [Treaties of Utrecht (1713)](/http-en-wikipedia-org-wiki-treaty-of-utrecht-1713)
-* [Louis Jordan](/http-andrejkoymasky-com-liv-fam-biob2-bour2-html)
+* [Treaties of Utrecht (1713)](https://en.wikipedia.org/wiki/treaty-of-utrecht-1713)
+* [Louis Jordan](http://andrejkoymasky.com/liv-fam-biob2-bour2.html)

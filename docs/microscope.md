@@ -34,8 +34,8 @@ Originally invented by [Anton van Leeuwenhoek](/anton-van-leeuwenhoek), improved
 ### External links
 
 
-* **[Anton van Leeuwenhoek](/http-en-wikipedia-org-wiki-antony-van-leeuwenhoek)**
-* **[Robert Hooke](/http-www-ucmp-berkeley-edu-history-hooke-html)**
+* **[Anton van Leeuwenhoek](https://en.wikipedia.org/wiki/antony-van-leeuwenhoek)**
+* **[Robert Hooke](http://www.ucmp.berkeley.edu/history-hooke.html)**
 
 **go see www.ucmp.berkeley.edu/history/images/hookeflea.jpg**  
 

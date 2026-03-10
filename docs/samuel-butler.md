@@ -34,5 +34,5 @@ Samuel Butler died on June 18, 1902, in London, England.
 ### External links
 
 
-1. [A biography by his friend Henry Festing Jones](/http-digital-library-upenn-edu-webbin-gutbook-lookup-num-2993)
-* [Project Gutenberg](/http-www-gutenberg-net) A first year..., Erewhon, Erewhon Revisited, The Way of All Flesh and several other of his works are available.
+1. [A biography by his friend Henry Festing Jones](http://digital.library.upenn.edu/webbin-gutbook-lookup-num-2993)
+* [Project Gutenberg](http://www.gutenberg.net) A first year..., Erewhon, Erewhon Revisited, The Way of All Flesh and several other of his works are available.

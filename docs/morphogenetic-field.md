@@ -42,7 +42,7 @@ All three properties are characteristic of gravity; and it was proven some years
 ### Quantum entanglement
 
 
-[Quantum entanglement](/http-en2-wikipedia-org-wiki-quantum-entanglement) is a more likely actuality than *morphic resonance.* A quantum mechanical phenomenon in which the quantum states of two or more objects have to be described with reference to each other, even though the individual objects may be spatially separated. This leads to correlations between observable physical properties of the systems that are stronger than any classical correlations. As a result, measurements performed on one system may be interpreted as "influencing" other systems entangled with it. However, no information can be transmitted through entanglement. 
+[Quantum entanglement](https://en.wikipedia.org/wiki/quantum-entanglement) is a more likely actuality than *morphic resonance.* A quantum mechanical phenomenon in which the quantum states of two or more objects have to be described with reference to each other, even though the individual objects may be spatially separated. This leads to correlations between observable physical properties of the systems that are stronger than any classical correlations. As a result, measurements performed on one system may be interpreted as "influencing" other systems entangled with it. However, no information can be transmitted through entanglement. 
 
 Entanglement is one of the properties of quantum mechanics which caused Einstein and others to dislike the theory. In 1935, Einstein, Podolsky, and Rosen formulated the EPR paradox, demonstrating that entanglement makes quantum mechanics a non-local theory. Einstein famously derided entanglement as "spooky action at a distance." 
 
@@ -63,8 +63,8 @@ Dark matter is known to exist through the gravitational effect it exerts on visi
 ### External Links
 
 
-* [morphogenetic field](/http-en-wikipedia-org-wiki-morphogenetic-field)
-* [Quantum Gravity: String, Weave or Morphogenetic Field?](/http-www-physics-nyu-edu-faculty-sokal-transgress-v2-node3-html)
-* [Quantum entanglement](/http-en2-wikipedia-org-wiki-quantum-entanglement)
-* [SciAm:Is dark matter theory or fact?](/http-www-sciam-com-print-version-cfm-articleid-0007af2a-5f25-1c71-9eb7809ec588f2d7)
+* [morphogenetic field](https://en.wikipedia.org/wiki/morphogenetic-field)
+* [Quantum Gravity: String, Weave or Morphogenetic Field?](http://www.physics.nyu.edu/faculty-sokal-transgress-v2-node3.html)
+* [Quantum entanglement](https://en.wikipedia.org/wiki/quantum-entanglement)
+* [SciAm:Is dark matter theory or fact?](http://www.sciam.com/print-version-cfm-articleid-0007af2a-5f25-1c71-9eb7809ec588f2d7)
 * [Physics Classroom: Action at a distance](/http-www-glenbrook-k12-il-us-gbssci-phys-class-estatics-u8l4a-html)

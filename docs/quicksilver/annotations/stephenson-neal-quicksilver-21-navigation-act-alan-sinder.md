@@ -18,14 +18,14 @@ This discusses the **The Navigation Act**
 
 From the Wikipedia.
 
-The **Navigation Act** of 1651 was one of a series of [Navigation Acts](/http-en-wikipedia-org-wiki-navigation-acts) passed by the [English](/http-en-wikipedia-org-wiki-england) parliament. it was passed in October of 1651 as a reaction to the failure of a diplomatic mission seeking recognition of the Commonwealth of England by the Republic of the Seven United Netherlands. 
+The **Navigation Act** of 1651 was one of a series of [Navigation Acts](https://en.wikipedia.org/wiki/navigation-acts) passed by the [English](https://en.wikipedia.org/wiki/england) parliament. it was passed in October of 1651 as a reaction to the failure of a diplomatic mission seeking recognition of the Commonwealth of England by the Republic of the Seven United Netherlands. 
 
 The Act stated that:
 * Only English ships could transport trade goods to England from outside Europe.
 * Trade goods from inside Europe could be shipped by English ships and ships from the originating country.
 
 
-Both measures hindered the Dutch, who had, due to low tariffs, better ships, and a near monopoly on the Baltic trade, been the foremost sea merchant nation for many years and had grown very dependent on their sea trade. Dutch unhappiness with the Act lead to the **[First Anglo-Dutch War](/http-en-wikipedia-org-wiki-first-anglo-dutch-war)**, which was fought entirely at sea between England and the Republic of the Seven United Netherlands from 1652 to 1654.
+Both measures hindered the Dutch, who had, due to low tariffs, better ships, and a near monopoly on the Baltic trade, been the foremost sea merchant nation for many years and had grown very dependent on their sea trade. Dutch unhappiness with the Act lead to the **[First Anglo-Dutch War](https://en.wikipedia.org/wiki/first-anglo-dutch-war)**, which was fought entirely at sea between England and the Republic of the Seven United Netherlands from 1652 to 1654.
 
 ### First Anglo-Dutch War
 
@@ -61,6 +61,6 @@ It is noteworthy that only shortly before the Navigation Act was passed Dutch la
 ### External links
 
 
-* [Anglo-Dutch Wars](/http-en-wikipedia-org-wiki-anglo-dutch-wars)
-* [Navigation Acts](/http-en-wikipedia-org-wiki-navigation-acts)
-* [English](/http-en-wikipedia-org-wiki-england)
+* [Anglo-Dutch Wars](https://en.wikipedia.org/wiki/anglo-dutch-wars)
+* [Navigation Acts](https://en.wikipedia.org/wiki/navigation-acts)
+* [English](https://en.wikipedia.org/wiki/england)

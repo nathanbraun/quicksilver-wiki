@@ -23,7 +23,7 @@ This is a page for the **1st Duke of Marlborough**
 * [Stephenson:Neal:Quicksilver:704:King's Own Black Torrent Guards (Neal Stephenson)](/stephenson-neal-quicksilver-704-king-s-own-black-torrent-guards-neal-stephenson)
 
 
-### [Wikipedia: John Churchill, 1st Duke of Marlborough](/http-en-wikipedia-org-wiki-john-churchill-1st-duke-of-marlborough)
+### [Wikipedia: John Churchill, 1st Duke of Marlborough](https://en.wikipedia.org/wiki/john-churchill-1st-duke-of-marlborough)
 
 
 John Churchill, 1st Duke of Marlborough (May 26, 1650 - June 16, 1722), in full Captain-General Sir John Churchill, K.G., P.C., 1st Duke of Marlborough, Earl of Marlborough, Baron Churchill of Sandridge in Hertfordshire, Lord Churchill of Eyemouth (in addition to these English and Scottish titles he was also Prince of Mindelheim and a Prince of the Holy Roman Empire), was an English military officer during the War of the Spanish Succession.![MarlboroughMW.jpg](/images/MarlboroughMW.jpg)  
@@ -48,7 +48,7 @@ Things were taking a turn for the worse in Spain, however, and his wife's friend
 
 Anne died shortly thereafter, and once again Marlborough was back in favour of British royalty, putting up funds in support of the Elector of Hanover. The Elector became king as [George I](/george-i), and Marlborough returned to England and settled into retirement. He spent most of his remaining days working on his new home, Blenheim Palace, and died in 1722.
 
-### [Dukedom of Marlborough](/http-en-wikipedia-org-wiki-duke-of-marlborough)
+### [Dukedom of Marlborough](https://en.wikipedia.org/wiki/duke-of-marlborough)
 
 
 The Dukedom of Marlborough is a hereditary title of British nobility. The first holder of the title was John Churchill, 1st Duke of Marlborough (1650 - 1722), the noted English/British general, and indeed an unqualified reference to the Duke of Marlborough in a historical text will almost certainly be a reference to this man.

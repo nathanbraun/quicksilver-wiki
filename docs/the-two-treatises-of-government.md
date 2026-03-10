@@ -19,7 +19,7 @@ It is clear to Locke that individual ownership of property is morally justifiabl
 ### External links
 
 
-* [etext of the Second Treatise](/http-www-gutenberg-net-etext-7370) - [Project Gutenberg](/http-www-gutenberg-net)
-* [Full text of the Second Treatise](/http-www-constitution-org-jl-2ndtreat-htm)
-* [Sparknotes on the Second Treatise](/http-www-sparknotes-com-philosophy-locke)
-* [The Two Treatises of Government.pdf link](/http-socserv2-mcmaster-ca-econ-ugcm-3ll3-locke-government-pdf)
+* [etext of the Second Treatise](http://www.gutenberg.net/etext-7370) - [Project Gutenberg](http://www.gutenberg.net)
+* [Full text of the Second Treatise](http://www.constitution.org/jl-2ndtreat.htm)
+* [Sparknotes on the Second Treatise](http://www.sparknotes.com/philosophy-locke)
+* [The Two Treatises of Government.pdf link](http://socserv2.mcmaster.ca.econ.ugcm.3ll3.locke.gov/ernment.pdf)

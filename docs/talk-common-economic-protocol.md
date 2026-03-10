@@ -3,7 +3,7 @@
 
 From the Quicksilver Metaweb.
 
-This is just a nit I want to pick  **[corporate](/http-en-wikipedia-org-wiki-corporation) [imperialism](/http-en-wikipedia-org-wiki-imperialism)** works better than making it a compound idea. Most here can do that *kind of* math.
+This is just a nit I want to pick  **[corporate](https://en.wikipedia.org/wiki/corporation) [imperialism](https://en.wikipedia.org/wiki/imperialism)** works better than making it a compound idea. Most here can do that *kind of* math.
 
 * A **corporation** is a legal entity (distinct from a natural person) which often has similar rights in law to those of a person. Critics view this *"corporate personhood"* as a fundamental flaw in the nature of corporations. Civil law systems may refer to corporations as moral persons; they may also go by the name "SA" (society anonymous) or something similar, depending on language.
 
@@ -14,17 +14,17 @@ This is just a nit I want to pick  **[corporate](/http-en-wikipedia-org-wiki-c
 
 Some problems with that are: 
 1. It encourages way too much faith in the [dictionary](/dictionary).
-2. It leaves no place for the broader issues or discussions of various theories about the combination of concepts, like [New totalitarianism](/http-recyclopedia-info-wiki-wiki-phtml-title-new-totalitarianism) or [market theology](/http-recyclopedia-info-wiki-wiki-phtml-title-market-theology) or [Corporate Globalization](/http-recyclopedia-info-wiki-wiki-phtml-title-corporate-globalization) or the counter-movements like the [anti-globalization movement](/http-recyclopedia-info-wiki-wiki-phtml-title-anti-globalization-movement) (now called [altermondialiste](/http-recyclopedia-info-wiki-wiki-phtml-title-altermondialiste)) and counter-theories like [oil imperialism](/http-recyclopedia-info-wiki-wiki-phtml-title-oil-imperialism), and interesting history like the [British East Indies Company](/british-east-indies-company) and [Hudson Bay Company](/hudson-bay-company) (gee look! [Baroque](/baroque) references to the origins of the [corporation](/corporation)), all of which could be discussed under [corporate imperialism](/corporate-imperialism). - [Ian Psuedonym](/http-www-metaweb-com-wiki-wiki-phtml-title-special-contributions-target-142-177-92-85)
+2. It leaves no place for the broader issues or discussions of various theories about the combination of concepts, like [New totalitarianism](http://recyclopedia.info/wiki-wiki-phtml-title-new-totalitarianism) or [market theology](http://recyclopedia.info/wiki-wiki-phtml-title-market-theology) or [Corporate Globalization](http://recyclopedia.info/wiki-wiki-phtml-title-corporate-globalization) or the counter-movements like the [anti-globalization movement](http://recyclopedia.info/wiki-wiki-phtml-title-anti-globalization-movement) (now called [altermondialiste](http://recyclopedia.info/wiki-wiki-phtml-title-altermondialiste)) and counter-theories like [oil imperialism](http://recyclopedia.info/wiki-wiki-phtml-title-oil-imperialism), and interesting history like the [British East Indies Company](/british-east-indies-company) and [Hudson Bay Company](/hudson-bay-company) (gee look! [Baroque](/baroque) references to the origins of the [corporation](/corporation)), all of which could be discussed under [corporate imperialism](/corporate-imperialism). - [Ian Psuedonym](http://www.metaweb.com/wiki-wiki-phtml-title-special-contributions-target-142-177-92-85)
 
 
-* While I'd not argue [dictionaries](/http-wiktionary-org-wiki-main-page) are neutral - they are a good starting point. - [Sparky](/user-stsparky) 22:28, 2004 Mar 26 (PST)
+* While I'd not argue [dictionaries](http://wiktionary.org/wiki-main-page) are neutral - they are a good starting point. - [Sparky](/user-stsparky) 22:28, 2004 Mar 26 (PST)
  And any of these below work for you?
-1. [Wikipedia: Hudson Bay Company](/http-en-wikipedia-org-wiki-hudson-s-bay-company)
-2. [Recyclopedia: Hudson Bay Company](/http-recyclopedia-info-wiki-wiki-phtml-title-hudson-s-bay-company)
-3. [WikiInfo: Hudson Bay Company](/http-internet-encyclopedia-org-wiki-phtml-title-hudson-s-bay-company)
+1. [Wikipedia: Hudson Bay Company](https://en.wikipedia.org/wiki/hudson-s-bay-company)
+2. [Recyclopedia: Hudson Bay Company](http://recyclopedia.info/wiki-wiki-phtml-title-hudson-s-bay-company)
+3. [WikiInfo: Hudson Bay Company](http://internet.encyclopedia.org/wiki-phtml-title-hudson-s-bay-company)
 
 
-Sure, which is why they're ALL now linked at [Hudson Bay Company](/hudson-bay-company). As it should be. The author of an article on something else should not be choosing the sources on the [Hudson Bay Company](/hudson-bay-company) - the author of the HBC article must do that. - [Ian Psuedonym](/http-www-metaweb-com-wiki-wiki-phtml-title-special-contributions-target-142-177-93-91)
+Sure, which is why they're ALL now linked at [Hudson Bay Company](/hudson-bay-company). As it should be. The author of an article on something else should not be choosing the sources on the [Hudson Bay Company](/hudson-bay-company) - the author of the HBC article must do that. - [Ian Psuedonym](http://www.metaweb.com/wiki-wiki-phtml-title-special-contributions-target-142-177-93-91)
 
 If you chose to AUTHOR a page - yes. A polite person would ammend their entries around yours if it were a community page.
 
@@ -32,7 +32,7 @@ If you chose to AUTHOR a page - yes. A polite person would ammend their entries 
 ---
 
 
-It's merely that the [MetaWeb](/main-page) is not an [InterNet Encyclopedia](/http-recyclopedia-info-wiki-wiki-phtml-title-main-page) per se that we need to use the other Wiki GDL sources that are. It's a different information resource. The links are there for others to make up their own minds - so having both the WikiInfo and Recyclopedia as well as Wikipedia as resources are good. We've all access to the 1911 encyclopedia and even other more bizarre and exotic sources. Bearing in mind that [British Raj](/http-en-wikipedia-org-wiki-british-raj) and the earlier [British East Indies Charter](/http-en-wikipedia-org-wiki-british-east-india-company) were tools of *said* [Imperialism](/http-en-wikipedia-org-wiki-imperialism) starting with [Elizabeth I](/elizabeth-i) before they were any other influence. Even now [Commonwealth](/http-en-wikipedia-org-wiki-commonwealth-of-nations) nations are under the thumb of the [UK](/http-en-wikipedia-org-wiki-british-empire). It harkens back to the [Navigation Act](/http-en-wikipedia-org-wiki-navigation-acts).
+It's merely that the [MetaWeb](/main-page) is not an [InterNet Encyclopedia](http://recyclopedia.info/wiki-wiki-phtml-title-main-page) per se that we need to use the other Wiki GDL sources that are. It's a different information resource. The links are there for others to make up their own minds - so having both the WikiInfo and Recyclopedia as well as Wikipedia as resources are good. We've all access to the 1911 encyclopedia and even other more bizarre and exotic sources. Bearing in mind that [British Raj](https://en.wikipedia.org/wiki/british-raj) and the earlier [British East Indies Charter](https://en.wikipedia.org/wiki/british-east-india-company) were tools of *said* [Imperialism](https://en.wikipedia.org/wiki/imperialism) starting with [Elizabeth I](/elizabeth-i) before they were any other influence. Even now [Commonwealth](https://en.wikipedia.org/wiki/commonwealth-of-nations) nations are under the thumb of the [UK](https://en.wikipedia.org/wiki/british-empire). It harkens back to the [Navigation Act](https://en.wikipedia.org/wiki/navigation-acts).
 ![Gb_heic.png](/images/Gb_heic.png)  
 **British East Indies Company Flag**  
 ***Even More British Kindness***
@@ -41,7 +41,7 @@ And oil producers are scrambling for their next monopoly - power. - [Sparky](/us
 
 They're not as scary as the [World Bank](/world-bank).
 
-[The World Bank](/http-www-worldbank-org)? Oooo spooky. [The World Social Forum](/http-www-wsfindia-org) can handle them. Though [U.S. Network for Global Economic Justice](/http-sept-globalizethis-org) seem to have a handle on it. [PepsiCo](/http-www-pepsico-com) is [EVIL](/http-en-wikipedia-org-wiki-evil). -[Sparky](/user-stsparky)
+[The World Bank](http://www.worldbank.org)? Oooo spooky. [The World Social Forum](http://www.wsfindia.org) can handle them. Though [U.S. Network for Global Economic Justice](http://sept.globalizethis.org) seem to have a handle on it. [PepsiCo](http://www.pepsico.com) is [EVIL](https://en.wikipedia.org/wiki/evil). -[Sparky](/user-stsparky)
 
 
 
@@ -52,24 +52,24 @@ And street protest from you? Some would pay to see that. - [Sparky](/user-stspar
 
 They'd pay the guy with the carbine more.
 
-* All you truly have to worry about are rotten tomatoes or verbal abuse for using *[French](/http-en-wikipedia-org-wiki-french-language)*.
-* You're the reason [New Imperialism](/http-en-wikipedia-org-wiki-new-imperialism) is a protected page - eh?
+* All you truly have to worry about are rotten tomatoes or verbal abuse for using *[French](https://en.wikipedia.org/wiki/french-language)*.
+* You're the reason [New Imperialism](https://en.wikipedia.org/wiki/new-imperialism) is a protected page - eh?
 
-There is no "reason" at [Wikimedia](/http-recyclopedia-info-wiki-wiki-phtml-title-wikimedia) - only hate and [corruption](/http-recyclopedia-info-wiki-wiki-phtml-title-wikimedia-corruption).
+There is no "reason" at [Wikimedia](http://recyclopedia.info/wiki-wiki-phtml-title-wikimedia) - only hate and [corruption](http://recyclopedia.info/wiki-wiki-phtml-title-wikimedia-corruption).
 * I see the hate - but corruption? Moral corruption?
 
-Pure [conflict of interest](/http-recyclopedia-info-wiki-wiki-phtml-title-conflict-of-interest)? But probably also [groupthink](/http-recyclopedia-info-wiki-wiki-phtml-title-groupthink), [paranoia](/http-recyclopedia-info-wiki-wiki-phtml-title-paranoia), [technocracy](/http-recyclopedia-info-wiki-wiki-phtml-title-technocracy), and maybe a bit of [fixated gaze](/http-recyclopedia-info-wiki-wiki-phtml-title-fixated-gaze). *In this one case, yes, the recyclopedia ones will likely always have the best analysis, and the terms are a bit post-[Baroque](/baroque).*
-* The **[Académie Française](/http-en-wikipedia-org-wiki-académie-française)** have their own word for everything, which only isolates them more and causes more to see them as backwards. As if English-speaking people care what the French call email. *snicker*
+Pure [conflict of interest](http://recyclopedia.info/wiki-wiki-phtml-title-conflict-of-interest)? But probably also [groupthink](http://recyclopedia.info/wiki-wiki-phtml-title-groupthink), [paranoia](http://recyclopedia.info/wiki-wiki-phtml-title-paranoia), [technocracy](http://recyclopedia.info/wiki-wiki-phtml-title-technocracy), and maybe a bit of [fixated gaze](http://recyclopedia.info/wiki-wiki-phtml-title-fixated-gaze). *In this one case, yes, the recyclopedia ones will likely always have the best analysis, and the terms are a bit post-[Baroque](/baroque).*
+* The **[Académie Française](https://en.wikipedia.org/wiki/académie-française)** have their own word for everything, which only isolates them more and causes more to see them as backwards. As if English-speaking people care what the French call email. *snicker*
 
 America is garbage. We're waiting to recycle what it's sitting on.
 * If America is garbage  so is Canada as it is part of America. Nor is the USA garbage.
 Hawaii isn't garbage, Maine isn't garbage, etc., but, the brand name "America" is getting to that point. And no Canadian would say he or she is "part of America", it's a South American thing to use that word inclusively.
 * Dad was a Canadian; Mr. Ma - his neighbor - still is. The kids have dual citizenship. Canada is America  as viewed by our treaties and security arrangements. Both Dad and Mister Ma feel Canada is America. Though Canada has a wierder political system. I asked. I emailed my other Canadian friends and they pretty much agreed. Save for the McGill Math Centre professor, he is a Tory holdout. And it MAYBE a Latin American thing as well, but Canada is part of *El Norte*. So you know. Though my fellow US citizens may not want you around  I've no problem with you. - [Sparky](/user-stsparky)
-* [Conan O'Brien](/http-recyclopedia-info-wiki-wiki-phtml-title-conan-o-brien) may have [the pulse](/http-www-msnbc-msn-com-id-4264295) of [popular culture right](/http-frankwarner-typepad-com-free-frank-warner-2004-02-canada-furious-html). Former [French Canadians](/http-en-wikipedia-org-wiki-french-canadian)  like my pop  won't speak French at all. He bailed Canada for Detroit as a teen. As if only [Quebeckers](/http-en-wikipedia-org-wiki-québécois) can dictate culture to the majority.
+* [Conan O'Brien](http://recyclopedia.info/wiki-wiki-phtml-title-conan-o-brien) may have [the pulse](http://www.msnbc.msn.com/id-4264295) of [popular culture right](http://frankwarner.typepad.com/free-frank-warner-2004-02-canada-furious.html). Former [French Canadians](https://en.wikipedia.org/wiki/french-canadian)  like my pop  won't speak French at all. He bailed Canada for Detroit as a teen. As if only [Quebeckers](https://en.wikipedia.org/wiki/québécois) can dictate culture to the majority.
 
 They resist becoming the garbage that is America, and the picked-through garbage that is "English Canada". If you want a moderate group try the [Acadians](/acadian): [L'Acadie](/l-acadie) was founded in [1604](/1604) which puts it in range for the [Baroque](/baroque).
-* [Filles du roi](/http-en-wikipedia-org-wiki-king-s-daughters) are more interesting. You're welcome to write in French if you want. No one will read it  but do knock yourself out.
-Nah, those French have a different word for everything. - [Ian Psuedonym](/http-www-metaweb-com-wiki-wiki-phtml-title-special-contributions-target-142-177-92-85)
+* [Filles du roi](https://en.wikipedia.org/wiki/king-s-daughters) are more interesting. You're welcome to write in French if you want. No one will read it  but do knock yourself out.
+Nah, those French have a different word for everything. - [Ian Psuedonym](http://www.metaweb.com/wiki-wiki-phtml-title-special-contributions-target-142-177-92-85)
 * Don't you feel better for writing that? Now let's try articulating some of your goals without any additional baggage? - [Sparky](/user-stsparky) 19:38, 2004 Mar 29 (PST)
 
 ### *Altermondialisation*
@@ -77,16 +77,16 @@ Nah, those French have a different word for everything. - [Ian Psuedonym](/http-
 
 * Here's classic rebranding of a *bad idea*  highlighting the wrong way to get the *Fat Cats*.
 
-**Alter-Globalization** (or **altermondialization** from the French *altermondialisation*) is the name of a social movement which supports the international integration of [globalization](/http-en-wikipedia-org-wiki-globalization) but demands that values of [democracy](/http-en-wikipedia-org-wiki-democracy)], economic justice, [environmental protection](/http-en-wikipedia-org-wiki-environmental-protection), and [human rights](/http-en-wikipedia-org-wiki-human-rights) be put ahead of purely economic concerns known as [neoliberalism](/http-en-wikipedia-org-wiki-neoliberalism). The term is a positive spin on the more wide used and pejorative word '[Anti-Globalization](/http-en-wikipedia-org-wiki-anti-globalization)'. 
-Groups which advocate Alter-Globalization include [ATTAC](/http-en-wikipedia-org-wiki-attac), an international trade reform network headquartered in France. 
-Advocates of Alter-Globalization have setup a global news network, [indymedia](/http-indymedia-org) to report on and advocate for the alter-globalization movement.
+**Alter-Globalization** (or **altermondialization** from the French *altermondialisation*) is the name of a social movement which supports the international integration of [globalization](https://en.wikipedia.org/wiki/globalization) but demands that values of [democracy](https://en.wikipedia.org/wiki/democracy)], economic justice, [environmental protection](https://en.wikipedia.org/wiki/environmental-protection), and [human rights](https://en.wikipedia.org/wiki/human-rights) be put ahead of purely economic concerns known as [neoliberalism](https://en.wikipedia.org/wiki/neoliberalism). The term is a positive spin on the more wide used and pejorative word '[Anti-Globalization](https://en.wikipedia.org/wiki/anti-globalization)'. 
+Groups which advocate Alter-Globalization include [ATTAC](https://en.wikipedia.org/wiki/attac), an international trade reform network headquartered in France. 
+Advocates of Alter-Globalization have setup a global news network, [indymedia](http://indymedia.org) to report on and advocate for the alter-globalization movement.
 It's not new, and it's not that neutral.
-* Think [PETA](/http-en-wikipedia-org-wiki-peta) and [Greenpeace](/http-en-wikipedia-org-wiki-greenpeace) are popular these days? Haters most often become what they hate  ain't Karma poetic? - [Sparky](/user-stsparky) 22:57, 2004 Mar 26 (PST)
+* Think [PETA](https://en.wikipedia.org/wiki/peta) and [Greenpeace](https://en.wikipedia.org/wiki/greenpeace) are popular these days? Haters most often become what they hate  ain't Karma poetic? - [Sparky](/user-stsparky) 22:57, 2004 Mar 26 (PST)
 
 
-Popularity is only relevant to those who think [democracy is God](/democracy-is-god). Not us [trolls](/trolls). And, [Greenpeace](/http-en-wikipedia-org-wiki-greenpeace) is not an acronym. Jesus, Muhammad, Confucius, all quite unpopular in their time with the powers that were
+Popularity is only relevant to those who think [democracy is God](/democracy-is-god). Not us [trolls](/trolls). And, [Greenpeace](https://en.wikipedia.org/wiki/greenpeace) is not an acronym. Jesus, Muhammad, Confucius, all quite unpopular in their time with the powers that were
 
- Popular means different things. What does democracy have to do with this? Or God? I hit the caps lock key when typing. Happens. History doesn't have any record of [Mel Gibson](/http-en-wikipedia-org-wiki-mel-gibson)'s favorite [Imaginary friend](/http-en-wikipedia-org-wiki-imaginary-friend) [Jesus](/http-en-wikipedia-org-wiki-historicity-of-jesus-christ). That said - the process of hating something turns you into what you hate. So I guess you're on your way to becoming an American. 
+ Popular means different things. What does democracy have to do with this? Or God? I hit the caps lock key when typing. Happens. History doesn't have any record of [Mel Gibson](https://en.wikipedia.org/wiki/mel-gibson)'s favorite [Imaginary friend](https://en.wikipedia.org/wiki/imaginary-friend) [Jesus](https://en.wikipedia.org/wiki/historicity-of-jesus-christ). That said - the process of hating something turns you into what you hate. So I guess you're on your way to becoming an American. 
 
 Could be, certainly we all get our invitations, but comments in chronological sequence need deeper nesting. Else it looks as if the following was typed in response to above, and it wasn't:
 

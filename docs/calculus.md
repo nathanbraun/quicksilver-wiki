@@ -49,5 +49,5 @@ and that Mr Stephenson is not above cursing the novel with such emrods in its in
 ### External links
 
 
-* [http://en2.wikipedia.org/wiki/Calculus](/http-en2-wikipedia-org-wiki-calculus)
-* [http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/The\_rise\_of\_calculus.html](/http-www-gap-dcs-st-and-ac-uk-history-histtopics-the_rise_of_calculus-html)
+* [http://en2.wikipedia.org/wiki/Calculus](https://en.wikipedia.org/wiki/calculus)
+* [http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/The\_rise\_of\_calculus.html](http://www.gap.dcs.st.and.ac.uk/history-histtopics-the_rise_of_calculus.html)

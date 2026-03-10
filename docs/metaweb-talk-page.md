@@ -115,4 +115,4 @@ A short-run purpose is to channel a discussion in a useful direction, that is, t
 
 There are a number of talk or other discussion oriented pages which could use a bit of traditional Wiki refactoring. There's useful content there, sometimes, that can be transferred to the article itself. Sometimes large chunks of old talk pages can be completely wiped out with no harm done--feel free to do so, unless you think there's some value in preserving the discussion. In refactoring a talk page, one solid recommendation is to use the traditional wiki refactoring technique of adding a summary with whatever consensus we've arrived at the top, grouping separate discussion items together, and placing them towards the bottom.
 
-*This page originally from the [Wikipedia](/http-www-wikipedia-org).*
+*This page originally from the [Wikipedia](http://www.wikipedia.org).*

@@ -10,7 +10,7 @@ From the Quicksilver Metaweb.
 
 ### Accurate Timestamp
 
-Is part of the advanced tech [Enoch Root](/stephenson-neal-quicksilver-enoch-root) MIGHT HAVE an item that will give him a solution to the Longitude problem. Is this time based upon the Prime Meridian or local East Coast time? On land, Galileo's method of sighting the Jovian Moons had been used as of 1650 in Europe[[1]](/http-www-amazon-com-exec-obidos-tg-detail-0140258795-qid-1071050236-sr-1-2-ref-sr-1-2-103-8140691-3696657-v-glance-s-books).
+Is part of the advanced tech [Enoch Root](/stephenson-neal-quicksilver-enoch-root) MIGHT HAVE an item that will give him a solution to the Longitude problem. Is this time based upon the Prime Meridian or local East Coast time? On land, Galileo's method of sighting the Jovian Moons had been used as of 1650 in Europe[[1]](http://www.amazon.com/exec-obidos-tg-detail-0140258795-qid-1071050236-sr-1-2-ref-sr-1-2-103-8140691-3696657-v-glance-s-books).
 
 ![Dudley-NE-Coast-detail-web.jpg](/https://web.archive.org/web/20060725170236im_/http://www.metaweb.com/wiki/upload/8/83/Dudley-NE-Coast-detail-web.jpg)  
 **New England Coast & Boston 1645-1646**
@@ -53,7 +53,7 @@ This measurement is important to navigation; the discovery of how to measure it 
 ### External links
 
 
-* [Sir Robert Dudley: Duke of Northumberland](/http-www-findarticles-com-cf-dls-m1373-3-53-98754847-p7-article-jhtml-term)
-* [Sir Robert Dudley](/http-17-1911encyclopedia-org-d-du-dudley-sir-robert-htm)
-* [Longitude](/http-en2-wikipedia-org-wiki-longitude)
-* [Dava Sobel's Longitude](/http-www-amazon-com-exec-obidos-tg-detail-0140258795-qid-1071050236-sr-1-2-ref-sr-1-2-103-8140691-3696657-v-glance-s-books)
+* [Sir Robert Dudley: Duke of Northumberland](http://www.findarticles.com/cf-dls-m1373-3-53-98754847-p7-article-jhtml-term)
+* [Sir Robert Dudley](http://17.1911encyclopedia.org/d-du-dudley-sir-robert.htm)
+* [Longitude](https://en.wikipedia.org/wiki/longitude)
+* [Dava Sobel's Longitude](http://www.amazon.com/exec-obidos-tg-detail-0140258795-qid-1071050236-sr-1-2-ref-sr-1-2-103-8140691-3696657-v-glance-s-books)

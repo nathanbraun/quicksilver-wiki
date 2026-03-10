@@ -17,4 +17,4 @@ This strange geography apparently came about because the Niger River is two anci
 
 Related entries: 
 * [Dappa](/dappa)
-* [[Wikipedia entry for the Niger River](/http-en-wikipedia-org-wiki-niger-river)], from which this was drawn
+* [[Wikipedia entry for the Niger River](https://en.wikipedia.org/wiki/niger-river)], from which this was drawn

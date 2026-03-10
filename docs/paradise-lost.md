@@ -28,4 +28,4 @@ The complete text is available at the external link below.
 #### [External links](/metaweb-external-links)
 
 
-* [http://www.paradiselost.org](/http-www-paradiselost-org)
+* [http://www.paradiselost.org](http://www.paradiselost.org)

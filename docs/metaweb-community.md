@@ -49,4 +49,4 @@ See also [epistemic community](/epistemic-community)
 
 
 
-* [Wikipedia](/http-wikipedia-org-wiki-epistemic-community) article on [epistemic community](/epistemic-community).
+* [Wikipedia](http://wikipedia.org/wiki-epistemic-community) article on [epistemic community](/epistemic-community).

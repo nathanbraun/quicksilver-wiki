@@ -13,7 +13,7 @@ From the Quicksilver Metaweb.
 ## Delftware: You and I are but Earth
 
 
-[de Delftse Pauw](/http-www-delftsepauw-com): In the sixteenth century, in a number of Dutch towns, factories were established which among their items produced "Majolica". This "Majolica" was made with a tin-glaze and found its origins in Italy and Spain. The Dutch East Indian Company began importing porcelain from China in the seventeenth century. This porcelain, especially the blue and white became very popular. 
+[de Delftse Pauw](http://www.delftsepauw.com): In the sixteenth century, in a number of Dutch towns, factories were established which among their items produced "Majolica". This "Majolica" was made with a tin-glaze and found its origins in Italy and Spain. The Dutch East Indian Company began importing porcelain from China in the seventeenth century. This porcelain, especially the blue and white became very popular. 
 
 The "Majolica" producing factories started at a certain moment to imitate this Chinese porcelain, because of several reasons. The imported Chinese porcelain meant competition. Civil war in China made that imports from China went down. Customers asked for specific items which due to distance took a long time to deliver and due to language problems the delivered item was not always what was ordered. 
 

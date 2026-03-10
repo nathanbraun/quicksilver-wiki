@@ -96,7 +96,7 @@ Falsificationism argues that any hypothesis, no matter how respected or time-hon
 
 Hence all scientific knowledge is always in a state of flux, for at any time new evidence could be present that contradicts long-held hypotheses. A classic example is the explanation of light. Isaac Newton's particle paradigm was overturned by the wave theory of light, which explained diffraction, and which was held to be incontrovertible for many decades.The wave paradigm, in turn was refuted by the discovery of the photoelectric effect. The currently held theory of light holds that photons (the 'particles' of light) are both waves and particles; experiments have been performed which demonstrate that light has both particle and wave properties. 
 
-The experiments that reject a hypothesis should be performed by many different scientists to guard against bias, mistake, misunderstanding, and fraud. Scientific journals use a process of [peer review](/http-en-wikipedia-org-wiki-peer-review), in which scientists submit their results to a panel of fellow scientists (who may or may not know the identity of the writer) for evaluation. Scientists are rightly suspicious of results that do not go through this process; for example, the cold fusion experiments of Fleischmann and Pons were never peer reviewed -- they were announced directly to the press, before any other scientists had tried to reproduce the results or evaluate their efforts. They have not been reproduced elsewhere as yet; and the press announcement was regarded, by most nuclear physicists, as very likely wrong. Peer review may well have turned up problems and led to a closer examination of the experimental evidence Fleischmann, Pons, et al believed they had. Much embarrassment, and wasted effort worldwide, would have been avoided. 
+The experiments that reject a hypothesis should be performed by many different scientists to guard against bias, mistake, misunderstanding, and fraud. Scientific journals use a process of [peer review](https://en.wikipedia.org/wiki/peer-review), in which scientists submit their results to a panel of fellow scientists (who may or may not know the identity of the writer) for evaluation. Scientists are rightly suspicious of results that do not go through this process; for example, the cold fusion experiments of Fleischmann and Pons were never peer reviewed -- they were announced directly to the press, before any other scientists had tried to reproduce the results or evaluate their efforts. They have not been reproduced elsewhere as yet; and the press announcement was regarded, by most nuclear physicists, as very likely wrong. Peer review may well have turned up problems and led to a closer examination of the experimental evidence Fleischmann, Pons, et al believed they had. Much embarrassment, and wasted effort worldwide, would have been avoided. 
 
 ### Other sources
 
@@ -126,5 +126,5 @@ The experiments that reject a hypothesis should be performed by many different s
 ### External link
 
 
-* [Life of Bacon](/http-home-att-net-tleary-rawley-htm)
-* [Francis Bacon New Advancement of Learning](/http-www-sirbacon-org)
+* [Life of Bacon](http://home.att.net/tleary-rawley.htm)
+* [Francis Bacon New Advancement of Learning](http://www.sirbacon.org)

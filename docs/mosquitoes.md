@@ -19,7 +19,7 @@ This is a page on **mosquitoes** that will eventually tie into [Quicksilver](/qu
 * [Stephenson:Neal:Quicksilver:105:rain of ticks (Alan Sinder)](/stephenson-neal-quicksilver-105-rain-of-ticks-alan-sinder)
 
 
-### [Wikipedia: Mosquitoes](/http-en-wikipedia-org-wiki-mosquito)
+### [Wikipedia: Mosquitoes](https://en.wikipedia.org/wiki/mosquito)
 
 
 
@@ -27,22 +27,22 @@ This is a page on **mosquitoes** that will eventually tie into [Quicksilver](/qu
 | **Mosquitoes** |
 | --- |
 | 200px-AnophelesGambiaemosquito.jpgAnopheles gambiae |
-| **[classification](/http-en-wikipedia-org-wiki-scientific)** |
+| **[classification](https://en.wikipedia.org/wiki/scientific)** |
 | 
 
 |  |  |
 | --- | --- |
-| [Kingdom](/http-en-wikipedia-org-wiki-kingdom-biology):  | [Animalia](/http-en-wikipedia-org-wiki-animal) |
-| [Phylum](/http-en-wikipedia-org-wiki-phylum-biology):  | [Arthropoda](/http-en-wikipedia-org-wiki-arthropoda) |
-| [(biology) Class](/http-en-wikipedia-org-wiki-class):  | [Insecta](/http-en-wikipedia-org-wiki-insecta) |
-| [Order](/http-en-wikipedia-org-wiki-order-biology):  | [Diptera](/http-en-wikipedia-org-wiki-diptera) |
-| **[Family](/http-en-wikipedia-org-wiki-family-biology)**:  | **Culicidae** |
+| [Kingdom](https://en.wikipedia.org/wiki/kingdom-biology):  | [Animalia](https://en.wikipedia.org/wiki/animal) |
+| [Phylum](https://en.wikipedia.org/wiki/phylum-biology):  | [Arthropoda](https://en.wikipedia.org/wiki/arthropoda) |
+| [(biology) Class](https://en.wikipedia.org/wiki/class):  | [Insecta](https://en.wikipedia.org/wiki/insecta) |
+| [Order](https://en.wikipedia.org/wiki/order-biology):  | [Diptera](https://en.wikipedia.org/wiki/diptera) |
+| **[Family](https://en.wikipedia.org/wiki/family-biology)**:  | **Culicidae** |
 |
 
  |
 
 
-| **[Genera](/http-en-wikipedia-org-wiki-genera)** |
+| **[Genera](https://en.wikipedia.org/wiki/genera)** |
 
 | see text
  |

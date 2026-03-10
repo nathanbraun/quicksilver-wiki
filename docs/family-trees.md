@@ -12,10 +12,10 @@ Tracking who's related to who in the Baroque Cycle can be difficult. Family tree
 #### Actual royalty
 
 
-* [From NealStephenson.com:](/http-www-nealstephenson-com-content-books-bc1-familytrees-htm)
-	+ [House of Bourbon](/http-www-nealstephenson-com-family-bourbon-htm)
-	+ [Houses of Stuart and Orange-Nassau](/http-www-nealstephenson-com-family-stuartorangenassau-htm)
-	+ [Houses of Welf and Hohenzollern](/http-www-nealstephenson-com-family-welfhohenzollern-htm)
+* [From NealStephenson.com:](http://www.nealstephenson.com/content-books-bc1-familytrees.htm)
+	+ [House of Bourbon](http://www.nealstephenson.com/family-bourbon.htm)
+	+ [Houses of Stuart and Orange-Nassau](http://www.nealstephenson.com/family-stuartorangenassau.htm)
+	+ [Houses of Welf and Hohenzollern](http://www.nealstephenson.com/family-welfhohenzollern.htm)
 
 #### Fictional families
 

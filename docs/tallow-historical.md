@@ -31,4 +31,4 @@ Industrially, tallow is not strictly defined as beef or mutton fat. In this cont
 ### Link
 
 
-* [Dominic Palazzolo Chef/President](/http-www-culinart-net) has something to say about tallow
+* [Dominic Palazzolo Chef/President](http://www.culinart.net) has something to say about tallow

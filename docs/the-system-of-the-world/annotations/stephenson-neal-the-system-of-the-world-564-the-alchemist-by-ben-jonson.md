@@ -33,5 +33,5 @@ The play is set in contemporary [17th century](/17th-century) London, and concer
 ### External links
 
 
-* [The online text of The Alchemist](/http-www-bartleby-com-47-2)
-	+ [The interrupted performance. Act II. Scene I.](/http-www-bartleby-com-47-2-21-html)
+* [The online text of The Alchemist](http://www.bartleby.com/47-2)
+	+ [The interrupted performance. Act II. Scene I.](http://www.bartleby.com/47-2-21.html)

@@ -20,7 +20,7 @@ This is a [Quicksilver](/quicksilver) intermediate page for
 ### Community entry: Cotton Mather
 
 
-Mostly from [Wikipedia](/http-en2-wikipedia-org-wiki-main-page), the free encyclopedia. 
+Mostly from [Wikipedia](https://en.wikipedia.org/wiki/main-page), the free encyclopedia. 
 
 Cotton Mather (1664 -1728 ). B.A. 1678 (Harvard), M.A. 1681; honorary doctorate 1710 (University of Glasgow ). Son of Increase Mather. Socially and politically influential Puritan minister, prolific author, and pamphleteer. 
 
@@ -97,5 +97,5 @@ Cotton Mather also has links to pirates.
 ### External links & footnotes
 
 
-* [Cotton Mather Bibliography](/http-www-hillsdale-edu-dept-phil-rel-je-matherc-biblio-html)
+* [Cotton Mather Bibliography](http://www.hillsdale.edu/dept-phil-rel-je-matherc-biblio.html)
 * [Zdarzenie w Mischief Creek - introduction to a narrative, Polish language version](/http-www-sapkowski-pl-modules-php-name-news-file-article-sid-421)

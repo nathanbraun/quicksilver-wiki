@@ -34,7 +34,7 @@ From the Quicksilver Metaweb.
  the Beauty or I have no senses for super!
  natural - it is Craft to the WISE not to WIDE ass.
  There are fragments of music included with every album.
- URI: [[1]](/http-www-quinlanroad-com).
+ URI: [[1]](http://www.quinlanroad.com).
  I own this album - "The VIsit", beeiing owned by one of it's mes ("All Souls Night") (from outer space...) and am 
  going to collect all the art she spontaneously generates. I bow dow to You, Loreena McKennit, for you've
  made me incredibly happy and sad in possitive essence of being

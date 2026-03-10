@@ -32,7 +32,7 @@ The [Renaissance](/renaissance), according to Foucault, focused on [Signs and si
 
 A **neoclassical philosophy** binds [analogy, reason, identity, difference](/analogy-reason-identity-difference) to elite [professions](/profession), detaching them from the emotional culture, the Church, and the power relations of the nobles... the same dissonance that alienates [Don Quixote](/don-quixote) in [Miguel de Cervantes](/miguel-de-cervantes)' novel.
 
-The [Baroque (Wikipedia)](/http-wikipedia-org-wiki-baroque) can be seen as linguistic and focused on [power structure](/power-structure) and [subject-object problems](/subject-object-problem) arising from the [Reformation](/reformation) and [Counter-Reformation](/counter-reformation), reaction to "the crisis
+The [Baroque (Wikipedia)](http://wikipedia.org/wiki-baroque) can be seen as linguistic and focused on [power structure](/power-structure) and [subject-object problems](/subject-object-problem) arising from the [Reformation](/reformation) and [Counter-Reformation](/counter-reformation), reaction to "the crisis
 of Renaissance neoclassical schemes." 
 
 The [neoclassical economics](/neoclassical-economics) of today's [neoliberal](/neoliberal) leads to a [market theology](/market-theology) of [globalization](/globalization). Its idea of "[Man](/man)" has been challenged as being that of [no body](/metaweb-no-body).
@@ -57,5 +57,5 @@ Is history repeating itself? Can it ever do anything else?
 #### External links
 
 
-* [Neoclassical economics (Wikipedia)](/http-wikipedia-org-wiki-neoclassical-economics)
-* [neoliberal (Wikipedia)](/http-wikipedia-org-wiki-neoliberal)
+* [Neoclassical economics (Wikipedia)](http://wikipedia.org/wiki-neoclassical-economics)
+* [neoliberal (Wikipedia)](http://wikipedia.org/wiki-neoliberal)

@@ -35,6 +35,6 @@ Oil on canvas. Louvre, Paris, France**
 ### External links
 
 
-* [Olga's Gallery:*Le Grande Odalisque*](/http-www-abcgallery-com-i-ingres-ingres56-html)
-* [www.dictionary.com](/http-www-dictionary-com)
-* [www.hyperdictionary.com](/http-www-hyperdictionary-com)
+* [Olga's Gallery:*Le Grande Odalisque*](http://www.abcgallery.com/i-ingres-ingres56.html)
+* [www.dictionary.com](http://www.dictionary.com)
+* [www.hyperdictionary.com](http://www.hyperdictionary.com)

@@ -11,4 +11,4 @@ The vast majority of links to the [GFDL text corpus](/gfdl-text-corpus) are of t
 
 With such a standard that expresses language and editability in the URI directly, one need only swap domain names to find the parallel article, and URIs are easily remembered for citing on the radio, on the phone, in person, without having to look up "which [large public wiki](/large-public-wiki) uses which nonstandard."
 
-*See [en:Wikinfo:standard\_wiki\_URI](/http-www-wikinfo-org-wiki-phtml-title-standard-wiki-uri) for further discussion of this and implementation potential for [GetWiki 2.0](/getwiki-2-0). It is not on the [MediaWiki](/mediawiki) radar at all.*
+*See [en:Wikinfo:standard\_wiki\_URI](http://www.wikinfo.org/wiki-phtml-title-standard-wiki-uri) for further discussion of this and implementation potential for [GetWiki 2.0](/getwiki-2-0). It is not on the [MediaWiki](/mediawiki) radar at all.*

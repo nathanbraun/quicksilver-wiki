@@ -3,7 +3,7 @@
 
 From the Quicksilver Metaweb.
 
-### [Wikipedia: Kalimantaan](/http-en-wikipedia-org-wiki-kalimantaan)
+### [Wikipedia: Kalimantaan](https://en.wikipedia.org/wiki/kalimantaan)
 
 
 ***Kalimantaan*** is the title of a novel by C. S. Godshalk offering a fictionalized account of the exploits of James Brooke in Sarawak.
@@ -24,7 +24,7 @@ Ms. Godshalk also make effective use of Malayan words to spice the dish she offe
 
 
 
-| [Malay](/http-en-wikipedia-org-wiki-malay-language) [English](/http-en-wikipedia-org-wiki-english-language) | |
+| [Malay](https://en.wikipedia.org/wiki/malay-language) [English](https://en.wikipedia.org/wiki/english-language) | |
 | --- | --- |
 | abang
   elder brother
@@ -195,4 +195,4 @@ In summary, while it cannot be read as history, Kalimantaan effectively evokes t
 ### External links
 
 
-* [Wikipedia: Kalimantaan](/http-en-wikipedia-org-wiki-kalimantaan) - the basis for this entry
+* [Wikipedia: Kalimantaan](https://en.wikipedia.org/wiki/kalimantaan) - the basis for this entry

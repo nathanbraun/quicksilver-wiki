@@ -8,7 +8,7 @@ This is [Cryptonomicon](/cryptonomicon) page page for **beriberi** that spans to
 
 
 ![logo2.gif](/images/logo2.gif)  
-**For good reason **Yamamoto** is a buzz word among the **[Secret Admirers](/http-www-electricinca-com-56)****
+**For good reason **Yamamoto** is a buzz word among the **[Secret Admirers](http://www.electricinca.com/56)****
 *In WWII  some of the **enemy** were too smart for their own good ...
      ... Yamamoto's feet hurt like hell. Like everyone else within a thousand miles, he has a tropical disease; in his case, beriberi. It is the scourge of the Nipponese and especially of the Navy, because they eat too much polished rice, not enough fish and vegetables. His long nerves have been corroded by lactic acid, so his hands quiver. His failing heart can't shove fluid through his extremities, so his feet swell. He needs to change his shoes several times a day, but he doesn't have room here; he is encumbered not only by the curvature of the plane's greenhouse, but also by his sword.
      They are approaching the Imperial Navy airbase at Bougainville, right on schedule, at 9:35. A shadow passes overhead and Yamamoto glances up to see the silhouette of an escort, way out of position, dangerously close to them. Who is that idiot? Then the green island and the blue ocean rotate into view as his pilot puts the Betty into a power dive. Another plane flashes overhead with a roar that cuts through the noise of the Betty's engines, and although it is nothing more than a black flash, its odd forktailed silhouette registers in his mind. It was a P-38 Lightning, and the last time Admiral Yamamoto checked, the Nipponese Air Force wasn't flying any of those.
@@ -77,6 +77,6 @@ An associated disorder, Wernicke's encephalopathy often accompanies Korsakoff's 
 ### External links
 
 
-* [Wikipedia entry](/http-en-wikipedia-org-wiki-beriberi)
-* [Wernicke-Korsakoff syndrome](/http-en-wikipedia-org-wiki-wernicke-korsakoff-syndrome)
-* [Korsakoff's syndrome](/http-en2-wikipedia-org-wiki-korsakoff-s-syndrome)
+* [Wikipedia entry](https://en.wikipedia.org/wiki/beriberi)
+* [Wernicke-Korsakoff syndrome](https://en.wikipedia.org/wiki/wernicke-korsakoff-syndrome)
+* [Korsakoff's syndrome](https://en.wikipedia.org/wiki/korsakoff-s-syndrome)

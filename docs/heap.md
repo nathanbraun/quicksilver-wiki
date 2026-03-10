@@ -7,7 +7,7 @@ This is the [Cryptonomicon](/cryptonomicon) page for **HEAP**.
 ### Stephensonia
 
 
-*I guess the Holocaust Education and Avoidance Pod (HEAP) seems to partly resemble [Rabbi Marvin Hier](/http-www-wiesenthal-com-about-hier-cfm)'s Museum of Tolerance which is part of the Simon Wiesenthal Center. Though with [Avi's](/avi-halaby) assessment of the Spanish being better than the Aztecs - we need to also examine the avoidance mechanisms - arming yourself. Appalachian Hillbilly might be one aspect of the Shaftoe's American experience. Though [Homer Hickam](/) shows that one can transcend humble roots. I think most of us agree that **education** also implies vigilance and defense of one's family from thuggery. [Doug](/douglas-macarthur-shaftoe) tried to explain to [Avi](/avi-halaby) that homebrew rifling can be trickier than it seems.*
+*I guess the Holocaust Education and Avoidance Pod (HEAP) seems to partly resemble [Rabbi Marvin Hier](http://www.wiesenthal.com/about-hier-cfm)'s Museum of Tolerance which is part of the Simon Wiesenthal Center. Though with [Avi's](/avi-halaby) assessment of the Spanish being better than the Aztecs - we need to also examine the avoidance mechanisms - arming yourself. Appalachian Hillbilly might be one aspect of the Shaftoe's American experience. Though [Homer Hickam](/) shows that one can transcend humble roots. I think most of us agree that **education** also implies vigilance and defense of one's family from thuggery. [Doug](/douglas-macarthur-shaftoe) tried to explain to [Avi](/avi-halaby) that homebrew rifling can be trickier than it seems.*
 
 ### Authored entries
 
@@ -40,7 +40,7 @@ Rabbi Hier is the founder of Moriah, the Center's film division, and is the reci
 
 Several years ago Rabbi Hier keynoted an historic conference on antisemitism and the struggle for tolerance which was co-sponsored by UNESCO (United Nations Educational, Scientific and Cultural Organization) and the Simon Wiesenthal Center, convened at UNESCO's international headquarters in Paris. He is the recipient of an honorary degree and many awards, in 1993 was made a Cheval
 
-### [Wikipedia: Simon Wiesenthal](/http-en-wikipedia-org-wiki-simon-wiesenthal)
+### [Wikipedia: Simon Wiesenthal](https://en.wikipedia.org/wiki/simon-wiesenthal)
 
 
 Simon Wiesenthal, KBE (December 31, 1908  September 20, 2005), was an Austrian Nazi hunter. Wiesenthal dedicated most of his life to tracking down and gathering information on fugitive Nazi war criminals so that they could be brought to trial.
@@ -65,7 +65,7 @@ The character of Yakov Liebermann in Ira Levin's novel The Boys from Brazil is m
 ![logo1.gif](/images/logo1.gif)  
 **Proto-HEAP types  
 like the  
- [Secret Admirers](/http-www-electricinca-com-56)  
+ [Secret Admirers](http://www.electricinca.com/56)  
 like long guns  
 as they can't be  
 viewed as  
@@ -167,7 +167,7 @@ Shotguns do not require rifling, and so should be much easier to make, and safer
 #### Unrifled military weapons
 
 
-1. [The Liberator](/http-usgi1911-tripod-com-liberator), a single shot, unrifled handgun produced by US toy manufacturers for less than a buck during WWII, these were airdropped to resistance fighters to use against Axis soldiers in order to take their weapons from them. The Liberator has been known to fire as many as a dozen rounds before becoming non-functional. It is a poor military cousin of the elegant blued pre-war Colt M1911A1 .45 caliber pistols.
+1. [The Liberator](http://usgi1911.tripod.com/liberator), a single shot, unrifled handgun produced by US toy manufacturers for less than a buck during WWII, these were airdropped to resistance fighters to use against Axis soldiers in order to take their weapons from them. The Liberator has been known to fire as many as a dozen rounds before becoming non-functional. It is a poor military cousin of the elegant blued pre-war Colt M1911A1 .45 caliber pistols.
 2. [Recoilless Rifle](/), also know as a [Bazooka](/), this is a tube launched shoulder fired missile used against vehicles and armor, while specialized anti-aircraft versions, like the [Stinger](/) and the [Kestrel](/) are also popular with infantry units.
 
 
@@ -183,7 +183,7 @@ Shotguns do not require rifling, and so should be much easier to make, and safer
 ### External links
 
 
-* [SWC](/http-www-wiesenthal-com)
+* [SWC](http://www.wiesenthal.com)
 * [Gyrojet](/)
 * [You Only Live Twice](/)
 * [List of James Bond gadgets](/)
@@ -218,9 +218,9 @@ Shotguns do not require rifling, and so should be much easier to make, and safer
 * [Mark 11 Mod 0](/)
 * [Mark 12 Mod 0](/)
 * [Long rifle](/)
-* [Principles of Firearms](/http-rkba-org-guns-principles)
-* [Sporting Arms and Ammunition Manufacturers Institute (SAAMI) Publications Directory](/http-www-saami-org-docs-saami-lit-pdf)
-* [The Free Arms Project](/http-groups-yahoo-com-group-free-arms)
-* [Submachine Gun Designers Handbook](/http-www-gunshowbooks-com-cgi-bin-webc-exe-st-prod-html-p-prodid-gs122115-sid-6k0gli1r) Store listing, highly recommended purchase.
-* [MILITARY HANDBOOK, DESIGN GUIDELINES FOR PHYSICAL SECURITY OF FACILITIES](/http-www-ccb-org-docs-dmmhnav-1013-1a-pdf)
+* [Principles of Firearms](http://rkba.org/guns-principles)
+* [Sporting Arms and Ammunition Manufacturers Institute (SAAMI) Publications Directory](http://www.saami.org/docs-saami-lit.pdf)
+* [The Free Arms Project](http://groups.yahoo.com/group-free-arms)
+* [Submachine Gun Designers Handbook](http://www.gunshowbooks.com/cgi-bin-webc-exe-st-prod-html-p-prodid-gs122115-sid-6k0gli1r) Store listing, highly recommended purchase.
+* [MILITARY HANDBOOK, DESIGN GUIDELINES FOR PHYSICAL SECURITY OF FACILITIES](http://www.ccb.org/docs-dmmhnav-1013-1a.pdf)
 * [Andromeda Strain](/http-216-239-59-104-search-q-cache-ulxl4rh00dwj-smsc-cnes-fr-parasol-parasol-hl-en-start-4)

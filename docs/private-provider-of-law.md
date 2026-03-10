@@ -15,5 +15,5 @@ Individuals who do not retain a PPL may be said to have "gone Armadillo" in the 
 See also: [Private Protection Agency](/private-protection-agency), [Protocol Enforcement](/protocol-enforcement), and [Common Economic Protocol](/common-economic-protocol)
 
 External Links
-* [David Friedman's Website](/http-www-daviddfriedman-com)
-* ["The Machinery of Freedom" by David Friedman (at amazon.com)](/http-www-amazon-com-gp-product-0812690699-102-7445426-8529757-v-glance-n-283155)
+* [David Friedman's Website](http://www.daviddfriedman.com)
+* ["The Machinery of Freedom" by David Friedman (at amazon.com)](http://www.amazon.com/gp-product-0812690699-102-7445426-8529757-v-glance-n-283155)

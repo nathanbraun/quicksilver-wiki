@@ -27,9 +27,9 @@ King Philip V of Spain (1683-1746) was king of Spain from 1700 to 1746, the firs
 
 On January 14, 1724, Philip abdicated the throne to his eldest son, Louis, but resumed it later that year when Louis died of smallpox. 
 
-Philip helped his Bourbon relatives to make territorial gains in the War of the Polish Succession[[1]](/http-en2-wikipedia-org-wiki-war-of-the-polish-succession) and the War of the Austrian Succession[[2]](/http-en2-wikipedia-org-wiki-war-of-the-austrian-succession). During his reign Spain began to recover from the stagnation it had suffered during the twilight of the Habsburg dynasty. Ferdinand VI of Spain, his son by his first queen Maria Luisa of Savoy, succeeded him. 
+Philip helped his Bourbon relatives to make territorial gains in the War of the Polish Succession[[1]](https://en.wikipedia.org/wiki/war-of-the-polish-succession) and the War of the Austrian Succession[[2]](https://en.wikipedia.org/wiki/war-of-the-austrian-succession). During his reign Spain began to recover from the stagnation it had suffered during the twilight of the Habsburg dynasty. Ferdinand VI of Spain, his son by his first queen Maria Luisa of Savoy, succeeded him. 
 
-He had a second wife Elizabeth Farnese, who bore him another succeesor, Charles III of Spain[[3]](/http-en2-wikipedia-org-wiki-charles-iii-of-spain).
+He had a second wife Elizabeth Farnese, who bore him another succeesor, Charles III of Spain[[3]](https://en.wikipedia.org/wiki/charles-iii-of-spain).
 
 ### Related links
 
@@ -42,6 +42,6 @@ He had a second wife Elizabeth Farnese, who bore him another succeesor, Charles 
 ### External links
 
 
-1. * [War of the Polish Succession](/http-en2-wikipedia-org-wiki-war-of-the-polish-succession)
-2. * [War of the Austrian Succession](/http-en2-wikipedia-org-wiki-war-of-the-austrian-succession)
-3. * [Charles III of Spain](/http-en2-wikipedia-org-wiki-charles-iii-of-spain)
+1. * [War of the Polish Succession](https://en.wikipedia.org/wiki/war-of-the-polish-succession)
+2. * [War of the Austrian Succession](https://en.wikipedia.org/wiki/war-of-the-austrian-succession)
+3. * [Charles III of Spain](https://en.wikipedia.org/wiki/charles-iii-of-spain)

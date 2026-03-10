@@ -5,7 +5,7 @@ From the Quicksilver Metaweb.
 
 Map of India
 
-This map is a modified version of the [CIA Handbook's map of India](/http-www-cia-gov-cia-publications-factbook-geos-in-html).
+This map is a modified version of the [CIA Handbook's map of India](http://www.cia.gov/cia-publications-factbook-geos-in.html).
 
 I've added Malabar, Surat, Cape Comorin, and the name Shahjahanabad to Delhi. - [Pronoiac](/user-pronoiac) 14:32, 21 Feb 2005 (PST)
 

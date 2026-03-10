@@ -11,5 +11,5 @@ Links will be made when we work down to the Elizabethans and Jacobians -- you ha
 ---
 
 
- T.L. Hubeart Jr. writes in his article [The Roots of the KJV: Tyndale and the "Geneva Bible"](/http-members-aol-com-basfawlty-bibtabl-htm): " ... English Protestants who had fled to Geneva, John Calvin's stronghold, began work on a translation which would be known as the "Geneva Bible." ..."
+ T.L. Hubeart Jr. writes in his article [The Roots of the KJV: Tyndale and the "Geneva Bible"](http://members.aol.com/basfawlty-bibtabl.htm): " ... English Protestants who had fled to Geneva, John Calvin's stronghold, began work on a translation which would be known as the "Geneva Bible." ..."
  And its clear that the KJV was an important political action by James I. [Sparky](/user-stsparky) 19:46, 30 Oct 2003 (PST)

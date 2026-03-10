@@ -9,7 +9,7 @@ After being proclaimed king in Taunton, [Monmouth](/monmouth) marched north towa
 
 [Judge Jeffreys](/judge-jeffreys) was placed in charge of the trial of the rebel troops, a task which he attended to with great enthusiasm and cruelty.
 
-Further information about the Monmouth Rebellion can be found at: [http://www.somerset.gov.uk/archives/ASH/Monmouthreb.htm](/http-www-somerset-gov-uk-archives-ash-monmouthreb-htm). As Sedgemoor was one of the last battles on English soil it is a famous event and re-enactments of the battle are occasionally staged (there was one in 2003).
+Further information about the Monmouth Rebellion can be found at: [http://www.somerset.gov.uk/archives/ASH/Monmouthreb.htm](http://www.somerset.gov/uk-archives-ash-monmouthreb.htm). As Sedgemoor was one of the last battles on English soil it is a famous event and re-enactments of the battle are occasionally staged (there was one in 2003).
 
 The Battle of Sedgemoor, and Judge Jeffreys, also figure in the classic nautical novel *Captain Blood* by Rafael Sabatini, and the swashbuckling Errol Flynn film of the same name.
 

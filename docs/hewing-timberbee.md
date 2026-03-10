@@ -187,7 +187,7 @@ And thats all there is to that.
 Scoring is the process by which the bulk of the waste is removed and the log is made ready to be Hewn with the Broad Axe.   
 There are two main, traditional, methods;
 
-* One Man Scoring; Standing atop the log and scoring down, between ones feet, with the felling axe. A method also used to Buck a log with an axe  cut it to length, And which is seen as an event in some of the [Lumberjack](/http-www-stihlusa-com-timbersports-timber-html) competitions across the country.
+* One Man Scoring; Standing atop the log and scoring down, between ones feet, with the felling axe. A method also used to Buck a log with an axe  cut it to length, And which is seen as an event in some of the [Lumberjack](http://www.stihlusa.com/timbersports-timber.html) competitions across the country.
 
  One Man Scoring can be used to either produce Close scoring as well as Juggling (Vs).
 
@@ -230,4 +230,4 @@ In these instances, Juggling will be done to remove much of the waste, those jug
 ## External Links
 
 
-* [Rev J.D. Hooker's Article](/http-www-backwoodshome-com-articles-hooker43-html) gives an overview of the Hewing process. Though scoring is done, primarily, with a chainsaw, and little or no attention is given to dressing the timber with a Broad axe, and snapping lines the lines onto the surface of the log (Which is an absolutely [**Critical**](/http-www-metaweb-com-wiki-wiki-phtml-title-hewing-timberbee-snapping-the-lines) step) is a bit misleading in diagram 4. It is still a snapshot of a process that is as old as the shaping of Logs, and, for all the objections listed above, is still remarkably close to how things are done.
+* [Rev J.D. Hooker's Article](http://www.backwoodshome.com/articles-hooker43.html) gives an overview of the Hewing process. Though scoring is done, primarily, with a chainsaw, and little or no attention is given to dressing the timber with a Broad axe, and snapping lines the lines onto the surface of the log (Which is an absolutely [**Critical**](http://www.metaweb.com/wiki-wiki-phtml-title-hewing-timberbee-snapping-the-lines) step) is a bit misleading in diagram 4. It is still a snapshot of a process that is as old as the shaping of Logs, and, for all the objections listed above, is still remarkably close to how things are done.

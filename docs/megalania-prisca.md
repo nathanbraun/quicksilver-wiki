@@ -38,7 +38,7 @@ It would also have competed for prey with other large carnivores such as the Mar
 ![Bobbie%26LizardMW.jpg](/images/Bobbie%26LizardMW.jpg)  
 **A Nightmarish Big Lizard With Saberlike Septic Teeth**
 
-It is a beloved animal for cryptozoologists. The last *sightings* were from the 1970s. There have been sightings of large lizards in the Australian outback for some time. In 1961 three woodcutters were scared by a lizard they thought to be about 4 meters long. In July 1979, cryptozoologist Rex Gilroy[[1]](/http-www-internetezy-com-au-mj129-amazing-creatures-lizards-html) was called to a freshly-plowed field by a farmer. Across the field were 30 or so tracks from what looked like an enormous lizard. While most of the tracks had been ruined by rain, Gilroy was able to make a plaster cast of one that had been preserved. The footprint looked surprisingly like something that might have been made by a Megalania. *While it sounds like a bigfoot sighting  it is grounded in better scientific evidence.*
+It is a beloved animal for cryptozoologists. The last *sightings* were from the 1970s. There have been sightings of large lizards in the Australian outback for some time. In 1961 three woodcutters were scared by a lizard they thought to be about 4 meters long. In July 1979, cryptozoologist Rex Gilroy[[1]](http://www.internetezy.com/au-mj129-amazing-creatures-lizards.html) was called to a freshly-plowed field by a farmer. Across the field were 30 or so tracks from what looked like an enormous lizard. While most of the tracks had been ruined by rain, Gilroy was able to make a plaster cast of one that had been preserved. The footprint looked surprisingly like something that might have been made by a Megalania. *While it sounds like a bigfoot sighting  it is grounded in better scientific evidence.*
 
 Other incidents include a farmer who saw a lizard moving along the edge of his field. Using a set of fence posts as a guide, the farmer estimated the animal's length at seven to eight meters. A sighting of megalania arose in 1979, this time by the best possible witness  Herpetologist Frank Gordon  after conducting some field work in the Wattagan Mountains in New South Wales returned to his vehicle. After starting his engine he saw, what he at first thought was a log, scampering off. It ended up being a lizard of some 9 meters or more in length. 
 
@@ -116,7 +116,7 @@ Tigers are warm-blooded and maintain a constant body temperature at all times. T
 ### Historical Dragons
 
 
- ... In the main ports of call, Nikki [Alford] and the rest of the team are setting Rex [Warner] a quest based on the six hundred year old diary of Ma Huan, who sailed on three of [Zheng He](/http-en-wikipedia-org-wiki-zheng-he)'s seven voyages. The second quest: In Melaka, to find what Ma Huan describes as an Iguana Dragon - an animal which is covered with scales, has a dragon's head, and which bites men! ...[[2]](/http-www-dragonvoyage-com-news)
+ ... In the main ports of call, Nikki [Alford] and the rest of the team are setting Rex [Warner] a quest based on the six hundred year old diary of Ma Huan, who sailed on three of [Zheng He](https://en.wikipedia.org/wiki/zheng-he)'s seven voyages. The second quest: In Melaka, to find what Ma Huan describes as an Iguana Dragon - an animal which is covered with scales, has a dragon's head, and which bites men! ...[[2]](http://www.dragonvoyage.com/news)
 
 ```
          
@@ -133,11 +133,11 @@ Tigers are warm-blooded and maintain a constant body temperature at all times. T
 ### Footnotes & External links
 
 
-* 1 [Gilroy](/http-www-internetezy-com-au-mj129-amazing-creatures-lizards-html)
-* 2 [Voyage of the Dragon Kings](/http-www-dragonvoyage-com-news)
-* [Ripper Lizards](/http-www-bbc-co-uk-nature-wildfacts-factfiles-3046-shtml)
-* [Megafauna](/http-en2-wikipedia-org-wiki-megafauna)
-* [Cryptozoology](/http-en2-wikipedia-org-wiki-cryptozoology)
-* [Flores](/http-en2-wikipedia-org-wiki-flores)
-* [Indonesia](/http-en2-wikipedia-org-wiki-indonesia)
-* [Zheng He](/http-en-wikipedia-org-wiki-zheng-he)
+* 1 [Gilroy](http://www.internetezy.com/au-mj129-amazing-creatures-lizards.html)
+* 2 [Voyage of the Dragon Kings](http://www.dragonvoyage.com/news)
+* [Ripper Lizards](http://www.bbc.co.uk/nature-wildfacts-factfiles-3046-shtml)
+* [Megafauna](https://en.wikipedia.org/wiki/megafauna)
+* [Cryptozoology](https://en.wikipedia.org/wiki/cryptozoology)
+* [Flores](https://en.wikipedia.org/wiki/flores)
+* [Indonesia](https://en.wikipedia.org/wiki/indonesia)
+* [Zheng He](https://en.wikipedia.org/wiki/zheng-he)

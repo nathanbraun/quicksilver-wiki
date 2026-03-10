@@ -19,7 +19,7 @@ This is a placeholder for **King Louis the 14th**
 ### [Wikipedia: Louis XIV (adapted)](/)
 
 
-**Louis XIV** (the Sun King, pronounced "Louie Ka-torz") (September 5, 1638 - September 1, 1715) reigned as king of France from May 14, 1643 to September 1, 1715. Louis did not effectively become ruler until the death of [Cardinal Mazarin](/http-en2-wikipedia-org-wiki-cardinal-mazarin), in 1661. His reign generally epitomises European absolutism; in fact, he sometimes has the reputation of "the greatest absolute monarch". 
+**Louis XIV** (the Sun King, pronounced "Louie Ka-torz") (September 5, 1638 - September 1, 1715) reigned as king of France from May 14, 1643 to September 1, 1715. Louis did not effectively become ruler until the death of [Cardinal Mazarin](https://en.wikipedia.org/wiki/cardinal-mazarin), in 1661. His reign generally epitomises European absolutism; in fact, he sometimes has the reputation of "the greatest absolute monarch". 
 
 #### Birth & Childhood
 
@@ -30,7 +30,7 @@ His birth at Saint-Germain-en-Laye appeared miraculous, occurring twenty-three y
 King of France and Navarre  
 by [Hyacinthe Rigaud](/) (1701)**
 
-Louis married Maria Theresa of Spain (Marie-Thérèse d'Espagne) in 1660. (She died in (1683), after which he married [morganatically](/http-www-cogsci-princeton-edu-cgi-bin-webwn2-0-stage-1-word-morganatic) the Marquise de Maintenon.) His real assumption of power came after Mazarin's death, in 1661. 
+Louis married Maria Theresa of Spain (Marie-Thérèse d'Espagne) in 1660. (She died in (1683), after which he married [morganatically](http://www.cogsci.princeton.edu/cgi-bin-webwn2-0-stage-1-word-morganatic) the Marquise de Maintenon.) His real assumption of power came after Mazarin's death, in 1661. 
 
 King Louis XIV died on September 1, 1715 and was buried in Saint Denis Basilica in Paris. He outlived his son, the dauphin Louis, and eldest grandson. His great-grandson, who became King Louis XV of France, and who spent his minority under the regency of Philippe II of Orleans, succeded him as king. 
 
@@ -107,4 +107,4 @@ Louis XIV remains beloved in France for his vigorous promotion of French greatne
 ### External Links
 
 
-* [House of Bourbon family tree](/http-www-nealstephenson-com-family-bourbon-htm)
+* [House of Bourbon family tree](http://www.nealstephenson.com/family-bourbon.htm)

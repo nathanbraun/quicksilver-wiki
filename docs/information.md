@@ -87,7 +87,7 @@ Another link is demonstrated by the Maxwells demon thought experiment. In this a
 #### Etymology of "information" in English
 
 
-According to the [Oxford English Dictionary](/http-dictionary-oed-com), the earliest historical meaning
+According to the [Oxford English Dictionary](http://dictionary.oed.com), the earliest historical meaning
 of the word *information* in English was the act of *informing*,
 or giving form or shape to the mind, as in education, instruction, or training.
 A quote from 1387: "Five books come down from heaven for information of mankind."
@@ -105,7 +105,7 @@ concept or idea, but the extent to which this may have influenced the developmen
 #### References
 
 
-* Bekenstein, Jacob D. (2003, August). Information in the holographic principle|holographic universe. *Scientific American*. Retrieved from [http://www.referencenter.com](/http-www-referencenter-com)
+* Bekenstein, Jacob D. (2003, August). Information in the holographic principle|holographic universe. *Scientific American*. Retrieved from [http://www.referencenter.com](http://www.referencenter.com)
 
 
 #### See also
@@ -139,4 +139,4 @@ concept or idea, but the extent to which this may have influenced the developmen
 
 
 * [Principia Cybernetica entry on negentropy](/http-pespmc1-vub-ac-be-asc-negentropy-html)
-* [Internet Information Reference Center](/http-www-referencenter-com)
+* [Internet Information Reference Center](http://www.referencenter.com)

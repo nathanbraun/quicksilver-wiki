@@ -247,4 +247,4 @@ A process in which hides are tumbled in a rotating drum to soften the hand or en
 ### External links
 
 
-* [Wikipedia's entry on Tanning](/http-en2-wikipedia-org-wiki-tanning)
+* [Wikipedia's entry on Tanning](https://en.wikipedia.org/wiki/tanning)

@@ -40,5 +40,5 @@ When Toyotomi Hideyoshi died in 1598, his retainer Tokugawa Ieyasu sought to sub
 ### [External links](/metaweb-external-links)
 
 
-* [Wikipedia: Samurai](/http-en-wikipedia-org-wiki-samurai)
-* [The Wikipedia entry for the Azuchi-Momoyama period](/http-en-wikipedia-org-wiki-azuchi-momoyama-period)
+* [Wikipedia: Samurai](https://en.wikipedia.org/wiki/samurai)
+* [The Wikipedia entry for the Azuchi-Momoyama period](https://en.wikipedia.org/wiki/azuchi-momoyama-period)

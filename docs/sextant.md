@@ -89,4 +89,4 @@ See also:
 ### External links and resources
 
 
-[on-line dealer for sextants, accessories and books](/http-www-celestaire-com)
+[on-line dealer for sextants, accessories and books](http://www.celestaire.com)

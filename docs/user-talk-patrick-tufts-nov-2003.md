@@ -49,11 +49,11 @@ Multi-author blogs have many serious problems. Among them, no inline threading, 
 
 Is there an thoughtful indexing system? On the level of **Main Character** ***ACTS*** versus our well intentioned commentary upon deeds and characters? [Sparky](/user-stsparky) 23:43, 30 Oct 2003 (PST)
 
-Thoughtful indexing, as you suggest, consists of organizing around stories - these could be fictional characters. Consider [this story](/http-simple-wikipedia-org-wiki-seus-juan-looks-at-the-sky) and [this one](/http-simple-wikipedia-org-wiki-seus-rakku-saves-her-baby) as two good examples of stories about user needs that can drive development work of a content base.
+Thoughtful indexing, as you suggest, consists of organizing around stories - these could be fictional characters. Consider [this story](https://simple.wikipedia.org/wiki/seus-juan-looks-at-the-sky) and [this one](https://simple.wikipedia.org/wiki/seus-rakku-saves-her-baby) as two good examples of stories about user needs that can drive development work of a content base.
 
 Seems workable, a clue as to the index I envision might be the information from Neal Stephenson himself presented on the pages of the book. The headers on the right hand pages of [Quicksilver](/stephenson-neal-quicksilver) inform without being spoilers save for the instant when someone's sick bed becomes their deathbed. [Sparky](/user-stsparky) 01:12, 9 Nov 2003 (PST)
 
-As for software, a [wikitext standard](/wikitext-standard) and the [Simple Ideology of Wikitax](/http-meta-wikipedia-org-wiki-simple-ideology-of-wikitax)], expressed in new software, is the only real answer. Blogs are a very big step backwards.
+As for software, a [wikitext standard](/wikitext-standard) and the [Simple Ideology of Wikitax](https://meta.wikipedia.org/wiki/simple-ideology-of-wikitax)], expressed in new software, is the only real answer. Blogs are a very big step backwards.
 
 
 

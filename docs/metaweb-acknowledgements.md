@@ -3,7 +3,7 @@
 
 From the Quicksilver Metaweb.
 
-The Metaweb runs on [MediaWiki](/http-wikipedia-sourceforge-net), the same software used by the [Wikipedia](/http-www-wikipedia-org). 
+The Metaweb runs on [MediaWiki](http://wikipedia.sourceforge.net), the same software used by the [Wikipedia](http://www.wikipedia.org). 
 
 
 

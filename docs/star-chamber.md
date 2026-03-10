@@ -46,4 +46,4 @@ In the early 1900s, Edgar Lee Masters wrote:
 ## External Link
 
 
-[http://en.wikipedia.org/wiki/Star\_Chamber](/http-en-wikipedia-org-wiki-star_chamber)
+[http://en.wikipedia.org/wiki/Star\_Chamber](https://en.wikipedia.org/wiki/star_chamber)

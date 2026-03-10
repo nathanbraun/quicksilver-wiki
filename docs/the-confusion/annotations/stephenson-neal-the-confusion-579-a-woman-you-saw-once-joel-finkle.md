@@ -34,4 +34,4 @@ This is clearly [Sophia\_of\_Hanover](/sophia-of-hanover) (at least it's clear l
 ### External links
 
 
-* [Bios: The Women of Hannover](/http-www-fembio-org-women-from-hannover-sophia-of-hanover-shtml)
+* [Bios: The Women of Hannover](http://www.fembio.org/women-from-hannover-sophia-of-hanover-shtml)

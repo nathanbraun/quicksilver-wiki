@@ -21,7 +21,7 @@ That distinction, however, is pedantic in most contexts (other than the expressi
 ### History
 
  
-There is some evidence, in the form of the [Baghdad Battery](/http-en-wikipedia-org-wiki-baghdad-battery) from sometime between 250 BCE and 250 CE, and possibly related artifacts in ancient Egypt, of electroplating primary cells having been used in ancient times to gild, with a precious metal, an object serving as an electrode. Such ancient knowledge in the history of electricity bears no known continous relationship to the development of modern batteries. It's form, though, is nearly identical to the principles that are in use today 
+There is some evidence, in the form of the [Baghdad Battery](https://en.wikipedia.org/wiki/baghdad-battery) from sometime between 250 BCE and 250 CE, and possibly related artifacts in ancient Egypt, of electroplating primary cells having been used in ancient times to gild, with a precious metal, an object serving as an electrode. Such ancient knowledge in the history of electricity bears no known continous relationship to the development of modern batteries. It's form, though, is nearly identical to the principles that are in use today 
 
 In 1748, [Benjamin Franklin](/benjamin-franklin) coined the term *battery* to describe an array of charged glass plates. He adapted the word from its earlier sense meaning a beating, which is what an electric shock from the apparatus felt like. In those days, the entertaining effect of an electric shock was one of the few uses of the technology. Other experimenters made batteries from a number of Leyden jars connected in parallel. The definition was later widened to include an array of electrochemical cells or capacitors. The chemical battery was the Voltaic pile rediscovered by Alessandro Volta in 1800. Volta researched the effects which different metals produced when exposed to salt water. In 1801, Volta demonstrated the Voltaic cell to Napoleon Bonaparte (who later enobled him for his discoveries). Luigi Galvani researched the same effect with two pieces of the same metal exposed to salt water. 
 
@@ -99,166 +99,166 @@ The relevant US standard is ANSI C18.1 *American National Standard for Dry Cells
 
 
 * [An extensive series of articles on many aspects of batteries and their use in portable equipment](/http-www-buchmann-ca)
-* [Baghdad Battery](/http-www-smith-edu-hsc-museum-ancient-inventions-battery2-html)
-* [Battery Glossary](/http-www-windsun-com-batteries-battery-glos-htm)
+* [Baghdad Battery](http://www.smith.edu/hsc-museum-ancient-inventions-battery2.html)
+* [Battery Glossary](http://www.windsun.com/batteries-battery-glos.htm)
 
 
 #### Types
 
 
-* [http://en.wikipedia.org/wiki/A](/http-en-wikipedia-org-wiki-a)
-* [http://en.wikipedia.org/wiki/AA](/http-en-wikipedia-org-wiki-aa)
-* [http://en.wikipedia.org/wiki/AAA](/http-en-wikipedia-org-wiki-aaa)
-* [http://en.wikipedia.org/wiki/B](/http-en-wikipedia-org-wiki-b)
-* [http://en.wikipedia.org/wiki/C](/http-en-wikipedia-org-wiki-c)
-* [http://en.wikipedia.org/wiki/D](/http-en-wikipedia-org-wiki-d)
+* [http://en.wikipedia.org/wiki/A](https://en.wikipedia.org/wiki/a)
+* [http://en.wikipedia.org/wiki/AA](https://en.wikipedia.org/wiki/aa)
+* [http://en.wikipedia.org/wiki/AAA](https://en.wikipedia.org/wiki/aaa)
+* [http://en.wikipedia.org/wiki/B](https://en.wikipedia.org/wiki/b)
+* [http://en.wikipedia.org/wiki/C](https://en.wikipedia.org/wiki/c)
+* [http://en.wikipedia.org/wiki/D](https://en.wikipedia.org/wiki/d)
 
 
 #### People
 
 
-* [http://en.wikipedia.org/wiki/Luigi\_Galvani](/http-en-wikipedia-org-wiki-luigi_galvani)
-* [http://en.wikipedia.org/wiki/Alessandro\_Volta](/http-en-wikipedia-org-wiki-alessandro_volta)
-* [http://en.wikipedia.org/wiki/Slavoljub\_Penkala](/http-en-wikipedia-org-wiki-slavoljub_penkala)
-* [http://en.wikipedia.org/wiki/John\_Frederic\_Daniell](/http-en-wikipedia-org-wiki-john_frederic_daniell)
-* [http://en.wikipedia.org/wiki/Moritz\_von\_Jacobi](/http-en-wikipedia-org-wiki-moritz_von_jacobi)
-* [http://en.wikipedia.org/wiki/Nikola\_Tesla](/http-en-wikipedia-org-wiki-nikola_tesla)
+* [http://en.wikipedia.org/wiki/Luigi\_Galvani](https://en.wikipedia.org/wiki/luigi_galvani)
+* [http://en.wikipedia.org/wiki/Alessandro\_Volta](https://en.wikipedia.org/wiki/alessandro_volta)
+* [http://en.wikipedia.org/wiki/Slavoljub\_Penkala](https://en.wikipedia.org/wiki/slavoljub_penkala)
+* [http://en.wikipedia.org/wiki/John\_Frederic\_Daniell](https://en.wikipedia.org/wiki/john_frederic_daniell)
+* [http://en.wikipedia.org/wiki/Moritz\_von\_Jacobi](https://en.wikipedia.org/wiki/moritz_von_jacobi)
+* [http://en.wikipedia.org/wiki/Nikola\_Tesla](https://en.wikipedia.org/wiki/nikola_tesla)
 
 
 #### Electrical
 
 
-* [http://en.wikipedia.org/wiki/Volt](/http-en-wikipedia-org-wiki-volt)
-* [http://en.wikipedia.org/wiki/Potential\_difference](/http-en-wikipedia-org-wiki-potential_difference)
-* [http://en.wikipedia.org/wiki/Electric\_light](/http-en-wikipedia-org-wiki-electric_light)
-* [http://en.wikipedia.org/wiki/Electric\_vehicle](/http-en-wikipedia-org-wiki-electric_vehicle)
-* [http://en.wikipedia.org/wiki/Electrical\_efficiency](/http-en-wikipedia-org-wiki-electrical_efficiency)
-* [http://en.wikipedia.org/wiki/Electrical\_element](/http-en-wikipedia-org-wiki-electrical_element)
-* [http://en.wikipedia.org/wiki/Electricity](/http-en-wikipedia-org-wiki-electricity)
-* [http://en.wikipedia.org/wiki/Electrochemical\_cell](/http-en-wikipedia-org-wiki-electrochemical_cell)
-* [http://en.wikipedia.org/wiki/Electrochemical\_potential](/http-en-wikipedia-org-wiki-electrochemical_potential)
-* [http://en.wikipedia.org/wiki/Electrochemistry](/http-en-wikipedia-org-wiki-electrochemistry)
-* [http://en.wikipedia.org/wiki/Electromotive\_force](/http-en-wikipedia-org-wiki-electromotive_force)
-* [http://en.wikipedia.org/wiki/Electroplating](/http-en-wikipedia-org-wiki-electroplating)
-* [http://en.wikipedia.org/wiki/Energy\_storage](/http-en-wikipedia-org-wiki-energy_storage)
-* [http://en.wikipedia.org/wiki/Local\_battery](/http-en-wikipedia-org-wiki-local_battery)
-* [http://en.wikipedia.org/wiki/Power\_supply](/http-en-wikipedia-org-wiki-power_supply)
-* [http://en.wikipedia.org/wiki/Direct\_current](/http-en-wikipedia-org-wiki-direct_current)
-* [http://en.wikipedia.org/wiki/Solar\_power](/http-en-wikipedia-org-wiki-solar_power)
-* [http://en.wikipedia.org/wiki/Renewable\_energy](/http-en-wikipedia-org-wiki-renewable_energy)
+* [http://en.wikipedia.org/wiki/Volt](https://en.wikipedia.org/wiki/volt)
+* [http://en.wikipedia.org/wiki/Potential\_difference](https://en.wikipedia.org/wiki/potential_difference)
+* [http://en.wikipedia.org/wiki/Electric\_light](https://en.wikipedia.org/wiki/electric_light)
+* [http://en.wikipedia.org/wiki/Electric\_vehicle](https://en.wikipedia.org/wiki/electric_vehicle)
+* [http://en.wikipedia.org/wiki/Electrical\_efficiency](https://en.wikipedia.org/wiki/electrical_efficiency)
+* [http://en.wikipedia.org/wiki/Electrical\_element](https://en.wikipedia.org/wiki/electrical_element)
+* [http://en.wikipedia.org/wiki/Electricity](https://en.wikipedia.org/wiki/electricity)
+* [http://en.wikipedia.org/wiki/Electrochemical\_cell](https://en.wikipedia.org/wiki/electrochemical_cell)
+* [http://en.wikipedia.org/wiki/Electrochemical\_potential](https://en.wikipedia.org/wiki/electrochemical_potential)
+* [http://en.wikipedia.org/wiki/Electrochemistry](https://en.wikipedia.org/wiki/electrochemistry)
+* [http://en.wikipedia.org/wiki/Electromotive\_force](https://en.wikipedia.org/wiki/electromotive_force)
+* [http://en.wikipedia.org/wiki/Electroplating](https://en.wikipedia.org/wiki/electroplating)
+* [http://en.wikipedia.org/wiki/Energy\_storage](https://en.wikipedia.org/wiki/energy_storage)
+* [http://en.wikipedia.org/wiki/Local\_battery](https://en.wikipedia.org/wiki/local_battery)
+* [http://en.wikipedia.org/wiki/Power\_supply](https://en.wikipedia.org/wiki/power_supply)
+* [http://en.wikipedia.org/wiki/Direct\_current](https://en.wikipedia.org/wiki/direct_current)
+* [http://en.wikipedia.org/wiki/Solar\_power](https://en.wikipedia.org/wiki/solar_power)
+* [http://en.wikipedia.org/wiki/Renewable\_energy](https://en.wikipedia.org/wiki/renewable_energy)
 
 
 #### Electronics
 
 
-* [http://en.wikipedia.org/wiki/Series\_and\_parallel\_circuits](/http-en-wikipedia-org-wiki-series_and_parallel_circuits)
-* [http://en.wikipedia.org/wiki/Secondary\_cell](/http-en-wikipedia-org-wiki-secondary_cell)
-* [http://en.wikipedia.org/wiki/Electrode](/http-en-wikipedia-org-wiki-electrode)
-* [http://en.wikipedia.org/wiki/Electrolytic\_capacitor](/http-en-wikipedia-org-wiki-electrolytic_capacitor)
-* [http://en.wikipedia.org/wiki/Acculmulator](/http-en-wikipedia-org-wiki-acculmulator)
-* [http://en.wikipedia.org/wiki/Transducer](/http-en-wikipedia-org-wiki-transducer)
-* [http://en.wikipedia.org/wiki/Transistor](/http-en-wikipedia-org-wiki-transistor)
-* [http://en.wikipedia.org/wiki/Vacuum\_tube](/http-en-wikipedia-org-wiki-vacuum_tube)
-* [http://en.wikipedia.org/wiki/Telephone\_switchboard](/http-en-wikipedia-org-wiki-telephone_switchboard)
-* [http://en.wikipedia.org/wiki/Cell\_holder](/http-en-wikipedia-org-wiki-cell_holder)
-* [http://en.wikipedia.org/wiki/Diode](/http-en-wikipedia-org-wiki-diode)
-* [http://en.wikipedia.org/wiki/Diode\_bridge](/http-en-wikipedia-org-wiki-diode_bridge)
-* [http://en.wikipedia.org/wiki/Fuel\_cell](/http-en-wikipedia-org-wiki-fuel_cell)
-* [http://en.wikipedia.org/wiki/Galvanic\_cell](/http-en-wikipedia-org-wiki-galvanic_cell)
-* [http://en.wikipedia.org/wiki/Ignition\_system](/http-en-wikipedia-org-wiki-ignition_system)
-* [http://en.wikipedia.org/wiki/Arc\_lamp](/http-en-wikipedia-org-wiki-arc_lamp)
-* [http://en.wikipedia.org/wiki/Flash\_(photo)](/http-en-wikipedia-org-wiki-flash_-photo)
-* [http://en.wikipedia.org/wiki/Flashlight](/http-en-wikipedia-org-wiki-flashlight)
-* [http://en.wikipedia.org/wiki/Light\_bulb](/http-en-wikipedia-org-wiki-light_bulb)
-* [http://en.wikipedia.org/wiki/Light\_meter](/http-en-wikipedia-org-wiki-light_meter)
-* [http://en.wikipedia.org/wiki/Lighting](/http-en-wikipedia-org-wiki-lighting)
-* [http://en.wikipedia.org/wiki/Lemon\_battery](/http-en-wikipedia-org-wiki-lemon_battery)
-* [http://en.wikipedia.org/wiki/Jump\_start](/http-en-wikipedia-org-wiki-jump_start)
-* [http://en.wikipedia.org/wiki/Lantern](/http-en-wikipedia-org-wiki-lantern)
-* [http://en.wikipedia.org/wiki/Magneto](/http-en-wikipedia-org-wiki-magneto)
-* [http://en.wikipedia.org/wiki/Remote\_control](/http-en-wikipedia-org-wiki-remote_control)
-* [http://en.wikipedia.org/wiki/Fan\_(implement)](/http-en-wikipedia-org-wiki-fan_-implement)
-* [http://en.wikipedia.org/wiki/Flywheel\_energy\_storage](/http-en-wikipedia-org-wiki-flywheel_energy_storage)
-* [http://en.wikipedia.org/wiki/Rechargeable\_battery](/http-en-wikipedia-org-wiki-rechargeable_battery)
-* [http://en.wikipedia.org/wiki/Maximum\_power\_theorem](/http-en-wikipedia-org-wiki-maximum_power_theorem)
-* [http://en.wikipedia.org/wiki/Nernst\_equation](/http-en-wikipedia-org-wiki-nernst_equation)
-* [http://en.wikipedia.org/wiki/Superconducting\_magnetic\_energy\_storage](/http-en-wikipedia-org-wiki-superconducting_magnetic_energy_storage)
-* [http://en.wikipedia.org/wiki/Superconductivity](/http-en-wikipedia-org-wiki-superconductivity)
-* [http://en.wikipedia.org/wiki/Clockwork](/http-en-wikipedia-org-wiki-clockwork)
-* [http://en.wikipedia.org/wiki/Round-the-pole\_flying](/http-en-wikipedia-org-wiki-round-the-pole_flying)
-* [http://en.wikipedia.org/wiki/Static\_Random\_Access\_Memory](/http-en-wikipedia-org-wiki-static_random_access_memory)
-* [http://en.wikipedia.org/wiki/Explosively\_pumped\_flux\_compression\_generator](/http-en-wikipedia-org-wiki-explosively_pumped_flux_compression_generator)
+* [http://en.wikipedia.org/wiki/Series\_and\_parallel\_circuits](https://en.wikipedia.org/wiki/series_and_parallel_circuits)
+* [http://en.wikipedia.org/wiki/Secondary\_cell](https://en.wikipedia.org/wiki/secondary_cell)
+* [http://en.wikipedia.org/wiki/Electrode](https://en.wikipedia.org/wiki/electrode)
+* [http://en.wikipedia.org/wiki/Electrolytic\_capacitor](https://en.wikipedia.org/wiki/electrolytic_capacitor)
+* [http://en.wikipedia.org/wiki/Acculmulator](https://en.wikipedia.org/wiki/acculmulator)
+* [http://en.wikipedia.org/wiki/Transducer](https://en.wikipedia.org/wiki/transducer)
+* [http://en.wikipedia.org/wiki/Transistor](https://en.wikipedia.org/wiki/transistor)
+* [http://en.wikipedia.org/wiki/Vacuum\_tube](https://en.wikipedia.org/wiki/vacuum_tube)
+* [http://en.wikipedia.org/wiki/Telephone\_switchboard](https://en.wikipedia.org/wiki/telephone_switchboard)
+* [http://en.wikipedia.org/wiki/Cell\_holder](https://en.wikipedia.org/wiki/cell_holder)
+* [http://en.wikipedia.org/wiki/Diode](https://en.wikipedia.org/wiki/diode)
+* [http://en.wikipedia.org/wiki/Diode\_bridge](https://en.wikipedia.org/wiki/diode_bridge)
+* [http://en.wikipedia.org/wiki/Fuel\_cell](https://en.wikipedia.org/wiki/fuel_cell)
+* [http://en.wikipedia.org/wiki/Galvanic\_cell](https://en.wikipedia.org/wiki/galvanic_cell)
+* [http://en.wikipedia.org/wiki/Ignition\_system](https://en.wikipedia.org/wiki/ignition_system)
+* [http://en.wikipedia.org/wiki/Arc\_lamp](https://en.wikipedia.org/wiki/arc_lamp)
+* [http://en.wikipedia.org/wiki/Flash\_(photo)](https://en.wikipedia.org/wiki/flash_-photo)
+* [http://en.wikipedia.org/wiki/Flashlight](https://en.wikipedia.org/wiki/flashlight)
+* [http://en.wikipedia.org/wiki/Light\_bulb](https://en.wikipedia.org/wiki/light_bulb)
+* [http://en.wikipedia.org/wiki/Light\_meter](https://en.wikipedia.org/wiki/light_meter)
+* [http://en.wikipedia.org/wiki/Lighting](https://en.wikipedia.org/wiki/lighting)
+* [http://en.wikipedia.org/wiki/Lemon\_battery](https://en.wikipedia.org/wiki/lemon_battery)
+* [http://en.wikipedia.org/wiki/Jump\_start](https://en.wikipedia.org/wiki/jump_start)
+* [http://en.wikipedia.org/wiki/Lantern](https://en.wikipedia.org/wiki/lantern)
+* [http://en.wikipedia.org/wiki/Magneto](https://en.wikipedia.org/wiki/magneto)
+* [http://en.wikipedia.org/wiki/Remote\_control](https://en.wikipedia.org/wiki/remote_control)
+* [http://en.wikipedia.org/wiki/Fan\_(implement)](https://en.wikipedia.org/wiki/fan_-implement)
+* [http://en.wikipedia.org/wiki/Flywheel\_energy\_storage](https://en.wikipedia.org/wiki/flywheel_energy_storage)
+* [http://en.wikipedia.org/wiki/Rechargeable\_battery](https://en.wikipedia.org/wiki/rechargeable_battery)
+* [http://en.wikipedia.org/wiki/Maximum\_power\_theorem](https://en.wikipedia.org/wiki/maximum_power_theorem)
+* [http://en.wikipedia.org/wiki/Nernst\_equation](https://en.wikipedia.org/wiki/nernst_equation)
+* [http://en.wikipedia.org/wiki/Superconducting\_magnetic\_energy\_storage](https://en.wikipedia.org/wiki/superconducting_magnetic_energy_storage)
+* [http://en.wikipedia.org/wiki/Superconductivity](https://en.wikipedia.org/wiki/superconductivity)
+* [http://en.wikipedia.org/wiki/Clockwork](https://en.wikipedia.org/wiki/clockwork)
+* [http://en.wikipedia.org/wiki/Round-the-pole\_flying](https://en.wikipedia.org/wiki/round-the-pole_flying)
+* [http://en.wikipedia.org/wiki/Static\_Random\_Access\_Memory](https://en.wikipedia.org/wiki/static_random_access_memory)
+* [http://en.wikipedia.org/wiki/Explosively\_pumped\_flux\_compression\_generator](https://en.wikipedia.org/wiki/explosively_pumped_flux_compression_generator)
 
 
 #### Chemicals\_and\_elements
 
 
-* [http://en.wikipedia.org/wiki/Sulfur](/http-en-wikipedia-org-wiki-sulfur)
-* [http://en.wikipedia.org/wiki/Mercury\_(element)](/http-en-wikipedia-org-wiki-mercury_-element)
-* [http://en.wikipedia.org/wiki/Sulphuric\_acid](/http-en-wikipedia-org-wiki-sulphuric_acid)
-* [http://en.wikipedia.org/wiki/Zinc](/http-en-wikipedia-org-wiki-zinc)
-* [http://en.wikipedia.org/wiki/Adenosine\_triphosphate](/http-en-wikipedia-org-wiki-adenosine_triphosphate)
-* [http://en.wikipedia.org/wiki/Ammonium\_Chloride](/http-en-wikipedia-org-wiki-ammonium_chloride)
-* [http://en.wikipedia.org/wiki/Antimony](/http-en-wikipedia-org-wiki-antimony)
-* [http://en.wikipedia.org/wiki/Cadmium](/http-en-wikipedia-org-wiki-cadmium)
-* [http://en.wikipedia.org/wiki/Silver](/http-en-wikipedia-org-wiki-silver)
-* [http://en.wikipedia.org/wiki/Nickel](/http-en-wikipedia-org-wiki-nickel)
-* [http://en.wikipedia.org/wiki/Nickel\_metal\_hydride](/http-en-wikipedia-org-wiki-nickel_metal_hydride)
-* [http://en.wikipedia.org/wiki/Lithium](/http-en-wikipedia-org-wiki-lithium)
-* [http://en.wikipedia.org/wiki/Hydride](/http-en-wikipedia-org-wiki-hydride)
-* [http://en.wikipedia.org/wiki/Cobalt](/http-en-wikipedia-org-wiki-cobalt)
-* [http://en.wikipedia.org/wiki/Manganese](/http-en-wikipedia-org-wiki-manganese)
-* [http://en.wikipedia.org/wiki/Nitroglycerin](/http-en-wikipedia-org-wiki-nitroglycerin)
-* [http://en.wikipedia.org/wiki/Rubidium](/http-en-wikipedia-org-wiki-rubidium)
+* [http://en.wikipedia.org/wiki/Sulfur](https://en.wikipedia.org/wiki/sulfur)
+* [http://en.wikipedia.org/wiki/Mercury\_(element)](https://en.wikipedia.org/wiki/mercury_-element)
+* [http://en.wikipedia.org/wiki/Sulphuric\_acid](https://en.wikipedia.org/wiki/sulphuric_acid)
+* [http://en.wikipedia.org/wiki/Zinc](https://en.wikipedia.org/wiki/zinc)
+* [http://en.wikipedia.org/wiki/Adenosine\_triphosphate](https://en.wikipedia.org/wiki/adenosine_triphosphate)
+* [http://en.wikipedia.org/wiki/Ammonium\_Chloride](https://en.wikipedia.org/wiki/ammonium_chloride)
+* [http://en.wikipedia.org/wiki/Antimony](https://en.wikipedia.org/wiki/antimony)
+* [http://en.wikipedia.org/wiki/Cadmium](https://en.wikipedia.org/wiki/cadmium)
+* [http://en.wikipedia.org/wiki/Silver](https://en.wikipedia.org/wiki/silver)
+* [http://en.wikipedia.org/wiki/Nickel](https://en.wikipedia.org/wiki/nickel)
+* [http://en.wikipedia.org/wiki/Nickel\_metal\_hydride](https://en.wikipedia.org/wiki/nickel_metal_hydride)
+* [http://en.wikipedia.org/wiki/Lithium](https://en.wikipedia.org/wiki/lithium)
+* [http://en.wikipedia.org/wiki/Hydride](https://en.wikipedia.org/wiki/hydride)
+* [http://en.wikipedia.org/wiki/Cobalt](https://en.wikipedia.org/wiki/cobalt)
+* [http://en.wikipedia.org/wiki/Manganese](https://en.wikipedia.org/wiki/manganese)
+* [http://en.wikipedia.org/wiki/Nitroglycerin](https://en.wikipedia.org/wiki/nitroglycerin)
+* [http://en.wikipedia.org/wiki/Rubidium](https://en.wikipedia.org/wiki/rubidium)
 
 
 #### Inventions
 
 
-* [http://en.wikipedia.org/wiki/Baghdad\_Battery](/http-en-wikipedia-org-wiki-baghdad_battery)
-* [http://en.wikipedia.org/wiki/Voltaic\_pile](/http-en-wikipedia-org-wiki-voltaic_pile)
-* [http://en.wikipedia.org/wiki/Timeline\_of\_invention](/http-en-wikipedia-org-wiki-timeline_of_invention)
-* [http://en.wikipedia.org/wiki/List\_of\_inventors](/http-en-wikipedia-org-wiki-list_of_inventors)
+* [http://en.wikipedia.org/wiki/Baghdad\_Battery](https://en.wikipedia.org/wiki/baghdad_battery)
+* [http://en.wikipedia.org/wiki/Voltaic\_pile](https://en.wikipedia.org/wiki/voltaic_pile)
+* [http://en.wikipedia.org/wiki/Timeline\_of\_invention](https://en.wikipedia.org/wiki/timeline_of_invention)
+* [http://en.wikipedia.org/wiki/List\_of\_inventors](https://en.wikipedia.org/wiki/list_of_inventors)
 
 
 #### Lists
 
 
-* [http://en.wikipedia.org/wiki/List\_of\_chemistry\_topics](/http-en-wikipedia-org-wiki-list_of_chemistry_topics)
-* [http://en.wikipedia.org/wiki/List\_of\_electronics\_topics](/http-en-wikipedia-org-wiki-list_of_electronics_topics)
+* [http://en.wikipedia.org/wiki/List\_of\_chemistry\_topics](https://en.wikipedia.org/wiki/list_of_chemistry_topics)
+* [http://en.wikipedia.org/wiki/List\_of\_electronics\_topics](https://en.wikipedia.org/wiki/list_of_electronics_topics)
 
 
 #### Automotive
 
 
-* [http://en.wikipedia.org/wiki/Automobile](/http-en-wikipedia-org-wiki-automobile)
-* [http://en.wikipedia.org/wiki/Gas-electric\_hybrid\_engine](/http-en-wikipedia-org-wiki-gas-electric_hybrid_engine)
-* [http://en.wikipedia.org/wiki/Hybrid\_car](/http-en-wikipedia-org-wiki-hybrid_car)
-* [http://en.wikipedia.org/wiki/Hybrid\_electric\_vehicle](/http-en-wikipedia-org-wiki-hybrid_electric_vehicle)
-* [http://en.wikipedia.org/wiki/IBM\_Convertible](/http-en-wikipedia-org-wiki-ibm_convertible)
-* [http://en.wikipedia.org/wiki/Regenerative\_braking](/http-en-wikipedia-org-wiki-regenerative_braking)
-* [http://en.wikipedia.org/wiki/Diesel\_cycle](/http-en-wikipedia-org-wiki-diesel_cycle)
+* [http://en.wikipedia.org/wiki/Automobile](https://en.wikipedia.org/wiki/automobile)
+* [http://en.wikipedia.org/wiki/Gas-electric\_hybrid\_engine](https://en.wikipedia.org/wiki/gas-electric_hybrid_engine)
+* [http://en.wikipedia.org/wiki/Hybrid\_car](https://en.wikipedia.org/wiki/hybrid_car)
+* [http://en.wikipedia.org/wiki/Hybrid\_electric\_vehicle](https://en.wikipedia.org/wiki/hybrid_electric_vehicle)
+* [http://en.wikipedia.org/wiki/IBM\_Convertible](https://en.wikipedia.org/wiki/ibm_convertible)
+* [http://en.wikipedia.org/wiki/Regenerative\_braking](https://en.wikipedia.org/wiki/regenerative_braking)
+* [http://en.wikipedia.org/wiki/Diesel\_cycle](https://en.wikipedia.org/wiki/diesel_cycle)
 
 
 #### Things
 
 
-* [http://en.wikipedia.org/wiki/Game\_Boy](/http-en-wikipedia-org-wiki-game_boy)
-* [http://en.wikipedia.org/wiki/Insulin\_pump](/http-en-wikipedia-org-wiki-insulin_pump)
-* [http://en.wikipedia.org/wiki/Naval\_mine](/http-en-wikipedia-org-wiki-naval_mine)
-* [http://en.wikipedia.org/wiki/Steadicam](/http-en-wikipedia-org-wiki-steadicam)
-* [http://en.wikipedia.org/wiki/Cellophane](/http-en-wikipedia-org-wiki-cellophane)
-* [http://en.wikipedia.org/wiki/Mars\_Pathfinder](/http-en-wikipedia-org-wiki-mars_pathfinder)
-* [http://en.wikipedia.org/wiki/Segway\_HT](/http-en-wikipedia-org-wiki-segway_ht)
+* [http://en.wikipedia.org/wiki/Game\_Boy](https://en.wikipedia.org/wiki/game_boy)
+* [http://en.wikipedia.org/wiki/Insulin\_pump](https://en.wikipedia.org/wiki/insulin_pump)
+* [http://en.wikipedia.org/wiki/Naval\_mine](https://en.wikipedia.org/wiki/naval_mine)
+* [http://en.wikipedia.org/wiki/Steadicam](https://en.wikipedia.org/wiki/steadicam)
+* [http://en.wikipedia.org/wiki/Cellophane](https://en.wikipedia.org/wiki/cellophane)
+* [http://en.wikipedia.org/wiki/Mars\_Pathfinder](https://en.wikipedia.org/wiki/mars_pathfinder)
+* [http://en.wikipedia.org/wiki/Segway\_HT](https://en.wikipedia.org/wiki/segway_ht)
 
 
 #### Other
 
 
-* [http://en.wikipedia.org/wiki/Viking\_program](/http-en-wikipedia-org-wiki-viking_program)
-* [http://en.wikipedia.org/wiki/Waste](/http-en-wikipedia-org-wiki-waste)
-* [http://en.wikipedia.org/wiki/BASF](/http-en-wikipedia-org-wiki-basf)
-* [http://en.wikipedia.org/wiki/Motorola](/http-en-wikipedia-org-wiki-motorola)
-* [http://en.wikipedia.org/wiki/Operation\_Bojinka](/http-en-wikipedia-org-wiki-operation_bojinka)
-* [http://en.wikipedia.org/wiki/Philippine\_Airlines\_Flight\_434](/http-en-wikipedia-org-wiki-philippine_airlines_flight_434)
-* [http://en.wikipedia.org/wiki/Raytheon\_Corporation](/http-en-wikipedia-org-wiki-raytheon_corporation)
+* [http://en.wikipedia.org/wiki/Viking\_program](https://en.wikipedia.org/wiki/viking_program)
+* [http://en.wikipedia.org/wiki/Waste](https://en.wikipedia.org/wiki/waste)
+* [http://en.wikipedia.org/wiki/BASF](https://en.wikipedia.org/wiki/basf)
+* [http://en.wikipedia.org/wiki/Motorola](https://en.wikipedia.org/wiki/motorola)
+* [http://en.wikipedia.org/wiki/Operation\_Bojinka](https://en.wikipedia.org/wiki/operation_bojinka)
+* [http://en.wikipedia.org/wiki/Philippine\_Airlines\_Flight\_434](https://en.wikipedia.org/wiki/philippine_airlines_flight_434)
+* [http://en.wikipedia.org/wiki/Raytheon\_Corporation](https://en.wikipedia.org/wiki/raytheon_corporation)
