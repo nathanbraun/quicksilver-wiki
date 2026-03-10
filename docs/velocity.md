@@ -6,19 +6,15 @@ From the Quicksilver Metaweb.
 This is an [intermediate page](/metaweb-intermediate-page) for 
 **Velocity**.
 
-
 ### [Stephensonia](/stephensonia)
-
 
 *Warning! Spoilers. Velocity is one of the factors facing Dappa and Daniel when they use Leibniz's calculus to defeat the better part of Blackbeard's pirate armada. Ironic as Daniel will be used to destroy Leibniz.*
 
 ### [Authored entries](/metaweb-authored-entry)
 
-
 *There are no [authored entries](/metaweb-authored-entry) yet.*
 
 ### Community entry:Velocity
-
 
 **Velocity** can also be defined as rate of change of displacement. 
 
@@ -58,21 +54,16 @@ The above equations are valid for both classical mechanics and special relativit
 
 The kinetic energy (movement energy) of a moving object is linear with both its mass and the square of its velocity:
 
-![E_{v} = \frac{1}{2} mv^2](/web/20060725231040im_/http://www.metaweb.com/wiki/upload/math/704a0cf40d2a2848258c05eb4d7745d8.png)
-
 The kinetic energy is a [scalar](/scalar) quantity.
 
 ### [Related entries](/metaweb-related-entry)
-
 
 * [Stephenson:Neal:Quicksilver:166:Schooners (Neal Stephenson)](/stephenson-neal-quicksilver-166-schooners-neal-stephenson)
 * [Stephenson:Neal:Quicksilver:166:Strange information (Neal Stephenson)](/stephenson-neal-quicksilver-166-strange-information-neal-stephenson)
 * [Stephenson:Neal:Quicksilver:166:Teach (Neal Stephenson)](/stephenson-neal-quicksilver-166-teach-neal-stephenson)
 * more to follow as I tackle the high tech of the 'good ship' Minerva.
 
-
 ### [External links](/metaweb-external-links)
-
 
 * [http://en.wikipedia.org/wiki/Derivative](https://en.wikipedia.org/wiki/derivative)
 * [http://en2.wikipedia.org/wiki/Classical\_mechanics](https://en.wikipedia.org/wiki/classical_mechanics)

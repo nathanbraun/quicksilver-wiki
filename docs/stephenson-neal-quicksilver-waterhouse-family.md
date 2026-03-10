@@ -19,7 +19,7 @@ This is an intermediate page for
 ### Community entry: Waterhouse Family
 
 
-[![Waterhouse-v2-thumb.png](/web/20060725165619im_/http://www.metaweb.com/wiki/upload/5/57/Waterhouse-v2-thumb.png)](waterhouse-v2-thumb-png)  
+[![Waterhouse-v2-thumb.png](/images/Waterhouse-v2-thumb.png)](waterhouse-v2-thumb-png)  
 
 **[Baroque Era Waterhouse Family Tree](/stephenson-neal-quicksilver-waterhouse-family-tree)**
 The Waterhouse family is fictitious. Various members appear in *The [Baroque Cycle](/baroque-cycle)* and *Cryptonomicon.* [John](/stephenson-neal-quicksilver-john-waterhouse) begat [Calvin](/stephenson-neal-quicksilver-calvin-waterhouse) begat [Drake](/stephenson-neal-quicksilver-drake-waterhouse) begat [Daniel](/stephenson-neal-quicksilver-daniel-waterhouse) begat [Godfrey](/stephenson-neal-quicksilver-godfrey-william-waterhouse).

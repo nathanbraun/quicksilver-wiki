@@ -73,7 +73,7 @@ This stands as one of the most devastating accounts of what human [immortality](
 **Houyhnhnm**, the final book, relates the story of the author among a race of noble and intelligent horses, whose society is peaceful and ideal and noble in every way.
 
 This is by contrast to the dirty foul hairy creatures called [Yahoos](https://en.wikipedia.org/wiki/yahoo), who plague them, and who are a deliberate satire of the human race itself. The horses are astounded to find a Yahoo even as cultured as an Englishmen (lawyers and all), and entertain him until they realize that ultimately, he, too, is a Yahoo. The Yahoo Internet refers to its users as "Yahoos" in honor of this view of humanity, which Yahoo's original business plan claimed it was fully willing to indulge. Some would argue that given their current list of most common search terms, they have admirably and totally succeeded. Others would argue that they cannot succeed in totally emulating Gulliver's Yahoos until it is actually possible to kill someone through the service... 
-![B00000JS6T.01.LZZZZZZZ.jpg](/https://web.archive.org/web/20060725222703im_/http://images.amazon.com/images/P/B00000JS6T.01.LZZZZZZZ.jpg)  
+![B00000JS6T.01.LZZZZZZZ.jpg](/https://web.archive.org/images/B00000JS6T.01.LZZZZZZZ.jpg)  
 **The Fleischer Gulliver**
 
 ### Gulliver returns to England

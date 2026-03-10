@@ -7,7 +7,6 @@ This is an intermediate page for the **Shaftoe family**.
 
 ### Stephensonia
 
-
 ![holobolo.jpg](/images/holobolo.jpg)  
 Mudlarks
 *Mudlark: Someone who scavenges in river mud for items of value.
@@ -16,15 +15,12 @@ This word can have other meanings but it mostly refers to the riverside equivale
 
 ### Authored entries
 
-
 * [Stephenson:Neal:Cryptonomicon:107:Manila Shaftoes(Alan Sinder)](/stephenson-neal-cryptonomicon-107-manila-shaftoes-alan-sinder)
 * [Stephenson:Neal:Cryptonomicon:118:the good guys(Alan Sinder)](/stephenson-neal-cryptonomicon-118-the-good-guys-alan-sinder)
 
-
 ### The Shaftoes
 
-
-[![The Baroque-era Shaftoe family tree](/web/20060725165805im_/http://www.metaweb.com/wiki/upload/5/59/BaroqueShaftoeFamilyTreeSC.png)](the-baroque-era-shaftoe-family-tree)  
+  
 **[Baroque](/baroque)-era Shaftoe family tree**  
 ([Larger Version](/image-baroqueshaftoefamilytreel-png))
 The Shaftoes are a fictional family, though Stephenson may be familiar with the name through one real Bobby Shaftoe who lives in Seattle. Their matriarch is [Mother Shaftoe](/stephenson-neal-quicksilver-mother-shaftoe), a six-fingered member of the [mudlarking](/mudlark) community of East London. She had three boys, all half-brothers: [Dick](/stephenson-neal-quicksilver-dick-shaftoe), [Bob](/stephenson-neal-quicksilver-bob-shaftoe), and [Jack](/stephenson-neal-quicksilver-jack-shaftoe). It seems that the Shaftoes are preternaturally quick to master military matters, and always manage to have a love/hate relationship with the top soldier of their era.
@@ -66,30 +62,26 @@ The song apparantly was adapted by Robert Shaftoe as an electioneering song in 1
 
 Another source states that, "The original Bobby Shaftoe lived in Wicklow early in the 1700s" and gives yet another variation on the [lyrics](http://www.ucamusic.com/textdocs-mother-goose.pdf)
 
-[![The Cryptonomicon-era Shaftoe family tree](/web/20060725165805im_/http://www.metaweb.com/wiki/upload/d/db/MCMShaftoeFamilyTreeSC.png)](the-cryptonomicon-era-shaftoe-family-tree)  
+  
 **Twentieth-century Shaftoe family tree**  
 ([Larger Version](/image-mcmshaftoefamilytreel-png)—possible spoilers)
 The lyrics of this song seem to accurately parallel the Bobby / Glory / Doug storyline from *[Cryptonomicon](/cryptonomicon)*.
 
 ### The Manila Shaftoes
 
-
  Uncle Jack is the last of the Manila Shaftoes, a branch of the family spawned by Nimrod Shaftoe of the [Tennessee Volunteers](http://home.freeuk.com/gazkhan-tenn-brief.htm). Nimrod took a bullet in his right arm somewhere around Quingua, courtesy of some rebellious Filipino riflemen. Recovering in a Manila hospital, old Nimrod, or 'Lefty" as he was called by that point, decided that he liked the pluck of these Filipino men, in order to kill whom a whole new class of ridiculously powerful sidearm (the [Colt .45](/colt-45)) had had to be invented. Not only that, he liked the looks of their women. Promptly discharged from the service, he found that full disability pay would go a long way on the local economy. He set up an export business along the Pasig riverfront, married a half-Spanish woman, and sired a son (Jack) and two daughters. The daughters ended up in the States, back in the Tennessee mountains that have been the ancestral wellspring of all Shaftoes ever since they broke out of the indentured servitude racket back in the 1700s. Jack stayed in Manila and inherited Nimrod's business, but never *married*. 
 
 ### The Tennessee Shaftoes
 
-
  The Shaftoes are [Tennessee](https://en.wikipedia.org/wiki/tennessee) mountain people--miners, among other things. About the time Nimrod Shaftoe went to the [Philippines](/philippines), a couple of his brothers moved up to western Wisconsin to work in lead mines. One of them--Bobby's grandpa--became a foreman. Sometimes he would go to Oconomowoc to pay a visit to the owner of the mine, who had a summer house on one of the lakes. They would go out in a boat and fish for pike. Frequently the mine owner's neighbors--owners of banks and breweries--would come along. That is how the Shaftoes moved to Oconomowoc, and got out of mining, and became fishing and hunting guides. The family has been scrupulous about holding on to the ancestral twang, and to certain other traditions such as military service. One of his sisters and two of his brothers are still living there with Mom and Dad, and his two older brothers are in the Army. Bobby's not the first to have won a Silver Star, though he is the first to have won the Navy Cross. 
 
 ### Oconomowoc, Wisconson
-
 
 The pioneering and developing of Oconomowoc began in 1837 when the first white man, Charles Sheldon, came to this area to build his log cabin. He found that the Potowatomi Indians had already laid the foundation of what they called Coo-No-Mo-Wauk (where the waters meet, or river of lakes), which in time would become Oconomowoc. As the town grew and word of its beauty and natural wealth spread, tradesmen began to arrive. One such early settler was a young man by the name of John S. Rockwell. He built the grist mill, owned the first store and hotel, and donated sites to all the churches. He started the fire department, the library, the elementary school and a young ladies seminary called Bord du Lac. His stout heartedness and ingenuity earned him the title "Father of Oconomowoc."
 
 Fueled by its growing reputation, Oconomowoc entered a new era marked by the title "Newport of the West." This era began in the 1870s and continued into the 1930s. Lured by Oconomowoc's great beauty, families of wealth from Chicago, St. Louis and Milwaukee crowded its lake shores with palatial, colonnaded country mansions and lavish landscapes. At one time, Lake Road was referred to as Presidents' Avenue since Taft, Grant, Cleveland, Coolidge, McKinley and Teddy Roosevelt had visited and enjoyed famous Draper Hall and the hospitality of its wealthy residents.
 
 ### Related entries
-
 
 * [Cryptonomicon](/cryptonomicon)
 * [Quicksilver](/quicksilver)
@@ -106,17 +98,13 @@ Fueled by its growing reputation, Oconomowoc entered a new era marked by the tit
 * Uncle Jack Shaftoe
 * [Family relations between The Baroque Cycle and Cryptonomicon](/stephenson-neal-cryptonomicon-family-relationships)
 
-
 ### External links
-
 
 * [Tennessee Volunteer Infantry Regiment](http://home.freeuk.com/gazkhan-tenn-brief.htm)
 * [Tower of Babel](https://en.wikipedia.org/wiki/tower-of-babel)
 * [Nimrod](https://en.wikipedia.org/wiki/nimrod-king)
 
-
 #### Shaftoe folk songs and nursery rhymes
-
 
 * 1. [Folk Archive Resource North East](http://www.farneweblog.com) Origin of songs seems to be ***Brave Willie Forster***
 * [http://www.farneweblog.com/discuss/msgReader](http://www.farneweblog.com/discuss-msgreader)$497

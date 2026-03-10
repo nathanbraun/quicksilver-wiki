@@ -53,7 +53,7 @@ Torque can be converted to linear force by a rack and pinion. The pinion is a sp
 
 A crown gear is a special form of bevel gear which has teeth at right angles to the plane of the wheel, allowing it to drive axles at right angles to its own. A variation of this mechanism is used in the differential gear, a complex arrangement of gears that transmits power to two axles moving at variable speeds, such as those on a cornering automobile.
 
-A contrate wheel has teeth at a right angle to the axis and meshes with a straight cut spur gear or pinion (used in clocks, some instrumentation, wind-up toys and Meccano).![Crown_gear.png](/https://web.archive.org/web/20060725170231im_/http://en.wikipedia.org/upload/3/34/Crown_gear.png)  
+A contrate wheel has teeth at a right angle to the axis and meshes with a straight cut spur gear or pinion (used in clocks, some instrumentation, wind-up toys and Meccano).![Crown_gear.png](/https://web.archive.org/images/Crown_gear.png)  
 **A crown gear**
 
 Simple gears suffer from backlash, which is the error in motion that occurs when gears change direction. When moving forwards, the front face of the drive gear tooth pushes on the rear face of the driven gear. When the drive gear changes direction, its rear face is now pushing on the front face of the driven gear. There is slight 'slop' in any gearing where briefly neither face of the driving gear is pushing the driven gear. This means that input motion briefly causes no output motion. Assorted schemes exist to minimize or avoid problems this creates.

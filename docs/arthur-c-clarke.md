@@ -11,11 +11,9 @@ He has written numerous other books, including the Rama novels and several seque
 
 There is an asteroid named in his honor, 4923 Clarke, as well as a species of Ceratopsian dinosaur, Serendipaceratops arthurcclarkei, discovered in Inverloch, Australia.
 
-
 ### Biography
 
-
-[![ACCsmile.jpg](/web/20060725171715im_/http://www.metaweb.com/wiki/upload/5/57/ACCsmile.jpg)](accsmile-jpg)  
+  
 
 **A Good Candidate  
 
@@ -43,7 +41,6 @@ He is currently the Honorary Board Chair of the Institute for Cooperation in Spa
 He was the first Chancellor of the International Space University, serving from 1989 to 2004.
 
 #### Bibliography
-
 
 A partial list of his (some co-authored) fiction books in chronological order:
 * Prelude to Space (1951)
@@ -97,7 +94,6 @@ A partial list of his (some co-authored) fiction books in chronological order:
 * The Collected Stories of Arthur C. Clarke (2000) [short story collection]
 * Time's Eye (2004) (co-authored with Stephen Baxter)
 
-
 Apart from the fiction, Clarke has written two autobiographies. Ascent to Orbit is what he calls his scientific autobiography and Astounding Days his science fictional autobiography. Since Clarke has led a very full and interesting life, both books contain much of interest.
 
 Clarke's email correspondence with Peter Hyams, director of the film 2010: Odyssey Two, was published in 1984. Entitled The Odyssey Files: The Making of 2010, it illustrates his fascination with the then pioneering medium and its use to communicate with Hyams on an almost daily basis at the time of planning and production of the film. The book also includes Clarke's list of the top science fiction films ever made.
@@ -106,14 +102,11 @@ Most of his essays (between 1934 to 1998) can be found in the book Greetings, Ca
 
 ### Related entries
 
-
 * [Stephenson:Neal:The\_Confusion:691:yo-yo\_(Alan\_Sinder)](/stephenson-neal-the-confusion-691-yo-yo-alan-sinder) was the original location of this entry.
 * [Clarke's three laws](/clarke-s-three-laws) were posited by Clarke, of course.
 * Clarke lives in [Sri Lanka](/sri-lanka), formerly named Serendip, the source of the word [Serendipity](/serendipity).
 
-
 ### External links
-
 
 * [Wikipedia: Arthur C. Clarke](https://en.wikipedia.org/wiki/arthur-c-clarke) is the basis for much of this entry.
 * [Arthur C. Clarke quotes](https://quote.wikipedia.org/wiki/arthur-c-clarke)

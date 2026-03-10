@@ -3,12 +3,10 @@
 
 From the Quicksilver Metaweb.
 
-[![Spouts.jpg](/web/20060725165628im_/http://www.metaweb.com/wiki/upload/b/b5/Spouts.jpg)](spouts-jpg)  
+[![Spouts.jpg](/images/Spouts.jpg)](spouts-jpg)  
 Gargoyle Spouts at Notre Dame
 
-
 ### Stephensonia
-
 
  *Hiro says to YT in the Metaverse:
      "Remember when you gave me shit about spending all my money on computer stuff?"  
@@ -24,35 +22,27 @@ Gargoyle Spouts at Notre Dame
      "You're a gargoyle..."*
 ### Related Authored Pages
 
-
 * [Stephenson:Neal:Snow Crash:506:the nam-shub of Enki(Alan Sinder)](/stephenson-neal-snow-crash-506-the-nam-shub-of-enki-alan-sinder)
-
 
 ### Description
 
-
 A **gargoyle** is a person who walks around with [wearable computer](/) equipment on, documenting and mediating reality via heads up displays, retinal scanners, video/audio recorders, and wireless links to network resources. Looking somewhat like [Borganisms](/), they tend to freak out unaugmented people, and their behavior in [mediated reality](/mediated-reality) does not seem to assist in their sociability with people exclusively 'real'.
 
-[![MIThril-diag.jpg](/web/20060725165628im_/http://www.metaweb.com/wiki/upload/b/bd/MIThril-diag.jpg)](mithril-diag-jpg)[![Limor-small.jpg](/web/20060725165628im_/http://www.metaweb.com/wiki/upload/9/98/Limor-small.jpg)](limor-small-jpg)  
+[![Limor-small.jpg](/images/Limor-small.jpg)](limor-small-jpg)  
 Diagram of MIThril Wearable          Gargoyle Girl to the rescue!
 
 Gargoyles particularly behave as they do to spam intelligence databases with information in a 'shotgun' or 'firehose' strategy, hoping that paying customers will find some of the information worth paying for. Gargoyles, having a very low signal to noise ratio, are disliked by intelligence database corporations like [Central Intelligence Corporation](/central-intelligence-corporation) and tend not to last very long with such companies. [Dr. Emanuel Lagos](/dr-emanuel-lagos) is one exception to this rule, possibly because he had made a career in the Library of Congress before it and the CIA were spun off from the US government into a private start-up company.
 
 ### Historical Roots
 
-
-
 > "No symbolism can explain the monstrous fauna of the cathedrals... 
 > If ever works are exempt of meaning surely these are... 
 > All attempts at explanation must be foredoomed to failure." 
 > E. Male, \_L'art religieux du XIIIe siecle en France\_ 8th edition
 
-
-
 Quoting from "Sturgis' *Illustrated Dictionary of Architecture and Building*":
 
 "The word *"Gargoyle"* shares a common root with the word *"Gargle"*; which comes from *"gargouille"*, a French word for *"Throat"*. A true gargoyle is a waterspout. The word *gargoyle* is also a derivative from the Latin word, *gurgulio*, which had a double meaning, *throat*, and the *gurgling* sound water makes as it passes through a gargoyle." 
-
 
 While this is meant to describe specifically carved creatures that spout water, the word usage in [Snow Crash](/snow-crash) is apt in that a [CIC](/cic) [stringer](http://www.hyperdictionary.com/search-aspx-define-freelance) who is a **gargoyle** acts as a waterspout of information who does not attempt, usually, to filter out noise or extraneous data from the binary flow. Because of this they are seen as ugly by the [Central Intelligence Corporation](/central-intelligence-corporation) from a quality of work point of view as well as ugly physically by those they encounter due to their bulky borg-like wearables.
 
@@ -65,10 +55,7 @@ Sturgis goes on to say:
 
 "A carved creature that does not serve the purpose of a drain pipe is frequently referred to as a "Grotesque". Legend has it, that a fierce dragon named *La Gargouille* described as having a long, reptilian neck, a slender snout and membranous wings lived in a cave near the river Seine. The dragon caused much fear and destruction with its fiery breath, spouting water and the devouring of ships and men. Each year, the residents of Rouen would placate Gargouille with an offering of a victim, usually a criminal, though it was said the dragon preferred maidens. Around 600 CE, the village was saved by St. Romanis, who promised to deal with the dragon if the townspeople agreed to be baptized and to build a church. Romanus subdued the dragon by making the sign of the cross and then led the now docile beast back to town on a leash made from his priest's robe. La Gargouille was then burned at the stake, it is said that his head and neck were so well tempered by the heat of his fiery breath, that they would not burn. These remnants were then mounted on the town wall and became the model for gargoyles for centuries to come."
 
-
-
 ### Plot Analysis
-
 
 With respect to the story at hand, it is clear that Hiro, after becoming a Gargoyle himself and travelling to [The Raft](/the-raft), "caused fear and destruction" with the fiery breath of [Reason](/reason) (note also that Dragons are legendary for being as wise as they are violent), devouring ships and men in his path to rescue [YT](/yt), [Juanita Marquez](/juanita-marquez), and the [Nam-Shub of Enki](/stephenson-neal-snow-crash-506-the-nam-shub-of-enki-alan-sinder), after spouting a significant amount of intelligence at [Ng](/ng-security-industries-inc), [Uncle Enzo](/uncle-enzo), and [Mr Lee](/mr-lee-s-greater-hong-kong) which earns him the treasure of $25 million [kong bucks](/dollar).
 
@@ -80,11 +67,9 @@ The interesting inversion of this story is that the Hero/Hiro is the gargoyle, t
 
 [Lagos](/dr-emanuel-lagos), on the other hand, who is the other gargoyle in the story, falls under the knife of Raven because he focused too much on the job of gargoyling, and was thus consumed in the role, losing his soul to the Raven.
 
-
 Lagos *might* still be in the game if he had:
 
 #### [Invisibile Raincoats](/)
-
 
 **[Optical camouflage](/http-projects-star-t-u-tokyo-ac-jp-projects-media-xv-oc-html)** is a kind of active camouflage in which one wears a fabric which projects an image of the scene directly behind the wearer, so that the wearer appears invisible. The concept exists for now only in theory and in proof-of-concept prototypes, although many experts consider it technically feasible. It is an example of active camouflage (or adaptive camouflage).
 
@@ -94,7 +79,6 @@ In 2003, three professors at University of Tokyo  Susumu Tachi, Masahiko Inami
 While optical camouflage may not yet exist, it is worthwhile to point out that certain military units like the F-117 nighthawk Stealth Fighter and B-2 Spirit Stealth Bomber do use material that make them difficult, if not impossible, to spot on RADAR.
 
 ### [Wikipedia: Gargoyle](/)
-
 
 ![Himeji_Castle_gargoyle.jpg](/images/Himeji_Castle_gargoyle.jpg)  
 A [Japanese](/) gargoyle adorning [Himeji Castle](/)
@@ -110,7 +94,6 @@ Statues representing gargoyle-like creatures are popular sales items, particular
 
 ### [Gargoyles (animated series)](/)
 
-
 **Gargoyles** is an acclaimed Walt Disney superhero animated series that aired from October 24, 1994 to 1997 featuring a clan of six warrior creatures that were turned to stone during the day. Led by the gargoyle Goliath in the year 994, they protected Castle Wyvern and its resident humans on the coast of Scotland until betrayal allowed a Viking massacre to destroy almost all of their clan and a magic spell forced them to sleep in their stone forms for a millennium until the castle could rise above the clouds.
 In 1994, a billonaire named David Xanatos purchased the castle and had it moved to the top of his skyscraper to fulfill the conditions of the spell. Waking up in modern day Manhattan, the gargoyles must adapt to this new world as they protect the citizens of New York (most of whom don't even believe they exist) and face both new and old enemies with the help of their new human friend (and possible love interest for Goliath), NYPD detective Elisa Maza.
 
@@ -125,11 +108,10 @@ A remarkably large number of voice actors for the show had been actors on variou
 
 ### Wikipedia: Wearable Computing
 
-
 A **wearable computer** is a small [portable computer](/portable-computer) that is designed to be worn on the body during use. In this wearable computers differ from [PDAs](/personal-digital-assistant), which are designed for hand-held use, although the distinction can sometimes be a blurry one. Wearable computers are usually either integrated into the user's [clothing](/clothing) or can be attached to the body through some other means, like a wristband. They may also be integrated into everyday objects that are constantly worn on the body, like a [wrist](/wrist) [watch](/watch) or a hands-free [cell phone](/cell-phone).
 
 Wearable computing is an active topic of [research](/research), with areas of study including [user interface](/user-interface) design, [augmented reality](/augmented-reality), [pattern recognition](/pattern-recognition), use of wearables for specific applications or disabilities, electronic textiles and fashion design. Many issues are common to the wearables, [mobile computing](/mobile-computing) and [ubiquitous computing](/ubiquitous-computing) research [communities](/scientific-community), including power management and heat dissipation, software architectures, [wireless](/wireless) and [personal area networks](/personal-area-network) and [sensor networks](/sensor-network).
-[![thumb|130px|right|Wristwatch<br>videoconferencing system running GNU Linux, later featured in Linux Journal and presented at ISSCC2000](/web/20060725165628im_/http://www.metaweb.com/wiki/upload/6/6e/130px-Stevemannwristcomp.jpg)](thumb-130px-right-wristwatch-br-videoconferencing-system-running-gnu-linux-later-featured-in-linux-journal-and-presented-at-isscc2000)  
+[![thumb|130px|right|Wristwatch<br>videoconferencing system running GNU Linux, later featured in Linux Journal and presented at ISSCC2000](/images/130px-Stevemannwristcomp.jpg)](thumb-130px-right-wristwatch-br-videoconferencing-system-running-gnu-linux-later-featured-in-linux-journal-and-presented-at-isscc2000)  
 Wristwatch  
 videoconferencing  
 system running GNU  
@@ -144,8 +126,7 @@ The commercialization of general-purpose wearable computers, as led by companies
 
 Wearable computing devices have fared far better when designed and sold for a particular application. The two most ubiquitous examples would be portable MP3 players and cell phones (especially cell phones with wireless microphone attachments). Such devices look far different from the traditional **cyborg** image of wearable computers, but in fact these devices are becoming more powerful and more wearable all the time.
 
-
-[![thumb|230px|left|Evolution of Steve Mann's <em>WearComp</em> wearable computer from backpack based systems of the late 1970s and early 1980s to his current covert systems.](/web/20060725165628im_/http://www.metaweb.com/wiki/upload/e/eb/230px-Wearcompevolution.jpg)](thumb-230px-left-evolution-of-steve-mann-s-em-wearcomp-em-wearable-computer-from-backpack-based-systems-of-the-late-1970s-and-early-1980s-to-his-current-covert-systems)  
+  
 Evolution of [Steve Mann](/)'s *WearComp*  
 wearable computer from backpack based  
 systems of the late 1970s  
@@ -171,8 +152,7 @@ Also in [1994](/1994), [DARPA](/darpa) started the Smart Modules Program to deve
 
 ### Wearables in Science Fiction
 
-
-[![7of9.jpg](/web/20060725165628im_/http://www.metaweb.com/wiki/upload/b/b1/7of9.jpg)](7of9-jpg)[![JeriRyan-as-Seven.jpg](/web/20060725165628im_/http://www.metaweb.com/wiki/upload/8/89/JeriRyan-as-Seven.jpg)](jeriryan-as-seven-jpg)  
+[![7of9.jpg](/images/7of9.jpg)](7of9-jpg)[![JeriRyan-as-Seven.jpg](/images/JeriRyan-as-Seven.jpg)](jeriryan-as-seven-jpg)  
 *The Transformation of Jeri Ryan's Character, Seven of Nine,  
 in Star Trek: Voyager, is evident in comparing these two photos.*
 
@@ -183,7 +163,6 @@ The character of Seven of Nine is widely credited with saving the show from canc
 Whereas the Borg as a plot concept had been heavily used in the Star Trek shows to promote the Luddite Prophesy and denigrate the use of personal technology to mediate reality, particularly as all Borg appeared like undead ugly monsters, the transformation of Seven into the appearance of a lovely, vibrant human being as an individual severed from the collective changed the meaning of the evil of Borgness from disparagement of technology to disparagement of collectivism, which is seen by libertarian fans of Star Trek to be a major sea change in the political attitudes of show writers.
 
 ### Related Links
-
 
 * [Sheela Na Gig](/)
 * [Hunky Punk](/)
@@ -197,13 +176,10 @@ is the Pont St Michel.**
 
 ### External Links
 
-
 * [Gargoyles](http://www.stratis.demon.co.uk/gargoyles-gargoyle.htm)
 * [Randall's Lost New York City](http://www.lostnewyorkcity.com)
 
-
 ### Gargoyles and Grotesques
-
 
 * [Northstar Galleries' "About Gargoyles"](http://northstargallery.com/gargoyles-aboutgargoyles.htm)
 * [Walter S. Arnold sculptor and stone carver](http://www.stonecarver.com/grotesque.html)
@@ -218,9 +194,7 @@ is the Pont St Michel.**
 * [Gargoyles and Grotesques Web Ring](http://u.webring.com/hub-ring-gargoylesandgrot) A web ring for sites that present photography and historical information on gargoyles, greenmen and grotesques.
 * [The Digital Imaging Project](http://www.bluffton.edu/sullivanm-index-index3.html) Art historical images of sculpture and architecture by Mary Ann Sullivan, Bluffton College
 
-
 ### Borganisms and Wearable Computing
-
 
 * [MIT's Borglab](http://borglab.media.mit.edu/wiki-borglab)
 * [Eyetap Personal Imaging (ePI) Lab](http://www.eyetap.org)
@@ -250,13 +224,10 @@ is the Pont St Michel.**
 * [Official Star Trek bio](http://www.startrek.com/startrek-view-library-characters-voy-bio-1112406.html)
 * [Photos and text](http://www.star.trek.voyager.org/crew-seven1.htm)
 
-
-
-[![Garg LimouxCh200 05 755490 17 hi.jpg](/web/20060725165628im_/http://www.metaweb.com/wiki/upload/4/45/Garg_LimouxCh200_05_755490_17_hi.jpg)](garg-limouxch200-05-755490-17-hi-jpg)  
+[![Garg LimouxCh200 05 755490 17 hi.jpg](/images/Garg_LimouxCh200_05_755490_17_hi.jpg)](garg-limouxch200-05-755490-17-hi-jpg)  
 *A sphinx gargoyle on the cathedral at Limoux, France*
 
 ### References
-
 
 * Edward O. Thorp, [The invention of the first wearable computer](http://ieeexplore.ieee.org/xpl-freeabs-all-jsp-isnumber-15725-arnumber-729523-count-30-index-1), in *The Second International Symposium on Wearable Computers: Digest of Papers*, IEEE Computer Society, 1998, pp. 4-8.
 * Edward O. Thorp, *Beat the Dealer*, 2nd Edition, Vintage, New York, 1966. [ISBN 0394703103](/)

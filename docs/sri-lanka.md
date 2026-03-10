@@ -5,8 +5,7 @@ From the Quicksilver Metaweb.
 
 This is a page for **Sri Lanka**.
 
-
-[![ACCsmile.jpg](/web/20060726002546im_/http://www.metaweb.com/wiki/upload/5/57/ACCsmile.jpg)](accsmile-jpg)  
+  
 
 **A Good Candidate  
 For [Enoch Root](/enoch-root)  
@@ -19,13 +18,10 @@ Arthur C. Clarke has lived here since 1956.
 
 ### Related entries
 
-
 * [Stephenson:Neal:The\_Confusion:Queena-Kootah](/stephenson-neal-the-confusion-queena-kootah) was the original location of the text of this entry.
 * [Serendipity](/serendipity) has its etymological origin tied into Sri Lanka
 
-
 ### External links
-
 
 * [Wikipedia: Sri Lanka](https://en.wikipedia.org/wiki/sri-lanka) was the basis of this entry.
 * [Wikipedia: Arthur C. Clarke](https://en.wikipedia.org/wiki/arthur-c-clarke)

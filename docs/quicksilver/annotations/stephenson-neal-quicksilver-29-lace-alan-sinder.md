@@ -19,7 +19,7 @@ The [Quicksilver](/quicksilver) page about **lace** as a metaphor about the doub
 ### [Wikipedia: Lace-making](https://en.wikipedia.org/wiki/lace-making)
 
 
-**Lace-making** is an ancient craft.![lace.jpg](/https://web.archive.org/web/20060725170416im_/http://www.aloratile.com/lace.jpg)  
+**Lace-making** is an ancient craft.![lace.jpg](/https://web.archive.org/images/lace.jpg)  
 **An Example of Lace-Making**
 
 Needle Lace: The most time-consuming but the most flexible of the lace-making arts, needle lace is regarded by purists as the height of lace-making. There are many types of needle lace  i.e. lace made using a needle and thread. Some of these laces can be made much more quickly than the finest of bobbin laces. On the other hand, some antique needle lace is made from a very fine thread that is not manufactured today. It is truly the pinnacle of lace-making arts, as it is the most flexible, and also the most time-consuming. It consists of using a needle to stitch up hundreds and hundreds of little stitches to form the lace itself. Work is generally started by securing the main, heavier guiding threads onto a stiff background (eg thick paper) with stitches that can later be removed. The work then in a variety of stitches - the most basic being a variety of blanket stitch. When the entire area is covered with the stitching, the stay-stitches are released an the lace comes away from the paper. 
@@ -33,7 +33,7 @@ Tatting is a technique for handcrafting lace that can be documented approximatel
 ### [Wikipedia: Deoxyribonucleic acid (DNA)](https://en.wikipedia.org/wiki/dna)
 
 
-Deoxyribonucleic acid (DNA) is the primary chemical component of chromosomes and is the material of which genes are made. It is sometimes called the "molecule of heredity," because parents transmit copied portions of their own DNA to offspring during reproduction, and because they propagate their traits by doing so.![Dna-split.png](/https://web.archive.org/web/20060725170416im_/http://en.wikipedia.org/upload/0/08/Dna-split.png)  
+Deoxyribonucleic acid (DNA) is the primary chemical component of chromosomes and is the material of which genes are made. It is sometimes called the "molecule of heredity," because parents transmit copied portions of their own DNA to offspring during reproduction, and because they propagate their traits by doing so.![Dna-split.png](/https://web.archive.org/images/Dna-split.png)  
 **DNA replication**
 
 In bacteria and other simple or prokaryotic cell organisms, DNA is distributed more or less throughout the cell. In the complex or eukaryotic cells that make up plants, animals and in other multi-celled organisms, most of the DNA resides in the cell nucleus. The energy-generating organelles known as chloroplasts and mitochondria also carry DNA, as do many viruses.

@@ -6,14 +6,11 @@ From the Quicksilver Metaweb.
 This is an [intermediate page](/metaweb-intermediate-page) for 
 **Acceleration**.
 
-
 ### [Authored entries](/metaweb-authored-entry)
-
 
 *There are no [authored entries](/metaweb-authored-entry) yet.*
 
 ### Community entry:Acceleration
-
 
 Acceleration
 
@@ -22,16 +19,11 @@ From Wikipedia, the free encyclopedia.
 In physics, acceleration is defined as the rate of change (or time derivative) of velocity. It is thus a vector quantity with dimension length/time². In SI units this is meter/second². 
 
 To accelerate an object is to change its velocity over a period of time. Note that in this strict scientific sense, acceleration can have positive and negative values -- respectively called acceleration and deceleration (or retardation) in common speech -- as well as change of direction. Acceleration is defined technically as "the rate of change of velocity of an object with respect to time" and is given by the equation
-![
-a = {\mathbf{d}v \over \mathbf{d}t}
-](/web/20060725171006im_/http://www.metaweb.com/wiki/upload/math/5041c3d6bd5a278696b564ed9fb07fdc.png)
 
 where a is the acceleration vector, v is the velocity vector expressed in m/s, and t is time expressed in seconds. This equation gives a the units of m/s/s, or m/s² (read as "meters per second per second", or "meters per second squared"). 
 
 An alternative equation is:
-![
-a = {v - u \over t}
-](/web/20060725171006im_/http://www.metaweb.com/wiki/upload/math/d26273d8d103d8086700d5cfd299ca72.png)
+
 where **a** is acceleration (m/s²), **u** is initial velocity (m/s), **v** is final velocity (m/s), and **t** is time (s).
 
 One common unit of acceleration is [g](/gee-g), one g being the acceleration caused by the gravity of Earth at sea level on the equator (~9.81 m/s²) 
@@ -54,13 +46,10 @@ The rate of change of acceleration is known as jerk or yank. (*)
 
 * (However, this nomenclature is disputed by plain-speaking scientists, who will point out that constant speed in a circle, such as a swing or merry-go-round, exhibits continuously changing acceleration [vector] and absolutely no jerk, until the radius, focus, or speed are changed. The alternatives offered are, pump [scalar] and swing [vector].)
 
-
 ### [Related entries](/metaweb-related-entry)
-
 
 *There are no [related entries](/metaweb-related-entry) yet. You can improve the Metaweb by editing this page and creating one.*
 
 ### [External links](/metaweb-external-links)
-
 
 *There are no [external links](/metaweb-external-links) yet. You can improve the Metaweb by editing this page and adding some.*

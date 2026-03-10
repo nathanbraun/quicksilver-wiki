@@ -5,9 +5,7 @@ From the Quicksilver Metaweb.
 
 [Snow Crash](/snow-crash) page for the creator of JKD - **Bruce Lee**, not to be confused with the Snow Crash character, who led a pirate band on [The Raft](/the-raft), and borrowed his name.
 
-
 ### Stephensonia
-
 
 *THIS IS NOT A CHARADE!
 One wonders if Bruce Lee is related to the plucky Pinoys who ride shotgun with [Randy](/randy-waterhouse) and [Doug](/douglas-macarthur-shaftoe)?
@@ -22,21 +20,16 @@ One wonders if Bruce Lee is related to the plucky Pinoys who ride shotgun with [
 
 ### Authored entries
 
-
 * TBA
-
 
 ### [Wikipedia: Bruce Lee](/)
 
-
-[![Martial arts actor Bruce Lee](/web/20060725172041im_/http://www.metaweb.com/wiki/upload/e/e3/Mw-Bruceflex.jpg)](martial-arts-actor-bruce-lee)  
+  
 *Martial arts actor [Bruce Lee](/)*
 **Bruce Lee** ([November 27](/), [1940](/) - [July 20](/), [1973](/)) is widely considered to be the greatest [martial arts](/) [film](/) [actor](/) of the [20th century](/). His films, especially the last performance in *[Enter the Dragon](/)*, elevated the by-then traditional [Hong Kong](/) [martial arts film](/) to a new level, and artists like [Jackie Chan](/) and [Chuck Norris](/) have been able to work from this platform. He was married to [Linda Emery](/), with whom he had a son, Brandon, and daughter, [Shannon](/). His son, [Brandon Lee](/), was a martial artist and an actor.
 ### Names
 
-
 #### Birth name
-
 
 Lee Jun-fan (李振藩; [Hanyu Pinyin](/): Lǐ Zhènfán; literally means *invigorate San Francisco* based on the Chinese name of his birthplace 三藩市) Bruce was born in his father's absence (he went on a Chinese opera tour.) His mother named him (李炫金) for the meaning of *brighten San Francisco* based on the Chinese alias of his birthplace 舊金山. The nurses at the hospital gave him an English name **Bruce**. His Chinese name was changed within a few months when his father returned, due to a conflict with his grandfather's name. In Chinese culture, it is a taboo to name the same as an ancestor. 
 
@@ -44,11 +37,9 @@ Bruce's brother before him was stillborn at birth. Chinese believe baby boys are
 
 #### Screen name
 
-
 Li Xiaolong (李小龍; [Gwohngdongwa pengyam](/): Ley5 Siw2 Long4; [Pinyin](/): Lǐ Xiǎo Lóng; lit. *Little dragon* was first named by director 袁步雲 in the 1950 Cantonese movie 細路祥)
 
 ### Biography
-
 
 Born in [San Francisco](/) to a Chinese father Lee Hoi-Chuen (李海泉) and a [German](/)-Chinese mother Grace Lee (何金棠), Lee was raised in Hong Kong, where his parents lived. His parents were film actors, hence he had the opportunity to appear in several [Chinese](/) movies as a child. He also studied the [Wing Chun](/) style of [Kung Fu](/).
 
@@ -68,7 +59,6 @@ It is rumored that Lee used an electric current as an aid to strength training, 
 
 ### Death
 
-
 On July 20, 1973, Lee was due to have dinner with former [James Bond](/) star [George Lazenby](/), with whom he intended to make a film. According to Lee's wife, Linda, Bruce met producer [Raymond Chow](/) at 2 pm at home to discuss the making of the movie *Game of Death*. They worked until 4 pm, and then drove together to the home of [Betty Ting Pei](/) (丁珮), Taiwanese actress who was to also have a leading role in the film. The three went over the script at her home, and then Chow left to attend a dinner meeting.
 
 A short time later, Lee complained of a headache, and Tingpei gave him a tablet of [Equagesic](/). At around 7:30 pm, he lay down for a nap. After Lee didn't turn up for the dinner, Chow came to the apartment but could not wake up Lee. A doctor was summoned, who spent 10 minutes attempting to revive him before sending him by ambulance to [Queen Elizabeth Hospital](/). However, Lee was [dead](/) by the time he reached the hospital. The ensuing autopsy found traces of [cannabis](/) in his stomach. There was no visible external injury; however, his [brain](/) had swollen considerably, from 1,400 to 1,575 grams. Lee was 32 years old.
@@ -87,7 +77,6 @@ Although he made only a handful of films and television appearances in his adult
 
 ### Awards and honors
 
-
 The film *[Dragon: The Bruce Lee Story](/)* is a highly fictionalized biography of his life/legend.
 
 In [1958](/), Lee was the [Cha Cha](/) Champion of Hong Kong. He worked part time as a Cha Cha instructor for a short time when he returned to San Francisco in April [1959](/).
@@ -96,7 +85,6 @@ In September [2004](/), rumors circulated (e.g., [a BBC story](http://news.bbc.c
 
 ### Bruce Lee in fiction
 
-
 The [Shaman King](/) character [Lee Bailong](/) (Lee Pai-Long) is a reference to Bruce Lee.
 
 The [Street Fighter](/) character [Fei Long](/) is essentially an exaggerated clone of Lee, as is the [Tekken](/) character Law, whose moves include the [One Inch Punch](/) made famous by Lee.
@@ -104,8 +92,6 @@ The [Street Fighter](/) character [Fei Long](/) is essentially an exaggerated cl
 A character from [Naruto](/) named Rock Lee bears some similarity to Bruce Lee. In the anime and manga, the character is a master of a purely martial-arts fighting style.
 
 ### List of people influential to Bruce's career
-
-
 
 * [Yip Man](/)
 * [James Yimm Lee](/)
@@ -118,15 +104,11 @@ A character from [Naruto](/) named Rock Lee bears some similarity to Bruce Lee. 
 * [Jhoon Rhee](/)
 * [Raymond Chow](/) of [Golden Harvest](/)
 
-
 ### Martial art lineage / Lineage in Wing Chun / Jeet Kune Do
-
 
 * [sifu](/) in Wing Chun [Yip Man](/) (葉問)
 
-
 #### Other teachers
-
 
 * Other than "Judo" Gene Lebell and Dan Inosanto, and pehaps Jhoon Rhee, Lee had no formal instruction from anyone but Yip Man Lee. So references to the following claims should be reviewed.
 * Learnt [sihing](/) from [Wong Shun-leung](/) (黃惇樑)
@@ -134,9 +116,7 @@ A character from [Naruto](/) named Rock Lee bears some similarity to Bruce Lee. 
 * Learnt karate high kicking skill from [Chuck Norris](/) (Although by Bruce Lees's diary, Chuck Norris was actually also a student of his, along with Bob Wall, Mike Stone and Joe Lewis. Lee probably already had high kicking skill, he just knew it was impractical for self-defense.)
 * Learnt ([Praying Mantis](/)) with Sifu Gin Foon Mark
 
-
 #### Known students in Jeet Kune Do
-
 
 * [Taky Kimura](/)
 * [Dan Inosanto](/)
@@ -150,9 +130,7 @@ A character from [Naruto](/) named Rock Lee bears some similarity to Bruce Lee. 
 * [Larry Hartsell](/)
 * numerous others
 
-
 #### Celebrities who took hourly lessons from Bruce
-
 
 * [Kareem Abdul-Jabbar](/)
 * [James Coburn](/)
@@ -166,11 +144,8 @@ A character from [Naruto](/) named Rock Lee bears some similarity to Bruce Lee. 
 
 ### Filmography
 
-
-
 N.B. : The U.S. English titles for the first two films were swapped by the U.S. distributor. The title "The Chinese Connection" (a play on the then-recently-released "The French Connection") was originally intended for "The Big Boss" due to the drugs theme of the story.
 #### Chinese & English title of original release
-
 
 1. 1971 《唐山大兄》 [Fists of Fury](/) - Fought against a drug lord in Thailand
 2. 1972 《精武門》 [The Chinese Connection](/) - Fought against Japanese tyrants in China
@@ -178,22 +153,16 @@ N.B. : The U.S. English titles for the first two films were swapped by the U.S. 
 4. 1973 《龍爭虎鬥》 [Enter the Dragon](/) - Fought a drug lord in Hong Kong
 5. 1979 《死亡遊戲》 [Game of Death](/) - Pieced together with few fight scenes filmed before his death
 
-
 ### See also
-
 
 * "[Bruceploitation](/)"
 
-
 ### External links
-
 
 * [The Mystery of Bruce Lee's Death by Jake Seal](http://www.allbrucelee.com/article-mystery-of-bruce-lee.htm)
 * [The Life of Bruce Lee](http://www.ocf.berkeley.edu/chenj-brucelee-bruce-timeline.html)
 * [The Bruce Lee Foundation](http://www.bruceleefoundation.com/brochurepages-art.html)
 
-
 #### Disambiguation
-
 
 * [Bruce Lee, aka Peter Dinsdale](/) *- the British serial killer*

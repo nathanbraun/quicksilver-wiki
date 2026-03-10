@@ -27,21 +27,17 @@ Another thing that makes this problem easy is that the ship moves in a straight 
 
 A basic result of [kinematics](/kinematics) then tells us
 
-![d = {1\over2}at^2](/web/20060725172429im_/http://www.metaweb.com/wiki/upload/math/dcf3835fc0c51ccef1b21ca2899e7ac0.png)
+![d = {1\over2}at^2](/images/dcf3835fc0c51ccef1b21ca2899e7ac0.png)
 
 We already know the distance d (halfway to the moon, or 142,000,000 meters) and the acceleration a (1 gee, or about 9.8 meters per second per second) and would like to calculate the time t. We can do this by rearranging the formula shown above using some simple [algebra](/algebra). The expression
 
-![t=\sqrt{2d\over a}](/web/20060725172429im_/http://www.metaweb.com/wiki/upload/math/68f238f9d9a4f029cba6a2f0701645ca.png)
-
 is equivalent to the one shown above, as long as d/a is a positive number. If we insert our known values of d and a, we get
 
-![t = \sqrt{2\times 142000000\over 9.8}\simeq 5383\ seconds](/web/20060725172429im_/http://www.metaweb.com/wiki/upload/math/a5c05e7df6d44124876326c8b47b17e1.png)
+![t = \sqrt{2\times 142000000\over 9.8}\simeq 5383\ seconds](/images/a5c05e7df6d44124876326c8b47b17e1.png)
 
 This time, 5383 seconds, is equal to 1 hour, 29 minutes, and 43 seconds. This is about a quarter of an hour short of Peewee's estimate in the book (she estimates three and half hours for the full trip, which means it should take 1 hour and 45 minutes to get halfway there) but given all of the approximations that are involved here, this is close enough to suggest that we are on the same page as Peewee.
 
 When we say that something is accelerating at 9.8 meters per second per second, what it means is that with each second that goes by, its velocity increases by 9.8 m/s. Since this happens for 5383 seconds, the velocity achieved by this ship at the halfway point of the journey is
-
-![9.8\ m/{s^2}\times 5383\ s = 52753\ m/s](/web/20060725172429im_/http://www.metaweb.com/wiki/upload/math/4483901569d803dc7b4dfffa3b89479d.png)
 
 Just to place this in perspective, the velocity of something that is in a circular [low earth orbit (LEO)](/low-earth-orbit-leo) is more like 8000 m/s. In order to achieve [escape velocity](/escape-velocity) from the Earth, it need go only a little faster---upwards of 11,000 m/s. The alien pirate spaceship that has abducted Kip and Peewee is going almost five times as fast as that when it reaches its peak velocity.
 

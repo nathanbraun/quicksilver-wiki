@@ -42,7 +42,7 @@ Treatment is with thiamine hydrochloride, either in tablet form or injection. A 
 
 C12H17ClN4OS·HCl
 It is colourless, soluble in water, and insoluble in alcohol. It decomposes if heated too much.
-[![Thiamine](/web/20060725224753im_/http://www.metaweb.com/wiki/upload/7/76/Thiamine.png)](thiamine)  
+[![Thiamine](/images/Thiamine.png)](thiamine)  
 **Thiamine  
 The mononitrate looks like this**
 

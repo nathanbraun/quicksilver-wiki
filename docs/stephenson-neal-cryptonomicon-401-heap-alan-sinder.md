@@ -6,23 +6,18 @@ From the Quicksilver Metaweb.
 This is the [Cryptonomicon](/cryptonomicon) page for **HEAP**.
 ![MW-MTolerance.jpg](/images/MW-MTolerance.jpg)
 
-
 ### Stephensonia
-
 
 *I guess the Holocaust Education and Avoidance Pod (HEAP) seems to partly resemble [Rabbi Marvin Hier](http://www.wiesenthal.com/about-hier-cfm)'s Museum of Tolerance which is part of the Simon Wiesenthal Center. Though with [Avi's](/avi-halaby) assessment of the Spanish being better than the Aztecs - we need to also examine the avoidance mechanisms - arming yourself. Appalachian Hillbilly might be one aspect of the Shaftoe's American experience. Though [Homer Hickam](/) shows that one can transcend humble roots. I think most of us agree that **education** also implies vigilance and defense of one's family from thuggery. [Doug](/douglas-macarthur-shaftoe) tried to explain to [Avi](/avi-halaby) that homebrew rifling can be trickier than it seems.*
 
 ### Authored entries
-
 
 * [Stephenson:Neal:Cryptonomicon:1:Shanghai(Alan Sinder)](/stephenson-neal-cryptonomicon-1-shanghai-alan-sinder)
 * [Stephenson:Neal:Cryptonomicon:30:the real Philippines. Randy pays no attention to it(Alan Sinder)](/stephenson-neal-cryptonomicon-30-the-real-philippines-randy-pays-no-attention-to-it-alan-sinder)
 * [Stephenson:Neal:Cryptonomicon:73:outbreak of war with Nippon(Alan Sinder)](/stephenson-neal-cryptonomicon-73-outbreak-of-war-with-nippon-alan-sinder)
 * [AK-47](/ak-47) - this will be authored soon ...
 
-
 ### Simon Wiesenthal Center
-
 
 ![MH4mw.jpg](/images/MH4mw.jpg)  
 **Rabbi Marvin Hier**
@@ -45,7 +40,6 @@ Several years ago Rabbi Hier keynoted an historic conference on antisemitism and
 
 ### [Wikipedia: Simon Wiesenthal](https://en.wikipedia.org/wiki/simon-wiesenthal)
 
-
 Simon Wiesenthal, KBE (December 31, 1908  September 20, 2005), was an Austrian Nazi hunter. Wiesenthal dedicated most of his life to tracking down and gathering information on fugitive Nazi war criminals so that they could be brought to trial.
 ![Simon_Wiesenthal.jpg](/images/Simon_Wiesenthal.jpg)  
 **Simon Wiesenthal**
@@ -63,7 +57,6 @@ In February 2004 Britain decided to award an honorary knighthood to Wiesenthal i
 The character of Yakov Liebermann in Ira Levin's novel The Boys from Brazil is modelled on Wiesenthal, and Wiesenthal makes an appearance as a minor character in Frederick Forsyth's The Odessa File, providing information to a German journalist attempting to track down a Nazi war criminal.
 
 ### Hillbilly Rifling a Kentucky Rifle Barrel
-
 
 ![logo1.gif](/images/logo1.gif)  
 **Proto-HEAP types  
@@ -90,16 +83,13 @@ The process of hillbilly rifling is well established:
 10. you need to build a rack that will hold your barrel stable and secure, while being able to use the screw to either push or pull the scoring jig through the barrel. The screw is to determine the rate at which the jig is turned as it passes through the barrel. To apply pressure to this screw, you should use another steel screw of very tight turn ratio on it to apply high mechanical advantage to the wood screw.
 11. use this rack to score the grooves into the smoothbore barrel. Grooves scored properly in this manner should have a very even turn pattern. Any jerks or jags in the turn pattern make the barrel useless, because bullets will lodge themselves at those points in the barrel.
 
-
 If this process sounds like something you could do in your home workshop, have at it. CAVEAT EMPTOR. Don't say I didn't warn you that shoddy workmanship can get people killed. It can, it has, and it will. If you are dumb enough to think you can do this, I HIGHLY recommend you practice on at least a dozen or so barrels before actually firing a bullet from the best one.
 
 FINAL WARNING: [Kentucky rifles](/) were muzzle loading weapons firing with black powder. Black powder burns differently than smokeless powder and is more forgiving of poor tolerances than modern ammo. I HIGHLY RECOMMEND you restrict your rifling activities to black powder muzzle loading arms until you become expert in this technique. Rifling in the old days was a skill of immense value, not even a science, but a rare art. Don't die, or worse, cause others to die, for your art.
 
 ### For the Intelligent Rifler
 
-
-
-[![Long Gun](/web/20060725221747im_/http://www.metaweb.com/wiki/upload/7/75/MW_Kentucky_Rifle.jpg)](long-gun)  
+  
 **A Kentucky Rifle Is Not Easily Concealed**
 
 If the above sounds like a recipe for death and dismemberment, you can stock up on barrel blanks from any number of barrel manufacturers pretty cheaply, or else invest in a manufactured rifle turning press. Producing rifling to a precise degree of accuracy requires real machinery. If you have a home screw-making machine (these are available) such are a requirement for a HEAP if you intend on manufacturing rifled weapons.
@@ -109,7 +99,6 @@ If the above sounds like a recipe for death and dismemberment, you can stock up 
 
 #### Easy Polygonal Rifling for the Home Machinist
 
-
 Okay, to reliably rifle barrels in a relatively easy manner, you will need the following: 
 
 1. A cold/hot metal rolling press
@@ -118,7 +107,6 @@ Okay, to reliably rifle barrels in a relatively easy manner, you will need the f
 4. A hydraulic press or a manual screw press with high mechanical advantage
 5. A milling machine
 6. A metal lathe
-
 
 Don't got this stuff? Oh, well, time to make some new friends.
 
@@ -130,11 +118,7 @@ Step 3: Roll it: Now that it is hot, run it through the roller. It should come o
 
 Step 4: Round it: Now that your octagonal barstock has cooled down, you need to lathe off the sharp edges. Mount this barstock into the lathe and use the autolathing fuctions to 1/4 of each face at each edge. This will produce a 16 sided cross section where every other face is rounded. The resulting proper width of each face should be determined by applying the desired caliber to the following equation:
 
-![C-2\frac{C}{2+\sqrt2}=FaceWidth,\ where\ C=Caliber,\ measuring\ the\ bar\ stock\ hot.](/web/20060725221747im_/http://www.metaweb.com/wiki/upload/math/9d514d54b41e7d8d99b03587b76ac737.png)
-
 If you want to determine how much metal to remove to reach this point, apply the desired caliber to the following equation to determine the proper finished radius at the edge of each flat and rounded face:
-
-![\frac{\sqrt{Caliber^2+FaceWidth^2}}{2}=MandrilRadius](/web/20060725221747im_/http://www.metaweb.com/wiki/upload/math/e04706b199a62080d5f088578d3bd858.png)
 
 NOTE: This equation can also be used to calculate the proper exact dimensions of your octagonal bar stock. Mandril Radius should be maybe 5 thousandths or so larger than the actual radius of the bullet diameter.
 
@@ -152,9 +136,7 @@ Finally: you need to mill out the proper chamber dimensions. The SAAMI manual li
 
 ### Unrifled Weapons
 
-
 #### Gyrojet Pistol
-
 
 ![007YOLTposter.jpg](/images/007YOLTposter.jpg)  
 **Truly Few Attain the Level  
@@ -164,27 +146,21 @@ The [Gyrojet](/) pistol had its' 15 minutes of fame in the James Bond film - [Yo
 
 #### Shotguns
 
-
 Shotguns do not require rifling, and so should be much easier to make, and safer to use, than trying to hack together a rifle from scratch. They also have significantly lower chamber pressures, which is additional safety feature. From a ballistic standpoint, however, double ought buckshot is considered ballistically superior to even .45 ACP pistol ammo against normal human beings. As a means of taking out a stormtrooper in order to take HIS gun, this is likely something HEAPsters should focus on.
 
 #### Unrifled military weapons
 
-
 1. [The Liberator](http://usgi1911.tripod.com/liberator), a single shot, unrifled handgun produced by US toy manufacturers for less than a buck during WWII, these were airdropped to resistance fighters to use against Axis soldiers in order to take their weapons from them. The Liberator has been known to fire as many as a dozen rounds before becoming non-functional. It is a poor military cousin of the elegant blued pre-war Colt M1911A1 .45 caliber pistols.
 2. [Recoilless Rifle](/), also know as a [Bazooka](/), this is a tube launched shoulder fired missile used against vehicles and armor, while specialized anti-aircraft versions, like the [Stinger](/) and the [Kestrel](/) are also popular with infantry units.
 
-
 ### Related entries
-
 
 * [Gabriel Goto](/gabriel-goto) / [Talk page](/talk-gabriel-goto)
 * [Yamamoto Isoroku](/yamamoto-isoroku)
 * [Stephenson:Neal:Cryptonomicon:Avi Halaby](/stephenson-neal-cryptonomicon-avi-halaby)
 * [Ultima Ratio Regum](/ultima-ratio-regum)
 
-
 ### External links
-
 
 * [SWC](http://www.wiesenthal.com)
 * [Gyrojet](/)

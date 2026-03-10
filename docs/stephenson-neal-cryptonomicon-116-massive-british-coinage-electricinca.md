@@ -20,8 +20,6 @@ In addition there were other coins.
 1 Florin = 2 shillings. 
 Listed below are the diameters in mm and weight in grams of the various denominations of coin during World War II. 
 
-
-
 |  |  |  |  |
 | --- | --- | --- | --- |
 | Denomination | Diameter | Weight | Alloy |
@@ -35,6 +33,3 @@ Listed below are the diameters in mm and weight in grams of the various denomina
 | Halfpenny | 25.91 | 5.6 | Bronze |
 | Farthing | 20.32 | 2.8 | Bronze |
 
-
-
-[![massive British coinage](/web/20060725224740im_/http://www.metaweb.com/wiki/upload/f/fa/Massivecoinage.jpg)](massive-british-coinage)

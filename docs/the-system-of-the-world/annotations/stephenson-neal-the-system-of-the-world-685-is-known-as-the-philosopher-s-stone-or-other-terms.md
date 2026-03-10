@@ -6,7 +6,6 @@ From the Quicksilver Metaweb.
 [The System of the World](/the-system-of-the-world) page for **the Philosopher's Stone**
 ### Stephensonia
 
-
 *We're given strong hints that **the stone** is in [Enoch Root](/enoch-root)'s possession. Oddly enough, it may explain Enoch's breathe seeming to be metallic to [Jack Shaftoe](/jack-shaftoe). Among its' alias are **Elixer of Life** and **Medicine of Metals**. This **may** be possibly maybe a nudge-nudge wink wink reference to **the Seed** in [The Diamond Age](/the-diamond-age): 
      *[...]this cause, or principle, or whatever one wants to call it, is known as the [Philosopher's Stone](/), or other terms such as the [Philosophic Mercury](/quicksilver), the Vital Agent, The Latent or Subtile Spirit, **the Secret Fire**, the Material Soul of Matter, the Invisible Inhabitant, the Body of Light, **the [Seed](/seed)**, the Seminal Virtue."*
      *"You are confusing a number of different ideas," said [Isaac](/isaac-newton),[...]*
@@ -15,14 +14,11 @@ Is it also a refrence to Gandalf? Gandalf to the Balrog - The Fellowship of the 
 It is highly unlikely that, given that Daniel Waterhouse is a Natural Philosopher, his difficulties in living with and then getting his stone (or "calculus") out into the light of day are coincidental.*
 ### Authored entries
 
-
 * [Stephenson:Neal:Quicksilver:22:anointed him with angelbalm, a thousand years old (Alan Sinder)](/stephenson-neal-quicksilver-22-anointed-him-with-angelbalm-a-thousand-years-old-alan-sinder)
-
 
 ### [Wikipedia: Geber the Sufi Wizard](/)
 
-
-[![alchemist Jabir ibn Hayyan](/web/20060727095231im_/http://www.metaweb.com/wiki/upload/e/e1/MWJabir_ibn_Hayyan.jpg)](alchemist-jabir-ibn-hayyan)  
+  
 **alchemist Jabir ibn Hayyan,  
 from a 15th c. European portrait of "Geber", Codici Ashburnhamiani 1166  
 Biblioteca Medicea Laurenziana, Florence, public domain.**
@@ -41,7 +37,6 @@ His books strongly influenced European alchemists and justified their search for
 
 ## Contributions to chemistry
 
-
 Jabir wrote more than one hundred treatises on various subjects, of which 22 are about [alchemy](/alchemy). Firmly grounded on experimental observation, his books systematized the knowledge about the fundamental chemical processes of the alchemists — such as crystallization, distillation, [calcination](/), [sublimation](/) and [evaporation](/) — thus making a great step in the evolution of chemistry from an occultist art to a scientific discipline. In particular, Jabir emphasized that definite quantities of various substances are involved in a chemical reaction, thus anticipating by almost a thousand years the principles of quantitative chemistry and the law of constant proportions. 
 
 Jabir is also credited with the invention and development of several chemical instruments that are still used today, such as the [alembic](/), which made distillation easy, safe, and efficient. By distilling various salts together with [sulfuric acid](/), Jabir discovered hydrochloric acid (from [salt](/)) and nitric acid (from [sodium nitrate|saltpeter](/)). By combining the two, he invented [aqua regia](/), one of the few substances that can dissolve [gold](/). Besides its obvious applications to gold extraction and purification, this discovery would fuel the dreams and despair of alchemists for the next thousand years. He is also credited with the discovery of [citric acid](/) (the sour principle of [lemons](/) and other unripe fruits), [acetic acid](/) (from vinegar), and [tartaric acid](/) (from wine-making residues).
@@ -56,18 +51,15 @@ Jabir also made important contributions to medicine, astronomy, and other scienc
 
 ## Contributions to alchemy
 
-
 Jabir states in his *[Book of Stones](/)* (4:12) that "The purpose is to baffle and lead into error everyone except those whom God loves and provides for!" His works were deliberately written in highly esoteric code, so that only those who had been initiated into his alchemical school could understand them. It is therefore difficult at best for the modern reader to discern which aspects of Jabir's work are to be read as symbols (and what those symbols mean), and what is to be taken literally. Because his works rarely made sense, the term *gibberish* originally referred to his writings. (Hauck, p. 19)
 
 Jabir's alchemical investigations revolved around the ultimate goal of *[takwin](/)* — the artificial creation of life. Jabir's alchemical investigations were theoretically grounded in an elaborate [numerology](/) related to [Pythagorean](/) and [Neoplatonic](/) systems. The nature and properties of elements was defined through numeric values assigned the [Arabic](/) consonants present in their name, ultimately culminating in the number 17.
 
 ### [Wikipedia: Philosopher's Stone](/)
 
-
 The **philosopher's stone**, a longtime "[Holy Grail](/)" of [Western](/) [alchemy](/alchemy), is a [mythical](/) substance that supposedly could turn inexpensive [metals](/) into [gold](/stephenson-neal-quicksilver-11-gold-knows-alan-sinder) and/or create an [elixir](/) that would make [humans](/) [immortal](/stephenson-neal-quicksilver-20-ask-your-father-alan-sinder). 
 
 #### The stone in [alchemy](/alchemy)
-
 
 The concept apparently originated from the theories of the [8th century](/) [Islamic](/islam) alchemist [Geber](/). He analyzed each [Aristotelian](/) [element](/) in terms of four basic qualities of *hotness*, *coldness*, *dryness*, and *moistness*. Thus, fire was both hot and dry, earth cold and dry, water cold and moist, and air hot and moist. He further theorized that every metal was a combination of these four principles, two of them interior and two exterior. 
 
@@ -75,13 +67,11 @@ From this premise, it was reasoned that the [transmutation](/) of one metal into
 
 #### Claims and frauds
 
-
 The concept of a substance that could turn cheap metals into valuable gold naturally attracted the attention of many entrepreneurs of all sorts — learned and amateurish, skeptical and gullible, honest and dishonest. An example that illustrates the spirit of the times is that of [Rudolf II](/) (1552-1612). This king of [Bohemia](/) (present-day [Czech Republic](/)), having found himself in financial difficulties, decided to invest heavily in the search for the philosopher's stone. He thus attracted to [Prague](/) a large number of alchemists, who were given ample material and financial support, and promised rewards if they could solve the problem. This "virtual gold rush" may have involved even the Danish astronomer [Tycho Brahe](/tycho-brahe), then at Rudolf's court, who had an alchemical lab built on the grounds of his observatory.
 
 Rudolf never saw his dream realized, and he eventually became insane and had to be deposed by his relatives. It is not known whether his insanity was due to natural causes, or to misuse of alchemical remedies — which often included [toxic](/) metals like [lead](/), [mercury](/), [arsenic](/), and [antimony](/).
 
 ### Edward Kelley
-
 
 Among those who took Rudolf's offer were the English scholar [John Dee](/), and his assistant [Edward Kelley](/), one of the many alchemists who have claimed possession of the philosopher's stone.
 
@@ -93,13 +83,11 @@ The nature of Kelley's powders is open to conjecture. Gold can be dissolved by [
 
 ## Modern views
 
-
 Though the notion of a simple philosopher's stone of the alchemic sense fell out of scientific conception by at least the 19th century, its metaphors and imagery persisted: man's attempt to discover the essential secret of the universe, redemptively transforming not just lead into gold, but death into life. In [1901](/), [Ernest Rutherford](/) and [Frederick Soddy](/) discovered that [radioactivity](/) was a sign of fundamental changes within elements, and it was Soddy who quickly made the connection between this and the ancient search for the philosopher's stone (Soddy had studied alchemy extensively as a hobby). At the moment of realization that their radioactive [thorium](/) was converting itself into [radium](/), bit by bit, Soddy later recalled that he shouted out: "Rutherford, this is transmutation!" Rutherford snapped back, "For Mike's sake, Soddy, don't call it *transmutation*. They'll have our heads off as alchemists." However the term stuck, in part because it drew the new discoveries in [nuclear physics](/) into a longer cultural and mystical web. When it was discovered that radioactivity was also tapping into a latent source of energy bound inside atoms, this furthered the thought that [radioactive decay](/) might be the ultimate philosopher's stone. Later, the discovery of [nuclear fission](/) would become consciously connected into the same narrative, especially with optimistic hopes of energy "too cheap to meter" and great utopian cities of the future run on [nuclear energy](/). 
 
 Within the [philosophical](/) system of Western alchemy ([hermeticism](/)), metal transmutations and the philosopher's stone could also be [symbols](/) for inner spiritual transformation of the alchemist. Thus, in religious contexts such as the [New Age](/) movements, the concept may be as valid as it ever was.
 
 ## The stone in fiction
-
 
 The philosopher's stone has appeared in several works of , such as:
 
@@ -111,9 +99,7 @@ The philosopher's stone has appeared in several works of , such as:
 * Japanese television animation series [Fullmetal Alchemist](/) (2003).
 * In video game [Valkyrie Profile](/) Lezard Valeth has possession of the Philosopher's Stone, refering to it as "the ten-billion-page codex."
 
-
 ### External links
-
 
 * [Ancients & Alchemists](http://www.chemheritage.org/explore-ancients-hayyan.html)
 * [Britannica article](http://www.britannica.com/eb-article-tocid-9043128)
@@ -127,10 +113,6 @@ The philosopher's stone has appeared in several works of , such as:
 * [Midas](/)
 * [universal panacea](/)
 
-
-
-
 ---
-
 
 In modern times, **Philosopher's Stone** has become a slang name for an [hallucinogenic](/) [mushroom](/), *[Psilocybe mexicana](/)*, closely related to the more well-known *[Psilocybe cubensis](/)*. See [Psilocybe](/).

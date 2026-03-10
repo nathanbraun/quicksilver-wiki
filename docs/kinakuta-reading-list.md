@@ -5,17 +5,15 @@ From the Quicksilver Metaweb.
 
 ### Suggested Reading List
 
-
 Hunt down this trilogy - the war may have been done - but not the fighting...
 
-[![Brian aldiss, rude awakening cover.jpg](/web/20060727101209im_/http://www.metaweb.com/wiki/upload/1/12/Brian_aldiss%2C_rude_awakening_cover.jpg)](brian-aldiss-rude-awakening-cover-jpg)  
+  
 
 **The Third Book in the Trilogy  
 Fighting In Java after the War was done ...**  
 The Hand -Reared Boy (1970)  
 A Soldier Erect (1971)  
 A Rude Awakening (1978). 
-
 
 * [ISBN 0297179608](/) [Brian W. Aldiss](http://www.amazon.com/exec-obidos-search-handle-url-index-books-field-author-brian-w-aldiss-104-8931055-5532701)
 
@@ -30,7 +28,7 @@ Worth reading as well
 
 What surprised and pleased me most about this book is the imprint of Fraser's own personality and strong opinions --- Flashman he is not. He's an old man now, and has grown more conservative and just a little cranky, but he's no less sharp an observer, resulting in a voice that's perfect (for my tastes) for first-person narration of and commentary on witnessed historical events. He indulges in some sentimentality that his famous character Flashman would have mocked --- about the characteristics of "Englishmen," for instance --- but knowing what he experienced in Burma you feel that he's more than earned the right to sentimentalize. Toward the end he leaves his narrative to defend the use of the atom bomb against Japan; he says that to protect his grandchildren he'd "gladly throw the switch on the entire Japanese nation," and that if you can't say the same you've got no business being a parent. I was shocked and delighted with the honesty of that sentence, and of this book as a whole.
 
-[![GM Fraser, Quartered Safe Out Here cover.jpg](/web/20060727101209im_/http://www.metaweb.com/wiki/upload/e/e3/GM_Fraser%2C_Quartered_Safe_Out_Here_cover.jpg)](gm-fraser-quartered-safe-out-here-cover-jpg)  
+  
 
 **The Background behind the  
 MacAuslan short stories**
@@ -41,12 +39,9 @@ MacAuslan short stories**
 
 * [ISBN 1585748005](/) [George MacDonald Fraser](https://en.wikipedia.org/wiki/george-macdonald-fraser)'s [The Pyrates: A Swashbuckling Comic Novel by the Creator of Flashman](http://www.amazon.com/exec-obidos-tg-detail-1585748005-qid-1084948861-sr-1-6-ref-sr-1-6-104-8931055-5532701-v-glance-s-books-product-details)  With tongue firmly in cheek, Fraser launches his Hero, Captain Ben Avery, on a mission that quickly goes astray. Forced to team up with the Anti-hero, Colonel Thomas Blood (British Army, cashiered), Ben must recover rare jewels o' price, rescue the Heroine, Lady Vanity, from the fell clutches o' evil pyrates, and rid the Spanish Main o' every tarry-handed mother's son in the Brotherhood. For spice, Fraser throws in a fascinating array of knaves, kings, despots, wayward admirals, Lost Indian Tribes, kidnapped damsels, thieves, sultry piratical temptresses, and shifty pawnbrokers. ***The Pyrates*** is a splendid read, a great story told by a great storyteller, and I'm past due for a new copy. But this book also shows Fraser's immense skill as a writer. He breathes life into every character, no matter how minor the role, and he writes with a precision and economy that leaves me amazed. So clap yer deadlights on The Pyrates, wi' a wannion, and blame y'rself if you leave emptyhanded, for this be a right fine read, by the Powers, devil a doubt, or scupper me wi' a marlinspike...else.
 
-
 * [ISBN 0805055339](/) C. S. Godshalk, Kalimantaan, Henry Holt, 1998
 
-
 ### Related entries
-
 
 * [Stephenson:Neal:Cryptonomicon:248:Kinakuta...(Alan Sinder)](/stephenson-neal-cryptonomicon-248-kinakuta-alan-sinder) is the original location of this entry.
 * [Kinakuta](/kinakuta) was its next location.

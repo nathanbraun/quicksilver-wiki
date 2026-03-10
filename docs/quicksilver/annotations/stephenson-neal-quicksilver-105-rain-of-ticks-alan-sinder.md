@@ -105,7 +105,7 @@ The entire yard is treated with special attention spent on the areas fleas are l
 
 Victorian-style flea circuses first appeared in Europe in the early 19th century, and gradually became less common as we entered the modern age. ***John Hammond  The owner of Jurassic Park as played by ([Richard Dickie Attenborough](http://us.imdb.com/name-nm0000277)) claimed he made his first fortune from a flea circus***. People would flock to see flea circuses, in which fleas perform trained stunts such as pulling small wagons, tightrope walk and get shot out of *air* cannons. Today professional clown [Adam Gertsacov](http://www.acmeclown.com/bio.html) keeps the amazing curiosity alive with entomological entertainment that dazzles, disgusts and confuses his audience. His tiny performers are real fleas -- human-blood sucking fleas. MSN's Encarta warns fleas can be quite dangerous, however, because they can carry disease from one host to the next. 
 
-![Flea-%26-glass.jpg](/https://web.archive.org/web/20060725170338im_/http://www.metaweb.com/wiki/upload/d/d0/Flea-%26-glass.jpg)  
+![Flea-%26-glass.jpg](/https://web.archive.org/images/Flea-%26-glass.jpg)  
 
 **Drawing done by [Robert Hooke](/robert-hooke) with just a field magnifier**
 

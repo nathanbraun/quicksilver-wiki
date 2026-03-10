@@ -10,7 +10,7 @@ This is an [intermediate page](/metaweb-intermediate-page) for
 ### Authored entries
 
 
-[![UKQwghlmVagueS.png](/web/20060725165529im_/http://www.metaweb.com/wiki/upload/7/79/UKQwghlmVagueS.png)](ukqwghlmvagues-png)  
+[![UKQwghlmVagueS.png](/images/UKQwghlmVagueS.png)](ukqwghlmvagues-png)  
 **Presumed Location of Qwghlm  
 ([Large Version](/image-ukqwghlmvaguel-png))**
 * [Qwghlm's Ducal Family (Alan Sinder)](/qwghlm-s-ducal-family-alan-sinder)

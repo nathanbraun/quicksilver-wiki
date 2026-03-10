@@ -22,7 +22,7 @@ More on **[Queen Anne](/queen-anne)**
 
 The Restoration of the Crown was soon followed by another **[Glorious Revolution](/glorious-revolution)**. William and [Mary of Orange](/mary-ii) ascended the throne as joint monarchs and defenders of Protestantism, followed by Queen Anne, the second of [James II](/james-ii)'s daughters. 
 
-The end of the Stuart line with the death of Queen Anne led to the drawing up of the Act of Settlement in 1701, which provided that only Protestants could hold the throne. The next in line according to the provisions of this act was George of Hanover, yet Stuart princes remained in the wings. The Stuart legacy was to linger on in the form of claimants to the Crown for another century.![Queen-Anne-MW.jpg](/https://web.archive.org/web/20060725170756im_/http://www.metaweb.com/wiki/upload/0/09/Queen-Anne-MW.jpg)  
+The end of the Stuart line with the death of Queen Anne led to the drawing up of the Act of Settlement in 1701, which provided that only Protestants could hold the throne. The next in line according to the provisions of this act was George of Hanover, yet Stuart princes remained in the wings. The Stuart legacy was to linger on in the form of claimants to the Crown for another century.![Queen-Anne-MW.jpg](/https://web.archive.org/images/Queen-Anne-MW.jpg)  
 **QUEEN ANNE OF GREAT BRITAIN**  
 **She cleaned up just dandy**
 

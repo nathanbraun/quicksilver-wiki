@@ -23,7 +23,7 @@ A real number is said to be *computable* if there exists an algorithm that yield
 
 Computers can only approximate most real numbers with rational numbers; these approximations are known as floating point numbers or fixed-point numbers; see real data type. Computer algebra systems are able to treat some real numbers exactly by storing an algebraic description (such as "sqrt(2)") rather than their decimal approximation. 
 
-Mathematicians use the symbol **R** (or alternatively,![ \Bbb{R} ](/web/20060725171055im_/http://www.metaweb.com/wiki/upload/math/69a45f1e602cd2b2c2e67e41811fd226.png)  the letter  **R**  in [blackboard bold](https://en.wikipedia.org/wiki/blackboard-bold))" to represent the [set](https://en.wikipedia.org/wiki/set) of all real numbers. 
+Mathematicians use the symbol **R** (or alternatively,  the letter  **R**  in [blackboard bold](https://en.wikipedia.org/wiki/blackboard-bold))" to represent the [set](https://en.wikipedia.org/wiki/set) of all real numbers. 
 
 In mathematics, the term "real XXX" means that the underlying number field is the field of real numbers. For example real matrix, real polynomial and real Lie algebra. 
 
@@ -33,7 +33,6 @@ In mathematics, the term "real XXX" means that the underlying number field is th
 Fractions had been used by the Egyptians around 1000 BC; around 500 BC, the Greek mathematicians lead by Pythagoras realized the need for irrational numbers. Negative numbers began to be generally accepted in the 1600s and were invented by Muslim mathematicians. The development of the [calculus](/calculus) in the 1700s used the entire set of real numbers without having defined them cleanly. The first rigorous definition was given by Georg Cantor in 1871. 
 
 ### Definition
-
 
 #### Construction from the rational numbers
 
@@ -48,7 +47,6 @@ Let **R** denote the [set](https://en.wikipedia.org/wiki/set) of all real number
 	+ if *x* ≥ 0 and *y* ≥ 0 then *x**y* ≥ 0.
 * The order is Dedekind-complete, i.e., every non-empty subset *S* of **R** with an [upper bound](https://en.wikipedia.org/wiki/upper-bound) in **R** has a least upper bound (also called supremum) in **R**.
 
-
 The latter property is what differentiates the reals from the rationals. For example, the set of rationals with square less than 2 has a rational upper bound (e.g., 1.5) but no rational least upper bound, because the square root of 2 is not rational.
 
 The real numbers are uniquely specified by the above properties.
@@ -56,10 +54,7 @@ More precisely, given any two Dedekind complete ordered fields **R**1 and **R**2
 
 ### Properties
 
-
 #### Completeness
-
-
 
 The main reason for introducing the reals is that the reals contain all limits.
 More technically, the reals are complete (in the sense of metric spaces or uniform spaces, which is a different sense than the Dedekind completeness of the order in the previous section).
@@ -86,18 +81,16 @@ The standard numerical test to determine if a sequence has a limit is to test if
 
 For example the standard series of the exponential function
 
- ![e^x = \sum_{n=0}^{\infty} \frac{x^n}{n!}](/web/20060725171055im_/http://www.metaweb.com/wiki/upload/math/5aabbba1c9ecaa6eada89d7665e04ef3.png)
+ 
 
 converges to a real number because for every *x* the sums
 
- ![\sum_{n=N}^{M} \frac{x^n}{n!}](/web/20060725171055im_/http://www.metaweb.com/wiki/upload/math/b33758377a345927bd1dde05dcf6c63a.png)
+ 
 
 can be made arbitrarily small by choosing *N* sufficiently large.
 This proves that the sequence is Cauchy, so we know that the sequence converges even if we don't know ahead of time what the limit is.
 
 #### "The complete ordered field"
-
-
 
 The real numbers are often described as "the complete ordered field", a phrase that can be interpreted in several ways.
 
@@ -122,7 +115,6 @@ Thus **R** is "complete" in the sense that nothing further can be added to it wi
 This sense of completeness is most closely related to the construction of the reals from surreal numbers, since that construction starts with a proper class that contains every ordered field (the surreals) and then selects from it the largest Archimedean subfield.
 
 #### [Advanced properties](https://en.wikipedia.org/wiki/real-number-advanced-properties)
-
 
 The reals are [uncountable](https://en.wikipedia.org/wiki/uncountable), that is, there are strictly more real numbers than [natural numbers](https://en.wikipedia.org/wiki/natural-number) (even though both sets are [infinite](https://en.wikipedia.org/wiki/infinity)).
 This is proved with [Cantor's diagonal argument](https://en.wikipedia.org/wiki/cantor-s-diagonal-argument).

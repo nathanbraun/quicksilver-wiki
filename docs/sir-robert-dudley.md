@@ -7,7 +7,7 @@ Page for **Sir Robert Dudley**
 ### Stephensonia
 
 
-[![Maps](/web/20060725222041im_/http://www.metaweb.com/wiki/upload/8/83/Dudley-NE-Coast-detail-web.jpg)](maps)  
+[![Maps](/images/Dudley-NE-Coast-detail-web.jpg)](maps)  
 **Dudley's New England maps***Claimed he had secret knowledge to determine longitude; Maybe methodology learnt by [Enoch Root](/stephenson-neal-quicksilver-enoch-root). The map of Boston harbor is likely based upon his work*
 
 ### Authored entries

@@ -7,14 +7,12 @@ placeholder for **Elizabeth I of England**
 
 ### [Wikipedia: Elizabeth I of England](/)
 
-
 ![Elizabeth_I_coronation.jpg](/images/Elizabeth_I_coronation.jpg)  
 **Coronation Painting  
 Queen Elizabeth I  
 Queen of England, Ireland and France (nominal)** **Elizabeth I** (September 7, 1533 - March 24, 1603) was Queen of England (reigned November 17, 1558 - March 24, 1603) and the last Tudor ruler. Elizabeth, sometimes called "The Virgin Queen", ruled a religiously divided England at the end of the 16th century. She is often considered one of the greatest British monarchs as she presided over an immense flourishing of culture and economics, and has been voted the "greatest Briton" of all time. The period of her reign is now known as the Elizabethan era of British history. 
 
 ### Childhood
-
 
 Born in the royal Palace of Placentia in [Greenwich](/greenwich), London, Elizabeth was the daughter and only surviving child of Henry VIII and his second wife, Anne Boleyn. Because of the circumstances of her parents' marriage, Elizabeth was considered by Roman Catholics to be illegitimate. At the time of her birth, she was recognised as the heir to the throne, in preference to her older half-sister, Mary Tudor, who was made to serve in Elizabeth's household. However, fortunes quickly changed. When Elizabeth was less than three years old, her mother was executed for treason. Just over a year later, a male heir, Edward, was born to Henry VIII, and Elizabeth found herself in much the same position as Mary the third. 
 
@@ -26,21 +24,18 @@ Elizabeth's life was spared, but Mary's marriage to Philip II of Spain made it s
 
 ### Coronation
 
-
 Elizabeth I was crowned Queen of England on January 15, 1559 in Westminster Abbey. Her tenure was insecure right from the beginning. The coronation, the date of which was chosen by John Dee as a particularly auspicious one in preventing future misfortune, had to be performed by the Bishop of Carlisle, who was the most senior prelate willing to recognise her as the legitimate heir. The same year she was one of the parties to the Peace of Cateau Cambrésis that ended the Italian Wars.
 
 ### Politic
-
 
 Elizabeth's forty-five-year reign would be marked by religious tension. Although the queen herself attempted to steer a middle way between extremist beliefs, she was herself unquestionably Protestant, and the persecution of Catholics and others regarded as heretics continued. For much of her reign, she relied on the counsel of the experienced courtier, William Cecil, whom she created Lord Burghley. On his death, his son, Robert Cecil, became her leading advisor. Another man who played a major role in the success of her administration was Sir Francis Walsingham, who ran a network of intelligence officers throughout Europe, ensuring that no move against the queen went undetected. It was Walsingham's agents who discovered the Babington plot. 
 
 ### Succession
 
-
 One of the major criticisms of Elizabeth was her failure to provide for the succession. It was taken for granted that she would marry and attempt to produce an heir, and there were many contenders for her hand, including her sister's former husband, Philip of Spain, as well as her favourite, [Leicester](/robert-dudley-earl-of-leicester), who was popularly believed to be her lover. Elizabeth wisely avoided both extremes, and, after a few years, as her hold on the throne was strengthened, it began to seem less likely that she would ever marry or have children. 
 
 She explained her failure to marry herself, in response to those who asked, by pointing out the position in which she had been placed during the reign of her elder sister. Besides being a target for Mary's jealousy, she had also been made use of, by rebels such as Thomas Wyatt. She therefore believed that the naming of a successor would weaken her rule and offer an incentive to those who wished her dead. Furthermore, she would not have been able to do so without consulting Parliament.
-[![the virgin](/web/20060725172245im_/http://www.metaweb.com/wiki/upload/7/7b/Elizabeth_I_%28Armada_Portrait%29.jpg)](the-virgin)  
+  
 The above portrait was made in approximately 1588 to commemorate the defeat of the  
 [Spanish Armada](/) (depicted in the background). Elizabeth I's international power is reflected by  
 the hand resting on the globe.
@@ -53,13 +48,11 @@ When, in 1568, Lady Catherine Grey died, there was no other obvious successor of
 
 ### End of religious toleration
 
-
 At this stage, the new pope, Pius V intervened and excommunicated Elizabeth on February 25, 1570, something his predecessor had been reluctant to do. This made it impossible for Elizabeth to continue her policy of religious toleration. Nevertheless, the discovery of the Ridolfi Plot came as a great shock to her. 
 
 After twenty years of confinement, Mary Stuart allowed herself to become implicated in yet another plot by Catholic sympathisers, led by Sir Antony Babington to rescue her and place her on the throne in Elizabeth's place. This was a good excuse for Elizabeth to remove her from the equation, and she was executed in 1587. 
 
 ### War with Spain
-
 
 Elizabeth had provided troops and money to assist the French Protestant Henri of Navarre to capture the throne of France. She had also sent troops to support the United Provinces in the Eighty Year's War. Mary's execution was the needed excuse for Philip II of Spain to make a determined invasion attempt. Thanks to Elizabeth's naval leaders, notably Sir Francis Drake, the Spanish Armada of 1588 was decisively defeated and scattered. 
 
@@ -67,14 +60,11 @@ In the last few years of her reign, Elizabeth's favourite was Robert Devereux, 2
 
 ### Death
 
-
 Elizabeth never married and her death ended the Tudor dynasty. In later years, when pressed to decide on the succession, she showed an inclination towards her nephew, ironically the son of Mary, Queen of Scots, whom she had executed; but she never officially named him. Elizabeth died on March 24, 1603, at Richmond Palace in Surrey and is buried at Westminster Abbey. She was succeeded by [James I of England](/james-i-of-england), who was already James VI of Scotland. Yet within 50 years of her death, England was to endure the English Civil War and become a republic. 
 
 ### English culture
 
-
-
-[![Queen Elizabeth I](/web/20060725172245im_/http://www.metaweb.com/wiki/upload/9/91/Queen_Elizabeth_I.jpg)](queen-elizabeth-i)  
+  
 **Queen Elizabeth I  
 Semper Eadem  
 Always the Same  
@@ -85,21 +75,15 @@ The Elizabethan era was an important one for the development of English culture.
 
 ### Popularity
 
-
 Elizabeth is included in the top 10 of the 100 Greatest Britons poll sponsored by the BBC and voted for by the public. She has often been portrayed in drama and fiction. In 1971, Glenda Jackson portrayed her in the BBC's blockbuster serial, Elizabeth R, and in the film Mary, Queen of Scots. 1998 saw portrayals of the young queen by Cate Blanchett in the movie Elizabeth, and of the aging monarch by Dame Judi Dench in the movie Shakespeare in Love. The second series of historical fiction comedy Blackadder features a surreal version of her played by Miranda Richardson. Gay pioneer Quentin Crisp played the queen in the film "Orlando". Benjamin Britten portrayed her relationship with Robert Devereux, 2nd Earl of Essex in the opera Gloriana, written for the coronation of Elizabeth II.
 
-
-
 ### Related entries
-
 
 * [Robert Dudley, earl of Leicester](/robert-dudley-earl-of-leicester)
 * [James I of England](/james-i-of-england)
 * [Greenwich](/greenwich)
 
-
 ### External links
-
 
 * **[Elizabeth R](https://en.wikipedia.org/wiki/elizabeth-r)**
 * **[Mary, Queen of Scots](https://en.wikipedia.org/wiki/mary-queen-of-scots-movie)**

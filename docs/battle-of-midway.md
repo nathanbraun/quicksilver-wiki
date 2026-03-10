@@ -3,12 +3,9 @@
 
 From the Quicksilver Metaweb.
 
-
 ### [Battle of Midway](https://en.wikipedia.org/wiki/battle-of-midway)
 
-
 From Wikipedia, the free encyclopedia
-
 
 **BATTLE OF MIDWAY**| Battles | [World War II](https://en.wikipedia.org/wiki/world-war-ii) |
 | Battle before:  | [Battle of the Coral Sea](https://en.wikipedia.org/wiki/battle-of-the-coral-sea) |
@@ -17,14 +14,11 @@ From Wikipedia, the free encyclopedia
 | Combatants:  | [U.S.A](https://en.wikipedia.org/wiki/united-states) & [Japan](https://en.wikipedia.org/wiki/japan) |
 | Commanders:  | [Raymond A. Spruance](https://en.wikipedia.org/wiki/raymond-a-spruance) & [Chuichi Nagumo](https://en.wikipedia.org/wiki/chuichi-nagumo) |
 
-
-
 ### Overview
-
 
 The **Battle of Midway**, fought in [World War II](https://en.wikipedia.org/wiki/world-war-ii), took place on June 5, 1942 (June 4 in US [time zones](https://en.wikipedia.org/wiki/time-zone)). The [United States](https://en.wikipedia.org/wiki/united-states) Navy defeated a [Japanese](https://en.wikipedia.org/wiki/japan) attack against [Midway Atoll](https://en.wikipedia.org/wiki/midway-atoll), marking a turning point in the war in the [Pacific](https://en.wikipedia.org/wiki/pacific-ocean) theatre.
 
-Fought just a month after the Battle of the Coral Sea, Midway was the turning point of the [war in the Pacific](https://en.wikipedia.org/wiki/pacific-war). Skill, daring, and luck all played a part. The attack on the island of Midway, which also included a feint to [Alaska](https://en.wikipedia.org/wiki/alaska) by a smaller fleet, was a ploy by the Japanese to draw the American carrier fleet into a trap. With the remaining American ships destroyed, the Japanese hoped to invade [Hawaii](https://en.wikipedia.org/wiki/hawaii).[![Midway dauntless.jpg](/web/20060725172054im_/http://www.metaweb.com/wiki/upload/6/66/Midway_dauntless.jpg)](midway-dauntless-jpg)  
+Fought just a month after the Battle of the Coral Sea, Midway was the turning point of the [war in the Pacific](https://en.wikipedia.org/wiki/pacific-war). Skill, daring, and luck all played a part. The attack on the island of Midway, which also included a feint to [Alaska](https://en.wikipedia.org/wiki/alaska) by a smaller fleet, was a ploy by the Japanese to draw the American carrier fleet into a trap. With the remaining American ships destroyed, the Japanese hoped to invade [Hawaii](https://en.wikipedia.org/wiki/hawaii).  
 
 **USS Dauntless Divebomber**
 
@@ -34,16 +28,13 @@ Admiral [Yamamoto Isoroku](/yamamoto-isoroku)'s battle plan was, typically, bold
 
 ### US Intelligence
 
-
 However, US Naval Intelligence (in cooperation with the British and Dutch) had been reading parts of the primary Japanese Imperial Fleet communications system ([JN-25](https://en.wikipedia.org/wiki/jn-25), a super encyphered code) for some time, and since the most recent version change just before the Pearl Harbor attack, had made considerable progress on the new version. By April and even more by May, it became apparent that enough of the current JN-25 version was becoming known that new Japanese operations might be blocked effectively. One code element was unclear, however. Location AF was clearly to be a major point of attack, but just what AF was was not so clear. Some, especially in the Pacific, thought it Midway; others, concentrated it seems at OP-20-G in Washington, believed AF to be in the Aleutians. However, there was no cryptographic way of settling the issue. An ingenious suggestion, by a young officer in Hawaii, led them to discover the Japanese plan. He asked that the base commander at Midway radio Pearl Harbor, in plain [English](https://en.wikipedia.org/wiki/english-language) that the island was running low on drinking water due to a breakdown of the water plant. A JN-25 message not long thereafter noted that AF had fresh water problems and that the attack force should plan accordingly. AF was Midway, and would be attacked in the new operation. 
 
 Information from JN-25 decrypts came in slowly, and it wasn't till the very last minute that [Admiral Nimitz](https://en.wikipedia.org/wiki/admiral-nimitz) had enough information to put together an ambush for the Midway attack force. He called back Fletcher's carriers from the SW Pacific area, and Pearl Harbor shipyard did a legendary job getting the Yorktown -- severely damaged at the Battle of the Coral Sea -- together enough to steam with the rest to meet the Japanese at Midway. 
 
 ### The Battle
 
-
-
-[![300px-USS Yorktown hit-740px.jpg](/web/20060725172054im_/http://www.metaweb.com/wiki/upload/5/5c/300px-USS_Yorktown_hit-740px.jpg)](300px-uss-yorktown-hit-740px-jpg)  
+  
 
 Click link below for bigger image:  
 [USS Yorktown is hit by an aerial torpedo](https://en.wikipedia.org/wiki/image-uss-yorktown-hit-740px-jpg)
@@ -55,21 +46,15 @@ Aircraft launched from the remaining Japanese carrier *[Hiryu](https://en.wikipe
 
 ### Aftermath
 
-
 Having scored a decisive victory, American forces retired. The loss of four carriers stopped the expansion of the Japanese Empire in the Pacific, and put Japan on the defensive. It had been six months to the day since the [attack on Pearl Harbor](/pearl-harbor). Admiral [Yamamoto Isoroku](/yamamoto-isoroku) had predicted to his superiors that Japan would prevail for only six months to a year against the United States, after which American resources would begin to overwhelm the Japanese Navy. He had been exactly correct.
 
 ### Order of Battle
 
-
 #### Japan
-
-
 
 * *[Yamato](https://en.wikipedia.org/wiki/japanese-battleship-yamato)*
 
-
 #### Advance Expeditionary Force
-
 
 **Carrier Striking Force**
 * Cardiv 1
@@ -89,7 +74,6 @@ Having scored a decisive victory, American forces retired. The loss of four carr
 * Desdiv 17 - *[Isokaze](https://en.wikipedia.org/wiki/japanese-destroyer-isokaze)* , *[Urakaze](https://en.wikipedia.org/wiki/japanese-destroyer-urakaze)* , *[Hamakaze](https://en.wikipedia.org/wiki/japanese-destroyer-hamakaze)* , *[Tanikaze](https://en.wikipedia.org/wiki/japanese-destroyer-tanikaze)*
 * Supply Unit - *[Kyokuto Maru](https://en.wikipedia.org/wiki/kyokuto-maru)*, etc
 
-
 **Midway Occupation Force**
 * Batdiv 3, 1st section
 * Crudiv 4, 1st section
@@ -98,19 +82,15 @@ Having scored a decisive victory, American forces retired. The loss of four carr
 * Desdiv 9
 * Supply Unit
 
-
 **Main Body**
 * Batdiv 1
 * Desdiv 11
 * Desdiv 19
 * Desdiv 20
 
-
 **Northern Area Force**
 
 ### United States
-
-
 
 **Task Force 17**
 * Task Group 17.5 (Carrier Group)
@@ -125,7 +105,6 @@ Having scored a decisive victory, American forces retired. The loss of four carr
 	+ [USS *Hughes*](https://en.wikipedia.org/wiki/uss-hughes-dd-410)
 	+ [USS *Morris*](https://en.wikipedia.org/wiki/uss-morris-dd-417)
 	+ [USS *Russell*](https://en.wikipedia.org/wiki/uss-russell-dd-414)
-
 
 **Task Force 16**
 * Task Group 16.5 (Carrier Group)
@@ -154,7 +133,6 @@ Having scored a decisive victory, American forces retired. The loss of four carr
 	+ [USS *Dewey*](https://en.wikipedia.org/wiki/uss-dewey-dd-349)
 	+ [USS *Monssen*](https://en.wikipedia.org/wiki/uss-monssen-dd-436)
 
-
 **Submarines**
 * Task Group 7.1
 	+ [USS *Cachalot*](https://en.wikipedia.org/wiki/uss-cachalot-ss-170)
@@ -179,16 +157,12 @@ Having scored a decisive victory, American forces retired. The loss of four carr
 	+ [USS *Pike*](https://en.wikipedia.org/wiki/uss-pike-ss-173)
 	+ [USS *Growler*](https://en.wikipedia.org/wiki/uss-growler-ss-215)
 
-
 **Midway Garrison**
 
 ### Related entries
 
-
 * [Yamamoto Isoroku](/yamamoto-isoroku)
 
-
 ### External links
-
 
 * TBA

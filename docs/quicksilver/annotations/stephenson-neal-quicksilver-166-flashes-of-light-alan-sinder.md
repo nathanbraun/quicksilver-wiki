@@ -7,7 +7,7 @@ The [Quicksilver](/quicksilver) page for **heliography** and **telegraphy**
 ### Stephensonia
 
 
-*Strange information indeed. Though it rates a [Cryptonomicon](/cryptonomicon) entry as well. ***Le Monstro*** notes cannon fire as telecommunication signals. [Lawrence Waterhouse](/lawrence-waterhouse) recognises someone's *fist* and [Randy](/randy-waterhouse) is well versed in Morse Code.*![equipment-heliograph.jpg](/https://web.archive.org/web/20060725170610im_/http://www.diggerhistory.info/images/equipment/equipment-heliograph.jpg)  
+*Strange information indeed. Though it rates a [Cryptonomicon](/cryptonomicon) entry as well. ***Le Monstro*** notes cannon fire as telecommunication signals. [Lawrence Waterhouse](/lawrence-waterhouse) recognises someone's *fist* and [Randy](/randy-waterhouse) is well versed in Morse Code.*![equipment-heliograph.jpg](/https://web.archive.org/images/equipment-heliograph.jpg)  
 **A Heliograph  
 used by signallers, to  
 send reflected sunlight  
@@ -33,7 +33,7 @@ Australian Light Horse made good use of the helio in the Desert campaigns in WW1
 
 Enthusiast [James Riddle](http://myweb.cableone.net/kd7aoi): recieved information from Tom Windes, an archaeologist with the National Park Service (UNM, Albuquerque), and another archaeologist, Tom Barker expressing the similarity between the [army heliograph](http://www.warlinks.com/pages-heliograph.html) signaling system and a possible prehistoric Chacoan signaling system (800 or 900 CE) discovered by them along with Al Hayes in the early 1970s in the San Juan Basin of north-western New Mexico while doing archaeological work.
 
-The idea certainly isn't new. In fiction the ***Lone Ranger and Tonto*** often came up against *bad guys* using the easier to use mirror or shaving knife with a sight hole signaling device (which any average *teenaged* scout figures out before tackling the more complex concept of social skills though I know of advanced *webelos* and *bluejays*). *America Native Peoples* may have been using mica to signal at a distance for centuries along with signal fires and smoke signals.![mark5-helio.jpg](/https://web.archive.org/web/20060725170610im_/http://www.sscnet.ucla.edu/geog/gessler/collections/mark5-helio.jpg)  
+The idea certainly isn't new. In fiction the ***Lone Ranger and Tonto*** often came up against *bad guys* using the easier to use mirror or shaving knife with a sight hole signaling device (which any average *teenaged* scout figures out before tackling the more complex concept of social skills though I know of advanced *webelos* and *bluejays*). *America Native Peoples* may have been using mica to signal at a distance for centuries along with signal fires and smoke signals.![mark5-helio.jpg](/https://web.archive.org/images/mark5-helio.jpg)  
 **MARK V HELIOGRAPH  
 An Australian heliograph complete with a Morse-code  
 keying mechanism and is in working condition.  
@@ -138,7 +138,7 @@ A dah is conventionally 3 times as long as a dit. Spacing between dits and dahs 
 ### Letters, numbers, punctuation, prosigns
 
 
-![MorseAlphabetMW.jpg](/https://web.archive.org/web/20060725170610im_/http://www.metaweb.com/wiki/upload/e/ee/MorseAlphabetMW.jpg)
+![MorseAlphabetMW.jpg](/https://web.archive.org/images/MorseAlphabetMW.jpg)
 
 ### Numbers
 

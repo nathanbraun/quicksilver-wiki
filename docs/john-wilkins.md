@@ -29,7 +29,7 @@ This is a [Quicksilver](/quicksilver) page for **John Wilkins**.
 
 
 **John Wilkins** (1614-1672), bishop of Chester, was born at Fawsley, Northamptonshire, and educated at Magdalen Hall, Oxford. He was ordained and became vicar of Fawsley in 1637, but soon resigned and became chaplain successively to Lord Saye and Sele, Lord Berkeley, and Prince Charles Louis, nephew of [Charles I](/charles-i). and afterwards elector palatine of the Rhine. In 1648 he became warden of Wadham College, Oxford. Under him the college was extraordinarily prosperous, for, although a supporter of [Cromwell](/oliver-cromwell), he was in touch with the most cultured royalists, who placed their sons in his charge. In 1659 Richard Cromwell (Tumbledown Dick) appointed him master of [Trinity College](/trinity-college), Cambridge. At the Restoration in 1660 he was deprived, but appointed prebendary of York and rector of Cranford, Middlesex. In 1661 he was preacher at Gray's Inn, and in 1662 vicar of St Lawrence Jewry, London. He became vicar of Polebrook, Northamptonshire, in 1666, prebendary of Exeter in 1667, and in the following year prebendary of St Paul's and bishop of Chester. Possessing strong scientific tastes, he was the chief founder of the [Royal Society](/royal-society) and its first secretary. He died in London in November 1672.
-[![WilkinsMW.jpg](/web/20060725221603im_/http://www.metaweb.com/wiki/upload/8/89/WilkinsMW.jpg)](wilkinsmw-jpg)  
+[![WilkinsMW.jpg](/images/WilkinsMW.jpg)](wilkinsmw-jpg)  
 
 **Reverend John Wilkins**
 

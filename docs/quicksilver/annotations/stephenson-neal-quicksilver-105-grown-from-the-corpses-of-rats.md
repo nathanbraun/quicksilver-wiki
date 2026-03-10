@@ -6,8 +6,7 @@ From the Quicksilver Metaweb.
 this page will talk about **rats**
 ### Stephensonia
 
-
-[![Fancyrat.jpg](/web/20060725170425im_/http://www.metaweb.com/wiki/upload/1/1e/Fancyrat.jpg)](fancyrat-jpg)  
+  
 A Fancy Rat and his treat.
 *Waterhouse men all seem to get their share of rats  Daniel at church, Lawrence at the Castle Qwghlm, and Randy in prison. And being manly men - they mostly take our rodent friends in stride.  
 
@@ -15,17 +14,12 @@ A Fancy Rat and his treat.
 
 ### Authored entries
 
-
 * [Stephenson:Neal:Quicksilver:370:Qwghlm (Neal Stephenson)](/stephenson-neal-quicksilver-370-qwghlm-neal-stephenson)
 * [Stephenson:Neal:Quicksilver:772:Sghr (Jeremy Bornstein)](/stephenson-neal-quicksilver-772-sghr-jeremy-bornstein)
 * [Qwghlm's Ducal Family (Alan Sinder)](/qwghlm-s-ducal-family-alan-sinder)
 * [Leibniz  and Black Humor (Alan Sinder)](/leibniz-and-black-humor-alan-sinder)
 
-
 ### [Wikipedia: Rat](/)
-
-
-
 
 | **THE RAT** |
 | --- |
@@ -43,7 +37,6 @@ A Fancy Rat and his treat.
 | [Family](http://en.wikipedia.org/family-biology): | [Muridae](http://en.wikipedia.org/muridae) |
 
  |
-
 
 A **rat** is any one of about 56 different [species](/) of small, nearly [omnivorous](/) [rodents](/) belonging to the [genus](/) ***Rattus***. 
 
@@ -64,8 +57,7 @@ Like mice, rats (especially albino rattus norvegicus ) are frequently subjects o
 
 ### Rats as pets
 
-
-In Western countries, many people keep domestic rats as pets. Descendants of rats bred for research, these animals also are called "[fancy rats](https://en.wikipedia.org/wiki/fancy-rat)," "coloured rats" or "colour rats." Rat fanciers have developed many exotic varieties. Besides ones with unusual colouring, there have been rats bred that have bigger ears, no fur, no tails and oversized hind legs. Domesticated rats tend to be both more docile than their wild ancestors and more disease prone, presumably due to inbreeding.[![Rattus Qwghlmian MW.jpg](/web/20060725170425im_/http://www.metaweb.com/wiki/upload/8/88/Rattus_Qwghlmian_MW.jpg)](rattus-qwghlmian-mw-jpg)  
+In Western countries, many people keep domestic rats as pets. Descendants of rats bred for research, these animals also are called "[fancy rats](https://en.wikipedia.org/wiki/fancy-rat)," "coloured rats" or "colour rats." Rat fanciers have developed many exotic varieties. Besides ones with unusual colouring, there have been rats bred that have bigger ears, no fur, no tails and oversized hind legs. Domesticated rats tend to be both more docile than their wild ancestors and more disease prone, presumably due to inbreeding.  
 **A Qwghlmian Super Rat**  
 **it is to a *ship rat* what  
 a grizzley bear is to a brown bear**  
@@ -81,7 +73,6 @@ Pet rats live to around 2-3 years of age. Adult bucks weigh around 500g and adul
 
 ### Rats in Culture
 
-
 [Western](/) associations with the rat are generally negative. For instance, "Rats!" is used as a substitute for various vulgar [interjections](/). These associations do not draw, *per se*, from any biological or behavioral trait of the rat, but possibly from the debated historical association of the rat with the medieval [Black Death](/black-plague). Rats are seen, some would say unfairly, as vicious, unclean, parasitic animals that steal food and spread disease. In one particularly infamous example, ravenous rats are used as a torture device in the novel *[Nineteen Eighty-Four](/)*, and in the movie *[2 Fast 2 Furious](/)*. The [H. P. Lovecraft](/) story "[The Rats in the Walls](/)" also deals with rats in a less than flattering manner. When [anthropomorphized](/), rats are usually depicted as selfish, crude and untrustworthy, with the characters of *[The Secret of NIMH](/)*, *[Ratz](/)* and [Terry Pratchett](/)'s *[The Amazing Maurice and his Educated Rodents](/)* being the major exceptions. Describing a person as "rat-like" usually implies they are unattractive and suspicious. By contrast, mice are stereotyped as cute and [bourgeois](/).
 
 On the [Isle of Man](/) the word 'rat' should be used with caution; even today many people may be shocked, and indeed offended upon its utterance. It is considered bad luck to mention this word. The origins of this superstition date far back, possibly to a time when many Manx people lived off the sea, where it was a sign of trouble when the rats were leaving the ship. Local alternatives include [longtail](/), joey, queerfella, ringie and the [Manx](/) word, roddan. In recent times, many young people have converted to saying "r-a-t", owing to the influence of British immigrants.
@@ -92,8 +83,7 @@ More recently, rat has become a criminal slang term for a [police](/) [informant
 
 ### Related links
 
-
-[![Rattus norvegicus 1.jpg](/web/20060725170425im_/http://www.metaweb.com/wiki/upload/0/01/Rattus_norvegicus_1.jpg)](rattus-norvegicus-1-jpg)  
+  
 (*Rattus norvegicus*) AKA Brown Rat
 * [Lawrence Waterhouse](/lawrence-waterhouse)
 * [Stephenson:Neal:Quicksilver:Waterhouse family](/stephenson-neal-quicksilver-waterhouse-family) Lawrence's daughter Nina is professor of Qwghlmian Linguistics
@@ -105,9 +95,7 @@ More recently, rat has become a criminal slang term for a [police](/) [informant
 * [Galvanick Lucipher](/galvanick-lucipher)
 * [Black Plague](/black-plague)
 
-
 ### External links
-
 
 * [National Fancy Rat Society](http://www.nfrs.org)
 * [Rat Fan Club of America](http://www.ratfanclub.org)

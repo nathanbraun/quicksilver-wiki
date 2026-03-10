@@ -93,12 +93,12 @@ same time that $50k is a months salary to the average bloke...[Mike Lorrey](/use
 **Former NASA engineer William Schneider (above) designed the modules that Las Vegas mogul  
 Robert Bigelow hopes will constitute the worlds first orbital hotel.**
 *...After TransHab was cancelled, Bigelow bought the exclusive development rights from NASA and entered into a Space Act Agreement with the agency to allow him to work with former TransHab engineers still employed there. And he tracked down Schneider, by then retired from NASA and teaching at Texas A&M University. Schneider was surprised when he got the call, but he agreed to see for himself what Bigelow was up to. The modules Bigelow has on display, though empty except for floors and structural elements, had their intended effect on Schneider. And god, he recalls now, when I walked in here, boom! It was mind-boggling, because this is the vision that I really wanted. Heres these things, all sitting there, and of course some of them are mock-ups, but the rest were inflatable, and I said, Man, hes serious. Hes not playing around.  These days Schneider and his former TransHab colleagues visit the plant every few weeks to provide guidance to Bigelows engineers. For Schneider, its a chance to follow through on some unfinished business. Its kind of like you want to see your child grow up to maturity, he says, not be stopped in its adolescence." ...*
-[![Bigelow Space Bungalows](/web/20060725165509im_/http://www.metaweb.com/wiki/upload/a/a5/Bigelowbanner.jpg)](bigelow-space-bungalows)  
+[![Bigelow Space Bungalows](/images/Bigelowbanner.jpg)](bigelow-space-bungalows)  
 **Various configurations of space stations  
 using Bigelows inflatable habitat modules.**
 American entrepreneur Robert Bigelow, Budget Suites of America hotel chain owner and founder of [Bigelow Aerospace](http://www.bigelowaerospace.com/index.html), has announced a new space prize of $50 million to the American based team that can launch an orbital passenger ship to supply passenger transport and support services to Bigelows planned orbital hotel resort. Bigelow's pioneering inflatable space habitat modules promise reliable and affordable modular construction of space habitats, both in orbit and on lunar/asteroidal surfaces, as well as for use in interplanetary spacecraft like Bigelow's proposed "Nautilus Moon Cruiser".
 
-[![Mooncruise01.jpg](/web/20060725165509im_/http://www.metaweb.com/wiki/upload/f/f3/Mooncruise01.jpg)](mooncruise01-jpg)
+[![Mooncruise01.jpg](/images/Mooncruise01.jpg)](mooncruise01-jpg)
 ### Link
 
 

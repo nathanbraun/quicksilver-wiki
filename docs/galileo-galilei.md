@@ -6,31 +6,23 @@ From the Quicksilver Metaweb.
 Placeholder for **Galileo**
 ### Stephensonia
 
-
 *The "Academy of the Lynxes" seem to be an early version of the [Royal Society](/royal-society); Shame Prince Cesi died before the publication of [Dialogue Concerning The Two Chief World Systems](https://en.wikipedia.org/wiki/dialogue-concerning-the-two-chief-world-systems).*
 
 ### Authored entries
-
 
 * [Isaac Newton (Alan Sinder)](/isaac-newton-alan-sinder)
 * [Stephenson:Neal:Quicksilver:21:Francis Bacon, Galileo, Descartes(Alan Sinder)](/stephenson-neal-quicksilver-21-francis-bacon-galileo-descartes-alan-sinder)
 * [Stephenson:Neal:Quicksilver:36:According to what scheme? (Alan Sinder)](/stephenson-neal-quicksilver-36-according-to-what-scheme-alan-sinder)
 
-
 ### Community entry:Galileo Galilei
 
-
-
-
-[![Gallileo Inquisition.png](/web/20060725165715im_/http://www.metaweb.com/wiki/upload/b/bf/Gallileo_Inquisition.png)](gallileo-inquisition-png)  
+  
 
 **Galilieo before the Inquisition 1632**  
 
-
 Galileo Galilei was born in Pisa in 1564, the son of Vincenzo Galilei, well known for his studies of music, and Giulia Ammannati. He studied at Pisa, where he later held the chair in mathematics from 1589 - 1592. He was then appointed to the chair of mathematics at the University of Padua, where he remained until 1610. During these years he carried out studies and experiments in mechanics, and also built a thermoscope . He devised and constructed a geometrical and military compass, and wrote a handbook which describes how to use this instrument. In 1594 he obtained the patent for a machine to raise water levels . He invented the microscope, and built a telescope with which he made celestial observations, the most spectacular of which was his discovery of the satellites of Jupiter. In 1610 he was nominated the foremost Mathematician of the University of Pisa and given the title of mathematician to the Grand Duke of Tuscany. He studied Saturn and observed the phases of Venus. In 1611 he went to Rome. He became a member of the Accademia dei Lincei (Academy of the Lynxes) and observed the sunspots. In 1612 he began to encounter serious opposition to his theory of the motion of the earth that he taught after Copernicus. In 1614, Father Tommaso Caccini denounced the opinions of Galileo on the motion of the Earth from the pulpit of Santa Maria Novella, judging them to be erroneous. Galileo therefore went to Rome, where he defended himself against charges that had been made against him but, in 1616, he was admonished by Cardinal Bellarmino and told that he could not defend Copernican astronomy because it went against the doctrine of the Church. In 1622 he wrote the Saggiatore (The Assayer ) which was approved and published in 1623. In 1630 he returned to Rome to obtain the right to publish his Dialogue on the two chief world systems which was eventually published in Florence in 1632. In October of 1632 he was summoned by the Holy Office to Rome. The tribunal passed a sentence condemning him and compelled Galileo to solemnly abjure his theory. He was sent to exile in Siena and finally, in December of 1633, he was allowed to retire to his villa in Arcetri, the Gioiello. His health condition was steadily declining, - by 1638 he was completely blind, and also by now bereft of the support of his daughter, Sister Maria Celeste, who died in 1634. Galileo died in Arcetri on 8 January 1642.
 
-
-[![280px-Galileo by leoni.jpg](/web/20060725165715im_/http://www.metaweb.com/wiki/upload/4/40/280px-Galileo_by_leoni.jpg)](280px-galileo-by-leoni-jpg)  
+  
 
 **Galileo Galilei  
 (Pisa 1564 - Arcetri, Florence 1642)**
@@ -57,11 +49,9 @@ Viviani recounts that Galileo dedicated himself to research on heat at the end o
 
 #### Magnetism
 
-
 Between 1600 and 1609 Galileo devoted himself to studying magnetism, inspired by William Gilbert 's De magnet. He attempted to increase the strength of loadstones by means of special armatures. One of these was given to Grand Duke Ferdinand II by Galileo.
 
 #### Accademia dei Lincei
-
 
 It was founded in 1603 by the young Prince Federico Cesi and his friends, Anastasio Di Filiis, Johannes Van Heeck, and Francesco Stelluti . It aimed at a radical renewal of scientific knowledge and it encouraged a vigorous critical approach to the dominant Aristotelian philosophy. 
 
@@ -72,16 +62,13 @@ The Academy did not survive the death of Prince Federico Cesi in 1630 and Galile
 The Linceans produced an important collection of micrographs, or drawings made with the help of the newly invented microscope. After Cesi's death, the academy closed and the drawings were collected by Cassiano dal Pozzo, a Roman antiquarian, who sold them in 1763 to George III of the United Kingdom. The drawings were discovered in Windsor Castle in 1986 by art historian David Freedberg.
 #### Sunspots
 
-
 Apparent references to sunspots were made by first millennium AD Chinese astronomers, who probably could see the largest spot groups when the sun's glare was filtered by wind-borne dust from the various central Asian deserts. They were first observed telescopically by Frisian astronomers Johannes and David Fabricius in 1611; their discovery was overlooked however, and there soon arose a dispute between Christoph Scheiner and Galileo Galilei over who first saw sunspots -- both discovered them independently of each other within a few months of the Fabriciuses.
 
 #### Dialogue Concerning The Two Chief World Systems
 
-
 This work, published in Florence in 1632, was Galileo 's scientific and literary masterpiece. In it he discussed the relative merits of the Ptolemaic and Copernican systems by means of three interlocutors: Filippo Salviati (a committed Florentine Copernican), Giovanfrancesco Sagredo (an open-minded Venetian, initially neutral with respect to the theories) and the Aristotelian Simplicio (a defender of the Ptolemaic theory). The author imagines that the three speakers discuss the heliocentric system over four days. The work was written in Italian in order to increase its circulation and was condemned along with Galileo himself for the principles which it supported.
 
 ### Related entries
-
 
 * [Isaac Newton](/isaac-newton)
 * [Theory of Evolution](/theory-of-evolution)
@@ -96,9 +83,7 @@ This work, published in Florence in 1632, was Galileo 's scientific and literary
 * [English Civil War Timeline](/english-civil-war-timeline)
 * [The System of the World](/stephenson-neal-the-system-of-the-world)
 
-
 ### External links
-
 
 * **[ISBN 0140280553](/) Dava Sobel's [Galileo's Daughter: A Historical Memoir of Science, Faith, and Love](http://www.amazon.com/exec-obidos-tg-detail-0140280553-qid-1071499704-ref-sr-8-xs-ap-i0-xgl14-002-8705843-0436068-v-glance-s-books-n-507846-product-details)**
 * **[The Lynxes](https://en.wikipedia.org/wiki/accademia-dei-lincei)**

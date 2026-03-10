@@ -6,13 +6,11 @@ From the Quicksilver Metaweb.
 [The Confusion](/the-confusion) page about **Jean-Philippe Rameau**
 ### Stephensonia
 
-
 *Ponchartrain seems to be a high tone Jazz cafe in New Orleans. Not able to link it back to Belle France yet. But it's all Baroque.*
 
 ### Community: Jean-Philippe Rameau
 
-
-[![Violin as guitar](/web/20060725222557im_/http://www.metaweb.com/wiki/upload/9/9a/Rameau-aved.jpg)](violin-as-guitar)  
+  
 **Jean-Philippe Rameau  
 for a time a violinist in the Lyons Opera  
 
@@ -31,7 +29,6 @@ Of interest about Rameau and the context of the [Baroque Cycle](/baroque-cycle),
 
 ### [Wikipedia: Jean-Philippe Rameau (Enhanced)](/)
 
-
 **Jean-Philippe Rameau** ([September 25](/), [1683](/) - [September 12](/), [1764](/)) was one of the most important [French](/) [composers](/) and [music theorists](/) of the [Baroque](/) era. He replaced [Jean-Baptiste Lully](/) as the dominant composer of French [opera](/), and was attacked by those who preferred Lully's style.
 
 Rameau's father was the organist at the cathedral of [Dijon](/), and had his son practicing [harpsichord](/) at the earliest age possible. However, Rameau began his studies in the field of law before deciding that the study and composition of music was his true passion. He spent much of his youth in [Italy](/) and [Paris](/), and for a time followed his father's footsteps as organist at [Clermont Cathedral](/). It wasn't until he reached his 40s that Rameau achieved prominence in the field of composition, but by the death of [Couperin](/) in [1733](/) he was arguably the leading French composer of the time. From then on he devoted himself primarily to opera.
@@ -45,9 +42,7 @@ He is perhaps most well known for his theories regarding [tonality](/) through *
 At his death in 1764, over 1500 people attended Rameau's memorial service in Paris, held at the *Pères de l'Oratoire*, with one hundred and eighty musicians from the *Opéra* and the *Musiques de Cour* performing pieces from his operas. A number of other memorial services were also held in Paris and in the provinces.
 ### Works
 
-
 #### Instrumental works
-
 
 * *Les pièces de clavecin en concert* (1741)
 * several [suites](/) for harpsichord (3 books published 1706, 1724, 1728).
@@ -55,31 +50,24 @@ At his death in 1764, over 1500 people attended Rameau's memorial service in Par
 
 #### Lyric tragedy
 
-
 * *Hippolyte et Aricie* (1734)
 * *Castor et Pollux* (1737)
 * *Dardanus* (1739)
 * *Zoroastre* (1756)
 * *Les Boréades* (1763)
 
-
 #### Other operas
-
 
 * *Les Indes galantes* (1735-36)
 * *La Princesse de Navarre* (1744, textbook by [Voltaire](/))
 * *Platée* (1745)
 * *Les Paladins* (1760)
 
-
 ### Related entries
-
 
 * [Voltaire](/voltaire)
 
-
 ### External links
-
 
 * [Bio - Jean-Philippe Rameau](http://www.baroquemusic.org/bqxrameau.html)
 * [musicologie.org](http://www.musicologie.org/biographies-rameau-jp.html)

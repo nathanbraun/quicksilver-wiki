@@ -7,22 +7,16 @@ This is an intermediate page for the city of **London**.
 
 ### Stephensonia
 
-
  * ... [Lawrence] Waterhouse found a worm-eaten copy of the Encyclopedia [Qwghlmiana](/qwghlm) in a bookshop near the British Museum a week ago and has been carrying it around in his attache case since then, imbibing a page or two at a time, like doses of strong medicine. The overriding Themes of the Encyclopedia are three, and they dominate its every paragraph as totally as the Three Sgrhs dominate the landscape of [Outer Qwghlm](/outer-qwghlm). Two of these themes are wool and guano, though the Qwghlmians have other names for them, in their ancient, sui generis tongue. In fact, the same linguistic hyperspecialization occurs here that supposedly does with the Eskimos and snow or Arabs and sand, and the Encyclopedia Qwghlmiana never uses the English words "wool" and "guano" except to slander the inferior versions of these products that are exported by places like Scotland in a perfidious effort to confuse the naïve buyers who apparently dominate the world's commodity markets. Waterhouse had to read the encyclopedia almost cover-to-cover and use all his cryptanalytic skills to figure out, by inference, what these products actually were. ...* 
 
 ### Authored entries
 
-
 * [Judge Jeffreys (Alan Sinder)](/judge-jeffreys-alan-sinder) - he dies in the Tower.
 * [Stephenson:Neal:Quicksilver:4:...On Sir Isaac Newton's temperature scale... (Alan Sinder)](/stephenson-neal-quicksilver-4-on-sir-isaac-newton-s-temperature-scale-alan-sinder)
 
-
 ### Community entry:London
 
-
 #### London's Growth into a Cosmopolitan City in the Baroque Period
-
-
 
 ![London-1604mw.jpg](/images/London-1604mw.jpg)  
 **Jacobean London circa 1604 CE**
@@ -34,13 +28,7 @@ We have to look at the Great Fire of London in 1666, which in the [Quicksilver](
 
 The obvious difference in London was its expansion inside and outside the city. The city was growing at a tremendous speed. Literature and art show us this. Artists such as Wenceslaus Hollar[[1]](http://www.princeton.edu/his291-jpegs-sprat.jpg), Richard Newcourt and William Faithorne, detailed information on the directions in which London was extending through the mid-seventeenth century. They had the Thames as the major highway between London and Westminster in the 16th and 17th centuries.
 
-
 ## Post Great Fire London of the Quicksilver Universe (see the Comstock House)
-
-
-[![QS london map MW.jpg](/web/20060725222031im_/http://www.metaweb.com/wiki/upload/7/76/QS_london_map_MW.jpg)](qs-london-map-mw-jpg)
-
-
 
 In the 17th and 18th centuries, during the period now referred to as the Little Ice Age, the Thames often froze over in the winter. This led to the first "Frost Fair" in 1607, complete with a tent city set up on the river itself and offering a number of odd amusements, including ice bowling.[[2]](https://en.wikipedia.org/wiki/little-ice-age)
 
@@ -51,7 +39,6 @@ However, today, London is the centre of much the world's [insurance](https://en.
 Contrariwise, the 21st century might well be centered on cities that have the Pacific Ocean in their backyard, and speak Chinese as much as they do English. Perhaps London will be the future Library Depository of the England language in the future. 
 
 ### Related entries
-
 
 * Encyclopedia [Qwghlmiana](/qwghlm)
 * [Outer Qwghlm](/outer-qwghlm)
@@ -64,9 +51,7 @@ Contrariwise, the 21st century might well be centered on cities that have the Pa
 * [Robert Dudley, earl of Leicester](/robert-dudley-earl-of-leicester) - another Tower guest.
 * [Talk:Stephenson:Neal:Quicksilver:3:Jack Ketch (Neal Stephenson)](/talk-stephenson-neal-quicksilver-3-jack-ketch-neal-stephenson) - poor [Monmouth](/monmouth)
 
-
 #### External links and Footnotes
-
 
 * [Wikipedia London](https://en.wikipedia.org/wiki/london)
 * [Greater London Council](https://en.wikipedia.org/wiki/greater-london-council)
@@ -82,7 +67,6 @@ Contrariwise, the 21st century might well be centered on cities that have the Pa
 * [British Banking Scandals](http://www.ex.ac.uk/rdavies-arian-scandals-classic.html)
 * [Fun with Francis Bacon](http://www.sirbacon.org/links-globemorph.html)
 * [More historical maps of cities](/http-historic-cities-huji-ac-il)
-
 
 1. [Hollar did the frontispiece for Spratt's "The History of the Royal Society" that was presented to King Charles II](http://www.princeton.edu/his291-jpegs-sprat.jpg)
 

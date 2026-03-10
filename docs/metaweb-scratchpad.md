@@ -63,7 +63,7 @@ Centre
 ---
 
 
-Rule [other MetaWeb page](/other-metaweb-page). [alt text](/other-metaweb-page) [WikiPedia](http://www.wikipedia.org)[![Quicksilver Metaweb](/web/20060725220957im_/http://www.metaweb.com/wiki/upload/b/bc/Wiki.png)](quicksilver-metaweb)
+Rule [other MetaWeb page](/other-metaweb-page). [alt text](/other-metaweb-page) [WikiPedia](http://www.wikipedia.org)[![Quicksilver Metaweb](/images/Wiki.png)](quicksilver-metaweb)
 
 [ISBN 0380977427](/)
 

@@ -6,22 +6,18 @@ From the Quicksilver Metaweb.
 This is a page for **Randy Waterhouse**
 ### Stephensonia
 
-
 *Neal's brillant. Just sussed out the why of Randy's ballroom dancing classes.
    You go through the park, on the other hand, you only have to brush off a lot of whores. But Randy's gotten good at that. The whores cannot conceive of a man rich enough to stay at the Manila Hotel who voluntarily walks around the city every day, and they have given him up as a maniac. He has passed into the realm of irrational things that you must simply accept, and in the Philippines this is a nearly infinite domain.  *
 
 ### Authored entries
 
-
 * [Stephenson:Neal:Cryptonomicon:121:Randy is a Dwarf...(Alan Sinder)](/stephenson-neal-cryptonomicon-121-randy-is-a-dwarf-alan-sinder)
-
 
 ### Community entries: Randall Lawrence Waterhouse
 
-
 **Randall Lawrence Waterhouse** or **Randy** is the firstborn son of [Lawrence Waterhouse](/lawrence-waterhouse)'s firstborn son. He is the only grandchild who has memories of his grandfather. He has the best method for devouring Captain Crunch cereal I've encountered.
 
-[![Mike-as-RandyMW.jpg](/web/20060725222343im_/http://www.metaweb.com/wiki/upload/1/1b/Mike-as-RandyMW.jpg)](mike-as-randymw-jpg)  
+  
 
 **Randy Waterhouse  
 
@@ -35,11 +31,9 @@ His second business venture was more lucrative and he sunk it into a California 
 
 *(I will return!)*
 
-
 He is the modern-era protaganist in [Cryptonomicon](/stephenson-neal-cryptonomicon). He is a nerd with an entrepreneurial knack.
 
 #### Related entries
-
 
 * [Stephenson:Neal:Cryptonomicon](/stephenson-neal-cryptonomicon)
 * [Stephenson:Neal:Quicksilver:Waterhouse family](/stephenson-neal-quicksilver-waterhouse-family)

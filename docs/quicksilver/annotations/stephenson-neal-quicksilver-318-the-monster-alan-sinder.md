@@ -7,7 +7,7 @@ This is a [Quicksilver](/quicksilver) page about **monsters**
 ### Stephensonia
 
 
-*The late author [Gerald Kersh](http://harlanellison.com/kersh-biog.htm) wrote of sentient automatia, as has [Tim Powers](https://en.wikipedia.org/wiki/tim-powers)  When the 26 year old [Daniel](/daniel-waterhouse) thinks of [Leibniz](/leibniz) as **Monstro** it almost conjures up the [Disney](https://en.wikipedia.org/wiki/walt-disney) Whale from [Pinnochio](https://en.wikipedia.org/wiki/pinocchio-1940-movie). Here be **monsters** is a mindset an older and wiser Daniel wants eliminated from maps...* ![PinocchiomonstroMW.jpg](/https://web.archive.org/web/20060725170706im_/http://www.metaweb.com/wiki/upload/f/f2/PinocchiomonstroMW.jpg)  
+*The late author [Gerald Kersh](http://harlanellison.com/kersh-biog.htm) wrote of sentient automatia, as has [Tim Powers](https://en.wikipedia.org/wiki/tim-powers)  When the 26 year old [Daniel](/daniel-waterhouse) thinks of [Leibniz](/leibniz) as **Monstro** it almost conjures up the [Disney](https://en.wikipedia.org/wiki/walt-disney) Whale from [Pinnochio](https://en.wikipedia.org/wiki/pinocchio-1940-movie). Here be **monsters** is a mindset an older and wiser Daniel wants eliminated from maps...* ![PinocchiomonstroMW.jpg](/https://web.archive.org/images/PinocchiomonstroMW.jpg)  
 **Monstro the Whale © Disney - Fair Use  
 See this [movie](https://en.wikipedia.org/wiki/pinocchio-1940-movie) with the kids *ASAP!***
 

@@ -6,12 +6,9 @@ From the Quicksilver Metaweb.
 Stub for **Infinitesimal calculus**
 ### Stephensonia
 
-
 *Zeta function!*  
 
-![\pi = 4\sum_{n=0}^\infty \frac{(-1)^n}{2n+1}](/web/20060725171031im_/http://www.metaweb.com/wiki/upload/math/0b9bf51a05dff80f0bec33e9487fe786.png)
 ### Authored entries
-
 
 * [Heinlein:Robert:Have Space Suit Will Travel:40:Almost halfway to the Moon, I'd say (Neal Stephenson)](/heinlein-robert-have-space-suit-will-travel-40-almost-halfway-to-the-moon-i-d-say-neal-stephenson)
 * [Isaac Newton (Alan Sinder)](/isaac-newton-alan-sinder)
@@ -19,9 +16,7 @@ Stub for **Infinitesimal calculus**
 * [Stephenson:Neal:Quicksilver:316:the first few terms of a series (jere7my tho?rpe)](/stephenson-neal-quicksilver-316-the-first-few-terms-of-a-series-jere7my-tho-rpe)
 * [Stephenson:Neal:Quicksilver:804:in fact it was a vector (Olivier Gerard)](/stephenson-neal-quicksilver-804-in-fact-it-was-a-vector-olivier-gerard)
 
-
 ### Infinitesimal calculus
-
 
 From Wikipedia, the free encyclopedia. 
 
@@ -30,7 +25,6 @@ From Wikipedia, the free encyclopedia.
 More to follow
 
 ### Related entries
-
 
 * [Archimedean](/archimedean)
 * [Archimedes](/archimedes)

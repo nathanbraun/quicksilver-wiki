@@ -25,7 +25,7 @@ Another early mining operation was the turquoise mine operated by the ancient Eg
 ### Arsch-leder
 
 
-![12615.jpg](/https://web.archive.org/web/20060725170530im_/http://www.drachenwerkstatt.de/bilder/12615.jpg)  
+![12615.jpg](/https://web.archive.org/images/12615.jpg)  
 **Arsch-leder**
 Apparently this was also used in mines that had chutes down to the actual mine faces, thus enabling miners to go down literally in seconds. In Germany there is at least one historical mine open to tourists where you can try yourself (2003 link, site in German: [http://www.erlebnisbergwerk.com/sites/abenteuer.shtml](http://www.erlebnisbergwerk.com/sites-abenteuer-shtml) ).
 

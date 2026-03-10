@@ -3,7 +3,7 @@
 
 From the Quicksilver Metaweb.
 
-[![Dancers1.jpg](/web/20060727110728im_/http://www.metaweb.com/wiki/upload/8/81/Dancers1.jpg)](dancers1-jpg)  
+  
 
 **Solomon Islands dancers in traditional dress** 
 The Solomon Islands were probably discovered by humans about 3000 BCE. The Solomon Islands are a nation in the South Pacific Ocean, east of Papua New Guinea and is part of the British Commonwealth. It consists of more than 990 islands, which together cover a land mass of 28,000 square kilometres. The Solomon Islands has an abundance of golden beaches fringed with palm trees, translucent blue waters, spectacular coral reefs and colourful marine life
@@ -14,18 +14,14 @@ Missionary activity started at the mid 19th century and European colonial ambiti
 
 ## Solomon's Gold
 
-
 [Economy of the Solomon Islands](https://en.wikipedia.org/wiki/economy-of-the-solomon-islands): 
 In 1998 Ross Mining of Australia began producing [gold](/gold) at Gold Ridge on Guadalcanal. Minerals exploration in other areas continued. However in the wake of the ethnic violence in June 2000, exports of palm oil and gold ceased while exports of timber fell. 
 
 ## Related entries
 
-
 * [Solomon](/solomon)
 * [Stephenson:Neal:The System of the World:609:How many wizards...? (PaulJ)](/stephenson-neal-the-system-of-the-world-609-how-many-wizards-paulj) was the original location of this entry
 
-
 ## External links
-
 
 * [Jane's Solomon Islands page](http://www.janeresture.com/solomons-solomon-islands.htm) was the initial basis for the entry on the Solomon Islands.

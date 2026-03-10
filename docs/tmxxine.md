@@ -5,8 +5,6 @@ From the Quicksilver Metaweb.
 
 This online forum below covers Arts, Tmxxine, and Technical Support.
 
-[![Tmxxine OAUSAI](/web/20060725221808im_/http://www.metaweb.com/wiki/upload/e/ec/Tmx-logo.jpg)](tmxxine-oausai)
-
 How often do we travel to other dimensions? Or [places of the imagination](http://tmxxine.bloki.com)? 
 
 Fond memories and favoured childhood rainbow creations. These imagined places are as real as Sanity Clause is to our child. Everyone knows that. Some cultures feel our realm is the dream time and the dream world is more real.
@@ -18,8 +16,6 @@ Fond memories and favoured childhood rainbow creations. These imagined places ar
 *Gisu Daraz*
 
 Quantum physics is preparing to slip not just through time but reality itself. The OSS Tmxxine project created by a group of 'holygeeks', rogue [alchemists](http://www.cyber.shaktipat.org/relax), freelance hackers and open source extremists has plans so radical that even the Dalia Lama is producing an extra chuckle. 
-
-[![BIM traveller](/web/20060725221808im_/http://www.metaweb.com/wiki/upload/8/8e/Mib2.jpg)](bim-traveller)
 
 **What is Tmxxine?** 
 Tmxxine is for time travelers and travelers to other dimensions. 
@@ -53,7 +49,6 @@ Using a computer hacking model of reverse engineering the Tmxxine team came to t
 * It is possible to alter chronon time entanglements (small 'packets of quantum time') at the macro level
 * Only an open and free society can be responsible for the technology which offers limitless strategic advantage to old world order politicians
 
-
 Tmxxine has proposed a voluntary code of conduct reminiscent of the first directive from Start Trek to be ratified by the Chronology Protection Agency and a set of agreements, 'the IDA', for trade and diplomacy between dimensions:
 
 **Tmxxine Prime Directive**
@@ -61,7 +56,6 @@ Tmxxine has proposed a voluntary code of conduct reminiscent of the first direct
 * The right of each sentient to live in accordance within its normal cultural evolution and continuum is considered inviolate.
 * No Chronology Protection Agents may interfere with the development of alternative time and brane continuums. Such interference includes the introduction of superior knowledge or technology to a realm whose environment is incapable of handling such interaction.
 * CPA personnel may not violate this Prime Directive, even to save their sanity unless they are acting to right an earlier violation or an accidental contamination. This directive takes precedence over any and all other considerations, and carries with it the highest moral obligation.
-
 
 Tmxxine concludes that the software to control hardware must be open source and decided to start writing it; relying on the hardware being created as an afterthought or the future result of their early efforts.
 
@@ -75,7 +69,6 @@ Using the lateral thinking made famous by Edward de Bono tmxxine was bringing re
 * Quantum storage devices. Devices that store all information from the Internet in an infinity grid.
 * The rise of the search engines – the manipulation of data as the new area of focus for commercial IT technology.
 
-
 ```
       
 
@@ -87,8 +80,6 @@ Using the lateral thinking made famous by Edward de Bono tmxxine was bringing re
 **What is the goal?**
 
  We are working towards software and generating an understanding of the potential hardware. Side projects will enable and develop the skills of active participants.
-
-[![Tmxxine Church Lecture](/web/20060725221808im_/http://www.metaweb.com/wiki/upload/d/df/Church.jpg)](tmxxine-church-lecture)
 
 **What is the history of the Project?**
 
@@ -103,7 +94,6 @@ Using the lateral thinking made famous by Edward de Bono tmxxine was bringing re
  Prototype Consoles have been created in NetLogo which outputs java. A communication prototype, CurlChat, used for regular net meetings, has been created in the Curl Language. XBasic is being used for a prototype expected for release in 2008CE Extensive support for a secure OS has created the continuining emergence of DVD recordable OS Puppy Linux. We are now moving into [wikis](http://peace.wikicities.com/wiki-november) and web based prograamming and resources. 
 
 ### External links
-
 
 * [Tmxxine HolyGeeks technical support](http://holygeeks.mypunbb.com)
 * [Tmxxine Peace Retreat](http://peace.wikicities.com)
@@ -125,10 +115,6 @@ Using the lateral thinking made famous by Edward de Bono tmxxine was bringing re
 * [Expose of the "New CAN"](http://www.rickross.com/groups-newcan.html)
 * [Cults on Campus](http://www.cultsoncampus.com)
 
-
-
-
-
 <tbody>
 
 | <a href="[http://www.chronos.ws](/http-www-chronos-ws)">
@@ -144,12 +130,10 @@ Ronald L. Mallett Ph.D., Professor
 of
 Physics Research Group Affiliation
 
-
 <a href="[http://www.phys.uconn.edu/groups/particle.html](http://www.phys.uconn.edu/groups-particle.html)" target="\_self">
 Particle
 and Field Theory R. L. Mallett, "Weak gravitational field of the
 electromagnetic radiation in a ring laser,"</a>
-
 
  |
 | <a href="[http://www.friesian.com/paradox.htm](http://www.friesian.com/paradox.htm)">
@@ -408,7 +392,6 @@ Maxwell Hardy
 Hereafter
 follows a small, but growing collection of articles contributed
 
-
 by true experts. Wherever possible I have obtained permission to publish
 
 their works, and have included links back to their respective sites.
@@ -441,18 +424,11 @@ in Time
 
 [http://www.chez.com/remuemeninges/tc.htm</a>](http://www.chez.com/remuemeninges-tc-htm-a); | 
 
-
 Temporal
-
-
-
 
 Collision
 
-
 Conjecture
-
-
 
  |
 | <a href="[http://www.paranormal.about.com/library/weekly/aa110998.htm](http://www.paranormal.about.com/library-weekly-aa110998.htm)">
@@ -462,8 +438,6 @@ Through Time
 
 Science says time travel is theoretically possible. And some people say
 they've already done it, or invented machines that make it a reality.
-
-
 
  |
 | <a href="[http://www-personal.umich.edu/%7Ereginald/timemchn.html](http://www.personal.umich.edu/7ereginald-timemchn.html)">
@@ -475,13 +449,11 @@ Time Machine Experiment
 [http://www.physics.hku.hk/~tboyce/sf/topics/wormhole/wormhole.html</a>](/http-www-physics-hku-hk-tboyce-sf-topics-wormhole-wormhole-html-a); | 
 Negative Energy, Wormholes and Warp Drive
 
-
 by Lawrence H. Ford and Thomas A. Roman
  |
 | <a href="[http://www.aleph.se/Trans/Tech/Space-Time/index.html](/http-www-aleph-se-trans-tech-space-time-index-html)">
 [http://www.aleph.se/Trans/Tech/Space-Time/index.html</a>](/http-www-aleph-se-trans-tech-space-time-index-html-a); | 
 Space-Time Engineering
-
 
  |
 | <a href="[http://www.wired.com/wired/archive/11.08/pwr\_timetravel.html](http://www.wired.com/wired-archive-11-08-pwr_timetravel.html)">
@@ -544,16 +516,12 @@ new\_tt\_links.htm</a> |
 more TT links |
 | 
 
-
 <a href="[http://www-2.cs.cmu.edu/%7Esage/animations/TimeTravel.html](http://www.2.cs.cmu.edu/7esage-animations-timetravel.html)">
-
 
 [http://www-2.cs.cmu.edu/~sage/animations/TimeTravel.html</a>](http://www.2.cs.cmu.edu/sage-animations-timetravel-html-a); | 
 TimeTravel captures Visage user operations
 to support browsing, reuse, and comparison.  |
 | 
-
-
 
 <a href="[http://www.informationweek.com/showArticle.jhtml?articleID=26806448](http://www.informationweek.com/showarticle-jhtml-articleid-26806448)">
 
@@ -605,7 +573,6 @@ genome fragments of the human body for genetic dating purpose. |
 
 <a href="[http://cgi.ebay.ca/ws/eBayISAPI.dll?ViewItem&category=1523&item=5526711342](/http-cgi-ebay-ca-ws-ebayisapi-dll-viewitem-category-1523-item-5526711342)">
 
-
 [http://cgi.ebay.ca/ws/eBayISAPI.dll?ViewItem&category=1523&item=5526711342</a>](/http-cgi-ebay-ca-ws-ebayisapi-dll-viewitem-category-1523-item-5526711342-a);
 MOVIE about HDR |
 | 
@@ -629,7 +596,6 @@ The Peanuts Gang Time Traveling |
 zenhex.com Time Travel forum |
 | 
 
-
 <a href="[http://www.frostcloud.com/forum/forumdisplay.php?f=5](http://www.frostcloud.com/forum-forumdisplay-php-f-5)">
 
 [http://www.frostcloud.com/forum/forumdisplay.php?f=5</a>](http://www.frostcloud.com/forum-forumdisplay-php-f-5-a); | 
@@ -637,14 +603,11 @@ welcome to FrostCloud, the premier forum
 for deep discussions on philosophy, science, technology, and culture. |
 | 
 
-
-
 <a href="[http://www.angelfire.com/my/theory/index.html](http://www.angelfire.com/my-theory-index.html)">
 [http://www.angelfire.com/my/theory/index.html</a>](http://www.angelfire.com/my-theory-index-html-a); | Theory of the
 Trans-Light State of
 Israelian scientist Gershom Gale |
 | 
-
 
 <a href="[http://imagine.gsfc.nasa.gov/docs/ask\_astro/ask\_an\_astronomer.html](http://imagine.gsfc.nasa.gov/docs-ask_astro-ask_an_astronomer.html)">
 
@@ -677,7 +640,6 @@ tomorrow's news today!!! The turn of the
 millennium inspired the UK's Sunday Times to speculate on the
 next 50 years of news headlines -- from a ridiculous prediction of
 
-
 <a href="[http://www.chronicle-future.co.uk/subject/person19.htm](http://www.chronicle.future.co.uk/subject-person19.htm)">
 Mick Jagger</a>'s
 death during the Rolling Stones' 13th farewell tour in 2030 to a
@@ -705,12 +667,10 @@ in 2042. Read about your future today. |
 Organical Nature of Time, by Ciprian
 Gabriel Time-Space Conjoining, by Walter J. Freeman 
 
-
 Neural Perception, by Walter J. Freeman Conclusions on Neuro-time, by
 Walter J. Freeman 
 
 General Principles of Temporal Displacement Tachyons, William Lane Craig
-
 
 TIME Physics of Time Travel 
 
@@ -719,18 +679,15 @@ Experiments in Time VISIONS OF TIME TRAVEL
 Time Travel in Science Fiction  |
 | 
 
-
 <a href="[http://www.superstringtheory.com](http://www.superstringtheory.com)">
 [http://www.superstringtheory.comww.superstringtheory.com/index.html</a>](http://www.superstringtheory.comww.superstringtheory.com/index-html-a); | 
 It's the 21st century! Time to feed your
 mind
 
-
 Basics
 
 So what is string theory? For that matter, what the heck are elementary
 particles? If this all sounds totally confusing, try this section first.
-
 
 Experiment
 
@@ -742,7 +699,6 @@ theory changed mathematics?
 
 Black Holes
 
-
 Personal safety issues aside, when black holes are tied up in strings,
 they get even more interesting. Cosmology
 
@@ -750,14 +706,11 @@ Was there a String Bang before the Big Bang, or did the Universe simply
 unwind?  |
 | 
 
-
 <a href="[http://www.mysteries-megasite.com/main/bigsearch/timetravel.html](http://www.mysteries.megasite.com/main-bigsearch-timetravel.html)">
-
 
 [http://www.mysteries-megasite.com/main/bigsearch/timetravel.html</a>](http://www.mysteries.megasite.com/main-bigsearch-timetravel-html-a); | 
 Time Travel Links |
 | 
-
 
 <a href="[http://www.teaporium.com/Kiarash/P\_Links.htm](http://www.teaporium.com/kiarash-p_links.htm)">
 [http://www.teaporium.com/Kiarash/P\_Links.htm</a>](http://www.teaporium.com/kiarash-p_links-htm-a); | 
@@ -768,7 +721,6 @@ Time Travel Links |
 3. Quantum Chromo dynamics (QCD)
 
 4. Quantum Field Theories (QFT)
-
 
 5. Toplogicaln Quantum Field Theories 
 
@@ -798,9 +750,7 @@ immediate as well as the remote future. |
 Aerospace & Technology, Gravity Research  |
 | 
 
-
 <a href="[http://www.drbrainzlab.com/labtime\_travel.html#timetraveltech](http://www.drbrainzlab.com/labtime_travel-html-timetraveltech)">
-
 
 [http://www.drbrainzlab.com/labtime\_travel.html#timetraveltech</a>](http://www.drbrainzlab.com/labtime_travel-html-timetraveltech-a); | 
 Dr Brainz Lab of Knowledge...Time Travel |
@@ -816,20 +766,15 @@ original ideas. The project challenges existing paradigms and will (and
 already has) developed new methodologies and/or technologies. |
 | 
 
-
-
 <a href="[http://www.timemachine.esmartweb.com/links.html](http://www.timemachine.esmartweb.com/links.html)">
 [http://www.timemachine.esmartweb.com/links.html</a>](http://www.timemachine.esmartweb.com/links-html-a); | 
 the time machine links |
 | 
 
-
 <a href="[http://www.kneehole.net/Time%20Links.htm](http://www.kneehole.net/time-20links.htm)">
 [http://www.kneehole.net/Time](http://www.kneehole.net/time) Links.htm</a> | 
 Time Travel the Search Continue....II |
 | 
-
-
 
 <a href="[http://www.universetoday.com/forum/index.php?act=ST&f=8&t=290&hl=&](http://www.universetoday.com/forum-index-php-act-st-f-8-t-290-hl);">
 
@@ -853,7 +798,6 @@ enabling technology from opened sources.  |
 Alexander Palace Time Machine |
 | 
 
-
 <a href="[http://www.markshields.com/bttf-delorean.shtml](http://www.markshields.com/bttf-delorean-shtml)">
 [http://www.markshields.com/bttf-delorean.shtml</a>](http://www.markshields.com/bttf-delorean-shtml-a); | 
 MarkMedia » Photos & Media » My DeLorean
@@ -862,7 +806,6 @@ Time Vehicle |
 <a href="[http://www.longbets.org/](http://www.longbets.org)">
 [http://www.longbets.org/</a>](http://www.longbets.org/a); | 
 The Long Bets website is designed: 
-
 
 ...as an arena for competitive, accountable predictions:
 
@@ -877,7 +820,6 @@ The Long Bets website is designed:
 [http://www.thetimetraveler.com/</a>](http://www.thetimetraveler.com/a); | 
 just a site on TT |
 | 
-
 
 <a href="[http://www.butlerlabs.com/links.htm](http://www.butlerlabs.com/links.htm)">
 [http://www.butlerlabs.com/links.htm</a>](http://www.butlerlabs.com/links-htm-a); | 
@@ -904,7 +846,6 @@ XXWilliam A Tiller,
 Some Science Adventures with Real Magic |
 | 
 
-
 <a href="[http://www.magicdragon.com/UltimateSF/timeline.html](http://www.magicdragon.com/ultimatesf-timeline.html)">
 
 [http://www.magicdragon.com/UltimateSF/timeline.html</a>](http://www.magicdragon.com/ultimatesf-timeline-html-a); | 
@@ -915,16 +856,12 @@ what when, and how the field evolved from year to year, decade to
 decade, and century to century. |
 | 
 
-
 <a href="[http://www.geocities.com/immortality\_immortality/immortality-sites.html](http://www.geocities.com/immortality_immortality-immortality-sites.html)">
-
 
 [http://www.geocities.com/immortality\_immortality/immortality-sites.html</a>](http://www.geocities.com/immortality_immortality-immortality-sites-html-a); | 
 Enter Mandatory Eternal Physicality. Stop
 dying in front of children. You are their poison until you radiate
 resolution and integrity. Be the way. Light it up, NOW!Over One Hundred
 Physical Immortality Sites |
-
-
 
 </tbody>

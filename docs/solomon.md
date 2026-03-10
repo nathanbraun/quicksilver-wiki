@@ -3,13 +3,11 @@
 
 From the Quicksilver Metaweb.
 
-
 This is the Metaweb page for **Solomon**.
 
 ### King Solomon
 
-
-[![Solomon.jpg](/web/20060725231529im_/http://www.metaweb.com/wiki/upload/7/77/Solomon.jpg)](solomon-jpg)  
+  
 
 **Wise King Solomon deciding for the "baby" wanted by  
 two *mothers* with strange goals.  
@@ -19,13 +17,11 @@ Solomon was the 'good' mother who would not allow the baby to be divided.**
 
 ### In the Torah
 
-
 **Solomon** is [David](https://en.wikipedia.org/wiki/david)'s second son by [Bathsheba](https://en.wikipedia.org/wiki/bathsheba). His name means "peaceful," from the Hebrew "Shelomoh" (Arabic "Suleiman"). The name given by God to Solomon in the Bible is Jedidiah (meaning "loved by God"), and some scholars have conjectured that Solomon is a "king name" taken either when he assumes the throne or upon his death. 
 
 Solomon's case is one of the few in the Bible where the name given by God does not stay with the character. Solomon was probably born about [1035 BCE](https://en.wikipedia.org/wiki/books-of-chronicles). His birth is considered a gift from God, after the death of the previous child between David and Bathsheba because of questions about the state of Bathsheba's marriage. (According to [Jewish law](https://en.wikipedia.org/wiki/halakha), the custom was that a soldier sent to the front lines, such as Bathsheba's husband, would give his wife a retro-active "divorce" annuling their marriage were he to die or disappear thus allowing the wife to remarry. This was a "loophole" that David and Bathsheba seem to have relied upon, and which has caused some to accuse them of "adultery" when in fact the legal status of Bathsheba's marriage was "suspended" and subject to question, according to the rabbinic commentators.) While this is a comment, the basis is not found in the biblical account, for Uriah was not commanded to go to the front of the battle until after David had slept with Bathsheba. 
 
 #### Succession
-
 
 He succeeded his father on the throne in early manhood, probably about sixteen or eighteen years of age. His father chooses him as his successor, passing over the claims of his elder sons. His history is recorded in [Books of Kings](https://en.wikipedia.org/wiki/books-of-kings) 1–11 and 2 Chr. 1–9. His elevation to the throne takes place before his father's death, and is hastened on mainly by Nathan and Bathsheba, in consequence of the rebellion of Adonijah.
 
@@ -35,7 +31,6 @@ The first half of his reign is, however, by far the brighter and more prosperous
 
 #### Buildings and other works AKA *Solomon the Mason*
 
-
 He surrounds himself with all the luxuries and the external grandeur of an Eastern monarch, and his government prospers. He enters into an alliance with [Hiram I](https://en.wikipedia.org/wiki/hiram-i), king of [Tyre](https://en.wikipedia.org/wiki/tyre), who in many ways greatly assists him in his numerous undertakings. For some years before his death David is engaged in the active work of collecting materials for building a [Temple in Jerusalem](https://en.wikipedia.org/wiki/temple-in-jerusalem) as a [permanent abode](https://en.wikipedia.org/wiki/solomon-s-temple)] for the [ark of the covenant](https://en.wikipedia.org/wiki/ark-of-the-covenant).
 
 After the completion of the temple, Solomon engages in the erection of many other buildings of importance in Jerusalem and in other parts of his kingdom. For the long space of thirteen years he is engaged in the erection of a royal palace on [Ophel](https://en.wikipedia.org/wiki/ophel). Solomon also constructs great works for the purpose of securing a plentiful supply of water for the city, Millo ([Septuagint](https://en.wikipedia.org/wiki/septuagint), "Acra") for the defence of the city, and Tadmor in the wilderness as a commercial depot as well as a military outpost.
@@ -44,13 +39,11 @@ During his reign Israel enjoys great commercial prosperity. Extensive traffic is
 
 #### Decline and fall
 
-
 His decline and fall from his high estate is a sad record. Blamed for it are his polygamy and his great wealth, causing him to become decadent and involved in various forms of idol worship which are contrary to the religious law. Because of this idol worship, a prophet visits Solomon and tells him that after his death his kingdom would be split in two (Israel and Judah) and that his son, [Rehoboam](https://en.wikipedia.org/wiki/rehoboam), would suffer because of his sin. He dies, after a reign of forty years, and is buried in Jerusalem.
 
 Solomon also appears in the [Qur'an](https://en.wikipedia.org/wiki/qur-an), whererin he is called Sulayman (see [Similarities between the Torah and the Qur'an](https://en.wikipedia.org/wiki/similarities-between-the-bible-and-the-qur-an)).
 
 ### George Rawlinson's Evaluation
-
 
 "The kingdom of Solomon," says [George Rawlinson](https://en.wikipedia.org/wiki/george-rawlinson), "is one of the most striking facts in the Biblical history. A petty nation, which for hundreds of years has with difficulty maintained a separate existence in the midst of warlike tribes, each of which has in turn exercised dominion over it and oppressed it, is suddenly raised by the genius of a soldier-monarch to glory and greatness." 
 
@@ -60,8 +53,7 @@ Rawlinson concludes, "the ruling nation is split in twain, the subject-races fal
 
 ### Later legend
 
-
-[![MWSwordofsolomon.jpg](/web/20060725231529im_/http://www.metaweb.com/wiki/upload/2/2a/MWSwordofsolomon.jpg)](mwswordofsolomon-jpg)  
+  
 
 [Medieval Times](http://www.medievaltimes.com)'s gift shop offers: The Sword  
 
@@ -83,7 +75,6 @@ Solomon's mastery of demons is a common element in later Jewish and Arabic legen
 
 #### The Seal of Solomon - A magic Ring
 
-
 In Medieval Jewish, Islamic and Christian legends, the **Seal of Solomon** was a magical signet ring said to have been possessed by King Solomon (or Sulayman in the Islamic version), which variously gave him the power to command demons (or jinni), or to speak with animals. In one of the Arabian Nights' Entertainments, an evil djinn is described as being imprisoned in a copper bottle for 1,800 years by a lead seal stamped by the ring. Other, later books (Pseudomonarchia Daemonum) manage to fit far more demons in the bottle.
 
 In some versions of the story, the ring was made of brass and iron, carved with the Name of God, and set with four jewels. In later versions the ring simply bore the symbol now called the Star of David, often within a circle, usually with the two triangles interlaced rather than intersecting. Often the gaps are filled with dots or other symbols. Other versions have it as a pentacle or other more complicated figures. Works on demonology typically depict the pattern of the seal as being two concentric circles, with a number of mystical sigils between the inner and outer circles, and various more-or-less complex geometric shapes within the inner circle.
@@ -94,11 +85,9 @@ However the earliest of such stories is dated to more than a thousand years afte
 
 ### Menelik I
 
-
 The ancient Imperial legend of Ethiopia, as told in the Kibre Negest maintains that the Queen of Sheba returned to her realm from her Biblical visit to Solomon, pregnant with his child. This child would eventually inherit her throne with the new rank and title of Menelik I, Emperor of Ethiopia. The dynasty he would establish would reign in Ethiopia with few interuptions until the overthrow of [Emperor Haile Selassie](https://en.wikipedia.org/wiki/haile-selassie) in 1974.
 
 ### Solomon in Fiction
-
 
 The [Toni Morrison](https://en.wikipedia.org/wiki/toni-morrison) novel Song of Solomon makes allusions to Solomon.
 
@@ -106,14 +95,11 @@ The [Star Trek: Original Series](/) episode ["Requiem for Methuselah"](/) indica
 
 ### Related entries
 
-
 * [Stephenson:Neal:The System of the World:609:How many wizards...? (PaulJ)](/stephenson-neal-the-system-of-the-world-609-how-many-wizards-paulj) was the original location for this entry
 * [Solomon Kohan](/solomon-kohan)
 * [Solomon Islands](/solomon-islands)
 
-
 ### External links
-
 
 * [Jewish Enclopedia - Solomon](http://www.jewishencyclopedia.com/view-jsp-artid-894-letter-s-2956)
 * [Wikipedia: King Solomon](https://en.wikipedia.org/wiki/king-solomon) was the initial basis for the entry on King Solomon.

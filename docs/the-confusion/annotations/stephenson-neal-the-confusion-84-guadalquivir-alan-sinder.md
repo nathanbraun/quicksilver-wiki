@@ -26,7 +26,7 @@ This is [The Confusion](/the-confusion) page for **Guadalquivir**
 
 **[Guadalquivir](https://en.wikipedia.org/wiki/guadalquivir)** is one of the major rivers of [Spain](https://en.wikipedia.org/wiki/spain).
 *Wad al-kebir* is acctually "the great river" in Arabic.
-It passes through Córdoba and Seville and ends in the Atlantic Ocean. **[Cádiz](https://en.wikipedia.org/wiki/cádiz)** (population 160,000) is a coastal city in south-west Spain, in the region of Andalusia. It is the capital of the province also named **Cádiz** in southern Spain, in the southwestern part of the autonomous community of Andalusia.![CordobaRomanBridge.jpg](/https://web.archive.org/web/20060725222631im_/http://en.wikipedia.org/upload/b/b3/CordobaRomanBridge.jpg)  
+It passes through Córdoba and Seville and ends in the Atlantic Ocean. **[Cádiz](https://en.wikipedia.org/wiki/cádiz)** (population 160,000) is a coastal city in south-west Spain, in the region of Andalusia. It is the capital of the province also named **Cádiz** in southern Spain, in the southwestern part of the autonomous community of Andalusia.![CordobaRomanBridge.jpg](/https://web.archive.org/images/CordobaRomanBridge.jpg)  
 **Ancient Roman Bridge  
 Spans The Guadalquivir**
 
@@ -54,7 +54,7 @@ The city was long an important sea port, prior to the silting up of the Guadalqu
 
 The city's great Cathedral was built from 1401 - 1519 after the Reconquista on the former site of the city's mosque. The interior is lavishly decorated, with a large quantity of gold evident. The Cathedral reused some columns and elements from the old mosque, and most famously the *Giralda*, originally a minaret, was converted into a bell tower. It is topped with a statue representing Faith. The Giralda is the city's most famous symbol. 
 
-The **[Alcazar](https://en.wikipedia.org/wiki/alcazar)**  (Arabic القصر) means 'fortress  is the city's old Moorish Palace; construction was begun in 1181. Additional construction continued for over 500 years. The Alcazar of Seville was finished in the 1360s by Moorish craftsmen for [Pedro the Cruel](https://en.wikipedia.org/wiki/peter-i-of-castile) who, with his mistress, Maria de Padilla, lived in and ruled from the Alcazar, and often remodeled. Now it is an UNESCO World Heritage site. The *Parque Maria Louisa* was built for the 1929 Exposición Ibero-Americana World's Fair, and now is landscaped with attractive monuments and museums.![SevillaGiralda.jpg](/https://web.archive.org/web/20060725222631im_/http://en.wikipedia.org/upload/d/da/SevillaGiralda.jpg)  
+The **[Alcazar](https://en.wikipedia.org/wiki/alcazar)**  (Arabic القصر) means 'fortress  is the city's old Moorish Palace; construction was begun in 1181. Additional construction continued for over 500 years. The Alcazar of Seville was finished in the 1360s by Moorish craftsmen for [Pedro the Cruel](https://en.wikipedia.org/wiki/peter-i-of-castile) who, with his mistress, Maria de Padilla, lived in and ruled from the Alcazar, and often remodeled. Now it is an UNESCO World Heritage site. The *Parque Maria Louisa* was built for the 1929 Exposición Ibero-Americana World's Fair, and now is landscaped with attractive monuments and museums.![SevillaGiralda.jpg](/https://web.archive.org/images/SevillaGiralda.jpg)  
 **Sevilla**
 
 ### Pedro *the Cruel* AKA Peter I of Castile
@@ -80,7 +80,7 @@ In the summer of 1366 Peter took refuge with the Black Prince, by whom he was re
 
 
 The Spanish spoken in the Americas is largely descended from the Andalusian dialect of Castilian Spanish due to the role played by Sevilla as the gateway to Spain's American colonies in the 16th and 17th centuries. A lot of Moorish architecture is found in Andalusia, because it was the last stronghold of the Moors before they were expelled from Europe in 1492. The most famous are The Alhambra in Granada, the Mosque in Córdoba and the Torre del Oro and Giralda towers in Sevilla. Archaeological remains include Medina Azahara, also near Sevilla.
-![GuadalquivirMapMW.jpg](/https://web.archive.org/web/20060725222631im_/http://www.metaweb.com/wiki/upload/5/5b/GuadalquivirMapMW.jpg)  
+![GuadalquivirMapMW.jpg](/https://web.archive.org/images/GuadalquivirMapMW.jpg)  
 **Map of the Bay of Cadiz  
 Detailing Rio Guadalquivir and Sevilla  
 It's pretty easy Spanish, the prepare must mean *Preserve***  
@@ -93,7 +93,7 @@ It is bordered by the provinces of Huelva, Sevilla, and Málaga, as well as the 
 ## The City of Cádiz
 
 
-The city was originally founded as **Gadir** (meaning *walled city*) by the Phoenicians, who used it in their trade with Tartessos. Traditionally, its date of establishment is circa 1100 BCE, although upto now no finds have been found yet that date back further than the 9th century BCE. It is regarded as the most ancient still existing city in the western Europe. A temple was dedicated to the Phoenician god Melqart. Some authors think that the columns of this temple gave origin to the myth of the Columns of Hercules. (Melqart was identified by the Greek with [Heracles](/heracles) ([Hercules](/hercules) for the Romans).![Provmap-cadiz.png](/https://web.archive.org/web/20060725222631im_/http://en.wikipedia.org/upload/b/b7/Provmap-cadiz.png)  
+The city was originally founded as **Gadir** (meaning *walled city*) by the Phoenicians, who used it in their trade with Tartessos. Traditionally, its date of establishment is circa 1100 BCE, although upto now no finds have been found yet that date back further than the 9th century BCE. It is regarded as the most ancient still existing city in the western Europe. A temple was dedicated to the Phoenician god Melqart. Some authors think that the columns of this temple gave origin to the myth of the Columns of Hercules. (Melqart was identified by the Greek with [Heracles](/heracles) ([Hercules](/hercules) for the Romans).![Provmap-cadiz.png](/https://web.archive.org/images/Provmap-cadiz.png)  
 **Cádiz**
 
 Via the Carthaginians it fell in hands of the Romans, who called it Gades. Gadir became an important commercial city during the Carthaginian domination and disappeared in the last days of the Roman Empire when commerce decayed. According to Greek legend, Gadir was founded by [Heracles](/heracles) after killing Geryon. It substituted Seville as the port monopolizing the commerce with Spanish America Cádiz was the seat of the liberal Cortes fighting Joseph I of Spain in the Peninsula war. The Spanish Constitution of 1812 was proclaimed there. Cádiz is famous by its carnival. *Murgas* (amateur satirical choruses) compete for a prize.

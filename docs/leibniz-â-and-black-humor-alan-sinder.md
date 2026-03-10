@@ -6,26 +6,21 @@
 This page is to connect Pythonesque humor to NTS and and Wallace via **Leibniz**
 ### Stephensonia
 
-
 *Throughout Neal's books we see **black** humor - as in the way [Snow Crash](/stephenson-neal-snow-crash)'s 'dead avatars' are handled in the **Black Sun** to [Half-cocked Jack](/stephenson-neal-quicksilver-jack-shaftoe)'s internal conversations revealed to be loud, external, and audible. As the famous [Lupin](/stephenson-neal-quicksilver-18-heard-by-their-future-queen-alan-sinder) sketch has surfaced - along with the Philosopher's song. The link might be [Gottfried](/gottfried-wilhelm-von-leibniz) and [Voltaire](/voltaire)'s Doctor Pangloss.*
 
 ### Authored entries
 
-
 * [Stephenson:Neal:Quicksilver:18:...heard by their future Queen... (Alan Sinder)](/stephenson-neal-quicksilver-18-heard-by-their-future-queen-alan-sinder)
 * [Stephenson:Neal:Quicksilver:46:...campus of domed pavilions (Alan Sinder)](/stephenson-neal-quicksilver-46-campus-of-domed-pavilions-alan-sinder)
 
-
 ### Humor is a Work In Progress
-
 
 As example - we have [Daniel](/daniel-waterhouse) (after Enoch's daydream of a future MIT) muse that: "... I could catch a fever and die three days from now and provide [Faith](/stephenson-neal-quicksilver-faith-page-waterhouse) and [Godfrey](/stephenson-neal-quicksilver-godfrey-william-waterhouse) with a comfortable pension" which invokes the dry humor of the old *funny* National/Harvard Lampoon (I suspect Bruce McCall's or P.J. O'Rourke's hand in this) of "how to end a story" (which some critics assert Neal doesn't actually do). The *tag* was to *get hit by a truck* or in a *British* story — a *lorry*. So we see this **black humor** revealed in a tagline: "catch a fever and die in three days." And Enoch has the punchline: "There's that added inducement."
 
 ### Where Leibniz Meets Python
 
-
 Revisiting *[Monty Python and the Holy Grail](https://en.wikipedia.org/wiki/monty-python-and-the-holy-grail)* eventually gets us to the place where:
-![ E_k = \frac{1}{2} m v^2 ](/web/20060725223337im_/http://www.metaweb.com/wiki/upload/math/a38c32f3f00f593c1dc17692bc224c0f.png)  
+  
 
 becomes humorous as the pressing question posed in number of key places in the film the question is raised, what is the [airspeed velocity of an unladen swallow](http://www.style.org/unladenswallow) brings us to Leibniz. Style.org's [Jonathan Corum](http://www.13pt.com/about-corum.html) responds to comments "... In that case the bridgekeeper's question could be interpreted as a roundabout way of trying to determine "what is the [kinetic energy](https://en.wikipedia.org/wiki/kinetic-energy) of an unladen swallow?" But then, I don't think Leibniz published a description of kinetic energy until the 1680s, so it's doubtful the bridgekeeper would have known about it centuries earlier. ...[[1]](http://www.style.org/unladenswallow-comments)"
 
@@ -54,7 +49,6 @@ In addition, much of comedy slang deals with the concept of death, e.g. "I kille
 
 ### Related entries
 
-
 * [Princess Caroline](/caroline-of-ansbach)
 * [Enoch Root](/stephenson-neal-quicksilver-enoch-root)
 * [Daniel Waterhouse](/stephenson-neal-quicksilver-daniel-waterhouse)
@@ -74,9 +68,7 @@ In addition, much of comedy slang deals with the concept of death, e.g. "I kille
 * [John Keill](/john-keill)
 * [Infinite Jest](/wallace-david-infinite-jest)
 
-
 ### Footnotes and External links
-
 
 * 1 [Swallow Commentary](http://www.style.org/unladenswallow-comments)
 * [Monty Python's The Meaning of Life](https://en.wikipedia.org/wiki/monty-python-s-the-meaning-of-life)

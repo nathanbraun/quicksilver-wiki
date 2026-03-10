@@ -21,7 +21,7 @@ this page is about **phosphorus**
 ### Enoch and the Harvard mob
 
 
-![RoyalSealBig.jpg](/https://web.archive.org/web/20060725170226im_/http://www.strath.ac.uk/archives/img/RoyalSealBig.jpg)  
+![RoyalSealBig.jpg](/https://web.archive.org/images/RoyalSealBig.jpg)  
 **A ROYAL SEAL**  
 **Imagine one on the letter**
 [Princess Caroline](/caroline-of-ansbach)'s letter *METAPHORICALLY* is likened to **White Phosphorus** and generated even odder behavior amongst the Harvard elites on the Charlestown Ferry. [Enoch Root](/enoch-root) loses patience with the don and his waggish toadies. He correctly gauges the amount of progress there by their interest in his activities...
@@ -58,7 +58,7 @@ Miscellaneous uses; used in the making of safety matches, pyrotechnics, pesticid
 ### Biological Role
 
  
-Phosphorus compounds perform vital functions in all known forms of life. Inorganic phosphorus plays a key role in biological molecules such as DNA and RNA where it forms part of those molecules' molecular backbones. Living cells also utilize inorganic phosphorus to store and transport cellular energy via adenosine triphosphate (ATP). Calcium phosphate salts are usedby animals to stiffen bones and phosphorus is also an important element in cell protoplasm and nervous tissue.![P%2C15.jpg](/https://web.archive.org/web/20060725170226im_/http://en.wikipedia.org/upload/c/c5/P%2C15.jpg)  
+Phosphorus compounds perform vital functions in all known forms of life. Inorganic phosphorus plays a key role in biological molecules such as DNA and RNA where it forms part of those molecules' molecular backbones. Living cells also utilize inorganic phosphorus to store and transport cellular energy via adenosine triphosphate (ATP). Calcium phosphate salts are usedby animals to stiffen bones and phosphorus is also an important element in cell protoplasm and nervous tissue.![P%2C15.jpg](/https://web.archive.org/images/P%2C15.jpg)  
 **PHOSPHORUS**  
 ***can appear colorless red silvery or white***
 
@@ -82,7 +82,7 @@ Early matches used white phosphorus in their composition, which was dangerous du
 
 2. 8NaPO3+ 10C  2Na4P2O7+ 10CO + P4
 
-Brand's discovery was an accident but his discovery of phosphorus mirabile would turn out to be more valuable than gold in the future, for this 'cold fire' would enable inventors to produce fire on demand, an unimaginable achievement to Brand's contemporaries. Brand had tried to keep the method secret but he had sold the 'secret' to the German chemist, Krafft, who showed off the new wonder substance around the courts of Europe where Robert Boyle saw it in London. The secret that it was made from urine leaked out and first Johann Kunckel in Sweden (1678) and later Boyle in London (1680) also managed to make phosphorus.![wright.jpg](/https://web.archive.org/web/20060725170226im_/http://www.levity.com/alchemy/images/wright.jpg)  
+Brand's discovery was an accident but his discovery of phosphorus mirabile would turn out to be more valuable than gold in the future, for this 'cold fire' would enable inventors to produce fire on demand, an unimaginable achievement to Brand's contemporaries. Brand had tried to keep the method secret but he had sold the 'secret' to the German chemist, Krafft, who showed off the new wonder substance around the courts of Europe where Robert Boyle saw it in London. The secret that it was made from urine leaked out and first Johann Kunckel in Sweden (1678) and later Boyle in London (1680) also managed to make phosphorus.![wright.jpg](/https://web.archive.org/images/wright.jpg)  
 **The Alchymist in Search of the Philosophers' Stone  
 discovers Phosphorus, 1771**  
 **by Joseph Wright of Derby**

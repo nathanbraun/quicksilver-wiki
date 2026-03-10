@@ -18,7 +18,7 @@ This is a page for the **Black Death**
  
 From Wikipedia, the free encyclopedia. 
 
-The **[Black Death](https://en.wikipedia.org/wiki/black-death)** (also *The Plague*, and latterly *[Black Plague](/black-plague)* though not called this in earlier times) was a devastating epidemic in Europe in the 14th century which is estimated to have killed about a third of the population. Most scientists believe that the Black Death was an outbreak of [Bubonic Plague](https://en.wikipedia.org/wiki/bubonic-plague) - (described below), a dreaded disease that has spread in pandemic form several times through history. The plague is caused by the bacterium Yersinia pestis which is spread by [fleas](/flea) with the help of animals like the black [rat](/rat) (Rattus rattus) -what we would call today the sewer rat. Sometimes, the term "Black Death" is used for all outbreaks of plague and epidemics.![PlagueFlea.jpg](/https://web.archive.org/web/20060725165624im_/http://www.metaweb.com/wiki/upload/e/ee/PlagueFlea.jpg)  
+The **[Black Death](https://en.wikipedia.org/wiki/black-death)** (also *The Plague*, and latterly *[Black Plague](/black-plague)* though not called this in earlier times) was a devastating epidemic in Europe in the 14th century which is estimated to have killed about a third of the population. Most scientists believe that the Black Death was an outbreak of [Bubonic Plague](https://en.wikipedia.org/wiki/bubonic-plague) - (described below), a dreaded disease that has spread in pandemic form several times through history. The plague is caused by the bacterium Yersinia pestis which is spread by [fleas](/flea) with the help of animals like the black [rat](/rat) (Rattus rattus) -what we would call today the sewer rat. Sometimes, the term "Black Death" is used for all outbreaks of plague and epidemics.![PlagueFlea.jpg](/https://web.archive.org/images/PlagueFlea.jpg)  
 **A DANGEROUS PLAGUE VECTOR  THE FLEA**
 
 ### Its Evolution
@@ -38,7 +38,7 @@ People's reaction to the illness varied. Some went into total isolation to try t
 ### Consequences
 
  
-The information about the death toll varies widely from source to source, but it is estimated that about a third of the population of Europe died from the outbreak in the mid- 1300s. Approximately 25 million deaths occurred in Europe alone with many others occurring in Africa and Asia. Some villages were deserted with the few survivors fleeing and spreading the disease further.![Doktorschnabel_430px.jpg](/https://web.archive.org/web/20060725165624im_/http://en.wikipedia.org/upload/5/5d/Doktorschnabel_430px.jpg)  
+The information about the death toll varies widely from source to source, but it is estimated that about a third of the population of Europe died from the outbreak in the mid- 1300s. Approximately 25 million deaths occurred in Europe alone with many others occurring in Africa and Asia. Some villages were deserted with the few survivors fleeing and spreading the disease further.![Doktorschnabel_430px.jpg](/https://web.archive.org/images/Doktorschnabel_430px.jpg)  
 ****Doktor Schnabel von Rom**  
 ("Doctor Beak from Rome")  
 *engraving by Paul Fürst (after J Columbina)*  
@@ -91,7 +91,7 @@ As a biological weapon aerosolized pneumonic plague is the only effective plague
 
  
 A special warning has to be made about early epidemics of the "plague", for example in Greek or Roman history or in the Bible - these are usually not well enough documented to make any definite statement about the nature of the disease; the usage of the name stems from the early modern time, when the plague was the only disease known to cause massively killing epidemics. 
-![Acral_gangrene_due_to_plague.jpg](/https://web.archive.org/web/20060725165624im_/http://en.wikipedia.org/upload/8/88/Acral_gangrene_due_to_plague.jpg)  
+![Acral_gangrene_due_to_plague.jpg](/https://web.archive.org/images/Acral_gangrene_due_to_plague.jpg)  
 
 **Gangrene Due to Plague**  
 **Parts of the fingers will likely be amputated to prevent spread**

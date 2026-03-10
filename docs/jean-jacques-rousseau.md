@@ -7,18 +7,16 @@ This is a stub for **Jean-Jacques Rousseau**.
 
 ### Stephensonia
 
-
 *It is no exaggeration to say that the French and American revolutions are the direct result of Rousseau's abstract theories on the social contract.*
 
 ### Community entries:Jean-Jacques Rousseau
-
 
 Jean-Jacques Rousseau From Wikipedia, the free encyclopedia. 
 
 Jean Jacques Rousseau (June 28, 1712 - July 2, 1778) was a Swiss-French philosopher, writer, political theorist, and self-taught composer. 
 
 Born in Geneva, Switzerland , and died in Ermenonville (28 miles northeast of Paris). His mother died at his birth and his father abandoned him as a child.
-[![180px-Jean-JacquesRousseau.jpg](/web/20060725172259im_/http://www.metaweb.com/wiki/upload/0/0e/180px-Jean-JacquesRousseau.jpg)](180px-jean-jacquesrousseau-jpg)  
+  
 Jean-Jacques Rousseau
 
 Rousseau contended that man is essentially good, a "noble savage" when in the state of nature (the state of all the "other animals", and the condition humankind was in before the creation of civilization and society), and that good people are made unhappy and corrupted by their experiences in society. He viewed society as "artificial" and "corrupt" and held that the furthering of society results in the continuing unhappiness of humankind. Rousseau's essay, *"Discourse on the Arts and Sciences"* (1750), argued that the advancement of art and science had not been beneficial to humankind. He proposed that the progress of knowledge had made governments more powerful and had crushed individual liberty. He concluded that material progress had actually undermined the possibility of sincere friendship, replacing it with jealousy, fear and suspicion. 
@@ -47,11 +45,9 @@ Rousseau is buried in The Panthéon, Paris.
 
 ### Translation
 
-
 His works were translated by Nakae Chomin to Japanese in Meiji era. 
 
 ### Alternate source material
-
 
 Rousseau was born at Geneva, the son of a watchmaker. His mother died shortly after his birth, and his upbringing was haphazard. At 16 he set out on a wandering, irregular life that brought him into contact (c.1728) with Louise de Warens, who became his patron and later his lover. She arranged for his trip to Turin, where he became an unenthusiastic Roman Catholic convert. After serving as a footman in a powerful family, he left Turin and spent most of the next dozen years at Chambéry, Savoy, with his patron. In 1742 he went to Paris to make his fortune with a new system of musical notation, but the venture failed. Once in Paris, however, he became an intimate of the circle of Denis Diderot (to whose *Encyclopédie* Rousseau contributed music articles), Melchior Grimm, and Mme dÉpinay. At this time also began his liaison with Thérèse Le Vasseur, a semiliterate servant who became his common-law wife. 
 
@@ -64,7 +60,6 @@ Rousseau, with the connivance of highly placed friends, escaped, however, to the
 After wandering through the provinces, he finally settled (1770) at Paris, where he lived in a garret and copied music. The French authorities left him undisturbed, while curious foreigners flocked to see the famous man and be insulted by him. At the same time he went from salon to salon, reading his Confessions aloud. In his last years he began *Rêveries du promeneur solitaire*, descriptions of nature and his feeling about it, which was unfinished at the time of his death. Shortly before his death Rousseau moved to the house of a protector at Ermenonville, near Paris, where he died. In 1794 his remains were transferred to the Panthéon in Paris. 
 
 ### Rousseaus Thought
-
 
 Few people have equaled Rousseaus influence in politics, literature, and education. His political thought is contained in Du contrat social, but it must be supplemented by other works, notably the *Discours sur lorigine de linégalité* and his drafts of constitutions for Corsica and for Poland. Rousseau is fundamentally a moralist rather than a metaphysician. As a moralist, he is also, unavoidably, a political theorist. His thought begins with the assumption that we are by nature good, and with the observation that in society we are not good. The fall of humanity was, for Rousseau, a social occurrence. But human nature does not go backward, and we never return to the times of innocence and equality, when we have once departed from them. 
 
@@ -84,18 +79,14 @@ His sensitive awareness apprehended the subtle influences of landscape, trees, w
 
 ### Influence
 
-
 Rousseaus influence on posterity has been equaled by only a few, and it is by no means spent. His influence on German and English romanticismand thus, indirectly, on romanticism in generalis difficult to overestimate. In addition, men as diverse as Immanuel Kant, Johann Goethe, Maximilien de Robespierre, Johann Pestalozzi, and Leo Tolstoy have been his disciples. His doctrine of popular sovereignty had a profound impact on French revolutionary thought. Although he did not advocate collective ownership, his ideas also had their effect on socialist thought. It is probably more correct to say that he anticipated rather than influenced many insights of modern social psychology. 
 
 ### Related entry
 
-
 * [Voltaire](/voltaire)
 * [John Locke](/john-locke)
 
-
 ### External links
-
 
 * [Wikipedia: Jean-Jacques\_Rousseau](https://en.wikipedia.org/wiki/jean-jacques-rousseau)
 * [Lucidcafé:Jean-Jacques Rousseau](http://www.lucidcafe.com/library-96jun-rousseau.html)

@@ -128,7 +128,7 @@ It is very questionable whether small growers can generate a high return on capi
 
  
 It is estimated that 10 million people are working on plantations in the source lands of coffee. A single worker can harvest 50--100 kg of fruits per day, which results in 10--20 kg of raw coffee. Crops from Brazil and Colombia comprise 40% of the worldwide coffee production. As of 1998, the world's coffee production equals about 100 million sacks of coffee.
-![Indonesia-Cofee.jpg](/https://web.archive.org/web/20060725170307im_/http://en.wikipedia.org/upload/9/9e/Indonesia-Cofee.jpg)  
+![Indonesia-Cofee.jpg](/https://web.archive.org/images/Indonesia-Cofee.jpg)  
 
 **Making Coffee in Indonesia**
 

@@ -17,17 +17,13 @@ The size and shape of an ellipse are determined by two constants, conventionally
 
 An ellipse centred at the origin of an *x*-*y* coordinate system with its major axis along the *x*-axis is defined by the equation
 
-![\frac{x^{2}}{a^{2}} + \frac{y^{2}}{b^{2}} = 1 ](/web/20060725172347im_/http://www.metaweb.com/wiki/upload/math/c45859a75b61adac64164362a58aeeb2.png)
-
 The same ellipse is also represented by the parametric equations:
-![x = a\,\cos t](/web/20060725172347im_/http://www.metaweb.com/wiki/upload/math/70c9ab82b8f64038ab7248b0724ccfe1.png)
-![y = b\,\sin t](/web/20060725172347im_/http://www.metaweb.com/wiki/upload/math/34c9a65c6384d8fc8ef6d6c0c18dcd6b.png)
-![0 \leq t < 2\pi](/web/20060725172347im_/http://www.metaweb.com/wiki/upload/math/d759c9a4916bd3b00d3a3f20c318d3e8.png)
+
 which use the trigonometric functions sine and cosine.
 
 The shape of an ellipse is usually expressed by a number called the eccentricity of the ellipse,
 conventionally denoted *e* (not to be confused with the mathematical constant e). The eccentricity is related to *a* and *b* by the statement
-![e = \sqrt{1 - \frac{b^2}{a^2}}](/web/20060725172347im_/http://www.metaweb.com/wiki/upload/math/18370036ab5ee2074b26181f5cc14cce.png)
+
 The eccentricity is a positive number less than 1, or 0 in the case of a circle.
 The greater the eccentricity is, the larger the ratio of *a* to *b* is,
 and therefore the more elongated the ellipse is. The ellipse shown in the image below has an eccentricity of approximately 0.88.
@@ -48,13 +44,10 @@ where the function *E* is the complete elliptic integral of the second kind.
 
 ### Related entries
 
-
 * [Royal Society of London for the Improvement of Natural Knowledge](/royal-society-of-london-for-the-improvement-of-natural-knowledge)
 * [Low earth orbit (LEO)](/low-earth-orbit-leo)
 
-
 ### External Links
-
 
 * [Ellipsoid](https://en.wikipedia.org/wiki/ellipsoid), a higher dimensional analog of an ellipse
 * [Spheroid](https://en.wikipedia.org/wiki/spheroid), the ellipsoids obtained by rotating an ellipse about its major or minor axis.

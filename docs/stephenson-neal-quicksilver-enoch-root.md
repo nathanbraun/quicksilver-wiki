@@ -14,7 +14,7 @@ This is an intermediate page for **Enoch Root**.
 ### Stephensonia
 
 
-[![BarbarossaMW.jpg](/web/20060725165601im_/http://www.metaweb.com/wiki/upload/0/01/BarbarossaMW.jpg)](barbarossamw-jpg)  
+[![BarbarossaMW.jpg](/images/BarbarossaMW.jpg)](barbarossamw-jpg)  
 **[The King in the Mountain](https://en.wikipedia.org/wiki/sleeping-hero)**  
 *Could this be Enoch?*
 *Enoch's existence is Stephensonia illustrated. [Randy Waterhouse](/randy-waterhouse) seems to liken him to [Gandalf the White](/stephenson-neal-cryptonomicon-121-randy-is-a-dwarf-alan-sinder). Neal has been quoted that Enoch of [Cryptonomicon](/cryptonomicon), is the the same character in the [Baroque Cycle](/baroque-cycle); Though, his manifestations may have different corporal bases. 
@@ -60,7 +60,7 @@ One time Roman Catholic Priest Enoch Root, also known as the alchemist **'Enoch 
 
 
 Enoch Root's lifespan appears to be one of extraordinary longevity.
-[![RootFireBosMW.jpg](/web/20060725165601im_/http://www.metaweb.com/wiki/upload/5/59/RootFireBosMW.jpg)](rootfirebosmw-jpg)  
+[![RootFireBosMW.jpg](/images/RootFireBosMW.jpg)](rootfirebosmw-jpg)  
 
 **Enoch in a Boston Pub?  
 
@@ -114,7 +114,7 @@ In the [Quran](/), the prophet Enoch is known as Idris.
 
 
 **Frederick I** (c. 1122/25 CE- 1190), also known as **Frederick Barbarossa** ("Frederick Redbeard") was elected king of Germany on March 4, 1152 in succession to his uncle Conrad III, and was crowned Holy Roman Emperor in 1155.
-[![Barbarossa.jpg](/web/20060725165601im_/http://www.metaweb.com/wiki/upload/5/53/Barbarossa.jpg)](barbarossa-jpg)  
+[![Barbarossa.jpg](/images/Barbarossa.jpg)](barbarossa-jpg)  
 
 **Frederick sends out the boy to  
 
@@ -203,7 +203,7 @@ The motif is interesting in that it combines the idea of a supernatural national
 * [America Shaftoe](/america-shaftoe), while ill from her injuries, meets privately with Enoch and then has a rapid recovery. She declines to mention anything specific about what Enoch did to treat her.
 
 
-[![Wm2MW.jpg](/web/20060725165601im_/http://www.metaweb.com/wiki/upload/1/1c/Wm2MW.jpg)](wm2mw-jpg)  
+[![Wm2MW.jpg](/images/Wm2MW.jpg)](wm2mw-jpg)  
 
 ***A **GI Joe™** *Enoch Root* and a *Strange* Padre***
 
@@ -333,7 +333,7 @@ While the skill and cunning of many of Stephenson's characters is clearly a bit 
 ### External links
 
 
-[![Got-root-MW.jpg](/web/20060725165601im_/http://www.metaweb.com/wiki/upload/a/a1/Got-root-MW.jpg)](got-root-mw-jpg)  
+[![Got-root-MW.jpg](/images/Got-root-MW.jpg)](got-root-mw-jpg)  
 
 **A better question?**
 * [Robert Hooke](/robert-hooke) - promised [Daniel Waterhouse](/daniel-waterhouse) such a pearl.

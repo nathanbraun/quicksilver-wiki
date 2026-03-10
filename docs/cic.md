@@ -9,7 +9,6 @@ A [Cryptonomicon](/cryptonomicon) and [Snow Crash](/snow-crash) spanning page on
 Note which part of the world the eye is looking at....
 ### Stephensonia
 
-
 *It's a lot worse from when the **Black Chamber** was disbanded for being ungentlemanly enough to read other people's mail:
       Since then, he's been putting a lot more emphasis on his auxilliary emergency backup job: freelance stringer for the CIC, the Central Intelligence Corporation, of Langley, Virginia.  
 
@@ -23,14 +22,11 @@ There is the offchance the building of the Crypt prevented the dystopia of [Snow
 
 ### Authored entries
 
-
 * [Stephenson:Neal:Cryptonomicon:29:Novus Ordo Seclorum ...(Alan Sinder)](/stephenson-neal-cryptonomicon-29-novus-ordo-seclorum-alan-sinder)
-
 
 ### The View from [Snow Crash](/snow-crash)
 
-
-[![What is a Big Brother to do?](/web/20060725172503im_/http://www.metaweb.com/wiki/upload/e/e5/Cia_google.gif)](what-is-a-big-brother-to-do)  
+  
 **What is an Orwellian spy agency  
 to do when its wings are clipped?   
 Google like everyone else...**

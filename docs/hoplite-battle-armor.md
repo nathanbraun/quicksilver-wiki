@@ -3,11 +3,9 @@
 
 From the Quicksilver Metaweb.
 
-
 ## Stephensonia
 
-
-[![DIFF PICT](/web/20060725171326im_/http://www.metaweb.com/wiki/upload/3/3d/HAL1.jpg)](diff-pict)  
+[![DIFF PICT](/images/HAL1.jpg)](diff-pict)  
 Exoskeleton Today
 *Seems to be akin to the chevaline Hackworth has later but an artificial human like a powered human [exoskeleton](/) to be used in combat.
      ... The Constable was sitting in the middle of his bamboo grove, enveloped in a suit of hoplite armor, similarly filthy and scarred, that was twice as big as he was, and that made his bare head look absurdly small. He had ripped the helmet off and dropped it into his fish pond, where it floated around like the eviscerated hull of a scuttled dreadnought. He looked very gaunt and was staring vacantly, without blinking, at some kudzu that was slowly but inexorably conquering the wisteria. As soon as Nell saw the look on his face, she made him some tea and brought it to him. The Constable reached for the tiny alabaster teacup with armored hands that could have crumbled stones like loaves of stale bread. The thick barrels of the guns built into the arms of his suit were scorched on the inside. He plucked the cup from Nell's hands with the precision of a surgical robot, but did not lift it to his lips, perhaps afraid that he might, in his exhaustion, get the distance a bit wrong and inadvertently crush the porcelain into his jaw, or even decapitate himself. Merely holding the cup, watching the steam rise from its surface, seemed to calm him. His nostrils dilated once, then again.
@@ -25,47 +23,40 @@ Exoskeleton Today
      "I suspect that Lord Finkle-McGraw, being an intelligent man, sees through all of the hypocrisy in his society, but upholds its principles anyway, because that is what is best in the long run. And I suspect that he has been worrying about how best to inculcate this stance in young people who cannot understand, as he does, its historical antecedents which might explain why he has taken an interest in me. The Primer may have been Finkle-McGraw's idea to begin with-a first attempt to go about this systematically." ...*
 ## Community Entry: Hoplite Battle Armor
 
-
 Hoplite Battle Armor is a powered suit of armor with built-in weapon systems designed for battle in the Diamond Age. It is only mentioned at two or three points in the book, so one must be happy with conjecture as to its more advanced features.
 
 Features/abilities covered in canon:
 * The suit consists of rigid plates mouted over a flexible inner set of overalls. This can be done in relatively little time, so warriors can sit around waiting for action with their suits off, donning them when fighting is necessary.
 * When the plates are on, the person appears nearly twice their normal size.
-* The suit contains several weapon barrels on each forearm. [![jumping kiddies of righteous harmony](/web/20060725171326im_/http://www.metaweb.com/wiki/upload/6/61/Group_jump.jpg)](jumping-kiddies-of-righteous-harmony)  
+* The suit contains several weapon barrels on each forearm.   
 **Future [Fists of Righteous Harmony](/)?**  
 Just some kids jumping around on [Powerisers(tm)](http://www.superdairyboy.com/poweriser.html).
 
-
 * The suit enhances the strength of the wearer, possibly significantly. In the latter part of the book, [Fists](/) wearing Hoplite Armor leap from ground level into the third-storey window of a hotel. Weather this is due to the suit's strength-enhancing power or jet boosters of some kind is open to conjecture.
 * The armor plates are quite light for their size. [The Constable's](/constable-moore) helmet, despite being of the same armor material as the rest of the suit, floats quite easily inverted in a pool of water.
-
 
 Features/Abilities that are open to debate and conjecture:
 * It is not known what kind of weapon systems are contained on the forearms. They are quite large and described as "scorched", which might describe a conventional weapon system, or merely a conventional delivery system for nanotech weapons, such as mini-missiles or a grenade launcher.
 * These suits may have jet boosters of some kind.
 * The protective value of the suits are never shown, and thus open to debate. They, logically, should provide some protection against nanotech weapons. In the same vein, it's safe to assume that the helmet encloses the entire head, and features an air suppy/filtration system.
 
-
 ### Exoskeleton
-
 
 The idea of a powered exoskeleton to assist ground infantry in carrying heavy weapons, armor, and [Communications, Command, Control & Intelligence](/) (C3I) equipment such as radios, UAV controllers, mines and minefield controllers, GPS, laser designators, night vision goggles, NBC equipment, rocket launchers, heavy machine guns, and plenty of ammunition, etc. has been a staple of science fiction since [Robert A. Heinlein](/)'s [Starship Troopers](/) and [E.E. Doc Smith](/)'s [Lensman Series](/).
 
 More recently, we have seen the classic battle between woman and alien in the final scenes of episode II of [Sigourney Weaver](/)'s "[Aliens](/)" movie series, in which Weaver's character, [Ripley](/), defends the orphan [Newt](/) against the predacious Queen Alien who has snuck aboard the human mother ship with a powered walker that is typically used to load massive cargo items. Exoskeletons were also featured in "Revolutions" the final episode of [The Matrix](/) trilogy, in which the humans of Zion defended their dock facility from the machine invasion with such weapons, equipped with arm mounted [rotary cannon](/reason).
 
 Today's robotics industry is demonstrating the first prototypes of such powered exoskeletons. UC Berkeley, in particular, is developing its lower body exoskeleton as seen here to assist US infantry troops carry heavy loads on extended marches in the field with little fatigue.
-[![R1-BLEEX-Web.jpg](/web/20060725171326im_/http://www.metaweb.com/wiki/upload/a/af/R1-BLEEX-Web.jpg)](r1-bleex-web-jpg)  
+  
 Another Exo prototype
 
 #### Exoskeletons in modern and near-future technology
-
 
 In the early 2000s a number of companies and research centres developed the first practical models of human exoskeletons. One of the main uses is enabling a soldier to carry heavy weights (50100 kg) while running or climbing stairs. Most models use a hydraulic system controlled by an on-board computer. They can be powered by an internal combustion engine, batteries or, potentially, fuel cells. Another area of application is medical care, nursing in particular. Faced with the impending shortage of medical professionals and the increasing number of people in elderly care, several teams of Japanese engineers have developed exoskeletons designed to help nurses lift and carry patients.
 [Commercially-available exoskeletons](http://www.newscientist.com/article-ns-id-mg18624945-800) are expected by the end of 2005.
 In the future exoskeletons are expected to become widely used by the military and police in the form of nanotechnological combat clothes. Civilian uses will no doubt be found later. However they will have to compete for adoption with another approach  surgically and genetically enhancing the human body itself by use of artificial bones and muscles.
 
 #### Human exoskeletons in science fiction
-
 
 [Science fiction](/) authors utilize the idea of personal self-powered exoskeletons, usually referred to as [powered armor](/) or, in [Japanese](/) *[anime](/)* and *[manga](/)*, [mecha](/). Examples include:
 1. The armor worn by [Gray Fox](/) in [WikiPedia: Metal Gear Solid](/)
@@ -82,11 +73,10 @@ In the future exoskeletons are expected to become widely used by the military an
 12. Unsurprisingly, exoskeletons have surfaced in many video games, usually because thicker types of armor must require some mechanical power source. Some examples would be certain marines from [Unreal II: The Awakening](/) and [MAX Units](/) from [Planetside](/).
 13. Many Japanese mecha anime also have humans controlling gigantic exo-skeletons, such as [Escaflowne](/). Although many of these are not exactly exoskeletons because of their size, the main principle is identical.
 
-[![Samurai](/web/20060725171326im_/http://www.metaweb.com/wiki/upload/5/59/MWarmored.jpg)](samurai)  
+  
 **Example of Samurais in Armor**
 
 ### Body Armor
-
 
 Armor is as old as war, from leather hide, shell, wood/bamboo armor, to bronze and steel, armor was commonly used in warfare up until shortly after the advent of the firearm, or shortly after firearms were introduced into particular regions. The ability of bullets to penetrate any steel armor light enough to be worn by a man and the loss of dexterity and vision made armor useless on the battlefield until the 20th century.
 
@@ -96,8 +86,7 @@ With the advent of synthetic materials, particularly the invention of Kevlar by 
 
 #### Beyond Kevlar
 
-
-[![Samurai today](/web/20060725171326im_/http://www.metaweb.com/wiki/upload/6/65/MwBlackArmor_Sample.jpg)](samurai-today)  
+  
 **Armor Today**
 Kevlar is by far the most common fiber used to make body armor, but other materials are being developed. The most readily available alternative fiber is called Vectran, which is approximately twice as strong as Kevlar. Vectran is 5 to 10 times stronger than steel. 
 
@@ -111,7 +100,6 @@ Answer: There will be a sophisticated heat cycling system capturing the heat to 
 It is carbon nanotubes which will most likely be the armor technology of the Hoplite Armor Suit in [The Diamond Age](/the-diamond-age). Combined with exoskeleton technology and assorted weaponry, it appears we are only a few years away from seeing the first models making their appearance.
 
 ## External Links
-
 
 * [UC Berkeley Lowerbody Exoskeleton](http://www.berkeley.edu/news-media-releases-2004-03-03-exo-shtml)
 * [BLEEX Project Home Page](http://bleex.me.berkeley.edu/bleex.htm)

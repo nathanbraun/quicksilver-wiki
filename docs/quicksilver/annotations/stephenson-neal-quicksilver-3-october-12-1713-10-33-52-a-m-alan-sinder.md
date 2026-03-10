@@ -12,7 +12,7 @@ From the Quicksilver Metaweb.
 
 Is part of the advanced tech [Enoch Root](/stephenson-neal-quicksilver-enoch-root) MIGHT HAVE an item that will give him a solution to the Longitude problem. Is this time based upon the Prime Meridian or local East Coast time? On land, Galileo's method of sighting the Jovian Moons had been used as of 1650 in Europe[[1]](http://www.amazon.com/exec-obidos-tg-detail-0140258795-qid-1071050236-sr-1-2-ref-sr-1-2-103-8140691-3696657-v-glance-s-books).
 
-![Dudley-NE-Coast-detail-web.jpg](/https://web.archive.org/web/20060725170236im_/http://www.metaweb.com/wiki/upload/8/83/Dudley-NE-Coast-detail-web.jpg)  
+![Dudley-NE-Coast-detail-web.jpg](/https://web.archive.org/images/Dudley-NE-Coast-detail-web.jpg)  
 **New England Coast & Boston 1645-1646**
 
 [Sir Robert Dudley](/sir-robert-dudley) (1573-1649), titular duke of Northumberland and earl of Warwick -- a nobleman exiled from the court of [Elizabeth I](/elizabeth-i-of-england) due to her [Star Chamber](/star-chamber) -- charted Boston around the early 1640s using existing Dutch maps with location names provided by [John Smith](/john-smith) publishing his knowledge as the magnificent *Arcano deli Mare*, published in Italian at Florence in 1645:1646 in a three volumes folio. Therefore the longitude was known with a ± of 5° accuracy; However, the timestamp smacks of a higher degree of accuracy than that.

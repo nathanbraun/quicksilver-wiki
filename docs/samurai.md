@@ -7,17 +7,13 @@ This is [The Confusion](/the-confusion)'s page which addresses what **samurai** 
 
 ### Stephensonia
 
-
 *Samurai means to serve.*
 
 ### Authored entries
 
-
 * [Stephenson:Neal:Quicksilver:36:According to what scheme? (Alan Sinder)](/stephenson-neal-quicksilver-36-according-to-what-scheme-alan-sinder)
 
-
 ### Evolution of Samurai Culture during Feudal-era Japan
-
 
 The Taira and the Minamoto once again clashed in 1180 beginning the Gempei War which ended in 1185. The victorious Minamoto no Yoritomo once again established the superiority of the samurai and in 1190 visited Kyoto and in 1192 became Seii Taishogun, establishing the Kamakura Shogunate. 
 
@@ -32,8 +28,7 @@ The Sengoku jidai ("warring-states period") was marked by the loosening of samur
 However, Japanse war tactics and technologies were greatly sophisticated and evolved in the 15th and 16th centuries.Use of large infantry troop called Ashigaru , which was formed by the humble warriors or populace, with fauchard or long lance was introduced and combined with cavalry in maneuvers; the numbers of people mobilized in warfare were generally in the thousands to the over ten-thousands.
 
   
-[![----- spear page break -----](/web/20060725223654im_/http://www.metaweb.com/wiki/upload/8/8b/Warspear.png)](spear-page-break)  
-
+  
 
 The issues of inheritance firstly caused family infighting because primogeniture became common while division of succession was designated by law before the 14th century.To avoid infighting, continuous invasion against neighboring Samurais' territories was rather favored. 
 
@@ -43,7 +38,6 @@ Harquebus, a matchlock gun, was introduced by Lusitanians on a Chinese pirate sh
 
 ### Oda and Toyotomi
 
-
 Oda Nobunaga was the well-known lord of the Nagoya area (once called Ohwari) and a good representative example of Samurai of the Sengoku Period. He did almost all of the things to prepare the reunification of Japan. 
 
 He made innovations on organizations and war tactics, heavily used harquebus, developed commerce and industry and loved things Western ; the consecutive victories enabled him to realise the termination of the Ashikaga Shogunate and disarmament of the military powers of the Buddhists, which had inflamed futile struggles among the populace for centuries. Even the emperor was to give him the authority. He died in 1582 by the assault of one of his follower Akechi Mitsuhide. Importantly, Toyotomi Hideyoshi (see below) and Tokugawa Ieyasu, who made Tokugawa Shogunate, were Nobunaga's loyal followers. Hideyoshi defeated Mitsuhide within months and was regarded as the rightful successor of Nobunaga. The two were gifted with Nobunaga's achievements. So there was a saying: "The reunification is a rice cake; Oda made it. Hashiba shaped it. At last, only Ieyasu tastes it." (Hashiba is the family name that Toyotomi Hideyoshi used while he was a follower of Nobunaga.) 
@@ -52,14 +46,10 @@ The life style and the war tactics shown in the movie Last Samurai are those of 
 
 Toyotomi Hideyoshi, who became a grand minister in 1586, himself the son of a poor peasant family, created a law that the samurai caste became codified as permanent and heritable, and that non-samurai were forbidden to carry weapons. 
 
-
   
-[![----- spear page break -----](/web/20060725223654im_/http://www.metaweb.com/wiki/upload/8/8b/Warspear.png)](spear-page-break)  
-
-
+  
 
 ### Tokugawa Shogunate
-
 
 During the Tokugawa era, samurai increasingly became courtiers, bureaucrats and administrators rather than warriors. The daisho, the paired long and short swords of the samurai (cf. 'katana' and wakizashi) became more of a symbolic emblem of power rather than a weapon used in daily life. They still had the legal right to cut down any commoner who did not show proper respect; in what extent this right was used, however, is unknown. When the central government forced daimyos to cut the size of their armies, unemployed ronin actually became a social problem. 
 
@@ -67,14 +57,11 @@ Scholars codified the final form of the bushido during the Tokugawa era. Also, t
 
 ### Related entries
 
-
 * [Gabriel Goto](/gabriel-goto)  provided much of the basis for this entry
 * [Azuchi-Momoyama\_period](/azuchi-momoyama-period), the early modern period of Japanese history
 * [Battle of Sekigahara](/battle-of-sekigahara)
 * [Japanese contact with the West](/japanese-contact-with-the-west)
 
-
 #### [External links](/metaweb-external-links)
-
 
 * [The Wikipedia entry for samurai](https://en.wikipedia.org/wiki/samurai) provided much of the basis for the previous entry for Gabriel Goto

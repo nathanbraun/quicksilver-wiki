@@ -6,7 +6,6 @@ From the Quicksilver Metaweb.
 This is the [Cryptonomicon](/cryptonomicon) page for **Punch** or **Hollerith cards.**
 ### Stephensonia
 
-
 ***[Doug Shaftoe](/douglas-macarthur-shaftoe)**'s diving crew from **Semper Fi Marine Services** are excavating the wreckage of a sunken submarine when they discover something quite interesting    
 
       *At this point, a diver comes up with a piece of actual gold, but it's not a bar: it's a sheet of hammered gold, maybe eight inches on a side and about a quarter of a millimeter thick, with a pattern of tiny neat holes punched through it, like a computer card.*   
@@ -14,11 +13,10 @@ This is the [Cryptonomicon](/cryptonomicon) page for **Punch** or **Hollerith ca
 On the [following page](/stephenson-neal-cryptonomicon-460-niz-arch-electricinca) of the novel more is revealed when a plank from the crate that held the gold sheets is brought to the surface. The stenciled letters NIZ-ARCH are observed upon them suggesting that the sheets of gold are the [Leibniz Archive](/stephenson-neal-leibniz-archive).  
 
 Much more to added when we reach the Comstocks and Chester.*
-[![Punch card](/web/20060725224816im_/http://www.metaweb.com/wiki/upload/8/84/Hollerith_card.jpg)](punch-card)  
+  
 **Standard Punch Card  
 Now Imagine One Made Of Gold**
 ### Authored entries
-
 
 * [Stephenson:Neal:Cryptonomicon:460:NIZ-ARCH(Electricinca)](/stephenson-neal-cryptonomicon-460-niz-arch-electricinca)
 * [Isaac Newton (Alan Sinder)](/isaac-newton-alan-sinder)
@@ -46,16 +44,13 @@ Now Imagine One Made Of Gold**
 * [Stephenson:Neal:Quicksilver:688:hypotheses non fingo (Steven Horst)](/stephenson-neal-quicksilver-688-hypotheses-non-fingo-steven-horst)
 * [Stephenson:Neal:The Confusion:711:thin sheets of gold (Electricinca)](/stephenson-neal-the-confusion-711-thin-sheets-of-gold-electricinca)
 
-
 ### Punch cards
 
-
-[![fullview](/web/20060725224816im_/http://www.metaweb.com/wiki/upload/5/5f/Jacquard.loom.full.view.jpg)](fullview) ]  
+ ]  
 **Jacquard Model 2 Loom**
 The **punch card** (or "**Hollerith**" card) is a recording medium for holding information for use by automated data processing machines. Made of stiff cardboard, the punch card represents information by the presence or absence of holes in predefined positions on the card. In the first and second generations of computing, from the 1950s into the 1970s, punch cards were a primary medium for data storage and processing, but are now long obsolete outside of a few legacy systems.
 
 #### Origins
-
 
 The punched card actually predates computers considerably, originated by Joseph Jacquard in 1801 as a control device for the Jacquard looms. Such cards were also used as an input method for the primitive calculating machines of the late 19th century.
 
@@ -63,11 +58,10 @@ The version by Herman Hollerith, patented on June 8, 1887 and used with mechanic
 
 To compensate for the cyclical nature of the Census Bureau's demand for his machines, Hollerith founded the *Tabulating Machine Company* (1896) which was bought by Thomas J. Watson SR., founder of International Business Machines in 1914. IBM manufactured a wide variety of business machines and eventually married the punched card to its early computers, encoding binary\_numeral\_system|binary information as patterns of small rectangular holes. 
 
-The IBM punching format with rectangular holes eventually won out over the Univac 90-character format, which used 45 columns (2 characters in each) of 12 round holes. IBM (Hollerith) punched cards are made of smooth stock, .007 of an inch thick. There are about 143 cards to the inch thickness; a group of such cards is called a *deck.*[![input](/web/20060725224816im_/http://www.metaweb.com/wiki/upload/0/09/Jacquard.loom.cards.jpg)](input) [![sideview](/web/20060725224816im_/http://www.metaweb.com/wiki/upload/8/8e/Jacquard.loom.hooks.jpg)](sideview)  
+The IBM punching format with rectangular holes eventually won out over the Univac 90-character format, which used 45 columns (2 characters in each) of 12 round holes. IBM (Hollerith) punched cards are made of smooth stock, .007 of an inch thick. There are about 143 cards to the inch thickness; a group of such cards is called a *deck.*   
 **Input and side view of the Loom**
 
 ### Functional details
-
 
 The method is quite simple:
 On a piece of light-weight cardboard, successive positions either have a hole punched through them or are left intact. The rectangular bits of paper punched out are called chad. Thus, each punch location on the card represents a single Binary numeral system (or "bit"). Each column on the card contained several punch positions (multiple bits).
@@ -86,7 +80,6 @@ The card readers used an electrical (metal "brush") or, later, optical sensor to
 
 ### Advantages
 
-
 One of the key advantages of this system is that a computer was not required to encode information onto the cards -- the typewriter-like card-punch machine was all that was needed -- and "key-punch operators" (who did nothing but punch cards full-time on such machines) were in great demand. 
 
 Quality control was often having two different operators key the same data, with the 2nd using a card-verifier instead of a card-punch. If a card failed verification, the card-verifier would stop, letting the operator replace the card with a corrected one.
@@ -95,13 +88,11 @@ When the time came to transfer the information thus encoded into the computer, t
 
 ### Obsolescence
 
-
 Punched-card systems fell out of favor in the mid to late 1970s, as disk drive and tape storage became cost effective, and interactive terminals meant that users could edit their work with the computer directly rather than requiring the intermediate step of the punched cards.
 
 However, their influence lives on through many standard conventions and file formats. The terminals that replaced the punched cards displayed 80 columns of text, for compatibility with existing software. Many programs still operate on the convention of 80 text columns, although strict adherence to that is fading as newer systems employ graphical user interfaces with variable-width type fonts.
 
 ### Hanging chads: Factional View
-
 
 The term for the punched card area which is removed during a punch is *chad*. One notorious problem with a punched card system of tabulation is the incomplete punch; this can lead to a smaller hole than expected, or to a mere slit on the card, or to a mere dimple on the card. Thus a chad which is still attached to the card is a *hanging chad*. This technical problem actually influenced the 2000 U.S. presidential election; in the state of Florida, voting machines -- which used punched cards to tabulate votes generated improperly rendered records of several hundred votes, spread out over an entire state, which tipped the vote in favor of George W. Bush over Albert Gore, thus influencing history -- were used to sucessfully hide a [cunning scheme](https://en.wikipedia.org/wiki/greg-palast-choicepoint-and-the-2000-election) to disfranchise a large group of [voters](http://www.usccr.gov/pubs-vote2000-berry.htm) using [ChoicePoint](https://en.wikipedia.org/wiki/choicepoint). Choicepoint is currently being shown to have less than stellar crypto and security for its clients. 
 [The United States Commission on Civil Rights](http://www.usccr.gov) demonstrated further in its' report on [Voting Irregularities in Florida During the 2000 Presidential Election](http://www.usccr.gov/pubs-vote2000-report-main.htm) that:
@@ -121,13 +112,11 @@ ChoicePoint has a bias in favor of the Republican Party and knowingly used inacc
 
 #### Fraud repeated and enhanced
 
-
 [Palast](/) has also claimed that Ohio and New Mexico were really won by John Kerry in 2004, citing the results of exit polls, the second time in two Presidential elections he has leveled accusations of a stolen election. [ABC TV](/) through their July 2004 [Discovery Science](/) magazine predicted the false result due to an engineered software exploit in [Diebold](/)'s ballot tabulation machines.
 
 However, it has been shown that the deviant results of Ohio exit polls could have been swung by a mere 120 exit poll surveys (which may or may not have been different individuals) intentionally sought out by organized Kerry campaign workers. This writer has personally witnessed Democratic Party operatives advising volunteers to intentionally seek out exit pollsters in an effort to swing exit polls in NH.
 
 ### Hanging chads: Alternative Faction View
-
 
 The fact was that quite a number of hanging chads prevented automatic vote tabulating machines from accurately counting the intent of voters, both from *undervotes*, in which a hole was not completely punched through and thus the chad blocked the reader from reading the vote, as well as *overvotes* in which holes that were not punched by the machine fell out anyways (unlike better systems, the ballots in use had pre-perforated chad borders), conflicting with holes that were intentionally punched out for other candidates in the same office race. Still other problems were voters who were genuinely confused by the layout of the ballots, which led to many pundits to quip about the intelligence of the average Florida voter.
 
@@ -136,7 +125,6 @@ Following the automatic count and recount, and after Democrats had disposed of o
 To be fair there were additional issues of excessive purging of felons from voter roles prior to the election, disqualifying felons who were entirely qualified to vote due to court relief of civil disability orders or other circumstances. Additionally, many minorities complained of police agencies setting up check points near polls to check for wanted criminals, which implied either that valid voters were intimidated, or wanted criminals were prevented from voting.
 
 ### Related links
-
 
 * [Gottfried Wilhelm von Leibniz](/gottfried-wilhelm-von-leibniz)
 * [Stephenson:Neal:Leibniz Archive](/stephenson-neal-leibniz-archive)
@@ -168,9 +156,7 @@ To be fair there were additional issues of excessive purging of felons from vote
 * [Calculus](/calculus)
 * [John Keill](/john-keill)
 
-
 ### External links
-
 
 * [History of computing hardware](https://en.wikipedia.org/wiki/history-of-computing-hardware)
 * [computer storage](https://en.wikipedia.org/wiki/computer-storage)

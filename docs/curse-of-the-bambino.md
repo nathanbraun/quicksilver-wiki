@@ -6,19 +6,15 @@ From the Quicksilver Metaweb.
 This [Cryptonomicon](/cryptonomicon) page is about **Baseball** and **the curse of the bambino**
 ### Stephensonia
 
-
 *Baseballs appear 17 times in this book ...
       In return, [Shaftoe](/bobby-shaftoe) taught [Goto Dengo](/goto-dengo) how not to throw like a girl. A lot of the Nips are good at baseball and so it was hilarious, even to them, to see their burly friend pushing ineffectually at a baseball. But it was Shaftoe who taught Goto Dengo to stand sideways, to rotate his shoulders, and to follow through. He's paid a lot of attention to the big Nip's throwing form during the last year, and maybe that's why the image of Goto Dengo planting his feet on the ashlars of the Bund, winding up, throwing the streamer-wrapped grenade, and following through almost daintily on one combat-booted foot stays in Shaftoe's mind all the way to Manila and beyond.*
 ### Authored entries
 
-
 * TBA
-
 
 ### [Wikipedia: Curse of the Bambino](/)
 
-
-[![Looks pretty smug](/web/20060725172434im_/http://www.metaweb.com/wiki/upload/4/4d/MW-BabeRuthSox.jpg)](looks-pretty-smug)  
+  
 **Babe Ruth  
 Rookie Portrait 1915  
 Looks pretty smug  
@@ -35,7 +31,6 @@ The phrase "curse of the Bambino" had a long history when in 1990 *Boston Globe*
 As the title drought stretched on and on, national sports media often made reference to the curse when the Red Sox were doing notably well—or notably poorly. Many serious fans grew annoyed by the constant refrain of the "curse" and deplored it as media-created fluff that was good for book sales, television networks, and witty T-shirt slogans, but without basis in history. 
 
 ### The lore
-
 
 Although the title drought dates back to 1918, the sale of Ruth to the Yankees was completed January 3, 1920. It is believed that Red Sox owner Harry Frazee used the proceeds from the sale to finance the production of a Broadway musical, *No, No, Nanette* (which did not see its first performance until five years later). The show introduced songs such as "I Want to Be Happy" and "Tea For Two." In 1921, Red Sox general manager Ed Barrow left to take over as GM of the Yankees.
 
@@ -55,7 +50,6 @@ In 2003, a similar scenario to the 1978 series occurred. Tied with the Yankees a
 
 ### The Economic Excuse
 
-
 Some have explained the curse as an effect of economics. Specifically, the market size (and stadium size) of any given team defines its ability to sell tickets, which in turn determines its budget, including player payrolls. Teams in larger stadiums and markets are more able to afford better, more expensive talent in its players. The Yankees, with Yankee stadium (75,000 seating capacity), and the massive market of New York City, Long Island, and New Jersey, have been able to compile their impressive World Series record, it is said, specifically because it has historically had the greatest payroll potential.
 
 For this reason, some have noticed that the payroll difference between the Yankees and the Red Sox is about equal to the difference the team and players pay in taxes to the city of Boston and the state of Massachusetts, and what they would pay if they moved to the neighboring state of New Hampshire, which has the second lowest state and local tax burden in the United States. Such a move would thus have eliminated the economic advantage and put the Sox on an even playing field with the Yankees.
@@ -65,7 +59,6 @@ The fact that Major League Baseball management had, in recent years, arranged fo
 This premise is born out by the fact that team payroll jumped by $27 million between 2003 and 2004. While still $57 million behind the payroll of the Yankees, this jump in payroll producing performance improvement is similar to the $37 million jump in the payroll of the Seattle Mariners in the 1995 season in which they made the American League playoffs for the first time in history, and were only defeated for a spot in the World Series that year by defeat at the hands of the Yankees in the final playoff round. Furthermore, the 2004 Red Sox payroll was the second largest in the Major Leagues, while in 2003 the Red Sox only ranked number 6. Prior to this, with the exception of the 2001 and 2002 seasons, the Red Sox payroll was never higher than 5th and often as low as 15th compared to other teams.
 
 Below is the payroll history of the Boston Red Sox:
-
 
 |  |  |  |
 | --- | --- | --- |
@@ -79,10 +72,7 @@ Below is the payroll history of the Boston Red Sox:
 | [1999](http://asp.usatoday.com/sports-baseball-salaries-teamdetail-aspx-team-3-amp-year-1999) | [$ 1,500,000](http://asp.usatoday.com/sports-baseball-salaries-mediansalaries-aspx-year-1999) | [$ 71,720,000](http://asp.usatoday.com/sports-baseball-salaries-totalpayroll-aspx-year-1999) |
 | [1998](http://asp.usatoday.com/sports-baseball-salaries-teamdetail-aspx-team-3-amp-year-1998) | [$ 1,000,000](http://asp.usatoday.com/sports-baseball-salaries-mediansalaries-aspx-year-1998) | [$ 51,647,000](http://asp.usatoday.com/sports-baseball-salaries-totalpayroll-aspx-year-1998) |
 
-
-
 ### The curse "reversed"
-
 
 In 2004, the Red Sox met the Yankees in the [American League Championship Series](/). After losing the first three, including a 19–8 drubbing at Fenway Park, the Red Sox trailed 4-3 in the bottom of the 9th inning of Game 4, three outs from being swept. But the team tied the game with an RBI single off feared Yankee [closer](/) Mariano Rivera and won on a 2-run home run in the 12th inning by David Ortiz. The Sox then won the next three games, becoming the first Major League Baseball team to win a seven-game postseason series after being down 3 games to none.
 
@@ -96,7 +86,6 @@ The Red Sox will open the 2005 season on April 4 at Yankee Stadium. The home ope
 
 ### [Wikipedia: Baseball](/)
 
-
 **Baseball** is a team sport, in which a fist-sized ball is thrown by a player called a pitcher and hit with a bat. Scoring involves running and touching markers on the ground called bases. The ball itself is called a baseball. Baseball is sometimes called hardball to differentiate it from the closely related sport of softball and other similar games.
 
 Baseball is popular in the Americas and East Asia. In Japan, the Dominican Republic, Cuba, Panama, South Korea, Taiwan and some other countries, it is the most popular sport by any measurement. In the United States, baseball has often been called the national pastime; the total attendance for Major League games is more than that of all other American professional team sports combined although this is also due to the lengthy 162 regular game schedule. Although the three most popular team sports in North America are ball games (baseball, basketball and American football), baseball's popularity grew so great that the word "ballgame" in the United States almost always refers to a game of baseball, and "ballpark" to a baseball field. Among American television viewers, however, it has been surpassed in popularity by American football and car racing. [Complete in link]
@@ -104,7 +93,6 @@ Baseball is popular in the Americas and East Asia. In Japan, the Dominican Repub
 In July of 2005, the International Olympic Committee announced it would be dropping baseball, along with softball, as an olympic sport. One reason given is that American professional baseball players do not participate, though this is an interesting reversal from decades of Olympic policy which militated against participation of professional athletes in Olympic events.
 
 ### External links
-
 
 * [Official Website of Major League Baseball](http://www.mlb.com)
 * [Baseball Basics from MLB.com](http://mlb.mlb.com/nasapp-mlb-mlb-official-info-baseball-basics-on-the-field-jsp)

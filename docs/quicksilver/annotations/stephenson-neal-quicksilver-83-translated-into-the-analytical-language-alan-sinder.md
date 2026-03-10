@@ -18,7 +18,7 @@ This is a page for **platonism versus hedonism**
 ### Isaac & Plato's Cave
 
 
-On the banks of the River Cam  an older lad tries an old ***Platonic idea*** dressed up in Wilkins' **Analytical Language** upon on a hardened realist. Get out your wallets and buy the ***[Epicurus the Sage TPB Graphic Novel](http://www.amazon.com/exec-obidos-tg-detail-1401200281-qid-1077889506-ref-pd-ka-1-104-8931055-5532701-v-glance-s-books-n-507846)***. This dialogue sums up my feeling for the *soft soap* Isaac is trying to shill Daniel.![SchoolofAthens_MW.jpg](/https://web.archive.org/web/20060725170452im_/http://www.metaweb.com/wiki/upload/1/12/SchoolofAthens_MW.jpg)  
+On the banks of the River Cam  an older lad tries an old ***Platonic idea*** dressed up in Wilkins' **Analytical Language** upon on a hardened realist. Get out your wallets and buy the ***[Epicurus the Sage TPB Graphic Novel](http://www.amazon.com/exec-obidos-tg-detail-1401200281-qid-1077889506-ref-pd-ka-1-104-8931055-5532701-v-glance-s-books-n-507846)***. This dialogue sums up my feeling for the *soft soap* Isaac is trying to shill Daniel.![SchoolofAthens_MW.jpg](/https://web.archive.org/images/SchoolofAthens_MW.jpg)  
 **Raphael's *School of Athens*, c. 1510-1511  
 Plato and Aristotle, are central to this piece  
 Epicurus is off to the left  
@@ -40,7 +40,7 @@ Mostly sourced from the Wikipedia
 ### Biography
 
 
-Plato was born in Athens, into a moderately well-to-do aristocratic family. His father was named Ariston and his mother Perictione. An ancestor, Glaucon, was one of the best-known members of the Athenian nobility. Plato's own real name was "Aristocles." The nickname Plato originates from wrestling circles, that much is agreed on. Since Plato means "broad," it probably refers either to his physical appearance or possibly wrestling stance or style.![Ari%26Plato_MW.jpg](/https://web.archive.org/web/20060725170452im_/http://www.metaweb.com/wiki/upload/e/e6/Ari%26Plato_MW.jpg)  
+Plato was born in Athens, into a moderately well-to-do aristocratic family. His father was named Ariston and his mother Perictione. An ancestor, Glaucon, was one of the best-known members of the Athenian nobility. Plato's own real name was "Aristocles." The nickname Plato originates from wrestling circles, that much is agreed on. Since Plato means "broad," it probably refers either to his physical appearance or possibly wrestling stance or style.![Ari%26Plato_MW.jpg](/https://web.archive.org/images/Ari%26Plato_MW.jpg)  
 **ARISTOTLE & PLATO  
 Reflecting two schools of thought  
 these philosophers share a world of  
@@ -84,7 +84,7 @@ In the *Republic* Books VI and VII, Plato used a number of metaphors to explain 
 
 Plato 's **allegory of the cave** is perhaps the best-known of his many metaphors, allegories, and myths. 
 
-The allegory is told and interpreted at the beginning of Book VII of [The Republic](https://en.wikipedia.org/wiki/plato-s-republic) (514a-520a). The allegory is probably best presented as a story, and then interpreted--as Plato himself does. ![Epicurus_MW.jpg](/https://web.archive.org/web/20060725170452im_/http://www.metaweb.com/wiki/upload/e/e5/Epicurus_MW.jpg)   
+The allegory is told and interpreted at the beginning of Book VII of [The Republic](https://en.wikipedia.org/wiki/plato-s-republic) (514a-520a). The allegory is probably best presented as a story, and then interpreted--as Plato himself does. ![Epicurus_MW.jpg](/https://web.archive.org/images/Epicurus_MW.jpg)   
 **Epicurus  
 *Working on a book***
 
@@ -147,7 +147,7 @@ Plotinus taught the existence of an indescribable One, which emanated the rest o
 
 Later Neo-Platonic philosophers included Porphyry, Proclus, Iamblichus and Hypatia of Alexandria. 
 
-Neo-Platonism was frequently used as a philosophical foundation for paganism, and as a means of defending paganism against [Christianity](/christianity); but many Christians were also influenced by Neo-Platonism. In Christian versions of Neo-Platonism, the One is identified as God. Most important of these was Pseudo-Dionysius the Areopagite, whose work was very influential in the Middle Ages. Augustine of Hippo converted to Christianity under the influence of Plotinus, leading most scholars to label Augustine a frank Neo-Platonist; although, they note that Augustine's subordination of philosophy to scripture leads to striking differences from the non-Christian philosophy. Some scholars have shown that Neo-Platonism was also influenced by Christian theology, notably through the belief systems known as Gnosticism.![PlatoEpicurusBustMW.jpg](/https://web.archive.org/web/20060725170452im_/http://www.metaweb.com/wiki/upload/8/8e/PlatoEpicurusBustMW.jpg)  
+Neo-Platonism was frequently used as a philosophical foundation for paganism, and as a means of defending paganism against [Christianity](/christianity); but many Christians were also influenced by Neo-Platonism. In Christian versions of Neo-Platonism, the One is identified as God. Most important of these was Pseudo-Dionysius the Areopagite, whose work was very influential in the Middle Ages. Augustine of Hippo converted to Christianity under the influence of Plotinus, leading most scholars to label Augustine a frank Neo-Platonist; although, they note that Augustine's subordination of philosophy to scripture leads to striking differences from the non-Christian philosophy. Some scholars have shown that Neo-Platonism was also influenced by Christian theology, notably through the belief systems known as Gnosticism.![PlatoEpicurusBustMW.jpg](/https://web.archive.org/images/PlatoEpicurusBustMW.jpg)  
 **Plato and Epicurus  
 Talking Heads?**
 
@@ -188,7 +188,7 @@ Today, Plato's reputation is as easily on a par with Aristotle's. Many college s
 
  
 A work is marked (1) if it is not generally agreed by scholars that Plato is the author of the work. A work is marked (2) if it is generally agreed by scholars that Plato is not the author of the work. 
-![PlatoPalMW.jpg](/https://web.archive.org/web/20060725170452im_/http://www.metaweb.com/wiki/upload/4/47/PlatoPalMW.jpg)  
+![PlatoPalMW.jpg](/https://web.archive.org/images/PlatoPalMW.jpg)  
 **PLATO  
 *as pictured by Sam Kieth  
 Detail from image below***
@@ -241,7 +241,7 @@ Detail from image below***
 ### Epicurus
 
 
-**Epicurus**, Hellenistic Greek philosopher (born Samos, 341 BCE; died Athens, 270 BCE). Epicurus was born into an Athenian émigré family - his parents, both Athenian citizens, had moved to an Athenian settlement on the Aegean island of Samos. He returned to Athens to serve as an ephebe - a young citizen in military training. The playwright Menander served in the same age-class of the ephebes as Epicurus.![EpicurussagetpbMW.jpg](/https://web.archive.org/web/20060725170452im_/http://www.metaweb.com/wiki/upload/e/e4/EpicurussagetpbMW.jpg)  
+**Epicurus**, Hellenistic Greek philosopher (born Samos, 341 BCE; died Athens, 270 BCE). Epicurus was born into an Athenian émigré family - his parents, both Athenian citizens, had moved to an Athenian settlement on the Aegean island of Samos. He returned to Athens to serve as an ephebe - a young citizen in military training. The playwright Menander served in the same age-class of the ephebes as Epicurus.![EpicurussagetpbMW.jpg](/https://web.archive.org/images/EpicurussagetpbMW.jpg)  
 **Plato, Epicurus, & Alexander in front  
 of one of Cerebus's heads  
 Two Images from the GN**

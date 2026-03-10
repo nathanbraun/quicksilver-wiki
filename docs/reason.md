@@ -6,8 +6,7 @@ From the Quicksilver Metaweb.
 This is the [Snow Crash](/stephenson-neal-snow-crash) page for **Reason**
 ### Stephensonia
 
-
-[![200px|left|thumb|Gatling gun photo](/web/20060725221723im_/http://www.metaweb.com/wiki/upload/c/ca/200px-GatlingGun.jpg)](200px-left-thumb-gatling-gun-photo)  
+[![200px|left|thumb|Gatling gun photo](/images/200px-GatlingGun.jpg)](200px-left-thumb-gatling-gun-photo)  
 Gatling Gun
 *Big gun that invokes all the big gun movie cliches ... such as:
 **[Dick Durkin](http://us.imdb.com/title-tt0105459-fr-c2l0zt1kznxted0ymhxzzz0xfgxtptiwmhx0dd1vbnxmyj11fhbuptb8ct1zcgxpdcbzzwnvbmr8ahrtbd0xfg5tpw9u-fc-1-ft-21-fm-1)**: We need to get bigger guns. BIG FUCKING GUNS!
@@ -22,7 +21,6 @@ DO NOT TEST IN A POPULATED AREA
 - ULTIMA RATIO REGUM­***
 ### Authored entries
 
-
 * [action at a distance (Albert Einstein)](/action-at-a-distance-albert-einstein)
 * [action at a distance (Rene Descartes)](/action-at-a-distance-rene-descartes)
 * [action at a distance (John Doe)](/action-at-a-distance-john-doe)
@@ -31,11 +29,9 @@ DO NOT TEST IN A POPULATED AREA
 * [Stephenson:Neal:Quicksilver:518:Ultima Ratio Regum (Mike Lorrey)](/stephenson-neal-quicksilver-518-ultima-ratio-regum-mike-lorrey)
 * [Stephenson:Neal:Quicksilver:747:A Swiss mathematician named Fatio (Neal Stephenson)](/stephenson-neal-quicksilver-747-a-swiss-mathematician-named-fatio-neal-stephenson)
 
-
 ### Description
 
-
-[![Gatling](/web/20060725221723im_/http://www.metaweb.com/wiki/upload/f/f3/FWWgatlingJR.jpg)](gatling)  
+[![Gatling](/images/FWWgatlingJR.jpg)](gatling)  
 **Richard Jordan Gatling**
 **Reason**, version 1.0B7, is the name of a prototype miniature [Gatling gun](/) produced by [Ng Security Industries, Inc.](/ng-security-industries-inc) which Ng has lent to the [Mafia](/) for this operation. It is a 3-mm hypervelocity [railgun](/). 
 
@@ -51,13 +47,11 @@ One advantage of the coilgun over the railgun is that it can be made arbitrarily
 
 ### Origins of the Gatling
 
-
 In 1862 Richard Jordan Gatling, took out a patent for a mechanical gun that he developed. The Gatling Gun consisted of six barrels mounted in a revolving frame. A later version with ten barrels, fired 320 rounds a minute. The [United States Army](/) purchased these guns in 1865 and over the next few years most major armies in Europe purchased the gun. 
 
 In 1870 Gatling opened a new factory in Hartford, Connecticut to produce his gun. He continued to improve the Gatling Gun and by 1882 it could fire up to 1,200 rounds per minute. However, sales of the gun declined after [Hiram Maxim](/) began producing his automatic [Maxim Machine Gun](/).
 
 #### Richard Jordan Gatling
-
 
 Richard Jordan Gatling was born in Money's Neck, North Carolina. He studied medicine and dentistry but never practised. In 1862 Gatling took out a patent for a mechanical gun that he developed. The Gatling Gun consisted of six barrels mounted in a revolving frame. A later version with ten barrels, fired 320 rounds a minute. The United States Army purchased these guns in 1865 and over the next few years most major armies in Europe purchased the gun. 
 
@@ -65,8 +59,7 @@ As well as guns, Gatling manufactured machines for sowing and breaking hemp, a s
 
 ### His Gun (from  [Gatling Gun](/))
 
-
-[![thumb|left|Patent drawing for R.J. Gatling's <em>Battery Gun</em>,  05/09/1865.](/web/20060725221723im_/http://www.metaweb.com/wiki/upload/6/67/180px-GatlingGunDrawing.jpg)](thumb-left-patent-drawing-for-r-j-gatling-s-em-battery-gun-em-05-09-1865)  
+  
 **1865 Patent drawing for  
 Gatling's *Battery Gun'***
 The **Gatling gun** was the first successful [Machine Gun](/). Unlike previous devices it was the first to combine reliability, high firing rate and ease of loading into a single device. It was designed by the American inventor [Richard J. Gatling](/) in 1861 and patented on May 9, 1865.
@@ -78,7 +71,7 @@ The barrels, a carrier, and a lock cylinder were separate and all mounted on a s
 Turning the crank rotated the shaft. Cartridges, held in a hopper, dropped individually into the grooves of the carrier. The lock was simultaneously forced by the cam to move forward and load the cartridge and when the cam was at its highest point the cocking ring freed the lock and fired the cartridge. After the cartridge was fired the continuing action of the cam drew back the lock bringing with it the spent cartridge which was then dropped to the ground.
 
 The grouped barrel concept was not new, it had been tried since the [18th century](/), but poor engineering and the lack of a [metal](/) cartridge made the attempts unsuccessful. The innovative features of the Gatling gun were its independent firing mechanism for each barrel and the simultaneous action of the locks, barrels, carrier and [breech](/).
-[![200px|right|thumb|Gatling gun on display at Fort Laramie, Wyoming](/web/20060725221723im_/http://www.metaweb.com/wiki/upload/7/7b/200px-DSCN5243_ftlaramiegatlinggun_e.jpg)](200px-right-thumb-gatling-gun-on-display-at-fort-laramie-wyoming)
+[![200px|right|thumb|Gatling gun on display at Fort Laramie, Wyoming](/images/200px-DSCN5243_ftlaramiegatlinggun_e.jpg)](200px-right-thumb-gatling-gun-on-display-at-fort-laramie-wyoming)
 
 The smallest calibre gun also had a Broadwell drum feed in place of the curved magazine of the other guns. The cartridge holder was divided into sixteen sections each holding 25 cartridges. As each section was emptied the drum rotated bringing a new section into use until all 400 rounds had been fired.
 
@@ -88,15 +81,13 @@ However, Gatling-style guns with rotating barrels were to return as very high ra
 
 ### 30mm Gatling Gun System
 
-
-[![thumb|right|200px|The GAU-8 Gatling gun of an A-10 Thunderbolt II at Osan Air Base, Korea](/web/20060725221723im_/http://www.metaweb.com/wiki/upload/8/80/200px-Gatling.gun.750pix.jpg)](thumb-right-200px-the-gau-8-gatling-gun-of-an-a-10-thunderbolt-ii-at-osan-air-base-korea)  
+[![thumb|right|200px|The GAU-8 Gatling gun of an A-10 Thunderbolt II at Osan Air Base, Korea](/images/200px-Gatling.gun.750pix.jpg)](thumb-right-200px-the-gau-8-gatling-gun-of-an-a-10-thunderbolt-ii-at-osan-air-base-korea)  
 The GAU-8 Gatling gun of an  
 A-10 Thunderbolt II at Osan Air  
 Base, Korea
 The GAU-8/A produced by General Dynamics Armament and Technical Products (GDATP) is a 30mm Gatling gun system installed on the U.S. Air Force's A-10 Thunderbolt II aircraft and the Goalkeeper Close-In Weapon System. The GAU-8/A provides a reliable, high-rate-of-fire, combat-proven weapon system for close air support and shipboard defense missions. 
 
 #### Specifications:
-
 
 *Gun Type:*      Seven-Barrel, 30mm, Externally Powered Gatling Gun  
 
@@ -114,9 +105,7 @@ The GAU-8/A produced by General Dynamics Armament and Technical Products (GDATP)
 
 *Feed System:*      Linked or Linkless  
 
-
 ### [Wikipedia: Railgun](/)
-
 
 *This article is about an electromagnetic projectile launcher. you may be looking for [railway gun](/).*
 
@@ -126,7 +115,6 @@ A **railgun** (not to be confused with a Gauss gun, which is another name for a 
 Homebrew Prototype RailgunRailguns utilize a magnetic force termed "[Lorentz force](/)" to propel an electrically conductive projectile that is initially part of the current path. The current flowing through the rails sets up a magnetic field between them and through the projectile perpendicularly to the current in the rail. This results in a mutual repulsion of the rails and the acceleration of the projectile along them.
 
 #### Theory and construction
-
 
 Although conceptually simple, the operation of a railgun involves several factors that have to this day made a practical design (one that can be fielded and replace conventional weapons) impossible.
 
@@ -147,11 +135,9 @@ The complexity in railgun design comes from:
 2. Power supply design. The power supply must be able to deliver large currents, with both [capacitors](/) and [compulsators](/) being common.
 3. Electromechanical design. The rails need to withstand enormous repulsive forces during firing, and these forces will tend to push them apart and away from the projectile. As rail/projectile clearances increase arcing develops which causes rapid vaporization and extensive damage to the rail surfaces and the insulator surfaces. This limits most research railguns to one shot per service interval.
 
-
 There are fundamental limits to the exit velocity due to the inductance of the system and in particular the rails. These limits are larger than currently attainable but do reduce the usefulness of the concept for space travel and military uses.
 
 ### Railguns as weapons
-
 
 Railguns are being pursued as weapons with [projectiles](/) that do not contain explosives, but are given extremely high velocities: 3500m/s or more (for comparison, the [M16](/) rifle has a muzzle speed of 975m/s), which would make their kinetic energy equal or superior to that of an explosive-filled shell of greater mass. This would allow more ammunition to be carried and eliminate the hazards of carrying explosives in a tank or battleship. Also, by firing at higher velocities railguns have greater range, less bullet drop and less wind drift. It is postulated that the next generation of [reactive armor](/) will be impenetrable by conventional ammunition and shaped charges; the higher velocity [KE-penetrator](/) projectiles of railguns would be able to easily defeat such armour.
 
@@ -165,7 +151,6 @@ Naval forces are also interested in railgun research. Current ship guns store th
 
 ### Peaceful uses of railguns
 
-
 There is interest in using railguns as [mass drivers](/) for space exploration and mining. They would be useful for launching bulk ores into space, particularly from low-gravity bodies such as moons and asteroids; electrically powered from solar panels, they would not require any consumables such as rocket fuels.
 
 Rail guns have been proposed for use in delivering projectiles to space, especially from bodies without atmospheres (such as the [Moon](/)). Its main competitors are [coil guns](/) and [ram accelerators](/).
@@ -173,7 +158,6 @@ Rail guns have been proposed for use in delivering projectiles to space, especia
 Also, railguns may be used to initiate [fusion](/) reactions, by firing pellets of fusible material at each other. The impact would create immense temperatures and pressures, allowing nuclear fusion to occur. However current railguns are not yet sufficient to achieve the energies required.
 
 #### Railguns in science fiction
-
 
 ![MW_Eraser3.jpg](/images/MW_Eraser3.jpg)  
 Eraser's Mobile Railgun
@@ -206,7 +190,6 @@ A **kinetic energy penetrator**, **long-rod penetrator**, or **APFSDS (Armour Pi
 1. being fired with a very high [muzzle velocity](/)
 2. concentrating the force on a small area without having too small a mass, and therefore having the form of a long sleek rod
 
-
 To produce very high speeds the ammunition is normally composed of a narrow penetrator surrounded by a [sabot](/) which expands the diameter to the full barrel width of the firing gun. This allows the pressure of the propellant gases to act on the full-size base and produce rapid acceleration of the round, which is lighter than a full metal round of the same diameter would be. Once the round leaves the barrel the sabot falls off, leaving the penetrator travelling at high speed and with a smaller cross-sectional area, which reduces aerodynamic drag during the flight to the target. This technique was first used in anti-tank guns during [World War 2](/); Germany developed sabots under the name "Treibspiegel".
 
 KE-penetrators for tanks are commonly just 2â3 centimeters in diameter, and 50â60 centimeters long; as more modern penetrators are developed, their length tends to increase and the diameter to decrease. To maximize the amount of kinetic energy released on the target, the penetrator must be made of a heavy material, such as tungsten or DU ([depleted uranium](/)). The hardness of the penetrator is of lesser importance. In fact uranium is not particularly hard. An advantage of uranium is that it is [pyrophoric](/): the molten fragments of the penetrator ignite on contact with air. Uranium rod is also self-sharpening on impact.
@@ -220,7 +203,6 @@ It is generally accepted that KE-penetrators are the most effective ammunition i
 The counterpart of a KE-penetrator in rifle ammunition is the [flechette](/). A rifle firing flechettes, the [Special Purpose Individual Weapon](/), was under development for the US Army, but the project was abandoned.
 
 ### [Wikipedia: Special Purpose Individual Weapon](/)
-
 
 The **Special Purpose Individual Weapon** (**SPIW**) was a long-running [US Army](/) program to develop a workable flechette based "rifle". Developed primarily by Irwin Barr, one of the founders of AAI (Aircraft Armaments Inc.), the program developed weapons over a 15 year period but was never adopted. The concept was revived in the 1980s as a part of the [Future Rifle Program](/) and again in the 90s under the [Advanced Combat Rifle](/) program, but neither program resulted in a system useful enough to warrant replacing the current [M16](/).
 
@@ -257,12 +239,11 @@ It was revivied again during the semi-automatic shotgun-like Close-Assault Weapo
 Today the SPIW is often referred to as the "deadliest weapon that never was". Given the terrible reliability problems, huge flash and high noise, it's not clear who it would be deadly to however.
 
 Since the demise of the SPIW, there has been another attempt to revolutionize the [assault rifle](/) by way of a small projectile and a very high rate of fire, namely the [HK G11](/). That project has not resulted in a production rifle either.
-[![200px|right|thumb|Gatling gun illustrated in an 1885 encyclopedia](/web/20060725221723im_/http://www.metaweb.com/wiki/upload/1/13/200px-Gatling.gif)](200px-right-thumb-gatling-gun-illustrated-in-an-1885-encyclopedia)  
+  
 Gatling gun illustrated  
 in an 1885 encyclopedia
 
 ### WikiPedia Entries
-
 
 * [volley gun](/)
 * [mitrailleuse](/)
@@ -275,9 +256,7 @@ in an 1885 encyclopedia
 * [pl:Karabin Gatlinga](/)
 * [zh:加特林机枪](/)
 
-
 ### External Links
-
 
 * [A .22LR Gatling Gun manufactured today](/http-www-machineguns-co-nz-products-shtml) (this is half scale operable model of a British Navy Gatling, almost twice the caliber of Reason)
 * [Reason.com](http://www.reason.com)

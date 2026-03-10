@@ -46,7 +46,7 @@ The impossibility of knowledge, even in regard to our own ignorance or doubt, sh
 
 **"the fallacy of assertion without knowledge"** - might be a poke at *Ayn Rand's* **Beehive** and much Libertarian thought. 'without proof' is her bit...
 
-![Ayn_rand_stamp.jpg](/https://web.archive.org/web/20060725170604im_/http://en.wikipedia.org/upload/3/31/Ayn_rand_stamp.jpg)  
+![Ayn_rand_stamp.jpg](/https://web.archive.org/images/Ayn_rand_stamp.jpg)  
 *US postage stamp honoring Rand 1999*
 Ayn Rand (Ayn rhymes with "mine") (February 2, 1905 - March 6, 1982), born Alissa Zinovievna Rosenbaum, was a controversial American philosopher and novelist, most famous for her philosophy of Objectivism. 
 

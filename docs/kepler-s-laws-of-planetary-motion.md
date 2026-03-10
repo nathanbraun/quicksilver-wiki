@@ -6,11 +6,9 @@ From the Quicksilver Metaweb.
 a page for **Kepler's Laws of Planetary Motion**
 ### Stephensonia
 
-
  *The [Principia](/principia-mathematica)'s inspiration. And it leads to the **Zeta function**.*
 
 ### Authored entries
-
 
 * [Stephenson:Neal:Quicksilver:1:Those who assume hypotheses... (Neal Stephenson)](/stephenson-neal-quicksilver-1-those-who-assume-hypotheses-neal-stephenson)
 * [Stephenson:Neal:Quicksilver:11:Hypothesis of Vortices (Neal Stephenson)](/stephenson-neal-quicksilver-11-hypothesis-of-vortices-neal-stephenson)
@@ -26,9 +24,7 @@ a page for **Kepler's Laws of Planetary Motion**
 * [Stephenson:Neal:Cryptonomicon:17:I tried to ask him my sprocket question ...(Alan Sinder)](/stephenson-neal-cryptonomicon-17-i-tried-to-ask-him-my-sprocket-question-alan-sinder)
 * [Heinlein:Robert:Have Space Suit Will Travel:40:Almost halfway to the Moon, I'd say (Neal Stephenson)](/heinlein-robert-have-space-suit-will-travel-40-almost-halfway-to-the-moon-i-d-say-neal-stephenson)
 
-
 ### Kepler's Laws of Planetary Motion
-
 
 [Johannes Kepler](/johannes-kepler)'s primary contribution to astronomy/astrophysics were the **three laws of planetary motion**. Kepler derived these laws, in part, by studying the observations of [Tycho Brahe](/tycho-brahe). [Isaac Newton](/isaac-newton) would later verify these laws with his laws of motion and universal gravity. The generic term for an orbiting object is *satellite*.
 
@@ -69,16 +65,13 @@ Newton, understanding that his third law of motion was related to Kepler's third
 
 where:
 
-![P^2 = \frac{4\pi^2}{G(m_1 + m_2)}a^3](/web/20060725171018im_/http://www.metaweb.com/wiki/upload/math/02a3bb1f069cf0701ac48c1f436ad433.png)
 P = object's sidereal period in years 
 *a* = object's semimajor axis, in AU 
 G = Gravitational constant 
 *m*1 = mass of object 1 
 *m*2 = mass of object 2
 
-
 ### Related entries
-
 
 * [Euclid](/euclid)
 * [Georg Riemann](/georg-riemann)
@@ -96,9 +89,7 @@ G = Gravitational constant
 * [Daniel Waterhouse](/daniel-waterhouse)
 * [Einstein's Principle of Equivalence](/einstein-s-principle-of-equivalence)
 
-
 ### External Links
-
 
 * [Interactive version of Euclid's Elements](http://aleph0.clarku.edu/djoyce-java-elements-elements.html) - David E. Joyce
 * [Euclid's Elements](http://www.headmap.org/unlearn-euclid-book1-def1.htm)

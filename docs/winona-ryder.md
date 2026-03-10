@@ -5,8 +5,7 @@ From the Quicksilver Metaweb.
 
 ### Stalking Points
 
-
-Born on October 29, 1971, in Winona, [Minnesota](/), Winona is a seasoned award winning actress. She was named after the city in Minnesota where she was born. Winona's parents, Michael and Cindy Horowitz were hippie intellectuals, and family friends include poet [Allen Ginsberg](/), and [Timothy Leary](/timothy-leary), who was Winona's godfather. She is the third of four siblings ,including one half-brother and one half-sister from her mothers first marriage.[![as Lydia](/web/20060725224901im_/http://www.metaweb.com/wiki/upload/0/0c/Lydia_05MW.jpg)](as-lydia)  
+Born on October 29, 1971, in Winona, [Minnesota](/), Winona is a seasoned award winning actress. She was named after the city in Minnesota where she was born. Winona's parents, Michael and Cindy Horowitz were hippie intellectuals, and family friends include poet [Allen Ginsberg](/), and [Timothy Leary](/timothy-leary), who was Winona's godfather. She is the third of four siblings ,including one half-brother and one half-sister from her mothers first marriage.  
 The Actress
 
 Winona had a [very interesting childhood](/). She lived briefly in [Colombia](/) with [Chilean revolutionaries](/) before returning to northern California in 1974 with her parents. Her family then moved to a commune in Mendocino, where they lived for four years without television or electricity. In the early 80's, the family relocated to [Petaluma](/), California.

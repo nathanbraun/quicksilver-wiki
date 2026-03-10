@@ -6,20 +6,16 @@ From the Quicksilver Metaweb.
 a page for the **Hudson Bay Company** which our resident troll holds is an early example of [corporate imperialism](/corporate-imperialism)
 ### Stephensonia
 
-
 *The **[Merry Monarch](/charles-ii)** was a busy man, as was **[Prince Rupert of the Rhine](https://en.wikipedia.org/wiki/prince-rupert-of-the-rhine)** (1619-1682), soldier and inventor, a younger son of [Frederick V, Elector Palatine](https://en.wikipedia.org/wiki/frederick-v-elector-palatine) and [the Winter Queen](/elizabeth-of-bohemia), nephew of King [Charles I](/charles-i) of England and commander of the Royalist cavalry during the [English Civil War](/english-civil-war).*
 
 ### Authored Pages
 
-
 * [Stephenson:Neal:Quicksilver:18:...behaving as if Queen Anne were already dead and buried,... (Alan Sinder)](/stephenson-neal-quicksilver-18-behaving-as-if-queen-anne-were-already-dead-and-buried-alan-sinder)
-
 
 ### 11th Ed: 1911 *[Encyclopædia Britannica](https://en.wikipedia.org/wiki/1911-encyclopædia-britannica)*: Hudson's Bay Company
 
-
 **Hudsons Bay Company**, or the Governor and Company of Adventurers of England trading into Hudsons Bay, a corporation formed for the purpose of importing into Great Britain. the furs and skins which it obtains, chiefly by barter, from the Indians of British North America. The trading stations of the Company are dotted over the immense region (excluding Canada proper and Alaska), which is bounded East and West by the Atlantic and Pacific Oceans, and North and South by the Arctic Ocean and the United States. From these various stations the furs are despatched in part to posts in Hudson Bay and the coast of Labrador for transportation to England by the Company's ships, and in part by steamboat or other conveyances to points on the railways from whence they can be conveyed to [Montreal](https://en.wikipedia.org/wiki/montreal), [St John](https://en.wikipedia.org/wiki/saint-john-new-brunswick), [New Brunswick](https://en.wikipedia.org/wiki/new-brunswick), or other Atlantic port, for shipment to [London](/london) by [Canadian Pacific Railway](https://en.wikipedia.org/wiki/canadian-pacific-railway) Companys [mail](https://en.wikipedia.org/wiki/royal-mail) ships, or other line of steamers, to be sold at auction. 
-[![the mighty beaver](/web/20060725172047im_/http://www.metaweb.com/wiki/upload/f/fd/MWbeaver.jpg)](the-mighty-beaver)  
+  
 **The Sought After Beaver**
 
 In the year 1670, [Charles II](/charles-ii) granted a charter to [Prince Rupert](https://en.wikipedia.org/wiki/prince-rupert-of-the-rhine) and seventeen other noblemen and gentlemen, incorporating them as the **Governor and Company of Adventurers of England trading into Hudsons Bay**, and securing to them the sole trade and commerce of all those seas, straits, bays, rivers, lakes, creeks and sounds, in whatsoever latitude they shall be, that lie within the entrance of the straits commonly called [Hudson Strait](https://en.wikipedia.org/wiki/hudson-strait), together with the [watershed](https://en.wikipedia.org/wiki/watershed), that are not alreatly actually possessed by or granted to any of our subjects, or possessed by the subjects of any other [Christian](/christianity) prince or state. Besides the complete lordship and entire legislative, judicial and executive power within these vague limits (which the Company finally agreed to accept as meaning all lands watered by streams flowing into Hudson Bay), the corporation received also the right to the whole and entire trade and traffic to and from all havens, bays, creeks, rivers, lakes and seas into which they shall find entrance or passage by water or land out of the territories, limits or places aforesaid. The first settlements in the country thus granted, which was to be known as [Rupert's Land](https://en.wikipedia.org/wiki/rupert-s-land), were made on James Bay and at Churchill and Hayes rivers; but it was long before there was any advance into the interior, for in 1749, when an unsuccessful attempt was made in parliament to deprive the Company of its charter on the plea of non-user, it had only some four or five forts oii the coast, with about 120 regular employs. Although the commercial success of the enterprise was from the first immense, great losses, amounting before 1700 to 217,514, were inflicted on the Company by the French, who sent several military expeditions against the forts. After the cession of [Canada](https://en.wikipedia.org/wiki/canada) to Great Britain in 1763, numbers of fur-traders spread over that country, and into the north-western parts of the continent, and began even to encroach on the Hudsons Bay Companys territories. These individual speculators finally combined into the [North-West Fur Company](https://en.wikipedia.org/wiki/north-west-company) of Montreal. 
@@ -41,7 +37,6 @@ in those townships numbered 5, 50, 15, 20, 25, 30, 35, 40, 45, 50 and soon in re
 
 ### Wikipedia: Hudson's Bay Company
 
-
 The **Hudson's Bay Company** is the oldest [corporation](https://en.wikipedia.org/wiki/corporation) in Canada and is one of the oldest in the world still in existence.![Hudsonsbayco.jpg](/images/Hudsonsbayco.jpg)  
 **The Hudson's Bay Company building in Montreal**
 
@@ -59,23 +54,18 @@ In December of 2003, Maple Leaf Heritage Investments, a Nova Scotia based compan
 
 ### Online Resources Cited
 
-
  Some sources on the **Hudson Bay Company**:
 1. [Wikipedia: Hudson Bay Company](https://en.wikipedia.org/wiki/hudson-s-bay-company)
 2. [Recyclopedia: Hudson Bay Company](http://recyclopedia.info/wiki-wiki-phtml-title-hudson-s-bay-company)
 3. [WikiInfo: Hudson Bay Company](http://internet.encyclopedia.org/wiki-phtml-title-hudson-s-bay-company)
 4. [1911 Encyclopedia: Hudson Bay Company](http://24.1911encyclopedia.org/h-hu-hudson-s-bay-company.htm)
 
-
 ### References
-
 
 * G. Bryce, Remarkable History of the Hudsons Bay Company (London, 1900)
 * A. C. Laut, Conquest of the Great Northwest; being the story of the adventurers of England known as Hudsons Bay Co. (New York, 1909).
 
-
 ### Related entries
-
 
 * [James I of England](/james-i-of-england)
 * [Merry Monarch](/charles-ii)
@@ -86,9 +76,7 @@ In December of 2003, Maple Leaf Heritage Investments, a Nova Scotia based compan
 * [London](/london)
 * [Christian](/christianity)
 
-
 ### External links
-
 
 * [British East India Company](https://en.wikipedia.org/wiki/british-east-india-company)
 * [Dutch East India Company](https://en.wikipedia.org/wiki/dutch-east-india-company)
@@ -103,7 +91,6 @@ In December of 2003, Maple Leaf Heritage Investments, a Nova Scotia based compan
 * [Nova Scotia](https://en.wikipedia.org/wiki/nova-scotia)
 * [Hudson's Bay Company](http://www.hbc.com)
 * [North West Company](/http-www-northwest-ca) organized 1987
-
 
 * [Hudson's Bay Company Archives](/http-www-gov-mb-ca-chc-archives-hbca-index-html) held by the Government of Manitoba
 * [Prince Rupert of the Rhine](https://en.wikipedia.org/wiki/prince-rupert-of-the-rhine)

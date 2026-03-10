@@ -7,9 +7,7 @@ This is an [Cryptonomicon](/cryptonomicon) page for **Qwghlmian Runes**.
 
 ### Stephensonia
 
-
-
-[![A Stab at the Qwghlmian Alphabet](/web/20060725222422im_/http://www.metaweb.com/wiki/upload/0/0b/QwghlmianRunes2S.png)](a-stab-at-the-qwghlmian-alphabet)  
+  
 
 A Possible Qwghlmian Alphabet
 *Perhaps the pre-pict **Fairy religion** Denmark is where the Qwghlmian folk originally hail from? Are we seeing Viking high tech in sheep husbandry?*
@@ -27,7 +25,6 @@ created for Wikipedia for its
 
 #### Authored entries
 
-
 * [Qwghlm's Ducal Family (Alan Sinder)](/qwghlm-s-ducal-family-alan-sinder)
 * [Judge Jeffreys (Alan Sinder)](/judge-jeffreys-alan-sinder)
 * [Battle of Sedgemoor (Cheryl Morgan)](/battle-of-sedgemoor-cheryl-morgan)
@@ -37,9 +34,7 @@ created for Wikipedia for its
 * [Stephenson:Neal:Quicksilver:370:Qwghlm (Neal Stephenson)](/stephenson-neal-quicksilver-370-qwghlm-neal-stephenson)
 * [Stephenson:Neal:Quicksilver:772:Sghr (Jeremy Bornstein)](/stephenson-neal-quicksilver-772-sghr-jeremy-bornstein)
 
-
 ### Related entries
-
 
 * [Eliza de la Zeur](/eliza-de-la-zeur)
 * [Outer Qwghlm](/outer-qwghlm)
@@ -47,9 +42,7 @@ created for Wikipedia for its
 * [Judge Jeffreys](/judge-jeffreys)
 * [Qwghlm](/stephenson-neal-quicksilver-qwghlm) entry was formerly duplicated here
 
-
 ### External links
-
 
 * [Neal Stephenson interview (baroquecycle.com)](http://www.baroquecycle.com/interview.htm)
 * On [Omniglot](http://www.omniglot.com):

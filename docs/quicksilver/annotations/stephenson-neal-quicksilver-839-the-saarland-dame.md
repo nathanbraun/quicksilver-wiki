@@ -6,19 +6,15 @@ From the Quicksilver Metaweb.
 A page for a parcel of land grabbed by the **Sun King**
 ### Stephensonia
 
-
  ***Jacob the Coiner** has a boss who understood real estate.*
 
 ### Authored entries
 
-
 * [Stephenson:Neal:Quicksilver:22:anointed him with angelbalm, a thousand years old (Alan Sinder)](/stephenson-neal-quicksilver-22-anointed-him-with-angelbalm-a-thousand-years-old-alan-sinder)
-
 
 ### *Saarland*
 
-
-[![Plan for Saarlouis](/web/20060725170303im_/http://www.metaweb.com/wiki/upload/5/5e/442px-Saarlouis_1693.jpg)](plan-for-saarlouis)  
+  
 **The Building Plan for Saarlouis**
 The name *Saarland* is actually an anachronism. The term was used for the first time after World War II, when the region became a French Protectorate until it returned to Germany in 1957. Since the region really was fragmented into tiny principalities during most of its history, there was no political entity at the end of the 17th century. However, the events that are described in Quicksilver had some influence on the history of what was later called the *Saarland*.
 
@@ -30,7 +26,6 @@ After the Napoleonic Wars, the region came to Prussia and later to the German Em
 
 ### Related entries
 
-
 * [Louis XIV](/louis-xiv)
 * [Voltaire](/voltaire)
 * [Jean-Jacques Rousseau](/jean-jacques-rousseau)
@@ -41,10 +36,7 @@ After the Napoleonic Wars, the region came to Prussia and later to the German Em
 * [Christiaan Huygens](/christiaan-huygens) - *Galileo's Intellectual heir* was employed by Louis to solve the Longitude problem.
 * [Ultima Ratio Regum](/ultima-ratio-regum)
 
-
-
 ### External links
-
 
 * [Saarlouis](/) is a stub compared to it's German entry.
 * [Saarland](/) is about the German state.

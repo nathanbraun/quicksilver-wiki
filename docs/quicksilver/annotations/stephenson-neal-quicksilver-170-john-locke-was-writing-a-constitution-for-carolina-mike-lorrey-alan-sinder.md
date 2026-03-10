@@ -6,28 +6,23 @@ From the Quicksilver Metaweb.
 The [Quicksilver](/quicksilver) page for **John Locke**
 ### Stephensonia
 
-
 *Suspect [Cryptonomicon](/cryptonomicon)'s **Secret Admirers** have a soft spot for Locke in their hearts. In the Carolinas, the Fundamental Constitutions were written in the 1660s by John Locke.*
 ### Authored Entries
-
 
 * [Judge Jeffreys (Alan Sinder)](/judge-jeffreys-alan-sinder)
 * [Battle of Sedgemoor (Cheryl Morgan)](/battle-of-sedgemoor-cheryl-morgan)
 * [Stephenson:Neal:Quicksilver:246:Apthorp---the second A (Neal Stephenson)](/stephenson-neal-quicksilver-246-apthorp-the-second-a-neal-stephenson)
 * [Stephenson:Neal:Quicksilver:864:Glorious Revolution...Moment It All Happened (Neal Stephenson)](/stephenson-neal-quicksilver-864-glorious-revolution-moment-it-all-happened-neal-stephenson)
 
-
 ### [Wikipedia: John Locke](/)
 
-
-[![Mininature](/web/20060725170522im_/http://www.metaweb.com/wiki/upload/b/b8/John_Locke.jpg)](mininature)  
+  
 **John Locke  
 [Larger version](/larger-version)  
 Sir Godfrey Kneller 1697 portrait  
 from the Hermitage in Saint Petersburg**
 **John Locke** ([August 29](/) [1632](/)–[October 28](/) [1704](/)) was a [17th-century](/) [philosopher](/) concerned primarily with [society](/) and [epistemology](/). An [Englishman](/), Locke's notions of a "[government](/) with the consent of the governed" and man's [natural rights](/)—[life](/), [liberty](/), and [estate](/) ([property](/))—had an enormous influence on the development of [political philosophy](/). His ideas formed the basis for the concepts used in [American](/) [law](/) and government, allowing the colonists to justify [revolution](/). Locke's epistemology and philosophy of mind also had a great deal of significant influence well into the [Enlightenment](/) period. Locke has been placed in a group called the [British Empiricists](/), which includes [David Hume](/) and [George Berkeley](/). Locke is perhaps most often contrasted with [Thomas Hobbes](/).
 #### Biography
-
 
 Locke was born in [Wrington](/), [Somerset](/), about ten miles from [Bristol](/), [England](/), in [1632](/). His father, a lawyer, served as a captain of cavalry for [Parliament](/) during the [English Civil War](/english-civil-war). In [1647](/), Locke was sent to the prestigious [Westminster School](/) in [London](/london). After completing his studies there, he obtained admission to the college of [Christ Church, Oxford](/). The dean of the college at the time was [John Owen](/), vice-chancellor of the university and also a [Puritan](/puritan). Although he was a capable student, Locke chafed under the undergraduate curriculum of the time. He found reading modern philosophers, such as [Rene Descartes](/rene-descartes), more interesting than the classical material taught at the University.
 
@@ -41,11 +36,9 @@ It was in Shaftesbury's household, during [1671](/), that the meeting took place
 
 Shaftesbury, as a founder of the [Whig](/) movement, exerted great influence on Locke's political ideas. Locke became involved in politics when Shaftesbury became [Lord Chancellor](/) in [1672](/). Following Shaftesbury's fall from favor in [1675](/), Locke spent some time traveling in southern [France](/). He returned to England in [1679](/) when Shaftesbury's political fortunes took a brief positive turn. However, Locke fled to the [Netherlands](/) in [1683](/), under strong suspicion of involvement in the [Rye House Plot](/)  a plan to assassinate King [Charles II](/charles-ii) of England and his brother (and heir to the throne) [James, Duke of York](/james-ii-of-england). Locke did not return to England until after the [Glorious Revolution](/glorious-revolution). The bulk of Locke's publishing took place after his return. He died in [1704](/) after a prolonged decline in health.
 
-
 Events that happened during Locke's lifetime include the [English Restoration](/) and the [Great Plague](/stephenson-neal-quicksilver-93-the-plague-year-alan-sinder) and the [Great Fire of London](/). He did not quite see the [Act of Union](/) of [1707](/), though the office of King of England and King of Scotland had been held by the same person for some time. Constitutional monarchy and parliamentary democracy were in their infancy during Locke's time.
 
 #### Writing
-
 
 The influences of Locke's Puritan upbringing and his Whig political affiliation expressed themselves in his published writings. Although widely regarded as an important influence on modern ideas of political liberty, Locke did not always express ideas that match those of the present day. 
 
@@ -62,13 +55,10 @@ In the *Essay*, Locke critiques the philosophy of innate ideas and builds a theo
 The *Two Treatises of Civil Government* were highly subversive texts when they were written, and Locke was for a long time reluctant to admit authorship of them. They have now become cornerstones of political liberalism.
 ### Locke and the United States
 
-
 #### Supporters
-
 
 Locke's work, particularly the concepts of liberty, later influenced the written works of [Thomas Jefferson](/) and other [Founding Fathers](/) of the [United States](/). In particular, the [United States Declaration of Independence](/) drew upon many 18th century political ideas, derived from the works of both Locke and [Montesquieu](/).
 #### Detractors
-
 
 According to *[A People's History of the United States](/)*:
 In the Carolinas, the Fundamental Constitutions were written in the 1660s by John Locke, who is often considered the philosophical father of the Founding Fathers and the American system. Locke's constitution set up a feudal-type aristocracy, in which eight barons would own 40 percent of the colony's land, and only a baron could be governor. When the crown took direct control of North Carolina, after a rebellion against the land arrangements, rich speculators seized half a million acres (2,000 km²) for themselves, monopolizing the good farming land near the coast. Poor people, desperate for land, squatted on bits of farmland and fought all through the pre-Revolutionary period against the landlords' attempts to collect rent. (47)
@@ -79,22 +69,16 @@ Locke also provided intellectual justifications for taking the land of the Nativ
 
 ### List of major works
 
-
 * (1689) *[An Essay Concerning Human Understanding](/)*
 * (1690) *[A Letter Concerning Toleration](/)*
 * (1690) *[The Second Treatise of Civil Government](/)*
 
-
 ### Locke's epitaph
-
 
 (translated from the [Latin](/))
 "Stop Traveler! Near this place lieth John Locke. If you ask what kind of a man he was, he answers that he lived content with his own small fortune. Bred a scholar, he made his learning subservient only to the cause of truth. This thou will learn from his writings, which will show thee everything else concerning him, with greater truth, than the suspected praises of an epitaph. His virtues, indeed, if he had any, were too little for him to propose as matter of praise to himself, or as an example to thee. Let his vices be buried together. As to an example of manners, if you seek that, you have it in the Gospels; of vices, to wish you have one nowhere; if mortality, certainly, (and may it profit thee,) thou hast one here and everywhere."
 
-
-
 ### Community: John Locke
-
 
 ![JohnLocke.jpg](/https://web.archive.org/web/20060725170522im_/http://en.wikipedia.org/upload/8/8a/JohnLocke.jpg)
 John Locke (August 29, 1632 - October 28, 1704) was an English Enlightenment philosopher, Oxford academic, and medical researcher, whose notions of government with the consent of the governed and the natural rights of man (life, liberty, and property) had an enormous influence on colonial Americans, allowing them to justify revolution and shape a new government. 
@@ -107,7 +91,6 @@ In this, he is commonly credited as a greater inspiration for the Founding Fathe
 
 ### The Lockean Proviso
 
-
 This treatise also introduced the "Lockean proviso" in which Locke stated that the right to take goods from the natural commons is limited by the consideration that "there was still enough, and as good left; and more than the yet unprovided could use;" in other words, that one should not simply take whatever one wanted, one had also to take the common good into consideration.
 
 This is commonly interpreted by western land socialists like Henry George and his followers to justify their concepts of 'Economic Scarcity Rent' as an excuse for broad, high, and onerous property taxation by the state on any or all goods owned by the individual: "your house is made from wood and stone which came from the land, so you owe us, the state, tax on it". This has led directly to a society in which the degree of taxation is many times higher than in Lockes (or even George's) day, such that most persons are in a state of labor indenturement to the state for almost half of the calendar year. This condition is completely contrary to that which Locke thought proper.
@@ -116,13 +99,11 @@ The failure of conception by George and others is that they fail to appreciate t
 
 #### Tabula Rasa
 
-
 Locke is considered the protagonist of empiricism, commonly called the "blank slate" or "Tabula rasa" theory. This theory states that all people start out knowing absolutely nothing and that they learn from experiences and trial and error. This is considered the foundation for behaviorism. 
 
 In law, this also is the basis of the principle that the accused are presumed innocent until proven guilty in a court of law. This is the political benefit of the scientific principle as applied to government, that every trial is an experiment of observation and examination to determine objectively where the truth lies.
 
 #### Political Career
-
 
 From the [Stanford Encyclopedia of Philosophy](http://plato.stanford.edu/entries-locke):
 
@@ -146,8 +127,7 @@ Nor was Locke finished with public affairs. In 1696 the [Board of Trade](/) was 
 
 #### Of Understanding, Knowing, and Classifying
 
-
-[![PD](/web/20060725170522im_/http://www.metaweb.com/wiki/upload/3/31/Jlockemw.jpg)](pd)  
+  
 The Portrait
 [The System of the World](/the-system-of-the-world) demonstrates Daniel's system of classifying all human knowledge into numbers being impressed upon the 'tabula rasa' of the blank cards of hammered and cut [Solomonic Gold](/solomon) sheet. This is an event fraught with meaning and portent. Newton and the alchemists maintained that innate knowledge of the nature of the universe, the 'philosophikal mercury' existed within Solomonic Gold. This Gold had gone around the world many times in the System of the World's Trade on the high seas, nailed to the hull of the trading ship "Minerva", seas of which it is said have no memory. As the "bringer of wisdom", Minerva brings Daniel the tabula rasas he needs to classify all human found knowledge, and through this, attain wisdom.
 
@@ -157,11 +137,9 @@ Locke's "Concerning Human Understanding" was a similar "inquiry into the origina
 
 ### John Locke In Other Fiction
 
-
 John Locke is the name of a character in the award winning television series "Lost". The character is an embodiment of the original's philosophy. He lives stranded on a Pacific Island with other passengers of a crashed airliner (a la "Lord of the Flies"), including another character, a French woman named "Rousseau" who plays a bit at being a 'noble savage'. Other characters play various roles in the political spectrum and try to form a functioning society in the wilderness while under threat from a mysterious cult-like group called 'the Others' who have apparently lived on the Island for many years and practice various forms of mind control, brainwashing, subterfuge, guerilla tactics, and New Age tin pot dictatorship of "Earl".
 
 ### Related entries
-
 
 * [William](/william-iii)
 * [Mary](/mary-ii)
@@ -170,9 +148,7 @@ John Locke is the name of a character in the award winning television series "Lo
 * [Charles II](/charles-ii)
 * [Monmouth](/monmouth)
 
-
 ### External Links
-
 
 * [Liberalism](/)
 * [Libertarianism](/)
@@ -185,9 +161,7 @@ John Locke is the name of a character in the award winning television series "Lo
 * [John Locke Online Bibliography](http://www.libraries.psu.edu/tas-locke)
 * [LibertyForums](http://www.libertyforums.com) - Classical Liberal, Libertarian & Objectivist Discussion Board
 
-
 ### Suggested further reading
-
 
 * Bernard Bailyn, *The Ideological Origins of the American Revolution*. Cambridge, Mass.: Belknapp/Harvard University Press, 1967. Enlarged Edition, 1992. Discusses influence of Locke and other thinkers upon American political thought.
 * John Dunn, *Locke* Oxford University Press, 1984. A succinct introduction.

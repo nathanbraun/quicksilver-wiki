@@ -3,19 +3,13 @@
 
 From the Quicksilver Metaweb.
 
-
 Tables can be useful for a variety of content presentation on Wikipedia. If you are familiar with the [HTML](https://en.wikipedia.org/wiki/html) code needed to create tables, you can simply insert the code directly into the article as you are editing. Table markup is often difficult to edit, however, especially for those unfamiliar with HTML. There are some situations where tables are inappropriate, and simpler markup should be used instead. This page discusses how to create tables in Wikipedia articles, and when they are appropriate.
 
 **Please note that the use of HTML is no longer necessary. [Metaweb:How to edit a page](/metaweb-how-to-edit-a-page) explains how to use wikicode for creating tables.**
 
 ## Example table
 
-
-
 ### Wikipedia code
-
-
-
 
 > 
 > 
@@ -33,12 +27,7 @@ Tables can be useful for a variety of content presentation on Wikipedia. If you 
 > 
 > 
 
-
-
 ### What it looks like in your browser
-
-
-
 
 > 
 > 
@@ -52,8 +41,6 @@ Tables can be useful for a variety of content presentation on Wikipedia. If you 
 > 
 > 
 
-
-
 The important things to note in the example:
 
 * The entire table begins with `<table ...>` and ends with the required `</table>`
@@ -61,7 +48,6 @@ The important things to note in the example:
 * **Table rows** are horizontal groups of cells in the table. They begin with `<tr>` and end with the optional `</tr>`
 * **Table headings** are cells with headings in them, and are often rendered in a bold font. They begin with `<th>` and end with the optional `</th>`
 * **Table data** cells fill out the rest of the table. They begin with `<td>` and end with the optional `</td>`
-
 
 The `td` and `th` elements are sometimes called "cells", somewhat like the cells in a [spreadsheet](https://en.wikipedia.org/wiki/spreadsheet). Each row must have the same number of cells as the other rows, so that the number of columns in the table remains consistent (unless there are cells which span several columns or rows, but this is not discussed here). For empty cells, use the non-breaking space "`&nbsp;`" as content, otherwise some browsers may not format the table properly.
 
@@ -85,21 +71,15 @@ The sample above without the optional closing tags looks as follows:
 > 
 > 
 
-
 Besides being shorter, this makes the page easier to maintain and less error-prone.
 
 If you are already familiar with HTML tables, you may want to note that the `thead`, `tbody`, `tfoot`, and `colgroup` elements are currently unsupported in Wikipedia.
 
 ## Another example
 
-
-
 Here's a more advanced example, showing some more options available for making up tables. You can play with these settings in your own table to see what effect they have. Not all of these techniques may be appropriate in all cases; just because you can add colored backgrounds, for example, doesn't mean it's always a good idea. Try to keep the markup in your tables relatively simple -- remember, other people are going to be editing the article too! This example should give you an idea of what is possible, though.
 
 ### Wikipedia code
-
-
-
 
 > 
 > 
@@ -143,12 +123,7 @@ Here's a more advanced example, showing some more options available for making u
 > 
 > 
 
-
-
 ### What it looks like in your browser
-
-
-
 
 > 
 > 
@@ -167,18 +142,11 @@ Here's a more advanced example, showing some more options available for making u
 > 
 > 
 
-
-
 ## Yet Another Example
-
-
 
 Here is a sample in a new wikicode, that may be simpler than the usual HTML. The source is somewhat longer (10-20%) than the HTML version.
 
 ### Wikipedia code
-
-
-
 
 > 
 > 
@@ -213,12 +181,7 @@ Here is a sample in a new wikicode, that may be simpler than the usual HTML. The
 > 
 > 
 
-
-
 ### What it looks like in your browser
-
-
-
 
 > 
 > {| border="1" cellpadding="2"
@@ -245,11 +208,7 @@ Here is a sample in a new wikicode, that may be simpler than the usual HTML. The
 > |}
 > 
 
-
-
 ## When tables are appropriate
-
-
 
 Tables are perfect for organizing any information that is best presented in a row-and-column format. This might include:
 
@@ -262,24 +221,17 @@ Tables are perfect for organizing any information that is best presented in a ro
 	+ Person, birthdate, occupation
 	+ Artist, album, year, and label
 
-
 Many times, a list is best left as a list. Some articles include excessively long lists which would be very difficult to edit if they were in table form. Before you format a list in table form, consider whether the information will be more clearly conveyed by virtue of having rows and columns. If so, then a table is probably a good choice. If there is no obvious benefit to having rows and columns, then a table is probably not the best choice.
 
 Tables shouldn't be used simply for layout, either. If the information you're editing isn't tabular in nature, it probably doesn't belong in a table. Try not to use tables for putting a caption under a photograph, arranging a group of links, or other strictly visual features. It makes the article harder to edit for other Wikipedians, and isn't really what tables were designed to do.
 
 ## When tables are inappropriate
 
-
-
 ### Very long lists, or very simple lists
-
-
 
 If a list is quite long, or is relatively simple, use one of the standard Wikipedia list formats. Long lists can be hard to maintain if they are inside a table, and simple lists are (simply) too simple to need the row-and-column format that a table provides. Here are some examples of things that might be better done with lists instead of tables.
 
 #### Table formatting (Don't do this)
-
-
 
 > 
 > 
@@ -294,11 +246,7 @@ If a list is quite long, or is relatively simple, use one of the standard Wikipe
 > 
 > 
 
-
-
 #### Without tables (Do this instead)
-
-
 
 > 
 > * 1980: Ultra Wave
@@ -307,11 +255,7 @@ If a list is quite long, or is relatively simple, use one of the standard Wikipe
 > * 1994: Fresh Outta 'P' University
 > 
 
-
-
 ### Layout of images
-
-
 
 Many times, images in an article are placed using a quirk of table rendering. Because a table can be floated to the left or right side of the screen, it has become common practice to utilize a simple one-celled table to place an image in a particular part of the screen. This was a necessary workaround for old browsers, since it generates a consistent rendering of images in browsers which do not adequately support [Cascading Style Sheets](https://en.wikipedia.org/wiki/cascading-style-sheets). By far, the majority of browsers in use today, however, should do just fine with style sheets. The recommended practice now is to arrange images using an element called `div`.
 
@@ -319,43 +263,29 @@ For detailed instructions, see [Wikipedia:Image Use Policy](https://en.wikipedia
 
 #### Table formatting (Don't do this)
 
-
-
 > 
 > `<table align="right" border="0" cellpadding="0"><tr><td>[[Image:Covalent.png]]</td></tr></table>`
 > 
 
-
-
 #### Without tables (Do this instead)
-
-
 
 > 
 > `<div style="float:right; margin: 0 0 1em 1em;">[[Image:Covalent.png]]</div>`
 > 
 
-
-
 #### How it looks
-
 
 In both of these cases, the result is essentially the same; the image is floated to the right-hand side of the screen, and the surrounding text wraps around it. Here is what it looks like in your browser (with text added):
 
-
 > 
-> [![Covalent.png](/web/20060725221205im_/http://www.metaweb.com/wiki/upload/d/d9/Covalent.png)](covalent-png)
+> 
 > Covalent bonding most frequently occurs between atoms with similar electronegativities, where neither atom can provide sufficient energy to completely remove an electron from the other atom. Covalent bonds are more common between non-metals, whereas ionic bonding is more common between two metal atoms or a metal and a non-metal atom.
 >   
 >    
 > Covalent bonding tends to be stronger than other types of bonding, such as ionic bonding. In addition unlike ionic bonding, where ions are held together by a non-directional coulombic attraction, covalent bonds are highly directional. As a result, covalently bonded molecules tend to form in a relatively small number of characteristic shapes, exhibiting specific bonding angles.
 > 
 
-
-
 ## Possible problems
-
-
 
 Tables may cause other difficulties, even when used appropriately. Here are some issues you may want to consider if you use tables in your articles:
 
@@ -365,9 +295,7 @@ Tables may cause other difficulties, even when used appropriately. Here are some
 * If you include fixed-width text inside a table (using the HTML `code`, `pre`, or `tt` elements, for example), it may force the page to be wider than necessary. Whenever possible, avoid using fixed-width text inside tables, so the text can flow naturally. A similar problem can happen if you include images inside tables (since images are usually constrained to be a fixed width).
 * Cells containing a great deal of information may cause rendering problems on some browsers. In particular, a cell containing a large paragraph may jumble the formatting on text-only browsers such as [Lynx](https://en.wikipedia.org/wiki/lynx-web-browser). This is often necessary, depending on what sort of table you're creating, but if at all possible, try to limit the amount of content you place in table cells.
 
-
 ## External links
-
 
 [The Table Sampler](http://wp.netscape.com/assist-net-sites-table-sample.html) - Various useful example tables
 

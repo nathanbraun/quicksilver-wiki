@@ -68,7 +68,7 @@ Europe did not establish a central banking system until the Knights Templar in t
 
 
 The first of the military orders, the Knights Templar or Poor Knights of Christ were founded in 1118 in the aftermath of the First Crusade to help the new Kingdom of Jerusalem maintain itself against its defeated Muslim neighbors, and to ensure the safety of the large numbers of European pilgrims that flowed towards Jerusalem after its conquest.
-[![Templarius.jpg](/web/20060725222927im_/http://www.metaweb.com/wiki/upload/b/b6/Templarius.jpg)](templarius-jpg)  
+[![Templarius.jpg](/images/Templarius.jpg)](templarius-jpg)  
 
 **Seal of the Knights  
 The two riders have been  
@@ -127,7 +127,7 @@ For information about banknotes of particular countries or supranational entitie
 ### [Sveriges Riksbank](/)
 
 
-[![front](/web/20060725222927im_/http://www.metaweb.com/wiki/upload/1/19/Swedish_1krona_2001_front.jpg)](front)  
+[![front](/images/Swedish_1krona_2001_front.jpg)](front)  
 **The Swedish Krona (2001)  
 The text on the coin reads:  
 Carl XVI Gustaf, Sveriges Konung  

@@ -20,7 +20,7 @@ From the Quicksilver Metaweb.
 ### [Wikipedia: Thomas Newcomen](https://en.wikipedia.org/wiki/thomas-newcomen)
 
 
-![Newcomen6325.png](/https://web.archive.org/web/20060725223735im_/http://en.wikipedia.org/upload/3/31/Newcomen6325.png)  
+![Newcomen6325.png](/https://web.archive.org/images/Newcomen6325.png)  
 **Newcomen Steam Engine Diagram  
 Thomas Newcomen's atmospheric engine,  
 today referred to as a Newcomen steam  

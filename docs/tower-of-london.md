@@ -7,7 +7,7 @@ From the Quicksilver Metaweb.
 ### Stephensonia
 
 
-[![Sketch of the Tower complex (probably about late 16th century)](/web/20060725165418im_/http://www.metaweb.com/wiki/upload/9/97/TowerofLondontolsketc-PublicDomain.jpg)](sketch-of-the-tower-complex-probably-about-late-16th-century)
+[![Sketch of the Tower complex (probably about late 16th century)](/images/TowerofLondontolsketc-PublicDomain.jpg)](sketch-of-the-tower-complex-probably-about-late-16th-century)
 *First person we see in the Tower was [Henry Oldenburg](/henry-oldenburg). Though it seems many have a ramble or two through it...* 
 
 ### Authored entries

@@ -5,19 +5,15 @@ From the Quicksilver Metaweb.
 
 This is a page for **Wootz steel**.
 
-
 #### Authored entries
-
 
 * [Stephenson:Neal:Quicksilver:18:...a specimen of white phosphorus... (Alan Sinder)](/stephenson-neal-quicksilver-18-a-specimen-of-white-phosphorus-alan-sinder)
 * [Stephenson:Neal:Quicksilver:391:Watered steel-blade (Neal Stephenson)](/stephenson-neal-quicksilver-391-watered-steel-blade-neal-stephenson)
 * [Stephenson:Neal:The Confusion:582:Theatrum Chemicum (Alan Sinder)](/stephenson-neal-the-confusion-582-theatrum-chemicum-alan-sinder)
 
-
 #### Community entry
 
-
-[![Wootz egg.jpg](/web/20060726003331im_/http://www.metaweb.com/wiki/upload/c/ce/Wootz_egg.jpg)](wootz-egg-jpg)  
+  
 **An Ingot of Wootz Steel**
 
 Wootz is a steel alloy making technique, discovered in India around 300 AD (although some say as early as 200 BCE). Wootz is an anglicised version of ukku, the word for steel in many south Indian languages.
@@ -28,13 +24,10 @@ Wootz steel was widely exported thoughout the region, and became particularly fa
 
 #### Related entries
 
-
 * [History of iron and steelmaking](/history-of-iron-and-steelmaking)
 * [Damascus steel](/damascus-steel)
 * [Samurai](/samurai)
 
-
 #### External links
-
 
 * [Wikipedia: Wootz Steel](https://en.wikipedia.org/wiki/wootz-steel)

@@ -6,11 +6,9 @@ From the Quicksilver Metaweb.
 This is a page for **mechanics**
 ### Stephensonia
 
-
 *The snooty Harvard Dons called [Daniel Waterhouse](/daniel-waterhouse) a doctor of cranks.*
 
 ### Mechanics
-
 
 Expanded from Wikipedia 
 
@@ -18,18 +16,15 @@ Mechanics (Latin mechanicus, from the Greek *mechanikos*, "one skilled in machin
 
 ### Disciplines of Mechanics
 
-
 ### Acoustic theory
-
 
 **Acoustic theory** is the field relating to mathematical description of sound waves. It is derived from fluid dynamics.
 The propagation of sound waves in air can be modeled by an equation of motion and an equation of continuity. With some simplifications, they can be given as follows:
- ![\rho_0 \frac{\partial}{\partial t} \mathbf{v}(\mathbf{x}, t) + \nabla p(\mathbf{x}, t) = 0](/web/20060725222820im_/http://www.metaweb.com/wiki/upload/math/6e03aa801419a5dd33a7730a810c3687.png)
- ![\frac{\partial}{\partial t} p(\mathbf{x}, t) + \rho_0 c^2 \nabla \cdot \mathbf{v}(\mathbf{x}, t) = 0](/web/20060725222820im_/http://www.metaweb.com/wiki/upload/math/bc681ea941d775a29f1af017efb7eb92.png)
-where ![p(\mathbf{x}, t)](/web/20060725222820im_/http://www.metaweb.com/wiki/upload/math/db8a8a39a49f02630d4c5072d5836329.png) is the acoustic pressure and ![\mathbf{v}(\mathbf{x}, t)](/web/20060725222820im_/http://www.metaweb.com/wiki/upload/math/4c47855d96a18aaa8bc1de7bccde235f.png) is the acoustic fluid velocity vector, ![\mathbf{x}](/web/20060725222820im_/http://www.metaweb.com/wiki/upload/math/3c66d9170d4c3fb75456e1a9fc6ead37.png) is the vector of spatial coordinates *x*,*y*,*z*, *t* is the time, ρ0 is the static density of air and *c* is the speed of sound in air.
+ 
+ 
+where  is the acoustic pressure and  is the acoustic fluid velocity vector,  is the vector of spatial coordinates *x*,*y*,*z*, *t* is the time, ρ0 is the static density of air and *c* is the speed of sound in air.
 
 ### Biomechanics
-
 
 **Biomechanics** is the study of the mechanics and other physical aspects of living organisms and their parts. Biomechanics studies the forces that act on limbs, the aerodynamics of bird and insect flight, the hydrodynamics of swimming in fish and locomotion in general across all forms of life, from individual cells to whole organisms.
 
@@ -39,7 +34,6 @@ Tensional integrity of biological forms: new research into the strength of biolo
 
 ### Continuum mechanics
 
-
 **Continuum mechanics** is a branch of physics that deals with solids and fluids (i.e., liquids and gases). Continuum mechanics makes the assumption that these materials are continuous: the fact that matter is made of atoms is ignored. Therefore, physical quantities, such as space, time, energy, and momentum can be handled in the infinitesimal limit. Differential equations are thus the mathematical tool of choice for continuum mechanics. These differential equations are often derived from fundamental physical laws, such as conservation of mass or conservation of momentum. 
 
 The physical laws of solids and fluids should not depend on the coordinate system of the differential equations. Continuum mechanics thus uses tensors, which are mathematical objects that are independent of coordinate system. These tensors can be expressed in coordinate systems, for computational convenience. See tensor analysis for more information. 
@@ -48,16 +42,13 @@ There are two main branches of continuum mechanics:
 * Elasticity, which deals with the physics of solids.
 * Fluid dynamics, which deals with the physics of fluids.
 
-
 The boundary between these two branches is blurry, because elasticity handles materials with viscosity. 
 
 ### Fluid mechanics
 
-
 **Fluid dynamics** (also called fluid mechanics) is the study of fluids, that is liquids and gases. The solution of a fluid dynamic problem normally involves calculating for various properties of the fluid, such as [velocity](/velocity), pressure, density, and temperature, as functions of space and time.
 
 ### Lie group symmetries
-
 
 n mathematics, a Lie group (pronounced "lee", named after Sophus Lie) is an analytic real or complex manifold that is also a group such that the group operations multiplication and inversion are analytic maps. Lie groups are important in mathematical analysis, physics and geometry because they serve to describe the symmetry of analytical structures. They were introduced by Sophus Lie in 1870 in order to study symmetries of differential equations. 
 
@@ -67,14 +58,11 @@ In [mathematics](/mathematics), the **orthogonal group** of degree *n* over a **
 
 ### Mechatronics
 
-
 **Mechatronics** is the synergistic combination of mechanical engineering ("mecha" for mechanisms) , electronic engineering ("tronics" from electronics ), and software engineering. The purpose of this interdisciplinary engineering field is the study of automata from an engineering perspective and serves the purposes of controlling advanced hybrid-systems such as production systems, synergy-drives, planetary-rovers, automotive subsystems such as anti-block system, gyroscopic spin-assist and every day equipment such as autofocus cameras, video, hard disks, cd-players, washing machines, lego-matics etc. 
 
 It is centred on mechanics, electronics and computing which, combined, make possible the generation of simpler, more economical, reliable and versatile systems. The word "mechatronics" was first coined by a senior engineer of a Japanese company, Yaskawa[[1]](/http-www-yaskawa-co-jp-en-index-htm), in 1969.
 
 ### [Newtonian physics](https://en.wikipedia.org/wiki/newtonian-physics) & [Classical Mechanics](https://en.wikipedia.org/wiki/classical-mechanics)
-
-
 
 **Classical mechanics** is the physics of forces, acting upon bodies. It is often referred to as **"Newtonian mechanics"** after Newton and his [laws of motion](/principia-mathematica). Classical mechanics is subdivided into statics (which deals with objects in equilibrium) and dynamics (which deals with objects in motion). 
 
@@ -83,7 +71,6 @@ Classical mechanics produces very accurate results within the domain of everyday
 Although classical mechanics is roughly compatible with other "classical" theories such as classical electrodynamics and thermodynamics, there are inconsistencies that were discovered in the late 19th century that can only be resolved by more modern physics. In particular, classical nonrelativistic electrodynamics predicts that the speed of light is a constant relative to an aether medium, a prediction that is difficult to reconcile with classical mechanics and which led to the development of special relativity. When combined with classical thermodynamics, classical mechanics leads to the Gibbs paradox in which entropy is not a well-defined quantity and to the ultraviolet catastrophe in which a blackbody is predicted to emit infinite amounts of energy. The effort at resolving these problems led to the development of quantum mechanics. 
 
 ### Quantum Mechanics
-
 
 **Quantum mechanics** describes the instantaneous state of a system with a wave function that encodes the probability distribution of all measurable properties, or observables . Possible observables for a system include energy, [position](/position), momentum , and angular momentum . Quantum mechanics does not assign definite values to the observables, instead making predictions about their probability distributions. The wavelike properties of matter are explained by the interference of wave functions. 
 
@@ -99,7 +86,6 @@ One of the consequences of wavefunction collapse is that certain pairs of observ
 
 ### Strength of materials
 
-
 Strength of materials is the scientific area of applied mechanics for the study of the strength of engineerig materials and their mechanical behaviour in general (such as stress, deformation, strain and stress-strain relations). Strength is considered in terms of compressive strength, tensile strength, and shear strength, namely the limit states of compressive stress, tensile stress and shear stress respectively. 
 
 **[Materials Science](https://en.wikipedia.org/wiki/materials-science)** seems to be the US version of this field of study. It includes those parts of chemistry, physics, geology, and even biology that deal with the physical properties of materials. It is usually considered an applied science, in which the properties under study have some industrial purpose. 
@@ -114,11 +100,9 @@ Materials science is related to materials engineering, which tends to focus on p
 ```
 ### Statistical mechanics
 
-
 Statistical mechanics is the application of statistics, which includes mathematical tools for dealing with large populations, to the field of Mechanics, which is concerned with the motion of particles or objects when subjected to a force. It provides a framework for relating the microscopic properties of individual atoms and molecules to the macroscopic or bulk properties of materials that can be observed in every day life, therefore explaining thermodynamics as a natural result of statistics and mechanics (classical and quantum). In particular, it can be used to calculate the thermodynamic properties of bulk materials from the spectroscopic data of individual molecules.
 
 ### Theory of relativity
-
 
 E=MC2
 [Albert Einstein](/albert-einstein)'s **theory of relativity** is a set of two theories in [physics](/physics): **special relativity** and **general relativity**. The core idea of both theories is that two observers who move relative to each other will often measure different 'time' and 'space' intervals for the same events, but the content of physical law will be the same for both. 
@@ -128,6 +112,5 @@ E=MC2
 **General relativity** was published by Einstein in 1916 (submitted November 25 1915). It uses the mathematics of differential geometry and tensors in order to describe gravity. The laws of general relativity are the same for all observers, even if they are accelerated with respect to each other. General relativity is a geometrical theory which postulates that the presence of mass and energy "curves" space, and this curvature affects the path of free particles (and even the path of light), an effect we interpret as a gravitational force. The theory can be used to build models of the evolution of the universe and is hence a crucial tool in cosmology.
 
 ## External link
-
 
 * [Relativity explained](http://www.muppetlabs.com/breadbox-txt-al.html)

@@ -7,17 +7,13 @@ This page is for a certain type of Libertarian and Liberal POV
 
 ### Stephensonia
 
-
 A cheeky poke at Extropians - a community of right-wing techno libertarians.
 
 ### Authored entries
 
-
 * TBA
 
-
 ### Eutropians
-
 
 Several of [Randy Waterhouse](/randy-waterhouse)'s and Avi's friends and associates are Eutropians, who wear bracelets bearing information on the necessary protocols to prep their bodies for [cryonic suspension](/cryonic-suspension) in the event of their death. In this, these characters are fictional analogs to the real world's [Extropians](/extropians) and other [transhumanists](/transhumanists), who tend to maintain [cryonics contracts](/cryonics-contracts), wear such bracelets, are involved in [crypto-hacker](/crypto-hacker) and [libertarian](/libertarian) causes and projects, and are generally nerds of the dwarf or elvish variety who enjoy cool technology, be it [cryptosystems](/cryptosystems), [high-energy weaponry](/reason), [van Eck phreaking](/van-eck-phreaking), [guns](/ultima-ratio-regum), [private space development](/private-space-development), among other things. 
 
@@ -30,7 +26,7 @@ They believe that the humanists abandoned the Enlightenment approval of scientif
 **Extropianism**, also referred to as **extropy**, is an evolving framework of values and standards for continuously improving the human condition. Extropianism describes a pragmatic consilience of [transhuman](/) thought guided by a conscious, pro-active, self-directed approach to human evolution and progress. 
 
 Originated by a set of principles developed by Dr. [Max More](/): *[The Principles of Extropy](http://www.extropy.org/principles.htm)*, extropianism stems from the transhuman tradition of [F.M. Esfandiary](/) and as conceptualized by More, places strong emphasis on rational thinking and practical [optimism](/). According to More, these principles "do not specify particular beliefs, technologies, or policies". Extropians share an optimistic view of the [future](/), expecting considerable advances in computational power, [life extension](/), [nanotechnology](/) and the like. Many extropians foresee the eventual realization of unlimited [maximum life spans](/), and the recovery, thanks to future advances in biomedical technology, of those whose bodies/brains have been preserved by means of [cryonics](/).
-[![PD from Wikipedia](/web/20060725171650im_/http://www.metaweb.com/wiki/upload/b/b2/783px-We_Can_Rebuild_Him.jpg)](pd-from-wikipedia)  
+  
 **[Imtech (Implantable technology)](/).  
 "Part infographic/part editorial illustration for Sync Magazine on our first steps into an inevitable  
 Transhumanist future. 'Imtech' (Implantable technology) will replace a variety of traditional medical methods  
@@ -40,11 +36,9 @@ While the tone of the article is light and humorous, the reality of these emergi
 and how they will impact our daily lives is not."**
 ### [Wikipedia: Extropianism](/)
 
-
 *Extropy*, coined by Tom Bell (T. O. Morrow) in January [1988](/), is defined as the extent of a living or organizational system's [intelligence](/), functional order, vitality, [energy](/), [life](/), [experience](/), and capacity and drive for improvement and growth. *Extropy* expresses a [metaphor](/), rather than serving as a technical term, and so is not simply the opposite of [entropy](/). 
 
 ### The Extropy Institute
-
 
 In [1987](/), Max More moved to Los Angeles from [Oxford University](/) in England, where he had established the first European cryonics organization, known as Mizar Limited (later Alcor UK), to work on his Ph.D. in philosophy at the [University of Southern California](/).
 
@@ -55,7 +49,6 @@ The Extropy Institute's email list was launched in 1991, and in 1992 the institu
 The Internet soon became the most fertile breeding ground for people interested in exploring transhumanist ideas, with the availability of websites for such organizations that have joined the Extropy Institute in developing and advocating transhumanist (and related) ideas. These include the [World Transhumanist Association](/), the [Alcor Life Extension Foundation](/), the [Life Extension Foundation](/), [Foresight Institute](/), [Transhumanist Arts & Culture](/), the [Immortality Institute](/), [Betterhumans](/), [Aleph](/) in Sweden, [TransVision](/) in Europe, the [Singularity Institute for Artificial Intelligence](/), and the [Institute for Ethics and Emerging Technologies](/).
 
 ### External Links
-
 
 * [Extropy Institute](http://www.extropy.org)
 * [World Transhumanist Association](http://www.transhumanism.org)

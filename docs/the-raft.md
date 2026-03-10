@@ -6,19 +6,15 @@ From the Quicksilver Metaweb.
 The [Snow Crash](/snow-crash) page for the **Raft** AKA the **USS ENTERPRISE**
 ### Stephensonia
 
-
 *something appropriate, either that news footage of L Bob on the Enterprise with all the falabalas, or from Hiro's infiltration sequence.*
 
 ### Authored Entries
 
-
 * [Stephenson:Neal:Snow Crash:506:the nam-shub of Enki(Alan Sinder)](/stephenson-neal-snow-crash-506-the-nam-shub-of-enki-alan-sinder)
-
 
 ### The Raft
 
-
-[![300px|All-nuclear formation: Enterprise, Long Beach (CGN-9), and Bainbridge (CGN-25).](/web/20060725223313im_/http://www.metaweb.com/wiki/upload/8/84/300px-TaskForce_One.jpg)](300px-all-nuclear-formation-enterprise-long-beach-cgn-9-and-bainbridge-cgn-25)  
+  
 *Enterprise*, *[Long Beach](/)* and *[Bainbridge](/)*  
  in formation in the [Mediterranean](/), [18 June](/) [1964](/).   
 *Enterprise* crewmembers are spelling out   
@@ -32,15 +28,11 @@ The Raft appears to have been some sort of inspiration for the "Smokers" culture
 
 ### Criticism of The Raft Concept
 
-
 The idea that a fleet of vessels could drift around the ocean, tied together, without damage, is regarded as physically improbable because of the [Casimir Effect](/), which occurs when two objects are close to each other in a plenum awash in wave energy. When two ships are steaming along astride each other at a close distance of 40 meters or less, they create a slightly calm area of lower wave energy density between them because they block waves from either side and destructively interfere with those entering the space from bow and stern. This causes the ships to drift together, possibly with enough force to cause serious damage, even crushing of hulls if wave energy is high enough, such as that of a major open-ocean storm.
 
 While the Casimir Effect itself is considred a quantum mechanical vacuum force, its nautical analog in the realm of ocean waves is well explained by Professor John D. Barrow in [this lecture](http://www.gresham.ac.uk/event-asp-pageid-4-eventid-258) he gave at [Gresham College](/gresham-college) (rather synchronic, isn't it?), entitled "Much Ado About Nothing". This effect has been [documented](http://www.its.caltech.edu/nano-papers-buks-nature-sep2002.pdf) since at least 1836, in P. C. Caussee's L'Album du Marin (The Album of the Mariner). Caussee reported a mysteriously strong attractive force that can arise between two ships floating side by side -- a force that can lead to disastrous consequences. A physical explanation for this force was offered only recently by Boersma (1996), who suggested that it originates in the radiation pressure of water waves acting differently on the opposite sides of the ships. His argument goes as follows: the spectrum of possible wave modes around the two ships forms a continuum (any arbitrary wave-vector is allowed); but between the vessels their opposing sides impose boundary conditions on the wave modes, restricting the allowed values of the component of the wave-vector that is normal to the ships' surfaces. This discreteness created in the spectrum of wave modes results in a local redistribution of modes in the region between the ships, with the consequence that there is a smaller radiation pressure between the ships than outside them.
 
 ### [USS Enterprise](/)
-
-
-
 
 |  |
 | --- |
@@ -63,8 +55,6 @@ While the Casimir Effect itself is considred a quantum mechanical vacuum force, 
 | Aircraft: | 85:(One squadron of [F-14s](/);Three of [F/A-18s](/);Four [EA-6Bs](/);Four [E-2Cs](/); Six [S-3s](/);Two Shadows;Eight [SH-3s](/) or[SH-60s](/)) |
 | Nickname: | *Big E / Mobile Chernobyl / Three-Quarter Mile Island* |
 | Motto(s): | *Ready on Arrival;The First, the Finest; Eight Reactors, None Faster* |
-
-
 
 The eighth **USS *Enterprise* (CVN-65)** was the world's first nuclear [supercarrier](/), powered by eight [A2W reactors](/). Like [her predecessor](/), she is nicknamed the "Big E". She remains the longest aircraft carrier in the world today.
 
@@ -96,13 +86,11 @@ See [USS *Enterprise*](/) for other ships of the same name.
 
 ### Trivia
 
-
 The Enterprise was supposed to appear in the film [Star Trek IV](/), but it was out to sea at the time of filming. Instead, the carrier [USS *Ranger* CV-61](/) played the part of the Enterprise.
 
 ### Military Surplus
 
-
-[![300px|Aircraft carrier for sale](/web/20060725223313im_/http://www.metaweb.com/wiki/upload/6/6a/Aircraft_carrier_bow.jpg)](300px-aircraft-carrier-for-sale)  
+  
 **Aircraft Carrier FOR SALE!!!**  
 This aircraft carrier, originally British, sold to Brazil in 1960,  
 was sold to private owners in 2002 but is [again available](http://www.shiplink.info/contents1-asp-refno-1761)  
@@ -118,30 +106,22 @@ Currently, the 902 ft. Soviet aircraft carrier 'Minsk', part of a theme park in 
 
 ### Refugee Sealifts
 
-
 * [Operation Peter Pan](/) -From [Dec. 26](/), 1960 through [Oct 22](/), 1962, 14,048 unaccompanied children were send by their parents to the United States. The children were between the ages of 6 and 18 years old. Source [[1]](http://www.nocastro.com/atrocities-opeterpan.htm). In many occacions in the past 45 years, Castro's government have used migration as a leveraging tool to force the United States government to accept some sort of agreement.
-
 
 * The **Mariel Boatlift** was a mass exodus of mentally ill, imprisoned and freedom seeking [refugees](/) from [Cuba](/)'s Mariel Harbour, between [Apr 15](/) until [Oct 31](/), [1980](/), when [Castro](/) eventually closed the harbour to all refugee seeking Cubans. The people who wished to leave the country headed to [Florida](/). The majority of the refugees landed in [Miami](/) upon their arrival in the United States. Approximately 125,000 Cubans arrived in the United States in about 1,700 boats, many of which were unseaworthy. Most of the people came in large waves that overwhelmed the U.S. Coast Guard and many reservists were called to assist the Coast Guard during this time. In terms of casualties a total of 27 migrants died, 14 on an overloaded boat which capsized on [May 17](/), 1980.
 
-
 * Events resulting from the [Vietnam War](/) led many people in [Indochina](/indochina) to become refugees in the late 1970s and 1980s. In [Cambodia](/), the genocidal [Khmer Rouge](/) regime murdered millions, and many attempted to escape. In [Vietnam](/), the new government sent many people who supported the old government in the south to "re-education camps" and others to "new economic zones". These factors, coupled with poverty, caused millions of Vietnamese to flee the country. In 1979, Vietnam was at war with the [People's Republic of China](/china) (PRC), and many [ethnic Chinese](/) living in Vietnam felt that the government's policies directly targetted them also became boat people. In the open seas, the boat people have to confront forces of nature and elude [pirates](/). The plight of the boat people became a humanitarian crisis. The [UNHCR](/), under the auspices of the [United Nations](/united-nations), set up refugee camps in neighboring countries to process them and was awarded the 1981 [Nobel Peace Prize](/) for its work. [Hong Kong](/hong-kong) adopted the "port of first asylum policy", and received the largest among of refugees. Many refugee camps were set up in its territories, and it had exerted financial pressure on the government. Most of these refugees resettled in the United States and Western Europe. By the mid-1990s, the number of refugees fleeing from Vietnam had dwindled down. Many refugee camps were closed down, and asylees voluntarily or forcibly repatriated.
 
-
 * **Yacht people** is a [slang](/slang) term for the wealthy residents of [Hong Kong](/hong-kong) who fled the city in the [1980s](/1980s) and [1990s](/1990s), prior to the city's return to [communist](/communist) [China](/china) in [1997](/1997). The term is a deliberate contrast to the poor "[boat people](/boat-people)" who fled southeast Asia (most notably [Vietnam](/vietnam)) in the [1970s](/1970s). The most popular destination for the yacht people was [Vancouver](/vancouver), [Canada](/canada).
-
 
 Aside from these relatively recent migrations, history is littered with episodes of one government trying to pawn off what it saw as liabilities upon some other country or wild land. These include the transporting of Scottish and Irish farmers as well as English criminals, by British aristocracy to Canada, the US, and Australia.
 
 ### Additional information
 
-
 * Larzelere, Alex. *The 1980 Cuban Boatlift.* (Washington DC: National Defense University Press): 1988.
 * See: The [Camarioca Boatlift](/) of 1965.
 
-
 ## Related Entries
-
 
 * [Bruce Lee](/bruce-lee)
 * [Raven](/raven)
@@ -151,9 +131,7 @@ Aside from these relatively recent migrations, history is littered with episodes
 * [Reason](/reason)
 * [Fisheye](/fisheye)
 
-
 ### External link
-
 
 * [The Casimir Force](http://www.its.caltech.edu/nano-papers-buks-nature-sep2002.pdf)
 * [USS *Enterprise* official website](/http-www-enterprise-navy-mil)

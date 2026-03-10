@@ -44,7 +44,7 @@ First mentioned as the **St. Vitus dance** in 1374. In medieval times, people fr
 The Religious story says (*Nuremberg Chronicles - 1493*); "young people of Saxony were dancing in the churchyard of **St. Magnus**: There were fifteen youths and four maidens and they danced so much and sang so loudly that they disturbed the priest, who was saying mass. He left the chapel and came out to them, asking them to desist; but, heedless of his injunction, they continued their sport. The priest then prayed to God and to St. Magnus to make them dance for a whole year as a punishment. The writer, says that a girl's arm came off in the hand of her partner, but she danced on; that they felt neither rain, nor cold, nor heat, nor hunger, thirst, or fatigue; their shoes and their clothes wore out, but they danced on. They trod down the ground to such an extent that they made a deep hole in it, but they danced on; and only at the end of a year did their release come. 
 The rage became endemic, and in 1374, the number of sufferers from the St. Vitus dance became enormous. In France, it was called "**Danse de St. Guy**," and in Germany, it took the name of "**Veith**," In Lorraine, it was called "**La Danse de St. Jean**." as well as being named others such as Choromania, Tanplage and Dance of St. Modesti. 
 
-![TarantellaMW.jpg](/https://web.archive.org/web/20060725170357im_/http://www.metaweb.com/wiki/upload/5/5b/TarantellaMW.jpg)
+![TarantellaMW.jpg](/https://web.archive.org/images/TarantellaMW.jpg)
 
 ### Ballets and Public Dances
 

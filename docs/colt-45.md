@@ -6,20 +6,15 @@
 This is a page for the **Colt .45 ACP** and **Malabar**
 ### Stephensonia
 
-
 *He reports back to his ship, and is not granted any more shore leave. He does manage to have a conversation with **Uncle Jack**, who pulls up alongside in a small motorboat long enough for them to shout a few sentences back and forth. Uncle Jack is the last of the Manila [Shaftoes](/shaftoe-family), a branch of the family spawned by **Nimrod Shaftoe** of the Tennessee Volunteers. Nimrod took a bullet in his right arm somewhere around Quingua, courtesy of some rebellious Filipino riflemen. Recovering in a Manila hospital, old **Nimrod**, or "Lefty" as he was called by that point, decided that he liked the pluck of these Filipino men, in order to kill whom a whole new class of ridiculously powerful sidearm (the Colt .45) had had to be invented. Not only that, he liked the looks of their women. Promptly discharged from the service, he found that full disability pay would go a long way on the local economy. He set up an export business along the Pasig riverfront, married a half-Spanish woman, and sired a son (Jack) and two daughters. The daughters ended up in the States, back in the Tennessee mountains that have been the ancestral wellspring of all Shaftoes ever since they broke out of the indentured servitude racket back in the 1700s. Jack stayed in Manila and inherited Nimrod's business, but never married. By Manila standards he makes a decent amount of money. He has always been an odd combination of salty waterfront trader and perfumed dandy. He and Mr. Pascual have been in business together forever, which is how [Bobby Shaftoe](/bobby-shaftoe) knows Mr. Pascual, and which is how he originally met Glory.*
 
 ### Authored entries
 
-
 * TBA
-
 
 ### [Wikipedia: M1911 Colt .45 ACP](/)
 
-
-
-[![Article size](/web/20060725172547im_/http://www.metaweb.com/wiki/upload/7/77/MW-M1911art.jpg)](article-size)  
+  
 **M1911 Colt .45 ACP  
 [Near actual size image](/near-actual-size-image)**
 
@@ -45,9 +40,7 @@ The weapon typically uses a variety of 230-grain [full metal jacket](https://en.
 * Height: 5.25"
 * Length: 8.25"
 
-
 ### Moros and .45s
-
 
 ***Amok***, sometimes spelled ***amuck*** and often used as "running amok," is a [Malay word](https://en.wikipedia.org/wiki/malay-language) which in this language means to be out of control. For this reason, there has been an unfair association made between the Malays as a race and susceptibility to uncontrollable anger. An Amok warrior is the equivalent of a Viking ***Beserker***. The Moro Freedom Fighters used religious ritual and body binding to put themselves into an altered state of consciousness prior to battles, and the .38 Long Colt would not adequately stop these highly motivated warriors. Thus Amok warriors were made numb and their leather armor allowed them to withstand the shock of smaller caliber gunshot wounds. This made them feared in the war.
 
@@ -58,7 +51,6 @@ One of the most famous folk story from Java (Indonesia) describe legendary kris 
 Kris are trademark accessories of Javanese aristocrats. Several kris are considered sacred, and people believe they contain magical powers; thus specific rites need to be completed, if they do not want to get its consequences. 
 
 ### Malabar
-
 
 Malabar is a region along the southwest coast of the Indian peninsula, which forms the northern part of present-day Kerala state. The region was a part of the Madras presidency until the Indian state of Kerala was formed in 1956, when this area and the erstwhile Thiru-Kochi (Travancore-Cochin) kingdom were united.
 
@@ -80,15 +72,11 @@ In **Malabar** there were certain professional assassins known to old travellers
 
 ### Related entries
 
-
 * [Douglas MacArthur](/douglas-macarthur) - he had a pair of fancy ones
 * [Bobby Shaftoe](/bobby-shaftoe)
 * [Shaftoe family](/shaftoe-family)
 
-
-
 ### External links
-
 
 * [John Browning](https://en.wikipedia.org/wiki/john-browning)
 * [United States Armed Forces](https://en.wikipedia.org/wiki/united-states-armed-forces)

@@ -6,18 +6,14 @@ From the Quicksilver Metaweb.
 a stub for **lenses**
 ### Stephensonia
 
-
 *It's all about prisms!*
 
 ### Authored entries
 
-
 * [Stephenson:Neal:Quicksilver:86:Ashkenazi (Jeremy Bornstein)](/stephenson-neal-quicksilver-86-ashkenazi-jeremy-bornstein)
 * [Isaac Newton (Alan Sinder)](/isaac-newton-alan-sinder)
 
-
 ### Lens
-
 
 From Wikipedia, the free encyclopedia. 
 
@@ -26,7 +22,6 @@ A lens is a device for either concentrating or diverging light, usually formed f
 In its usual form, a lens consists of a slab of glass or other optically transparent material (such as perspex) with two shaped surfaces of a particular curvature. It is the refractive index of the lens material and the curvature of the two surfaces that give a particular lens its particular properties. A lens works by refracting (bending) the light that passes through it, in a similar manner to a prism.
 
 ### Lens construction
-
 
 ![Lens1.png](/images/Lens1.png)
 
@@ -46,11 +41,11 @@ If the lens is convex-concave, whether it is converging or diverging depends on 
 
 The value of the focal length *f* for a particular lens can be calculated from the *lensmaker's equation*:
 
-![\frac{1}{f} = (n-1) \left\{ \frac{1}{R_1} - \frac{1}{R_2} + \frac{(n-1)d}{n R_1 R_2} \right\}](/web/20060725171118im_/http://www.metaweb.com/wiki/upload/math/0a2dee7db1edc1c81522c67a74363e80.png),
+,
 
 where *n* is the refractive index of the lens material and *d* is the distance along the lens axis between the two surfaces (known as the thickness of the lens). If *d* is small compared to *R*1 and *R*2, then the *thin lens* assumption can be made, and *f* can be estimated as:
 
-![\frac{1}{f} = (n-1)\left\{ \frac{1}{R_1} - \frac{1}{R_2} \right\}](/web/20060725171118im_/http://www.metaweb.com/wiki/upload/math/5a3c51ba35eafdc877e9bbcc88237696.png).
+.
 
 The focal length *f* is positive for converging lenses, negative for diverging lenses, and infinite for meniscus lenses. The value 1/*f* is known as the *power* of the lens, and so meniscus lenses are said to have zero power. Lens power is measured in *dioptres*, which have units of inverse meters (m-1).
 
@@ -58,14 +53,13 @@ Lenses are also reciprocal; i.e. they have the same focal length when light trav
 
 ### Imaging properties
 
-
 As mentioned above, a positive or converging lens will focus a collimated beam travelling along the lens axis to a spot (known as the *focal point*) at a distance *f* from the lens. Conversely, a point source of light placed at the focal point will be converted into a collimated beam by the lens. These two cases are examples of *image* formation in lenses. In the former case, an object at an infinite distance (as represented by a collimated beam of light) is focused to an image at the focal point of the lens. In the later, an object at the focal length distance from the lens is imaged at infinity. The plane perpendicular to the lens axis situated at a distance *f* from the lens is called the *focal plane*.
 
 ![Lens3.png](/images/Lens3.png)
 
 If the distances from the object to the lens and from the lens to the image are *S*1 and *S*2 respectively, for a lens of negligible thickness they are found by the *thin lens formula*:
 
-![\frac{1}{S_1} + \frac{1}{S_2} = \frac{1}{f}](/web/20060725171118im_/http://www.metaweb.com/wiki/upload/math/e722459e187d4505194b80c1f005605d.png).
+![\frac{1}{S_1} + \frac{1}{S_2} = \frac{1}{f}](/images/e722459e187d4505194b80c1f005605d.png).
 
 What this means is that, if an object is placed at a distance *S*1 along the axis in front of a positive lens of focal length *f*, a screen placed at a distance *S*2 behind the lens will have an image of the object projected onto it, as long as *S*1 > *f*. This is the principle behind photography. The image in this case is known as a *real image*.
 
@@ -75,7 +69,7 @@ Note that if *S*1 < *f*, *S*2 becomes negative, and the image is apparently posi
 
 The *magnification* of the lens is given by:
 
-![ M = - \frac{S_2}{S_1} = \frac{f}{f - S_1}](/web/20060725171118im_/http://www.metaweb.com/wiki/upload/math/ed539a301d79f8312a68482a68617e23.png),
+![ M = - \frac{S_2}{S_1} = \frac{f}{f - S_1}](/images/ed539a301d79f8312a68482a68617e23.png),
 
 where *M* is the magnification factor; if |*M*|>1, the image is larger than the object.
 Notice the sign convention here shows that, if *M* is negative, as it is for real images, the image is upside-down with respect to the object. For virtual images, *M* is positive and the image is upright.
@@ -87,7 +81,6 @@ In the special case that *S*1=∞, we have *S*2=*f* and *M*=-*f*/∞=0. This cor
 The formulas above may also be used for negative (diverging) lens by using a negative focal length (*f*), but for these lenses only virtual images can be formed.
 
 ### Aberrations
-
 
 Lenses do not form perfect images, and there is always some degree of distortion or *aberration* introduced by the lens which causes the image to be an imperfect replica of the object. Careful design of the lens system for a particular application ensures that the aberration is minimised. 
 
@@ -108,22 +101,19 @@ Other kinds of aberration include *field curvature*, *barrel* and *pincushion di
 
 ### Multiple lenses
 
-
 Lenses may be combined to form more complex optical systems. The simplest case is when lenses are placed in contact: if the lenses of focal lengths *f*1 and *f*2 are "thin", the combined focal length *F* of the lenses can be calculated from:
 
-![\frac{1}{F} = \frac{1}{f_1} + \frac{1}{f_2}](/web/20060725171118im_/http://www.metaweb.com/wiki/upload/math/f9ed942d36ad359d16ea92b2256a6fdc.png).
+.
 
 Since 1/*f* is the power of a lens, it can be seen that the powers of thin lenses in contact are additive.
 
 ### Uses of lenses
-
 
 One important use of lenses is as a *prosthetic* for the correction of visual impairments such as myopia and farsightedness.
 
 Another use is in imaging systems such as [telescopes](/telescope), [microscopes](/microscope), and cameras.
 
 ### Related entries
-
 
 * [comet](/comet)
 * [telescope](/telescope)
@@ -139,9 +129,7 @@ Another use is in imaging systems such as [telescopes](/telescope), [microscopes
 * [Quantum physics](/quantum-physics)
 * [Baruch de Spinoza](/baruch-de-spinoza)
 
-
 ### External links
-
 
 * [Fresnel lens](https://en.wikipedia.org/wiki/fresnel-lens)
 * [Augustin-Jean Fresnel](https://en.wikipedia.org/wiki/augustin-jean-fresnel) Edgar Allen Poe lookalike who helped in the wave theory of light

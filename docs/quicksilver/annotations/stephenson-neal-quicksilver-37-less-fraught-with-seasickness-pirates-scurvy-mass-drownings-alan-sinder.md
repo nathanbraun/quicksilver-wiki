@@ -26,7 +26,7 @@ Daniel, as an empirical "on the edge" technological research scientist for the R
 
 
 **Motion sickness**, also called **seasickness**, **carsickness**, or **airsickness** depending on what one has been traveling in, is a condition in which the endolymph (the fluid found in the semicircular canals of the [inner ears](https://en.wikipedia.org/wiki/semicircular-canal)) becomes 'stirred up', causing confusion between the difference between apparent perceived movement (none or very little), and actual movement. It can result from lying in the berth of a rolling boat without being able to see the outside. **Nausea** is the most common and unpleasant symptom of motion sickness; in fact, nausea in Greek means seasickness (naus=ship). This sensation of unease and discomfort from the stomach, with the sufferer feeling that he is about to vomit (though he may not actually do so).
-![Ear-anatomy-text-small.png](/https://web.archive.org/web/20060725170823im_/http://en.wikipedia.org/upload/d/d5/Ear-anatomy-text-small.png)  
+![Ear-anatomy-text-small.png](/https://web.archive.org/images/Ear-anatomy-text-small.png)  
 **Diagram of the Inner Ear**
 
 Sudden jerky movements tend to be worse for provoking motion sickness than slower smooth ones, because they disrupt the fluid balance more. A 'corkscrewing' boat will upset more people than one that is gliding smoothly across the oncoming waves, and cars driving rapidly around winding roads or up and down a series of hills. Looking down into your lap to consult a map or attempting to read a book while a passenger in a car is another common cause of motion sickness. 

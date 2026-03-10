@@ -24,7 +24,7 @@ Developed from Wikipedia, the free encyclopedia.
 
 A **Schooner** is a type of sailing ship. Schooners were first used by the Dutch[[1]](https://en.wikipedia.org/wiki/dutch) in the 16th or 17th century, and further developed in North America from the time of the American Revolution[[2]](https://en.wikipedia.org/wiki/american-revolution).
 
-![Smallschooner.jpg](/https://web.archive.org/web/20060725170412im_/http://en.wikipedia.org/upload/8/8e/Smallschooner.jpg)  
+![Smallschooner.jpg](/https://web.archive.org/images/Smallschooner.jpg)  
 
 *Two-masted fishing schooner*
 
@@ -56,7 +56,7 @@ Modern sailing ships are largely used as pleasure vessels, for example small yac
 
 **Rigging** (Anglo-Saxon wrigan or wrihan, to clothe), the general term, in connexion with ships, for the whole apparatus of spars (including both masts and yards), sails and cordage, by which the force of the wind is utilized to move the hull against the resistance, and with the support, of the water. 
 
-![Rigging5.png](/https://web.archive.org/web/20060725170412im_/http://en.wikipedia.org/upload/0/08/Rigging5.png)  
+![Rigging5.png](/https://web.archive.org/images/Rigging5.png)  
 Schooner rigging 1, bowsprit, with martingale to the stem; 2,  
 fore-topmast-stay, jib and stay-foresail;3, fore-gaff-topsail; 4,  
  foresail and mainstays; 5, main-gaff-topsail;  

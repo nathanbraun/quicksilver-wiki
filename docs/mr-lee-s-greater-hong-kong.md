@@ -5,8 +5,7 @@ From the Quicksilver Metaweb.
 
 ### Stephensonia
 
-
-*Above her, hanging on the foyer wall facing the main entrance, is a framed poster with a garland of well-browned jasmine blossoms hung around it. It consists of a photo of the wildly grinning Mr. Lee, with the usual statement underneath:*[![Mister Lee](/web/20060725223139im_/http://www.metaweb.com/wiki/upload/c/cc/Tailian_lee.jpg)](mister-lee)  
+*Above her, hanging on the foyer wall facing the main entrance, is a framed poster with a garland of well-browned jasmine blossoms hung around it. It consists of a photo of the wildly grinning Mr. Lee, with the usual statement underneath:*  
 **The Honorable  
 Mister Lee**
 
@@ -32,9 +31,7 @@ Join us instantly!
 Your enterprising partner,
 Mr. Lee
 
-
 ### The Grand-daddy of All [FOQNEs](/foqne)
-
 
 We now know why the Chinese People's Revolutionary Army was looking so desperately for [Yamamoto](/yamamoto-isoroku)'s gold at the end of [Cryptonomicon](/cryptonomicon): they needed it to help destabilize the US dollar in preparation for an invasion of Taiwan. Putting the gold in the hands of some crypto-anarchists was nearly as good, so when [The Great Simoleon Caper](/the-great-simoleon-caper) resulted in the tanking of the [Federal Reserve Note](/) in 2004-2006, the US military was broke, unable to even buy oil for their ships, and unable to come to Taiwan's aid when the Red Army crossed the straits and took over Taiwan. It was a rice-cake-walk.
 

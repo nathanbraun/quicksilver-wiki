@@ -7,18 +7,14 @@ A [Cryptonomicon](/cryptonomicon) spanning page for the good **Reverend Dodson**
 
 ### Stephensonia
 
-
 *One of the classics in good annotation is **The Annotated Alice** which are both of the Alice books with references and smart notation. If an entry for [Mark Twain](/mark-twain) exists, one for Lewis Carroll should as well. If that fails think ciphers ...*
 ### Authored entries
 
-
 * TBA
-
 
 ### [Wikipedia: Lewis Carroll](/)
 
-
-[![Assisted Self taken Photo](/web/20060725221822im_/http://www.metaweb.com/wiki/upload/f/fb/LewisCarrollSelfPhoto.jpg)](assisted-self-taken-photo)  
+  
 **Charles Lutwidge Dodgson  
 AKA Lewis Carroll  
 Photo taken by Lewis Carroll  
@@ -31,7 +27,6 @@ His most famous writings are *[Alice's Adventures in Wonderland](/)* and its seq
 His facility at [word play](/), [logic](/), and [fantasy](/) has delighted audiences ranging from the most naïve to the most sophisticated. His works have remained popular since they were published and have influenced not only [children's literature](/), but also a number of major 20th century writers such as [James Joyce](/) and [Jorge Luis Borges](/).
 
 ### Upbringing
-
 
 Dodgson's family was predominantly northern [English](/), with some [Irish](/) connections. Conservative and High Church [Anglican](/), most of Dodgson's ancestors belonged the two traditional English upper-middle class professions: the army and the [Church](/). His great-grandfather, also Charles Dodgson, had risen through the ranks of the church to become a [bishop](/); his grandfather, another Charles, had been an [army](/) [captain](/), killed in action in [1803](/) while his two sons were hardly more than babies.
 
@@ -49,7 +44,6 @@ The nature of this nocturnal 'annoyance' will probably never now be fully unders
 
 ### Academics
 
-
 He left Rugby at the end of [1850](/) and, after an interval which remains unexplained, went on in January [1851](/) to [Oxford](/): to his father's old college, [Christ Church](/). He had only been at Oxford two days when he received a summons home. His mother had died of "inflammation of the brain"—perhaps [meningitis](/) or a stroke—at the age of forty-seven.
 
 Whatever Dodgson's feelings may have been about this death, he did not allow them to distract him too much from his purpose at Oxford. He may not always have worked hard, but he was exceptionally gifted and achievement came easily to him. The following year he received a first in Honour Moderations, and shortly after he was nominated to a Studentship (the Christ Church equivalent of a fellowship), by his father's old friend Canon [Edward Pusey](/).
@@ -58,8 +52,7 @@ His early academic career veered between high-octane promise and irresistible di
 
 ### Photography
 
-
-[![Photo of Alice Liddell by Lewis Carroll](/web/20060725221822im_/http://www.metaweb.com/wiki/upload/8/8b/Alice_Liddell.jpg)](photo-of-alice-liddell-by-lewis-carroll)  
+  
 **Alice Liddell as photographed  
 by Lewis Carroll in 1859**In [1856](/), Dodgson took up the new art form of [photography](/). He excelled at it and it became an expression of his very personal inner philosophy; a belief in the divinity of what he called [beauty](/), by which he seemed to mean a state of moral or aesthetic or physical perfection. He found this divine beauty not simply in the magic of theatre, but in the poetry of words, in a mathematical formula; and perhaps supremely, in the human form; in the body-images that moved him.
 
@@ -70,7 +63,6 @@ His favorite subjects for photography were portraits of famous persons, such as 
 Dodgson's practice of photographing or sketching nude girls has led to speculation that he was a [paedophile](/), see below.
 
 ### Character
-
 
 The young adult Charles Dodgson was about six foot tall, slender and handsome in a soft-focused dreamy sort of way, with curling brown hair and blue eyes. At the unusually late age of seventeen he suffered a severe attack of [whooping cough](/) which left him with poor hearing in his right ear and was probably responsible for his chronically weak chest in later life, but the only overt defect he carried into adulthood was what he referred to as his "hesitation"—a [stammer](/) he had acquired in early childhood and which was to plague him throughout his entire life. 
 
@@ -85,7 +77,6 @@ There are brief hints at a soaring sense of the spiritual and the divine; small 
 He was also quite socially ambitious, anxious to make his mark on the world in some way, as a writer, as an artist. His scholastic career was only a stop-gap to other more exciting attainments that he desired.
 
 ### Writing career
-
 
 During his academic career, Carroll wrote [poetry](/) and [short stories](/), sending them to various magazines and already enjoying moderate success. Between [1854](/) and [1856](/), his work appeared in the national publications, *The Comic Times* and The Train, as well as smaller magazines like the *[Whitby Gazette](/)* and the *Oxford Critic*.
 
@@ -102,7 +93,6 @@ With the immediate, phenomenal success of Alice, the story of the author's life 
 It is undisputed that throughout his growing wealth and fame, he continued to teach at Christ Church until [1881](/), and that he remained in residence there until his death. He published *Through the Looking-Glass and what Alice Found There* in [1872](/); his great Joycean mock-epic *The Hunting of the Snark*, in [1876](/), and his last novel, the two-volume *[Sylvie and Bruno](/)*, in [1889](/) and [1893](/) respectively. He also published many mathematical papers under his own name, courted scandal through his associations with women, toured [Russia](/) and [Europe](/) on an extended visit (in [1867](/)) and bought a house in [Guildford](/), where he died suddenly of violent [pneumonia](/) on January 14, 1898, leaving mystery and enigma behind him.
 
 ### Allegations of paedophilia
-
 
 Dodgsons undeniable fondness for children — and especially his photographs of nude or semi-nude girls, and his sketchbooks featuring his own drawings of nude or seminude girls — have led to speculation that he was a [paedophile](/). 
 
@@ -122,13 +112,11 @@ The only recorded instance of trouble associated with the nudes of children was 
 
 ### Jack the Ripper theories
 
-
 In [1996](/) author [Richard Wallace](/) published a book titled *[Jack the Ripper, Light-Hearted Friend](/)* accusing Lewis Carroll and his colleague [Thomas Vere Bayne](/) of being [Jack the Ripper](/). It was largely based upon [anagrams](/) Wallace constructed from Carroll's writing. Carroll and Bayne have strong alibis for most of the nights of the Ripper murders, and Wallace's theory has not found support from other scholars. For more information, see the *[Jack the Ripper, Light-Hearted Friend](/)* article.
 
 Carroll did show some interest in the Jack the Ripper case, however; this is hardly unusual, given the profound publicity surrounding the crimes. A passage in his [diary](/) dated [August 26](/), [1891](/), reports that he spoke that day with an acquaintance of his about his "very ingenious theory about 'Jack the Ripper'". No other information about this theory has been found.
 
 ### References
-
 
 * *In the Shadow of the Dreamchild* by Karoline Leach.
 * [Looking for Lewis Carroll](http://www.lookingforlewiscarroll.com) website, based upon work of Leach and others.
@@ -137,9 +125,7 @@ Carroll did show some interest in the Jack the Ripper case, however; this is har
 * *The Raven and the Writing Desk* by Francis Huxley, 1976 ([ISBN 0060121130](/)).
 * *Inventing Wonderland* by Jackie Wullschläger, ([ISBN 0743228928](/)) — also looks at [Edward Lear](/) (of the "nonsense" verses), [J. M. Barrie](/) (*[Peter Pan](/)*), [Kenneth Grahame](/) (*[The Wind in the Willows](/)*), and [A. A. Milne](/) (*[Winnie the Pooh](/)*).
 
-
 ### External links
-
 
 * [Charles Lutwidge Dodgson in WikiQuote](http://en.wikiquote.org/wiki-lewis-carroll)
 * [The Lewis Carroll Home Page](http://www.lewiscarroll.org/carroll.html)
@@ -148,9 +134,7 @@ Carroll did show some interest in the Jack the Ripper case, however; this is har
 * [The Lewis Carroll Society](http://lewiscarrollsociety.org/uk)
 * [Lewis Carroll](http://greatsfandf.com/authors-lewiscarroll-shtml): an introduction to his fiction
 
-
 #### Electronic texts
-
 
 Freely downloadable e-texts from [Project Gutenberg](/):
 * [*Alice's Adventures in Wonderland*](http://www.gutenberg.org/etext-11)

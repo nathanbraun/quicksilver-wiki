@@ -23,7 +23,7 @@ This is a page for **Kinakuta**.
 
 
 In the *current* time of [Cryptonomicon](/cryptonomicon) our protagonists know the Sultanate as Kinakuta. In the era of the Baroque Cycle, it was known as [Queena-Kootah](/stephenson-neal-the-confusion-queena-kootah). It's a small island found between the northernmost point of Borneo & the skinny Philippine island known as Palawan.
-[![Indo.png](/web/20060725223655im_/http://www.metaweb.com/wiki/upload/d/dd/Indo.png)](indo-png)  
+[![Indo.png](/images/Indo.png)](indo-png)  
 
 Map of Kinakuta's geographic region
 

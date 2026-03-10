@@ -6,7 +6,6 @@
 This is a [Cryptonomicon](/cryptonomicon) page for **Rudolf von Hacklheber**
 ### Stephensonia
 
-
 *There's no doubt who became the third wheel here -- I think the name comes from the SJSU professor and author Rudy Rucker...  
 
       It got Lawrence to thinking. From an evolution standpoint, what was the point of having people around who were not inclined to have offspring? There must be some good, and fairly subtle, reason for it.  
@@ -29,7 +28,6 @@ This is a [Cryptonomicon](/cryptonomicon) page for **Rudolf von Hacklheber**
 
 ### Authored entries
 
-
 * [Stephenson:Neal:Cryptonomicon:14:Russell and another chap named Whitehead wrote Principia Mathematica.(Alan Sinder)](/stephenson-neal-cryptonomicon-14-russell-and-another-chap-named-whitehead-wrote-principia-mathematica-alan-sinder)
 * [Stephenson:Neal:Cryptonomicon:17:I tried to ask him my sprocket question ...(Alan Sinder)](/stephenson-neal-cryptonomicon-17-i-tried-to-ask-him-my-sprocket-question-alan-sinder)
 * [Stephenson:Neal:Cryptonomicon:459:hammered gold...like a computer card(Electricinca)](/stephenson-neal-cryptonomicon-459-hammered-gold-like-a-computer-card-electricinca)
@@ -37,9 +35,7 @@ This is a [Cryptonomicon](/cryptonomicon) page for **Rudolf von Hacklheber**
 * [Stephenson:Neal:Cryptonomicon:566:Lavender Rose(Alan Sinder)](/stephenson-neal-cryptonomicon-566-lavender-rose-alan-sinder)
 * [Stephenson:Neal:Quicksilver:316:the first few terms of a series (jere7my tho?rpe)](/stephenson-neal-quicksilver-316-the-first-few-terms-of-a-series-jere7my-tho-rpe)
 
-
 ### Rudolf von Hacklheber
-
 
 Rudy is first introduced on page 13 as the third cyclist joining [Lawrence](/lawrence-waterhouse) and [Alan](/alan-turing) on their outing to the **Pine Barrens**. Lawrence astutely concludes that "Alan's penis scheme must have finally found a taker" with Rudy. The discussion with Rudy introduces a lot of connected ideas very quickly:
 * [Principia Mathematica](/principia-mathematica), both [Newton](/isaac-newton)'s and [Russell](/russell) and Whitehead's
@@ -48,20 +44,15 @@ Rudy is first introduced on page 13 as the third cyclist joining [Lawrence](/law
 * Leibniz' interest in the [I Ching](/i-ching), which connects to [Eliza](/eliza-de-la-zeur)
 * [Riemann](/georg-riemann), Euler, [Gödel](/gödel), [Einstein](/albert-einstein) and [Euclid](/euclid).
 
-
 Alan and Rudy bickeringly explain a number of deep concepts to Lawrence to help "pull him onto the train". One of the concepts is Leibniz's formula for calculating π:
-
-![\pi = 4 \sum_{n=0}^\infty \frac{(-1)^n}{2n+1}](/web/20060726010320im_/http://www.metaweb.com/wiki/upload/math/0b9bf51a05dff80f0bec33e9487fe786.png)
 
 Which would connect implicitly to Archimedes who had achieved the first theoretical (rather than measured) means of approximating π. Now Archimedes lived in Siracusa which is where the Fount of [Arethusa](/arethusa) is located. Arethusa is Rudy's cipher based on the Riemann Zeta Function which would seem to connect back to Leibniz's formula in this way:
 
-![\pi = \sqrt{6\zeta(2)}](/web/20060726010320im_/http://www.metaweb.com/wiki/upload/math/04eea41102e395276b19ae0fcb33a3e9.png)
 (from [[planetmath](http://planetmath.org/encyclopedia-pi.html)])
 
 This is a formula to find π by determining the value of the Riemann Zeta function at s = 2. So Arethusa connects the ancient world of greek mathematics with Rudy's most advanced cryptosystem which will soon baffle Alan and Lawrence.
 
 ### [Wikipedia:Franz Kafka excerpt](https://en.wikipedia.org/wiki/kafka)
-
 
 Franz Kafka (July 3, 1883 - June 3, 1924), was a novelist who was born and lived in Prague, Bohemia, which was then part of the Austro-Hungarian Empire. He is by English speakers generally considered neither a Czech author, since he wrote exclusively in German, nor a German author since he spent almost his entire life in Bohemia.
 
@@ -71,22 +62,17 @@ The von Hacklhebers show up in [The Baroque Cycle](/stephenson-neal-baroque-cycl
 
 ### Related entries
 
-
 * [Zeta function](/zeta-function)
 
-
 ### External Links
-
 
 * From [MathWorld](http://mathworld.wolfram.com):
 	+ [Leibniz Series](http://mathworld.wolfram.com/leibnizseries.html)
 	+ [Riemann Zeta Function](http://mathworld.wolfram.com/riemannzetafunction.html)
 
-
 * From [PlanetMath](http://planetmath.org):
 	+ [Pi](http://planetmath.org/encyclopedia-pi.html)
 	+ [Riemann Zeta Function](http://planetmath.org/encyclopedia-riemannzetafunction.html)
-
 
 * From the [On-Line Encyclopedia of Integer Sequences](http://www.research.att.com/njas-sequences-seis.html):
 	+ [Sequence derrived from the Leibniz Series](http://www.research.att.com/cgi-bin-access-cgi-as-njas-sequences-eisa-cgi-anum-a072172)

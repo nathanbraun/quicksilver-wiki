@@ -6,34 +6,28 @@ From the Quicksilver Metaweb.
 This is a page for the **British East Indies Company**
 ### Stephensonia
 
-
 *[Louis XIV](/louis-xiv) wanted his Indian enterprise to fail to punish those who had no faith in him...*
 
 ### Authored entries
 
-
 * TBA (see [Eliza de la Zeur](/eliza-de-la-zeur))
-
 
 ### Wikipedia: British East Indies Company
 
-
 The **British East India Company**, originally two very similarly named companies, and popularly known as John Company, founded by the Royal Charter of Queen [Elizabeth I](/elizabeth-i) on December 31, 1600, became one of the most powerful commercial enterprises in its time. 
 
-The original company, The Governor and Company of Merchants of London Trading into the East Indies, merged in 1702 with The English Company Trading to the East Indies (which had been formed in 1698), to become The United Company of Merchants of England Trading to the East Indies.[![250px-Gb heic.png](/web/20060725172557im_/http://www.metaweb.com/wiki/upload/7/77/250px-Gb_heic.png)](250px-gb-heic-png)  
+The original company, The Governor and Company of Merchants of London Trading into the East Indies, merged in 1702 with The English Company Trading to the East Indies (which had been formed in 1698), to become The United Company of Merchants of England Trading to the East Indies.  
 
 *Flag of the British East India Company*  
 [Larger Flag Image](http://en.wikipedia.org/upload-8-82-gb-heic.png)
 
 ### Impact
 
-
 Based in Leadenhall Street, London, its influence reached out to all continents: it presided over the creation of British India, founded Hong Kong and Singapore, employed Captain Kidd to combat piracy, established the cultivation of tea in India, held Napoleon captive on St Helena, and made the fortune of Elihu Yale, and its products were the subject of the [Boston Tea Party](https://en.wikipedia.org/wiki/boston-tea-party). 
 
 Its flag possibly inspired the [Stars and Stripes](https://en.wikipedia.org/wiki/flag-of-the-united-states) ([as argued by Sir Charles Fawcett in 1937](http://www.crwflags.com/fotw-flags-gb.html)), its shipyards provided the model for St. Petersburg, elements of its administration survive in Indian bureaucracy, and its corporate structure was the most successful early example of a joint stock company. But the demands of Company officers on the treasury of Bengal contributed tragically to the province's incapacity in the face of a famine which killed millions (1770). 
 
 ### History
-
 
 The Company was founded by a coterie of enterprising and influential businessmen, who obtained the Crown's charter for exclusive permissions to trade in the East Indies. Initially, however, it made little impression on the Dutch control of the spice trade and could not establish a lasting outpost in the East Indies in the early years. Ships belonging to the company arrived in India, docking at Surat in 1608, and established a trade transit point and a factory. In 1615, Sir Thomas Roe represented the British interests at the court of the Mughal emperor Jahangir, who ruled over nearly 70% of the subcontinent and obtained his permission for exclusive trade in Surat. The company managed to eclipse the Portuguese, who had established their bases in Bombay (which was later acceeded to the British as dowry of Catherine de Braganza) and Goa. It managed to create strongholds in Surat, Bombay (1668), Madras (1639) and Calcutta. By 1647, the Company had 23 factories and 90 employees in India. The major factories became the walled forts of Fort William in Bengal, Fort St George in Madras and the Bombay Castle. In 1717, the company was also waived of its custom duty for trading in Bengal by the Mughal emperor. The company's mainstay businesses were by now, in cotton, silk, indigo, saltpeter and tea, all the while making inroads into the Dutch monopoly of the spice trade in the Malaccan straits. In 1711, the Company established a trading post in Canton (Guangzhou), in China to trade tea for silver. 
 
@@ -53,7 +47,6 @@ The company was dissolved in 1858.
 
 ### [Wikipedia: Warren Hastings](/)
 
-
 Warren Hastings (December 6, 1732 - August 22, 1818) was the first governor-general of British India, from 1773 to 1786. He was famously impeached in the 1787 for corruption, and acquitted in 1795.
 
 Warren Hastings was born 6th December 1732 at Churchill, Oxfordshire. He attended Westminster School before joining the British East India Company in 1750 as a clerk. In 1757 he was made the British Resident (administrative in charge) of Murshidabad. He was appointed to the Calcutta council in 1761 then went back to England in 1764. He returned to India in 1769 as a member of the Madras council and was made governor of Bengal in 1772. In 1773, he was appointed the first Governor-General of India.
@@ -70,14 +63,11 @@ The city of Hastings, New Zealand is named after him.
 
 ### Related entries
 
-
 * [Louis XIV](/louis-xiv)
 * [Eliza de la Zeur](/eliza-de-la-zeur)
 * [Elizabeth I](/elizabeth-i)
 
-
 ### External links
-
 
 * [Company rule in India](https://en.wikipedia.org/wiki/company-rule-in-india) (part of the [History of South Asia](https://en.wikipedia.org/wiki/history-of-south-asia) series)
 * [Imperialism in Asia](https://en.wikipedia.org/wiki/imperialism-in-asia) (part of the [New Imperialism](https://en.wikipedia.org/wiki/new-imperialism) series)

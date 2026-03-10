@@ -6,24 +6,18 @@ From the Quicksilver Metaweb.
 This is a placeholder for **mass**
 ### Disambiguation
 
-
 This is not the prayers and rubrics of the Roman Mass, used by their priests at the altar. The Mass, as the principal worship service of the Roman Catholic Church, has acquired through its long history several names, like Eucharist, Agape, the Lord's Supper, and Holy Communion.
 
 ### Stephensonia
-
 
 *Nell learns about mass and momentum from the Primer*
 
 ### Authored entries
 
-
 * [Heinlein:Robert:Have Space Suit Will Travel:40:Almost halfway to the Moon, I'd say (Neal Stephenson)](/heinlein-robert-have-space-suit-will-travel-40-almost-halfway-to-the-moon-i-d-say-neal-stephenson)
 * [Hooke's Law (Professorbikeybike)](/hooke-s-law-professorbikeybike)
 
-
-
 ### Community entry: Mass
-
 
 Mass is a property of physical objects which, roughly speaking, measure the amount of matter contained in an object. It is a central concept of classical mechanics and related subjects. In the SI system of measurement, mass is measured in kilograms. 
 
@@ -31,9 +25,7 @@ Strictly speaking, mass refers to two quantities:
 
 * Inertial mass is a measure of an object's inertia, which is its resistance to changing its state of motion when a force is applied. An object with small inertial mass changes its motion more readily, and an object with large inertial mass does so less readily.
 
-
 * Gravitational mass is a measure of the strength of an object's interaction with the gravitational force. Within the same gravitational field, an object with a smaller gravitational mass experiences a smaller force than an object with a larger gravitational mass. (This quantity is sometimes confused with weight.)
-
 
 Inertial and gravitational mass have been experimentally shown to be equivalent, as accurately as we can measure, although they are conceptually quite distinct. Below, we will discuss the definitions and implications of each of these two quantities. 
 
@@ -55,7 +47,7 @@ Newton's third law states that the two forces are equal and opposite, i.e.
 
 When substituted into the above equations, this yields the mass of B as
 
-![m_B = {a_A \over a_B} m_A](/web/20060725171126im_/http://www.metaweb.com/wiki/upload/math/17605a26a00a41cc1ff4bd91c5c98d81.png).
+.
 
 Thus, measuring **a**A and **a**B allows us to determine *mA* in terms of *mB*, as desired. Note that our above requirement, that **a**B be non-zero, allows this equation to be well-defined.
 
@@ -64,10 +56,9 @@ In the above discussion, we assumed that the masses of A and B are constant. Thi
 Newton's third law states that the two forces are equal and opposite, i.e. 
 ### Gravitational Mass
 
-
 Consider two objects A and B with gravitational masses *MA* and *MB*, at a distance of |**r**AB| apart. [Newton's law of gravitation](https://en.wikipedia.org/wiki/newton-s-law-of-universal-gravitation) states that the magnitude of the gravitational force which each object exerts on the other is
 
-![|F| = {G M_A M_B \over |r_{AB}|}](/web/20060725171126im_/http://www.metaweb.com/wiki/upload/math/47a3152bcb856293e27bfe92943291ab.png)
+![|F| = {G M_A M_B \over |r_{AB}|}](/images/47a3152bcb856293e27bfe92943291ab.png)
 
 where *G* is the universal [gravitational constant](https://en.wikipedia.org/wiki/gravitational-constant). The above statement may be reformulated in the following way: given the acceleration **g** of a reference mass in a gravitational field (such as the gravitational field of the Earth), the gravitational force on an object with gravitational mass *M* has magnitude
 
@@ -77,41 +68,29 @@ This is the basis by which masses are determined by [weighing](https://en.wikipe
 
 ### Equivalence of Inertial and Gravitational Masses
 
-
 Experiments have found inertial and gravitational mass to be equal, to a high level of precision. These experiments are essentially tests of the well-known phenomenon, first observed by [Galileo](/galileo-galilei), that objects fall at a rate irrespective of their masses (in the absence of factors such as [friction](https://en.wikipedia.org/wiki/friction).) Suppose we have an object with inertial and gravitational masses *m* and *M* respectively. If gravity is the only force acting on the object, the combination of Newton's second law and gravitational law gives its acceleration **a** as
-
-![a = {M \over m}g](/web/20060725171126im_/http://www.metaweb.com/wiki/upload/math/1cd3d4c34901b69ddc59d7a86c664a74.png)
 
 Therefore, all objects in the same gravitational field fall at the same rate [if and only if](https://en.wikipedia.org/wiki/iff) the ratio of gravitational and inertial mass is always equal to some fixed constant. We may as well take this ratio to be 1, by definition.
 
 ### Consequences of Relativity
 
-
 In the [relativity special theory of relativity](https://en.wikipedia.org/wiki/special), "mass" refers to the inertial mass of an object as measured in the [frame of reference](https://en.wikipedia.org/wiki/frame-of-reference) in which it is at rest (which is known as its "[rest frame](https://en.wikipedia.org/wiki/rest-frame)".) The above method for determining inertial masses remains valid, provided we ensure that the speed of the object is always much smaller than the [speed of light](https://en.wikipedia.org/wiki/speed-of-light), so that classical mechanics is valid.
-
 
 Historically, the term "mass" was used for the quantity *E*/*c*². This was called the "relativistic mass", and *m* called the "[rest mass](https://en.wikipedia.org/wiki/rest-mass)". This terminology is now discouraged by physicists, because there is no need for two terms for the energy of a particle, and because it creates confusion when speaking of "massless" particles. In this article, we will always mean the *rest mass* whenever we refer to "mass". For more details, see the Usenet Relativity FAQ in the External Links.
 
-
 In relativistic mechanics, the mass of a free particle is related to its [energy](https://en.wikipedia.org/wiki/energy) and [momentum](https://en.wikipedia.org/wiki/momentum)] by the following equation:
 
-![{E^2 \over c^2} = m^2 c^2 + p^2](/web/20060725171126im_/http://www.metaweb.com/wiki/upload/math/eefcc62ab56abc80a2533fd3c64003f8.png).
+.
 
 This equation can be rearranged in the following way:
 
-![E = mc^2 \sqrt{1 + ({p \over mc})^2}](/web/20060725171126im_/http://www.metaweb.com/wiki/upload/math/9ec41ee858fe519447271d8cf6b3399d.png)
-
 The classical limit corresponds to the situation in which the momentum *p* is much smaller than *mc*, in which case we can [series Taylor expand](https://en.wikipedia.org/wiki/taylor) the square root, resulting in
-
-![E = mc^2 + {p^2 \over 2m} + ...](/web/20060725171126im_/http://www.metaweb.com/wiki/upload/math/6a9d8dba060929188897d876c261fea8.png)
 
 The leading term, which is the largest, is the *rest energy* of the particle. Provided the mass is non-zero, a particle always has this minimum amount of energy regardless of its momentum. The rest energy is normally inaccessible, but it can be tapped by splitting or combining particles, as is done during [nuclear fusion](https://en.wikipedia.org/wiki/nuclear-fusion) and [fission](https://en.wikipedia.org/wiki/nuclear-fission). The second term is simply the classical [kinetic energy](/kinetic-energy), which can be demonstrated by using the classical definition of momentum 
 
 *p* = *m**v*
 
 and substituting it into the above to give:
-
-![E = mc^2 + {mv^2 \over 2} + ...](/web/20060725171126im_/http://www.metaweb.com/wiki/upload/math/d82f46f7a8428c9a74fc79a27702f006.png)
 
 The relativistic energy-mass-momentum relation can also account for particles that are *massless*, which is an ill-defined concept in classical mechanics. When *m = 0*, the relation can be simplified to
 
@@ -122,7 +101,6 @@ where *p* is the relativistic momentum.
 This equation governs the mechanics of massless particles such as [photon](https://en.wikipedia.org/wiki/photon)s, the particles of [light](https://en.wikipedia.org/wiki/light).
 
 ### Related entries
-
 
 * [Heinlein:Robert:Have Space Suit Will Travel](/heinlein-robert-have-space-suit-will-travel)
 * [Isaac Newton](/isaac-newton)
@@ -139,8 +117,6 @@ This equation governs the mechanics of massless particles such as [photon](https
 * [Escape velocity](/escape-velocity)
 * [Squared](/squared)
 
-
 ### External links
-
 
 * [http://en2.wikipedia.org/wiki/mass](https://en.wikipedia.org/wiki/mass)

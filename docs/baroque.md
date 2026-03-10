@@ -6,22 +6,15 @@ From the Quicksilver Metaweb.
 Baroque ramblings upon the concept **Baroque**
 ### Stephensonia
 
-
 *A definitive statement of what Baroque signifies in painting is provided by the series of paintings executed by Peter Paul Rubens for Marie de Medici at the Luxembourg Palace in Paris (now at the Louvre) [[1]](http://www.students.sbc.edu/vandergriff04-mariedemedici.html), in which a Catholic painter satisfied a Catholic patron: Baroque-era conceptions of monarchy, Baroque iconography, Baroque handling of paint, and Baroque compositions and depiction of space.*
-
 
 ---
 
-
-
-[![Mariecouncil.jpg](/web/20060725171955im_/http://www.metaweb.com/wiki/upload/6/63/Mariecouncil.jpg)](mariecouncil-jpg)  
+  
 **The Council of the Gods — 1622-1625**  
 **One of the least understood of the paintings that make up the cycle. It is meant to represent the conduct of the Queen and the great care with which she oversees her Kingdom during her Regency. Thus, how she overcomes the rebellions and the disorders of the State. However, it is difficult to make out the subject matter of the work, as the scene is packed with a variety of mythological figures. These include Apollo and [Pallas](/athena), who combat and overcome vices such as Discord, Hate, Fury, and Envy on the ground and Neptune, Pluto, Saturn, [Hermes](/hermes), Pan, Flora, Hebe, Pomono, Venus, Mars, Zeus, Hera, Cupid, and Diana above.**
 
-
-
 ---
-
 
 *In the end, Rubens accomplished quite an amazing feat. He completed a total of twenty-four enormous paintings in only three short years. He, unfortunately, did not look back on the experience as a positive one.
 
@@ -31,25 +24,19 @@ Marie de' Medici, however, was overjoyed at the final product. But then again, w
 
 * *Then there are those who confuse the author's POV with that of a character's.*
 
-
 ### Authored entries
-
 
 * [Stephenson:Neal:Quicksilver:v:Baroque Cycle (Neal Stephenson)](/stephenson-neal-quicksilver-v-baroque-cycle-neal-stephenson)
 * [Stephenson:Neal:Quicksilver:36:According to what scheme? (Alan Sinder)](/stephenson-neal-quicksilver-36-according-to-what-scheme-alan-sinder)
 * [Stephenson:Neal:Quicksilver:36:It is the product of five primes. (Gary Thompson)](/stephenson-neal-quicksilver-36-it-is-the-product-of-five-primes-gary-thompson)
 
-
 ### Jorge Luis Borges' Definition of Baroque: (Njihia Mbitiru)
-
 
 The following definition is taken from the 1954 edition of [Jorge Luis Borges](https://en.wikipedia.org/wiki/jorge-luis-borges)' short fiction volume '*Ficciones*':
 
 "I would define the baroque as that style that deliberately exhausts (or tries to exhaust) its own possibilities, and that borders on self-caricature. In vain did [Andrew Lang](https://en.wikipedia.org/wiki/andrew-lang) attempt [...] to imitate [Alexander Pope](https://en.wikipedia.org/wiki/alexander-pope)'s *[Odyssey](https://en.wikipedia.org/wiki/odyssey)*; it was already a parody, and so defeat the parodist's attempt to exaggerate its tautness. "*Baroco*" was a term used for one of the modes of [syllogistic reasoning](https://en.wikipedia.org/wiki/term-logic-syllogistic-maxims); the Eighteenth century applied it to certain abuses in Seventeenth century architecture and painting. I would venture to say that the baroque is the final stage in all art, where art flaunts and squanders its resources. The baroque is intellectual, and [George Bernhard Shaw](https://en.wikipedia.org/wiki/george-bernard-shaw) has said that all intellectual labor is inherently humorous. This humor is intentional in the works of [Baltasar Gracian](http://www.truthseeker.com/truth-seeker-1993archive-120-5-ts205e.html) but intentional (as, it can be said, is also the case in *Quicksilver* ), even indulged (again, a [Quicksilver](/stephenson-neal-quicksilver) trope), in the works of [John Donne](https://en.wikipedia.org/wiki/john-donne)."
 
-
 ### Community Entry: Baroque
-
 
 Borges' is a marvellous and useful definition. One is reminded of Borges as cited by [Michel Foucault](https://en.wikipedia.org/wiki/michel-foucault) - a figure who could be called a Baroque revivalist in many ways.
 
@@ -74,18 +61,15 @@ It doesn't take much to extend the idea of "customer" to today's [free trade](ht
 
 ### Applying Baroque to Science
 
-
 The word "Baroque", like most period or stylistic designations, was invented by later critics rather than practitioners of the arts in the 17th and early 18th centuries. It is a French translation of the Italian word "Barocco"; some authors believe it comes from the Portuguese "Barroco" (irregular pearl, or false jewel - notably, an ancient similar word, "Barlocco" or "Brillocco", is used in Roman dialect for the same meaning), or from a now obsolete Italian "Baroco" (that in logical *Scholastica* was used to indicate a syllogism with weak content). A common definition, before the term Barocco was used, called this genre simply the style of **The Flying Forms**. 
 
 The term "Baroque" was initially used with a derogatory meaning, to underline the excess of its emphasis, of its redundancy, its noisy abundance of details, as opposed to the clearer and sober rationality of the century of Enlightenment. It was finally rehabilitated in 1888 by the German art historian Heinrich Woelfflin (1864-1945), who identified Baroque as antithetic to Renaissance and as a different kind of art (thus, not a "non-art"). 
 
 #### The *Art*
 
-
 But [Enoch](/enoch-root) refers to Empirism as the Art. He's grown past Alchemy as he tells young [Ben](/ben-franklin) that “T‘was all rubbish” agreeing with [Godfrey](/godfrey-waterhouse). Something's up.
 
 ### Baroque literature and philosophy
-
 
 Baroque actually expressed new values, that often are summarised in the use of metaphor and allegory, which widely invaded Baroque literature, and in the research for the "maraviglia" (wonder, astonishment - as in Marinism), the use of artifices. If Mannerism was a first breach with Renaissance, Baroque was directly an opposed language and represented the evidence of the crisis of Renaissance neoclassical schemes. The psychological pain of Man, disbanded after the Copernican and the Lutheran revolutions, in search of solid anchors, in search of a proof of an ultimate human power, was in Baroque art as well as in its architecture. A relevant part of works was made on religious themes, since the Roman Church was the main "customer". 
 
@@ -97,10 +81,7 @@ In English literature, the metaphysical poets represent a closely related moveme
 
 ### Meaning
 
-
-
 #### WordNet
-
 
 Pronunciation: bu'rowk, Matching Terms: baroqueness
 WordNet Dictionary Definition: 
@@ -111,18 +92,15 @@ Also: artistic style, idiom
 
 #### Webster's 1913 Dictionary
 
-
 \Ba*roque"\, a. [F.; cf. It. barocco.] (Arch.): In bad taste; grotesque; odd.
 
 \Ba*roque"\, a. — Irregular in form; -- said esp. of a pearl.
 
 #### Computing Dictionary
 
-
 An early logic programming language written by Boyer and Moore in 1972. ["Computational Logic: Structure Sharing and Proof of program Properties", J. Moore, DCL Memo 67, U Edinburgh 1974].
 
 #### Jargon File
-
 
 Feature-encrusted; complex; gaudy; verging on excessive. Said of hardware or (especially) software designs, this has many of the connotations of elephantine or monstrosity but is less extreme and not pejorative in itself. "Metafont even has features to introduce random variations to its letterform output. Now *that* is baroque!" See also rococo - *Baroque* in the extreme. Used to imply that a program has become so encrusted with the software equivalent of gold leaf and curlicues that they have completely swamped the underlying design. Called after the later and more extreme forms of Baroque architecture and decoration prevalent during the mid-1700s in Europe. Alan Perlis said: "Every program eventually becomes rococo, and then rubble." 
 
@@ -130,38 +108,18 @@ Compare with *[critical mass](http://www.hyperdictionary.com/dictionary-critical
 
 #### Thesaurus Terms
 
-
 Related Terms: arabesque, bizarre, brain-born, busy, chichi, deformed, dream-built, elaborate, elegant, embellished, extravagant, fanciful, fancy, fancy-born, fancy-built, fancy-woven, fantasque, fantastic, fine, flamboyant, florid, flowery, freak, freakish, frilly, fussy, gilt, Gothic, grotesque, high-wrought, labored, luscious, luxuriant, luxurious, maggoty, malformed, misbegotten, misshapen, monstrous, moresque, notional, ornamented, ornate, ostentatious, outlandish, overelaborate, overelegant, overlabored, overworked, overwrought, picturesque, preposterous, pretty-pretty, rich, rococo, scrolled, teratogenic, teratoid, whimsical, wild.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 [John Milton](https://en.wikipedia.org/wiki/john-milton)'s *[Paradise Lost](https://en.wikipedia.org/wiki/paradise-lost)* is an excellent example of Baroque poetry.
 
 #### Examples of typical Baroque Music
-
 
 * Johann Sebastian Bach, ( The Art of the Fugue, 1685 to 1750)
 * Antonio Vivaldi, ( L'Estro Armonico, 1678 to 1741)
 * Domenico Scarlatti, (Sonatas for Cembalo or Harpsichord 1685 to 1757)
 * George Frideric Handel (Water Music Suite for Orchestra 1685 to1759)
 
-
 ### Reference Material
-
 
 * Roger Avermaete, Rubens and his times. Cranbury, New Jersey: A.S. Barnes and Company, 1968.
 * Frans Baudouin, Pietro Pauolo Rubens. New York: Harry N. Abrams, Inc., 1977.
@@ -169,9 +127,7 @@ Related Terms: arabesque, bizarre, brain-born, busy, chichi, deformed, dream-bui
 * Jacques Thuillier, Rubens' Life of Marie de' Medici. New York: Harry N. Abrams, Inc., 1967.
 * Christopher White, Rubens and his world. London: Thames and Hudson, 1968.
 
-
 ### Related entries
-
 
 * [Treaties terminating wars](/treaties-terminating-wars) - Ruebens
 * [Roman Catholic Church](/christianity)
@@ -208,10 +164,7 @@ Related Terms: arabesque, bizarre, brain-born, busy, chichi, deformed, dream-bui
 * [Talk:Neoclassical philosophy](/talk-neoclassical-philosophy)
 * [Talk:Vienna, Austria](/talk-vienna-austria)
 
-
 ### External Links
-
-
 
 * [Jorge Luis Borges](https://en.wikipedia.org/wiki/jorge-luis-borges)
 * [Andrew Lang](https://en.wikipedia.org/wiki/andrew-lang)
@@ -253,9 +206,7 @@ Related Terms: arabesque, bizarre, brain-born, busy, chichi, deformed, dream-bui
 * [Islamic revolution](http://recyclopedia.info/wiki-wiki-phtml-title-islamic-revolution)
 * [Green ethic](http://recyclopedia.info/wiki-wiki-phtml-title-green-ethic)
 
-
 ### References
-
 
 * [ISBN 0-670-84970-7](/) [Jorge Luis Borges](http://www.amazon.com/exec-obidos-search-handle-url-index-books-field-author-borges-jorge-luis-104-8931055-5532701) (trans. [Andrew Hurley](http://www.amazon.com/exec-obidos-search-handle-url-index-books-field-author-hurley-andrew-104-8931055-5532701)); *[Collected Fictions](http://www.amazon.com/exec-obidos-tg-detail-0670849707-qid-1080978555-sr-11-1-ref-sr-11-1-104-8931055-5532701-v-glance-s-books)*; Viking Penguin (1st Edition, Hardcover, 1998)
 * [Jargon File Entry: Baroque](http://catb.org/esr-jargon-html-b-baroque.html)

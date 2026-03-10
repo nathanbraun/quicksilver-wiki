@@ -8,11 +8,9 @@ This is an intermediate page for
 
 ### Stephensonia
 
-
 *[Daniel](/stephenson-neal-quicksilver-daniel-waterhouse) is very surprised by the unexpected appearance of [Enoch Root](/stephenson-neal-quicksilver-enoch-root) on the doorstep of the [Massachusetts Bay Colony Institute of Technologickal Arts](/massachusetts-bay-colony-institute-of-technologickal-arts) on October 12, 1713.*
 
 ### Authored entries
-
 
 * [Stephenson:Neal:Quicksilver:3:...dollop of hills... (Neal Stephenson)](/stephenson-neal-quicksilver-3-dollop-of-hills-neal-stephenson)
 * [Stephenson:Neal:Quicksilver:5:...seen more than one city burn... (Alan Sinder)](/stephenson-neal-quicksilver-5-seen-more-than-one-city-burn-alan-sinder)
@@ -23,11 +21,9 @@ This is an intermediate page for
 * [Stephenson:Neal:Quicksilver:166:Teach (Neal Stephenson)](/stephenson-neal-quicksilver-166-teach-neal-stephenson)
 * [Heinlein:Robert:Have Space Suit Will Travel:23:Heat Production of Human Body (Neal Stephenson)](/heinlein-robert-have-space-suit-will-travel-23-heat-production-of-human-body-neal-stephenson) - the Talk page
 
-
 ### Community entry: Boston's History as cherrypicked from Wikipedia
 
-
-[![Boston and Charlestown in the 18th Century](/web/20060725171841im_/http://www.metaweb.com/wiki/upload/4/47/MW-Boston1800.jpg)](boston-and-charlestown-in-the-18th-century)  
+  
   
 **Boston and Charlestown in the 18th Century  
 Map seem to possess details from [Sir Robert Dudley](/sir-robert-dudley)'s cartographic efforts  
@@ -48,7 +44,6 @@ The [Boston Latin School](/boston-latin-school), the nations oldest, was founded
 Fire has been a part of the Old State House's history from the beginning. A blaze in 1711 destroyed the meeting house that once stood on the site, also burned a third of the town. It revolutionized the Old State House, which was constructed in 1713 to replace one destroyed by flames, was itself damaged by fires in 1748, 1832 and 1921. On March 20, 1760 the "Great Fire" of Boston destroyed 349 buildings. Later fires would not be be seen via the Puritan interpretation of fires as messages from an angry God. *Enoch notes the signs the 1711 fire left on the remaining older buildings ...* 
 
 ## Revolution Forward
-
 
 Boston played a key role in the American Revolutionary War. The Boston Massacre, the Boston Tea Party, the [Battle of Bunker Hill](/bunker-hill-monument) and several of the early battles of the revolutionary war (such as the Battle of Lexington and Concord) occurred near the city. During this period, Paul Revere made his famous ride, as well as [one previous](/fort-william-and-mary) that is less noted, but perhaps just as important. 
 
@@ -80,7 +75,6 @@ Boston enjoys an intense rivalry with New York City, New York. This rivalry is c
 
 ### Related entries
 
-
 * [Massachusetts Bay Colony Institute of Technologickal Arts](/massachusetts-bay-colony-institute-of-technologickal-arts)
 * [Massachusetts Bay Colony](/massachusetts-bay-colony)
 * [Enoch Root](/stephenson-neal-quicksilver-enoch-root)
@@ -100,9 +94,7 @@ Boston enjoys an intense rivalry with New York City, New York. This rivalry is c
 * [The Tools of Hewing; Axes](/the-tools-of-hewing-axes)
 * [Leathergoods - historical](/leathergoods-historical)
 
-
 #### External links
-
 
 * [Massachusetts Institute of Technology (MIT)](https://en.wikipedia.org/wiki/massachusetts-institute-of-technology) Seems Enoch can prognosticate with the best.
 * [City's official website](http://www.cityofboston.gov)

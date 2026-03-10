@@ -7,11 +7,9 @@ This is an intermediate page for **Gabriel Goto** - one of ***the cabal of ten**
 
 ### Stephensonia
 
-
 *Here's to confusion. Clearly the **Gotos** of **Goto Engineering** are fictional, but life is indeed odd.*
 
 ### Authored entries
-
 
 * [Stephenson:Neal:Cryptonomicon:1:Shanghai(Alan Sinder)](/stephenson-neal-cryptonomicon-1-shanghai-alan-sinder)
 * [Stephenson:Neal:Cryptonomicon:30:the real Philippines. Randy pays no attention to it(Alan Sinder)](/stephenson-neal-cryptonomicon-30-the-real-philippines-randy-pays-no-attention-to-it-alan-sinder)
@@ -23,9 +21,7 @@ This is an intermediate page for **Gabriel Goto** - one of ***the cabal of ten**
 * [Talk:Stephenson:Neal:Quicksilver:96:YOU AND I ARE BUT EARTH (Gary Thompson)](/talk-stephenson-neal-quicksilver-96-you-and-i-are-but-earth-gary-thompson)
 * [Stephenson:Neal:The Confusion:32:St. Lemuel (Alan Sinder)](/stephenson-neal-the-confusion-32-st-lemuel-alan-sinder)
 
-
 ### Gabriel Goto
-
 
 ![SagarifujiwaraMW.jpg](/images/SagarifujiwaraMW.jpg)  
 
@@ -39,27 +35,22 @@ Shemini Atzeret - the eighth day of Sukkot - שמיני עצרת
 [Simhat Torah](https://en.wikipedia.org/wiki/simhat-torah) - the finale of Sukkot - שמחת תורה
 Curious how [Christianity](/christianity) loses and then regains the fictional Goto clan. Wonder what other instititutions go for the **[long view](/stephenson-neal-quicksilver-20-most-disorderly-alan-sinder)**. Further ponder: the "real life" Goto family crest pictures an inedible orange-green citrus fruit native to Japan and visibly similar to the *etrog*.
 
-[![----- spear page break -----](/web/20060725172200im_/http://www.metaweb.com/wiki/upload/8/8b/Warspear.png)](spear-page-break)  
+  
 
 ### *Christian Japanese Samurai*
-
 
 [Akira Goto](http://www.mms.net.com/samurai-index-e.html) writes of his samurai spearman ancestor [Matabei Mototsugu Goto](http://www.mms.net.com/samurai-matabei-e.html) and speculates if he was a secret [Christian](http://www.mms.net.com/samurai-josui-e.html).
 
   
-[![----- spear page break -----](/web/20060725172200im_/http://www.metaweb.com/wiki/upload/8/8b/Warspear.png)](spear-page-break)  
-
+  
 
 ### [Judaism](/judaism) and [Shinto](https://en.wikipedia.org/wiki/shinto)
-
 
 ![JinmuMW.jpg](/images/JinmuMW.jpg)  
 **Samurai**
 [Many of the traditional ceremonies in Japan](/http-www5-ocn-ne-jp-magi9-isracame-htm) seem to indicate that the Lost Tribes of Israel came to ancient Japan. There's a bit of a mystery here. Even [PBS](http://www.pbs.org/wgbh-nova-israel-losttribes3-html-japan)'s NOVA has visited this idea. Some Japanese suspect the **Ark of the Covenant** is hidden in the Mount Aso area.  There are those who claim that the Mikado, the Japanese emperor, is a descendant of the Hebrew tribe of Gad. 'Mikado' recalls the Hebrew word for 'his majesty the king,' 'Malchuto'. 
 
-
 ### Related entries
-
 
 * [samurai](/samurai)
 * [Azuchi-Momoyama\_period](/azuchi-momoyama-period), the early modern period of Japanese history
@@ -79,9 +70,7 @@ Curious how [Christianity](/christianity) loses and then regains the fictional G
 * [Zimmermann Telegram](/zimmermann-telegram)
 * [Yamamoto Isoroku](/yamamoto-isoroku)
 
-
 ### External Links
-
 
 * [Lost tribes](http://www.moshiach.com/features-tribes-default.php)
 * [More on the lost tribes](http://www.wzo.org/il-en-resources-view-asp-id-174)

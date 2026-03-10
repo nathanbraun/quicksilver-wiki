@@ -7,18 +7,14 @@ From the Quicksilver Metaweb.
 
 ### Stephensonia
 
-
 *What do you get when you have [Marines](https://en.wikipedia.org/wiki/u-s-marines), [prostitutes](https://en.wikipedia.org/wiki/prostitutes), [spies](https://en.wikipedia.org/wiki/espionage), **[Tintin](/stephenson-neal-cryptonomicon-1-shanghai-alan-sinder)**, **[Terry and the Pirates](/stephenson-neal-cryptonomicon-1-shanghai-alan-sinder)**, **[The Fugu Plan](/stephenson-neal-cryptonomicon-1-shanghai-alan-sinder)**, and [Jews](/judaism)? I guess every schoolboy was clued in to China's importance. Comics had more weight with the public. Note that [Lawrence](/lawrence-waterhouse) thinks in terms of **Superman** and **Ally Oop**. Shanghai takes center stage in [The Diamond Age](/the-diamond-age):
 ### A thete visits a mod parlor;
 
-
 #### noteworthy features of modern armaments.
-
 
       The bells of St. Mark's were ringing changes up on the mountain when Bud skated over to the mod parlor to upgrade his skull gun. Bud had a nice new pair of blades with a top speed of anywhere from a hundred to a hundred and fifty kilometers, depending on how fat you were and whether or not you wore aero. Bud liked wearing skin-tight leather, to show off his muscles. On a previous visit to the mod parlor, two years ago, he had paid to have a bunch of 'sites implanted in his muscles little critters; too small to see or feel, that twitched Bud's muscle fibers electrically according to a program that was supposed to maximize bulk. Combined with the testosterone pump embedded in his forearm, it was like working out in a gym night and day, except you didn't have to actually do anything and you never got sweaty. The only drawback was that all the little twitches made him kind of tense and jerky. He'd gotten used to it, but it still made him a little hinky on those skates, especially when he was doing a hundred clicks an hour through a crowded street. But few people hassled Bud, even when he knocked them down in the street, and after today no one would hassle him ever again.
      Bud had walked away, improbably unscratched, from his last job decoy- with something like a thousand yuks in his pocket. He'd spent a third of it on new clothes, mostly black leather, another third of it on the blades, and was about to spend the last third at the mod parlor. You could get skull guns a lot cheaper, of course, but that would mean going over the Causeway to Shanghai and getting a back-alley job from some Coaster, and probably a nice bone infection in with the bargain, and he'd probably pick your pocket while he had you theezed. Besides, you could only get into a Shanghai if you were virgin. To cross the Causeway when you were already packing a skull gun, like Bud, you had to bribe the shit out of numerous Shanghai cops. There was no reason to economize here. Bud had a rich and boundless career ahead of him, vaulting up a hierarchy of extremely dangerous drug-related occupations for which decoy served as a paid audition of sorts. A start weapons system was a wise investment. ...
 ### Source Victoria; description of its environs.
-
 
      Source Victoria's air intakes erupted from the summit of the Royal Ecological Conservatory like a spray of hundred-meter-long calla lilies. Below, the analogy was perfected by an inverted tree of rootlike plumbing that spread fractally through the diamondoid bedrock of New Chusan, terminating in the warm water of the South China Sea as numberless capillaries arranged in a belt around the smartcoral reef, several dozen meters beneath the surface. One big huge pipe gulping up seawater would have done roughly the same thing, just as the lilies could have been replaced by one howling maw, birds and litter whacking into a bloody grid somewhere before they could gum up the works.
      But it wouldn't have been ecological. The geotects of Imperial Tectonics would not have known an ecosystem if they'd been living in the middle of one. But they did know that ecosystems were especially tiresome when they got fubared, so they protected the environment with the same implacable, plodding, green-visored mentality that they applied to designing overpasses and culverts. Thus, water seeped into Source Victoria through microtubes, much the same way it seeped into a beach, and air wafted into it silently down the artfully skewed exponential horns of those thrusting calla lilies, each horn a point in parameter space not awfully far from some central ideal. They were strong enough to withstand typhoons but flexible enough to rustle in a breeze. Birds, wandering inside, sensed a gradient in the air, pulling them down into night, and simply chose to fly out. They didn't even get scared enough to shit.
@@ -26,7 +22,6 @@ From the Quicksilver Metaweb.
      The line of tanks was referred to as a cascade, a rather abstract bit of engineer's whimsy lost on the tourists who did not see anything snapshot-worthy there. All the action took place in the walls separating the tanks, which were not really walls but nearly infinite grids of submicroscopic wheels, ever-rotating and many-spoked. Each spoke grabbed a nitrogen or water molecule on the dirty side and released it after spinning around to the clean side. Things that weren't nitrogen or water didn't get grabbed, hence didn't make it through. There were also wheels for grabbing handy trace elements like carbon, sulfur, and phosphorus; these were passed along smaller, parallel cascades until they were also perfectly pure. The immaculate molecules wound up in reservoirs. Some of them got combined with others to make simple but handy molecular widgets. In the end, all of them were funneled into a bundle of molecular conveyor belts known as the Feed, of which Source Victoria, and the other half-dozen Sources of Atlantis/Shanghai, were the fountainheads. ...*
 
 ### Authored entries
-
 
 * [Daniel Waterhouse (Alan Sinder)](/daniel-waterhouse-alan-sinder)
 * [Stephenson:Neal:Cryptonomicon:2:Fourth Marines(Alan Sinder)](/stephenson-neal-cryptonomicon-2-fourth-marines-alan-sinder)
@@ -39,11 +34,9 @@ From the Quicksilver Metaweb.
 * [Stephenson:Neal:The Confusion:3:curiously modified (Alan Sinder)](/stephenson-neal-the-confusion-3-curiously-modified-alan-sinder)
 * [Stephenson:Neal:The Confusion:8:Moseh de la Cruz (Alan Sinder)](/stephenson-neal-the-confusion-8-moseh-de-la-cruz-alan-sinder)
 
-
 ### Shanghai
 
-
-[![MWFrankGaryShanghai.jpg](/web/20060725221800im_/http://www.metaweb.com/wiki/upload/f/f7/MWFrankGaryShanghai.jpg)](mwfrankgaryshanghai-jpg)  
+  
 Jewish refugees in Shaghai:  
 Great Uncle Frank and son   
 Gary at Shanghai's Winter Garden
@@ -57,7 +50,6 @@ The Sino-Japanese War fought 1894 - 95 over control of Korea concluded with the 
 
 #### Shanghai International Settlement
 
-
 Established in 1854, the **Shanghai Municipal Council** (literally "Works Department") was the governing body which administered the combined British and American concessions in Shanghai, known as the Shanghai International Settlement. Wholly foreign-controlled, the council was staffed by individuals of all nationalities, including Britons, Americans, New Zealanders, Australians, Danes and Japanese. Chinese members were not permitted to join the council until 1928.
 
 Representing a wide spectrum of nations, the Shanghai Municipal Council along with the foreign residents of the International Settlement recreated the architecture and institutions of their homelands in Shanghai. It maintained its own police force, and even possessed its own military reserve the Shanghai Volunteer Corps. The immense presence of the council and the settlement's foreign residents can still be seen throughout present day Shanghai, most notably on The Bund.
@@ -67,7 +59,7 @@ Among the many members who served on the council, its American chairman during t
 Over the years a large number of Chinese took up residency at the International Settlement, either to escape wars, or to seek better economic opportunities. In 1932 there were already 1,040,780 Chinese living within the International Settlement, with another 400,000 cramping into the area after the Second Sino-Japanese War broke out in 1937. Indeed, Shanghai was at the time the only place in the world that unconditionally offered refuge for Jews who were escaping from the Nazis.
 
 The Council was formally abolished twice. In July 1943 it was retroceded to the City Government of Shanghai, then in the hands of the pro-Japanese Wang Jingwei government, by its then Japanese leaders on the Council. Anglo-American influence had effectively ended after 8th December 1941, when Japanese troops entered and occupied the city. Although senior Allied personnel and councillors were removed from their posts, most Allied nationals working for the administration remained in their jobs until they were interned after February 1943. The Settlement was also returned to Chinese control in the Sino-British Friendship Treaty of February 1943 between Britain and the legitimate National Government of China. After the war a Liquidation Commission fitfully met to discuss the remaining details of the handover. The Council's headquarters building still stands in downtown Shanghai.
-[![Shanghai1.jpg](/web/20060725221800im_/http://www.metaweb.com/wiki/upload/d/dc/Shanghai1.jpg)](shanghai1-jpg)  
+  
 **Map of Shanghai, 1933**
 ![141779864_bce8f5f02b_o.jpg](/images/141779864_bce8f5f02b_o.jpg)  
 **What the above Map of Shanghai is based on.**
@@ -75,11 +67,9 @@ Shanghai was then the biggest financial city in the Far East. Under the Republic
 
 ### The 28th of November 1941
 
-
 November 28, 1941 is the day U.S. Marines left Shanghai, the era of the China Marines ended, as the last of the regiment set sail for the [Philippines](/philippines).
 
 ### Why Shanghai invokes Tintin
-
 
 ![BlueLotusMW.jpg](/images/BlueLotusMW.jpg)  
 **Tintin Became Political  
@@ -88,7 +78,6 @@ With This Adventure**
 
 #### Synopsis
 
-
 Warning: *[Plot details follow](https://en.wikipedia.org/wiki/wikipedia-spoiler-warning)*.
 
 In *Cigars of the Pharaoh*, Tintin chases an international group of drug distributors through the [Middle](https://en.wikipedia.org/wiki/middle-east) and [Far East](https://en.wikipedia.org/wiki/far-east). He manages to catch them all, except for the leader, who crashes in a ravine. In order to unravel more of the network and stop the [opium](https://en.wikipedia.org/wiki/opium) production at the source, he travels to [China](https://en.wikipedia.org/wiki/china), where he is eagerly awaited by the assassins of the opium consortium. 
@@ -96,7 +85,6 @@ In *Cigars of the Pharaoh*, Tintin chases an international group of drug distrib
 The title, *Blue Lotus*, refers to the name of an opium den. 
 
 #### Method change
-
 
 Up to the writing of *The Blue Lotus*, Hergé's writing was mainly based on popular prejudice and on what his mentor, the abbot Norbert Wallez, had told him. Tintin was published in a newspaper, and Hergé announced at the end of Cigars that his next setting would be China. 
 
@@ -107,7 +95,6 @@ As a result of this experience, Hergé would strive in *The Blue Lotus*, and in 
 As a token of appreciation, he added a fictional "Chang" to The Blue Lotus , a young Chinese boy who meets and befriends Tintin. Hergé mocks his own naïveté deep inside the album, when he tries to let Tintin explain to Chang that Chang's fear for the 'white devils' is based on prejudice. He then recites a few Western stereotypes of the Chinese. 
 
 #### Political turmoil
-
 
 As another result of his friendship with Chang, Hergé became increasing aware of the problems of [colonialism](https://en.wikipedia.org/wiki/colonialism), in particular the [Japanese](https://en.wikipedia.org/wiki/japan) Empire's advances into China. *The Blue Lotus* carries a bold [anti-imperialist](https://en.wikipedia.org/wiki/anti-imperialist) message, contrary to the prevailing view in the West, which was sympathetic to Japan and the colonial enterprise. 
 
@@ -120,7 +107,6 @@ The other side, China, in particular [Taiwan](https://en.wikipedia.org/wiki/taiw
 Oddly enough, according to [Tintin's Ideology](/http-www-eader-nl-onderzoek-tintin-ideology-htm), the [People's Republic of China](https://en.wikipedia.org/wiki/people-s-republic-of-china) forbade the publication of the album for a long time. When it finally allowed publication in 1984, some pictures of the examples of Western prejudice were either altered or even taken out completely. 
 
 ### Terry and the Pirates
-
 
 ![TerryMW.jpg](/images/TerryMW.jpg)  
 **Issue 23 of *Terry and the Pirates*  
@@ -138,14 +124,11 @@ In 1953, Canada Dry offered a "premium giveaway" (freebie) with a case of its gi
 
 ### The Fugu Plan
 
-
 If the Japanese treatment of Jews seems odd  know that an American Jew helped with financing their war against [Russia](https://en.wikipedia.org/wiki/russo-japanese-war) in 1905. In 1919, White Russians introduced the Japanese to the book, "[The Protocols of the Elders of Zion](https://en.wikipedia.org/wiki/the-protocols-of-the-elders-of-zion)." The Japanese called their plan for Jewish settlement "The Fugu Plan." "Fugu" is highly poisonous blowfish. After the toxin-containing organs are painstakingly removed, it is used as a food in Japan, and is considered an exquisite delicacy. If it is not prepared carefully, however, its poison can kill a person. Ten thousand displaced people were relocated to Shanghai during its implementation with two thousand Jews housed in the Kansai region. What the Japanese didn't know was there were already Jews in Shanghai who traveled the Silk Road 25 to 15 centuries earlier. There was a thriving community in Kobe of Japanese Jews. Today, only one member of the clan seems active.
 ![SilkroadMW.jpg](/images/SilkroadMW.jpg)  
 **Route Nomad Jewish Traders Took East**  
 
-
 #### Sugihara's Story
-
 
 **Chiune (Sempo) Sugihara** was an unassuming hero. During World War II, over a period of weeks, he saved thousands of refugees from otherwise certain death under the Nazis. He did this on his own, without hesitation or fanfare, and with no expectation of thanks or even recognition. He did it because he was a man of principle and peace who could not stand by while others perished. 
 
@@ -160,7 +143,6 @@ After the Soviet authorities removed all foreign consulates, Sugihara was reassi
 A year before he died in 1986, Yad Vashem, the Holocaust Martyrs' and Heroes' Remembrance Authority in Jerusalem, Israel, honored Sugihara with the title "Righteous Among the Nations" for his aid to the refugees in Lithuania during World War II. There is an exhibit honoring Sugihara at Washington's Holocaust Museum, which serves as a research facility for scholars, teachers, students and visitors who want to learn more about the history of the Holocaust. 
 
 ### Related entries
-
 
 ![TintinandSnowyMW.jpg](/images/TintinandSnowyMW.jpg)  
 **Tintin and Snowy**
@@ -181,9 +163,7 @@ A year before he died in 1986, Yad Vashem, the Holocaust Martyrs' and Heroes' Re
 * [Ethics](/ethics)
 * [Talk:Islamic revolution](/talk-islamic-revolution)
 
-
 ### External links
-
 
 * [The Panay Incident](https://en.wikipedia.org/wiki/panay-incident)
 * [Men of the China Marines](http://www.chinamarines.com/docs-men.htm)
@@ -192,9 +172,7 @@ A year before he died in 1986, Yad Vashem, the Holocaust Martyrs' and Heroes' Re
 * [Official Site of the Hergé Foundation](http://www.tintin.com/uk)
 * [The Cult of Tintin at Tintinologist.org](http://www.tintinologist.org) - an English language Tintin fan site
 
-
 ### Read
-
 
 [ISBN 083480350X](/), *The Fugu Plan: The Untold Story of the Japanese and the Jews During World War II*, Marvin Tokayer and Mary Swartz, Publisher: Weatherhill; (April 1, 1996)
 [ISBN 031635856](/), *The Blue Lotus (The Adventures of Tintin)* by Herge, Publisher: Little, Brown; 1st American ed edition (July 30, 1984)

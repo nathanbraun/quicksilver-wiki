@@ -7,9 +7,7 @@ The main **[Snow Crash](/snow-crash)** page
 
 # *****THERE ARE PLOT SPOILERS BELOW!*****
 
-
 ### Stephensonia
-
 
 *It stands to **[Reason](/reason)** - eh? *The real **Snow Crash** is no doubt coming, when the wikis are finishing writing the [me](/me). One speculates that the **good guys** building **The Crypt** in [Cryptonomicon](/cryptonomicon) may have prevented this future dystopian landscape from happpening ...*
        This Snow Crash thing  is it a virus, a drug, or a religion?"
@@ -17,7 +15,6 @@ The main **[Snow Crash](/snow-crash)** page
      [Juanita](/stephenson-neal-snow-crash-juanita-marquez) shrugs. "What's the difference?  *
 
 ### Authored entries
-
 
 * [Stephenson:Neal:Snow Crash:03:CosaNostra Pizza University(Mike Lorrey)](/stephenson-neal-snow-crash-03-cosanostra-pizza-university-mike-lorrey)
 * [Stephenson:Neal:Snow Crash:276:stray tracer(Alan Sinder)](/stephenson-neal-snow-crash-276-stray-tracer-alan-sinder)
@@ -27,9 +24,7 @@ The main **[Snow Crash](/snow-crash)** page
 * [Stephenson:Neal:Snow Crash:83, 414-416, 436-437:Fido, aka The Rat Thing (Mike Lorrey)](/stephenson-neal-snow-crash-83-414-416-436-437-fido-aka-the-rat-thing-mike-lorrey)
 * [Stephenson:Neal:Quicksilver:518:Ultima Ratio Regum (Mike Lorrey)](/stephenson-neal-quicksilver-518-ultima-ratio-regum-mike-lorrey)
 
-
 ### Community: Snow Crash
-
 
 Title of Neal's third novel, and its most compelling sci-fi concept: a virus/drug/religion created by the intersection of certain ancient Sumerian incantations (or "[me](https://en.wikipedia.org/wiki/me)") and modern culture (or "[virtual reality](https://en.wikipedia.org/wiki/virtual-reality)" as one may very charitably call it).
 
@@ -37,10 +32,9 @@ Host to such memorable characters as [Hiro Protagonist](/stephenson-neal-snow-cr
 
 ### An Enhanced Wikipedia Entry: [Snow Crash](/)
 
-
 The [science fiction](/) novel **Snow Crash** (1992), written by [Neal Stephenson](/user-nealstephenson), follows in the footsteps of the *cyberpunk* novels by such authors as William Gibson and [Rudy Rucker](/) (the man who gave us the robot -- **Mister Frosty**), though Stephenson breaks away from the typical "techno punk" stories by embellishing this story with a heavy dose of satire and jet-black humor.
 
-[![Snow Crash.jpg](/web/20060725222324im_/http://www.metaweb.com/wiki/upload/b/bd/Snow_Crash.jpg)](snow-crash-jpg)  
+  
 
 **Hiro's Journey  
 
@@ -61,7 +55,6 @@ Stephenson spends much of the novel taking the reader on an extensive, impeccabl
 
 ### Cast
 
-
 * [Hiro Protagonist](/stephenson-neal-snow-crash-hiro-protagonist)
 * [YT](/stephenson-neal-snow-crash-yt) - arguably more of the *hero* in the novel
 * [Raven](/stephenson-neal-snow-crash-raven)
@@ -72,18 +65,14 @@ Stephenson spends much of the novel taking the reader on an extensive, impeccabl
 * [Fido](/stephenson-neal-snow-crash-83-414-416-436-437-fido-aka-the-rat-thing-mike-lorrey)
 * No entries yet: [Vitaly Chernobyl](/vitaly-chernobyl) (and the Meltdowns), [Sushi-K](/sushi-k), [Uncle Enzo](/uncle-enzo), [Ng](/stephenson-neal-snow-crash-276-stray-tracer-alan-sinder), [Mr. Lee](/mr-lee), [L. Bob Rife](/l-bob-rife), [Y.T.'s Mom](/y-t-s-mom), [Fisheye](/fisheye), [Jason Breckenridge](/jason-breckenridge), [President Greg Ritchie](/president-greg-ritchie), [Bruce Lee](/bruce-lee)
 
-
 ### Related entries
-
 
 * [Me](/me)
 * [Snow Crash](/snow-crash)
 * [Covers of various versions of Snow Crash](/stephenson-neal-snow-crash-covers)
 * [The Raft](/the-raft)
 
-
 ### External links
-
 
 * [Inanna](https://en.wikipedia.org/wiki/ishtar)
 * [Sumerian Myths](https://en.wikipedia.org/wiki/sumerian-mythology)

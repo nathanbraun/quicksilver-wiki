@@ -7,7 +7,7 @@ This is [The Confusion](/the-confusion) page on **monkeys**
 ### Stephensonia
 
 
-![SiamangandcolobusMW.jpg](/https://web.archive.org/web/20060725165809im_/http://www.metaweb.com/wiki/upload/6/6f/SiamangandcolobusMW.jpg)  
+![SiamangandcolobusMW.jpg](/https://web.archive.org/images/SiamangandcolobusMW.jpg)  
 
 **A Colobus and a Siamang**
 *[Jack](/jack-shaftoe) observes "monkeys with prehensile tails" at the [Pirate Queen](/pirates)'s palace in Malabar, India.*
@@ -33,7 +33,7 @@ as **[Old World monkeys](https://en.wikipedia.org/wiki/old-world-monkey)** do no
 ### [Wikipedia: Monkey](https://en.wikipedia.org/wiki/monkey)
 
 
-![Monkey_batu.jpg](/https://web.archive.org/web/20060725165809im_/http://en.wikipedia.org/upload/9/94/Monkey_batu.jpg)  
+![Monkey_batu.jpg](/https://web.archive.org/images/Monkey_batu.jpg)  
 **Cynomolgus monkey  
 at Batu Caves, Malaysia  
 These are the typical local monkeys  

@@ -6,14 +6,12 @@ From the Quicksilver Metaweb.
 The [Snow Crash](/snow-crash) page on the **Mafia**
 ### Stephensonia
 
-
 *"When you're with us, you're family...a really twisted dysfunctional family..."*      Didn't happen anymore. Pizza delivery is a major industry. A managed industry. People went to CosaNostra Pizza University four years just to learn it. Came in its doors unable to write an English sentence, from Abkhazia, Rwanda, Guanajuato, South Jersey, and came out knowing more about pizza than a Bedouin knows about sand. And they had studied this problem. Graphed the frequency of doorway delivery-time disputes. Wired the early Deliverators to record, then analyze, the debating tactics, the voice-stress histograms, the distinctive grammatical structures employed by white middle-class Type A Burbclave occupants who against all logic had decided that this was the place to take their personal Custerian stand against all that was stale and deadening in their lives: they were going to lie, or delude themselves, about the time of their phone call and get themselves a free pizza; no, they deserved a free pizza along with their life, liberty, and pursuit of whatever, it was fucking inalienable. Sent psychologists out to these people's houses, gave them a free TV set to submit to an anonymous interview, hooked them to polygraphs, studied their brainwaves as they showed them choppy, inexplicable movies of porn queens and late-night car crashes and Sammy Davis, Jr., put them in sweet-smelling, mauve-walled rooms and asked them questions about Ethics so perplexing that even a Jesuit couldn't respond without committing a venial sin.
      The analysts at CosaNostra Pizza University concluded that it was just human nature and you couldn't fix it, and so they went for a quick cheap technical fix: smart boxes. The pizza box is a plastic carapace now, corrugated for stiffness, a little LED readout glowing on the side, telling the Deliverator how many trade imbalance-producing minutes have ticked away since the fateful phone call. There are chips and stuff in there. The pizzas rest, a short stack of them, in slots behind the Deliverator's head. Each pizza glides into a slot like a circuit board into a computer, clicks into place as the smart box interfaces with the onboard system of the Deliverator's car. The address of the caller has already been inferred from his phone number and poured into the smart box's builtin RAM. From there it is communicated to the car, which computes and projects the optimal route on a heads-up display, a glowing colored map traced out against the windshield so that the Deliverator does not even have to glance down.
      If the thirty-minute deadline expires, news of the disaster is flashed to CosaNostra Pizza Headquarters and relayed from there to Uncle Enzo himself - the Sicilian Colonel Sanders, the Andy Griffith of Bensonhurst, the straight razor-swinging figment of many a Deliverator's nightmares, the Capo and prime figurehead of CosaNostra Pizza, Incorporated - who will be on the phone to the customer within five minutes, apologizing profusely. The next day, Uncle Enzo will land on the customer's yard in a jet helicopter and apologize some more and give him a free trip to Italy - all he has to do is sign a bunch of releases that make him a public figure and spokesperson for CosaNostra Pizza and basically end his private life as he knows it. He will come away from the whole thing feeling that, somehow, he owes the Mafia a favor.
      The Deliverator does not know for sure what happens to the driver in such cases, but he has heard some rumors. Most pizza deliveries happen in the evening hours, which Uncle Enzo considers to be his private time. And how would you feel if you had to interrupt dinner with your family in order to call some obstreperous dork in a Burbclave and grovel for a late fucking pizza? Uncle Enzo has not put in fifty years serving his family and his country so that, at the age when most are playing golf and bobbling their granddaughters, he can get out of the bathtub dripping wet and lie down and kiss the feet of some sixteen-year-old skate punk whose pepperoni was thirty-one minutes in coming. Oh, God. It makes the Deliverator breathe a little shallower just to think of the idea.
 
 ### [Wikipedia: Mafia](/)
-
 
 The **Mafia**, also referred to as La Cosa Nostra (Italian, variously translated as This Thing Of Ours or Our Thing), is the collective name of various secret organizations in Italy, Sicily, Corsica and the United States. The Mafia was originally the name of a loose confederation of people in Sicily, who, in the middle ages, joined for the purposes of protection from the Turks and Normans currently occupying the area. Soon the group turned to vigilante law enforcement. This confederation later engaged in organized crime.
 There also is a theory that the word "mafia" came from an Arabic word mah?ya or similar meaning "flashy", i.e. "the swank set" or similar; it was observed that in Sicily, for example, an unusually ornate and demonstrative cockerel can be described by the adjective "mafioso".
@@ -25,7 +23,6 @@ The term "mafia" has now been extended to refer to any large group of people eng
 
 ### "Our Thing"
 
-
 Nova Sicilia is the umbrella/conglomerate [FOQNE](/foqne)/[Phyle](/phyle) name for a group of enterprises, families, and employees, formerly known internally as "la cosa nostra" and externally as 'the mafia' or 'the mob'. Subsidiaries include [CosaNostra Pizza Incorporated](/cosanostra-pizza-incorporated), [Mafia, Inc.](/mafia-inc), the [Our Thing Foundation](/our-thing-foundation), the [Old Sicilia Inn](/old-sicilia-inn) chain, Goombata Banks, a chain of barber shops, as well as social clubs, concrete and trucking enterprises, etc.
 
 With the devolution of the federal government, the mafia is no longer an illegal enterprise. Theoretically speaking the mafia is a target of the federal government in today's world because they compete for the same markets: social insurance, protection rackets, extortion and confiscation, drug dealing, smuggling, prostitution, and the incremental takeover of legitimate private enterprises through loansharking, blackmail, and intimidation (the federal government just uses more polite words to describe the ways they do the same thing).
@@ -36,8 +33,7 @@ In [Snow Crash](/snow-crash), Nova Sicilia engages in urban pacification program
 
 ### Pizza Delivery
 
-
-[![Alt text](/web/20060725223612im_/http://www.metaweb.com/wiki/upload/1/18/GFimage003.jpg)](alt-text)  
+  
 **Godfather Appearances:**  
 *"As the boss, I feel it's my duty to  
 make sure you get the goods.  
@@ -61,13 +57,11 @@ CosaNostra Pizza was likely inspired by the real life franchise chain (with outl
 
 ### Nova Sicilia Corporate Policy
 
-
 As described by [Fisheye](/fisheye), the mafia is able to avoid the virus of political or institutional ideology in its operations through a cultural practice of pursuing corporate policies through the guise of personal relationships. Thus, the 30 minute pizza delivery guarantee is a sacred covenant between Uncle Enzo and each of his customers, NOT a corporate policy for timely customer service in and of itself. Rescuing [YT](/yt) from [The Raft](/the-raft) is a result of the personal fatherly protective relationship [Uncle Enzo](/uncle-enzo) has with YT, and obtaining the [Nam-Shub of Enki](/stephenson-neal-snow-crash-506-the-nam-shub-of-enki-alan-sinder) is merely a beneficial side-effect of that personal relationship, not an end in and of itself for going on what is essentially a suicide mission.
 
 The result of this outlook is that corporate activities remain people-centric and thus do not fall into the dehumanizing trap of bureaucratic inertia and depersonalizing numbering, categorizing, punching and filing of real people with real lives. Internal esprit de corps remains high and man-on-the-street opinion of the mafia is highly positive. Managers take personal responsibility for the progress and success of their subordinates.
 
 ### Jason "Ironpumper" Breckenridge: A Symptom of Stagnation or Excessive Growth?
-
 
 The achilles heel of this sort of management philosophy is that its practitioners cannot just practice it as a matter of book learning and three-ring-binder entrepreneurship. Jason Breckenridge is a symptom of this weakness. Jason did his senior thesis on Narcolombian vs Nova Sicilian market dynamics, like some business school case study of fast food competition. Thus, while a decent manager who knows from training how the culture of the Mafia works, lacks the critical personal skills and street smarts (such as reading the directions) required of effective local mob bosses.
 
@@ -82,7 +76,6 @@ The result is that corporate growth rates and productivity per worker drop, midd
 
 ### Related Entries
 
-
 * [Uncle Enzo](/uncle-enzo)
 * [Fisheye](/fisheye)
 * [Jason Breckenridge](/jason-breckenridge)
@@ -92,8 +85,6 @@ The result is that corporate growth rates and productivity per worker drop, midd
 * [Reason](/reason)
 * [Hiro Protagonist](/hiro-protagonist)
 
-
 ### External Links
-
 
 * [Godfather's Pizza](http://www.godfathers.com/home-godfather-appearances)

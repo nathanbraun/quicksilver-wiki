@@ -5,26 +5,20 @@ From the Quicksilver Metaweb.
 
 This [Cryptonomicon](/cryptonomicon) page awaits an article on [Chester](/chester) to be live.
 
-
 ### Stephenson
-
 
  *Malcolm McLaren brings to mind one aspect of Chester.*
 ### Authored entries
 
-
 * TBA
 
-
 ### [Sex Pistols](/)
-
 
 **The Sex Pistols** was formed in August 1975 by Paul Cook, Steve Jones and Wally Nightingale. Nightingale left the band shortly afterwards, and the remaining members recruited bass player Glen Matlock and vocalist Johnny Rotten, who were among the clientele of the 'SEX' boutique in Kings Road, Chelsea. This shop (previously known as Let It Rock) was owned by the fashion designer Vivienne Westwood, and Situationist-inspired impresario Malcolm McLaren, who had briefly been the manager of the The New York Dolls. McLaren became the new group's manager. The name, no doubt, was intended to bring to mind the male sex organ, but McLaren has stated that he wanted the band to be "sexy assassins" (in later years band members frequently accused McLaren both of cheating them financially, and of claiming credit for things that were not his idea). Under McLaren's guidance, the band was initially influenced in part by the simple, chord-based style of The New York Dolls and The Ramones (McLaren had given guitarist Jones the Les Paul guitar used by NY Doll Sylvain Sylvain, and the torn-shirt, spiked-hair look of Richard Hell, bass player for Television. All of these figures were doyens of the New York [City](/city) punk, and later new wave music, scene. McLaren also claimed that he wanted the Sex Pistols to be "the new Bay City Rollers". ... [complete in link]
 
 ### [Anarchy in the U.K.](/)
 
-
-[![Never Mind the Bollocks, Here's the Sex Pistols](/web/20060725171809im_/http://www.metaweb.com/wiki/upload/d/d7/Nevermindthebollocks.jpg)](never-mind-the-bollocks-here-s-the-sex-pistols)  
+  
 
 [Never Mind the Bollocks](/)  
 
@@ -60,11 +54,9 @@ The song was covered by Megadeth on their 1988 album So Far, So Good... So What!
 
 ### [Never Mind the Bollocks](/)
 
-
 The promise of the band's early singles was eventually fulfilled by the group's first album Never Mind The Bollocks Here's The Sex Pistols, released on October 28, 1977. (Producer Chris Thomas took a different approach from earlier punk records, achieving a very clear sound layered with multiple guitar overdubs.) The album included singles "Pretty Vacant" (released on July 2, 1977), an ode to apathy, and "Holidays in the Sun" (released on October 15, 1977). Again the band faced controversy when a record shop in Manchester was threatened with prosecution for displaying the album's 'obscene' cover, although the case was overturned when defending QC John Mortimer produced expert witnesses who were able to demonstrate that the word "bollocks" was a legitimate old English term originally used to refer to a priest, and that although the word is also slang for testicles, in this context it meant 'nonsense'.
 
 ### Anarchy in the U.K. Lyrics
-
 
  Right! Now! ha, ha,
  I am an Antichrist!

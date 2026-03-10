@@ -3,7 +3,7 @@
 
 From the Quicksilver Metaweb.
 
-[![Patrick standing under a giant robot dinosaur](/web/20060725165408im_/http://www.metaweb.com/wiki/upload/c/cf/Pat-robot-IMG_1025.jpg)](patrick-standing-under-a-giant-robot-dinosaur)
+[![Patrick standing under a giant robot dinosaur](/images/Pat-robot-IMG_1025.jpg)](patrick-standing-under-a-giant-robot-dinosaur)
   
 **Patrick Tufts**  
 

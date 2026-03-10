@@ -6,23 +6,18 @@
 This is an intermediate page for the novel
 **Cryptonomicon** by [Neal Stephenson](/neal-stephenson).
 
-
 ## !!SPOILERS BELOW!! YOU HAVE BEEN WARNED
-
-
 
 ### Stephensonia
 
-
 *This book features **Santa Monica**! This whole book pokes fun at the Golden Braid.*
-[![SMSignMW.jpg](/web/20060725165936im_/http://www.metaweb.com/wiki/upload/2/23/SMSignMW.jpg)](smsignmw-jpg)  
+  
 
 **Santa Monica Harbor  
 
 Many WWII warriors depart from here to the Pacific**
 
 ### Cast of characters and things annotated so far
-
 
 * [Albert Einstein](/albert-einstein)
 * [Bobby Shaftoe](/bobby-shaftoe)
@@ -42,10 +37,7 @@ Many WWII warriors depart from here to the Pacific**
 * [Data havens](/data-havens)
 * [Eutropians](/eutropians)
 
-
 ### Authored entries
-
-
 
 * [Cryptonomicon: All annotations by page number](/stephenson-neal-cryptonomicon-all-annotations-by-page-number)
 * [Stephenson: Neal: Quicksilver: 15: Daniel Waterhouse (Neal Stephenson)](/stephenson-neal-quicksilver-15-daniel-waterhouse-neal-stephenson)
@@ -54,12 +46,10 @@ Many WWII warriors depart from here to the Pacific**
 * [Stephenson: Neal: Quicksilver: 166: flashes of light (Alan Sinder)](/stephenson-neal-quicksilver-166-flashes-of-light-alan-sinder)
 * [Stephenson: Neal: Quicksilver: 772: Sghr (Jeremy Bornstein)](/stephenson-neal-quicksilver-772-sghr-jeremy-bornstein)
 
-
 ### Community entry: Cryptonomicon
 
-
 Stephenson calls **World War II** the recent ***[Titanomachia](/titanomachia)*** - Among real people mentioned in the book are [Albert Einstein](/albert-einstein) and General [Douglas MacArthur](/douglas-macarthur). This tale encompasses all both theatres of war. *Cryptonomicon* is a sprawling novel by [Neal Stephenson](/user-nealstephenson) that is more a combination of historical fiction and contemporary techno-thriller than the science fiction of Stephenson's earlier works. It follows the parallel saga of cryptographers from World War II (see U-413, U-553, U-691, Enigma, [Alan Turing](/alan-turing)) and their descendants attempting to use modern cryptography to build a data haven in a fictitious East Asian island state and the political machinations that follow both efforts.
-[![LittleDougMacMW.jpg](/web/20060725165936im_/http://www.metaweb.com/wiki/upload/f/fb/LittleDougMacMW.jpg)](littledougmacmw-jpg)  
+  
 
 **The Old Soldier**
 
@@ -69,15 +59,13 @@ Stephenson calls **World War II** the recent ***[Titanomachia](/titanomachia)***
 
 The title is drawn indirectly from the *[Necronomicon](https://en.wikipedia.org/wiki/necronomicon)*, a fictional work detailed within the works of the writer [H. P. Lovecraft](https://en.wikipedia.org/wiki/h-p-lovecraft) and friends like [Clark Aston Smith](https://en.wikipedia.org/wiki/clark-ashton-smith) [Robert E. Howard](https://en.wikipedia.org/wiki/robert-e-howard) who gave us ***Conan the Barbarian***. When Stephenson came up with his title, he was not aware of the word's origin. He was directly inspired by the fictional book's appearance in [the Evil Dead](https://en.wikipedia.org/wiki/the-evil-dead) series of comedic horror films. Mining the same source material are [Penny Arcade](http://www.penny.arcade.com/view-php3-date-1999-07-28-res-l) and [Megatokyo](http://www.megatokyo.com/strips-0096.gif) with the use of the Necrowombicom; And, [Howard Hallis](http://www.howardhallis.com/bis-cthulhuchick) makes light of this [Jack Chick tract](http://www.chick.com/reading-tracts-0100-0100-01.asp) while talking of the [elder gods](http://www.geocities.com/tribhis-cthulhutract.html) (which earned him a phony *cease and desist* letter). For more on along this line, see the [Cthulhu Mythos](/lovecraft-hp-cthulhu-mythos) page.
 
-
-[![BigcoverUK.jpg](/web/20060725165936im_/http://www.metaweb.com/wiki/upload/c/cd/BigcoverUK.jpg)](bigcoveruk-jpg)  
+  
 
 **The UK Cover**  
 
 Bigger image [here](/image-cryptouk-jpg)
 
 ### Related entries
-
 
 * [Stephenson:Neal:Baroque Cycle](/stephenson-neal-baroque-cycle)
 * [Stephenson:Neal:Quicksilver:Waterhouse family](/stephenson-neal-quicksilver-waterhouse-family)
@@ -98,19 +86,15 @@ Bigger image [here](/image-cryptouk-jpg)
 * [Data havens](/data-havens)
 * [Cryptonomicon typos](/stephenson-neal-cryptonomicon-typos)
 
-
 ### Sources
-
 
 #### This section lists sources for the **Press Conference** in the e-book version of **Cryptonomicon**
 
-
-[![Cryptonomicon pl.jpg](/web/20060725165936im_/http://www.metaweb.com/wiki/upload/d/d9/Cryptonomicon_pl.jpg)](cryptonomicon-pl-jpg)  
+  
 **The Polish Cover**  
 seems equipted with a "cluebat" illo ... nice though
 * [Cryptonomicon Cypher-FAQ](http://www.well.com/user-neal-cypherfaq.html) by Neal Stephenson: Cryptonomicon (May 2003) for the e-book version
 * [Mother Earth Motherboard](http://www.wired.com/wired-archive-4-12-ffglass.html) by Neal Stephenson:*Wired*, Issue 4.12, December 1996
-
 
 * [Neal Stephenson Decodes *Cryptonomicon*](http://www.amazon.com/exec-obidos-ts-feature-11674-103-9956981-9521468) Amazon.com - This is the Press Conference as it were...
 * [A Talk with Neal Stephenson](http://www.cryptonomicon.com/chat.html) Cryptonomicon.com: April 19, 1999
@@ -120,9 +104,7 @@ seems equipted with a "cluebat" illo ... nice though
 * [Deep Code](http://archive.salon.com/books-int-1999-05-19-stephenson-print.html) Salon.com: May 19, 1999;Andrew Leonard, reporter
 * [A Conversation with Neal Stephenson,](http://www.sfsite.com/10b-ns67.htm) SF Site: September 1999; Catherine Asaro, reporter
 
-
 ### External links
-
 
 * [Wikipedia: Necronomicon](https://en.wikipedia.org/wiki/necronomicon)
 * [Wikipedia: H. P. Lovecraft](https://en.wikipedia.org/wiki/h-p-lovecraft)

@@ -7,8 +7,7 @@ Thought experiment for **Albert Einstein** who dodged the sprocket question.
 
 ### Stephensonia
 
-
-[![Heh!](/web/20060725172610im_/http://www.metaweb.com/wiki/upload/f/ff/Einsteinmoney.jpg)](heh)  
+  
 
 **Albert on the 5 Lirot Note  
 This note is no longer in circulation**
@@ -24,7 +23,6 @@ This note is no longer in circulation**
 Riemann first lectures in 1854, which not only founded the field of Riemannian geometry, set the stage for Einstein's theory of General relativity.*
 ### Authored entries
 
-
 * [Stephenson:Neal:Quicksilver:316:the first few terms of a series (jere7my tho?rpe)](/stephenson-neal-quicksilver-316-the-first-few-terms-of-a-series-jere7my-tho-rpe)
 * [Gedankenexperiment (Jeremy Bornstein)](/gedankenexperiment-jeremy-bornstein)
 * [Erasmus Darwin (Andrew Berry)](/erasmus-darwin-andrew-berry)
@@ -35,9 +33,7 @@ Riemann first lectures in 1854, which not only founded the field of Riemannian g
 * [Heinlein:Robert:Have Space Suit Will Travel:40:Almost halfway to the Moon, I'd say (Neal Stephenson)](/heinlein-robert-have-space-suit-will-travel-40-almost-halfway-to-the-moon-i-d-say-neal-stephenson)
 * [Verne:Jules:From the Earth to the Moon:Halfway](/verne-jules-from-the-earth-to-the-moon-halfway)
 
-
 ### Albert Einstein
-
 
 From Wikipedia, the free encyclopedia. 
 
@@ -48,14 +44,12 @@ In popular culture, Einstein has become synonymous with someone of very high int
 In his honor, a unit used in photochemistry was named after him. An einstein is equal to Avogadro's number times the energy of one photon of light. The chemical element Einsteinium is named after the scientist as well. 
 
 Abram Joffe, in Einstein's biography, argues that Einstein was assisted by his wife Mileva Maric, who was a mathematician. 
-[![280px-Albert Einstein by Yousuf Karsh.jpg](/web/20060725172610im_/http://www.metaweb.com/wiki/upload/1/1b/280px-Albert_Einstein_by_Yousuf_Karsh.jpg)](280px-albert-einstein-by-yousuf-karsh-jpg)  
+  
 Albert Einstein
 
 ### Biography
 
-
 #### Youth and College
-
 
 Einstein was born at Ulm in Württemberg, Germany. His parents were Hermann Einstein, a featherbed salesman, and his wife, née Pauline Koch. He was given religious education (Judaism) and violin lessons during his youth. Around 1884, Einstein obtained his first compass, began a course of studies of self-education and absorbed as much science as possible. He built models and mechanical devices for fun. He began to learn mathematics around 1891. There is a recurring rumor that he failed math during this period, but this is not true, it is caused by a change in the way grades were assigned leading to confusion years later. 
 
@@ -67,7 +61,6 @@ Einstein and Maric had an illegitimate daughter, Liserl, born in January 1902.
 
 #### Work and Doctorate
 
-
 Upon graduation, Einstein could not find a teaching post. He began working as a technical assistant examiner at the Swiss Patent Office in 1902. At the Swiss Patent Office, Einstein judged the worth of applications by the inventors, rectified their design errors, and evaluated the practicality of their work. Einstein married his first wife, Mileva Maric, on January 6, 1903. Einstein's marriage to Mileva was both a personal and intellectual partnership: Einstein referred lovingly to Mileva as "a creature who is my equal and who is as strong and independent as I am". 
 
 On May 14, 1904, Einstein's son Hans Albert Einstein was born. In 1904, Einstein's position at the Swiss Patent Office was made permanent. He obtained his doctorate after submitting his thesis "On a new determination of molecular dimensions" in 1905. 
@@ -78,13 +71,11 @@ Einstein discussed his scientific interests with Mileva and his close friends. H
 
 #### Brownian motion
 
-
 The first article in 1905, named "On the Motion - Required by the Molecular Kinetic Theory of Heat - of Small Particles Suspended in a Stationary Liquid", covered his study of Brownian motion. Using the then-controversial kinetic theory of fluids it established that the phenomenonlacking a satisfactory explanation decades after being observedprovided empirical evidence for the reality of atoms. It also lended credence to statistical mechanics, which was also controversial. 
 
 Before this paper, atoms were recognized as a useful concept, but physicists and chemists hotly debated the question of whether atoms were real things. Einstein's statistical discussion of atomic behavior gave experimentalists a way to count atoms by looking through an ordinary microscope. Wilhelm Ostwald, one of the leaders of the anti-atom school, later told Arnold Sommerfeld that he had been converted to a belief in atoms by Einstein's complete explanation of Brownian motion.
 
 #### [Photoelectric effect](https://en.wikipedia.org/wiki/photoelectric-effect)
-
 
 The second paper, named "On a Heuristic Viewpoint Concerning the Production and Transformation of Light", proposed the idea of "light quanta" (now called photons) and showed how they could be used to explain such phenomena as the photoelectric effect. The idea of light quanta was motivated by Max Planck's earlier derivation of the law of blackbody radiation by assuming that luminous energy could only be absorbed or emitted in discrete amounts, called quanta. Einstein showed that, by assuming that light actually consisted of discrete packets, he could explain the mysterious photoelectric effect. 
 
@@ -94,13 +85,11 @@ The theory of light quanta was a strong indication of wave-particle duality, the
 
 #### [Special relativity](https://en.wikipedia.org/wiki/special-relativity)
 
-
 Einstein's third paper that year was called "On the Electrodynamics of Moving Bodies". While developing this paper, Einstein wrote to Mileva about "our work on relative motion". This paper introduced the special theory of relativity, a theory of time, distance, mass and energy (which was consistent with electromagnetism, but omitted the force of gravity). Special relativity solved the puzzle that had been apparent since the Michelson-Morley experiment, which had shown that light waves could not be travelling through any medium (other known waves travelled through media - such as water or air). The speed of light was thus fixed, and not relative to the movement of the observer. This was impossible under [Newtonian](/isaac-newton) [classical mechanics](https://en.wikipedia.org/wiki/classical-mechanics). 
 
 Some of the paper's core mathematical ideas -- the [Lorentz transforms](https://en.wikipedia.org/wiki/lorentz-transformation) -- had been introduced a year earlier by the Dutch physicist [Hendrik Lorentz](https://en.wikipedia.org/wiki/hendrik-lorentz), but Einstein showed how to understand these mathematical oddities. His explanation arose from two axioms: one was Galileo's old idea that the laws of nature should be the same for all observers that move with constant speed relative to each other; and the other was that the speed of light is the same for every observer. Special relativity had several striking consequences because the absolute concepts of time and size are rejected. The theory came to be called the "special theory of relativity" to distinguish it from his later theory of general relativity, which considers all observers to be equivalent.
 
 #### Energy equivalency
-
 
 A fourth paper, titled "Does the Inertia of a Body Depend Upon Its Energy Content?"", published late in 1905 showed one further deduction (e.g. m = L/c²) from relativity's axioms, known as the energy-mass relation. That deduction, trivally rewritten, was the famous equation that rest energy (E) equals mass (m) times the speed of light (c) squared: E = mc2. Einstein considered this equation to be of paramount importance because it showed that matter and energy are profoundly linked. The idea later proved invaluable for understanding how the Big Bang, which was a pure burst of energy, could lead to the precipitation of a universe filled with matter (it turns out that the energy required to create the matter is exactly offset by the negative potential energy of the universe's gravitational well). 
 
@@ -109,7 +98,6 @@ The equation is often cited as an explanation of how atomic weapons produce such
 According to Umberto Bartocci (University of Perugia historian of mathematics), the famous equation was first published two years prior by Olinto De Pretto, who was an industrialist from Vicenza, Italy. Though De Pretto introduce the formula, it was Einstein who connected it with the Theory of Relativity.
 
 #### Middle years
-
 
 In 1906, Einstein was promoted to technical examiner second class. In 1908, Einstein was licensed in Berne, Switzerland, as a teacher and lecturer (known as a Privatdozent), who had no share in the university government. Einstein's second son, Eduard, was born on July 28, 1910. He divorced Mileva on February 14, 1919. Einstein married his cousin Elsa Loewenthal (née Einstein: Loewenthal was the surname of her first husband, Max) on June 2, 1919. Elsa was Albert's first cousin (maternally) and his second cousin (paternally) and she was 3 years older than Albert. There were no children from this marriage. 
 
@@ -121,7 +109,6 @@ From 1914 to 1933 he served as director of Kaiser Wilhelm Institute for Physics 
 
 #### [General relativity](https://en.wikipedia.org/wiki/general-relativity)
 
-
 In November 1915, Einstein presented a series of lectures before the Prussian Academy of Sciences in which he described his theory of general relativity. The final lecture climaxed with his introduction of an equation that replaced Newton's law of gravity. This theory considered all observers to be equivalent, not only those moving at a uniform speed. In general relativity, gravity is no longer a force (as it was in Newton's law of gravity) but is a consequence of the curvature of space-time. The theory provided the foundation for the study of cosmology and gave scientists the tools for understanding many features of the universe that were not discovered until well after Einstein's death. General relativity becomes a method of perceiving all of physics. 
 
 Einstein's relationship with quantum physics was quite remarkable. He was the first, even before Max Planck, the discoverer of the quantum, to say that quantum theory was revolutionary. His idea of light quanta was a landmark break with the classical understanding of physics. In 1909, Einstein presented his first paper to a gathering of physicists and told them that they must find some way to understand waves and particles together. 
@@ -130,18 +117,15 @@ In the early 1920s, Einstein was the lead figure in a famous weekly physics coll
 
 #### Copenhagen interpretation
 
-
 However, in the mid-1920s, as the original quantum theory was replaced with a new quantum mechanics, Einstein balked at the Copenhagen interpretation of the new equations because it settled for a probabilistic, non-visualizable account of physical behavior. Einstein agreed that the theory was the best available, but he looked for an explanation that would be more "complete," i.e., deterministic. His belief that physics described the laws that govern "real things" had led to his successes with atoms, photons, and gravity. He was unwilling to abandon that faith. 
 
 Einstein's famous remark, "Quantum mechanics is certainly imposing. But an inner voice tells me it is not yet the real thing. The theory says a lot, but does not really bring us any closer to the secret of the Old One. I, at any rate, am convinced that he does not throw dice," appeared in a 1926 letter to Max Born. It was not a rejection of probabilistic theories per se. Einstein had used statistical analysis in his work on Brownian motion and photoelectricity. In papers published before the miraculous year of 1905, he had even discovered Gibbs ensembles on his own. But he did not believe that, at bottom, physical reality behaves randomly.
 
 #### Bose Einstein statistics
 
-
 In 1924, Einstein received a short paper from a young Indian physicist named Satyendra Nath Bose, describing light as a gas of photons, and asking for Einstein's assistance in publication. Einstein realised that the same statistics could be applied to atoms, and published an article in German (then the lingua franca of physics) which described Bose's model and explained its implications. Bose Einstein statistics now describes any assembly of these indistinguishable particles known as bosons. Einstein also assisted Erwin Schrödinger in the development of the Quantum Boltzmann distribution, a mixed classical and quantum mechanical gas model -- although he realised that this was less significant that the Bose Einstein model, and declined to have his name included on the paper.
 
 #### Later years
-
 
 Einstein and former student Leo Szilard co-invented a unique type of refrigerator (usually called "The Einstein Refrigerator") in 1926. [[2]](http://gtalumni.org/stayinformed-magazine-sum98-einsrefr.html) [[3]](http://www.uspto.gov/web-offices-ac-ahrpa-opa-pulse-epulse-pulse01101-6.htm) On November 11, 1930, patent number US1781541 was awarded to Albert Einstein and Leo Szilard. The patent covered a thermodynamic refrigeration cycle providing cooling with no moving parts, at a constant pressure, with only heat as an input. The refrigeration cycle used ammonia, butane, and water. 
 
@@ -151,11 +135,9 @@ Einstein spent the last forty years of his life trying to unify gravity and elec
 
 #### Princeton
 
-
 His work at Princeton focused on the unification of the laws of physics. Einstein undertook the quest for the unification of the fundamental forces and spent his time at Princeton investigating this. He attempted to construct a model, under the appropriate conditions, which described all forces as different manifestations of a single force. His attempt was in a way doomed to failure because the strong and weak nuclear forces were not understood independently until around 1970, 15 years after Einstein's death. Einstein's goal survives in the current drive for unification of the forces, embodied most notably by string theory.
 
 #### Generalized Theory
-
 
 Einstein began to form a Generalized Theory of Gravitation with the universal law of gravitation and the electromagnetic force in his first attempt to demonstrate the unification and simplification of the fundamental forces. In the 1950s, he described his work in a Scientific American article. Einstein was guided by the belief of a single statistical measure of variance for the entire set of physical laws and he investigated the smiliar properties of the electromagnetic and gravity forces, as they are infinite and obey the inverse square law. 
 
@@ -167,16 +149,14 @@ Einstein became increasingly isolated in his research over a Generalized Theory 
 
 #### Final years
 
-
 In 1952, the Israeli government proposed to Einstein that he take the post of second president. He declined the offer. 
 
-[![Einstein-joker.jpg](/web/20060725172610im_/http://www.metaweb.com/wiki/upload/3/3b/Einstein-joker.jpg)](einstein-joker-jpg)  
+  
 His Fun Side
 
 He died at Princeton in 1955, leaving the Generalized Theory of Gravitation unsolved. He was cremated the same day at Trenton, New Jersey on April 18, 1955. His ashes were scattered at an undisclosed location.
 
 #### Political views
-
 
 Einstein considered himself a pacifist [[4]](http://www.amnh.org/exhibitions-einstein-peace-index.php) and humanitarian [[5]](http://www.amnh.org/exhibitions-einstein-global-index.php). Einstein's views on other issues, including socialism, McCarthyism and racism, were controversial. ([Einstein on socialism](https://en.wikipedia.org/wiki/einstein-on-socialism)) 
 
@@ -201,9 +181,7 @@ Albert Einstein has become the subject of a number of novels, films and plays in
 * Opera
 	+ Philip Glass's groundbreaking 1976 opera Einstein on the Beach.
 
-
 ### Related entries
-
 
 * [Stephenson:Neal:Cryptonomicon:Lawrence Waterhouse](/stephenson-neal-cryptonomicon-lawrence-waterhouse)
 * [Principle of Equivalence Gedankenexperiment](/principle-of-equivalence-gedankenexperiment)
@@ -220,9 +198,7 @@ Albert Einstein has become the subject of a number of novels, films and plays in
 * [Talk:Benjamin Franklin](/talk-benjamin-franklin)
 * [Talk:Stephenson:Neal:Quicksilver:1:Those who assume hypotheses... (Neal Stephenson)](/talk-stephenson-neal-quicksilver-1-those-who-assume-hypotheses-neal-stephenson)
 
-
 ### External Links, Resources, and References
-
 
 * S. Morgan Friedman, "[Albert Einstein Online](http://www.westegg.com/einstein)" -- Comprehensive listing of online resources about Einstein.
 * [MacTutor Einstein History](http://www.gap.dcs.st.and.ac.uk/history-mathematicians-einstein.html)
@@ -232,9 +208,7 @@ Albert Einstein has become the subject of a number of novels, films and plays in
 * [Juergen Schmidhuber's Einstein biographical highlights](/http-www-idsia-ch-juergen-einstein-html)
 * [Leibniz Series](http://mathworld.wolfram.com/leibnizseries.html)
 
-
 ### Archives
-
 
 * [Official Einstein Archives Online](http://www.alberteinstein.info) -- 3000 documents
 * [Einstein Papers Project](http://www.einstein.caltech.edu)
@@ -243,9 +217,7 @@ Albert Einstein has become the subject of a number of novels, films and plays in
 * [American Museum of Natural History's Einstein](http://www.amnh.org/exhibitions-einstein-index.php)
 * [Albert Einstein Archive](http://www.albert.einstein.org)
 
-
 ### Texts and Pictures
-
 
 * Einstein, Albert, "*[On the Electrodynamics of Moving Bodies](/http-www-fourmilab-ch-etexts-einstein-specrel-www)*" Annalen der Physik. June 30, 1905
 * Einstein, Albert, "*[Does the Inertia of a Body Depend Upon Its Energy Content?](/http-www-fourmilab-ch-etexts-einstein-e-mc2-www)*". Annalen der Physik. September 27, 1905.
@@ -256,25 +228,19 @@ Albert Einstein has become the subject of a number of novels, films and plays in
 * [PBS](http://www.pbs.org)'s [Einstein's wife](http://www.pbs.org/opb-einsteinswife) : Mileva Maric
 * [Albert Einstein images via Google](http://images.google.com/images-q-albert-einstein)
 
-
 ### Government
-
 
 * [Einstein's letter to Roosevelt](http://www.pbs.org/wgbh-amex-truman-psources-ps-einstein.html)
 * [FBI files](http://foia.fbi.gov/einstein.htm) -- investigation regarding affiliation with the Communist Party
 
-
 ### Quotes
-
 
 We should take care not to make the intellect our god; it has, of course, powerful muscles, but no personality.
 * Albert Einstein [Quotations](https://quote.wikipedia.org/wiki/albert-einstein) (Wikiquote)
 * [Albert Einstein's Famous Quotes](http://www.thinkexist.com/english-author-x-author-1082-1.htm)
 * Albert Einstein: [Famous Quotes](http://www.some.guy.com/quotes-einstein.html)
 
-
 ### Some Books by Albert Einstein
-
 
 * *Ideas & Opinions* [ISBN 0517003937](/)
 * *World As I See It* [ISBN 080650711X](/)

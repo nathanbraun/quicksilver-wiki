@@ -8,17 +8,13 @@ This is an intermediate page for
 
 ### Stephensonia
 
-
 *It seems that there's something about Robert Heinlein's Juveniles that writers just gravitate to.*
 
 ### Authored entries
 
-
 * [Heinlein:Robert:Have Space Suit Will Travel:40:Almost halfway to the Moon, I'd say (Neal Stephenson)](/heinlein-robert-have-space-suit-will-travel-40-almost-halfway-to-the-moon-i-d-say-neal-stephenson)
 
-
 ### Community entry: Escape velocity
-
 
 An **escape velocity** is the minimum speed at which an object without propulsion can move away from a source of a gravitational field indefinitely if there is no friction. (This definition may need modification for the practical problem of two or more sources in some cases. In any case, the object is assumed to be a point with a mass that is negligible compared with that of the source of the field, usually an excellent approximation.) It is commonly described as the speed needed to break free from a gravitational field, but this is inaccurate because gravitational fields are infinite in extent. 
 
@@ -30,13 +26,11 @@ Defined a bit more formally "escape velocity" is the initial speed required to g
 
 For a simple case of escape velocity from a single body, escape velocity can be calculated as follows: 
 
-![{1\over 2}m(v_e)^2={{GMm} \over r}](/web/20060725171311im_/http://www.metaweb.com/wiki/upload/math/275dfe791b582bc7da9f15d33b1fa1fd.png)
-![v_e = \sqrt{2 G M \over r}](/web/20060725171311im_/http://www.metaweb.com/wiki/upload/math/e9d8012a53e448a4432166aa0c5bf8c0.png)
+![{1\over 2}m(v_e)^2={{GMm} \over r}](/images/275dfe791b582bc7da9f15d33b1fa1fd.png)
 
 where *v**e* is the escape velocity, *G* is the *gravitational constant*, *M* is the *mass* of the body being escaped from, "m" is the *mass* of the escaping body (cancels out), and *r* is the *[distance* between the center of the body and the point for which escape velocity is being calculated.
 
 ### Related entries
-
 
 * [Heinlein:Robert:Have Space Suit Will Travel](/heinlein-robert-have-space-suit-will-travel)
 * [Einstein's Principle of Equivalence](/einstein-s-principle-of-equivalence)
@@ -56,8 +50,6 @@ where *v**e* is the escape velocity, *G* is the *gravitational constant*, *M* is
 * [Meter](/meter)
 * [Stephenson:Neal:Quicksilver:804:in fact it was a vector (Olivier Gerard)](/stephenson-neal-quicksilver-804-in-fact-it-was-a-vector-olivier-gerard)
 
-
 ### External links
-
 
 * [http://en2.wikipedia.org/wiki/Escape\_velocity](https://en.wikipedia.org/wiki/escape_velocity)

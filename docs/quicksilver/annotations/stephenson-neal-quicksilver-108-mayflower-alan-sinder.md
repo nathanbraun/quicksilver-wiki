@@ -7,35 +7,28 @@ a page for **Massachusetts** and both **Mayflowers** The ship and Daniel's Aunt
 
 ### Stephensonia
 
-
 *What's not to like about **[Upnor](/louis-anglesey-earl-of-upnor)**'s fantasy about [Daniel](/daniel-waterhouse)'s wife being an Indian princess.*
 
 ### Authored entries
-
 
 * [Stephenson:Neal:Quicksilver:Drake Waterhouse (Jeremy Bornstein)](/stephenson-neal-quicksilver-drake-waterhouse-jeremy-bornstein)
 * [Stephenson:Neal:Quicksilver:94:found God (Neal Stephenson)](/stephenson-neal-quicksilver-94-found-god-neal-stephenson)
 * [Stephenson:Neal:Quicksilver:160:Regents Firewall (Simon)](/stephenson-neal-quicksilver-160-regents-firewall-simon)
 
-
 ### [Drake Waterhouse](/drake-waterhouse)'s 17th Century (the 1600's)
-
 
 The power of the French and the English increased in this century, and the Power of the Spanish declined. In 1618, two years before the Pilgrims settled in America, the famous **Thirty Years War** began. Many European nations were fighting over political and religious differences. 
 
 ### The Pilgrims
 
-
 In 1620, a group of 102 English people sailed on the "Mayflower" for Virginia, where they could worship as they pleased (and repress others). In November they reached the coast of Massachusetts, and there founded Plymouth Colony. The winter was difficult. Over half of them died. But their first harvest in 1621, while not large, was encouraging. Thankful, they invited ninety of their Indian friends and had a great feast of deer meat, roast duck and goose, clams, corn bread, and wild plums. 
 
 ### Mayflower Ham neé Waterhouse
 
-
 *Drake was a backer of the Mayflower expedition. And he named his daughter for the ship. She married the goldsmith named Ham. The Waterhouse wealth is banked with him in something called the arrangement. Mayflower Ham neé Waterhouse seems to be a paragon of childbearing womanhood. Sterling looks after her and the children when things go bust.*
-[![it's all good](/web/20060725170844im_/http://www.metaweb.com/wiki/upload/4/43/Mw_mf.jpg)](it-s-all-good)  
+  
 **The Replica Mayflower**
 ### Mayflower
-
 
 The Mayflower was the ship which transported the Pilgrim Fathers from Plymouth, England to North Virginia (in what was later to become the United States of America) in 1620 (left Plymouth on September 6). Initially the plan was for the voyage to be made in two vessels (the other being the Speedwell), however, due to problems after setting out both ships were forced to return and after some reorganisation the voyage was made in the Mayflower alone. As a result of the delay, the settlers did not arrive until the onset of winter, which made for a difficult time for them. On April 5, 1621 the Mayflower set sail from Plymouth Colony in Massachusetts on a return trip to Great Britain. 
 
@@ -44,7 +37,6 @@ Details regarding the size and overall dimensions of the ship are unknown, but i
 The ship Mayflower was principally used as a cargo ship trading between England and other European contries, principally France but also Norway, Germany and possibly Spain. At least between 1609 and 1623 it was mastered by Christopher Jones, who was Captain on the trans-atlantic voyage, and based in Rotherhithe. He was buried in the graveyard of St Mary's Church, Rotherhithe following his death in March 1623, and it is likely that the ship was broken up for scrap lumber there in the following year. 
 
 ### William Bradford
-
 
 William Bradford (1589/90 - May 9, 1657) was a leader of the Pilgrim settlers of the Plymouth Colony in Massachusetts, and became Governor of the Plymouth Colony. 
 
@@ -58,13 +50,11 @@ William Bradford's second wife, Alice Carpenter, came to Plymouth on the Anne in
 
 ### [Massachusetts Bay Colony](https://en.wikipedia.org/wiki/massachusetts-bay-colony)
 
-
 The **Massachusetts Bay Colony** (sometimes called by the name **Massachusetts Bay Company**, for the institution that founded it) was the direct predecessor of the Province of Massachusetts Bay and then the Commonwealth of Massachusetts, a State of the united States. 
 
 The colony was established under a charter issued to the Massachusetts Bay Company. There were actually two companies that preceded the Massachusetts Bay Company. The Dorchester Company planted a fishing colony on Cape Ann (at modern Gloucester) in 1624, but this did not succeed. Most colonists returned to England, but a few under Roger Conant moved to Salem where they set up a trading post. They were followed by the New England Company which received a land patent extending from the Merrimack River to the Charles River plus three miles on either side. John Endicott led a group of Puritan settlers to Salem, and served as governor from their arrival on September 6, 1628. The Massachusetts Bay Company replaced both of these when the Puritans were able to convert the patents into a royal charter on March 4, 1629.
 
 ### A [Puritan](/puritan) Colony
-
 
 The first 400 settlers under this new charter departed in April 1629. Most, but not all of the members of the Company were Puritans, and events during the spring and summer of 1629 convinced them they could only remain non conformists in the Church of England by getting out of England. [Charles I](/charles-i) had dissolved the parliament, and [William Laud](/william-laud), the Bishop of London, renewed the pressure on the separatist Puritans to conform with church practices. His harassment was a direct cause of the progressively larger emigration over the next few years. 
 
@@ -76,13 +66,11 @@ The colony celebrated its first Thanksgiving Day on July 8, 1630. Although the P
 
 ### The Seeds of Democracy
 
-
 The colony's charter granted to the Massachusetts General Court the authority to elect officers and to make laws. Their first meeting in America was held October of 1630, but was attended by only eight freemen. They voted to grant all legislative, executive, and judicial power to a "Council" of the Governor's assistants (those same eight men). They then set up town boundaries, created taxes, and elected officers. To quell unrest caused by this limited franchise, they added 118 settlers to the court as freemen, but power remained with the council. The first murmers against the system arose when a tax was imposed on the entire colony in 1632, but Winthrop was able to quiet fears. 
 
 In 1634, the issue of governance arose again, and a group headed by Thomas Dudley demanded to see the charter. The learned of the provisions that the general court should make all laws, and that all freemen should be members. They demanded that it be enforced to the letter, but eventually reached a compromise with governor Winthrop. They agreed to a General Court made up of two delegates elected by each town, the Governor's council of advisors, and the Governor himself. This court was to have authority over "The raising up public stock" (taxes) and "what they shold agree upon should bind all." What Wintrop did not expect was that binding included the election of the governor, and Dudley was elected. The first revolution was complete, and a trading company had become a representative democracy. By 1641, they had added the first code of laws, that specified required behavior and punishments.
 
 #### Governors of the Massachusetts Bay Colony
-
 
 * John Winthrop - 1630-33, 1637-39, 1642-43, 1646-48
 * Thomas Dudley - 1634, 1640, 1645, 1650
@@ -93,16 +81,13 @@ In 1634, the issue of governance arose again, and a group headed by Thomas Dudle
 * John Leverett - 1673-1678
 * Simon Bradstreet - 1679-80
 
-
 ### [Province of Massachusetts Bay](https://en.wikipedia.org/wiki/province-of-massachusetts-bay)
-
 
 The Province of Massachusetts Bay was a crown colony organized October 7, 1691 in North America by the monarch of England. The charter was enacted May 14, 1692 and included Massachusetts Bay Colony, Plymouth Colony, Martha's Vineyard, Nantucket, the Province of Maine and what is now Nova Scotia. (Nova Scotia was separated out in 1696, and became the Province of Nova Scotia in 1713.) The Province of New Hampshire gained its independence from Massachusetts at the time of the creation of the Province of Massachusetts Bay. 
 
 From 1691, the history of the Province of Massachusetts Bay is usually considered to be the same as that of Massachusetts. The 1691 "William and Mary Charter" was amended by King George I's "Explanatory Charter" which expanded on the original rights granted to the colony. The Province of Massachusetts Bay existed until approximately October 7, 1774 when the General Court of Massachusetts established a provincial congress in response to the tightening control of the crown, and as a preceding act to the revolt of the American Revolutionary War.
 
 ### Related entries
-
 
 * [Waterhouse family](/stephenson-neal-quicksilver-waterhouse-family)
 * [Archbishop Laud](/archbishop-laud)
@@ -114,9 +99,7 @@ From 1691, the history of the Province of Massachusetts Bay is usually considere
 * [Ben Franklin](/ben-franklin)
 * [Stephenson:Neal:Quicksilver:Mayflower (Waterhouse) Ham](/stephenson-neal-quicksilver-mayflower-waterhouse-ham)
 
-
 ### External links
-
 
 * [English Civil War](https://en.wikipedia.org/wiki/english-civil-war)
 * [An Enhanced Wikipedia entry on Charles I](http://www.dropbears.com/b-broughsbooks-history-articles-charles-i-england.htm)

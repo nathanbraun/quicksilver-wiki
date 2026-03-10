@@ -7,7 +7,7 @@ This is a placeholder for **Gold knows...**
 ### Stephensonia
 
 
-*The alchemical symbol for **gold** adorns the cover of [Cryptonomicon](/cryptonomicon).*![CryptocoverminiMW.jpg](/https://web.archive.org/web/20060725170211im_/http://www.metaweb.com/wiki/upload/5/50/CryptocoverminiMW.jpg)  
+*The alchemical symbol for **gold** adorns the cover of [Cryptonomicon](/cryptonomicon).*![CryptocoverminiMW.jpg](/https://web.archive.org/images/CryptocoverminiMW.jpg)  
 **C R Y P T O N O M I C O N**  
 **Alchemy's symbol for Gold**
 
@@ -87,7 +87,7 @@ Throughout history governments have been known to create more coinage than their
 #### Features of Modern Coinage
 
  
-The milled edges still found on many coins were originally designed to show that none of the valuable metal had been shaved off the coin. Prior to the use of milled edged coins, circulating currency suffered from "shaving", a common problem where members of the public would cut the edges off circulating coins made of precious metals. Circulating unmilled british sterling silver coins were known to be shaved to almost half of their minted weight. This form of debasement in Tudor England lead to the formulation of [Gresham's Law](https://en.wikipedia.org/wiki/gresham-s-law). The monarch would have to periodically recall, paying only bullion value of the silver, and re-mint circulating coins.![1c_comm.png](/https://web.archive.org/web/20060725170211im_/http://en.wikipedia.org/upload/2/2d/1c_comm.png)  
+The milled edges still found on many coins were originally designed to show that none of the valuable metal had been shaved off the coin. Prior to the use of milled edged coins, circulating currency suffered from "shaving", a common problem where members of the public would cut the edges off circulating coins made of precious metals. Circulating unmilled british sterling silver coins were known to be shaved to almost half of their minted weight. This form of debasement in Tudor England lead to the formulation of [Gresham's Law](https://en.wikipedia.org/wiki/gresham-s-law). The monarch would have to periodically recall, paying only bullion value of the silver, and re-mint circulating coins.![1c_comm.png](/https://web.archive.org/images/1c_comm.png)  
 Modern 1c Euro coin
 
 The front side of a coin, traditionally carrying a picture of the head of a monarch or other authority, is called the *obverse*, or colloquially *heads*. The back side is called the *reverse*, or colloquially *tails*.
@@ -126,7 +126,7 @@ Sterling (with a basic currency unit of the *Tealby Penny*, rather than the poun
 ### [The gold standard](https://en.wikipedia.org/wiki/gold-standard)
 
 
-Sterling unofficially moved to the gold standard from silver in 1717 thanks to Sir [Isaac Newton](/isaac-newton), who was Master of the Royal Mint, and the use of silver declined until the official adoption of the gold standard following the end of the Napoleonic Wars, in 1821. This lasted until Britain, in common with many other countries, abandoned the standard during World War I, in 1919. During this period, the pound was generally valued at around 4.9 US dollars.![Gold-Newtons.jpg](/https://web.archive.org/web/20060725170211im_/http://www.metaweb.com/wiki/upload/5/5b/Gold-Newtons.jpg)  
+Sterling unofficially moved to the gold standard from silver in 1717 thanks to Sir [Isaac Newton](/isaac-newton), who was Master of the Royal Mint, and the use of silver declined until the official adoption of the gold standard following the end of the Napoleonic Wars, in 1821. This lasted until Britain, in common with many other countries, abandoned the standard during World War I, in 1919. During this period, the pound was generally valued at around 4.9 US dollars.![Gold-Newtons.jpg](/https://web.archive.org/images/Gold-Newtons.jpg)  
 **Isaac Newton as Coinage?**  
 ***Suspect they're tests for medalions***
 

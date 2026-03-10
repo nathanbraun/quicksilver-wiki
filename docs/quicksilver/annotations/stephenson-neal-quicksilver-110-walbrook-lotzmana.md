@@ -13,7 +13,7 @@ This [Quicksilver](/quicksilver) page is about **Walbrook stream**.
 ### Lotzmana: Walbrook
 
 
-![MWmithrasmini.jpg](/https://web.archive.org/web/20060725170811im_/http://www.metaweb.com/wiki/upload/e/ef/MWmithrasmini.jpg)  
+![MWmithrasmini.jpg](/https://web.archive.org/images/MWmithrasmini.jpg)  
 **Mithras  
 gave another *demigod* a run for his money in his day**
 **Walbrook stream** run in the center of the Roman settlement which is now [London](/london) (Londinium). The stream is now entirely underground and only a street named Walbrook reminds of its existence.

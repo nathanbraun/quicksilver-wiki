@@ -6,13 +6,11 @@ From the Quicksilver Metaweb.
 This page connects to the ***[Cryptonomicon](/cryptonomicon)*** via Lovecraft's fictional ***Necronomicon***
 ### Stephensonia
 
-
 *When Stephenson came up with the title *Cryptonomicon*, he was not aware of the word's origin. He was directly inspired by the fictional book's appearance in [the Evil Dead](https://en.wikipedia.org/wiki/the-evil-dead) series of comedic horror films. Mining the same source material are [Penny Arcade](http://www.penny.arcade.com/view-php3-date-1999-07-28-res-l) and [Megatokyo](http://www.megatokyo.com/strips-0096.gif) with the use of the Necrowombicom; And, [Howard Hallis](http://www.howardhallis.com/bis-cthulhuchick) makes light of this [Jack Chick tract](http://www.chick.com/reading-tracts-0100-0100-01.asp) while talking of the [elder gods](http://www.geocities.com/tribhis-cthulhutract.html) (which earned him a phony *cease and desist* letter). A mysterious character like [Enoch Root](/enoch-root) will always invoke *[mages](/stephenson-neal-quicksilver-22-t-was-all-rubbish-alan-sinder) and [monsters](/stephenson-neal-cryptonomicon-277-a-sharpened-y-alan-sinder)*.
 
 Lovecraft could easily qualify for the oddest duck in a room of odd ducks - but that is a different tale for another day.*
 
 ### Authored entries
-
 
 * [Stephenson:Neal:Cryptonomicon:277:a sharpened Y...(Alan Sinder)](/stephenson-neal-cryptonomicon-277-a-sharpened-y-alan-sinder)
 * [Boyle's Law, aka Hooke's, Boyle's, and Mariotte's Law (Neal Stephenson)](/boyle-s-law-aka-hooke-s-boyle-s-and-mariotte-s-law-neal-stephenson)
@@ -29,11 +27,9 @@ Lovecraft could easily qualify for the oddest duck in a room of odd ducks - but 
 * [Stephenson:Neal:Quicksilver:688:Theologians? Sorcerers? (Neal Stephenson)](/stephenson-neal-quicksilver-688-theologians-sorcerers-neal-stephenson)
 * [Stephenson:Neal:Quicksilver:747:A Swiss mathematician named Fatio (Neal Stephenson)](/stephenson-neal-quicksilver-747-a-swiss-mathematician-named-fatio-neal-stephenson)
 
-
 ### [Wikipedia: Cthulhu Mythos plus enhancements](https://en.wikipedia.org/wiki/cthulhu-mythos)
 
-
-[![Lovecraft.jpg](/web/20060725223727im_/http://www.metaweb.com/wiki/upload/2/2e/Lovecraft.jpg)](lovecraft-jpg)  
+  
 **Howard Phillips Lovecraft**
 **Cthulhu Mythos** is the label coined by the writer August Derleth for the shared world based upon the themes, characters, and story elements found in the works of H. P. Lovecraft, as well as his protegés and later writers influenced by him. Combined, they form a kind of mythosa system of symbols upon which Lovecraft could craft his dreamy, richly resonant stories. However, it should be noted that much of the mythos published after Lovecraft's death is at great variance with Lovecraft's original concept of a valueless, meaningless universe of chaos. Derleth presents a codified mythos influenced by his own Christian values, a struggle of good versus evil. Lovecraft himself was an atheist who claimed Kant's "ethical system is a joke." Indeed, some Lovecraft scholars contend that the Cthulhu Mythos is merely a theory proposed by Derleth; it was never intended to be a cohesive, singular entity by Lovecraft, but rather a collection of images which can be used in separate works to provoke the same emotions.
 
@@ -53,7 +49,6 @@ If anything, the collection of monsters in Lovecraft's writings are far from con
 Central to the mythos are the Great Old Ones, a fearsome assortment of deities led by the dreaded Cthulhu (though there are other beings in the mythos that are even more monstrous), who lies in a state of hibernation in the lost and sunken city of R'lyeh. "When the stars are right," Cthulhu will awaken and wreak havoc upon the earth.
 
 ### External Links
-
 
 * [Wikipedia: Cthulhu mythos](https://en.wikipedia.org/wiki/cthulhu-mythos) was the initial basis for this entry.
 * [The H. P. Lovecraft Archive](http://www.hplovecraft.com)

@@ -8,7 +8,7 @@ A page for the garment secondmost associated with wizards - their **robes**
 
 
 *[Enoch Root](/enoch-root)'s thoughts on dressing up in a wizard's robes seem to focus on the fleecing of gullible sheep. And the rage of mobiles that are bound to follow fund-raising schemes.*
-![Daggeru.jpg](/https://web.archive.org/web/20060725170617im_/http://en.wikipedia.org/upload/8/80/Daggeru.jpg)  
+![Daggeru.jpg](/https://web.archive.org/images/Daggeru.jpg)  
 
 **A Modern Example Of Wearing Robes**
 
@@ -31,7 +31,7 @@ A page for the garment secondmost associated with wizards - their **robes**
 ### Enhanced [Wikipedia: Robe](https://en.wikipedia.org/wiki/robe)
 
 
-**Robes** are dress sometimes taken on by faculty on important academic events like graduation or inauguration. The colour, the length of the hood and the form of the arms give indications of the university of origin and the academic rank. Three stripes on the arm are allowed to wear only by faculty with a Ph.D. (doctor title).![Wizardmw.jpg](/https://web.archive.org/web/20060725170617im_/http://www.metaweb.com/wiki/upload/1/1c/Wizardmw.jpg)  
+**Robes** are dress sometimes taken on by faculty on important academic events like graduation or inauguration. The colour, the length of the hood and the form of the arms give indications of the university of origin and the academic rank. Three stripes on the arm are allowed to wear only by faculty with a Ph.D. (doctor title).![Wizardmw.jpg](/https://web.archive.org/images/Wizardmw.jpg)  
 **A Generic Wizard  
 from a RPG set**
 

@@ -25,7 +25,7 @@ Kinakuta is more accurately a fictional island realm that is organized like Brun
 
 It has been confused with [Malabar](/malabar), the domain of Queen Kottakal, which is located on the southern coast of India.
 
-[![Indo.png](/web/20060727100638im_/http://www.metaweb.com/wiki/upload/d/dd/Indo.png)](indo-png)  
+[![Indo.png](/images/Indo.png)](indo-png)  
 
 *Map of the Queena-Kootah neighborhood*
 

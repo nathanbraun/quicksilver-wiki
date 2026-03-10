@@ -18,7 +18,7 @@ This is a page on a light Enoch missed  **William Gilbert**
 ### William Gilbert
 
  
-Mostly from Wikipedia, the free encyclopedia.![GilbertMW.jpg](/https://web.archive.org/web/20060725170512im_/http://www.metaweb.com/wiki/upload/9/97/GilbertMW.jpg)  
+Mostly from Wikipedia, the free encyclopedia.![GilbertMW.jpg](/https://web.archive.org/images/GilbertMW.jpg)  
 **Dr. William Gilbert**
 
 **William Gilbert** (or **William Gylberde**) May 24, 1544, Colchester, England - December 10, 1603, [London](/london), English physician to [Elizabeth I](/elizabeth-i-of-england) and [James I](/james-i-of-england) and scientific researcher into magnetism and electricity. He died of the [plague](/black-plague) on November 30, 1603. William Gilbert was born into a fairly wealthy family in Colchester, Essex. He was educated at Cambridge University, where he received a BA, MA and MD, after which he became a senior fellow. His scientific status was further recognised when he became President of the Royal College of Physicians in 1600, having practised as a doctor in London and its environs for some years. Though by profession a physician his fame rests upon his treatise, *De Magnete, Magneticisque Corporibus, et de Magno Magnete Tellure* (The Magnet and Magnetic Bodies, and on That Great Magnet the Earth) published in 1600, for which he charged seven shillings and sixpence.
@@ -40,7 +40,7 @@ Galileo's efforts to make a truly powerful armed lodestone for his patrons proba
 ### Birth of the Scientific Method
 
 
-Bacon  unfortunately  was so little appreciative of Gilberts book, as a careful analysis of the method actually employed in it might have guarded him from some errors - such as catching pneumonia while trying to freeze food. Gilbert has been called the first real physicist and the first trustworthy methodical experimenter.![Demagnete.jpg](/https://web.archive.org/web/20060725170512im_/http://www.metaweb.com/wiki/upload/b/bd/Demagnete.jpg)  
+Bacon  unfortunately  was so little appreciative of Gilberts book, as a careful analysis of the method actually employed in it might have guarded him from some errors - such as catching pneumonia while trying to freeze food. Gilbert has been called the first real physicist and the first trustworthy methodical experimenter.![Demagnete.jpg](/https://web.archive.org/images/Demagnete.jpg)  
 **Frontispage: De Magnete  
 
 *De Magnete, Magneticisque  

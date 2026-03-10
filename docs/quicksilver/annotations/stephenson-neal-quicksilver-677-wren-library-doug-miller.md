@@ -32,7 +32,7 @@ This [Quicksilver](/quicksilver) page talks about **the Wren Library** **Cambrid
 
 
 **Trinity College** is one of the constituent [colleges of the University of Cambridge](https://en.wikipedia.org/wiki/university-of-cambridge) in Cambridge, England. Trinity is the largest and richest of the colleges in Cambridge, and is now a home to around 600 undergraduates, 300 graduates, and over 160 Fellows.
-![Trinity_CollegeMW.jpg](/https://web.archive.org/web/20060725170636im_/http://www.metaweb.com/wiki/upload/e/e2/Trinity_CollegeMW.jpg)  
+![Trinity_CollegeMW.jpg](/https://web.archive.org/images/Trinity_CollegeMW.jpg)  
  **Trinity College's Great Court, with the students Dinner Hall on the very left, the Master's Lodge  
 (currently being renovated), the Fountain in the middle, and the Chapel on the right.  
 This picture was taken by Timwi in February 2004 and was released by him into the public domain**

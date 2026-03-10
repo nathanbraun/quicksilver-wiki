@@ -7,14 +7,13 @@ This is a page for **gear heads** and the **Arithmatickal Engine**.
 
 ### Arithmetickal Engine
 
-
 [Gottfried Wilhelm von Leibniz](/gottfried-wilhelm-von-leibniz) lived in Paris from 1672-6, and while waiting for an opportunity to carry out his diplomatic objectives, set about learning mathematics and getting himself known in intellectual circles. So Leibniz took a trip to [London](/london), in January 1673, which enabled him to make personal contact with members of the [Royal Society](/royal-society), in particular its secretary, his fellow German [Henry Oldenburg](/henry-oldenburg). 
 
 The Society had given a mixed reception to his treatise, *The Theory of Concrete Motion*, which he had sent them, but they were very intrigued by another of his projects which he had brought along to show them. This was the prototype of a mechanical calculator he had been working on while still in Germany. It may have been on this trip that he learned of (or heard rumors about, depending on your position in the controversy) Newton's work on the calculus (see [The Priority Dispute](/newton-vs-leibniz)).
 
 He was very proud of his invention, once thought of commemorating it with a medal bearing the motto *SUPERIOR TO MAN*, and much later he had a machine made for Peter the Great of Russia to send to the Emperor of China as an example of superior Western technology. Its immediate applications were obvious: it would save considerable labor and improve accuracy in accountancy, administration, surveying, scientific research, production of mathematical tables and so on. This was all more significant than we might now appreciate, since at the time even educated people rarely understood multiplication, let alone division. For example, [Samuel Pepys](/samuel-pepys) had to learn his multiplication tables when already a senior administrator at the Navy Office.
 
-[![Liebniz-CalculatorMW.jpg](/web/20060725170507im_/http://www.metaweb.com/wiki/upload/b/bf/Liebniz-CalculatorMW.jpg)](liebniz-calculatormw-jpg)  
+  
 
 **T H E   A R I T H M E T I C K A L   E N G I N E**  
 
@@ -34,9 +33,7 @@ Leibniz's trip to [London](/london) was cut short by the news of the sudden deat
 * of Boineburg in December 1672,
 * and of the Elector in February 1673.
 
-
 ### IBM's Replica
-
 
 IBM built [a replica](http://www.1.ibm.com/ibm-history-exhibits-attic3-attic3-037.html) of the Leibniz Calculating Machine.
 
@@ -44,6 +41,6 @@ IBM built [a replica](http://www.1.ibm.com/ibm-history-exhibits-attic3-attic3-03
 
 One is also curious about the logic mill of Daniel's. His school's [tee-shirt](http://www.dogtownu.com/public-html-quicksilver-images-qs-halo-tan.jpg) display a portion of the machinery.
 
-[![Curta AdMW.jpg](/web/20060725170507im_/http://www.metaweb.com/wiki/upload/c/cf/Curta_AdMW.jpg)](curta-admw-jpg)  
+  
 
 **The Curta Calculator**

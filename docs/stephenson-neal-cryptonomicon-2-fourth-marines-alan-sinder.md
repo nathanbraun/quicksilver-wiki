@@ -6,20 +6,16 @@ From the Quicksilver Metaweb.
 This is the [Cryptonomicon](/cryptonomicon) page for the **Fourth Marines**
 ### Stephensonia
 
-
 *[Bobby Shaftoe](/bobby-shaftoe) gives us his unique insight into the mindset of a Marine Raider.*
 
 ### Authored entries
 
-
 * [Stephenson:Neal:Cryptonomicon:118:the good guys(Alan Sinder)](/stephenson-neal-cryptonomicon-118-the-good-guys-alan-sinder)
 * [Stephenson:Neal:Cryptonomicon:277:a sharpened Y...(Alan Sinder)](/stephenson-neal-cryptonomicon-277-a-sharpened-y-alan-sinder)
 
-
 ### The Fighting Leathernecks: US Marines' Creation and History
 
-
-[![globeandanchor](/web/20060725222538im_/http://www.metaweb.com/wiki/upload/2/2c/MwSemperFidelis.jpg)](globeandanchor)  
+  
 **USMC Emblem**
 
 The United States Marine Corps first appeared as the "Continental Marines" during the American Revolutionary War, formed by a resolution of the Continental Congress on November 10, 1775. They served as landing troops for the recently created Continental Navy. The Continental Marines were disbanded at end of war in April of 1783 but reformed on July 11, 1798. In the days of wooden sailing ships, the Continental Marines kept order at sea and maintained internal security on board ship. In combat they manned the fighting tops, sniping at gun crews on enemy ships. On deck they led boarding parties in close action and repelled enemy boarding parties. These Marines earned the nickname "Leatherneck." The time honored sobriquet was derived from the thick leather stock worn around the neck to protect the Marine from the decapitating slash of an enemy's cutlass.
@@ -38,10 +34,8 @@ Historically, the United States Marine Corps has achieved fame in several campai
 
 ### [The United State Marine Corps](https://en.wikipedia.org/wiki/united-states-marine-corps)
 
-
 The **United States Marine Corps (USMC)** forms the second-smallest branch of the [United States Armed Forces](https://en.wikipedia.org/wiki/united-states-armed-forces), with 170,000 active and 40,000 reserve members as of 2002. The USMC serves as a versatile combat element, adapted to a wide variety of combat situations. Its original purpose, giving it the name *Marine* Corps, comprised the provision naval infantry (combat forces serving aboard naval vessels), and carrying out amphibious operations from the sea onto land. The Marines fully developed and utilized the latter tactic in [World War II](https://en.wikipedia.org/wiki/world-war-ii), most notably in the [Pacific Island Campaign](https://en.wikipedia.org/wiki/pacific-theater-of-operations). The Marine Corps forms part of the Department of the Navy (but not part of the [United States Navy](https://en.wikipedia.org/wiki/united-states-navy)). The Marine Corps has a reputation for being a fierce and effective fighting force, and is famous for the fact that US Marines have never in their entire history resorted to a full, large-scale retreat.
 ### Commandant of the Marine Corps
-
 
 The Commandant of the Marine Corps functions as the highest ranking officer of the Marine Corps. Even though occasionally higher-ranking Marine officers exist, the Commandant is still in charge of the Marine Corps. The Commandant is a member of the Joint Chiefs of Staff, and reports to the Secretary of the Navy, but not to the Chief of Naval Operations. 
 
@@ -49,13 +43,11 @@ Marine Generals Peter Pace (Vice Chairman of the Joint Chiefs of Staff) and Jame
 
 ### Reputation of the Marine Corps
 
-
 The Marines take pride in their [gung-ho](https://en.wikipedia.org/wiki/gung-ho) attitude and are inculcated with a strong belief in their chain of command and the importance of esprit de corps, a spirit of enthusiasm and pride in themselves and the Corps. The Marine Corps' reputation often affects enemy planning and operations before and after combat. However, members of the other armed forces of the United States have complaints that the Marine Corps often emphasizes its prowness at the expense of the reputation of Army or Navy units which are nearby. An example occurred the Battle of the Chosin Reservior in the Korean War, when a Marine officer disparaged the undermanned army infantry regiment which took the initial Chinese attack.
 
 Marine tactics and doctrine tends to emphasize aggressiveness and the offensive, compared to Army tactics for similar units. In addition, the Marines have made a point of recruiting at age 17, tending to enlist youths with more aggressive personalities than their counterparts who join the Army.
 
 ### Symbols of the Marine Corps
-
 
 The Marine motto ***Semper Fidelis*** means *"Always faithful"*. This motto often appears in the shortened form *"Semper Fi!"*
 
@@ -64,7 +56,6 @@ The colors of the Marine Corps are scarlet and gold. They appear along with the 
 Marines have several generic nicknames, mildly derogatory when used by outsiders but complimentary when used by Marines themselves. They include "jarhead" (apparently referring to their "high and tight" haircuts), "gyrene" (perhaps a combination of " G.I. " and "Marine"), "leatherneck", referring to the leather collar that used to be a part of the Marine uniform during the Revolutionary War period, and "Teufelhunden" (Devil Dog) after the Battle of Belleau Wood. In the 1991 Gulf War, Iraqi soldiers nicknamed the Marines "Angels of Death". 
 
 #### Famous Marines
-
 
 * Don Adams
 * Paul Arizin
@@ -151,9 +142,7 @@ Marines have several generic nicknames, mildly derogatory when used by outsiders
 * Ted Williams, baseball player
 * Pete Wilson, Governor of California
 
-
 ### Chain of Command
-
 
 The Marine Corps organization is flexible, and task forces can be formed of any size, though the basic Marine organization is based around the rifle battalion. 
 
@@ -164,7 +153,6 @@ A Marine Expeditionary Brigade (MEB) is larger than a MEU, consisting of multipl
 A Marine Expeditionary Force (MEF), as deployed in Iraq in 2003, comprises a Marine division with an artillery regiment, several tank battalions, several LAV battalions, etc. 
 
 ### [Wikipedia: Marine Raiders](/)
-
 
 The **Marine Raiders** were an elite unit established by the United States Marine Corps during World War II and disbanded by the end of the war. The Raiders were created by an order from President Franklin Delano Roosevelt , acting on advice from (later, Brigadier General) Evans F. Carlson . Carlson, an ex-Marine, had spent years observing the tactics and strategy of Communist Chinese irregulars ( Zhu De and the 8th Route Army in particular) as they fought the occupying Japanese, and had become enthralled with their version of guerilla warfare . Carlson rejoined the Marines in April 1941, gaining a commission from the Commandant as a reserve major.![Marine-raiders.jpg](/images/Marine-raiders.jpg)  
 **Bougainville, Solomon Islands, January 1944  
@@ -181,7 +169,6 @@ Meanwhile (several days earlier), Edson's 1st (along with the 1st Marine Divisio
 
 ### 4th Marine Regiment: *The China Marines*
 
-
 The 4th Marine Regiment consists of one headquarters company and two infantry battalions. The infantry battalions are the basic tactical units that the regiment accomplishes its mission of locating, closing with and destroying the enemy by fire and close combat. These two battalions are drawn from the 1st Marine Division under the Unit Deployment Program, and are stationed at Camp Schwab on Okinawa. Two other 1st Marine Division are deployed on a rotational basis with the 31st Marine Expeditionary Unit at Camp Hansen. 
 
 The 4th Marine Regiment was first activated in April 1914 as part of the Marine Corps' Advances Base Force. The regiment was deployed to the Dominican Republic the following year for a peacekeeping duty that lasted ten years. The 4th Marines were reassigned to San Diego in 1924. Two years later, the regiment was assigned to mail guard duty in the western United States. In early 1927, it sailed for Shanghai. Their principal mission: to protect American lives and property. Despite periodic outbreaks of internal disorder, most of the 4th Marines' 14-year tour in China was a relatively peaceful garrison duty. In late 1941, war loomed in the Far East. On November 28, the era of the China Marines ended, as the last of the regiment set sail for the Philippines. 
@@ -189,7 +176,6 @@ The 4th Marine Regiment was first activated in April 1914 as part of the Marine 
 They arrived on December 1 and were assigned to protect the naval station at Olongapo and nearby Mariveles. Seven days later, Japanese troops landed in Luzon and the 4th Marines were placed under U.S. Army control and subsequently assigned to defend the island fortress of Corregidor, which guards the entrance to Manila Bay. Over the next four months, the 4th Marines grew from a two-battalion regiment to one of five battalions, in the process becoming one of the oldest units in Marine Corps history. As defensive positions fell and units disintegrated, stragglers from the U.S. Army and Navy, as well as small Filipino units were assigned to it. Resistance on the Bataan Peninsula ended on April 9. This permitted Japanese artillery to concentrate on Corregidor. Landing craft began moving toward the island the evening of May 5. At noon the next day, Gen. Jonathan Wainwright, commander of U.S. Forces in the Philippines, surrendered. The 4th Marines burned their colors and -- temporarily -- ceased to exist. 
 
 ### [Last WWII Comanche 'code talker' dies](/)
-
 
 ![Charles_Chibitty.jpg](/images/Charles_Chibitty.jpg)  
 **Charles Chibitty**
@@ -215,13 +201,10 @@ The funeral service was held Tuesday at 10 a.m. He has three surviving grandchil
 
 ### Related entry
 
-
 * [Douglas MacArthur Shaftoe](/douglas-macarthur-shaftoe)
 * [America Shaftoe](/america-shaftoe)
 
-
 ### External links
-
 
 * [Official website](/http-www-usmc-mil)
 * [History of USMC](http://www.venus.net/jsouth-history.html)

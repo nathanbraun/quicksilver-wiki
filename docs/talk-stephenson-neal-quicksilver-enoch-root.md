@@ -3,9 +3,7 @@
 
 From the Quicksilver Metaweb.
 
-
 ## Who is Enoch Root?
-
 
 I liked the suggestion that Enoch is King Solomon. Or Perhaps he is the angel Metatron. Maybe even a space traveller from an advanced race. Has anyone suggested that Enoch is actually an Annunaki? Maybe even Enki himself? These roles are not necessarily inconsistant. For someone who is immortal many personalities could be played out over time. Maybe Enoch is all of the above. (Arden)
  Arden? Hunt down Phil Farmer's ***Time's Last Gift.*** - [Sparky](/user-stsparky)
@@ -14,7 +12,7 @@ Thanks Sparky -- buying it now [Arden](/user-arden)
 
 I have a sneaking suspicion that the answer involves a certain Asian King pegged with, among other things, possession of secret knowledge from (sun) God and uncanny longevity... the latter being commonplace amongst his royal brethren...
 
-[![PossERootmini2MW.jpg](/web/20060725222906im_/http://www.metaweb.com/wiki/upload/c/c7/PossERootmini2MW.jpg)](posserootmini2mw-jpg)  
+  
 
 ***Root?***
 
@@ -28,9 +26,7 @@ Question: Should information about Enoch's appearances in Cryptonomicon be under
 
 Given that Cryptonomicon stands sort of apart from the Baroque Cycle, is it worthwhile to have two separate entries for Enoch? Somebody who has just finished Quicksilver might assume that reading his entry under Quicksilver is spoiler-free, only to have some of his actions in Cryptonomicon spoiled. -- [Stephen Keller](/user-stephen-keller)
 
-
 ---
-
 
  Any mention of Doctor Dee's Enochian Alphabet yet? 
 * [http://www.omniglot.com/writing/enochian.htm](http://www.omniglot.com/writing-enochian.htm) -- [Sparky](/user-stsparky)
@@ -46,8 +42,7 @@ Given that Cryptonomicon stands sort of apart from the Baroque Cycle, is it wort
 
  [http://en.wikipedia.org/wiki/Sleeping\_hero](https://en.wikipedia.org/wiki/sleeping_hero)  
 
-
-[![PossERootminiMW.jpg](/web/20060725222906im_/http://www.metaweb.com/wiki/upload/6/68/PossERootminiMW.jpg)](posserootminimw-jpg)  
+  
 
 ***Beardless Root?***  
 
@@ -58,28 +53,19 @@ likely badly…**
 
 * ... whoa — just read an interview where Neal says it is the same Enoch in both books ... [Sparky](/user-stsparky) 05:22, 12 Nov 2003 (PST)
 
-
-
 ---
-
 
 Who is Enoch Root? He's the author, or some avatar thereof. That would explain his immortality, his slightly aloof mystery, his wide-ranging and anachronistic knowledge (such as nutritional iron for treating blood loss), and his general benevolence. [Ashley Y](/user-ashley-y) 02:49, Nov 13, 2003 (PST)
 
-
 ---
-
 
 How prophetic is Enoch's vision of the Charles River Basin? Do High Tech labs flourish? I've only seen the immediate area around Boston's 'Combat Zone' during WorldCon 1980. [Sparky](/user-stsparky) 18:04, 2003 Nov 16 (PST)
 
-
 ---
-
 
 Sparky, you wouldn't believe it if you went into Cambridge, just across the harbor. Most of the companies sound like ones you'd hear in "Austin Powers" BioGen, Genzyme, etc. :[Ron Adams](/user-ron-adams) 01:57, Dec 31, 2003 (PST)
 
-
 ---
-
 
 In [Cryptonomicon](/cryptonomicon), does Root really appear at the hospital where Goto Dengo stays before his Golgatha travails? I always thought that priest was called Father Ferdinand. When Root and Goto Dengo meet in Manila, Root explicitly denies having talked to the latter's priest. Ferdinand might be a member of Soc. Eruditorum, too. In addition, Goto Dengo's son seems to be named after Ferdinand.
 [Hwilker](/user-hwilker) 10:06, 21 Jan 2004 (PST)
@@ -99,17 +85,13 @@ Time to change the subject. “*Ignoti et quasi occulti--Societas Eruditorum,*�
 “Only insofar as it is good for them,” says Father Ferdinand. “It's not like those guys are going to run out and build us a new cathedral or something.”
 - [Sparky](/user-stsparky) 16:47, 2004 Jan 21 (PST)
 
-
 ---
-
 
 One aspect of Enoch is that He seems to know what is going on, making him, something of the "Man Behind the Scenes". He is in the right place at the right time, and, he is also the Element which ties All of the Others together -- He is the Unifying Link between the Various, Main players. But, Why is Enoch Root considered, by many, a more interesting, and **Important**, character than Jack? [timberbee](/user-timberbee) 10:22, 7 Feb 2004 (PST)
 
 Most Shaftoes' faults aren't as interesting as Enoch's — perhaps? -- [Sparky](/user-stsparky) 16:28, 2004 Feb 7 (PST)
 
-
 ---
-
 
 [JAVA Cafe au Lait Summation](http://www.cafeaulait.org/cryptonomicon.html):
 * [Isaac Newton](/isaac-newton) invents [calculus](/calculus), governments rise, governments fall, a few small wars take place mostly off camera, and the beginnings of the modern stock markets get going in Amsterdam and [London](/london).
@@ -125,34 +107,24 @@ Most Shaftoes' faults aren't as interesting as Enoch's — perhaps? -- [Sparky](
 	+ [Bonaventure Rossignol](/bonaventure-rossignol)
 	+ [Robert Hooke](/robert-hooke)
 
-
-
 ---
-
 
 So - my eyes watered as I read [The Confusion](/the-confusion)'s page 549. How do the theories come on now? and should Confusion spoilers get separate warnings, in the mould of the Cryptonomicon idea above? [Deusnatura](/user-deusnatura) 15:32, 16 Apr 2004 (PDT) 23:32 16 04 04
  Let others catch up to you. Add *Authored pages* at [The Confusion](/the-confusion) the way Neal does. If you need spoilers -- write SPOILERS on top -- and Pat and I will make them properly formatted. - [Sparky](/user-stsparky) 20:11, 2004 Apr 16 (PDT)
 
-
 ---
-
 
 While rereading [The Confusion](/the-confusion) I have come to believe that Enoch Root is actually King Solomon. The various discussions (see esp Eliza & Newton) concerning Solomon would appear to describe someone along the lines of Enoch Root. - [charwood2](/user-charwood2) 14:35, 2004 Jun 19 (MDT)
  I would love to see the expansion of this. The *real* Solomon was just human. And it wouldn't explain why Enoch is a man of the cloth later. - [Sparky](/user-stsparky)
 Well, seems there is a Solomon in the tale after all. But it isn't Enoch. - [Sparky](/user-stsparky) 20:47, 2004 Oct 22 (PDT)
 
-
 ---
-
 
 Enoch Root dies, but doesn't. Hmm
 
-
 ---
 
-
 * In [The Diamond Age](/the-diamond-age) the character [PhyrePhox](/phyrephox) (p. 139ff) might be another manifestation of Root. He has red hair. He is immune to pain. He travels to rural areas to resuce orphaned baby girls. He is member of the CryptNet, a probable secrect society, in which he has a level of 25, when the highest level is thought to be ten. (I welcome discussion on this hypothesis)
-
 
  That he may be the prototype? That's a worthy thought. - [Sparky](/user-stsparky)
 
@@ -165,9 +137,7 @@ Enoch Root dies, but doesn't. Hmm
  "...driven by an unknown force to change history for the better. ...And so Dr. Beckett finds himself leaping from life to life, striving to put right what once went wrong and hoping each time that his next leap will be the leap home." [electricinca](/user-electricinca)
  That is most interesting, Electricinca, I was not aware that Turing Certified A.I.'s had an apetite for bad literature. Perhaps this is what makes you so... Human. [timberbee](/user-timberbee)
 
-
 ---
-
 
 Two recent obit struck me as pertinent:
 
@@ -186,22 +156,15 @@ for the Australian army.
 1. [AP WWII photog George Silk](http://www.latimes.com/news-obituaries-la-me-silk28oct28-1-2361950-print-story-coll-la-news-obituaries) - especially his New Guinea pictures.
 2. [Yo-yo king Bill Liebowitz](http://www.latimes.com/news-obituaries-la-me-liebowitz29oct29-1-4264846-print-story-coll-la-news-obituaries)
 
-
-
-
 ---
-
 
 Being unused to this wiki, I'd added the John Dee connection to the page without spotting this discussion... oh well. It may also be of interest given some of the above discussion that *Ignoti et quasi occulti in hoc mundo* is in fact the motto of the [Society of Mary](http://www.newadvent.org/cathen-09750b.htm), a Catholic order that did missionary work in the South Seas.
 1. Also not mentioned here: the 'mark of Cain' is supposedly red hair, so presumably the first Enoch was a redhead. Also - the Solomon references - isn't it easier to link Root to King David (a redhead, root of the house?).
 2. My own opinion is that he's just the author-as-deus-ex-machina, hence his existence outside time, but the Quicksilver characters perception of him has been based on John Dee. -- BrianEwins
 
-
 * The Enochian alphabet is somewhere - Maybe near Bacon ... [Talk:Stephenson:Neal:Quicksilver:Cryptosystems](/talk-stephenson-neal-quicksilver-cryptosystems) mentions Dee. I grew up on Michael Morrcock's odd Jerry Cornelius / Una Person etc Time/Sidereal Universe Metaverse fiction ... (The Cure for Cancer/The English Assassin and the wonderful Glorianna among too many ... ) - [Sparky](/user-stsparky) 17:13, 2004 Nov 25 (PST)
 
-
 ---
-
 
 Though the ever present ***Red-headed step-child*** seems to indicate Neal is aware this - The first Enoch is Cain's son; The 2nd Enoch is from Adam and Eve's son Seth's line not Cain's ... The biblical Jared was the son of Mahalalel and the father of Enoch. The word is of archaic Hebrew origin, meaning "the descendant". - [Sparky](/user-stsparky)
 
@@ -215,9 +178,7 @@ TODO: Possible reorganization:
 
 Thoughts? - [Pronoiac](/user-pronoiac) 05:24, 13 Dec 2004 (PST)
 
-
 ---
-
 
 * [grok](/grok)
 * [drink](/drink)
@@ -226,49 +187,34 @@ Thoughts? - [Pronoiac](/user-pronoiac) 05:24, 13 Dec 2004 (PST)
 * [information](/information)
 * [awareness](/awareness)
 
-
-
 ---
-
 
 Yes - try. But this original article is my favorite one. - [Sparky](/user-stsparky)
 
  [The Practice Effect](/the-practice-effect) by [David Brin](/david-brin), a [science fiction](/science-fiction) novel. Recommended reding for all persons calling themselves [reader](/reader). Ignore the time travel motive, think about laws of [thermodynamics](/thermodynamics), [energy](/energy), [life](/life), [intelligence](/intelligence), [heat](/heat), [quantum thermodynamics](/quantum-thermodynamics), [fluid dynamics](/fluid-dynamics), [evolution](/evolution), [The Tree of Life](/the-tree-of-life), [DNA](/dna), [white noise](/white-noise) and [me](/me). [A.A](/user-agquarx)
 
-
-
 ---
-
 
  I am sorry for being impolite. Please accept my apology. It was not my intention to subvert anothers' attribution. Howgh. [ALinkA](/user-agquarx)
 
-
 ---
 
-
-
 ##### Discussion:
-
 
 1. Consider: how many [dimensions](/) our [universe](/) there is at reach.
 2. The [definition](/) of [dimension](/).
 3. Perfect [topology](/) AND [structure](/) for a [secret society](/) considering the [process](/) of [movement](/) of [datastream](/) of [data structures](/) containing [information in binary class universe](/) using [signal](/) AND [knowledge management](/) within it [Self](/).
 
-
 * [Morphogenetic field](/), or soul.
 * [Position](/), oppose location.
-
 
  ha ha when I was in elemental school I was entertaining my Self by memorising the digits of pi. When this activity was reported by one of my "friends" to the teacher of mathemathics (I willt she die a painful death) she nearly **screamed** at me not to do this and then ridiculed me for it for some time...[A.A](/user-agquarx)
 
 - originally [ALinkA](/user-agquarx), moved from main entry by [Pronoiac](/user-pronoiac)
 
-
 ---
 
-
 #### Snow Crash
-
 
 Enoch is referenced in Snow Crash, isn't he? He's described as the first 'hacker' (in the programming sense), if my memory serves...
   
@@ -277,28 +223,19 @@ Enoch is referenced in Snow Crash, isn't he? He's described as the first 'hacker
 
 Emanuel Lagos might be a candidate, if he were not conclusively dead at the hands of Raven. He'd have to have some real powers of rejuvination to survive that one. I would suggest that he is instead an un-named co-conspirator with Emanuel, Juanita, Uncle Enzo, Mr. Lee, and Ng prior to Hiro's arrival on the scene, who we do not see or hear about. It appears the only appearance of Enoch in Snow Crash is his possible origin as the God Enki.
 
-
 ---
-
 
 Enoch is the tool of the author not Neal. Neal has the the *young* Vincent Price look whereas Enoch is just this redheaded immortal ... -[Sparky](/user-stsparky)
 
-
-
 ---
-
 
 I would love some feedback on this. I'll troll this post regularly to view any edits or responses. SC
 
-
 ---
-
 
 Looking at Owen Glendowner as a 'Sleeping King' -- more research to do ...
 
 ### OWEN GLENDOWER (Owain Glyndwr) 1354(?) - 1416 (?)
-
-
 
 The followers of Owen Glendower, the medieval Welsh nationalist leader who disappeared in about 1415, firmly believed that should Wales be in any danger from the English, he would return and free them from oppression.
 
@@ -336,28 +273,20 @@ Where did he go? His whereabouts were never known, only fragments of information
 
 So, even if Owen Glendower was not perhaps as successful as he wanted to be, his name and exploits still make him a hero in Welsh history, and rightly so! - [Sparky](/user-stsparky) 21:03, 2005 Feb 23 (PST)
 
-
 ---
-
 
 On pi - 
  ha ha when I was in Elementary School I was entertaining myself by memorising the digits of pi. When this activity was reported by one of my "friends" to the teacher of mathemathics (I willt she die a painful death) she nearly **screamed** at me not to do this and then ridiculed me for it for some time...[A.A](/user-agquarx)
 
-
 ---
-
 
 Bumped into the very friendly [Patrick McGoohan](/) at breakfast. Wooo! He'd make a wonderful Enoch. - [Sparky](/user-stsparky) 09:51, 2005 Jun 17 (PDT)
 
-
 ---
-
 
 Protecting the page because of vandal spammers. Temporary. - [Sparky](/user-stsparky) 20:44, 2006 Apr 20 (PDT)
 
-
 ---
-
 
 I'm surprised not to see this mentioned here already, but by the end of The Baroque Cycle I had come to the conclusion (this may be a spoiler) that Enoch Root was the Biblical Enoch, who was "taken up so that he should not see death" [Hebrews 11:5, Revised Standard Version]. Biblical scholars are no doubt divided on the meaning of this, but there is at least room for interpretations that conclude that this Enoch was granted immortality by God.
  That Enoch is mentioned early in the article; Someone should bring up the Enoch from Push NV - the short lived TV show...

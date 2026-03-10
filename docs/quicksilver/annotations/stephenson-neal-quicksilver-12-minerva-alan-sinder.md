@@ -28,7 +28,7 @@ The self made monster **Blackbeard** is reckoned by [Dappa](/dappa) to want the 
 The British-built ship French Guinea slaver *La Concorde*, destined to become Blackbeard's Queen Anne's Revenge in 1717, underwent its first design change in 1711. The vessel was remodeled in the style of a Dutch flute , which had been a popular design for European merchant ships in the seventeenth century. *In [Quicksilver](/stephenson-neal-quicksilver), the book ends in the month of November 1713, so the Queen Anne's Revenge is in his future.* 
 
 She was in the style of a Dutch flute, which had been a popular design for European merchant ships in the early 1700's. Not content with the 26 cannons she was already carrying, Blackbeard increased the number to 40. Any Dutch Flute was a prize in the early 18th Century.
-![MerchantshipMW.jpg](/https://web.archive.org/web/20060725170907im_/http://www.metaweb.com/wiki/upload/a/a2/MerchantshipMW.jpg)  
+![MerchantshipMW.jpg](/https://web.archive.org/images/MerchantshipMW.jpg)  
 Primarily a prize for the shipping world, the Flute was an impressive 300 ton, 80 foot ship that proved inexpensive to build as well as man. The Flute needed only a dozen seamen. With a flat bottom, broad beams, and a round stern, this ship soon became the favored model of a cargo ship. A large part of the popularity of the Flute for commerce was her incredible cargo capacity; about 150% that of similar ships. In this, they soon became a common prey for savvy pirates.
 
 ### The Flute-ship
@@ -55,7 +55,7 @@ The Minerva has:
 ### Hollandse Fluit (Dutch Flute ship):
 
 
-The Dutch Flute ship was a freighter for European shipping, mainly for the transport of bulk goods on northern routes. The strakes of the hull did not end against a flat escutcheon but were bent around the stern contrary to the pinnace . The buoyancy of the stern and the capacity to carry a heavy superstructure aft was much less because of that, but on the other hand the round stern caused much less drag. (*What first mate Dappa calls **“zog”** meaning “suckage” in his pirate attack briefing for his passenger)*.![MW-Fluit.jpg](/https://web.archive.org/web/20060725170907im_/http://www.metaweb.com/wiki/upload/4/45/MW-Fluit.jpg)  
+The Dutch Flute ship was a freighter for European shipping, mainly for the transport of bulk goods on northern routes. The strakes of the hull did not end against a flat escutcheon but were bent around the stern contrary to the pinnace . The buoyancy of the stern and the capacity to carry a heavy superstructure aft was much less because of that, but on the other hand the round stern caused much less drag. (*What first mate Dappa calls **“zog”** meaning “suckage” in his pirate attack briefing for his passenger)*.![MW-Fluit.jpg](/https://web.archive.org/images/MW-Fluit.jpg)  
 **A Model of the Hollandse Fluit**
 
 The flute-ship came into being at the end of the 16th century. A larger cargo capacity only seemed possible by scaling up, resulting in a deeper draught and less manageable rigging. All this was going against the transport market trend of shallower draught to go farther inshore and at much lower operating cost needing a smaller crew. 

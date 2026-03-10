@@ -7,7 +7,6 @@ From the Quicksilver Metaweb.
 
 Firefighting is the process and profession of extinguishing fires. Firefighting is important in urban areas where firefighters are on constant standby; in wildland areas, and on board ship. 
 
-
 ### Fire-fighting Skills
 
  
@@ -15,11 +14,9 @@ Firefighting has several basic skills: prevention, self-preservation, rescue, pr
 
 ### Prevention
 
-
 Prevention attempts to assure that no place simultaneously has heat, fuel and air. Most prevention programs prevent heat. Every building, including residences, should have sprinklers. No life has ever been lost to fire in a residence with sprinklers. With the small rooms typical of a residence, one or two sprinklers can cover most rooms. If this is not possible, then at least have smoke detectors and a fire-extinguisher. 
 
 ### Self Preservation
-
 
 *Never enter a burning building unless you are a trained firefighter equipped with self-contained breathing apparatus (or equivalent).*
 
@@ -41,7 +38,6 @@ Property preservation is a great help to people. Most fires can be limited to bu
 
 ### Fire Control
 
-
 Fire control consists of depriving a fire of fuel, oxygen or heat. The standard way is to remove heat by spraying the burning solid fuels with water from a fire-hose. Some fuels float on water, and are actually spread by water (such as gasoline). Some departments can use chemical dust even on large fires. These are preferable because the property damage can be so much less than with water. Petroleum fires are more often smothered with foam. In electrical fires, the crucial thing is to turn off the electricity. 
 
 Most fires spread as hot gases move through the structure. Some fires can be controlled or limited by venting these gases to the outside. This can aggravate a fire if it introduces new oxygen, or permits a draft past fuel or structure, so it should be attempted only by veteran fire fighters. 
@@ -50,9 +46,8 @@ Firefighters are constantly training and updating their skills on equipment. Som
 
 ### Miscellanea
 
-
 In popular literature from the United States, firefighters are usually depicted with Dalmatian dogs. The **dalmatian** is a breed of dog, noted for its white coat with (usually) black spots. "Liver *(brown) and* lemon *(yellow) types also exist, though they are much rarer.* 
-[![200px-DalmatianDog.jpg](/web/20060725172455im_/http://www.metaweb.com/wiki/upload/2/25/200px-DalmatianDog.jpg)](200px-dalmatiandog-jpg)  
+  
 
 **Firehouse Dog**
 
@@ -60,18 +55,14 @@ In the USA dalmatians are often known (and portrayed, for example in children's 
 
 * A retired fireman claimed dalmatians were considered *mean* dogs that would clear the way by biting and snapping at gawkers.
 
-
 Dalmatians are famed for their loyalty and good memories and their kindly natures. They also have a reputation for greed, and some have a tendency towards deafness -- information from dalmatian clubs will usually address this issue for new owners. 
 
 The breed was named in the 18th century after Dalmatia, a region of modern Croatia that was once part of Austria, although it is believed to have existed for some time before it was so named. It is also sometimes, believed to erroneously, named Smaller Danish Dog.
 
 ### Related Entries
 
-
 * [Stephenson:Neal:Quicksilver:5:...seen more than one city burn... (Alan Sinder)](/stephenson-neal-quicksilver-5-seen-more-than-one-city-burn-alan-sinder)
 
-
 ### External links
-
 
 * [Wikipedia: Firefighter](https://en.wikipedia.org/wiki/firefighter)

@@ -30,7 +30,7 @@ Chiefly known for working closely with [Isaac Newton](/isaac-newton) by proofrea
 Cotes only published one paper in his lifetime, namely *Logometria*. Cotes was particularly pleased with his rectification of the logarithmic curve as he makes clear in a letter to his friend mathematician [William Jones](http://www.gap.dcs.st.and.ac.uk/history-mathematicians-jones.html) in 1712. 
 
 In particular his work on logarithms led him to study the curve:
-![r = a/^\infty](/web/20060725223433im_/http://www.metaweb.com/wiki/upload/math/a31dee3ecd11e1e65bc1220ec4e1427f.png)
+![r = a/^\infty](/images/a31dee3ecd11e1e65bc1220ec4e1427f.png)
 which he named the [reciprocal spiral](http://www.xahlee.org/specialplanecurves-dir-archimedeanspiral-dir-archimedeanspiral.html).
 
 Jones urged Cotes to publish his work in the Philosophical Transactions of the [Royal Society](/royal-society), but Cotes resisted this wishing to support Cambridge and publish with Cambridge University Press. His early death was to prevent this publication. Cotes discovered an important theorem on the nth roots of unity, anticipated the method of least squares and discovered a method of integrating rational fractions with binomial denominators. His substantial advances in the theory of logarithms, the integral [calculus](/calculus), in numerical methods particularly interpolation and table construction led Newton to say ***if he had lived we might have known something***, indicates the opinion of his abilities held by most of his contemporaries.

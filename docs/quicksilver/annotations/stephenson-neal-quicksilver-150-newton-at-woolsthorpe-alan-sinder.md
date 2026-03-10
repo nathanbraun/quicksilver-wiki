@@ -20,7 +20,7 @@ this is an authored article on **Isaac and gold**
 
 When one *googles* for "gold foil" and "Newton" - one gets Ernest Rutherford as his assistant was *Mary Newton." He used gold foil in his experiments. So he was a successful* modern" alchemist, trying to use science as his *Philosopher's Stone*.
 One also finds - Gold reflects infrared (heat) rays better than any other metal, so it can be used to filter sunlight. Gold film in an astronaut's visor protects the eyes and face without interfering with vision. 
-[![a French astronaut](/web/20060725170630im_/http://www.metaweb.com/wiki/upload/b/b1/MWastronaut.jpg)](a-french-astronaut)  
+[![a French astronaut](/images/MWastronaut.jpg)](a-french-astronaut)  
 **- An Astronaut's Visor has gold film -**
 
 #### Rutherford's Experiment

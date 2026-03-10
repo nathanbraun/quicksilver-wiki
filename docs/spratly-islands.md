@@ -7,17 +7,15 @@ This is a page for the **Spratly Islands**.
 
 ### Stephensonia
 
-
 *The geographical location of the former [Queena-Kootah](/stephenson-neal-the-confusion-queena-kootah) and current [Kinakuta](/kinakuta) is quite this Stephenson's **Treasure Island**  a small fictional Sultanate off the coast of [The Philippines](/philippines).*
 
 ### Treasure Island: The Spratlys
-
 
 The Spratly Islands (or Nansha Islands, Chinese: 南沙群島 in pinyin: nānshāqúndāo; Vietnamese: Trường Sa) are a disputed group of approximately 100 reefs and islets in the South China Sea. They are a part of the South China Sea Islands.
 
 *From the [CIA World Factbook](http://www.cia.gov/cia-publications-factbook-geos-pg.html):*  
 
-[![Pg-map.gif](/web/20060727101228im_/http://www.metaweb.com/wiki/upload/6/62/Pg-map.gif)](pg-map-gif)  
+  
 
 **The Spratly Islands**
 
@@ -39,7 +37,6 @@ In the early 21st century, as part of foreign policy initiatives known as the ne
 
 ### Related entries
 
-
 * [Queena-Kootah](/stephenson-neal-the-confusion-queena-kootah)
 * [Kinakuta](/kinakuta)
 * [Pirates](/pirates)
@@ -47,9 +44,7 @@ In the early 21st century, as part of foreign policy initiatives known as the ne
 * [James Brooke](/james-brooke)
 * [Stephenson:Neal:Cryptonomicon:248:Kinakuta...(Alan Sinder)](/stephenson-neal-cryptonomicon-248-kinakuta-alan-sinder) - the original location of this entry
 
-
 ### External links
-
 
 * [Wikipedia: Spratly Islands](https://en.wikipedia.org/wiki/spratly-islands) - basis for this entry, and also a better title...
 	+ [Geography](https://en.wikipedia.org/wiki/geography-of-the-spratly-islands)

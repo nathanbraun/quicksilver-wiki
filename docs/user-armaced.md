@@ -3,7 +3,7 @@
 
 From the Quicksilver Metaweb.
 
-[![User-Armaced.jpg](/web/20060725225456im_/http://www.metaweb.com/wiki/upload/0/0e/User-Armaced.jpg)](user-armaced-jpg)  
+  
 **My baby girl**
 I am a fan of Neal Stephenson, Neil Gaiman, several other Neils, Jim Dodge, Robert Heinlein, Math, Water Polo, Drums, Aaron Sorkin, Joss Whedon, The Action Request System, some other geeky stuff, and [my family](http://www.konas.com).
 
@@ -12,8 +12,6 @@ I finished [The System of the World](/stephenson-neal-the-system-of-the-world) o
 [My Contributions](http://www.metaweb.com/wiki-wiki-phtml-title-special-contributions-target-armaced) to the metaweb.
 
 ## External Links
-
-
 
 * [Remedy Software](http://www.remedy.com)
 * [Remedy Software Support](http://supportweb.remedy.com) - where you will find some of my work.

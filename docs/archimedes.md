@@ -6,7 +6,6 @@ From the Quicksilver Metaweb.
 this is a placeholder for **Archimedes**
 ### Archimedes
 
-
 From Wikipedia sources
 
 **Archimedes of Syracuse** (circa 287 BCE -212 BCE), was a Greek mathematician, astronomer, physicist and engineer. 
@@ -20,9 +19,7 @@ In creativity and insight, he exceeds any other mathematician prior to the Europ
 
 In the process, he calculated the oldest known example of a geometric series with the ratio 1/4: ![Parabola.png](/images/Parabola.png)  
 
-
 In the process, he calculated the oldest known example of a *geometric series* with the ratio 1/4:
-![ \sum_{n=0}^\infty 4^{-n} = 1 + 4^{-1} + 4^{-2} + 4^{-3} + \cdots = {4\over 3} \;. ](/web/20060725171038im_/http://www.metaweb.com/wiki/upload/math/e9536b14f759bdb301399dc41be5c168.png)
 
 If the first term in this series is the area of the triangle in the illustration then the second is the sum of the areas of two triangles whose bases are the two smaller secant lines in the illustration. Essentially, this paragraph summarizes the proof. Archimedes also gave a quite different proof of nearly the same proposition by a method using infinitesimals; that different proof is found here. 
 
@@ -35,7 +32,6 @@ Apart from general physics he was an astronomer, and Cicero writes that in the y
 Archimedes' works were not very influential, even in antiquity. He and his contemporaries probably constitute the peak of Greek mathematical rigour. During the Middle Ages the mathematicians who could understand Archimedes' work were few and far between. Many of his works were lost when the library of Alexandria was destroyed and survived only in Latin or Arabic translations. As a result, his mechanical method was lost until around 1900, after the arithmetization of analysis had been carried out successfully. We can only speculate about the effect that the "method" would have had on the development of calculus had it been known in the 16th and 17th centuries. 
 
 ### Writings by Archimedes
-
 
 * On the Equilibrium of Planes (2 volumes)
 
@@ -71,13 +67,9 @@ In this work, which was unknown in the Middle Ages, but the importance of which 
 
 ### Archimedean spiral
 
-
-
-
 |  |
 | --- |
 | Archimedian_spiral.png |
-
 
 An **Archimedean spiral** is a curve which in polar coordinates *r*,θ can be described by the equation
 *r* = *a* + *b*θ
@@ -88,12 +80,10 @@ This Archimedean spiral is distinguished from the logarithmic spiral by the fact
 Note that the Archimedean spiral has two arms, one for θ > 0 and one for θ < 0. The two arms are smoothly connected at the origin. Only one arm is shown on the accompanying graph. Taking the mirror image of this arm at the *y* axis will yield the other arm.
 
 Sometimes the term *Archimedean spiral* is used for the more general group of spirals
-![r=a+b\theta^{1\!/\!x}](/web/20060725171038im_/http://www.metaweb.com/wiki/upload/math/e568f4121f695d7a7a209d5ff2b14e54.png)
 
 The normal Archimedean spiral occurs when *x* = 1. Other spirals falling into this group include the hyperbolic spiral, Fermat's spiral, and the lituus. Virtually all spirals appearing in nature are logarithmic spirals, not Archimedean ones.
 
 ### Related entries
-
 
 * [Elliptical](/elliptical)
 * [orbit](/orbit)

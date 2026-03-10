@@ -18,7 +18,7 @@ This is an intermediate page for **Puritan**.
 ### [Wikipedia: Puritans](/)
 
 
-[![what they thought they were](/web/20060725221058im_/http://www.metaweb.com/wiki/upload/e/e6/PuritansMW.jpg)](what-they-thought-they-were)  
+[![what they thought they were](/images/PuritansMW.jpg)](what-they-thought-they-were)  
 **The Ideal Puritan Landscape**
 
 The Puritans were a group of radical Protestants which developed in England following the Reformation, and played a significant role in the religious turmoil of the 17th century. 

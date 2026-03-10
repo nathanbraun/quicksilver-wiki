@@ -3,15 +3,11 @@
 
 From the Quicksilver Metaweb.
 
-
 ### Stephensonia
-
-
 
 *speakers blast from the Sendero compound 24/7, "You will believe Mao-Gonzalo thought..."*
 
 ### Sendero
-
 
 Sendero Luminoso is a name for the Communist Party of Peru, a guerilla organization engaged in narco-trafficking and terrorism in the current day. One of their leaders is a fellow named Gonzalo. Whether Sendero becomes involved in any way with [Narcolombia](/narcolombia) in the [Snow Crash](/snow-crash) era is an open question, though today they profess to oppose the Colombian narco-lords and engage in the traffic to raise money for their cause.
 
@@ -19,7 +15,7 @@ In [The Diamond Age](/the-diamond-age), Sendero apparently becomes the dominant 
 
 Sendero, along with FARC, is one of the dominant communist movements on university campuses and barrios of South American countries in todays world. Given its inroads into the US and European [anti-globalization](/anti-globalization) movement, it is clear that Sendero Luminoso is on its way to becoming a global communist phyle.
 
- [![Chairman Guzman/Gonzalo](/web/20060725224613im_/http://www.metaweb.com/wiki/upload/2/21/Agloop2.gif)](chairman-guzman-gonzalo)  
+   
 **YOU WILL BELIEVE  
 MAO-GONZALO THOUGHT!!!**  
 Presidente "Shampoo" Guzman  
@@ -27,7 +23,6 @@ AKA Chairman Gonzalo
 exhorts the masses at his trial (NICE shirt!).
 
 ### Origins
-
 
 On May 17th, 1980 a small group of young men raided the polling place and burned the ballots in the rural town of Chuschi high in the Peruvian Andes. It was the first national election after 12 years of military rule. The people of Peru had no idea that this small incident would curse the countrys return to democracy for the next decade and a half. The Communist Party of Peru by the Shining Path of Jose Carlos Mariátegui, better known as Sendero Luminoso or the Shining Path, had thus launched its armed fight. Its birth, however, began long before in the classrooms of Abimael Guzmán, a charismatic professor at the Universidad Nacional de San Cristóbal de Huamanga, who was nicknamed "Shampoo" for his ability to convince his students of almost anything. 
 
@@ -42,7 +37,6 @@ Then on September 12, 1992 Presidente Gonzalo (Guzmáns nom de guerre) was cap
 Peruvian Courts in 2003 granted approximately 1,900 members the right to request retrials in a civilian court, including the imprisoned top leadership. The trial of Guzman, who was arrested in 1992, was scheduled for November 5, 2004, but was postponed after the first day, when chaos erupted in the courtroom. 
 
 #### Gonzalo's Speech From The Cage
-
 
 Dr. Abimael Guzmán's (Chairman Gonzalo)
 "Speech from a Cage"
@@ -90,21 +84,17 @@ end speech...
 
 ## Related Links
 
-
 * [FOQNE](/foqne)
 * [Phyle](/phyle)
 * [Bud](/bud)
 
-
 ### External Links
-
 
 **La Boca del Lobo (The Lion's Den)** Fiction inspired by the army's 1983 massacre of 47 men, women and children suspected of terrorism.  The movie portrays the moral and disintegration of the members of a small army contingent sent away to uncover Sendero Luminoso in a remote mountain village.  Peru, 1989.  Directed by Francisco J. Lombardi.  122 minutes.  Spanish with English subtitles.
 
 **The People of the Shining Path**  A documentary by the British Broadcasting Corporation focusing on Sendero Luminoso within Lima and a few villages.  Knowledge of the situation in Peru is necessary prior to viewing this since it denies much of the violence of the guerrillas and its involvement in coca trafficking.  Extensive interviews with Sendero members.  Peru/UK, 1992.  41 minutes.  English.
 
 ### INTERNET RESOURCES
-
 
 * [The People's War in Peru: Information about the Communist Party of Peru.](http://www.blythe.org/peru-pcp-index.html) Includes Presidente Gonzalo's Interview of the Century
 * [Committee to Support the Revolution in Peru](http://www.csrp.org).  An organization out of Berkeley, CA that provides propaganda and recent newsworthy information on Sendero.
@@ -115,12 +105,9 @@ The following 2 links are resource sites that attempt to organize the hundreds o
 * [Internet Resources for Latin America.](http://lib.nmsu.edu/subject-bord-laguia)
 * [Library of Congress Country Studies/Area Handbooks](http://lcweb2.loc.gov/frd-cs-cshome.html)
 
-
 ### ELECTRONIC LISTS
 
-
 #### Peruvian culture and other issues.
-
 
 * [listserve@cs.sfsu.edu](/mailto-listserve-cs-sfsu-edu)
 * [peru@cs.sfsu.edu](/mailto-peru-cs-sfsu-edu)
