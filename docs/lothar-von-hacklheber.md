@@ -117,11 +117,11 @@ The first recorded use of banknotes was in the 7th century in China, however in 
 Most banknotes are made of heavy paper, sometimes made with linen, cotton, or other textile fibres. Some countries including Mexico and Australia produce banknotes made from plastic, in order to incorporate a small transparent window a few mm in size as a security feature that can't be reproduced by common counterfeiting techniques. 
 
 For information about banknotes of particular countries or supranational entities see: 
-* [Australian banknotes](https://en.wikipedia.org/wiki/australian-dollar-banknotes)
-* [British banknotes](https://en.wikipedia.org/wiki/british-banknotes)
-* [Euro banknotes](https://en.wikipedia.org/wiki/euro-banknotes)
+* [Australian banknotes](https://en.wikipedia.org/wiki/Banknotes_of_the_Australian_dollar)
+* [British banknotes](https://en.wikipedia.org/wiki/Banknotes_of_the_pound_sterling)
+* [Euro banknotes](https://en.wikipedia.org/wiki/Euro_banknotes)
 * [Turkish banknotes](https://en.wikipedia.org/wiki/lira-banknotes)
-* [United States](https://en.wikipedia.org/wiki/united-states) banknotes ([Federal Reserve notes](https://en.wikipedia.org/wiki/federal-reserve-note))
+* [United States](https://en.wikipedia.org/wiki/United_States) banknotes ([Federal Reserve notes](https://en.wikipedia.org/wiki/Federal_Reserve_Note))
 
 
 ### [Sveriges Riksbank](/)
@@ -161,5 +161,5 @@ The position of the Riksbank as a central bank dates back to 1897 when the first
 ### External links
 
 
-* [Jean-Baptiste Colbert](https://en.wikipedia.org/wiki/jean-baptiste-colbert)
+* [Jean-Baptiste Colbert](https://en.wikipedia.org/wiki/Jean-Baptiste_Colbert)
 * TBA

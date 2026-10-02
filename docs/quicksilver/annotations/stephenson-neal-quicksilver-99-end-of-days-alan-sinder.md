@@ -32,9 +32,9 @@ An **apocalypse**, in the terminology of early [Jewish](/judaism) and [Christian
 
 The word is derived from the [Greek](https://en.wikipedia.org/wiki/greek) ἀπōκάλυψις, *apokalupsis* meaning revelation (literally, 'a lifting of the veil', or disclosure). It seems to have originated among Greek-speaking Jews, and then passed from them to the Christians, who developed it still further. 
 
-This usage has its origin in the title given to the [New Testament](https://en.wikipedia.org/wiki/new-testament) Apocalypse ; which title was itself obtained, very naturally, from the opening words 'Aπōκάλυψις 'Iησōῦ Χριστōῦ (see above), in which the term "revelation" is of course used simply to describe the contents of the book, not as a literary designation. The name Apocalypse was then given to other writings of the same general character, of which many appeared at about this time. 
+This usage has its origin in the title given to the [New Testament](https://en.wikipedia.org/wiki/New_Testament) Apocalypse ; which title was itself obtained, very naturally, from the opening words 'Aπōκάλυψις 'Iησōῦ Χριστōῦ (see above), in which the term "revelation" is of course used simply to describe the contents of the book, not as a literary designation. The name Apocalypse was then given to other writings of the same general character, of which many appeared at about this time. 
 
-From the second century it was applied to a number of books, both Jewish and Christian, which show the same characteristic features. Besides the Apocalypse of John (thus named in some of the earliest of the Christian Fathers), the [Muratorian fragment](https://en.wikipedia.org/wiki/muratorian-fragment), Clement of Alexandria, and others mention an Apocalypse of Peter. Apocalypses of Adam and Abraham (Epiphanius) and of Elias ([Jerome](https://en.wikipedia.org/wiki/jerome)) are also mentioned; see, for example, the six titles of this kind in the "List of the 60 Canonical Books". The use of the Greek noun to designate writings belonging to a certain class of literary products is thus of Christian origin, the original norm of the class being the New Testament Revelation. 
+From the second century it was applied to a number of books, both Jewish and Christian, which show the same characteristic features. Besides the Apocalypse of John (thus named in some of the earliest of the Christian Fathers), the [Muratorian fragment](https://en.wikipedia.org/wiki/Muratorian_fragment), Clement of Alexandria, and others mention an Apocalypse of Peter. Apocalypses of Adam and Abraham (Epiphanius) and of Elias ([Jerome](https://en.wikipedia.org/wiki/jerome)) are also mentioned; see, for example, the six titles of this kind in the "List of the 60 Canonical Books". The use of the Greek noun to designate writings belonging to a certain class of literary products is thus of Christian origin, the original norm of the class being the New Testament Revelation. 
 
 ### Characteristic Features
 
@@ -45,16 +45,16 @@ Apocalyptic religious literature is regarded as a distinct branch of literature.
 
 It is a revelation of mysteries, things which lie beyond the ordinary range of human knowledge. God gives to select prophets or saints instruction in regard to hidden matters, whether things altogether foreign to human experience, or merely events in human history which have not yet come to pass. 
 
-Some of the secrets of heaven are disclosed, in greater or less detail: the purposes of God; the deeds and characteristics of angels and evil spirits; the explanation of natural phenomena; the story of [Creation](https://en.wikipedia.org/wiki/creation) and the history of early mankind; impending events, especially those connected with the future of Israel; the end of the world; the final judgment, and the fate of mankind; the messianic age; pictures of heaven and hell. In the [Book of Enoch](https://en.wikipedia.org/wiki/book-of-enoch), the most comprehensive Jewish apocalypse, the revelation includes all of these various elements. 
+Some of the secrets of heaven are disclosed, in greater or less detail: the purposes of God; the deeds and characteristics of angels and evil spirits; the explanation of natural phenomena; the story of [Creation](https://en.wikipedia.org/wiki/creation) and the history of early mankind; impending events, especially those connected with the future of Israel; the end of the world; the final judgment, and the fate of mankind; the messianic age; pictures of heaven and hell. In the [Book of Enoch](https://en.wikipedia.org/wiki/Book_of_Enoch), the most comprehensive Jewish apocalypse, the revelation includes all of these various elements. 
 
 #### Disclosure through a dream or vision
 
  
 The disclosure of hidden wisdom is made through a vision or a dream. Because of the peculiar nature of the subject-matter, this is evidently the most natural literary form. Moreover, the manner of the revelation, and the experience of the one who receives it, are generally made more or less prominent. Usually, though not always, the account is given in the first person. There is something portentous in the circumstances, corresponding to the importance of the secrets about to be disclosed. The element of the mysterious, often so prominent in the vision itself, is foreshadowed in the preliminary events. Some of the persistent features of the "apocalyptic tradition" are connected with the circumstances of the vision and the personal experience of the seer. 
 
-As Daniel after long fasting stands by the river, a heavenly being appears to him, and the revelation follows ([Daniel](https://en.wikipedia.org/wiki/book-of-daniel) 10:2ff). [John](https://en.wikipedia.org/wiki/john-the-evangelist), in the New Testament [Revelation](https://en.wikipedia.org/wiki/book-of-revelation) (1:9ff), has a like experience, told in very similar words. Compare also the first chapter of the *Greek Apocalypse of Baruch*; and the *Syriac Apocalypse*, vi.1ff, xiii.1ff, lv.1-3. Or, as the prophet lies upon his bed, distressed for the future of his people, he falls into a sort of trance, and in "the visions of his head" is shown the future. This is the case in Dan. 7:1ff; 2 Esdras 3:1-3; and in the Book of Enoch, i.2 and following. As to the description of the effect of the vision upon the seer, see Dan. 8:27; Enoch, lx.3; 2 Esd. 5:14.
+As Daniel after long fasting stands by the river, a heavenly being appears to him, and the revelation follows ([Daniel](https://en.wikipedia.org/wiki/Book_of_Daniel) 10:2ff). [John](https://en.wikipedia.org/wiki/John_the_Evangelist), in the New Testament [Revelation](https://en.wikipedia.org/wiki/Book_of_Revelation) (1:9ff), has a like experience, told in very similar words. Compare also the first chapter of the *Greek Apocalypse of Baruch*; and the *Syriac Apocalypse*, vi.1ff, xiii.1ff, lv.1-3. Or, as the prophet lies upon his bed, distressed for the future of his people, he falls into a sort of trance, and in "the visions of his head" is shown the future. This is the case in Dan. 7:1ff; 2 Esdras 3:1-3; and in the Book of Enoch, i.2 and following. As to the description of the effect of the vision upon the seer, see Dan. 8:27; Enoch, lx.3; 2 Esd. 5:14.
 
-* [Daniel](https://en.wikipedia.org/wiki/daniel) is "the historian of the Captivity, the writer who alone furnishes any series of events for that dark and dismal period during which the harp of Israel hung on the trees that grew by the Euphrates. One of the four great [prophets](https://en.wikipedia.org/wiki/prophet), although he is not once spoken of in the *[Old Testament](https://en.wikipedia.org/wiki/old-testament)* as a prophet.
+* [Daniel](https://en.wikipedia.org/wiki/daniel) is "the historian of the Captivity, the writer who alone furnishes any series of events for that dark and dismal period during which the harp of Israel hung on the trees that grew by the Euphrates. One of the four great [prophets](https://en.wikipedia.org/wiki/prophet), although he is not once spoken of in the *[Old Testament](https://en.wikipedia.org/wiki/Old_Testament)* as a prophet.
 
 #### Angels bear revelation
 
@@ -85,14 +85,14 @@ As typical examples of more elaborate allegories -- aside from those in Dan. 7, 
 
 ***The Four Horsemen of the Apocalypse***  
 
-**[Woodcut](https://en.wikipedia.org/wiki/woodcut) by [Albrecht Dürer](https://en.wikipedia.org/wiki/albrecht-dürer)**
+**[Woodcut](https://en.wikipedia.org/wiki/woodcut) by [Albrecht Dürer](https://en.wikipedia.org/wiki/Albrecht_Dürer)**
 
 ### The end of the world
 
  
 In recent times the designation apocalyptic literature, or apocalyptic, has commonly been used to include all the various portions of the Jewish and Christian Scriptures, whether canonical or apocryphal, in which eschatological predictions are given in the form of a revelation. That the term is at present somewhat loosely used, and often made to include what is not properly apocalyptic, is due in part to the fact that the study of this literature as a distinct class is comparatively recent. 
 
-In English, the word **apocalypse** now commonly refers to the [end of the world](https://en.wikipedia.org/wiki/end-of-the-world). The current meaning may be an ellipsis of the phrase *apokalupsis eschaton* (apocalyptic eschatology), meaning "revelation of knowledge of the end of time". This ellipsis in common usage echoes the ellipsis in the title of the last book of the Bible, *Book of Revelation*, which is commonly interpreted as prophesing the end of the world in graphic detail. See also [eschatology](https://en.wikipedia.org/wiki/eschatology) and [millennialism](https://en.wikipedia.org/wiki/millennialism). 
+In English, the word **apocalypse** now commonly refers to the [end of the world](https://en.wikipedia.org/wiki/End_of_the_world). The current meaning may be an ellipsis of the phrase *apokalupsis eschaton* (apocalyptic eschatology), meaning "revelation of knowledge of the end of time". This ellipsis in common usage echoes the ellipsis in the title of the last book of the Bible, *Book of Revelation*, which is commonly interpreted as prophesing the end of the world in graphic detail. See also [eschatology](https://en.wikipedia.org/wiki/eschatology) and [millennialism](https://en.wikipedia.org/wiki/millennialism). 
 
 ### The Four Horsemen of the Apocalypse
 
@@ -100,11 +100,11 @@ Of the **Four Horsemen of the Apocalypse**  **[Pestilence](/black-plague)**, *
 
 ---
 
-Here is an article about [Apocalypse, the comic book supervillain](https://en.wikipedia.org/wiki/apocalypse-comics).
+Here is an article about [Apocalypse, the comic book supervillain](https://en.wikipedia.org/wiki/Apocalypse_%28character%29).
 
 ---
 
-The **apocralypse** (for probably apocryphal apocalypse) parodies the apocalypse in several of the [Discworld](https://en.wikipedia.org/wiki/discworld) novels, the kicker being that the anthropomorphic *avatars* [The four Horsemen of the Apocalypse](https://en.wikipedia.org/wiki/four-horsemen-of-the-apocalypse) plus [Chaos](https://en.wikipedia.org/wiki/chaos) more than often side with us humans as they've become more like people.
+The **apocralypse** (for probably apocryphal apocalypse) parodies the apocalypse in several of the [Discworld](https://en.wikipedia.org/wiki/discworld) novels, the kicker being that the anthropomorphic *avatars* [The four Horsemen of the Apocalypse](https://en.wikipedia.org/wiki/Four_Horsemen_of_the_Apocalypse) plus [Chaos](https://en.wikipedia.org/wiki/chaos) more than often side with us humans as they've become more like people.
 
 ### Related entries
 
@@ -117,21 +117,21 @@ The **apocralypse** (for probably apocryphal apocalypse) parodies the apocalypse
 
 * [Apocalypse](https://en.wikipedia.org/wiki/apocalypse)
 * [God](https://en.wikipedia.org/wiki/god)
-* [New Testament](https://en.wikipedia.org/wiki/new-testament)
-* [Muratorian fragment](https://en.wikipedia.org/wiki/muratorian-fragment)
+* [New Testament](https://en.wikipedia.org/wiki/New_Testament)
+* [Muratorian fragment](https://en.wikipedia.org/wiki/Muratorian_fragment)
 * [Jerome](https://en.wikipedia.org/wiki/jerome)
 * [Creation](https://en.wikipedia.org/wiki/creation)
-* [Book of Enoch](https://en.wikipedia.org/wiki/book-of-enoch)
-* [Daniel](https://en.wikipedia.org/wiki/book-of-daniel)
-* [John](https://en.wikipedia.org/wiki/john-the-evangelist)
-* [Revelation](https://en.wikipedia.org/wiki/book-of-revelation)
+* [Book of Enoch](https://en.wikipedia.org/wiki/Book_of_Enoch)
+* [Daniel](https://en.wikipedia.org/wiki/Book_of_Daniel)
+* [John](https://en.wikipedia.org/wiki/John_the_Evangelist)
+* [Revelation](https://en.wikipedia.org/wiki/Book_of_Revelation)
 * [Daniel](https://en.wikipedia.org/wiki/daniel)
 * [prophets](https://en.wikipedia.org/wiki/prophet)
-* [Old Testament](https://en.wikipedia.org/wiki/old-testament)
-* [end of the world](https://en.wikipedia.org/wiki/end-of-the-world)
+* [Old Testament](https://en.wikipedia.org/wiki/Old_Testament)
+* [end of the world](https://en.wikipedia.org/wiki/End_of_the_world)
 * [eschatology](https://en.wikipedia.org/wiki/eschatology)
 * [millennialism](https://en.wikipedia.org/wiki/millennialism)
-* [Apocalypse, the comic book supervillain](https://en.wikipedia.org/wiki/apocalypse-comics)
+* [Apocalypse, the comic book supervillain](https://en.wikipedia.org/wiki/Apocalypse_%28character%29)
 * [Discworld](https://en.wikipedia.org/wiki/discworld)
-* [Four Horsemen of the Apocalypse](https://en.wikipedia.org/wiki/four-horsemen-of-the-apocalypse)
+* [Four Horsemen of the Apocalypse](https://en.wikipedia.org/wiki/Four_Horsemen_of_the_Apocalypse)
 * [Chaos](https://en.wikipedia.org/wiki/chaos)

@@ -17,7 +17,7 @@ Silver was left as ingots or [coined](/coin) as [pieces of eight](/pieces-of-eig
 
 See [entry on jlab.org](http://education.jlab.org/itselemental-ele080.html) for basic elemental properties and history.
 
-See also [the Wikipedia entry for the element mercury](https://en.wikipedia.org/wiki/mercury-element) for additional information. See [Mercury](https://en.wikipedia.org/wiki/mercury) for various entries.
+See also [the Wikipedia entry for the element mercury](https://en.wikipedia.org/wiki/Mercury_%28element%29) for additional information. See [Mercury](https://en.wikipedia.org/wiki/mercury) for various entries.
 
 Additional information, including [Mercury's alchemical symbol](http://www.chemsoc.org/viselements-pages-alchemist-alc-mercury.html) can be found in [the entry for Mercury](http://www.chemsoc.org/viselements-pages-mercury.html) in the [visual periodic table of the elements](http://www.chemsoc.org/viselements-index.htm) ([flash version](http://www.chemsoc.org/viselements-pages-pertable-fla.htm)) on [ChemSoc](http://www.chemsoc.org), the chemical science network of the [Royal Society of Chemistry](http://www.rsc.org) of the United Kingdom.
 
@@ -105,7 +105,7 @@ Hermes hides distribution and heterogeneity from the programmer. The programmer 
 0.7 Alpha for Unix ( [Hermes](/ftp-software-watson-ibm-com-pub-hermes) ) 
 Hermes features threads, relational tables; Hermes is typestate checking, capability-based access and dynamic configuration.
 
-* [Mercury](https://en.wikipedia.org/wiki/mercury-programming-language) is also a programming language  Mercury is a functional/logical programming language based on Prolog, but designed to be more useful for real-world programming problems. Mercury is compiled rather than interpreted as is traditional for logic languages. It has a sophisticated, strict type and mode system which, when combined with the abstract nature of logic programming, is claimed by its authors to make writing reliable programs simpler and faster than by more conventional means. Mercury's module system also makes it easy to divide logic programs up into self-contained modules, a problem for logic programs in the past.
+* [Mercury](https://en.wikipedia.org/wiki/Mercury_%28programming_language%29) is also a programming language  Mercury is a functional/logical programming language based on Prolog, but designed to be more useful for real-world programming problems. Mercury is compiled rather than interpreted as is traditional for logic languages. It has a sophisticated, strict type and mode system which, when combined with the abstract nature of logic programming, is claimed by its authors to make writing reliable programs simpler and faster than by more conventional means. Mercury's module system also makes it easy to divide logic programs up into self-contained modules, a problem for logic programs in the past.
 
 
 ## HERMES in Appleseed

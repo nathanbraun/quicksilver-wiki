@@ -92,8 +92,8 @@ It is also pointed out that none of the victims died burned by hydrogen. Of the 
 ### External links
 
 
-* *[Hindenburg Disaster Newsreel Footage](https://en.wikipedia.org/wiki/hindenburg-disaster-newsreel-footage)*
-* [The Hindenburg (1975 Movie) *The Hindenburg* (1975 Movie)](https://en.wikipedia.org/wiki/the-hindenburg-1975-movie)
+* *[Hindenburg Disaster Newsreel Footage](https://en.wikipedia.org/wiki/Hindenburg_disaster_newsreel_footage)*
+* [The Hindenburg (1975 Movie) *The Hindenburg* (1975 Movie)](https://en.wikipedia.org/wiki/The_Hindenburg_%28film%29)
 * [An Article Supporting the Flammable Fabric Theory](http://www.dwv.info/de-pm-hindbg-hbe.htm)
 * [An Article Rejecting the Flammable Fabric Theory](http://spot.colorado.edu/dziadeck-zf-lz129fire.htm)
 * "[Hindenburg in Flames](http://hearitnow.umd.edu/1937.htm)"

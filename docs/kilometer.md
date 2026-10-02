@@ -85,8 +85,8 @@ To help compare different orders of magnitude this page lists lengths between 1 
 
 * [SI](https://en.wikipedia.org/wiki/si)
 * [metre](https://en.wikipedia.org/wiki/metre)
-* [SI prefix](https://en.wikipedia.org/wiki/si-prefix)
-* [Orders of magnitude](https://en.wikipedia.org/wiki/orders-of-magnitude)
+* [SI prefix](https://en.wikipedia.org/wiki/Metric_prefix)
+* [Orders of magnitude](https://en.wikipedia.org/wiki/Order_of_magnitude)
 * [light year](https://en.wikipedia.org/wiki/light-year)
 * [parsec](https://en.wikipedia.org/wiki/parsec)
 * [Conversion Calculator for Units of LENGTH](http://www.ex.ac.uk/trol-scol-index.htm)

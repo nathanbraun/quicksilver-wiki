@@ -39,7 +39,7 @@ On his way to London he caught a severe cold from being wet, and died at the hou
 ### *The Pilgrim's Progress*
 
 
-***The Pilgrim's Progress from This World to That Which Is to Come*** is an allegory by John Bunyan. Bunyan wrote this book while imprisoned in 1675 for violations of the [Conventicle Act](https://en.wikipedia.org/wiki/conventicle-act) which punished people for conducting unauthorised religious services outside of the [Church of England](https://en.wikipedia.org/wiki/church-of-england). 
+***The Pilgrim's Progress from This World to That Which Is to Come*** is an allegory by John Bunyan. Bunyan wrote this book while imprisoned in 1675 for violations of the [Conventicle Act](https://en.wikipedia.org/wiki/Conventicle_Act) which punished people for conducting unauthorised religious services outside of the [Church of England](https://en.wikipedia.org/wiki/Church_of_England). 
 
 The allegory tells of Christian, an **Everyman** character who must make his way from the City of Destruction to the Celestial City of Zion. During his travel, he must make his way past hazards such as the *Slough of Despond*, temptations like *Vanity Fair*, and foes like the Giant Despair. Due to the long popularity of this devotional book, many of these phrases have become proverbial in English. 
 
@@ -89,6 +89,6 @@ Kiffin and Paul published a rejoinder in *Serious Reflections* (London, 1673), i
 ### External links
 
 
-* [Project Gutenberg](https://en.wikipedia.org/wiki/project-gutenberg) [e-texts of some of John Bunyan's works](http://onlinebooks.library.upenn.edu/webbin-gutbook-author-name-bunyan-john)
+* [Project Gutenberg](https://en.wikipedia.org/wiki/Project_Gutenberg) [e-texts of some of John Bunyan's works](http://onlinebooks.library.upenn.edu/webbin-gutbook-author-name-bunyan-john)
 * James Clarke & Co Ltd, 1987, [ISBN 0718821645](/)
 * Penguin Books, London, 1987, [ISBN 0140430040](/)

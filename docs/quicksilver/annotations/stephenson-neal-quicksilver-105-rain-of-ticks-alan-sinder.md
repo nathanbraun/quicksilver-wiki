@@ -30,18 +30,18 @@ enhanced Wikipedia article
 
 | **Fleas** |
 | --- |
-| **[Scientific classification](https://en.wikipedia.org/wiki/scientific-classification)** |
+| **[Scientific classification](https://en.wikipedia.org/wiki/Taxonomy)** |
 | 
 
 |  |  |
 | --- | --- |
-| [Kingdom](https://en.wikipedia.org/wiki/kingdom-biology):  | [Animalia](https://en.wikipedia.org/wiki/animal) |
-| [Phylum](https://en.wikipedia.org/wiki/phylum-biology):  | [Arthropoda](https://en.wikipedia.org/wiki/arthropoda) |
-| [Class](https://en.wikipedia.org/wiki/class-biology):  | [Insecta](https://en.wikipedia.org/wiki/insecta) |
-| **[Order](https://en.wikipedia.org/wiki/order-biology):** | **Siphonaptera** |
+| [Kingdom](https://en.wikipedia.org/wiki/Kingdom_%28taxonomy%29):  | [Animalia](https://en.wikipedia.org/wiki/animal) |
+| [Phylum](https://en.wikipedia.org/wiki/Phylum):  | [Arthropoda](https://en.wikipedia.org/wiki/arthropoda) |
+| [Class](https://en.wikipedia.org/wiki/Class_%28taxonomy%29):  | [Insecta](https://en.wikipedia.org/wiki/insecta) |
+| **[Order](https://en.wikipedia.org/wiki/Order_%28taxonomy%29):** | **Siphonaptera** |
 
  |
-| **[Families](https://en.wikipedia.org/wiki/family-biology)** |
+| **[Families](https://en.wikipedia.org/wiki/Family_%28disambiguation%29)** |
 |    [Tungidae](https://en.wikipedia.org/wiki/tungidae) - Sticktight and [Chigoe](https://en.wikipedia.org/wiki/chigoe) fleas
    [Pulicidae](https://en.wikipedia.org/wiki/pulicidae) - Common fleas
    [Coptopsyllidae](https://en.wikipedia.org/wiki/coptopsyllidae)
@@ -110,7 +110,7 @@ Victorian-style flea circuses first appeared in Europe in the early 19th century
 **Drawing done by [Robert Hooke](/robert-hooke) with just a field magnifier**
 
 
-### [Flea Market](https://en.wikipedia.org/wiki/market-system)
+### [Flea Market](https://en.wikipedia.org/wiki/Market_system)
 
 
 An open-air street market for inexpensive or secondhand articles where one sell goods on the street. Named as such for the *jumping around*.

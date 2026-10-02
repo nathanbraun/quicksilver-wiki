@@ -32,7 +32,7 @@ Gabriel Goto is one of [The Ten](/the-ten) in [The Confusion](/the-confusion). H
 Some Japanese are possibly of ethnic Jewish descent ... which is why Shinto shrine seem to have [Sukkot](https://en.wikipedia.org/wiki/sukkot) decorations up on New Years' day. Sukkot commemorates the life of the Israelites in the desert during their journey to the promised land, the Land of Israel. During their wandering in the desert they lived in booths (sukkot). The Torah directs Jews to use four species of plants to celebrate the holiday: the lulav (palm branch), the etrog (lemon-like citron), myrtle, and willow.
 Hosha'nah Rabbah - the seventh day of Sukkot - הושענא רבא
 Shemini Atzeret - the eighth day of Sukkot - שמיני עצרת
-[Simhat Torah](https://en.wikipedia.org/wiki/simhat-torah) - the finale of Sukkot - שמחת תורה
+[Simhat Torah](https://en.wikipedia.org/wiki/Simchat_Torah) - the finale of Sukkot - שמחת תורה
 Curious how [Christianity](/christianity) loses and then regains the fictional Goto clan. Wonder what other instititutions go for the **[long view](/stephenson-neal-quicksilver-20-most-disorderly-alan-sinder)**. Further ponder: the "real life" Goto family crest pictures an inedible orange-green citrus fruit native to Japan and visibly similar to the *etrog*.
 
   
@@ -74,7 +74,7 @@ Curious how [Christianity](/christianity) loses and then regains the fictional G
 
 * [Lost tribes](http://www.moshiach.com/features-tribes-default.php)
 * [More on the lost tribes](http://www.wzo.org/il-en-resources-view-asp-id-174)
-* [ISBN 1591160340](/) Vagabond, Volume 1 by Takehiko Inoue (Illustrator), Eiji Yoshikawa (Author) is about [Miyamoto Musashi](https://en.wikipedia.org/wiki/miyamoto-musashi).
+* [ISBN 1591160340](/) Vagabond, Volume 1 by Takehiko Inoue (Illustrator), Eiji Yoshikawa (Author) is about [Miyamoto Musashi](https://en.wikipedia.org/wiki/Miyamoto_Musashi).
 * [Samurai Tour](http://www.kiku.com/electric-samurai-cobweb-castle-samurai-tour.html)
 * [Ise Shrine](http://witcombe.sbc.edu/sacredplaces-ise.html)
 * [The Kagome Crest at Ise Grand Shrine](/http-www5-ocn-ne-jp-magi9-isracam4-htm)

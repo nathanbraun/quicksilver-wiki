@@ -134,7 +134,7 @@ In the earlier form of ships the top was a species of crows nest placed at the
 
 
 1. [Dutch](https://en.wikipedia.org/wiki/dutch)
-2. [American Revolution](https://en.wikipedia.org/wiki/american-revolution) Daniel hints to Enoch
+2. [American Revolution](https://en.wikipedia.org/wiki/American_Revolution) Daniel hints to Enoch
 3. [Rigging](https://en.wikipedia.org/wiki/rigging)
 
 [http://www.schoonerman.com/home.htm](http://www.schoonerman.com/home.htm)

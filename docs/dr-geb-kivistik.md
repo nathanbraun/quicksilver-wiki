@@ -32,12 +32,12 @@ Neither the mutinous Kapitänleutnant **Günter Bischoff**, gloriously defrocked
 
 ... Günter Enoch Bobby Kivistik. Eight pounds, three ounces — superb for a wartime baby. ... leads us to the three:
 
-### [Kurt Gödel](https://en.wikipedia.org/wiki/kurt-gödel)
+### [Kurt Gödel](https://en.wikipedia.org/wiki/Kurt_Gödel)
 
 
 **Kurt Gödel**, pronounced somewhat like "Girdle", ( April 28, 1906 -January 14, 1978) was a mathematician born in Austria-Hungary. When Austria-Hungary broke up he became Austrian citizen at age 23 and later also US citizen at age 42. He was a deep logician whose most famous work was the Incompleteness Theorem stating that any self-consistent axiomatic system powerful enough to describe integer arithmetic will allow for propositions about integers that can neither be proven nor disproven from the axioms. He also produced celebrated work on the Continuum hypothesis, showing that it cannot be disproven from the accepted set theory axioms, assuming that those axioms are consistent. It is claimed Kurt Gödel is the greatest logician of the 20th century and one of the three greatest logicians of all time, with the other two of this historical triumvirate being Aristotle and Frege. He published his most important result in 1931 at age 25 when he worked at Vienna University, Austria. 
 
-### [M. C. Escher](https://en.wikipedia.org/wiki/m-c-escher)
+### [M. C. Escher](https://en.wikipedia.org/wiki/M._C._Escher)
 
 
 **Maurits Cornelis Escher** (June 17, 1898 - March 27, 1972) was a Dutch artist most known for his woodcuts, lithographs and mezzotints, which tend to feature impossible constructions, explorations of infinity, and interlocking geometric patterns which change gradually into completely different forms. Well known examples of his work include Drawing Hands, a work in which two hands are shown drawing each other, Sky and Water, in which plays on light and shadow convert fish in water into birds in the sky, and Ascending and Descending, in which lines of people ascend and descend stairs infinitely in a loop, on a construction which is impossible to build and possible to draw only by taking advantage of quirks of perception and perspective. Escher's work has a strong mathematical component, and many of the worlds which he drew are built around impossible objects such as the Necker cube and the Penrose triangle. Many of Escher's works employed repeated tilings called Tesselations. Escher's artwork is well-liked by scientists, especially mathematicians who enjoy his use of polyhedra and geometric distortions. For example, in "Gravity", multi-colored dinosaurs poke their heads out of a stellated dodecahedron. His work has been referenced by Matt Groening of The Simpsons fame in his Life in Hell comic. In Groening's parody of Escher's "Relativity," cartoon rabbits Binky and Bongo fall down stairs at impossible angles. 
@@ -65,7 +65,7 @@ Bach's connection to organs makes me think most of [Lawrence Waterhouse](/lawren
 ### External link
 
 
-* [Gödel, Escher, Bach](https://en.wikipedia.org/wiki/gödel-escher-bach)
-* [Kurt Gödel](https://en.wikipedia.org/wiki/kurt-gödel)
-* [M. C. Escher](https://en.wikipedia.org/wiki/m-c-escher)
+* [Gödel, Escher, Bach](https://en.wikipedia.org/wiki/Gödel,_Escher,_Bach)
+* [Kurt Gödel](https://en.wikipedia.org/wiki/Kurt_Gödel)
+* [M. C. Escher](https://en.wikipedia.org/wiki/M._C._Escher)
 * [Sebastian Bach](https://en.wikipedia.org/wiki/johann-sebastian-bachjohann)

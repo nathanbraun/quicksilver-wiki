@@ -45,6 +45,6 @@ The diary gives a detailed account of the pattern of Pepys' life. Reading it, on
 #### External links
 
 
-* [Samuel Pepys (Wikipedia)](https://en.wikipedia.org/wiki/samuel-pepys)
+* [Samuel Pepys (Wikipedia)](https://en.wikipedia.org/wiki/Samuel_Pepys)
 * [Samuel Pepys's diary online](http://www.pepysdiary.com)
 * [Pepys library online](http://www.magd.cam.ac.uk/pepys-contents.html)

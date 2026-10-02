@@ -77,7 +77,7 @@ Rule [other MetaWeb page](/other-metaweb-page). [alt text](/other-metaweb-page) 
 
   
 
-Letters of the modern [Hebrew Alphabet](https://en.wikipedia.org/wiki/hebrew-alphabet):
+Letters of the modern [Hebrew Alphabet](https://en.wikipedia.org/wiki/Hebrew_alphabet):
 
 # 
 

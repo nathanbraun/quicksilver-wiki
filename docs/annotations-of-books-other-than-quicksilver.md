@@ -14,9 +14,9 @@ The Metaweb can be used for other purposes than posting annotations to one novel
 * [The Great Simoleon Caper](/stephenson-neal-the-great-simoleon-caper)
 	+ See also [Wikipedia: The Great Simoleon Caper](/)
 * [Snow Crash](/stephenson-neal-snow-crash) [ISBN 0553380958](/)
-	+ See also [Wikipedia: Snow Crash](https://en.wikipedia.org/wiki/snow-crash)
+	+ See also [Wikipedia: Snow Crash](https://en.wikipedia.org/wiki/Snow_Crash)
 * [Stephenson:Neal:The Diamond Age, or A Young Lady's Illustrated Primer](/stephenson-neal-the-diamond-age-or-a-young-lady-s-illustrated-primer) [ISBN 0553380966](/)
-	+ See also [Wikipedia: The Diamond Age](https://en.wikipedia.org/wiki/the-diamond-age)
+	+ See also [Wikipedia: The Diamond Age](https://en.wikipedia.org/wiki/The_Diamond_Age)
 	+ Dramatis Personae (in order of appearance): [John Percival Hackworth](/john-percival-hackworth), [Gwendolyn Hackworth](/gwendolyn-hackworth), [Fiona Hackworth](/fiona-hackworth), [Lord Finkle-McGraw](/lord-finkle-mcgraw), [Bud](/bud), [Constable Chang](/constable-chang), [Judge Fang](/judge-fang), [Miss Pao](/miss-pao), [Dr. X](/dr-x), [Harv](/harv), [Nellodee](/nellodee) (aka [Nell](/nell), [Princess Nell](/princess-nell)), [PhyrePhox](/phyrephox) (possibly [Enoch Root](/enoch-root)), [Miranda](/miranda), [Carl Hollywood](/carl-hollywood), [Elizabeth Finkle-McGraw](/elizabeth-finkle-mcgraw), [Miss Matheson](/miss-matheson) (possibly [YT](/yt))
 
 

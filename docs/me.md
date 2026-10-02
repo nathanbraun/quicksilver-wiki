@@ -26,7 +26,7 @@ The **me** are short [verb phrases](/verb-phrase) that literally act on the [hum
 ### Deeper: *Me*
 
 
-**Me** is a concept in the cosmology of Sumerian mythology which describes the discrete bestowal of each of the arts and sciences by the gods to humans. In one poem, **[Inanna](https://en.wikipedia.org/wiki/ishtar)** is described as meeting with **Enki**, the divine caretaker of the me, and getting him drunk in a plot to steal them from him (compare with the theft of fire by [Prometheus](https://en.wikipedia.org/wiki/prometheus) in [Greek mythology](https://en.wikipedia.org/wiki/greek-mythology)). 
+**Me** is a concept in the cosmology of Sumerian mythology which describes the discrete bestowal of each of the arts and sciences by the gods to humans. In one poem, **[Inanna](https://en.wikipedia.org/wiki/ishtar)** is described as meeting with **Enki**, the divine caretaker of the me, and getting him drunk in a plot to steal them from him (compare with the theft of fire by [Prometheus](https://en.wikipedia.org/wiki/prometheus) in [Greek mythology](https://en.wikipedia.org/wiki/Greek_mythology)). 
 
 ### Deeper? Let me show you how deep the rabbit hole goes...Curiouser and curiouser....
 
@@ -54,7 +54,7 @@ Naturally, as a member of a triad, Ishtar is dissociated from any local limitati
 ### Sumerian mythology
 
  
-The **Sumerians** practised a polytheistic religion, with gods or goddesses representing forces or presences in the world, much as in the later [Greek mythology](https://en.wikipedia.org/wiki/greek-mythology). The gods originally created humans as servants for themselves, but freed them when they became too much to handle. 
+The **Sumerians** practised a polytheistic religion, with gods or goddesses representing forces or presences in the world, much as in the later [Greek mythology](https://en.wikipedia.org/wiki/Greek_mythology). The gods originally created humans as servants for themselves, but freed them when they became too much to handle. 
 
 Many stories in Sumerian religion appear homologous to stories in other middle-eastern religions. For example, the biblical account of the creation of man as well as [Noah](/noah)'s flood narrative resemble Sumerian tales very closely. Gods and goddesses from Sumer have distinctly similar representations in the religions of the Akkadians, Caananites, and others. A number of related stories and deities have Greek parallels as well; for example Innana's descent into the underworld strikingly recalls the story of Persephone. 
 

@@ -11,7 +11,7 @@ And, who holds the deeds is one thing, whose court you report to, to adjudicate 
 
 Ask the Lebanese about the Syrians and the Bekka Valley, was in the area last in 1982 with an UN observer bud. Expect the Syrians to redirect the sources of the Tigris and Euphrates soon. - [Sparky](/user-stsparky) 00:44, 2004 Apr 6 (PDT)
 
-Yeah, it's always a war waiting to happen, when a border bisects a watershed. That's why the peacenik type Greens all want bioregional borders to have legal and political status, like, districts would be formed based on them - [en: Wikipedia: bioregional democracy](https://en.wikipedia.org/wiki/bioregional-democracy). Stops [gerrymandering](https://en.wikipedia.org/wiki/gerrymandering) too.
+Yeah, it's always a war waiting to happen, when a border bisects a watershed. That's why the peacenik type Greens all want bioregional borders to have legal and political status, like, districts would be formed based on them - [en: Wikipedia: bioregional democracy](https://en.wikipedia.org/wiki/Bioregionalism). Stops [gerrymandering](https://en.wikipedia.org/wiki/gerrymandering) too.
 
 
 
@@ -54,7 +54,7 @@ When the Church Militant is scraping the flesh off live female pagan librarians 
 ---
 
 
-nitpicking - Bath party? Which one - the Syrian or Iraqi one? It's normally spelt with an extra a as in [Ba'athist Party](https://en.wikipedia.org/wiki/ba-ath-party).
+nitpicking - Bath party? Which one - the Syrian or Iraqi one? It's normally spelt with an extra a as in [Ba'athist Party](https://en.wikipedia.org/wiki/Ba'ath_Party).
 
 No standard transliteration, pick one and stick to it. The two parties have the same root, but in Iraq, under British administration, they started more clandestine, whereas in Syria they were supported under the ruling Vichy French.
 

@@ -15,7 +15,7 @@ The [Baroque Cycle](/baroque-cycle) page for **Sir Christopher Wren**
 * TBA
 
 
-### [Wikipedia: Sir Christopher Wren](https://en.wikipedia.org/wiki/christopher-wren)
+### [Wikipedia: Sir Christopher Wren](https://en.wikipedia.org/wiki/Christopher_Wren)
 
 
 **Sir Christopher Wren** (October 20, 1632 - February 25, 1723) was an English architect of the 17th century, famous for his role in the re-building of London's churches after the Great Fire of London of 1666. 

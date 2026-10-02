@@ -9,7 +9,7 @@ A page for **Neal**
 
 *Is Fort Meade the key here?*
 
-### [Wikipedia: Neal Stephenson](https://en.wikipedia.org/wiki/neal-stephenson)
+### [Wikipedia: Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson)
 
 
 From Wikipedia, the free encyclopedia.
@@ -68,14 +68,14 @@ A characteristic aspect of his books is the "breakdown in events", a (conscious 
 * [Neal Stephenson's older personal website](http://www.well.com/user-neal)
 * [*Neal Stephenson Sees the Light*](http://www.geocities.com/tokyo-island-3102-neals.htm) – By David Chute, LA Weekly
 * [Images of Neal Stephenson](http://images.google.com/images-q-neal-stephenson)
-* [data haven](https://en.wikipedia.org/wiki/data-haven)
+* [data haven](https://en.wikipedia.org/wiki/Data_haven)
 * [HavenCo](http://www.wired.com/wired-archive-8-07-haven.html)
 * [Principality of Sealand](https://en.wikipedia.org/wiki/sealand)
 * [The First True Cypherpunk Novel](http://www.wired.com/news-culture-0-1284-19720-00.html)
 * [When Geeks Inherit the Earth](http://www.wired.com/news-politics-0-1283-17916-00.html)
 * [Bruce Schneier, Founder and CTO](http://www.counterpane.com)
-* [Bruce Sterling](https://en.wikipedia.org/wiki/bruce-sterling) shows up in Chapter 76  Pulse
-* [Neal Stephenson](https://en.wikipedia.org/wiki/neal-stephenson)
+* [Bruce Sterling](https://en.wikipedia.org/wiki/Bruce_Sterling) shows up in Chapter 76  Pulse
+* [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson)
 * [Cryptonomicon](https://en.wikipedia.org/wiki/cryptonomicon)
 * [anonymity](https://en.wikipedia.org/wiki/anonymity)
 * [pseudonymity](https://en.wikipedia.org/wiki/pseudonymity)

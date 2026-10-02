@@ -77,7 +77,7 @@ She died in November 1687, and was buried on the 17th, according to her own requ
 
 * 1 [Nell Gwyn](http://www.britannica.com/eb-article-eu-39424)
 * Painted Ladies: Women at the Court of Charles II ran 11 October 2001 - 6 January 2002 Wolfson Gallery in London
-* [Wikipedia's entry: Nell Gywn](https://en.wikipedia.org/wiki/nell-gwyn)
+* [Wikipedia's entry: Nell Gywn](https://en.wikipedia.org/wiki/Nell_Gwyn)
 * [1911 Enclycopedia:Nell Gywn](http://56.1911encyclopedia.org/g-gw-gwyn-nell.htm)
 * [ISBN 0750927046](/) [Nell Gwyn](http://www.amazon.com/exec-obidos-tg-detail-0750927046-104-8931055-5532701-v-glance) Author: Derek Parker; Publisher: Sutton Publishing; (July 1, 2001)
 * [ISBN 0375725539](/) [Samuel Pepys: The Unequaled Self](http://www.amazon.com/exec-obidos-tg-detail-0375725539-qid-1080175694-sr-8-1-ref-pd-ka-1-104-8931055-5532701-v-glance-s-books-n-507846) Author: Claire Tomalin; Publisher: Vintage; (November 11, 2003)

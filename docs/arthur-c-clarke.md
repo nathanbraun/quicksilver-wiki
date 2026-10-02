@@ -108,8 +108,8 @@ Most of his essays (between 1934 to 1998) can be found in the book Greetings, Ca
 
 ### External links
 
-* [Wikipedia: Arthur C. Clarke](https://en.wikipedia.org/wiki/arthur-c-clarke) is the basis for much of this entry.
-* [Arthur C. Clarke quotes](https://quote.wikipedia.org/wiki/arthur-c-clarke)
+* [Wikipedia: Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke) is the basis for much of this entry.
+* [Arthur C. Clarke quotes](https://en.wikiquote.org/wiki/Arthur_C._Clarke)
 * [Clarketech](https://en.wikipedia.org/wiki/clarketech)
 * [Interview for *The Onion* (2/18/2004)](http://www.theonionavclub.com/feature-index-php-issue-4007-f-1)
 * [The Motif of First Contact in Arthur C. Clarke's SF Works](http://www.fantasticmetropolis.com/show-html-ey-clarke), by [Zoran Zivkovic](/zoran-zivkovic-writer)

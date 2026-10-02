@@ -16,4 +16,4 @@ From the Quicksilver Metaweb.
 
 |  |  |
 | --- | --- |
-| W | [Wikipedia](/wikipedia) has a user page related to:***[Andux](https://en.wikipedia.org/wiki/user-andux)*** |
+| W | [Wikipedia](/wikipedia) has a user page related to:***[Andux](https://en.wikipedia.org/wiki/User:Andux)*** |

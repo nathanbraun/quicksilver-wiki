@@ -21,7 +21,7 @@ Njihia Mbitiru, Kenya [[2]](http://news.bbc.co.uk/2-hi-talking-point-644942-stm)
 ---
 
 
-Good to see you here. I always figure [Chris Moore](https://en.wikipedia.org/wiki/christopher-moore) pegged Anubis right in his ***Coyote Blue*** ... - [Sparky](/user-stsparky) 19:53, 2004 Apr 21 (PDT)
+Good to see you here. I always figure [Chris Moore](https://en.wikipedia.org/wiki/Christopher_Moore) pegged Anubis right in his ***Coyote Blue*** ... - [Sparky](/user-stsparky) 19:53, 2004 Apr 21 (PDT)
 
 I looked up ***Coyote Blue***, and it looks quite interesting. Our school lib doesn't carry any of Moore's books so it'll be awhile before I get a chance to read his stuff. Thanks for putting me onto it though. [Njihia Mbitiru](/njihia-mbitiru)
 4:17, 2004 May 7 (EST)

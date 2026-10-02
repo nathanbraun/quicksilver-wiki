@@ -14,7 +14,7 @@ Odder still, [Louis Joseph, Duke of Vendôme](/louis-joseph-duke-of-vendôme) ti
 
 There is a dietary practice known as "anopsology," "instinctive eating," or "instincto." The short explanation of this is that practitioners eat only uncooked single foods, one at a time. They determine what to eat based on smell, and eat that one thing until it stops tasting good. My favorite reference is an article called [An Ex-Instincto's Guide to Instinctive Eating](http://www.beyondveg.com/nieft-k-instincto-guide-instincto-guide1a-shtml). This article contains the story of a woman who for about a month ate only fruit and spoiling raw fish, which seemed to have caused her rheumatoid arthritis to go into remission. --[Jeremy](/user-jeremybornstein)
 
-[Garum](https://en.wikipedia.org/wiki/garum) is the Latin name for a sauce made of rotten fish that was exported from Gadir (modern [Cádiz](https://en.wikipedia.org/wiki/cadiz), in [Spain](https://en.wikipedia.org/wiki/spain)) to all the [Roman Empire](https://en.wikipedia.org/wiki/roman-empire).
+[Garum](https://en.wikipedia.org/wiki/garum) is the Latin name for a sauce made of rotten fish that was exported from Gadir (modern [Cádiz](https://en.wikipedia.org/wiki/cadiz), in [Spain](https://en.wikipedia.org/wiki/spain)) to all the [Roman Empire](https://en.wikipedia.org/wiki/Roman_Empire).
 
 ### It's amazing
 

@@ -60,5 +60,5 @@ Some old shotgun barrels (usually on double barreled guns) were formed from forg
 
 #### [External links](/metaweb-external-links)
 
-* [Wikipedia: Damascus steel](https://en.wikipedia.org/wiki/damascus-steel)
+* [Wikipedia: Damascus steel](https://en.wikipedia.org/wiki/Damascus_steel)
 * [Wikipedia: Steel](https://en.wikipedia.org/wiki/steel)

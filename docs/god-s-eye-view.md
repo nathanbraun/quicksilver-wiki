@@ -9,9 +9,9 @@ This is a page for **God's Eye View**
 
 The concept of a **God's eye view** is inherently troublesome. God, by definition, is omniscient - s/he knows all that there is to know. Therefore s/he can see everything that is in existence. If God itself is existent, then s/he has to see itself (apologies for the grammar - someone needs to develop some for gender-non-specificity). The concept then arises of God seeing itself seeing. An infinite regress proceeds from here.
 
-[Cosmology](/cosmology), when joined with [Quantum Mechanics](https://en.wikipedia.org/wiki/quantum-mechanics), faces a similar regress. If it takes an "outside observer" to resolve a wave-function into a concrete occurrant reality (see Schrodinger's Cat), how can the Universe itself be determined? One cannot step outside of existence itself in order to confirm its existence.
+[Cosmology](/cosmology), when joined with [Quantum Mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics), faces a similar regress. If it takes an "outside observer" to resolve a wave-function into a concrete occurrant reality (see Schrodinger's Cat), how can the Universe itself be determined? One cannot step outside of existence itself in order to confirm its existence.
 
-In computation, there is [Gödel's incompleteness theorem](https://en.wikipedia.org/wiki/goedel-s-incompleteness-theorem), which also turns on the inability of a system to entirely represent itself. Here the system of Mathematics is exposed as less than perfect - it cannot answer certain questions about itself, and when extended in order to remedy this, secretes new obscurities.
+In computation, there is [Gödel's incompleteness theorem](https://en.wikipedia.org/wiki/Gödel's_incompleteness_theorems), which also turns on the inability of a system to entirely represent itself. Here the system of Mathematics is exposed as less than perfect - it cannot answer certain questions about itself, and when extended in order to remedy this, secretes new obscurities.
 
 This frequent appearance of [self-reference](https://en.wikipedia.org/wiki/self-reference) is highly relevant to today's world of science and computers. Fractal geometry is based in self-referencing algorithms, and is used in 3D rendering and socio-economic modelling, as well as pretty posters.
 

@@ -84,7 +84,7 @@ Now Lick an Lock-up Done Wid, Hurray fuh Jin-Jin 
 ### Reference
 
 
-Much of the material in this article comes from the [CIA World Factbook](https://en.wikipedia.org/wiki/cia-world-factbook) 2000 and the 2003 U.S. Department of State website. 
+Much of the material in this article comes from the [CIA World Factbook](https://en.wikipedia.org/wiki/The_World_Factbook) 2000 and the 2003 U.S. Department of State website. 
 
 ### Related entries
 

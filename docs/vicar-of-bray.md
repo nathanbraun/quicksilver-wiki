@@ -157,7 +157,7 @@ His frequent changes of heart mirror those of [Roger Comstock](/roger-comstock).
 * [Vicar of Bray at the Contemplator's folk music site (with midi)](http://www.contemplator.com/england-vicrbray.html)
 * [The Parish Church of Bray](http://www.braystmichael.co.uk)
 * [The Vicar of Bray (song](/)
-* [John Wilkins on Wikipedia](https://en.wikipedia.org/wiki/john-wilkins)
+* [John Wilkins on Wikipedia](https://en.wikipedia.org/wiki/John_Wilkins)
 * [THE ANALYTICAL LANGUAGE OF JOHN WILKINS By Jorge Luis Borges](http://www.alamut.com/subj-artiface-language-johnwilkins.html)
 * [An Essay Toward a Real Character and a Philosophical Language](http://reliant.teknowledge.com/wilkins) - Full text
 * [MacTutor: John Wilkins](http://www.gap.dcs.st.and.ac.uk/history-mathematicians-wilkins.html)

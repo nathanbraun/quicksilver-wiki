@@ -65,6 +65,6 @@ These three key inventions, coke, the blast furnace and the Bessemer Converter, 
 * [Wikipedia: History of iron and steelmaking](https://en.wikipedia.org/wiki/steel-history-of-iron-and-steelmaking)
 * [Wikipedia: Steel](https://en.wikipedia.org/wiki/steel)
 * [Steel to New York](http://www.amnh.org/exhibitions-expeditions-treasure-fossil-treasures-cape-york-meteorite-capeyork-html-tair)
-* [Wikipedia: Damascus steel](https://en.wikipedia.org/wiki/damascus-steel)
+* [Wikipedia: Damascus steel](https://en.wikipedia.org/wiki/Damascus_steel)
 * [Wikipedia: Stainless steel](https://en.wikipedia.org/wiki/stainless-steel)
 * [Wikipedia: Carbon steel](https://en.wikipedia.org/wiki/carbon-steel)

@@ -66,7 +66,7 @@ Paul and the other apostles did their work well. The new religion spread through
 
 Not all the early Christians were poor, and it became customary for the rich to provide for the poor at the common meals. The sense of common love focused the community's attention on the needs of the weak, the sick, the unfortunate, and the unprotected. This concern gave the early Christian communities a warmth and a human appeal that contrasted with the coldness and impersonality of the pagan cults. No less attractive were the promise of salvation, the importance to God of each individual human soul, and the spiritual equality of everybody, in the eyes of God. 
 
-Complete in **[History of Christianity](https://en.wikipedia.org/wiki/history-of-christianity)**.
+Complete in **[History of Christianity](https://en.wikipedia.org/wiki/History_of_Christianity)**.
 
 ### Related entries
 
@@ -106,7 +106,7 @@ Complete in **[History of Christianity](https://en.wikipedia.org/wiki/history-of
 
 
 * **[Wikipedia's entry on Christianity](https://en.wikipedia.org/wiki/christianity)**
-* **[History of Christianity](https://en.wikipedia.org/wiki/history-of-christianity)**
+* **[History of Christianity](https://en.wikipedia.org/wiki/History_of_Christianity)**
 
 
 **Apologists**

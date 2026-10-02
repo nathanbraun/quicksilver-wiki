@@ -79,7 +79,7 @@ The main difficulty with this argument is that the decline only began to manifes
 
 Slavery's origins are simply too old to recount. So, too, are movements to free large or distinct groups of them. Moses led Israelite slaves from ancient Egypt in the Biblical Book of Exodus - possibly the first detailed account of a movement to free slaves, although clearly not accepted at face value as real history in all particulars. 
 
-### [Lord Mansfield and abolition of slavery](https://en.wikipedia.org/wiki/william-murray-1st-earl-of-mansfield)
+### [Lord Mansfield and abolition of slavery](https://en.wikipedia.org/wiki/William_Murray,_1st_Earl_of_Mansfield)
 
 
 Lord Mansfield played a key role in smoothly ending slavery in England. 
@@ -99,7 +99,7 @@ Mansfield declared, "A foreigner cannot be imprisoned here on the authority of a
 ### The End of Slavery
 
 
-Slavery has always had its opponents. In 1771 Granville Sharp brought the case of the escaped slave **James Somerset** before the **[Lord Chief Justice William Murray, Lord Mansfield](https://en.wikipedia.org/wiki/william-murray-1st-earl-of-mansfield)**. Somerset had escaped and been recaptured in England by his American owner. Basing his judgement on Magna Carta and habeas corpus he declared - "Whatever inconveniences, therefore, may follow from a decision, I cannot say this case is allowed or approved by the law of England; and therefore the black must be discharged." But the movement to abolish the slave trade only took off in the late 1770's. It was thus declared that the condition of slavery could not be enforced under English law. However, little effort was made towards enforcing the judgement, and slaves continued to be held in Britain for years to come. 
+Slavery has always had its opponents. In 1771 Granville Sharp brought the case of the escaped slave **James Somerset** before the **[Lord Chief Justice William Murray, Lord Mansfield](https://en.wikipedia.org/wiki/William_Murray,_1st_Earl_of_Mansfield)**. Somerset had escaped and been recaptured in England by his American owner. Basing his judgement on Magna Carta and habeas corpus he declared - "Whatever inconveniences, therefore, may follow from a decision, I cannot say this case is allowed or approved by the law of England; and therefore the black must be discharged." But the movement to abolish the slave trade only took off in the late 1770's. It was thus declared that the condition of slavery could not be enforced under English law. However, little effort was made towards enforcing the judgement, and slaves continued to be held in Britain for years to come. 
 
 Somerset was set free. But slaves continued to be sold in Britain and British slaves ships carried on operating, taking slaves to the Caribbean. In the 1780's the Quakers under Granville Sharp began to publicly campaign against slavery. At this time slavery was not merely something that happened far away - slaves could be seen for sale in Liverpool and Bristol. West Indian planters took to coming to England with their slaves, pricking the consciences of those who might otherwise not have given slavery a second thought. 
 
@@ -178,5 +178,5 @@ Meanwhile in Africa slavery of the old traditional variety continued in small po
 * [Slavery Primer](http://www.diduknow.info/slavery)
 * [BBC History: Slavery](http://www.bbc.co.uk/worldservice-africa-features-storyofafrica-index-section9-shtml)
 * [BBC Slavery Links](http://www.bbc.co.uk/worldservice-africa-features-storyofafrica-9generic5-shtml-2)
-* [Anti-Slavery International](https://en.wikipedia.org/wiki/anti-slavery-international)
+* [Anti-Slavery International](https://en.wikipedia.org/wiki/Anti-Slavery_International)
 * [Free The Slaves](http://freetheslaves.net)

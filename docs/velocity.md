@@ -65,10 +65,10 @@ The kinetic energy is a [scalar](/scalar) quantity.
 
 ### [External links](/metaweb-external-links)
 
-* [http://en.wikipedia.org/wiki/Derivative](https://en.wikipedia.org/wiki/derivative)
+* [http://en.wikipedia.org/wiki/Derivative](https://en.wikipedia.org/wiki/Derivative)
 * [http://en2.wikipedia.org/wiki/Classical\_mechanics](https://en.wikipedia.org/wiki/classical_mechanics)
-* [http://en.wikipedia.org/wiki/Special\_relativity](https://en.wikipedia.org/wiki/special_relativity)
+* [http://en.wikipedia.org/wiki/Special\_relativity](https://en.wikipedia.org/wiki/Special_relativity)
 * [http://en2.wikipedia.org/wiki/Energy](https://en.wikipedia.org/wiki/energy)
 * [http://en2.wikipedia.org/wiki/Mass](https://en.wikipedia.org/wiki/mass)
-* [http://en.wikipedia.org/wiki/Speed](https://en.wikipedia.org/wiki/speed)
-* [http://en.wikipedia.org/wiki/Displacement](https://en.wikipedia.org/wiki/displacement)
+* [http://en.wikipedia.org/wiki/Speed](https://en.wikipedia.org/wiki/Speed)
+* [http://en.wikipedia.org/wiki/Displacement](https://en.wikipedia.org/wiki/Displacement)

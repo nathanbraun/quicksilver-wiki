@@ -30,6 +30,6 @@ Frequency analysis is the way to crack simple [cryptosystems](/stephenson-neal-q
 #### External links
 
 
-* [Frequency analysis (Wikipedia)](https://en.wikipedia.org/wiki/frequency-analysis)
+* [Frequency analysis (Wikipedia)](https://en.wikipedia.org/wiki/Frequency_analysis)
 * [Frequency distribution of letters in English](http://www.csm.astate.edu/rossa-datasec-frequency.html)
 * [Frequency distribution of letters in Spanish](http://www.santacruzpl.org/readyref-files-g-l-ltfrqsp-shtml)

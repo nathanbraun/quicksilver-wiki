@@ -71,7 +71,7 @@ This is the [Cryptonomicon](/cryptonomicon) page for **Bertrand Russell**
 
 
 
-### [Wikipedia: Bertrand Russell](https://en.wikipedia.org/wiki/bertrand-russell)
+### [Wikipedia: Bertrand Russell](https://en.wikipedia.org/wiki/Bertrand_Russell)
 
 
 ![Russell2.jpg](/images/Russell2.jpg)  
@@ -87,7 +87,7 @@ In 1950, Russell was made Nobel Laureate in Literature "in recognition of his va
 #### Logic
 
 
-In mathematical logic, Russell established Russell's paradox, which exposed an inconsistency in naïve set theory and led directly to the creation of modern axiomatic set theory. It also crippled Gottlob Frege's project of reducing mathematics to logic. Nonetheless, Russell defended logicism (the view that mathematics is in some important sense reducible to logic) and attempted this project himself, along with Alfred North Whitehead, in the [Principia Mathematica](https://en.wikipedia.org/wiki/principia-mathematica), a clean axiomatic system on which all of mathematics can be built, but which was never fully completed. Although it did not fall prey to the paradoxes in Frege's approach, it was later proven by [Kurt Gödel](/stephenson-neal-quicksilver-36-it-is-the-product-of-five-primes-gary-thompson) thatfor exactly that reasonneither Principia Mathematica nor any other consistent logical system could prove all mathematical truths, and hence Russell's project was necessarily incomplete.
+In mathematical logic, Russell established Russell's paradox, which exposed an inconsistency in naïve set theory and led directly to the creation of modern axiomatic set theory. It also crippled Gottlob Frege's project of reducing mathematics to logic. Nonetheless, Russell defended logicism (the view that mathematics is in some important sense reducible to logic) and attempted this project himself, along with Alfred North Whitehead, in the [Principia Mathematica](https://en.wikipedia.org/wiki/Principia_Mathematica), a clean axiomatic system on which all of mathematics can be built, but which was never fully completed. Although it did not fall prey to the paradoxes in Frege's approach, it was later proven by [Kurt Gödel](/stephenson-neal-quicksilver-36-it-is-the-product-of-five-primes-gary-thompson) thatfor exactly that reasonneither Principia Mathematica nor any other consistent logical system could prove all mathematical truths, and hence Russell's project was necessarily incomplete.
 
 ### Principia Mathematica
 
@@ -169,7 +169,7 @@ He was succeeded in his titles by his son by his second marriage to Dora Russell
 **|  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  Preceded by  Acted as  Followed by
-| [John Russell](https://en.wikipedia.org/wiki/john-francis-stanley-russell-2nd-earl-russell) [Earl Russell](https://en.wikipedia.org/wiki/bertrand-russell) [John Russell](https://en.wikipedia.org/wiki/john-conrad-russell-4th-earl-russell)|   2nd Earl   3rd Earl   4th Earl
+| [John Russell](https://en.wikipedia.org/wiki/john-francis-stanley-russell-2nd-earl-russell) [Earl Russell](https://en.wikipedia.org/wiki/Bertrand_Russell) [John Russell](https://en.wikipedia.org/wiki/john-conrad-russell-4th-earl-russell)|   2nd Earl   3rd Earl   4th Earl
  | | |
  | | |
  | | |**
@@ -208,7 +208,7 @@ He was succeeded in his titles by his son by his second marriage to Dora Russell
 #### Other
 
 
-* [Wikiquote - Quotes by Bertrand Russell](https://quote.wikipedia.org/wiki/bertrand-russell)
+* [Wikiquote - Quotes by Bertrand Russell](https://en.wikiquote.org/wiki/Bertrand_Russell)
 * [The Bertrand Russell Society](http://users.drew.edu/jlenz-brs.html)
 * [The Bertrand Russell Gallery](/http-desktop12-cis-mcmaster-ca-bertrand)
 * [*Stanford Encyclopedia of Philosophy* entry](http://plato.stanford.edu/entries-russell)

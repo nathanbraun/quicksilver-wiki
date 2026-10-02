@@ -20,7 +20,7 @@ This is [The Confusion](/the-confusion) page for **Jean Bart**
 * [Stephenson:Neal:Quicksilver:576:rotten fish (Neal Stephenson)](/stephenson-neal-quicksilver-576-rotten-fish-neal-stephenson)
 
 
-### [Wikipedia: Jean Bart](https://en.wikipedia.org/wiki/jean-bart)
+### [Wikipedia: Jean Bart](https://en.wikipedia.org/wiki/Jean_Bart)
 
 
 **Jean Bart** (October 21, 1651 - April 27, 1702) was a French naval commander.![JbartMW.jpg](/images/JbartMW.jpg)  
@@ -74,7 +74,7 @@ The naval **Battle of Texel** took place between the Dutch and the combined Engl
 
 The overall commanders of the English and Dutch military forces were James, Duke of York, afterwards King [James II](/james-ii) of England, and [William III](/william-iii) of Orange, James' son-in-law and also a future King of England. The Battle of Texel was joined when a Dutch fleet sought to oppose the landing of troops by a combined Anglo-French fleet. Both were future kings of England.
 
-[Prince Rupert](https://en.wikipedia.org/wiki/prince-rupert-of-the-rhine) commanded the Allied fleet of about 92 ships and 30 fireships, taking control of the centre himself, with D'Estrees comanding the van, and Sir Edward Spragge the rear division. The Dutch fleet of 75 ships and 30 fireships was commanded by de Ruyter, with Banckerts in charge of the van and Tromp the rear. 
+[Prince Rupert](https://en.wikipedia.org/wiki/Prince_Rupert_of_the_Rhine) commanded the Allied fleet of about 92 ships and 30 fireships, taking control of the centre himself, with D'Estrees comanding the van, and Sir Edward Spragge the rear division. The Dutch fleet of 75 ships and 30 fireships was commanded by de Ruyter, with Banckerts in charge of the van and Tromp the rear. 
 
 Although outnumbered, De Ruyter gained the weather gauge and sent his van under Banckerts in to separate the Allied van (under D'Estrees) from the main fleet. His ploy was effective, and the French ships were unable to play a significant part in the remainder of the battle, which became a gruelling encounter between the bulk of the Dutch fleet and the English centre and rear divisions. Both suffered badly during hours of fierce fighting. 
 
@@ -82,7 +82,7 @@ Spragge and Tromp, commanding their respective rear divisions, clashed repeatedy
 
 With both fleets exhausted, the English eventually abandoned their attempt to land troops, and both sides retired. No ship was sunk, but many were seriously damaged and about 3000 men died: two-thirds of them English or French. After the battle Prince Rupert complained that the French had not done their share of the fighting, but historians ascribe the lack of French impact on the battle to de Ruyter's brilliant fleet handling. Despite its inconclusive finish, the battle was a clear strategic victory for the Dutch. 
 
-In the months following, the Netherlands formed an alliance with Spain and the French withdrew. The war came to an end with the signing of the **Treaty of Westminster** between the English and the Dutch in 1674. It was the peace treaty that ended the [Third Anglo-Dutch War](https://en.wikipedia.org/wiki/third-anglo-dutch-war). It was signed on February 19, 1674. It led to a restoration of the status quo ante bellum, including the return of New York and New Jersey to England. When the Dutch allied themselves with Spain - which was itself at war with the Netherlands until 1648 - France withdrew in 1673. England was also forced to sign the treaty as the parliament would not allow more money to be spent on the war.
+In the months following, the Netherlands formed an alliance with Spain and the French withdrew. The war came to an end with the signing of the **Treaty of Westminster** between the English and the Dutch in 1674. It was the peace treaty that ended the [Third Anglo-Dutch War](https://en.wikipedia.org/wiki/Third_Anglo-Dutch_War). It was signed on February 19, 1674. It led to a restoration of the status quo ante bellum, including the return of New York and New Jersey to England. When the Dutch allied themselves with Spain - which was itself at war with the Netherlands until 1648 - France withdrew in 1673. England was also forced to sign the treaty as the parliament would not allow more money to be spent on the war.
 
 ### Fortifying the Corsairs' Base
 
@@ -141,5 +141,5 @@ Many anecdotes are narrated of the courage and bluntness of the uncultivated sai
 
 * [Jean Bart (in French / en Français)](http://www.netmarine.net/bat-fregates-jeanbart-celebre.htm)
 * [The Battleship "JEAN BART" (1940) 1949-1970](http://www.warship.get.net/pl-francja-battleships-1940-richelieu-class-jean-bart-photos.html)
-* [Treaty of Utrecht](https://en.wikipedia.org/wiki/treaty-of-utrecht-1713)
-* [Prince Rupert](https://en.wikipedia.org/wiki/prince-rupert-of-the-rhine)
+* [Treaty of Utrecht](https://en.wikipedia.org/wiki/Peace_of_Utrecht)
+* [Prince Rupert](https://en.wikipedia.org/wiki/Prince_Rupert_of_the_Rhine)

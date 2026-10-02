@@ -83,4 +83,4 @@ Much of the correspondence in this book is encyphered. We are given some clues a
 
 
 * [code tools](http://codebreaker.dids.com/fcodes.htm)
-* [Zimmermann Telegram](https://en.wikipedia.org/wiki/zimmermann-telegram) - worth noting
+* [Zimmermann Telegram](https://en.wikipedia.org/wiki/Zimmermann_telegram) - worth noting

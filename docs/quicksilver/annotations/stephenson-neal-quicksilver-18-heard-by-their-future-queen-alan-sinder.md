@@ -203,7 +203,7 @@ Mr Moore, Mr Moore, Mr Moore.
   
 
 
-*Voice Over: Just starting on BBC 1 now, "[Victoria Regina](https://en.wikipedia.org/wiki/victoria-of-the-united-kingdom)" the inspiring tale of the simple crofter's daughter who worked her way up to become Queen of England and Empress of the Greatest Empire television has ever seen. On BBC 2 now Episode 3 of "[George I](/george-i-of-england)" the new 116 part serial about the famous English King who hasn't been done yet. On ITV now the *(sound of a punch)* Ugh!*  
+*Voice Over: Just starting on BBC 1 now, "[Victoria Regina](https://en.wikipedia.org/wiki/Queen_Victoria)" the inspiring tale of the simple crofter's daughter who worked her way up to become Queen of England and Empress of the Greatest Empire television has ever seen. On BBC 2 now Episode 3 of "[George I](/george-i-of-england)" the new 116 part serial about the famous English King who hasn't been done yet. On ITV now the *(sound of a punch)* Ugh!*  
   
 
 

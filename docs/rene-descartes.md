@@ -101,11 +101,11 @@ Descartes's theory provided the basis for the calculus of [Newton](/isaac-newton
 ### External links
 
 
-* [Wikipedia entry](https://en.wikipedia.org/wiki/rené-descartes)
-* [Cartesian Coordinate System](https://en.wikipedia.org/wiki/cartesian-coordinate-system)
-* [La Géométrie](https://en.wikipedia.org/wiki/la-géométrie)
-* [Meditations on First Philosophy](https://en.wikipedia.org/wiki/meditations-on-first-philosophy)
-* [Wikiquote - Quotes by René Descartes](https://quote.wikipedia.org/wiki/rené-descartes)
+* [Wikipedia entry](https://en.wikipedia.org/wiki/René_Descartes)
+* [Cartesian Coordinate System](https://en.wikipedia.org/wiki/Cartesian_coordinate_system)
+* [La Géométrie](https://en.wikipedia.org/wiki/La_Géométrie)
+* [Meditations on First Philosophy](https://en.wikipedia.org/wiki/Meditations_on_First_Philosophy)
+* [Wikiquote - Quotes by René Descartes](https://en.wikiquote.org/wiki/René_Descartes)
 * [Discourse On the Method](http://www.ibiblio.org/gutenberg-cgi-bin-sdb-t9-cgi-t9-cgi-entry-59-full-yes) - at Project Gutenberg
 * [Selections from the Principles of Philosophy](http://www.ibiblio.org/gutenberg-cgi-bin-sdb-t9-cgi-t9-cgi-entry-4391-full-yes) - at Project Gutenberg
 * [The Passions of the Soul](http://www.cgu.edu/hum-phi-descartes) - at Descartes Web Project
@@ -123,8 +123,8 @@ Descartes's theory provided the basis for the calculus of [Newton](/isaac-newton
 * [mind](https://en.wikipedia.org/wiki/mind)
 * [Platonism](https://en.wikipedia.org/wiki/platonism)
 * [sin](https://en.wikipedia.org/wiki/sin)
-* [thing](https://en.wikipedia.org/wiki/object-philosophy) - as **Thing** was the governing assembly in **Viking** society. Object was clearly meant.
+* [thing](https://en.wikipedia.org/wiki/Subject_and_object_%28philosophy%29) - as **Thing** was the governing assembly in **Viking** society. Object was clearly meant.
 * [dreams](https://en.wikipedia.org/wiki/dreaming)
 * [God's eye view](https://en.wikipedia.org/wiki/subject-object-problem) - In philosophy, the **subject-object problem** is a problem chiefly for Marxists, and for that idealistic revision of Marxism that supplies the background for *postmodernism*, social construction, and a constellation of related movements.
-* [cogito ergo sum](https://en.wikipedia.org/wiki/cogito-ergo-sum)
+* [cogito ergo sum](https://en.wikipedia.org/wiki/Cogito,_ergo_sum)
 * [anthropic bias](https://en.wikipedia.org/wiki/anthropic-principle-anthropic-bias-and-anthropic-reasoning)

@@ -8,7 +8,7 @@ From the Quicksilver Metaweb.
 The **Riemann zeta function** ζ(*s*) is defined for any complex number *s* with real part > 1 as:
 
 In the region {*s* : Re(*s*) > 1},
-this infinite series converges and defines a holomorphic function. (In that expression, Re means the real part of a number.) Bernhard Riemann realized that the zeta function can be extended by analytic continuation in a unique way to a [holomorphic function](https://en.wikipedia.org/wiki/holomorphic-function) ζ(*s*) defined for **all** complex numbers *s* with *s* ≠ 1. It is this function that is the object of the Riemann hypothesis.
+this infinite series converges and defines a holomorphic function. (In that expression, Re means the real part of a number.) Bernhard Riemann realized that the zeta function can be extended by analytic continuation in a unique way to a [holomorphic function](https://en.wikipedia.org/wiki/Holomorphic_function) ζ(*s*) defined for **all** complex numbers *s* with *s* ≠ 1. It is this function that is the object of the Riemann hypothesis.
 
 The connection between this function and prime numbers was already realized by Leonhard Euler: 
 

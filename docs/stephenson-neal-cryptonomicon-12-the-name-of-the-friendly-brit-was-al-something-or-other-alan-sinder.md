@@ -31,7 +31,7 @@ The [Cryptonomicon](/cryptonomicon) page for **Alan Turing**
 ### Wikipedia: Alan Turing
 
 
-**Alan Mathison Turing** (June 23, 1912 - June 7, 1954) was a British mathematician and is considered to be one of the fathers of modern computer science. He provided an influential formalisation of the concept of [algorithm](https://en.wikipedia.org/wiki/algorithm) and computation: the [Turing machine](https://en.wikipedia.org/wiki/turing-machine). He formulated the now widely accepted [Church-Turing thesis](https://en.wikipedia.org/wiki/church-turing-thesis), namely that every other practical computing model had either the equivalent or a subset of the capabilities of a Turing machine. During [World War II](https://en.wikipedia.org/wiki/world-war-ii) he headed a successful effort of breaking the German secret code. After the war, he worked with one of the earliest digital computers, and later he provided a provocative contribution to the discussion ***[Can machines think?](https://en.wikipedia.org/wiki/digital-sentience)***![Alan_Turing.jpg](/images/Alan_Turing.jpg)  
+**Alan Mathison Turing** (June 23, 1912 - June 7, 1954) was a British mathematician and is considered to be one of the fathers of modern computer science. He provided an influential formalisation of the concept of [algorithm](https://en.wikipedia.org/wiki/algorithm) and computation: the [Turing machine](https://en.wikipedia.org/wiki/Turing_machine). He formulated the now widely accepted [Church-Turing thesis](https://en.wikipedia.org/wiki/Church–Turing_thesis), namely that every other practical computing model had either the equivalent or a subset of the capabilities of a Turing machine. During [World War II](https://en.wikipedia.org/wiki/World_War_II) he headed a successful effort of breaking the German secret code. After the war, he worked with one of the earliest digital computers, and later he provided a provocative contribution to the discussion ***[Can machines think?](https://en.wikipedia.org/wiki/Artificial_consciousness)***![Alan_Turing.jpg](/images/Alan_Turing.jpg)  
 **ALAN TURING**
 
 ### Childhood and youth
@@ -73,7 +73,7 @@ In 1952 Turing wrote a chess program. Lacking a computer powerful enough to exec
 ### Persecution for homosexuality and death
 
  
-Persecution of Turing for his [homosexuality](/homosexual) crippled his career. In 1952, his male lover helped an accomplice to break into Turing's house and commit larceny. Turing went to the police to report the crime. As a result of the police investigation, he was charged with "gross indecency and sexual perversion" (see [sodomy law](https://en.wikipedia.org/wiki/sodomy-law)). He unapologetically offered no defence, and was convicted. Following the well-publicised trial, he was given a choice between incarceration and libido-reducing hormonal treatment. He chose the hormone injections, which lasted for a year, with side effects including the development of breasts during that period. In 1954, he died of poisoning after eating a cyanide-laced apple. Most believe that his death was intentional, and the death was ruled a suicide. His mother, however, strenuously argued that the ingestion was accidental due to his careless storage of laboratory chemicals. 
+Persecution of Turing for his [homosexuality](/homosexual) crippled his career. In 1952, his male lover helped an accomplice to break into Turing's house and commit larceny. Turing went to the police to report the crime. As a result of the police investigation, he was charged with "gross indecency and sexual perversion" (see [sodomy law](https://en.wikipedia.org/wiki/Sodomy_law)). He unapologetically offered no defence, and was convicted. Following the well-publicised trial, he was given a choice between incarceration and libido-reducing hormonal treatment. He chose the hormone injections, which lasted for a year, with side effects including the development of breasts during that period. In 1954, he died of poisoning after eating a cyanide-laced apple. Most believe that his death was intentional, and the death was ruled a suicide. His mother, however, strenuously argued that the ingestion was accidental due to his careless storage of laboratory chemicals. 
 
 ### Turing in Fiction
 
@@ -97,11 +97,11 @@ Also the [movie](http://us.imdb.com/title-tt0157583) of the same name.
 * [Alan Turing "Virtual Museum"](http://www.turing.org/uk)
 * [The Turing Digital Archive](http://www.turingarchive.org)
 * [MacTutor biography of Turing](http://www.history.mcs.st.andrews.ac.uk/history-mathematicians-turing.html)
-* [Church-Turing thesis](https://en.wikipedia.org/wiki/church-turing-thesis)
-* [Sodomy Law](https://en.wikipedia.org/wiki/sodomy-law)
+* [Church-Turing thesis](https://en.wikipedia.org/wiki/Church–Turing_thesis)
+* [Sodomy Law](https://en.wikipedia.org/wiki/Sodomy_law)
 * [A short biography of Turing](http://www.turing.org.uk/bio-part1.html)
-* The [Turing Award](https://en.wikipedia.org/wiki/turing-award) is given by the [Association for Computing Machinery](https://en.wikipedia.org/wiki/association-for-computing-machinery) to a person for technical contributions to the computing community
-* [Famous gay lesbian or bisexual people](https://en.wikipedia.org/wiki/famous-gay-lesbian-or-bisexual-people)
+* The [Turing Award](https://en.wikipedia.org/wiki/Turing_Award) is given by the [Association for Computing Machinery](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery) to a person for technical contributions to the computing community
+* [Famous gay lesbian or bisexual people](https://en.wikipedia.org/wiki/List_of_gay,_lesbian_or_bisexual_people)
 * [An even shorter bio](/http-www-idsia-ch-juergen-turing-html)
 * [Alan Turing - Towards a Digital Mind: Part 1](http://www.systemtoolbox.com/article-php-history-id-3)
 * [Computing machinery and intelligence](http://www.loebner.net/prizef-turingarticle.html) Full text of article.

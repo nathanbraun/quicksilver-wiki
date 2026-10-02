@@ -42,7 +42,7 @@ A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z
 (The ligatures Æ, , and ß when used in English, French, or German are normally not counted as separate alphabetic letters but as variants of AE, OE and ss respectively. Letters bearing diacritics are also not counted as separate letters in these languages. This is often not the case for Æ and  and some letters bearing diacritics in other variations of the Latin alphabet.)
 
 
-### [Wikipedia: Phoenician alphabet](https://en.wikipedia.org/wiki/phoenician-alphabet)
+### [Wikipedia: Phoenician alphabet](https://en.wikipedia.org/wiki/Phoenician_alphabet)
 
 
 The Phoenician alphabet dates from around 1000 BCE and is a direct descendant of the Proto-Sinatic alphabet. It was used by the Phoenicians to write Phoenician, a Northern Semitic language. Modern alphabets thought to have descended from the Phoenician include Greek, Hebrew, Arabic and Latin. Like Proto-Sinatic, Arabic and Hebrew, Phoenician is a consonantal alphabet (an abjad), and contains no symbols for vowel sounds, which had to be deduced from context.
@@ -86,7 +86,7 @@ Phoenician inscriptions have been found in archaeological sites at a number of f
 
 
 * The meanings given are of the letter names in Phoenician. The original Proto-Sinatic letters used to be pictograms, though some of the name meanings had changed by the time of Phoenician. For example, the character gimel may have originally been the image of a throwing stick
-* As the letters were originally carved into stone, most are square and straight, like characters from the [runic alphabet](https://en.wikipedia.org/wiki/runic-alphabet), although more cursive versions are increasingly attested in later times, culminating in the Neo-Punic alphabet of Roman-era North Africa.
+* As the letters were originally carved into stone, most are square and straight, like characters from the [runic alphabet](https://en.wikipedia.org/wiki/Runes#Runic_alphabets), although more cursive versions are increasingly attested in later times, culminating in the Neo-Punic alphabet of Roman-era North Africa.
 * Phoenician was usually written from right to left, although there are some texts written in boustrophedon (consecutive lines in alternate directions – literally, *as the ox turns*, a reference to the way an ox turns at the end ploughing a furrow and carries on the next furrow in the opposite direction).
 * Various letters have alternative representations: e.g. the taw can be written more like a '+' than like a 'x', the heth can have two cross bars.
 * The Greek letters given in brackets are archaic and may not render in some fonts (see Greek alphabet for details).

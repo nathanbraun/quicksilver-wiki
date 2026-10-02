@@ -8,7 +8,7 @@ The [Cryptonomicon](/cryptonomicon) page for **the Sultan** circa 1999
 ### Stephensonia
 
 
-*The Sultan does a decent [Aleister Crowley](https://en.wikipedia.org/wiki/aleister-crowley) act in Chapter 36: ![Aleister_Crowley_1.png](/images/Aleister_Crowley_1.png)  
+*The Sultan does a decent [Aleister Crowley](https://en.wikipedia.org/wiki/Aleister_Crowley) act in Chapter 36: ![Aleister_Crowley_1.png](/images/Aleister_Crowley_1.png)  
 **Aleister Crowley  
 A Man Known As the *Lizard King.***
   
@@ -34,22 +34,22 @@ A Man Known As the *Lizard King.***
 * [Stephenson:Neal:The Confusion:691:yo-yo (Alan Sinder)](/stephenson-neal-the-confusion-691-yo-yo-alan-sinder)
 
 
-### [Sulu Sea](https://en.wikipedia.org/wiki/sulu-sea)
+### [Sulu Sea](https://en.wikipedia.org/wiki/Sulu_Sea)
 
 
-The Sulu Sea is a large sea in the southwestern area of the [Philippines](/philippines). It is separated from the South China Sea in the northeast by Palawan, and from the [Celebes Sea](https://en.wikipedia.org/wiki/celebes-sea) in the southeast by the Sulu Archipelago.![Ph_locator_map_palawan.png](/images/Ph_locator_map_palawan.png)  
+The Sulu Sea is a large sea in the southwestern area of the [Philippines](/philippines). It is separated from the South China Sea in the northeast by Palawan, and from the [Celebes Sea](https://en.wikipedia.org/wiki/Celebes_Sea) in the southeast by the Sulu Archipelago.![Ph_locator_map_palawan.png](/images/Ph_locator_map_palawan.png)  
 **The Sulu Sea**
 
-[Sulu Archipelago](https://en.wikipedia.org/wiki/sulu-archipelago) is an island chain in the southwest Philippines. It is considered to be part of Moroland by the local independence movement. The native language is Sama. The island chain is one of two partial land bridges to Borneo and is an important migration route for birds. Borneo is found to the southwest and Visayas to the northeast.
+[Sulu Archipelago](https://en.wikipedia.org/wiki/Sulu_Archipelago) is an island chain in the southwest Philippines. It is considered to be part of Moroland by the local independence movement. The native language is Sama. The island chain is one of two partial land bridges to Borneo and is an important migration route for birds. Borneo is found to the southwest and Visayas to the northeast.
 
-Sulu Sea contains a number of islands. The Cuyo Islands and Cagayan Sulu are part of the province of Palawan while Cagayan de Tawi-Tawi and the Turtle Islands are part of the province of Tawi-Tawi. Sule Sea is also where the [Tubbataha Reef](https://en.wikipedia.org/wiki/tubbataha-reef) National Marine Park, one of the [World Heritage Sites](https://en.wikipedia.org/wiki/world-heritage-site) is located. 
+Sulu Sea contains a number of islands. The Cuyo Islands and Cagayan Sulu are part of the province of Palawan while Cagayan de Tawi-Tawi and the Turtle Islands are part of the province of Tawi-Tawi. Sule Sea is also where the [Tubbataha Reef](https://en.wikipedia.org/wiki/Tubbataha_Reef) National Marine Park, one of the [World Heritage Sites](https://en.wikipedia.org/wiki/World_Heritage_Site) is located. 
 
 Tawi-Tawi is an island province of the Philippines located in the Autonomous Region in Muslim Mindanao (ARMM). The capital of Tawi-Tawi is Panglima Sugala and the province is the southernmost in the country. To the northeast lies the province of Sulu and to the west is Sabah in Malaysia. Tawi-Tawi also covers some islands in the Sulu Sea to the northwest, the Cagayan de Tawi-Tawi Island and the Turtle Islands, just 20 kilometers away from Sabah.
 
-### [South China Sea](https://en.wikipedia.org/wiki/south-china-sea)
+### [South China Sea](https://en.wikipedia.org/wiki/South_China_Sea)
 
 
-The **South China Sea** ([Chinese](https://en.wikipedia.org/wiki/chinese-language)): *Nan Hai* 南海/南洋, literal meaning: "South Sea") is a [marginal sea](https://en.wikipedia.org/wiki/marginal-sea), part of the [Pacific Ocean](https://en.wikipedia.org/wiki/pacific-ocean), encompassing an area from [Singapore](https://en.wikipedia.org/wiki/singapore) to the [Strait of Taiwan](https://en.wikipedia.org/wiki/strait-of-taiwan) of around 3,500,000 km². The minute [South China Sea Islands](https://en.wikipedia.org/wiki/south-china-sea-islands), collectively an [archipelago](https://en.wikipedia.org/wiki/archipelago), number in the hundreds.
+The **South China Sea** ([Chinese](https://en.wikipedia.org/wiki/chinese-language)): *Nan Hai* 南海/南洋, literal meaning: "South Sea") is a [marginal sea](https://en.wikipedia.org/wiki/List_of_seas_on_Earth#Marginal_seas_by_ocean), part of the [Pacific Ocean](https://en.wikipedia.org/wiki/Pacific_Ocean), encompassing an area from [Singapore](https://en.wikipedia.org/wiki/singapore) to the [Strait of Taiwan](https://en.wikipedia.org/wiki/Taiwan_Strait) of around 3,500,000 km². The minute [South China Sea Islands](https://en.wikipedia.org/wiki/South_China_Sea_Islands), collectively an [archipelago](https://en.wikipedia.org/wiki/archipelago), number in the hundreds.
 
 A number of nations, particularly the [Philippines](/philippines), object to the name "South China Sea", in that it implies Chinese sovereignty over the sea, which they dispute. Ironically, the Chinese name for the sea does not contain the name "China" in it.
 

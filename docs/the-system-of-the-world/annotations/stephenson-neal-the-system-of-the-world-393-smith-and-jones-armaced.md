@@ -14,14 +14,14 @@ From the Quicksilver Metaweb.
 
 * [Leibniz  and Black Humor (Alan Sinder)](/leibniz-and-black-humor-alan-sinder)
 * [Stephenson:Neal:Cryptonomicon:121:Randy is a Dwarf...(Alan Sinder)](/stephenson-neal-cryptonomicon-121-randy-is-a-dwarf-alan-sinder) - Tolkien
-* [Stephenson:Neal:Cryptonomicon:277:a sharpened Y...(Alan Sinder)](/stephenson-neal-cryptonomicon-277-a-sharpened-y-alan-sinder) - [Jonny Quest](https://en.wikipedia.org/wiki/jonny-quest)'s Giant Komodo Dragons
+* [Stephenson:Neal:Cryptonomicon:277:a sharpened Y...(Alan Sinder)](/stephenson-neal-cryptonomicon-277-a-sharpened-y-alan-sinder) - [Jonny Quest](https://en.wikipedia.org/wiki/Jonny_Quest)'s Giant Komodo Dragons
 * [Stephenson:Neal:Quicksilver:166:Strange information (Neal Stephenson)](/stephenson-neal-quicksilver-166-strange-information-neal-stephenson)
 * [Stephenson:Neal:The System of the World:9:a Dwarf out of some Saxon ring-saga (Armaced)](/stephenson-neal-the-system-of-the-world-9-a-dwarf-out-of-some-saxon-ring-saga-armaced)
 * [Stephenson:Neal:The System of the World:248:...never expected the Spanish Inquisition (Electricinca)](/stephenson-neal-the-system-of-the-world-248-never-expected-the-spanish-inquisition-electricinca)
 * [Stephenson:Neal:The System of the World:469:Python explain'd (DaveSeidel)](/stephenson-neal-the-system-of-the-world-469-python-explain-d-daveseidel)
 
 
-### [Wikipedia:Men in Black (movie)](https://en.wikipedia.org/wiki/men-in-black-movie)
+### [Wikipedia:Men in Black (movie)](https://en.wikipedia.org/wiki/Men_in_Black#Arts_and_entertainment)
 
 
 

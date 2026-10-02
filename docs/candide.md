@@ -9,11 +9,11 @@ stub for **Candide**
 
 From Wikipedia, the free encyclopedia. 
 
-Candide is a short novel by the [Enlightenment](https://en.wikipedia.org/wiki/the-enlightenment) philosopher [Voltaire](/voltaire).
+Candide is a short novel by the [Enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment) philosopher [Voltaire](/voltaire).
 
 Sardonic in outlook, it follows the naive protagonist Candide from his first exposure to the precept that "all is for the best in this, the best of all possible worlds," and on through a series of adventures that dramatically disprove that precept even as the protagonist clings to it. The novel [satirize](https://en.wikipedia.org/wiki/satire) the philosophy of [Gottfried Leibniz](/gottfried-wilhelm-von-leibniz). Voltaire never openly admitted to having written Candide .
 
-[Leonard Bernstein](https://en.wikipedia.org/wiki/leonard-bernstein) based an [operetta](https://en.wikipedia.org/wiki/operetta) (1956 ) on Voltaire's story. The overture is very popular as an orchestral piece. 
+[Leonard Bernstein](https://en.wikipedia.org/wiki/Leonard_Bernstein) based an [operetta](https://en.wikipedia.org/wiki/operetta) (1956 ) on Voltaire's story. The overture is very popular as an orchestral piece. 
 
 See also: [panglossianism](https://en.wikipedia.org/wiki/panglossianism)
 

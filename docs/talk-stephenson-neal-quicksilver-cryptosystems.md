@@ -14,11 +14,11 @@ I havent gotten that far in the book yet, but is there any mention of the Solita
 
  The big problem I see is the heroes/villains in both books so far are smart. The cyrpto-embroidery works because Eliza is able to hold her own with very clever folks. The good women who instilled her strong moral sense were bound to have their own 'secret language.' Any or all the three below would an excellent way for the 'dim' to speak openly without fear. Half-Cocked Jack would need something akin to the *grille*.
 
-[http://en.wikipedia.org/wiki/Pig\_latin](https://en.wikipedia.org/wiki/pig_latin)  
+[http://en.wikipedia.org/wiki/Pig\_latin](https://en.wikipedia.org/wiki/Pig_Latin)  
 
-[http://en.wikipedia.org/wiki/Jargon](https://en.wikipedia.org/wiki/jargon)  
+[http://en.wikipedia.org/wiki/Jargon](https://en.wikipedia.org/wiki/Jargon)  
 
-[http://en.wikipedia.org/wiki/Technical\_terminology](https://en.wikipedia.org/wiki/technical_terminology)  
+[http://en.wikipedia.org/wiki/Technical\_terminology](https://en.wikipedia.org/wiki/Jargon#Specifics)  
 
 
 I'd keep an eye open for 'masonspeak' in the plaintext GRUBENDOL correspondence which caused [Oldenburg](/oldenburg) and later [Daniel Waterhouse](/daniel-waterhouse) to be locked up when I reread the book this week. - [Sparky](/user-stsparky) 16:17, 26 Oct 2003 (PST)

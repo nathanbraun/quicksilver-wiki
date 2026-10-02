@@ -54,4 +54,4 @@ In 1720, Halley succeeded [John Flamsteed](/john-flamsteed) as Astronomer Royal,
 
 * [Edmund Halley biography](http://www.gap.dcs.st.and.ac.uk/history-mathematicians-halley.html)
 * [Edmond Halley entry in Catalog of the Scientific Community](http://es.rice.edu/es-humsoc-galileo-catalog-files-halley.html)
-* [WikiPedia entry for Edmond Halley](https://en.wikipedia.org/wiki/edmond-halley)
+* [WikiPedia entry for Edmond Halley](https://en.wikipedia.org/wiki/Edmond_Halley)

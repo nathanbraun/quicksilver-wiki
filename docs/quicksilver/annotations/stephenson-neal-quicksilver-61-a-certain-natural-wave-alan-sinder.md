@@ -67,7 +67,7 @@ Anthropologist William McGrew has studied the Mahale chimps, and several other g
 
 Topological spaces show up naturally in mathematical analysis, abstract algebra and geometry. This has made topology one of the great unifying ideas of mathematics. General topology, or point-set topology , defines and studies some useful properties of spaces and maps, such as connectedness, compactness and continuity. Algebraic topology is a powerful tool to study topological spaces, and the maps between them. It associates "discrete", more computable invariants to maps and spaces, often in a functorial way. Ideas from algebraic topology have had strong influence on algebra and algebraic geometry.
 
-The motivating insight behind topology is that some geometric problems depend not on the exact shape of the objects involved, but rather on the "way they are connected together". One of the first papers in topology was the demonstration, by Leonhard Euler, that it was impossible to find a route through the town of Königsberg (now Kaliningrad ) that would cross each of its seven bridges exactly once. This result did not depend on the lengths of the bridges, nor on their distance from one another, but only on connectivity properties: which bridges are connected to which islands or riverbanks. This problem, the [Seven Bridges of Königsberg](https://en.wikipedia.org/wiki/seven-bridges-of-königsberg), is now a famous problem in introductory mathematics. 
+The motivating insight behind topology is that some geometric problems depend not on the exact shape of the objects involved, but rather on the "way they are connected together". One of the first papers in topology was the demonstration, by Leonhard Euler, that it was impossible to find a route through the town of Königsberg (now Kaliningrad ) that would cross each of its seven bridges exactly once. This result did not depend on the lengths of the bridges, nor on their distance from one another, but only on connectivity properties: which bridges are connected to which islands or riverbanks. This problem, the [Seven Bridges of Königsberg](https://en.wikipedia.org/wiki/Seven_Bridges_of_Königsberg), is now a famous problem in introductory mathematics. 
 
 Similarly, the hairy ball theorem of algebraic topology says that "one cannot comb the hair on a ball smooth". This fact is immediately convincing to most people, even though they might not recognize the more formal statement of the theorem, that there is no nonvanishing continuous tangent vector field on the sphere . As with the Bridges of Königsberg , the result does not depend on the exact shape of the sphere; it applies to pear shapes and in fact any kind of blob, as long as it has no holes. 
 
@@ -150,8 +150,8 @@ Isaac's hairstyling could have been his way to release steam, and think about ma
 * [Claire Tomalin](http://www.contemporarywriters.com/authors-p-auth123)
 * [Samuel Pepys: The Unequalled Self](http://www.amazon.com/exec-obidos-tg-detail-0375725539-qid-1075272548-sr-1-1-ref-sr-1-1-002-9478251-6164064-v-glance-s-books-product-details)
 * [Wikipedia on topology](https://en.wikipedia.org/wiki/topology)
-* [Haidinger's Brush](https://en.wikipedia.org/wiki/haidinger-s-brush)
-* [Seven Bridges of Königsberg](https://en.wikipedia.org/wiki/seven-bridges-of-königsberg)
+* [Haidinger's Brush](https://en.wikipedia.org/wiki/Haidinger's_brush)
+* [Seven Bridges of Königsberg](https://en.wikipedia.org/wiki/Seven_Bridges_of_Königsberg)
 * [Allen Hatcher's *Algebraic Topology* is available free in PDF/PostScript](http://www.math.cornell.edu/hatcher-at-atpage.html)
 * [Clay Mathematics Institute description of the Poincaré conjecture](http://www.claymath.org/prizeproblems-poincare.htm)
 * [John Milnor: The Poincaré Conjecture 99 Years Later: A Progress Report](http://www.math.sunysb.edu/jack-prepr-poincare03.pdf)

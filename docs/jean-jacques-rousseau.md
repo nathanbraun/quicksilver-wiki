@@ -88,7 +88,7 @@ Rousseaus influence on posterity has been equaled by only a few, and it is by 
 
 ### External links
 
-* [Wikipedia: Jean-Jacques\_Rousseau](https://en.wikipedia.org/wiki/jean-jacques-rousseau)
+* [Wikipedia: Jean-Jacques\_Rousseau](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau)
 * [Lucidcafé:Jean-Jacques Rousseau](http://www.lucidcafe.com/library-96jun-rousseau.html)
 * [Rousseau](http://www.utm.edu/research-iep-r-rousseau.htm)
 * [The Enlightenment](http://www.wsu.edu/8000-dee-enlight-rousseau.htm)

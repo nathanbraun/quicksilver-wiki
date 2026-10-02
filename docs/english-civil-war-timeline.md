@@ -95,6 +95,6 @@ Birth of April 9 - James Crofts, illegitimate son of [Charles II](/charles-ii) o
 ### Footnotes & External links
 
 
-1. [English Civil War](https://en.wikipedia.org/wiki/english-civil-war)
-2. [Battle of Lostwithiel](https://en.wikipedia.org/wiki/battle-of-lostwithiel)
-3. [Battle of Edgehill](https://en.wikipedia.org/wiki/battle-of-edgehill)
+1. [English Civil War](https://en.wikipedia.org/wiki/English_Civil_War)
+2. [Battle of Lostwithiel](https://en.wikipedia.org/wiki/Battle_of_Lostwithiel)
+3. [Battle of Edgehill](https://en.wikipedia.org/wiki/Battle_of_Edgehill)

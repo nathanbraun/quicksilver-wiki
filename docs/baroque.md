@@ -32,25 +32,25 @@ Marie de' Medici, however, was overjoyed at the final product. But then again, w
 
 ### Jorge Luis Borges' Definition of Baroque: (Njihia Mbitiru)
 
-The following definition is taken from the 1954 edition of [Jorge Luis Borges](https://en.wikipedia.org/wiki/jorge-luis-borges)' short fiction volume '*Ficciones*':
+The following definition is taken from the 1954 edition of [Jorge Luis Borges](https://en.wikipedia.org/wiki/Jorge_Luis_Borges)' short fiction volume '*Ficciones*':
 
-"I would define the baroque as that style that deliberately exhausts (or tries to exhaust) its own possibilities, and that borders on self-caricature. In vain did [Andrew Lang](https://en.wikipedia.org/wiki/andrew-lang) attempt [...] to imitate [Alexander Pope](https://en.wikipedia.org/wiki/alexander-pope)'s *[Odyssey](https://en.wikipedia.org/wiki/odyssey)*; it was already a parody, and so defeat the parodist's attempt to exaggerate its tautness. "*Baroco*" was a term used for one of the modes of [syllogistic reasoning](https://en.wikipedia.org/wiki/term-logic-syllogistic-maxims); the Eighteenth century applied it to certain abuses in Seventeenth century architecture and painting. I would venture to say that the baroque is the final stage in all art, where art flaunts and squanders its resources. The baroque is intellectual, and [George Bernhard Shaw](https://en.wikipedia.org/wiki/george-bernard-shaw) has said that all intellectual labor is inherently humorous. This humor is intentional in the works of [Baltasar Gracian](http://www.truthseeker.com/truth-seeker-1993archive-120-5-ts205e.html) but intentional (as, it can be said, is also the case in *Quicksilver* ), even indulged (again, a [Quicksilver](/stephenson-neal-quicksilver) trope), in the works of [John Donne](https://en.wikipedia.org/wiki/john-donne)."
+"I would define the baroque as that style that deliberately exhausts (or tries to exhaust) its own possibilities, and that borders on self-caricature. In vain did [Andrew Lang](https://en.wikipedia.org/wiki/Andrew_Lang) attempt [...] to imitate [Alexander Pope](https://en.wikipedia.org/wiki/Alexander_Pope)'s *[Odyssey](https://en.wikipedia.org/wiki/odyssey)*; it was already a parody, and so defeat the parodist's attempt to exaggerate its tautness. "*Baroco*" was a term used for one of the modes of [syllogistic reasoning](https://en.wikipedia.org/wiki/term-logic-syllogistic-maxims); the Eighteenth century applied it to certain abuses in Seventeenth century architecture and painting. I would venture to say that the baroque is the final stage in all art, where art flaunts and squanders its resources. The baroque is intellectual, and [George Bernhard Shaw](https://en.wikipedia.org/wiki/George_Bernard_Shaw) has said that all intellectual labor is inherently humorous. This humor is intentional in the works of [Baltasar Gracian](http://www.truthseeker.com/truth-seeker-1993archive-120-5-ts205e.html) but intentional (as, it can be said, is also the case in *Quicksilver* ), even indulged (again, a [Quicksilver](/stephenson-neal-quicksilver) trope), in the works of [John Donne](https://en.wikipedia.org/wiki/John_Donne)."
 
 ### Community Entry: Baroque
 
-Borges' is a marvellous and useful definition. One is reminded of Borges as cited by [Michel Foucault](https://en.wikipedia.org/wiki/michel-foucault) - a figure who could be called a Baroque revivalist in many ways.
+Borges' is a marvellous and useful definition. One is reminded of Borges as cited by [Michel Foucault](https://en.wikipedia.org/wiki/Michel_Foucault) - a figure who could be called a Baroque revivalist in many ways.
 
 A contrary definition might refer mostly to literature, and refer to a [list of notable Baroque figures](/list-of-notable-baroque-figures). Given the unreliability of much history and biography of the time, or at least lingering doubts, it makes sense to list historical and non-historical figures like literary ones on the same list. Many people believed outrageous lies about real people, like [George Psalamanazar](/george-psalamanazar), and there remain doubts about people like [William Shakespeare](/william-shakespeare), and whether they did what people say they did.
 
-In this view [Miguel de Cervantes](https://en.wikipedia.org/wiki/miguel-de-cervantes) (author of [Don Quixote](/don-quixote)) who lived 1547 - 1616) is a good starting figure for the Baroque period. He is clearly post-[Renaissance](https://en.wikipedia.org/wiki/renaissance) and pre-[Enlightenment](https://en.wikipedia.org/wiki/enlightenment). [Signs](https://en.wikipedia.org/wiki/sign) and [similitudes](https://en.wikipedia.org/wiki/parable) have been replaced by [analogy](https://en.wikipedia.org/wiki/analogy), [reason](https://en.wikipedia.org/wiki/reason), [identity](https://en.wikipedia.org/wiki/identity), [difference](https://en.wikipedia.org/wiki/difference) in elite professions, but not in the emotional culture, nor in the Church, nor the power relations of the nobles... dissonance that alienates Quixote in the novel.
+In this view [Miguel de Cervantes](https://en.wikipedia.org/wiki/Miguel_de_Cervantes) (author of [Don Quixote](/don-quixote)) who lived 1547 - 1616) is a good starting figure for the Baroque period. He is clearly post-[Renaissance](https://en.wikipedia.org/wiki/renaissance) and pre-[Enlightenment](https://en.wikipedia.org/wiki/enlightenment). [Signs](https://en.wikipedia.org/wiki/sign) and [similitudes](https://en.wikipedia.org/wiki/parable) have been replaced by [analogy](https://en.wikipedia.org/wiki/analogy), [reason](https://en.wikipedia.org/wiki/reason), [identity](https://en.wikipedia.org/wiki/identity), [difference](https://en.wikipedia.org/wiki/difference) in elite professions, but not in the emotional culture, nor in the Church, nor the power relations of the nobles... dissonance that alienates Quixote in the novel.
 
 [Johannes Kepler](/johannes-kepler) certainly can fit in there too.
 
 That period could be said to end with [Jonathan Swift](/jonathan-swift) (as [Lemuel Gulliver](/lemuel-gulliver) in 1726) and [George Berkeley](/george-berkeley) (and his attacks on [Isaac Newton](/isaac-newton)'s optics, etc.) who were the last gasps of resistance to the [God's eye view](https://en.wikipedia.org/wiki/subject-object-problem-the-omniscient-perspective) that developed with the Empire, gunpowder, mob rule and the popular vote - and rules to this very day.
 
-The death of [Johann Sebastian Bach](https://en.wikipedia.org/wiki/johann-sebastian-bach) has also been used to mark the end of the Baroque Age, although it should be noted that he was already out of fashion well before his demise.
+The death of [Johann Sebastian Bach](https://en.wikipedia.org/wiki/Johann_Sebastian_Bach) has also been used to mark the end of the Baroque Age, although it should be noted that he was already out of fashion well before his demise.
 
-Another view, expressed well in [Baroque (Wikipedia)](http://wikipedia.org/wiki-baroque) is more linguistic and focused on [power structure](https://en.wikipedia.org/wiki/hierarchy) and [subject-object problems](https://en.wikipedia.org/wiki/subject-object-problem) arising from the [Reformation](https://en.wikipedia.org/wiki/reformation) and [Counter-Reformation](https://en.wikipedia.org/wiki/counter-reformation):
+Another view, expressed well in [Baroque (Wikipedia)](https://en.wikipedia.org/wiki/Baroque) is more linguistic and focused on [power structure](https://en.wikipedia.org/wiki/hierarchy) and [subject-object problems](https://en.wikipedia.org/wiki/subject-object-problem) arising from the [Reformation](https://en.wikipedia.org/wiki/reformation) and [Counter-Reformation](https://en.wikipedia.org/wiki/counter-reformation):
 
 "Baroque was directly an opposed language and represented the evidence of the crisis
 of Renaissance neoclassical schemes." This makes it quite relevant to today, since today the [neoclassical philosophy](http://recyclopedia.info/wiki-wiki-phtml-title-platonist) expressed in [neoclassical economics](http://recyclopedia.info/wiki-wiki-phtml-title-neoclassical-economics) is dominating and giving us a [market theology](http://recyclopedia.info/wiki-wiki-phtml-title-corporate-imperialism) of [globalization](http://recyclopedia.info/wiki-wiki-phtml-title-globalization). As [Michel Foucault](http://internet.encyclopedia.org/wiki-phtml-title-michel-foucault) did in the 20th century, there were mounting challenges to the idea of "[Man](http://internet.encyclopedia.org/wiki-phtml-title-man)" as such:
@@ -110,7 +110,7 @@ Compare with *[critical mass](http://www.hyperdictionary.com/dictionary-critical
 
 Related Terms: arabesque, bizarre, brain-born, busy, chichi, deformed, dream-built, elaborate, elegant, embellished, extravagant, fanciful, fancy, fancy-born, fancy-built, fancy-woven, fantasque, fantastic, fine, flamboyant, florid, flowery, freak, freakish, frilly, fussy, gilt, Gothic, grotesque, high-wrought, labored, luscious, luxuriant, luxurious, maggoty, malformed, misbegotten, misshapen, monstrous, moresque, notional, ornamented, ornate, ostentatious, outlandish, overelaborate, overelegant, overlabored, overworked, overwrought, picturesque, preposterous, pretty-pretty, rich, rococo, scrolled, teratogenic, teratoid, whimsical, wild.
 
-[John Milton](https://en.wikipedia.org/wiki/john-milton)'s *[Paradise Lost](https://en.wikipedia.org/wiki/paradise-lost)* is an excellent example of Baroque poetry.
+[John Milton](https://en.wikipedia.org/wiki/John_Milton)'s *[Paradise Lost](https://en.wikipedia.org/wiki/Paradise_Lost)* is an excellent example of Baroque poetry.
 
 #### Examples of typical Baroque Music
 
@@ -166,16 +166,16 @@ Related Terms: arabesque, bizarre, brain-born, busy, chichi, deformed, dream-bui
 
 ### External Links
 
-* [Jorge Luis Borges](https://en.wikipedia.org/wiki/jorge-luis-borges)
-* [Andrew Lang](https://en.wikipedia.org/wiki/andrew-lang)
-* [Alexander Pope](https://en.wikipedia.org/wiki/alexander-pope)
+* [Jorge Luis Borges](https://en.wikipedia.org/wiki/Jorge_Luis_Borges)
+* [Andrew Lang](https://en.wikipedia.org/wiki/Andrew_Lang)
+* [Alexander Pope](https://en.wikipedia.org/wiki/Alexander_Pope)
 * [Odyssey](https://en.wikipedia.org/wiki/odyssey)
 * [syllogistic reasoning](https://en.wikipedia.org/wiki/term-logic-syllogistic-maxims)
-* [George Bernhard Shaw](https://en.wikipedia.org/wiki/george-bernard-shaw)
+* [George Bernhard Shaw](https://en.wikipedia.org/wiki/George_Bernard_Shaw)
 * [Baltasar Gracian](http://www.truthseeker.com/truth-seeker-1993archive-120-5-ts205e.html)
-* [John Donne](https://en.wikipedia.org/wiki/john-donne)
-* [Michel Foucault](https://en.wikipedia.org/wiki/michel-foucault)
-* [Miguel de Cervantes](https://en.wikipedia.org/wiki/miguel-de-cervantes)
+* [John Donne](https://en.wikipedia.org/wiki/John_Donne)
+* [Michel Foucault](https://en.wikipedia.org/wiki/Michel_Foucault)
+* [Miguel de Cervantes](https://en.wikipedia.org/wiki/Miguel_de_Cervantes)
 * [Renaissance](https://en.wikipedia.org/wiki/renaissance)
 * [Enlightenment](https://en.wikipedia.org/wiki/enlightenment)
 * [Signs](https://en.wikipedia.org/wiki/sign)
@@ -185,8 +185,8 @@ Related Terms: arabesque, bizarre, brain-born, busy, chichi, deformed, dream-bui
 * [identity](https://en.wikipedia.org/wiki/identity)
 * [difference](https://en.wikipedia.org/wiki/difference)
 * [God's eye view](https://en.wikipedia.org/wiki/subject-object-problem-the-omniscient-perspective)
-* [Johann Sebastian Bach](https://en.wikipedia.org/wiki/johann-sebastian-bach)
-* [Baroque (Wikipedia)](http://wikipedia.org/wiki-baroque)
+* [Johann Sebastian Bach](https://en.wikipedia.org/wiki/Johann_Sebastian_Bach)
+* [Baroque (Wikipedia)](https://en.wikipedia.org/wiki/Baroque)
 * [power structure](https://en.wikipedia.org/wiki/hierarchy)
 * [subject-object problems](https://en.wikipedia.org/wiki/subject-object-problem)
 * [Reformation](https://en.wikipedia.org/wiki/reformation)

@@ -17,7 +17,7 @@ The [Cryptonomicon](/cryptonomicon) page for a unique source of light in the dar
 * TBA
 
 
-### [Wikipedia: Aqua Regia](https://en.wikipedia.org/wiki/aqua-regia)
+### [Wikipedia: Aqua Regia](https://en.wikipedia.org/wiki/Aqua_regia)
 
 
 **Aqua regia** (Latin for *royal water*) is a highly corrosive, fuming yellow liquid, formed by a fresh mixture of concentrated nitric acid and concentrated hydrochloric acid, usually in the ratio of one to three. It is one of the few reagents able to dissolve gold and platinum. It was so-named because it can dissolve the so-called royal, or noble metals; although tantalum and a few other extremely passive metals are able to withstand aqua regia. Aqua regia is used in etching and in certain analytic procedures. Aqua regia does not last very long, thus it has to be mixed right before use.
@@ -30,9 +30,9 @@ A carboy is a glass vessel used in fermenting wine, mead and sometimes beer. Usu
 
 Carboys come in various volumes ranging from 1 gallon to 6.5 gallons. A 15 gallon carboy is often called a *demijohn*.
 
-### [Galvanic cell batteries](https://en.wikipedia.org/wiki/galvanic-cell)
+### [Galvanic cell batteries](https://en.wikipedia.org/wiki/Galvanic_cell)
 
 
-The **Galvanic cell**, named after **Luigi Galvani**, consists of two metals connected by an electrolyte which forms a salt bridge between the metals. In 1780, Luigi Galvani discovered that when two different metals (copper and zinc for example) were connected together and then both touched to different parts of a nerve of a frog leg at the same time, they made the leg contract. He called this animal electricity.. This discovery paved the way for all electrical batteries. - complete in [link](https://en.wikipedia.org/wiki/galvanic-cell).
+The **Galvanic cell**, named after **Luigi Galvani**, consists of two metals connected by an electrolyte which forms a salt bridge between the metals. In 1780, Luigi Galvani discovered that when two different metals (copper and zinc for example) were connected together and then both touched to different parts of a nerve of a frog leg at the same time, they made the leg contract. He called this animal electricity.. This discovery paved the way for all electrical batteries. - complete in [link](https://en.wikipedia.org/wiki/Galvanic_cell).
 
 [Ben Franklin](/ben-franklin) and the [Darwin Wedgewood family](https://en.wikipedia.org/wiki/category-darwin-wedgwood-family): somehow links to this due to electricity and being *Moonstones*.

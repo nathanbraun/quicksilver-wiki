@@ -22,17 +22,17 @@ This is not a good direction for a wiki which generally tries to avoid the [perm
 ### long term platform
 
 
-Also, [Mediawiki](https://meta.wikipedia.org/wiki/mediawiki) has many other problems. It is probably not a good long term platform once a [wikitext standard](https://meta.wikipedia.org/wiki/wikitext-standard) evolves. Put the energy into the standard, and into figuring out how [large public wikis](/large-public-wiki) really operate and how their politics resembles real world policies, parties and all, rather than wasting energy hacking bad PHP code.
+Also, [Mediawiki](https://meta.wikimedia.org/wiki/MediaWiki) has many other problems. It is probably not a good long term platform once a [wikitext standard](https://meta.wikimedia.org/wiki/Wikitext_standard) evolves. Put the energy into the standard, and into figuring out how [large public wikis](/large-public-wiki) really operate and how their politics resembles real world policies, parties and all, rather than wasting energy hacking bad PHP code.
 
 Consider [MoinMoin](http://moin.sourceforge.net) as an option. It is modular and extensible in [Python](http://www.python.org). It is used by most archgeek wikis. [XML Dumping](/xml-dump) is another good feature that Usemod has that other wikis don't.
 
 #### Links
 
 
-* [http://en.wikipedia.org/wiki/XML](https://en.wikipedia.org/wiki/xml)
-* [http://meta.wikipedia.org/wiki/XML\_syntax](https://meta.wikipedia.org/wiki/xml_syntax)
+* [http://en.wikipedia.org/wiki/XML](https://en.wikipedia.org/wiki/XML)
+* [http://meta.wikipedia.org/wiki/XML\_syntax](https://meta.wikimedia.org/wiki/XML_syntax)
 * [http://twistedmatrix.com/wiki/moin/](http://twistedmatrix.com/wiki-moin)
-* [http://meta.wikipedia.org/wiki/Mediawiki](https://meta.wikipedia.org/wiki/mediawiki)
+* [http://meta.wikipedia.org/wiki/Mediawiki](https://meta.wikimedia.org/wiki/MediaWiki)
 * [http://openwiki.com/](http://openwiki.com)
 * [http://moin.sourceforge.net/](http://moin.sourceforge.net)
 * [http://www.python.org/](http://www.python.org)

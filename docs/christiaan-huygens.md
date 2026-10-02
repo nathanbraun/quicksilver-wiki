@@ -72,7 +72,7 @@ The main mission phase was the parachute descent through Titan's atmosphere. The
 ### External links
 
 
-* [Christiaan Huygens](https://en.wikipedia.org/wiki/christian-huygens) Wikipedia entry
+* [Christiaan Huygens](https://en.wikipedia.org/wiki/Christiaan_Huygens) Wikipedia entry
 * [Cassini-Huygens Mission to Saturn Overview](http://saturn.jpl.nasa.gov/overview-index-cfm)
 * [Final approach for NASA's Saturn probe](http://www.msnbc.msn.com/id-5131004) Cassini-Huygens zooms toward June 30 encounter
 * [More on Cassini](http://www.msnbc.msn.com/id-5183503)

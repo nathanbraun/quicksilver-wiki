@@ -23,9 +23,9 @@ The original company, The Governor and Company of Merchants of London Trading in
 
 ### Impact
 
-Based in Leadenhall Street, London, its influence reached out to all continents: it presided over the creation of British India, founded Hong Kong and Singapore, employed Captain Kidd to combat piracy, established the cultivation of tea in India, held Napoleon captive on St Helena, and made the fortune of Elihu Yale, and its products were the subject of the [Boston Tea Party](https://en.wikipedia.org/wiki/boston-tea-party). 
+Based in Leadenhall Street, London, its influence reached out to all continents: it presided over the creation of British India, founded Hong Kong and Singapore, employed Captain Kidd to combat piracy, established the cultivation of tea in India, held Napoleon captive on St Helena, and made the fortune of Elihu Yale, and its products were the subject of the [Boston Tea Party](https://en.wikipedia.org/wiki/Boston_Tea_Party). 
 
-Its flag possibly inspired the [Stars and Stripes](https://en.wikipedia.org/wiki/flag-of-the-united-states) ([as argued by Sir Charles Fawcett in 1937](http://www.crwflags.com/fotw-flags-gb.html)), its shipyards provided the model for St. Petersburg, elements of its administration survive in Indian bureaucracy, and its corporate structure was the most successful early example of a joint stock company. But the demands of Company officers on the treasury of Bengal contributed tragically to the province's incapacity in the face of a famine which killed millions (1770). 
+Its flag possibly inspired the [Stars and Stripes](https://en.wikipedia.org/wiki/Flag_of_the_United_States) ([as argued by Sir Charles Fawcett in 1937](http://www.crwflags.com/fotw-flags-gb.html)), its shipyards provided the model for St. Petersburg, elements of its administration survive in Indian bureaucracy, and its corporate structure was the most successful early example of a joint stock company. But the demands of Company officers on the treasury of Bengal contributed tragically to the province's incapacity in the face of a famine which killed millions (1770). 
 
 ### History
 
@@ -69,11 +69,11 @@ The city of Hastings, New Zealand is named after him.
 
 ### External links
 
-* [Company rule in India](https://en.wikipedia.org/wiki/company-rule-in-india) (part of the [History of South Asia](https://en.wikipedia.org/wiki/history-of-south-asia) series)
-* [Imperialism in Asia](https://en.wikipedia.org/wiki/imperialism-in-asia) (part of the [New Imperialism](https://en.wikipedia.org/wiki/new-imperialism) series)
-* The [Dutch East India Company](https://en.wikipedia.org/wiki/dutch-east-india-company), founded in 1602
-* The [Dutch West India Company](https://en.wikipedia.org/wiki/dutch-west-india-company), founded in 1621
-* The [French East India Company](https://en.wikipedia.org/wiki/french-east-india-company), founded in 1664
-* The [Swedish East India Company](https://en.wikipedia.org/wiki/swedish-east-india-company), founded in 1731
-* The [London Virginia Company](https://en.wikipedia.org/wiki/london-virginia-company), founded in 1606
-* [East India Company College](https://en.wikipedia.org/wiki/east-india-company-college)
+* [Company rule in India](https://en.wikipedia.org/wiki/Company_rule_in_India) (part of the [History of South Asia](https://en.wikipedia.org/wiki/South_Asia#History) series)
+* [Imperialism in Asia](https://en.wikipedia.org/wiki/Imperialism_in_Asia) (part of the [New Imperialism](https://en.wikipedia.org/wiki/New_Imperialism) series)
+* The [Dutch East India Company](https://en.wikipedia.org/wiki/Dutch_East_India_Company), founded in 1602
+* The [Dutch West India Company](https://en.wikipedia.org/wiki/Dutch_West_India_Company), founded in 1621
+* The [French East India Company](https://en.wikipedia.org/wiki/Compagnie_des_Indes), founded in 1664
+* The [Swedish East India Company](https://en.wikipedia.org/wiki/Swedish_East_India_Company), founded in 1731
+* The [London Virginia Company](https://en.wikipedia.org/wiki/Virginia_Company_of_London), founded in 1606
+* [East India Company College](https://en.wikipedia.org/wiki/East_India_Company_College)

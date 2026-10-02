@@ -57,7 +57,7 @@ Stephenson calls **World War II** the recent ***[Titanomachia](/titanomachia)***
 
 *Cryptonomicon* is billed as the first book in an as-yet-unnamed series. The [Baroque Cycle](/baroque-cycle) may be considered the 2nd - 9th books in the series, and a series within a series itself. The books are related by theme and [family relationships](/stephenson-neal-cryptonomicon-family-relationships).
 
-The title is drawn indirectly from the *[Necronomicon](https://en.wikipedia.org/wiki/necronomicon)*, a fictional work detailed within the works of the writer [H. P. Lovecraft](https://en.wikipedia.org/wiki/h-p-lovecraft) and friends like [Clark Aston Smith](https://en.wikipedia.org/wiki/clark-ashton-smith) [Robert E. Howard](https://en.wikipedia.org/wiki/robert-e-howard) who gave us ***Conan the Barbarian***. When Stephenson came up with his title, he was not aware of the word's origin. He was directly inspired by the fictional book's appearance in [the Evil Dead](https://en.wikipedia.org/wiki/the-evil-dead) series of comedic horror films. Mining the same source material are [Penny Arcade](http://www.penny.arcade.com/view-php3-date-1999-07-28-res-l) and [Megatokyo](http://www.megatokyo.com/strips-0096.gif) with the use of the Necrowombicom; And, [Howard Hallis](http://www.howardhallis.com/bis-cthulhuchick) makes light of this [Jack Chick tract](http://www.chick.com/reading-tracts-0100-0100-01.asp) while talking of the [elder gods](http://www.geocities.com/tribhis-cthulhutract.html) (which earned him a phony *cease and desist* letter). For more on along this line, see the [Cthulhu Mythos](/lovecraft-hp-cthulhu-mythos) page.
+The title is drawn indirectly from the *[Necronomicon](https://en.wikipedia.org/wiki/necronomicon)*, a fictional work detailed within the works of the writer [H. P. Lovecraft](https://en.wikipedia.org/wiki/H._P._Lovecraft) and friends like [Clark Aston Smith](https://en.wikipedia.org/wiki/Clark_Ashton_Smith) [Robert E. Howard](https://en.wikipedia.org/wiki/Robert_E._Howard) who gave us ***Conan the Barbarian***. When Stephenson came up with his title, he was not aware of the word's origin. He was directly inspired by the fictional book's appearance in [the Evil Dead](https://en.wikipedia.org/wiki/The_Evil_Dead) series of comedic horror films. Mining the same source material are [Penny Arcade](http://www.penny.arcade.com/view-php3-date-1999-07-28-res-l) and [Megatokyo](http://www.megatokyo.com/strips-0096.gif) with the use of the Necrowombicom; And, [Howard Hallis](http://www.howardhallis.com/bis-cthulhuchick) makes light of this [Jack Chick tract](http://www.chick.com/reading-tracts-0100-0100-01.asp) while talking of the [elder gods](http://www.geocities.com/tribhis-cthulhutract.html) (which earned him a phony *cease and desist* letter). For more on along this line, see the [Cthulhu Mythos](/lovecraft-hp-cthulhu-mythos) page.
 
   
 
@@ -107,16 +107,16 @@ seems equipted with a "cluebat" illo ... nice though
 ### External links
 
 * [Wikipedia: Necronomicon](https://en.wikipedia.org/wiki/necronomicon)
-* [Wikipedia: H. P. Lovecraft](https://en.wikipedia.org/wiki/h-p-lovecraft)
-* [Wikipedia: The Evil Dead](https://en.wikipedia.org/wiki/the-evil-dead)
+* [Wikipedia: H. P. Lovecraft](https://en.wikipedia.org/wiki/H._P._Lovecraft)
+* [Wikipedia: The Evil Dead](https://en.wikipedia.org/wiki/The_Evil_Dead)
 * [http://www.cryptonomicon.com](http://www.cryptonomicon.com)
 * [ISBN B00009M9LW](/) is the Adobe Reader version
 * [Neal Article in Lotus Magazine Online, August 1999](http://www.locusmag.com/1999-issues-08-stephenson.html)
 * [Wired book review: The First True Cypherpunk Novel, May 1999](http://www.wired.com/news-culture-0-1284-19720-00.html)
 * [When Geeks Inherit the Earth](http://www.wired.com/news-politics-0-1283-17916-00.html) - a Wired article on *Cryptic Seduction,* a cypherpunk porn flick
 * [Counterpane](http://www.counterpane.com), whose Founder and CTO, Bruce Schneier, created the Solitaire cryptosystem
-* [Bruce Sterling](https://en.wikipedia.org/wiki/bruce-sterling) shows up in Chapter 76  Pulse
-* [Wikipedia: Neal Stephenson](https://en.wikipedia.org/wiki/neal-stephenson)
+* [Bruce Sterling](https://en.wikipedia.org/wiki/Bruce_Sterling) shows up in Chapter 76  Pulse
+* [Wikipedia: Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson)
 * [Wikipedia: Cryptonomicon](https://en.wikipedia.org/wiki/cryptonomicon)
 * [Neal Stephenson's personal home page](http://www.well.com/user-neal)  (includes "Why I am a Bad Correspondent")
 * [Addicted to Noise interview](http://www.addict.com/atn-issues-1-07-features-neal-stephenson)

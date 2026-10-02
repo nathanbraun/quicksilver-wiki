@@ -71,4 +71,4 @@ In the 1890s he broke a famous nomenclator system called the "Great Cypher", cre
 * [The Bazeries Cylinder](/http-home-ecn-ab-ca-jsavard-crypto-ro020101-htm)
 * [code tools](http://codebreaker.dids.com/fcodes.htm)
 * [List of Cryptographers](https://en.wikipedia.org/wiki/cryptographer)
-* [Zimmermann Telegram](https://en.wikipedia.org/wiki/zimmermann-telegram) - worth noting
+* [Zimmermann Telegram](https://en.wikipedia.org/wiki/Zimmermann_telegram) - worth noting

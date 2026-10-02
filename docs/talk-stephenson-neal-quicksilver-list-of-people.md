@@ -21,7 +21,7 @@ As does the *[Mineva's](/minerva)* handy handed *[Captain van Hoek](/stephenson-
 ## ***MERCURY***
 
 
-**Quicksilver** as 'Mercury' appears in several aspects -- in paintings and in metaphysical discourse. Mercury is mentioned as poison and possible [pox](http://www.hyperdictionary.com/dictionary-syphilis) cure. Hermes is also linked to Alchemy -- as [Hermes Trismegistus](https://en.wikipedia.org/wiki/hermes-trismegistus) the thrice greatest -- as the teacher the magical system known as Hermetism of which *high magic* and [alchemy](/alchemy) are thought to be twin branches.
+**Quicksilver** as 'Mercury' appears in several aspects -- in paintings and in metaphysical discourse. Mercury is mentioned as poison and possible [pox](http://www.hyperdictionary.com/dictionary-syphilis) cure. Hermes is also linked to Alchemy -- as [Hermes Trismegistus](https://en.wikipedia.org/wiki/Hermes_Trismegistus) the thrice greatest -- as the teacher the magical system known as Hermetism of which *high magic* and [alchemy](/alchemy) are thought to be twin branches.
  Its funny to note that [Drake Waterhouse](/stephenson-neal-quicksilver-drake-waterhouse)'s mutilated face with its lack of a nose shares the same fate that befalls some of those unGodly libertines seeking a pox cure.  
 
 

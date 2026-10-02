@@ -85,8 +85,8 @@ The names of the seven ravens currently in the tower are
 ### External Links
 
 
-* [London Wall](https://en.wikipedia.org/wiki/london-wall)
+* [London Wall](https://en.wikipedia.org/wiki/London_Wall)
 * [Tower-of-London.org.uk](http://www.tower.of.london.org.uk/webcode-tower-home.asp)
 * [London Pass: Tower of London](http://www.londonpass.com/viewattraction-asp-id-48-categoryid-2)
-* [Tower of London](https://en.wikipedia.org/wiki/tower-of-london)
+* [Tower of London](https://en.wikipedia.org/wiki/Tower_of_London)
 * [London Historical Picture Gallery](http://www.knightsbridge.net/london)

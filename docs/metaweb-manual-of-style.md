@@ -231,4 +231,4 @@ Before you start writing or editing, it is a good idea to read through and under
 * [Metaweb:How does one edit a page](/metaweb-how-does-one-edit-a-page) will explain the mechanics of what codes are available to you when editing a page, to do things like titles, links, external links, and so on.
 
 
-*This article is based on [Wikipedia: Wikipedia:Manual of Style](https://en.wikipedia.org/wiki/wikipedia-manual-of-style), released under the [Metaweb:GNU FDL](/metaweb-gnu-fdl).*
+*This article is based on [Wikipedia: Wikipedia:Manual of Style](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style), released under the [Metaweb:GNU FDL](/metaweb-gnu-fdl).*

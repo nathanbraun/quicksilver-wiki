@@ -54,4 +54,4 @@ These few seconds a day accumulate so that high noon occurs anywhere from 15 min
 
 
 * [http://visual.wiki.taoriver.net/moin.cgi/SunDial](http://visual.wiki.taoriver.net/moin-cgi-sundial)
-* [http://en.wikipedia.org/wiki/Sundial](https://en.wikipedia.org/wiki/sundial)
+* [http://en.wikipedia.org/wiki/Sundial](https://en.wikipedia.org/wiki/Sundial)

@@ -29,4 +29,4 @@ The geometric series is a special case of (2) where we choose *y* = 1 and *r* = 
 footnote
 1. pascal's triangle
 
-*grabbed/edited from the Wikipedia [http://en.wikipedia.org/wiki/Binomial\_theorem](https://en.wikipedia.org/wiki/binomial_theorem) staying within the Baroque Era.*
+*grabbed/edited from the Wikipedia [http://en.wikipedia.org/wiki/Binomial\_theorem](https://en.wikipedia.org/wiki/Binomial_theorem) staying within the Baroque Era.*

@@ -25,7 +25,7 @@ The Muses were especially venerated in Boeotia, near Helicon, and in Delphi and 
 The canonical nine Muses are: 
 1. [Euterpe](https://en.wikipedia.org/wiki/euterpe) (music)
 2. [Calliope](https://en.wikipedia.org/wiki/calliope) (epic poetry)
-3. [Clio](https://en.wikipedia.org/wiki/clio-muse) (history)
+3. [Clio](https://en.wikipedia.org/wiki/Clio) (history)
 4. [Erato](https://en.wikipedia.org/wiki/erato) (lyric poetry)
 5. [Melpomene](https://en.wikipedia.org/wiki/melpomene) (tragedy)
 6. [Polyhymnia](https://en.wikipedia.org/wiki/polyhymnia) (sacred poetry)

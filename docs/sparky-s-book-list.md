@@ -19,7 +19,7 @@ The spouse
 
 
 The New World by Frederick Turner
-[Future Primitive](https://en.wikipedia.org/wiki/future-primitive), anthology edited by Kim Stanley Robinson, containing many good authors Kim and me like
+[Future Primitive](https://en.wikipedia.org/wiki/Future_Primitive), anthology edited by Kim Stanley Robinson, containing many good authors Kim and me like
 Mars series by Robinson (Red Mars etc.)
  * I read the first two of the Mars books -- I'm looking for the others, Scarce in Japan. :(
 The Moon is a Harsh Mistress, Robert Heinlein

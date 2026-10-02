@@ -199,7 +199,7 @@ His exploits were recalled in (among other places):
 
 
 * [Jack Sheppard](/)
-* [Treaties of Utrecht](https://en.wikipedia.org/wiki/treaty-of-utrecht-1713) (Wikipedia)
+* [Treaties of Utrecht](https://en.wikipedia.org/wiki/Peace_of_Utrecht) (Wikipedia)
 * [The Peace Banquet of 1649](/http-www-museen-nuernberg-de-english-fembohaus-e-pages-zeitreise-e-16-html)
 * *[When Blackbeard Scourged the Seas](http://www.history.org/foundation-journal-blackbea-cfm)* (History.org)
 * *[Bush Administration issues "Letters of Marque" to Airlines](http://watleyreview.com/2003-061703-1.html)* - Parody news article

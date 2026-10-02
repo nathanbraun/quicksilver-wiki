@@ -16,10 +16,10 @@ The main provisions of the treaties confirmed that Louis XIV's grandson Philip V
 There were also some colonial provisions pertaining to North America: France recognized British control of the Hudson Bay Territory and Newfoundland and ceded Acadia to the British. France retained Cape Breton Island, the St. Lawrence Islands, and fishing rights off of Newfoundland.
 
 See also 
- [King George's War](https://en.wikipedia.org/wiki/king-george-s-war)
- [Treaty of Ryswick](https://en.wikipedia.org/wiki/treaty-of-ryswick)
- [Treaty of Paris (1763)](https://en.wikipedia.org/wiki/treaty-of-paris-1763)
- [Jean Bart the Dunkirk Pirate](https://en.wikipedia.org/wiki/jean-bart)
+ [King George's War](https://en.wikipedia.org/wiki/King_George's_War)
+ [Treaty of Ryswick](https://en.wikipedia.org/wiki/Peace_of_Ryswick)
+ [Treaty of Paris (1763)](https://en.wikipedia.org/wiki/Treaty_of_Paris_%281763%29)
+ [Jean Bart the Dunkirk Pirate](https://en.wikipedia.org/wiki/Jean_Bart)
 
 ## Further reading
 
@@ -31,7 +31,7 @@ See also
 ### External Links
 
 
-* **[War of the Grand Alliance](https://en.wikipedia.org/wiki/war-of-the-grand-alliance)**
-* **[Franche-Comté](https://en.wikipedia.org/wiki/franche-comté)** Franche-Comté was occupied by the French in 1668 but handed back at the subsequent peace; conquered a second time in 1674, it was finally ceded to France in 1678.
+* **[War of the Grand Alliance](https://en.wikipedia.org/wiki/Nine_Years'_War)**
+* **[Franche-Comté](https://en.wikipedia.org/wiki/Franche-Comté)** Franche-Comté was occupied by the French in 1668 but handed back at the subsequent peace; conquered a second time in 1674, it was finally ceded to France in 1678.
 * **[Select Articles from the Treaty of Utrecht](http://members.rogers.com/jacobites-documents-1713utrecht.htm)**
 * **[The Treaties of Utrecht (lengthy texts)](http://www.heraldica.org/topics-france-utrecht.htm)**

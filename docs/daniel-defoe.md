@@ -16,7 +16,7 @@ This is a page for **Daniel Defoe**
 * [Stephenson:Neal:Quicksilver:93:The Plague Year (Alan Sinder)](/stephenson-neal-quicksilver-93-the-plague-year-alan-sinder)
 
 
-### [Daniel Defoe](https://en.wikipedia.org/wiki/daniel-defoe)
+### [Daniel Defoe](https://en.wikipedia.org/wiki/Daniel_Defoe)
 
 
 Mostly from Wikipedia, the free encyclopedia.![Defoe-pillory.jpg](/images/Defoe-pillory.jpg)
@@ -25,7 +25,7 @@ Mostly from Wikipedia, the free encyclopedia.![Defoe-pillory.jpg](/images/Defoe-
 **pilloried for dissent while a crowd of sympathizers  
 attempt to give him food and water**
 
-**Daniel Defoe** (1660 - April 21, 1731), the English writer, gained fame for his novel ***[Robinson Crusoe](https://en.wikipedia.org/wiki/robinson-crusoe)***. 
+**Daniel Defoe** (1660 - April 21, 1731), the English writer, gained fame for his novel ***[Robinson Crusoe](https://en.wikipedia.org/wiki/Robinson_Crusoe)***. 
 
 ### Biography
 
@@ -51,7 +51,7 @@ Harley was dismissed from the government in 1708. Defoe then left his employ and
 
 Defoe's famous work, arguably the first novel written in English, Robinson Crusoe (1719), tells of a man's shipwreck on a desert island and his subsequent adventures. The author may have based his narrative on the true story of the marooning of Alexander Selkirk. [[1]](https://en.wikipedia.org/wiki/robinson-crusoe-selkirk-as-the-inspiration-for-crusoe)
 
-Defoe wrote an account of the [Great Plague](/black-plague) of 1665: *[A Journal of the Plague Year](https://en.wikipedia.org/wiki/a-journal-of-the-plague-year)*. 
+Defoe wrote an account of the [Great Plague](/black-plague) of 1665: *[A Journal of the Plague Year](https://en.wikipedia.org/wiki/A_Journal_of_the_Plague_Year)*. 
 
 ***[A Journal of the Plague Year](http://ibiblio.org/gutenberg-etext95-jplag10.txt)*** is a novel by Daniel Defoe:  *... the fury of the contagion was such at some particular times, and people sickened so fast and died so soon, that it was impossible, and indeed to no purpose, to go about to inquire who was sick and who was well, or to shut them up with such exactness as the thing required, almost every house in a whole street being infected, and in many places everyperson in some of the houses; and that which was still worse, by the time that the houses were known to be infected, most of the persons infected would be stone dead, and the rest run away for fear of being shut up; so that it was to very small purpose to call them infected houses and shut them up, the infection having ravaged and taken its leave of the house before it was really known that the family was any way touched.* 
 
@@ -87,7 +87,7 @@ The latter has the largest congregation.
 
 
 * 1 [Selkirk](https://en.wikipedia.org/wiki/robinson-crusoe-selkirk-as-the-inspiration-for-crusoe)
-* [Crusoe](https://en.wikipedia.org/wiki/robinson-crusoe)
+* [Crusoe](https://en.wikipedia.org/wiki/Robinson_Crusoe)
 * [Blackbeard](http://www.fortunecity.co.uk/amusement-golf-200-teach.html)
 * [e-texts of some of Daniel Defoe's works](http://onlinebooks.library.upenn.edu/webbin-gutbook-author-name-defoe-daniel)
 * [Introduction to the Decameron](http://www.fordham.edu/halsall-source-decameronintro.html)

@@ -19,9 +19,9 @@ This is [The Confusion](/the-confusion) page for ***Gulliver's Travels***
 
 
 One gathers this is a wink-wink moment. The [Catholic Information Network](http://www.cin.org/saintsa.html) doesn't list a Saint Lemuel. There is a [Lemuel Gulliver](/lemuel-gulliver) most of us reading [The Confusion](/the-confusion) are familar with.![hogarth_gulliver.jpg](/https://web.archive.org/web/20060725222703im_/http://duke.usask.ca/~stephanr/images/hogarth_gulliver.jpg)  
-**[William Hogarth](https://en.wikipedia.org/wiki/william-hogarth): *The Punishment Inflicted on Lemuel Gulliver* (1726)**
+**[William Hogarth](https://en.wikipedia.org/wiki/William_Hogarth): *The Punishment Inflicted on Lemuel Gulliver* (1726)**
 
-### [Wikipedia: Gulliver's Travels](https://en.wikipedia.org/wiki/gulliver-s-travels)
+### [Wikipedia: Gulliver's Travels](https://en.wikipedia.org/wiki/Gulliver's_Travels)
 
 
 ***Gulliver's Travels*** (1726) is a work of fiction pseudonymously authored by the British [satirist](/satire) Jonathan Swift. Posing as "Dr. Lemuel Gulliver", he purported to report his travels to a series of strange cultures. This mimicked a style of travel reporting that was common at the time, including the outright invention of outlandish and "savage" cultures deliberately designed to shock Englishmen in particular. 
@@ -54,7 +54,7 @@ In this section especially, Swift clearly was not writing for children:
 [Laputa](/laputa), Balniibarbi, Luggnagg, Glubbdubdrib, and [Japan](/japan), are all covered in the third book, which satirizes among other things academia and science. It is widely supposed that Laputa was a strict satire of the [Royal Society](/royal-society), which [Isaac Newton](/isaac-newton) also despised: 
 "Their houses are very ill built, the walls bevil, without one right angle in any apartment; and this defect arises from the contempt they bear to practical geometry, which they despise as vulgar and mechanic; those instructions they give being too refined for the intellects of their workmen, which occasions perpetual mistakes. And although they are dexterous enough upon a piece of paper, in the management of the rule, the pencil, and the divider, yet in the common actions and behaviour of life, I have not seen a more clumsy, awkward, and unhandy people, nor so slow and perplexed in their conceptions upon all other subjects, except those of mathematics and music. They are very bad reasoners, and vehemently given to opposition, unless when they happen to be of the right opinion, which is seldom their case. 
 Imagination, fancy, and invention, they are wholly strangers to, nor have any words in their language, by which those ideas can be expressed; the whole compass of their thoughts and mind being shut up within the two forementioned sciences."
-They also rely on showing each other visible objects rather than speech in words wherever possible, considering it "purer". It is not recorded whether any of them ever spelled out "[Welcome to Macintosh](https://en.wikipedia.org/wiki/mac-os)", but it seems likely. Again, Swift's satire stands to this day.
+They also rely on showing each other visible objects rather than speech in words wherever possible, considering it "purer". It is not recorded whether any of them ever spelled out "[Welcome to Macintosh](https://en.wikipedia.org/wiki/MacOS)", but it seems likely. Again, Swift's satire stands to this day.
 
 #### Luggnagg
 

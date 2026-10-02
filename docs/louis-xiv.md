@@ -15,7 +15,7 @@ This is a placeholder for **King Louis the 14th**
 
 ### [Wikipedia: Louis XIV (adapted)](/)
 
-**Louis XIV** (the Sun King, pronounced "Louie Ka-torz") (September 5, 1638 - September 1, 1715) reigned as king of France from May 14, 1643 to September 1, 1715. Louis did not effectively become ruler until the death of [Cardinal Mazarin](https://en.wikipedia.org/wiki/cardinal-mazarin), in 1661. His reign generally epitomises European absolutism; in fact, he sometimes has the reputation of "the greatest absolute monarch". 
+**Louis XIV** (the Sun King, pronounced "Louie Ka-torz") (September 5, 1638 - September 1, 1715) reigned as king of France from May 14, 1643 to September 1, 1715. Louis did not effectively become ruler until the death of [Cardinal Mazarin](https://en.wikipedia.org/wiki/Cardinal_Mazarin), in 1661. His reign generally epitomises European absolutism; in fact, he sometimes has the reputation of "the greatest absolute monarch". 
 
 #### Birth & Childhood
 

@@ -51,6 +51,6 @@ Cotes's writings were collected and published in 1722 under the titles *Harmonia
 ### External links
 
 
-* [Wikipedia entry about Newton's *Philosophiae Naturalis Principia Mathematica*](https://en.wikipedia.org/wiki/philosophiae-naturalis-principia-mathematica)
+* [Wikipedia entry about Newton's *Philosophiae Naturalis Principia Mathematica*](https://en.wikipedia.org/wiki/Philosophiæ_Naturalis_Principia_Mathematica)
 * [Mathematical Principles of Natural Philosophy](http://dibinst.mit.edu/burndy-collections-babson-onlinenewton-principia.htm) You can download the 3 authorized editions in Latin.
 * [ISBN 0762413484](/) -- **[On the Shoulders of Giants](http://www.amazon.com/exec-obidos-tg-detail-0762413484-qid-1071100757-sr-1-6-ref-sr-1-6-002-8705843-0436068-v-glance-s-books)** edited by Stephen Hawking. This huge book has the Principia in English.

@@ -38,9 +38,9 @@ Given that Cryptonomicon stands sort of apart from the Baroque Cycle, is it wort
 
  Slight correction - the color red in German is spelled 'Rot' and pronounced like the English word 'rote'. The double 'o' phoneme is pronounced like an English long 'oh' sound as in the word Boot, meaning 'boat' and pronounced the same as the English word. Ergo, although incorrect, the word 'Rot' can be spelled 'Root' without losing its pronunciation or meaning
 
- [http://en.wikipedia.org/wiki/Frederick\_I,\_Holy\_Roman\_Emperor](https://en.wikipedia.org/wiki/frederick_i-_holy_roman_emperor) *leads us to*  
+ [http://en.wikipedia.org/wiki/Frederick\_I,\_Holy\_Roman\_Emperor](https://en.wikipedia.org/wiki/Frederick_Barbarossa) *leads us to*  
 
- [http://en.wikipedia.org/wiki/Sleeping\_hero](https://en.wikipedia.org/wiki/sleeping_hero)  
+ [http://en.wikipedia.org/wiki/Sleeping\_hero](https://en.wikipedia.org/wiki/King_asleep_in_the_mountain)  
 
   
 

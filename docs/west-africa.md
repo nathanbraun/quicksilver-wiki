@@ -55,4 +55,4 @@ A notably tall building in West Africa is the 2 Fevrier Sofitel Hotel in Lomé, 
 
 Related entries:
 * [Dappa](/dappa)
-* [[Wikipedia entry for West Africa](https://en.wikipedia.org/wiki/west-africa)], from which this was drawn
+* [[Wikipedia entry for West Africa](https://en.wikipedia.org/wiki/West_Africa)], from which this was drawn

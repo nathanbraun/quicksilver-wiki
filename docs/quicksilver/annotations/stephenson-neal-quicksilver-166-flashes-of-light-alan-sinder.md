@@ -58,7 +58,7 @@ Semaphores are faster (in the sense of 'provide much larger bandwidth') than smo
 ### [Wikipedia: Morse Code](/)
 
 
-**Morse code** is a system of representing letters, numbers and punctuation marks by means of a code signal sent intermittently. It was developed by [Alfred Vail](https://en.wikipedia.org/wiki/alfred-vail) while he was helping [Samuel Morse](https://en.wikipedia.org/wiki/samuel-f-b-morse) with Morse's invention of the telegraph in 1835. 
+**Morse code** is a system of representing letters, numbers and punctuation marks by means of a code signal sent intermittently. It was developed by [Alfred Vail](https://en.wikipedia.org/wiki/Alfred_Vail) while he was helping [Samuel Morse](https://en.wikipedia.org/wiki/Samuel_Morse) with Morse's invention of the telegraph in 1835. 
 
 Morse code is an early form of digital communication, however unlike modern binary digital codes that use just two states (commonly represented as 1 and 0), it uses five: dot (·), dash (-), short gap (between each letter), medium gap (between words) and long gap (between sentences). 
 
