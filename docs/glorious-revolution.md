@@ -69,5 +69,5 @@ The success of the Glorious Revolution came three years after the failure of the
 ### Footnotes & External links
 
 
-1. [David Lloyd George, 1st Earl Lloyd George of Dwyfor, Prime Minister of the United Kingdom 1916-1922](https://en.wikipedia.org/wiki/david-lloyd-george) H.A.L. Fisher - President of the Board of Education in George's 2nd Government
+1. [David Lloyd George, 1st Earl Lloyd George of Dwyfor, Prime Minister of the United Kingdom 1916-1922](https://en.wikipedia.org/wiki/David_Lloyd_George) H.A.L. Fisher - President of the Board of Education in George's 2nd Government
 * [Another bio of James II and presentation of his Jacobite heritage until the 21st Century](http://members.rogers.com/jacobites-kings-james2.htm)

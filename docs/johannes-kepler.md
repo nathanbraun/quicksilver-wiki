@@ -19,11 +19,11 @@ This is an intermediate page for **Johannes Kepler**.
 ### Community entries: Johannes Kepler
 
 
-**Johannes Kepler** (December 27, 1571 - November 15, 1630), was a key figure in the [Scientific revolution](https://en.wikipedia.org/wiki/scientific-revolution). He was German [astrologer](https://en.wikipedia.org/wiki/astrology), [astronomer](https://en.wikipedia.org/wiki/astronomy), and mathematician; best known for his laws of planetary motion. 
+**Johannes Kepler** (December 27, 1571 - November 15, 1630), was a key figure in the [Scientific revolution](https://en.wikipedia.org/wiki/Scientific_Revolution). He was German [astrologer](https://en.wikipedia.org/wiki/astrology), [astronomer](https://en.wikipedia.org/wiki/astronomy), and mathematician; best known for his laws of planetary motion. 
 
 Kepler was a professor of mathematics at the University of Graz, court mathematician to Emperor Rudolf II, and court astrologer to General Wallenstein. Early in his career, Kepler was an assistant of [Tycho Brahe](/tycho-brahe)'s. Kepler's career coincided with that of [Galileo Galilei](/galileo-galilei). 
 
-He could reasonably be considered a transition figure between [Renaissance](https://en.wikipedia.org/wiki/renaissance) and the Baroque period. He is sometimes referred to as *the first [theoretical astrophysicis](https://en.wikipedia.org/wiki/theoretical-astrophysics)*. [Carl Sagan](https://en.wikipedia.org/wiki/carl-sagan) also refers to him as the last scientific astrologer. His genius for math made his charts effective *film flam*.
+He could reasonably be considered a transition figure between [Renaissance](https://en.wikipedia.org/wiki/renaissance) and the Baroque period. He is sometimes referred to as *the first [theoretical astrophysicis](https://en.wikipedia.org/wiki/Astrophysics#Theoretical_astrophysics)*. [Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan) also refers to him as the last scientific astrologer. His genius for math made his charts effective *film flam*.
 
 ### Empiricism
 
@@ -36,10 +36,10 @@ Kick starting [Cosmology](https://en.wikipedia.org/wiki/cosmology), Thomas Digge
 
 From the point of view of [Quicksilver](/stephenson-neal-quicksilver) and other fictional universes, Kepler is a useful figure for a number of reasons:
 
-1. He illustrates a tension of the [Baroque](/baroque) age - working for power figures in politics, who do not see a point in science for its own sake yet. They see it as a way to make toys and do soothsaying, but not as a way to make better weapons or buildings (the late Baroque and [Enlightenment](https://en.wikipedia.org/wiki/the-enlightenment) attitude)
+1. He illustrates a tension of the [Baroque](/baroque) age - working for power figures in politics, who do not see a point in science for its own sake yet. They see it as a way to make toys and do soothsaying, but not as a way to make better weapons or buildings (the late Baroque and [Enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment) attitude)
 2. [John Banville](http://www.utc.edu/engldept-booker-banville.htm) wrote an excellent fictional biography, *[Kepler: A novel](http://www.amazon.com/exec-obidos-tg-detail-0679743707-qid-1076574256-sr-1-1-ref-sr-1-1-104-8931055-5532701-v-glance-s-books)*, which explores among other things his relations with [Tycho Brahe](/tycho-brahe).
 3. Kepler's mother was accused of witchcraft
-4. Kepler's [sacred geometry](https://en.wikipedia.org/wiki/sacred-geometry) of the spheres, which he discarded for the [elliptic](https://en.wikipedia.org/wiki/ellipse) [orbit](https://en.wikipedia.org/wiki/orbit)s, is a good representation of the shift from earlier magical thinking to modern scientific models - it may be the best example of that transition. (see [Kepler Solids](https://en.wikipedia.org/wiki/kepler-solid))
+4. Kepler's [sacred geometry](https://en.wikipedia.org/wiki/Sacred_geometry) of the spheres, which he discarded for the [elliptic](https://en.wikipedia.org/wiki/ellipse) [orbit](https://en.wikipedia.org/wiki/orbit)s, is a good representation of the shift from earlier magical thinking to modern scientific models - it may be the best example of that transition. (see [Kepler Solids](https://en.wikipedia.org/wiki/Kepler–Poinsot_polyhedron))
 5. He was the very first person to say  (according to *Lewis Thomas*) that the entire [Earth](https://en.wikipedia.org/wiki/earth) was one giant living round *cell*  the thesis of very much later [Gaia philosophy](/gaia-philosophy).
 
 
@@ -139,25 +139,25 @@ Writings by Kepler
 ### External links
 
 
-* [Johannes Kepler (Wikipedia)](http://wikipedia.org/wiki-johannes-kepler)
+* [Johannes Kepler (Wikipedia)](https://en.wikipedia.org/wiki/Johannes_Kepler)
 * [ISBN 0679743707](/) Jahn Bancroft *Kepler* Vintage; Reprint edition (October 5, 1993) 208pp
 * [Annotation: Posner Family Collection in Electronic Format](http://posner.library.cmu.edu/posner-books-annotation-cgi-call-520-k38pn) Harmonices mvndi The Harmony of the Worlds in fulltext facsimile in Latin
-* [Carl Sagan](https://en.wikipedia.org/wiki/carl-sagan) He had an Apple codename!
-* [Johannes Kepler (Wikipedia)](http://wikipedia.org/wiki-johannes-kepler)
+* [Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan) He had an Apple codename!
+* [Johannes Kepler (Wikipedia)](https://en.wikipedia.org/wiki/Johannes_Kepler)
 * [ISBN 0679743707](/) Jahn Bancroft *Kepler* Vintage; Reprint edition (October 5, 1993) 208pp
 * [Annotation: Posner Family Collection in Electronic Format](http://posner.library.cmu.edu/posner-books-annotation-cgi-call-520-k38pn) Harmonices mvndi The Harmony of the Worlds in fulltext facsimile in Latin
-* [Scientific revolution](https://en.wikipedia.org/wiki/scientific-revolution)
+* [Scientific revolution](https://en.wikipedia.org/wiki/Scientific_Revolution)
 * [astrologer](https://en.wikipedia.org/wiki/astrology)
 * [astronomer](https://en.wikipedia.org/wiki/astronomy)
 * [Renaissance](https://en.wikipedia.org/wiki/renaissance)
-* [theoretical astrophysicis](https://en.wikipedia.org/wiki/theoretical-astrophysics)
+* [theoretical astrophysicis](https://en.wikipedia.org/wiki/Astrophysics#Theoretical_astrophysics)
 * [Cosmology](https://en.wikipedia.org/wiki/cosmology)
 * [Copernican](https://en.wikipedia.org/wiki/copernicus)
-* [Enlightenment](https://en.wikipedia.org/wiki/the-enlightenment)
+* [Enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment)
 * [John Banville](http://www.utc.edu/engldept-booker-banville.htm)
 * [Kepler: A novel](http://www.amazon.com/exec-obidos-tg-detail-0679743707-qid-1076574256-sr-1-1-ref-sr-1-1-104-8931055-5532701-v-glance-s-books)
-* [sacred geometry](https://en.wikipedia.org/wiki/sacred-geometry)
+* [sacred geometry](https://en.wikipedia.org/wiki/Sacred_geometry)
 * [elliptic](https://en.wikipedia.org/wiki/ellipse)
 * [orbit](https://en.wikipedia.org/wiki/orbit)
-* [Kepler Solids](https://en.wikipedia.org/wiki/kepler-solid)
+* [Kepler Solids](https://en.wikipedia.org/wiki/Kepler–Poinsot_polyhedron)
 * [Earth](https://en.wikipedia.org/wiki/earth)

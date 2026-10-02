@@ -54,8 +54,8 @@ Intermediate page for
 * [Nassau](/http-www-xs4all-nl-kvenjb-genealogy-nl-nassau-nassau-htm)
 * [The House of Bourbon](http://www.ac.wwu.edu/stephan-rulers-bourbon.html)
 * [The Spanish Bourbons](http://www.ac.wwu.edu/stephan-rulers-spain3.html)
-* [Welf](https://en.wikipedia.org/wiki/list-of-german-kings-and-emperors)
-* [Guelphs](https://en.wikipedia.org/wiki/guelphs-and-ghibellines)
+* [Welf](https://en.wikipedia.org/wiki/List_of_monarchs_of_Germany)
+* [Guelphs](https://en.wikipedia.org/wiki/Guelphs_and_Ghibellines)
 * [House of Hohenzollern](http://www.ac.wwu.edu/stephan-rulers-hohenzollern.html)
 
 **Maps**

@@ -54,7 +54,7 @@ The city was long an important sea port, prior to the silting up of the Guadalqu
 
 The city's great Cathedral was built from 1401 - 1519 after the Reconquista on the former site of the city's mosque. The interior is lavishly decorated, with a large quantity of gold evident. The Cathedral reused some columns and elements from the old mosque, and most famously the *Giralda*, originally a minaret, was converted into a bell tower. It is topped with a statue representing Faith. The Giralda is the city's most famous symbol. 
 
-The **[Alcazar](https://en.wikipedia.org/wiki/alcazar)**  (Arabic القصر) means 'fortress  is the city's old Moorish Palace; construction was begun in 1181. Additional construction continued for over 500 years. The Alcazar of Seville was finished in the 1360s by Moorish craftsmen for [Pedro the Cruel](https://en.wikipedia.org/wiki/peter-i-of-castile) who, with his mistress, Maria de Padilla, lived in and ruled from the Alcazar, and often remodeled. Now it is an UNESCO World Heritage site. The *Parque Maria Louisa* was built for the 1929 Exposición Ibero-Americana World's Fair, and now is landscaped with attractive monuments and museums.![SevillaGiralda.jpg](/https://web.archive.org/images/SevillaGiralda.jpg)  
+The **[Alcazar](https://en.wikipedia.org/wiki/alcazar)**  (Arabic القصر) means 'fortress  is the city's old Moorish Palace; construction was begun in 1181. Additional construction continued for over 500 years. The Alcazar of Seville was finished in the 1360s by Moorish craftsmen for [Pedro the Cruel](https://en.wikipedia.org/wiki/Peter_of_Castile) who, with his mistress, Maria de Padilla, lived in and ruled from the Alcazar, and often remodeled. Now it is an UNESCO World Heritage site. The *Parque Maria Louisa* was built for the 1929 Exposición Ibero-Americana World's Fair, and now is landscaped with attractive monuments and museums.![SevillaGiralda.jpg](/https://web.archive.org/images/SevillaGiralda.jpg)  
 **Sevilla**
 
 ### Pedro *the Cruel* AKA Peter I of Castile
@@ -123,7 +123,7 @@ Rio Tinto's runoff is considered so toxic as to be unearthly, scientists hunt ex
 ### Links to Atlantis
 
 
-Tartessian enthusiasts imagine it trading with Atlantis and link obscure finds with the highly problematic [Lady of Elche](https://en.wikipedia.org/wiki/lady-of-elche). The name El Carpio survives, transferred to a site in a bend of the Guadalquivir, but the origin of its name has been associated with its imposing oldest feature, a Moorish tower erected in 1325 by the engineer responsible for the alcazar of Seville. In the Bible, Tartessos is known under the name of Tarshish, where [Phoenicians](/phoenicia) traded ores during the rule of [Solomon](/solomon).
+Tartessian enthusiasts imagine it trading with Atlantis and link obscure finds with the highly problematic [Lady of Elche](https://en.wikipedia.org/wiki/Lady_of_Elche). The name El Carpio survives, transferred to a site in a bend of the Guadalquivir, but the origin of its name has been associated with its imposing oldest feature, a Moorish tower erected in 1325 by the engineer responsible for the alcazar of Seville. In the Bible, Tartessos is known under the name of Tarshish, where [Phoenicians](/phoenicia) traded ores during the rule of [Solomon](/solomon).
 Although several finds have been made in southern Spain that are ascribed to the Tartessan culture, the city itself has not been recovered by professional archeologists.
 
 ## Pillars of Hercules
@@ -149,7 +149,7 @@ When Hercules had to perform twelve labours, one of them was to fetch the Cattle
 
 The pillars are also mentioned at some places as portals, or gates to different locations on Earth. When the Carthaginian admiral Himilco was sent to explore the area of the Muddy Sea (a shallow plateau that lies to the southwest of the Pillars) his report included the words "Many seaweeds grow in the troughs between the waves, which slow the ship like bushes {...} Here the beasts of the sea move slowly hither and thither, and great monsters swim languidly among the sluggishly creeping ships" (Rufus Festus Avienus) This description accurately resembles the Sargasso Sea rather than the Muddy Sea.
 
-#### In [Dante's Inferno](https://en.wikipedia.org/wiki/the-divine-comedy)
+#### In [Dante's Inferno](https://en.wikipedia.org/wiki/Divine_Comedy)
 
 
 When describing his circles of hell, Dante mentions Ulysses and his voyage past the Pillars of Hercules (once considered the western end of the world). Ulysses justifies endangering his sailors by the fact that his goal is to gain knowledge of the unknown. After five months of navigation in the ocean, Ulysses detects the Purgatorial but encounters a whirlwind that sinks his ship.

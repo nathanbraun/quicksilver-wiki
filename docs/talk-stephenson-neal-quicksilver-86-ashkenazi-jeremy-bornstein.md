@@ -14,7 +14,7 @@ Cromwell's freeing the parishes from a central authority allowed Jews as Jews ba
 
 Foot and links:  
 
-1. [Sephardic](https://en.wikipedia.org/wiki/sephardi)] Jewish youths also were most likely to among [Christoper Columbus'](https://en.wikipedia.org/wiki/christopher-columbus) crew on his first voyage due to a rather nasty deadline from the [Spanish Inquisition](https://en.wikipedia.org/wiki/spanish-inquisition) which was purging the multicultural society of what had been Muslim Spain in 1492.
+1. [Sephardic](https://en.wikipedia.org/wiki/sephardi)] Jewish youths also were most likely to among [Christoper Columbus'](https://en.wikipedia.org/wiki/Christopher_Columbus) crew on his first voyage due to a rather nasty deadline from the [Spanish Inquisition](https://en.wikipedia.org/wiki/Spanish_Inquisition) which was purging the multicultural society of what had been Muslim Spain in 1492.
 
 ```
  

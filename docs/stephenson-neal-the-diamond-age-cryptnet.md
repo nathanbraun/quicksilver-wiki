@@ -34,4 +34,4 @@ This is an [intermediate page](/metaweb-intermediate-page) for
 
 * [The Freenet Project](http://freenet.sourceforge.net)
 * [distributed.net](http://distributed.net)
-* [Distributed computing](https://en.wikipedia.org/wiki/distributed-computing) and [peer-to-peer](https://en.wikipedia.org/wiki/peer-to-peer) networks
+* [Distributed computing](https://en.wikipedia.org/wiki/Distributed_computing) and [peer-to-peer](https://en.wikipedia.org/wiki/peer-to-peer) networks

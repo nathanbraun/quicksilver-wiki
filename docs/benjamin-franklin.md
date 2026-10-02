@@ -40,7 +40,7 @@ This is the [Quicksilver](/quicksilver) page for **Benjamin Franklin**.
 #### Community entry: Ben Franklin
 
 
-Ben studied philosophy and science extensively. His practical experimentation lead to the development of uniquely Benjamin Franklin inventions. Such as: the chimney-on-the-bottom "Franklin Stove," bifocal eyeglasses, even a [Glass Harmonica](https://en.wikipedia.org/wiki/glass-harmonica).
+Ben studied philosophy and science extensively. His practical experimentation lead to the development of uniquely Benjamin Franklin inventions. Such as: the chimney-on-the-bottom "Franklin Stove," bifocal eyeglasses, even a [Glass Harmonica](https://en.wikipedia.org/wiki/Glass_harmonica).
 
 ![Benjaminfranklin.jpg](/images/Benjaminfranklin.jpg)  
 
@@ -189,11 +189,11 @@ Benevolus  While in England, Franklin penned a number of letters under the nam
 
 
 * [Benjamin Franklin (MIT)](http://web.mit.edu/invent-iow-franklin.html)
-* [Benjamin Franklin (Wikipedia)](https://en.wikipedia.org/wiki/benjamin-franklin)
+* [Benjamin Franklin (Wikipedia)](https://en.wikipedia.org/wiki/Benjamin_Franklin)
 * [Franklin's inventions](http://www.ipwatchdog.com/hall-of-fame-benjamin-franklin.html)
 * [The Founding Physicists](http://www.geocities.com/athens-acropolis-2606-founder.htm)
 * [The World of Benjamin Franklin](http://sln.fi.edu/franklin)
 * [The Electric Franklin](http://www.ushistory.org/franklin)
 * [A Documentary History](http://www.english.udel.edu/lemay-franklin)
 * [Archiving Early America](http://earlyamerica.com/lives-franklin)
-* [Wikipedia: Lunar Society](https://en.wikipedia.org/wiki/lunar-society)
+* [Wikipedia: Lunar Society](https://en.wikipedia.org/wiki/Lunar_Society_of_Birmingham)

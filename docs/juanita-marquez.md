@@ -45,7 +45,7 @@ Juanita's new-found powers at the conclusion of the novel are given relatively s
 ### Suitable Metaphors For Eden
 
 
-[Martin Buber](/) and his proteges have always maintained that **[Eden](https://en.wikipedia.org/wiki/garden-of-eden)** was a [kindergarten](https://en.wikipedia.org/wiki/kindergarten); And that it is consistent with the [origin myth](https://en.wikipedia.org/wiki/creation-myths) God wanted Adam and Eve to have knowledge of [Good and Evil](https://en.wikipedia.org/wiki/original-sin-original-sin-in-the-torah). 
+[Martin Buber](/) and his proteges have always maintained that **[Eden](https://en.wikipedia.org/wiki/Garden_of_Eden)** was a [kindergarten](https://en.wikipedia.org/wiki/kindergarten); And that it is consistent with the [origin myth](https://en.wikipedia.org/wiki/Creation_myth) God wanted Adam and Eve to have knowledge of [Good and Evil](https://en.wikipedia.org/wiki/original-sin-original-sin-in-the-torah). 
 
 ### [Catholic Guilt](/)?
 
@@ -66,9 +66,9 @@ In the end, we speculate. Neal doesn't address it other than show us her charact
 
 
 * [Inanna](https://en.wikipedia.org/wiki/ishtar)
-* [Sumerian Myths](https://en.wikipedia.org/wiki/sumerian-mythology)
+* [Sumerian Myths](https://en.wikipedia.org/wiki/Sumerian_religion)
 * [Enheduanna](https://en.wikipedia.org/wiki/enheduanna) - considered the oldest author known by name
-* [Epic of Gilgamesh](https://en.wikipedia.org/wiki/epic-of-gilgamesh)
+* [Epic of Gilgamesh](https://en.wikipedia.org/wiki/Epic_of_Gilgamesh)
 * [The Heroes and The Masses](http://www.cyberartsweb.org/cpace-scifi-ns-schwartz.html)
 * [Black Sun Passport](http://www.digitalspace.com/avatars-book-fullbook-chch-chch1.htm)
 * [Snow Crash](http://www.cyberartsweb.org/cpace-scifi-ns-snowcrashov.html)

@@ -23,5 +23,5 @@ To specific propositions such as:
 The conclusions of deductive reasoning are as valid as the initial assumption, in contrast to inductive reasoning. In the latter one attempts to get a general truth from some group of specific observations, e.g. all the swans I have seen are white, therefore all swans are white. This is invalid - there do exist some black swans. Deductive reasoning was first described by the ancient Greek philosophers such as [Aristotle](https://en.wikipedia.org/wiki/aristotle). 
 
 See also 
-* [Inductive reasoning](https://en.wikipedia.org/wiki/inductive-reasoning)
+* [Inductive reasoning](https://en.wikipedia.org/wiki/Inductive_reasoning)
 * [Logic](https://en.wikipedia.org/wiki/logic)

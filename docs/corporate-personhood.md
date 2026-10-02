@@ -18,7 +18,7 @@ this is a placeholder for **Corporate personhood**
 ### Community entry:Corporate personhood
 
 
-Original author most likely was expanding on [Wikipedia's entry](https://en.wikipedia.org/wiki/corporate-personhood) to be *generous*. I felt it really tied into Andrew Loeb for some reason. This is a summation of the problems of that entry from the talk pages:
+Original author most likely was expanding on [Wikipedia's entry](https://en.wikipedia.org/wiki/Corporate_personhood) to be *generous*. I felt it really tied into Andrew Loeb for some reason. This is a summation of the problems of that entry from the talk pages:
 
 There are several problems with this article:
 1. First, it conflates a discussion of an argument against corporate personhood generally with a discussion of / argument against treating corporations as persons entitled to constitutional protections.

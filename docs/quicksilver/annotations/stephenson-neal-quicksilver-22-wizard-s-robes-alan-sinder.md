@@ -35,7 +35,7 @@ A page for the garment secondmost associated with wizards - their **robes**
 **A Generic Wizard  
 from a RPG set**
 
-Robes are also used in role-playing games by wizards and other magical characters. A wizard's cap seems to be based on the capotain - a tall conical hat, in use throughout the 17th century, usually black. The uninitiated might confuse one with a dunce's cap (ala [Duns Scotus](https://en.wikipedia.org/wiki/duns-scotus)). Think Paul Dukas' - *L'apprenti sorcier* (English title: *The Sorcerer's Apprentice*, with Disney's Mickey Mouse shown in the role of the apprentice) from the film [Fantasia](https://en.wikipedia.org/wiki/fantasia). 
+Robes are also used in role-playing games by wizards and other magical characters. A wizard's cap seems to be based on the capotain - a tall conical hat, in use throughout the 17th century, usually black. The uninitiated might confuse one with a dunce's cap (ala [Duns Scotus](https://en.wikipedia.org/wiki/Duns_Scotus)). Think Paul Dukas' - *L'apprenti sorcier* (English title: *The Sorcerer's Apprentice*, with Disney's Mickey Mouse shown in the role of the apprentice) from the film [Fantasia](https://en.wikipedia.org/wiki/fantasia). 
 
 A modern **Dressing Gown** is an item of clothing, often made from toweling or another absorbant material. It is often worn over pyjamas. It most commonly occurs in the form of a long open robe with a belt to tie it round the middle and fasten it securely. It might best resemble a wizard's robe as practical lab wear.
 

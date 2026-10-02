@@ -66,5 +66,5 @@ To resolve this dilemma it was postulated that there is an exchange of force car
 
 * **[Peter McBurney's Fatio page](http://www.csc.liv.ac.uk/peter-this-month-fatio-bio.html)**
 * **[Gelman revisits the Push Theory](http://gravity.ontheinter.net)**
-* **[Bohm Interpretation](https://en.wikipedia.org/wiki/bohm-interpretation)**
-* **[Quantum entanglements](https://en.wikipedia.org/wiki/quantum-entanglement)**
+* **[Bohm Interpretation](https://en.wikipedia.org/wiki/De_Broglie–Bohm_theory)**
+* **[Quantum entanglements](https://en.wikipedia.org/wiki/Quantum_entanglement)**

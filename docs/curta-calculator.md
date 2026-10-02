@@ -13,7 +13,7 @@ Image belongs to link below:
 **[The ultimate & complete Curta Reference page](http://www.vcalc.net/cu.htm)**
 It has a beautiful CG ray-traced image of a Curta.
 
-Curtas play a part in [William Gibson](https://en.wikipedia.org/wiki/william-gibson)'s [Pattern Recognition](https://en.wikipedia.org/wiki/pattern-recognition-novel).
+Curtas play a part in [William Gibson](https://en.wikipedia.org/wiki/William_Gibson)'s [Pattern Recognition](https://en.wikipedia.org/wiki/Pattern_Recognition_%28novel%29).
 
 ### Related entry
 

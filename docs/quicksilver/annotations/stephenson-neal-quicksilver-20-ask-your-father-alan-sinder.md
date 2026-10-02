@@ -25,7 +25,7 @@ If we discard alchemy as *T'was all rubbish* as Enoch admits on page 22  t
 
 
 **Quote:**
-*To lengthen thy life, lessen thy meals.* - [Benjamin Franklin](/benjamin-franklin), *[Poor Richard's Almanack](https://en.wikipedia.org/wiki/poor-richard-s-almanack)*, June 1733 
+*To lengthen thy life, lessen thy meals.* - [Benjamin Franklin](/benjamin-franklin), *[Poor Richard's Almanack](https://en.wikipedia.org/wiki/Poor_Richard's_Almanack)*, June 1733 
 
 **Longevity** is long life or existence. Reflections on longevity have usually gone beyond acknowledging the basic shortness of human life and included thinking about, and conceiving, methods to extend life (indefinitely). Longevity has been a topic not only for the scientific community but also for writers of [travel](https://en.wikipedia.org/wiki/travel), [science fiction](https://en.wikipedia.org/wiki/science-fiction), and [utopian](https://en.wikipedia.org/wiki/utopia) novels. 
 
@@ -48,10 +48,10 @@ Australia: 80 years
 #### Scientists are working to extend our life, mainly with these ideas:
 
 
-* [Human growth hormone](https://en.wikipedia.org/wiki/human-growth-hormone)
+* [Human growth hormone](https://en.wikipedia.org/wiki/Growth_hormone)
 * Strong Anti-oxidants
 * [Cryonics](https://en.wikipedia.org/wiki/cryonics)
-* [Caloric restriction](https://en.wikipedia.org/wiki/caloric-restriction) mimicking agents.
+* [Caloric restriction](https://en.wikipedia.org/wiki/Calorie_restriction) mimicking agents.
 * Minimising insulin uptake.
 * A glass of [wine](https://en.wikipedia.org/wiki/wine) or [beer](https://en.wikipedia.org/wiki/beer) per day
 
@@ -207,7 +207,7 @@ more soon
 ### External links
 
 
-* [Malthusian catastrophe](https://en.wikipedia.org/wiki/malthusian-catastrophe)
+* [Malthusian catastrophe](https://en.wikipedia.org/wiki/Malthusianism)
 * [Methuselah](https://en.wikipedia.org/wiki/methuselah)
 * [Life Extension](https://en.wikipedia.org/wiki/life-extension)
 * [Immortality](https://en.wikipedia.org/wiki/immortality)

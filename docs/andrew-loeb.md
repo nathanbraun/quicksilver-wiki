@@ -97,7 +97,7 @@ the statement concludes;
 "And that prince who is lacking in this skill is wanting in the first essentials of a leader; for it is this which teaches how to find the enemy, take up quarters, lead armies, plan battles and lay siege to towns with advantage."
 
 
-Remember, also, that there still remain some pocket rebellions with fragmented rebel groups, particularly some communist groups operating in the mountains of Luzon and the Visayas, and a smattering of [Muslim](/islam) fighters who do not recognize the 1996 peace treaty. Outside the cities the countryside is tropical rainforests and are [volcanic](https://en.wikipedia.org/wiki/volcano) in origin. The highest point is Mount Apo on Mindanao standing at 2,954 [meter]s tall. Many volcanoes in the country, such as the Pinatubo, are active. The country is also astride the [typhoon](https://en.wikipedia.org/wiki/tropical-cyclone) belt of the Western Pacific and is struck by about 19 typhoons per year.
+Remember, also, that there still remain some pocket rebellions with fragmented rebel groups, particularly some communist groups operating in the mountains of Luzon and the Visayas, and a smattering of [Muslim](/islam) fighters who do not recognize the 1996 peace treaty. Outside the cities the countryside is tropical rainforests and are [volcanic](https://en.wikipedia.org/wiki/volcano) in origin. The highest point is Mount Apo on Mindanao standing at 2,954 [meter]s tall. Many volcanoes in the country, such as the Pinatubo, are active. The country is also astride the [typhoon](https://en.wikipedia.org/wiki/Tropical_cyclone) belt of the Western Pacific and is struck by about 19 typhoons per year.
 
 ### Not the Cryptonomicon Universe's [Unabomber](http://www.crimelibrary.com/terrorists-unabomber)
 

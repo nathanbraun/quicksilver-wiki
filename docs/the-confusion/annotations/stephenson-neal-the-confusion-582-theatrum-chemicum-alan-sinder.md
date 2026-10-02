@@ -42,7 +42,7 @@ This is [The Confusion](/the-confusion) page for the **steel** seen in the wootz
 
 * [Steel](https://en.wikipedia.org/wiki/steel)
 * [Steel to New York](http://www.amnh.org/exhibitions-expeditions-treasure-fossil-treasures-cape-york-meteorite-capeyork-html-tair)
-* [Damascus steel](https://en.wikipedia.org/wiki/damascus-steel)
+* [Damascus steel](https://en.wikipedia.org/wiki/Damascus_steel)
 * [Stainless steel](https://en.wikipedia.org/wiki/stainless-steel)
 * [Carbon steel](https://en.wikipedia.org/wiki/carbon-steel)
 * [Mokume-gane](https://en.wikipedia.org/wiki/mokume-gane)

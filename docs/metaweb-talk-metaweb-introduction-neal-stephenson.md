@@ -39,7 +39,7 @@ It is certainly *not* about developing a Quicksilver universe, GNU FDL books, or
 
 Applied Minds' model has some serious problems, but never mind that. The most useful comment here is that we may well be writing *[A Young Lady's Illustrated Primer](/stephenson-neal-the-diamond-age-or-a-young-lady-s-illustrated-primer)* from *[The Diamond Age](/the-diamond-age)* in some sense. Fine. Let's start there. Neal, are you willing to [GNU FDL](/gnu-fdl) the sections of the *[YLIP](/ylip)* that you actually *wrote* as part of *[The Diamond Age](/the-diamond-age)*? If so, we could complete it! Maybe including lots of links to the [Simple English Wikipedia](http://simple.wikipedia.org) and [Wikibooks](http://wikibooks.org) (also GNU FDL'd) to actually make it a useful learning resource. Then translate to Chinese, ship it to China on CD-ROM, and we're off... Mouse Armies and all... 
 
-BTW Neal did you read [the review of Diamond Age in the Wikipedia](http://wikipedia.org/wiki-the-diamond-age)? Or do you track the reviews at Amazon.com? Which do you find intriguing, and which silly?
+BTW Neal did you read [the review of Diamond Age in the Wikipedia](https://en.wikipedia.org/wiki/The_Diamond_Age)? Or do you track the reviews at Amazon.com? Which do you find intriguing, and which silly?
 
 More importantly, on the question of addressing people in a [vocabulary they understand](/metaweb-vocabulary) on [topics they care about](/metaweb-scope), consider the following:
 
@@ -93,7 +93,7 @@ Consider [Wikipedia](http://en.wikipedia.org) - which operates without any of th
 
 The [Metaweb:faction](/metaweb-faction) proposal would deal with collective and alleged identity and with "avowed or alleged agenda" just as well. It would not require naming names, it would just let, among other things, a Whig say 'yes that's a Whig view' and a Tory say 'no, that's what Whigs say about Tories' so we don't end up having to have a single central authority deciding what is "true" about either.
 
-PS There was a comment about [Richard Harris](https://en.wikipedia.org/wiki/richard-harris-actor), but I have no idea which one you mean because this is a common name. The man I think you're referring to passed away in 2002. Please provide a link next time?[JonnyD](/user-jonnyd) 17:36, 16 Mar 2004 (PST)
+PS There was a comment about [Richard Harris](https://en.wikipedia.org/wiki/Richard_Harris), but I have no idea which one you mean because this is a common name. The man I think you're referring to passed away in 2002. Please provide a link next time?[JonnyD](/user-jonnyd) 17:36, 16 Mar 2004 (PST)
 
 
 ---
@@ -115,7 +115,7 @@ Your movements are always marred by red EMPTY LINKS  and you've three means to
 1. [Wikipedia](https://en.wikipedia.org/wiki/main-page)
 2. [WikiInfo](http://internet.encyclopedia.org)
 3. [Recyclopedia](http://recyclopedia.info/wiki-wiki-phtml-title-main-page)
-4. [Meta Wiki](https://meta.wikipedia.org/wiki/main-page)
+4. [Meta Wiki](https://meta.wikimedia.org/wiki/Main_Page)
 * Yes I know you think Trolls are heroic - many don't. Many see your stand as ***Bogus***  I hold the view your energy can be channeled.
 
 

@@ -32,9 +32,9 @@ The obvious difference in London was its expansion inside and outside the city. 
 
 In the 17th and 18th centuries, during the period now referred to as the Little Ice Age, the Thames often froze over in the winter. This led to the first "Frost Fair" in 1607, complete with a tent city set up on the river itself and offering a number of odd amusements, including ice bowling.[[2]](https://en.wikipedia.org/wiki/little-ice-age)
 
-It remained the centre of English-speaking culture until at least the mid [20th century](/20th-century), whereafter some would claim it became one of many great cities of that culture, with only [New York City](https://en.wikipedia.org/wiki/new-york-city) more important as the *newest unofficial* **International World Capital** housing the headquarters of the **United Nations**. 
+It remained the centre of English-speaking culture until at least the mid [20th century](/20th-century), whereafter some would claim it became one of many great cities of that culture, with only [New York City](https://en.wikipedia.org/wiki/New_York_City) more important as the *newest unofficial* **International World Capital** housing the headquarters of the **United Nations**. 
 
-However, today, London is the centre of much the world's [insurance](https://en.wikipedia.org/wiki/insurance) and [brokerage](https://en.wikipedia.org/wiki/brokerage) businesses, and has a much more international financial character than does New York, which may also be in decline after events of [9-11, 2001](https://en.wikipedia.org/wiki/september-11-2001-terrorist-attack) and various accounting scandals. 
+However, today, London is the centre of much the world's [insurance](https://en.wikipedia.org/wiki/insurance) and [brokerage](https://en.wikipedia.org/wiki/brokerage) businesses, and has a much more international financial character than does New York, which may also be in decline after events of [9-11, 2001](https://en.wikipedia.org/wiki/September_11_attacks) and various accounting scandals. 
 
 Contrariwise, the 21st century might well be centered on cities that have the Pacific Ocean in their backyard, and speak Chinese as much as they do English. Perhaps London will be the future Library Depository of the England language in the future. 
 
@@ -54,20 +54,20 @@ Contrariwise, the 21st century might well be centered on cities that have the Pa
 #### External links and Footnotes
 
 * [Wikipedia London](https://en.wikipedia.org/wiki/london)
-* [Greater London Council](https://en.wikipedia.org/wiki/greater-london-council)
-* [British Royal Family](https://en.wikipedia.org/wiki/british-royal-family)
-* [Tower of London](https://en.wikipedia.org/wiki/tower-of-london)
+* [Greater London Council](https://en.wikipedia.org/wiki/Greater_London_Council)
+* [British Royal Family](https://en.wikipedia.org/wiki/British_royal_family)
+* [Tower of London](https://en.wikipedia.org/wiki/Tower_of_London)
 * [London Historical Picture Gallery](http://www.knightsbridge.net/london)
 * [Map Of London, ca. 1676](/http-instruct-uwo-ca-english-234e-site-mainlndnmap-html)
 * [List of London maps](http://www.pepysdiary.com/p-324.php)
 * [Detailed street map (with index) from 1746](http://www.motco.com/map-81002)
 * [Discussion of various London locales](http://www.pepysdiary.com/background-c-streets)
-* [Great Fire of 1666](https://en.wikipedia.org/wiki/great-fire-of-london)
-* [Little Ice Age](https://en.wikipedia.org/wiki/little-ice-age)
+* [Great Fire of 1666](https://en.wikipedia.org/wiki/Great_Fire_of_London)
+* [Little Ice Age](https://en.wikipedia.org/wiki/Little_Ice_Age)
 * [British Banking Scandals](http://www.ex.ac.uk/rdavies-arian-scandals-classic.html)
 * [Fun with Francis Bacon](http://www.sirbacon.org/links-globemorph.html)
 * [More historical maps of cities](/http-historic-cities-huji-ac-il)
 
 1. [Hollar did the frontispiece for Spratt's "The History of the Royal Society" that was presented to King Charles II](http://www.princeton.edu/his291-jpegs-sprat.jpg)
 
-2. [... What caused the Little Ice Age?](https://en.wikipedia.org/wiki/little-ice-age) "Scientists have identified two likely suspects: decreased sunspot activity and increased volcanic activity. During the period 1645-1715, right in the middle of the Little Ice Age, solar activity as seen in sunspots was extremely low, with some years having no sunspots at all. This period of low sunspot activity is known as the Maunder Minimum . What the precise link between low sunspot activity and cooling temperatures is has not been established, but scientists say that the coincidence of the Maunder Minimum with the deepest trough of the Little Ice Age is highly suggestive of such a connection. Throughout the Little Ice Age the world also experienced heightened volcanic activity. When a volcano erupts, its ash reaches high into the atmosphere and can spread to cover the whole earth. This ash cloud blocks out some of the incoming solar radiation, leading to world-wide cooling that can last up to two years after an eruption. Also emitted by eruptions is sulfur in the form of SO2gas. When this gas reaches the stratosphere it turns into sulfuric acid particles, which reflect the sun's rays, further reducing the amount of radiation reaching the earth's surface. ... "
+2. [... What caused the Little Ice Age?](https://en.wikipedia.org/wiki/Little_Ice_Age) "Scientists have identified two likely suspects: decreased sunspot activity and increased volcanic activity. During the period 1645-1715, right in the middle of the Little Ice Age, solar activity as seen in sunspots was extremely low, with some years having no sunspots at all. This period of low sunspot activity is known as the Maunder Minimum . What the precise link between low sunspot activity and cooling temperatures is has not been established, but scientists say that the coincidence of the Maunder Minimum with the deepest trough of the Little Ice Age is highly suggestive of such a connection. Throughout the Little Ice Age the world also experienced heightened volcanic activity. When a volcano erupts, its ash reaches high into the atmosphere and can spread to cover the whole earth. This ash cloud blocks out some of the incoming solar radiation, leading to world-wide cooling that can last up to two years after an eruption. Also emitted by eruptions is sulfur in the form of SO2gas. When this gas reaches the stratosphere it turns into sulfuric acid particles, which reflect the sun's rays, further reducing the amount of radiation reaching the earth's surface. ... "

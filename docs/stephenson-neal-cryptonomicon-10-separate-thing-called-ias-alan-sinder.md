@@ -21,7 +21,7 @@ This is the [Cryptonomicon](/cryptonomicon) page for the **Institute for Advance
 * TBA
 
 
-### [Wikipedia: Institute for Advanced Study](https://en.wikipedia.org/wiki/institute-for-advanced-study)
+### [Wikipedia: Institute for Advanced Study](https://en.wikipedia.org/wiki/Institute_for_Advanced_Study)
 
 
 The **Institute for Advanced Study** is a private institution in Princeton Township, New Jersey, designed to foster pure cutting-edge research by scientists in a variety of fields without the complications of teaching or funding, or the agendas of sponsorship. It is perhaps best known as the academic home of [Albert Einstein](/albert-einstein) after his immigration to the United States.

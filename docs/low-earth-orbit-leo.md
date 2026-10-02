@@ -51,8 +51,8 @@ Although gravity at the height concerned is by itself not much less than on the 
 
 * [http://en2.wikipedia.org/wiki/Low\_Earth\_orbit](https://en.wikipedia.org/wiki/low_earth_orbit)
 * [http://en2.wikipedia.org/wiki/Weightlessness](https://en.wikipedia.org/wiki/weightlessness)
-* [http://en.wikipedia.org/wiki/Satellite](https://en.wikipedia.org/wiki/satellite)
-* [http://en.wikipedia.org/wiki/Intermediate\_circular\_orbit](https://en.wikipedia.org/wiki/intermediate_circular_orbit)
+* [http://en.wikipedia.org/wiki/Satellite](https://en.wikipedia.org/wiki/Satellite)
+* [http://en.wikipedia.org/wiki/Intermediate\_circular\_orbit](https://en.wikipedia.org/wiki/Medium_Earth_orbit)
 * [http://en2.wikipedia.org/wiki/Geostationary\_orbit](https://en.wikipedia.org/wiki/geostationary_orbit)
 * [photon](https://en.wikipedia.org/wiki/photon)s = the particles of [light](https://en.wikipedia.org/wiki/light)
-* [http://en.wikipedia.org/wiki/Space\_elevator](https://en.wikipedia.org/wiki/space_elevator)
+* [http://en.wikipedia.org/wiki/Space\_elevator](https://en.wikipedia.org/wiki/Space_elevator)

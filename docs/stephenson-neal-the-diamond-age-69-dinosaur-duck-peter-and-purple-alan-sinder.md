@@ -42,4 +42,4 @@ Anyone want to speculate on the identity of 'Purple' or 'Dinosaur?'
 ### External links
 
 
-* **[The Diamond Age](https://en.wikipedia.org/wiki/the-diamond-age)**
+* **[The Diamond Age](https://en.wikipedia.org/wiki/The_Diamond_Age)**

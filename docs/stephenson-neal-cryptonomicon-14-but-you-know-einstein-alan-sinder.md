@@ -75,7 +75,7 @@ The first article in 1905, named "On the Motion - Required by the Molecular Kine
 
 Before this paper, atoms were recognized as a useful concept, but physicists and chemists hotly debated the question of whether atoms were real things. Einstein's statistical discussion of atomic behavior gave experimentalists a way to count atoms by looking through an ordinary microscope. Wilhelm Ostwald, one of the leaders of the anti-atom school, later told Arnold Sommerfeld that he had been converted to a belief in atoms by Einstein's complete explanation of Brownian motion.
 
-#### [Photoelectric effect](https://en.wikipedia.org/wiki/photoelectric-effect)
+#### [Photoelectric effect](https://en.wikipedia.org/wiki/Photoelectric_effect)
 
 The second paper, named "On a Heuristic Viewpoint Concerning the Production and Transformation of Light", proposed the idea of "light quanta" (now called photons) and showed how they could be used to explain such phenomena as the photoelectric effect. The idea of light quanta was motivated by Max Planck's earlier derivation of the law of blackbody radiation by assuming that luminous energy could only be absorbed or emitted in discrete amounts, called quanta. Einstein showed that, by assuming that light actually consisted of discrete packets, he could explain the mysterious photoelectric effect. 
 
@@ -83,11 +83,11 @@ The idea of light quanta contradicted the wave theory of light that followed nat
 
 The theory of light quanta was a strong indication of wave-particle duality, the concept that physical systems can display both wave-like and particle-like properties, and that was used as a fundamental principle by the creators of quantum mechanics. A complete picture of the photoelectric effect was only obtained after the maturity of quantum mechanics. 
 
-#### [Special relativity](https://en.wikipedia.org/wiki/special-relativity)
+#### [Special relativity](https://en.wikipedia.org/wiki/Special_relativity)
 
-Einstein's third paper that year was called "On the Electrodynamics of Moving Bodies". While developing this paper, Einstein wrote to Mileva about "our work on relative motion". This paper introduced the special theory of relativity, a theory of time, distance, mass and energy (which was consistent with electromagnetism, but omitted the force of gravity). Special relativity solved the puzzle that had been apparent since the Michelson-Morley experiment, which had shown that light waves could not be travelling through any medium (other known waves travelled through media - such as water or air). The speed of light was thus fixed, and not relative to the movement of the observer. This was impossible under [Newtonian](/isaac-newton) [classical mechanics](https://en.wikipedia.org/wiki/classical-mechanics). 
+Einstein's third paper that year was called "On the Electrodynamics of Moving Bodies". While developing this paper, Einstein wrote to Mileva about "our work on relative motion". This paper introduced the special theory of relativity, a theory of time, distance, mass and energy (which was consistent with electromagnetism, but omitted the force of gravity). Special relativity solved the puzzle that had been apparent since the Michelson-Morley experiment, which had shown that light waves could not be travelling through any medium (other known waves travelled through media - such as water or air). The speed of light was thus fixed, and not relative to the movement of the observer. This was impossible under [Newtonian](/isaac-newton) [classical mechanics](https://en.wikipedia.org/wiki/Classical_mechanics). 
 
-Some of the paper's core mathematical ideas -- the [Lorentz transforms](https://en.wikipedia.org/wiki/lorentz-transformation) -- had been introduced a year earlier by the Dutch physicist [Hendrik Lorentz](https://en.wikipedia.org/wiki/hendrik-lorentz), but Einstein showed how to understand these mathematical oddities. His explanation arose from two axioms: one was Galileo's old idea that the laws of nature should be the same for all observers that move with constant speed relative to each other; and the other was that the speed of light is the same for every observer. Special relativity had several striking consequences because the absolute concepts of time and size are rejected. The theory came to be called the "special theory of relativity" to distinguish it from his later theory of general relativity, which considers all observers to be equivalent.
+Some of the paper's core mathematical ideas -- the [Lorentz transforms](https://en.wikipedia.org/wiki/Lorentz_transformation) -- had been introduced a year earlier by the Dutch physicist [Hendrik Lorentz](https://en.wikipedia.org/wiki/Hendrik_Lorentz), but Einstein showed how to understand these mathematical oddities. His explanation arose from two axioms: one was Galileo's old idea that the laws of nature should be the same for all observers that move with constant speed relative to each other; and the other was that the speed of light is the same for every observer. Special relativity had several striking consequences because the absolute concepts of time and size are rejected. The theory came to be called the "special theory of relativity" to distinguish it from his later theory of general relativity, which considers all observers to be equivalent.
 
 #### Energy equivalency
 
@@ -107,7 +107,7 @@ In 1914, just before the start of World War I, Einstein settled in Berlin. His p
 
 From 1914 to 1933 he served as director of Kaiser Wilhelm Institute for Physics in Berlin, and it was during this time he received his Nobel Prize.
 
-#### [General relativity](https://en.wikipedia.org/wiki/general-relativity)
+#### [General relativity](https://en.wikipedia.org/wiki/General_relativity)
 
 In November 1915, Einstein presented a series of lectures before the Prussian Academy of Sciences in which he described his theory of general relativity. The final lecture climaxed with his introduction of an equation that replaced Newton's law of gravity. This theory considered all observers to be equivalent, not only those moving at a uniform speed. In general relativity, gravity is no longer a force (as it was in Newton's law of gravity) but is a consequence of the curvature of space-time. The theory provided the foundation for the study of cosmology and gave scientists the tools for understanding many features of the universe that were not discovered until well after Einstein's death. General relativity becomes a method of perceiving all of physics. 
 
@@ -158,7 +158,7 @@ He died at Princeton in 1955, leaving the Generalized Theory of Gravitation unso
 
 #### Political views
 
-Einstein considered himself a pacifist [[4]](http://www.amnh.org/exhibitions-einstein-peace-index.php) and humanitarian [[5]](http://www.amnh.org/exhibitions-einstein-global-index.php). Einstein's views on other issues, including socialism, McCarthyism and racism, were controversial. ([Einstein on socialism](https://en.wikipedia.org/wiki/einstein-on-socialism)) 
+Einstein considered himself a pacifist [[4]](http://www.amnh.org/exhibitions-einstein-peace-index.php) and humanitarian [[5]](http://www.amnh.org/exhibitions-einstein-global-index.php). Einstein's views on other issues, including socialism, McCarthyism and racism, were controversial. ([Einstein on socialism](https://en.wikipedia.org/wiki/Political_views_of_Albert_Einstein#Socialism)) 
 
 The American FBI kept a 1,427 page file on his activities and recommended that he be barred from immigrating to the United States under the Alien Exclusion Act, alleging that Einstein "believes in, advises, advocates, or teaches a doctrine which, in a legal sense, as held by the courts in other cases, 'would allow [anarchy](/anarchy) to stalk in unmolested' and result in 'government in name only'," among other charges. 
 
@@ -236,7 +236,7 @@ Albert Einstein has become the subject of a number of novels, films and plays in
 ### Quotes
 
 We should take care not to make the intellect our god; it has, of course, powerful muscles, but no personality.
-* Albert Einstein [Quotations](https://quote.wikipedia.org/wiki/albert-einstein) (Wikiquote)
+* Albert Einstein [Quotations](https://en.wikiquote.org/wiki/Albert_Einstein) (Wikiquote)
 * [Albert Einstein's Famous Quotes](http://www.thinkexist.com/english-author-x-author-1082-1.htm)
 * Albert Einstein: [Famous Quotes](http://www.some.guy.com/quotes-einstein.html)
 

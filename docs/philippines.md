@@ -35,7 +35,7 @@ It is this systematic destruction that likely fascinates [Avi](/avi-halaby) -- a
 
 
 The **Republic of the Philippines**
-**P** is an [island](https://en.wikipedia.org/wiki/island) nation consisting of an [archipelago](https://en.wikipedia.org/wiki/archipelago) of 7,109 islands lying in the [tropical](https://en.wikipedia.org/wiki/tropics) western [Pacific Ocean](https://en.wikipedia.org/wiki/pacific-ocean) about 100 kilometers southeast of mainland [Asia](https://en.wikipedia.org/wiki/asian). The country is the only predominantly [Catholic](https://en.wikipedia.org/wiki/catholicism) nation in Asia and one of the most westernized. [Spain](https://en.wikipedia.org/wiki/spain) and the [United States](https://en.wikipedia.org/wiki/united-states), who have both colonized the country, have been the two biggest influences on Philippine culture—a unique a blend of Asia and the West.
+**P** is an [island](https://en.wikipedia.org/wiki/island) nation consisting of an [archipelago](https://en.wikipedia.org/wiki/archipelago) of 7,109 islands lying in the [tropical](https://en.wikipedia.org/wiki/tropics) western [Pacific Ocean](https://en.wikipedia.org/wiki/Pacific_Ocean) about 100 kilometers southeast of mainland [Asia](https://en.wikipedia.org/wiki/asian). The country is the only predominantly [Catholic](https://en.wikipedia.org/wiki/catholicism) nation in Asia and one of the most westernized. [Spain](https://en.wikipedia.org/wiki/spain) and the [United States](https://en.wikipedia.org/wiki/United_States), who have both colonized the country, have been the two biggest influences on Philippine culture—a unique a blend of Asia and the West.
 
 
 
@@ -44,69 +44,69 @@ The **Republic of the Philippines**
 |  |  |
 | --- | --- |
 | 125px-Philippines_flag_large.png | Philippine_coat-of-arms.png |
-| ([In Detail](https://en.wikipedia.org/wiki/flag-of-the-philippines)) | ([In Detail](https://en.wikipedia.org/wiki/coat-of-arms-of-the-philippines)) |
+| ([In Detail](https://en.wikipedia.org/wiki/Flag_of_the_Philippines)) | ([In Detail](https://en.wikipedia.org/wiki/Coat_of_arms_of_the_Philippines)) |
 
  |
 | *National [motto](https://en.wikipedia.org/wiki/motto):* Maka-Diyos, Maka-Tao, Makakalikasan at Makabansa
 ([Filipino](https://en.wikipedia.org/wiki/filipino-language): “For Love of God, People, Nature and Country”) |
 | LocationPhilippines.png |
-| [Official languages](https://en.wikipedia.org/wiki/official-language): | [Filipino](https://en.wikipedia.org/wiki/filipino-language) and [English](https://en.wikipedia.org/wiki/english-language) |
+| [Official languages](https://en.wikipedia.org/wiki/Official_language): | [Filipino](https://en.wikipedia.org/wiki/filipino-language) and [English](https://en.wikipedia.org/wiki/english-language) |
 | [Capital](https://en.wikipedia.org/wiki/capital): | [Manila](https://en.wikipedia.org/wiki/manila) |
-| Largest City: | [Quezon City](https://en.wikipedia.org/wiki/quezon-city) |
-| [President](https://en.wikipedia.org/wiki/president-of-the-philippines): | [Gloria Macapagal-Arroyo](https://en.wikipedia.org/wiki/gloria-macapagal-arroyo) |
-| [Area](https://en.wikipedia.org/wiki/area) - Total:  - % water: | [Ranked 70th](https://en.wikipedia.org/wiki/list-of-countries-by-area)  300,000 km² 0.6%  |
+| Largest City: | [Quezon City](https://en.wikipedia.org/wiki/Quezon_City) |
+| [President](https://en.wikipedia.org/wiki/President_of_the_Philippines): | [Gloria Macapagal-Arroyo](https://en.wikipedia.org/wiki/Gloria_Macapagal_Arroyo) |
+| [Area](https://en.wikipedia.org/wiki/area) - Total:  - % water: | [Ranked 70th](https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area)  300,000 km² 0.6%  |
 | [Population](https://en.wikipedia.org/wiki/population)
  - Total ([[2000]): 
- - [Density](https://en.wikipedia.org/wiki/population-density):  | [Ranked 13th](https://en.wikipedia.org/wiki/list-of-countries-by-population)
+ - [Density](https://en.wikipedia.org/wiki/Population_density):  | [Ranked 13th](https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population)
  82,841,518
  276/km² |
 | Independence  | Declared: June 12, 1898
 Recognized: July 4, 1946  |
 | [Currency](https://en.wikipedia.org/wiki/currency) | 1 [Peso peso](https://en.wikipedia.org/wiki/philippine) (*piso*) = 100 centavos (*sentimo*).
-*[ISO 4217](https://en.wikipedia.org/wiki/iso-4217) code*—PHP. |
+*[ISO 4217](https://en.wikipedia.org/wiki/ISO_4217) code*—PHP. |
 | [Time zone](https://en.wikipedia.org/wiki/time-zone):  | [UTC](https://en.wikipedia.org/wiki/utc) +8 |
-| [Anthem](https://en.wikipedia.org/wiki/nationa-anthem):  | [Lupang Hinirang](https://en.wikipedia.org/wiki/lupang-hirirang) (Beloved Land) |
-| [Internet TLD](https://en.wikipedia.org/wiki/top-level-domain): | .PH |
-| [Calling Code](https://en.wikipedia.org/wiki/list-of-country-calling-codes) | 63 |
+| [Anthem](https://en.wikipedia.org/wiki/Anthem):  | [Lupang Hinirang](https://en.wikipedia.org/wiki/Lupang_Hinirang) (Beloved Land) |
+| [Internet TLD](https://en.wikipedia.org/wiki/Top-level_domain): | .PH |
+| [Calling Code](https://en.wikipedia.org/wiki/List_of_telephone_country_codes) | 63 |
 
 
 
-The Philippines used to be the most developed country in Asia following [World War II](https://en.wikipedia.org/wiki/world-war-ii), but has lagged behind other countries because of poor economic growth and a widespread perception of **[corruption](https://en.wikipedia.org/wiki/corruption)**. Currently, the country enjoys a moderate economic growth, buoyed by remittances by its large overseas Filipino workforce and increased investments due to a fast-developing [Information Technology](https://en.wikipedia.org/wiki/information-technology) industry and cheap labor in other sectors. The country's major problems are a significant [Muslim](https://en.wikipedia.org/wiki/muslim) separatist movement in [Mindanao](https://en.wikipedia.org/wiki/mindanao) and the ongoing problem of corruption in the government.
+The Philippines used to be the most developed country in Asia following [World War II](https://en.wikipedia.org/wiki/World_War_II), but has lagged behind other countries because of poor economic growth and a widespread perception of **[corruption](https://en.wikipedia.org/wiki/corruption)**. Currently, the country enjoys a moderate economic growth, buoyed by remittances by its large overseas Filipino workforce and increased investments due to a fast-developing [Information Technology](https://en.wikipedia.org/wiki/Information_technology) industry and cheap labor in other sectors. The country's major problems are a significant [Muslim](https://en.wikipedia.org/wiki/muslim) separatist movement in [Mindanao](https://en.wikipedia.org/wiki/mindanao) and the ongoing problem of corruption in the government.
 
-The Philippine Islands lie between 116° 40' and 126° and 34' E. longtitude, and 4° 40' and 21° 10' N. latitude. It is bordered on the east by the [Philippine Sea](https://en.wikipedia.org/wiki/phillppine-sea), on the west by the [South China Sea](https://en.wikipedia.org/wiki/south-china-sea), and on the south by the [Celebes Sea](https://en.wikipedia.org/wiki/celebes-sea). To the south are found the [Moluccas](https://en.wikipedia.org/wiki/moluccas) and [Celebes](https://en.wikipedia.org/wiki/celebes) in [Indonesia](https://en.wikipedia.org/wiki/indonesia), to the southwest is the [Malaysian](https://en.wikipedia.org/wiki/malaysia) part of [Borneo](https://en.wikipedia.org/wiki/borneo), to the east at 7.5° N. latitude, on the eastern side of the Philippine Sea is [Palau](https://en.wikipedia.org/wiki/palau) and directly north is [Taiwan](https://en.wikipedia.org/wiki/taiwan).
+The Philippine Islands lie between 116° 40' and 126° and 34' E. longtitude, and 4° 40' and 21° 10' N. latitude. It is bordered on the east by the [Philippine Sea](https://en.wikipedia.org/wiki/Philippine_Sea), on the west by the [South China Sea](https://en.wikipedia.org/wiki/South_China_Sea), and on the south by the [Celebes Sea](https://en.wikipedia.org/wiki/Celebes_Sea). To the south are found the [Moluccas](https://en.wikipedia.org/wiki/moluccas) and [Celebes](https://en.wikipedia.org/wiki/celebes) in [Indonesia](https://en.wikipedia.org/wiki/indonesia), to the southwest is the [Malaysian](https://en.wikipedia.org/wiki/malaysia) part of [Borneo](https://en.wikipedia.org/wiki/borneo), to the east at 7.5° N. latitude, on the eastern side of the Philippine Sea is [Palau](https://en.wikipedia.org/wiki/palau) and directly north is [Taiwan](https://en.wikipedia.org/wiki/taiwan).
 
-### [History of the Philippines](https://en.wikipedia.org/wiki/history-of-the-phillippines)
-
-
-
-The Philippines had been home to a greatly diverse population, trading with [China](https://en.wikipedia.org/wiki/china) and the [Indonesian](https://en.wikipedia.org/wiki/indonesia) archipelago for many centuries when the first [Europeans](https://en.wikipedia.org/wiki/europe) arrived, led by [Ferdinand Magellan](https://en.wikipedia.org/wiki/ferdinand-magellan), in 1521. The [Spanish](https://en.wikipedia.org/wiki/spain) claimed and colonized the islands and named it after [Philip II](https://en.wikipedia.org/wiki/philip-ii-of-spain). [Catholicism](https://en.wikipedia.org/wiki/catholicism) was *forcibly* introduced into the islands, although unsuccessfully in [Mindanao](https://en.wikipedia.org/wiki/mindanao), while trade was mostly with [New Spain](https://en.wikipedia.org/wiki/new-spain) ([Mexico](https://en.wikipedia.org/wiki/mexico)) across the Pacific.
-
-The country opened up during the [19th century](https://en.wikipedia.org/wiki/19th-century) with the rise of a Filipino middle class whose sons studied in Europe and enlightened Filipinos through the [Propaganda Movement](https://en.wikipedia.org/wiki/josé-rizal-impact) to the injustices of the Spanish colonial government. [José Rizal](https://en.wikipedia.org/wiki/josé-rizal), the most famous propagandist, was arrested and executed in 1896 by the Spanish government for acts of subversion. Soon after, the [Philippine Revolution](https://en.wikipedia.org/wiki/philippine-revolution) broke out, pioneered by the [Katipunan](https://en.wikipedia.org/wiki/katipunan), a secret revolutionary society founded by [Andres Bonifacio](https://en.wikipedia.org/wiki/andres-bonifacio) and later led by [Emilio Aguinaldo](https://en.wikipedia.org/wiki/emilio-aguinaldo). The revolution nearly succeeded in ousting the Spanish by 1898.
-
-That year Spain and the United States fought the [Spanish-American War](https://en.wikipedia.org/wiki/spanish-american-war), after which Spain sold the Philippine Islands to the United States. The Filipinos had by then declared independence and the subsequent assertion of American control led to the [Philippine-American War](https://en.wikipedia.org/wiki/philippine-american-war) that ended in 1913. Independence was finally granted in 1946, after the [Japanese](https://en.wikipedia.org/wiki/japan) had occupied the islands during [World War II](https://en.wikipedia.org/wiki/world-war-ii). The following period was marred by post-war problems; civil unrest during the unpopular [dictatorship](https://en.wikipedia.org/wiki/dictator) of [Ferdinand Marcos](https://en.wikipedia.org/wiki/ferdinand-marcos), ousted in 1986; and later, an increasing problem of [Muslim](/islam) separatists in Mindanao.
-
-### [Politics of the Philippines](https://en.wikipedia.org/wiki/politics-of-the-philippines)
+### [History of the Philippines](https://en.wikipedia.org/wiki/History_of_the_Philippines)
 
 
-**National Government**: The government of the Philippines, loosely patterned after the [American system](https://en.wikipedia.org/wiki/government-of-the-united-states), is organized as a [representative republic](https://en.wikipedia.org/wiki/republic), with the [president](https://en.wikipedia.org/wiki/president) functioning as both [head of state](https://en.wikipedia.org/wiki/head-of-state) and [government](https://en.wikipedia.org/wiki/head-of-government), as well as being the commander-in-chief of the [armed forces](https://en.wikipedia.org/wiki/military-of-the-philippines). The president is elected by popular vote to a term of 6 years, during which he or she appoints and presides over the [cabinet](https://en.wikipedia.org/wiki/cabinet).
 
-The bicameral Philippine [legislature](https://en.wikipedia.org/wiki/legislature), the [Congress](https://en.wikipedia.org/wiki/congress-of-the-philippines), consists of the [Senate](https://en.wikipedia.org/wiki/senate-of-the-philippines) and the [House of Representatives](https://en.wikipedia.org/wiki/house-of-representatives-of-the-philippines); members of both are elected by popular vote. There are 24 senators serving 6 years in the Senate while the House of Representatives consists of no more than 250 congressmen each serving 3-year terms. 
+The Philippines had been home to a greatly diverse population, trading with [China](https://en.wikipedia.org/wiki/china) and the [Indonesian](https://en.wikipedia.org/wiki/indonesia) archipelago for many centuries when the first [Europeans](https://en.wikipedia.org/wiki/europe) arrived, led by [Ferdinand Magellan](https://en.wikipedia.org/wiki/Ferdinand_Magellan), in 1521. The [Spanish](https://en.wikipedia.org/wiki/spain) claimed and colonized the islands and named it after [Philip II](https://en.wikipedia.org/wiki/Philip_II_of_Spain). [Catholicism](https://en.wikipedia.org/wiki/catholicism) was *forcibly* introduced into the islands, although unsuccessfully in [Mindanao](https://en.wikipedia.org/wiki/mindanao), while trade was mostly with [New Spain](https://en.wikipedia.org/wiki/New_Spain) ([Mexico](https://en.wikipedia.org/wiki/mexico)) across the Pacific.
 
-The judiciary branch of the government is headed by the [Supreme Court](https://en.wikipedia.org/wiki/supreme-court-of-the-philippines), which has a Chief Justice as its head and 14 Associate Justices, all appointed by the president.
+The country opened up during the [19th century](https://en.wikipedia.org/wiki/19th-century) with the rise of a Filipino middle class whose sons studied in Europe and enlightened Filipinos through the [Propaganda Movement](https://en.wikipedia.org/wiki/josé-rizal-impact) to the injustices of the Spanish colonial government. [José Rizal](https://en.wikipedia.org/wiki/José_Rizal), the most famous propagandist, was arrested and executed in 1896 by the Spanish government for acts of subversion. Soon after, the [Philippine Revolution](https://en.wikipedia.org/wiki/Philippine_Revolution) broke out, pioneered by the [Katipunan](https://en.wikipedia.org/wiki/katipunan), a secret revolutionary society founded by [Andres Bonifacio](https://en.wikipedia.org/wiki/Andrés_Bonifacio) and later led by [Emilio Aguinaldo](https://en.wikipedia.org/wiki/Emilio_Aguinaldo). The revolution nearly succeeded in ousting the Spanish by 1898.
 
-**International Relations**: The Philippines is a prominent member of the [Association of Southeast Asian Nations](https://en.wikipedia.org/wiki/association-of-southeast-asian-nations) (ASEAN), being one of the founding members. The nation is also an active participant of the [Asia-Pacific Economic Cooperation](https://en.wikipedia.org/wiki/asia-pacific-economic-cooperation) (APEC), a member of the [Group of 24](https://en.wikipedia.org/wiki/group-of-24) and one of the 51 founding members of the [United Nations](https://en.wikipedia.org/wiki/united-nations) on October 24, 1945.
+That year Spain and the United States fought the [Spanish-American War](https://en.wikipedia.org/wiki/Spanish–American_War), after which Spain sold the Philippine Islands to the United States. The Filipinos had by then declared independence and the subsequent assertion of American control led to the [Philippine-American War](https://en.wikipedia.org/wiki/Philippine–American_War) that ended in 1913. Independence was finally granted in 1946, after the [Japanese](https://en.wikipedia.org/wiki/japan) had occupied the islands during [World War II](https://en.wikipedia.org/wiki/World_War_II). The following period was marred by post-war problems; civil unrest during the unpopular [dictatorship](https://en.wikipedia.org/wiki/dictator) of [Ferdinand Marcos](https://en.wikipedia.org/wiki/Ferdinand_Marcos), ousted in 1986; and later, an increasing problem of [Muslim](/islam) separatists in Mindanao.
 
-### [Regions](https://en.wikipedia.org/wiki/regions-of-the-philippines) and [Provinces](https://en.wikipedia.org/wiki/provinces-of-the-philippines)
+### [Politics of the Philippines](https://en.wikipedia.org/wiki/Politics_of_the_Philippines)
+
+
+**National Government**: The government of the Philippines, loosely patterned after the [American system](https://en.wikipedia.org/wiki/Federal_government_of_the_United_States), is organized as a [representative republic](https://en.wikipedia.org/wiki/republic), with the [president](https://en.wikipedia.org/wiki/president) functioning as both [head of state](https://en.wikipedia.org/wiki/head-of-state) and [government](https://en.wikipedia.org/wiki/head-of-government), as well as being the commander-in-chief of the [armed forces](https://en.wikipedia.org/wiki/Armed_Forces_of_the_Philippines). The president is elected by popular vote to a term of 6 years, during which he or she appoints and presides over the [cabinet](https://en.wikipedia.org/wiki/cabinet).
+
+The bicameral Philippine [legislature](https://en.wikipedia.org/wiki/legislature), the [Congress](https://en.wikipedia.org/wiki/Congress_of_the_Philippines), consists of the [Senate](https://en.wikipedia.org/wiki/Senate_of_the_Philippines) and the [House of Representatives](https://en.wikipedia.org/wiki/House_of_Representatives_of_the_Philippines); members of both are elected by popular vote. There are 24 senators serving 6 years in the Senate while the House of Representatives consists of no more than 250 congressmen each serving 3-year terms. 
+
+The judiciary branch of the government is headed by the [Supreme Court](https://en.wikipedia.org/wiki/Supreme_Court_of_the_Philippines), which has a Chief Justice as its head and 14 Associate Justices, all appointed by the president.
+
+**International Relations**: The Philippines is a prominent member of the [Association of Southeast Asian Nations](https://en.wikipedia.org/wiki/ASEAN) (ASEAN), being one of the founding members. The nation is also an active participant of the [Asia-Pacific Economic Cooperation](https://en.wikipedia.org/wiki/Asia-Pacific_Economic_Cooperation) (APEC), a member of the [Group of 24](https://en.wikipedia.org/wiki/Group_of_24) and one of the 51 founding members of the [United Nations](https://en.wikipedia.org/wiki/United_Nations) on October 24, 1945.
+
+### [Regions](https://en.wikipedia.org/wiki/Regions_of_the_Philippines) and [Provinces](https://en.wikipedia.org/wiki/Provinces_of_the_Philippines)
 
 
 
 ![Ph_general_map.png](/images/Ph_general_map.png)
 
-**Local Government**: The Philippines is divided into a hierarchy of local government units (LGUs) with the [province](https://en.wikipedia.org/wiki/provinces-of-the-philippines) as the primary unit. As of 2002, there are 79 provinces in the country. Provinces are further subdivided into [cities](https://en.wikipedia.org/wiki/cities-of-the-philippines) and [municipalities](https://en.wikipedia.org/wiki/philippine-municipality), which are in turn, composed of [barangays](https://en.wikipedia.org/wiki/barangay). The barangay is the smallest local government unit.
+**Local Government**: The Philippines is divided into a hierarchy of local government units (LGUs) with the [province](https://en.wikipedia.org/wiki/Provinces_of_the_Philippines) as the primary unit. As of 2002, there are 79 provinces in the country. Provinces are further subdivided into [cities](https://en.wikipedia.org/wiki/Cities_of_the_Philippines) and [municipalities](https://en.wikipedia.org/wiki/Municipalities_of_the_Philippines), which are in turn, composed of [barangays](https://en.wikipedia.org/wiki/barangay). The barangay is the smallest local government unit.
 
-All provinces are grouped into 17 [regions](https://en.wikipedia.org/wiki/regions-of-the-philippines) for administrative convenience. Most government offices establish regional offices to serve the constituent provinces. The regions themselves do not possess a separate local government, with the exception of the [Muslim Mindanao](https://en.wikipedia.org/wiki/autonomous-region-in-muslim-mindanao) and [Cordillera](https://en.wikipedia.org/wiki/cordillera-administrative-region) regions, which are autonomous.
+All provinces are grouped into 17 [regions](https://en.wikipedia.org/wiki/Regions_of_the_Philippines) for administrative convenience. Most government offices establish regional offices to serve the constituent provinces. The regions themselves do not possess a separate local government, with the exception of the [Muslim Mindanao](https://en.wikipedia.org/wiki/Autonomous_Region_in_Muslim_Mindanao) and [Cordillera](https://en.wikipedia.org/wiki/Cordillera_Administrative_Region) regions, which are autonomous.
 
-See the articles on the [regions](https://en.wikipedia.org/wiki/regions-of-the-philippines) and [provinces](https://en.wikipedia.org/wiki/provinces-of-the-philippine) to see a larger map showing the locations of the regions and provinces.
+See the articles on the [regions](https://en.wikipedia.org/wiki/Regions_of_the_Philippines) and [provinces](https://en.wikipedia.org/wiki/provinces-of-the-philippine) to see a larger map showing the locations of the regions and provinces.
 
 #### Regions
 
@@ -132,30 +132,30 @@ See the articles on the [regions](https://en.wikipedia.org/wiki/regions-of-the-p
 
 ¹ Names are capitalised because they are acronyms , containing the names of the constituent provinces or cities (see Acronyms in the Philippines ). 
 
-### [Geography of the Philippines](https://en.wikipedia.org/wiki/geography-of-the-philippines)
+### [Geography of the Philippines](https://en.wikipedia.org/wiki/Geography_of_the_Philippines)
 
 
 The Philippines constitute an [archipelago](https://en.wikipedia.org/wiki/archipelago) of 7,107 islands with a total land area of approximately 300,000 km². The islands are commonly divided into three groups: [Luzon](https://en.wikipedia.org/wiki/luzon) (Regions I to V + NCR & CAR), Visayas (VI to VIII), and Mindanao (IX to XIII + ARMM). The busy port of Manila, on Luzon, is the country's capital and second-largest city after Quezon City.
 
 The local [climate](https://en.wikipedia.org/wiki/climate) is hot, humid, and tropical. The average yearly temperature is around 26.5° Celsius. Filipinos generally recognise three seasons: *Tag-init* or *Tag-araw* (the hot season or summer from March to May), *Tag-ulan* (the rainy season from June to November), and *Tag-lamig* (the cold season from December to February).
 
-Most of the mountainous islands used to be covered in tropical [rainforests](https://en.wikipedia.org/wiki/rainforest) and are volcanic in origin. The highest point is [Mount Apo](https://en.wikipedia.org/wiki/mount-apo) on Mindanao at 2,954 m. Many [volcanoes](https://en.wikipedia.org/wiki/volcano) in the country, such as [Mount Pinatubo](https://en.wikipedia.org/wiki/mount-pinatubo), are active. The country is also astride the [typhoon](https://en.wikipedia.org/wiki/hurricane) belt of the Western Pacific and is struck by about 19 typhoons per year.
+Most of the mountainous islands used to be covered in tropical [rainforests](https://en.wikipedia.org/wiki/rainforest) and are volcanic in origin. The highest point is [Mount Apo](https://en.wikipedia.org/wiki/Mount_Apo) on Mindanao at 2,954 m. Many [volcanoes](https://en.wikipedia.org/wiki/volcano) in the country, such as [Mount Pinatubo](https://en.wikipedia.org/wiki/Mount_Pinatubo), are active. The country is also astride the [typhoon](https://en.wikipedia.org/wiki/hurricane) belt of the Western Pacific and is struck by about 19 typhoons per year.
 
-### [Economy of the Philippines](https://en.wikipedia.org/wiki/economy-of-the-philippines)
+### [Economy of the Philippines](https://en.wikipedia.org/wiki/Economy_of_the_Philippines)
 
 
-In 1998 the Philippine economy - a mixture of [agriculture](https://en.wikipedia.org/wiki/agriculture), light industry, and supporting services - deteriorated as a result of spillover from the [Asian financial crisis](https://en.wikipedia.org/wiki/asian-financial-crisis) and poor weather conditions. Growth fell to 0.6% in 1998 from 5% in 1997, but recovered to about 3% in 1999 and 4% in 2000. The government has promised to continue its economic reforms to help the Philippines match the pace of development in the newly industrialised countries of [East Asia](https://en.wikipedia.org/wiki/east-asia). 
+In 1998 the Philippine economy - a mixture of [agriculture](https://en.wikipedia.org/wiki/agriculture), light industry, and supporting services - deteriorated as a result of spillover from the [Asian financial crisis](https://en.wikipedia.org/wiki/1997_Asian_financial_crisis) and poor weather conditions. Growth fell to 0.6% in 1998 from 5% in 1997, but recovered to about 3% in 1999 and 4% in 2000. The government has promised to continue its economic reforms to help the Philippines match the pace of development in the newly industrialised countries of [East Asia](https://en.wikipedia.org/wiki/East_Asia). 
 
 The strategy includes improving [infrastructure](https://en.wikipedia.org/wiki/infrastructure), overhauling the [tax](https://en.wikipedia.org/wiki/tax) system to bolster government revenues, furthering deregulation and [privatisation](https://en.wikipedia.org/wiki/privatisation) of the economy, and increasing trade integration with the region. Prospects for the future depend heavily on the economic performance of the two major trading partners, the United States and Japan.
 
-### [Demographics of the Philippines](https://en.wikipedia.org/wiki/demographics-of-the-philippines)
+### [Demographics of the Philippines](https://en.wikipedia.org/wiki/Demographics_of_the_Philippines)
 
 
-The people of the Philippines are called *Filipinos*. They live a culture that is a blend of [Asian](https://en.wikipedia.org/wiki/asia), [Islamic](/islam), and [Western](https://en.wikipedia.org/wiki/western-society) cultures. Over 95% of the population is ethnically [Malay](https://en.wikipedia.org/wiki/malay-people), descendants of immigrants from the Indonesian archipelago, and the most significant ethnic minority group are the [Chinese](https://en.wikipedia.org/wiki/ethnic-chinese), who have played an important role in commerce since the 9th century. [Mestizos](https://en.wikipedia.org/wiki/mestizo) form a tiny but economically and politically important minority. Small forest tribes live in the more remote areas of Mindanao.
+The people of the Philippines are called *Filipinos*. They live a culture that is a blend of [Asian](https://en.wikipedia.org/wiki/asia), [Islamic](/islam), and [Western](https://en.wikipedia.org/wiki/Western_world) cultures. Over 95% of the population is ethnically [Malay](https://en.wikipedia.org/wiki/Malays_%28ethnic_group%29), descendants of immigrants from the Indonesian archipelago, and the most significant ethnic minority group are the [Chinese](https://en.wikipedia.org/wiki/Ethnic_Chinese), who have played an important role in commerce since the 9th century. [Mestizos](https://en.wikipedia.org/wiki/mestizo) form a tiny but economically and politically important minority. Small forest tribes live in the more remote areas of Mindanao.
 
 The vast majority of the people are [Christians](/christianity) ([Catholic](https://en.wikipedia.org/wiki/roman-catholic) 83%, [Protestant](https://en.wikipedia.org/wiki/protestant) 9%) and most were converted and Westernised to varying degrees during nearly 400 years of Western rule. A large [Muslim](/islam) minority (5%) exists predominantly on the island of Mindanao and [Buddhism](https://en.wikipedia.org/wiki/buddhism) and other faiths make up the remainder.
 
-A total of one hundred seventy-two native languages and dialects are spoken, all belonging to the [Austronesian linguistic family](https://en.wikipedia.org/wiki/austronesian-languages). Foreign languages spoken include [English](https://en.wikipedia.org/wiki/english-language), [Chinese](https://en.wikipedia.org/wiki/chinese-language) ([Mandarin](https://en.wikipedia.org/wiki/mandarin-linguistics) and [Hokkien](https://en.wikipedia.org/wiki/hokkien-dialect)), [Arabic](https://en.wikipedia.org/wiki/arabic-language) (especially among the Muslim population), and [Spanish](https://en.wikipedia.org/wiki/spanish-language) (with its local [creole](https://en.wikipedia.org/wiki/creole-language), [Chavacano](https://en.wikipedia.org/wiki/chavacano)).
+A total of one hundred seventy-two native languages and dialects are spoken, all belonging to the [Austronesian linguistic family](https://en.wikipedia.org/wiki/Austronesian_languages). Foreign languages spoken include [English](https://en.wikipedia.org/wiki/english-language), [Chinese](https://en.wikipedia.org/wiki/chinese-language) ([Mandarin](https://en.wikipedia.org/wiki/Mandarin_Chinese) and [Hokkien](https://en.wikipedia.org/wiki/Hokkien)), [Arabic](https://en.wikipedia.org/wiki/arabic-language) (especially among the Muslim population), and [Spanish](https://en.wikipedia.org/wiki/spanish-language) (with its local [creole](https://en.wikipedia.org/wiki/Creole_language), [Chavacano](https://en.wikipedia.org/wiki/chavacano)).
 
 Since 1939, in an effort to develop national unity, the government has promoted the use of the official national language, Filipino, which is based on [Tagalog](https://en.wikipedia.org/wiki/tagalog). Filipino is taught in all schools and is gaining acceptance, particularly as a second language for a diverse population. English is seen as the second official language and is used extensively in government, education and commerce.
 
@@ -282,7 +282,7 @@ The other attack force fell on a group of escort carriers, designed for anti-sub
 
 The Battle of Leyte Gulf saw the first use of [Kamikaze](https://en.wikipedia.org/wiki/kamikaze) aircraft by the Japanese. Having defended the landing force against the air and naval challenge, the way was opened for the reconquest of Leyte by the land forces under the command of **General [Douglas MacArthur](/douglas-macarthur)**. Under the protection of massed naval forces General Walter Krueger 's United States Sixth Army and supporting forces made amphibious landings on the east coast and, after heavy fighting, were able to secure the island. The US Army suffered over 3,500 casualties, the defending Japanese more than 55,000. 
 
-The battles entailed long fierce fighting; some of the Japanese continued to fight until the official surrender of the Empire of Japan on September 2, 1945. The final Japanese soilder to surrender was [Hiroo Onoda](https://en.wikipedia.org/wiki/hiroo-onoda), in 1974. Over a million Filipinos had been killed in the war, and many towns and cities, including Manila, were left in ruins.
+The battles entailed long fierce fighting; some of the Japanese continued to fight until the official surrender of the Empire of Japan on September 2, 1945. The final Japanese soilder to surrender was [Hiroo Onoda](https://en.wikipedia.org/wiki/Hiroo_Onoda), in 1974. Over a million Filipinos had been killed in the war, and many towns and cities, including Manila, were left in ruins.
 
 ### Related entries
 
@@ -310,18 +310,18 @@ The battles entailed long fierce fighting; some of the Japanese continued to fig
 
 
 * [Mother Earth Mother Board](http://www.wired.com/wired-archive-4-12-ffglass-pr.html)
-* [Communications in the Philippines](https://en.wikipedia.org/wiki/communications-in-the-philippines)
-* [History of the Philippines](https://en.wikipedia.org/wiki/history-of-the-philippines)
-* [Military of the Philippines](https://en.wikipedia.org/wiki/military-of-the-philippines)
-* [Military history of the Philippines](https://en.wikipedia.org/wiki/military-history-of-the-philippines)
-* [Transportation in the Philippines](https://en.wikipedia.org/wiki/transportation-of-the-philippines)
-* [Foreign relations of the Philippines](https://en.wikipedia.org/wiki/foreign-relations-of-the-philippines)
-* [Constitution of the Philippines](https://en.wikipedia.org/wiki/constitution-of-the-philippines)
-* [Holidays in Philippines](https://en.wikipedia.org/wiki/hoilidays-in-the-philippines)
-* [Music of the Philippines](https://en.wikipedia.org/wiki/music-of-the-philippines)
-* [Culture of the Philippines](https://en.wikipedia.org/wiki/culture-of-the-philippines)
+* [Communications in the Philippines](https://en.wikipedia.org/wiki/Telecommunications_in_the_Philippines)
+* [History of the Philippines](https://en.wikipedia.org/wiki/History_of_the_Philippines)
+* [Military of the Philippines](https://en.wikipedia.org/wiki/Armed_Forces_of_the_Philippines)
+* [Military history of the Philippines](https://en.wikipedia.org/wiki/Military_history_of_the_Philippines)
+* [Transportation in the Philippines](https://en.wikipedia.org/wiki/Transportation_in_the_Philippines)
+* [Foreign relations of the Philippines](https://en.wikipedia.org/wiki/Foreign_relations_of_the_Philippines)
+* [Constitution of the Philippines](https://en.wikipedia.org/wiki/Constitution_of_the_Philippines)
+* [Holidays in Philippines](https://en.wikipedia.org/wiki/Public_holidays_in_the_Philippines)
+* [Music of the Philippines](https://en.wikipedia.org/wiki/Music_of_the_Philippines)
+* [Culture of the Philippines](https://en.wikipedia.org/wiki/Culture_of_the_Philippines)
 * [List of Philippine-related topics](https://en.wikipedia.org/wiki/list-of-philippines-related-topics)
-* [Asian Theatre of World War II](https://en.wikipedia.org/wiki/asian-theatre-of-world-war-ii)
+* [Asian Theatre of World War II](https://en.wikipedia.org/wiki/Pacific_War)
 * [www.gov.ph](/http-www-gov-ph) - Government portal
 * [www.op.gov.ph](http://www.op.gov/ph) - Office of the President
 * [www.senate.gov.ph](http://www.senate.gov/ph) - Senate

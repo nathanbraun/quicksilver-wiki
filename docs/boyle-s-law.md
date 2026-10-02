@@ -44,4 +44,4 @@ The value of R depends on the units used elsewhere. For SI units, R = 8.314 joul
 
 * [Boyle's Law & Scuba](http://www.flash.net/table-gasses-boyle1.htm)
 * [Physics Teachers Weigh in on Boyle's Law](http://www.physlink.com/education-askexperts-ae518-cfm)
-* [Boyle's Law at Wikipedia.org](https://en.wikipedia.org/wiki/boyle-s-law)
+* [Boyle's Law at Wikipedia.org](https://en.wikipedia.org/wiki/Boyle's_law)

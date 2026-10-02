@@ -32,9 +32,9 @@ The Marines have one further difference from the other US military services: all
 
 Historically, the United States Marine Corps has achieved fame in several campaigns, as referenced in their anthem "From the Halls of Montezuma to the Shores of Tripoli". In the early 19th century, First Lieutenant Presley OBannon led a group of seven Marines in deposing the dictator of Tripoli (thereby restoring the rightful ruler). Separately, the Marines took part in the Mexican-American War (1846 - 1848). 
 
-### [The United State Marine Corps](https://en.wikipedia.org/wiki/united-states-marine-corps)
+### [The United State Marine Corps](https://en.wikipedia.org/wiki/United_States_Marine_Corps)
 
-The **United States Marine Corps (USMC)** forms the second-smallest branch of the [United States Armed Forces](https://en.wikipedia.org/wiki/united-states-armed-forces), with 170,000 active and 40,000 reserve members as of 2002. The USMC serves as a versatile combat element, adapted to a wide variety of combat situations. Its original purpose, giving it the name *Marine* Corps, comprised the provision naval infantry (combat forces serving aboard naval vessels), and carrying out amphibious operations from the sea onto land. The Marines fully developed and utilized the latter tactic in [World War II](https://en.wikipedia.org/wiki/world-war-ii), most notably in the [Pacific Island Campaign](https://en.wikipedia.org/wiki/pacific-theater-of-operations). The Marine Corps forms part of the Department of the Navy (but not part of the [United States Navy](https://en.wikipedia.org/wiki/united-states-navy)). The Marine Corps has a reputation for being a fierce and effective fighting force, and is famous for the fact that US Marines have never in their entire history resorted to a full, large-scale retreat.
+The **United States Marine Corps (USMC)** forms the second-smallest branch of the [United States Armed Forces](https://en.wikipedia.org/wiki/United_States_Armed_Forces), with 170,000 active and 40,000 reserve members as of 2002. The USMC serves as a versatile combat element, adapted to a wide variety of combat situations. Its original purpose, giving it the name *Marine* Corps, comprised the provision naval infantry (combat forces serving aboard naval vessels), and carrying out amphibious operations from the sea onto land. The Marines fully developed and utilized the latter tactic in [World War II](https://en.wikipedia.org/wiki/World_War_II), most notably in the [Pacific Island Campaign](https://en.wikipedia.org/wiki/Pacific_Theatre). The Marine Corps forms part of the Department of the Navy (but not part of the [United States Navy](https://en.wikipedia.org/wiki/United_States_Navy)). The Marine Corps has a reputation for being a fierce and effective fighting force, and is famous for the fact that US Marines have never in their entire history resorted to a full, large-scale retreat.
 ### Commandant of the Marine Corps
 
 The Commandant of the Marine Corps functions as the highest ranking officer of the Marine Corps. Even though occasionally higher-ranking Marine officers exist, the Commandant is still in charge of the Marine Corps. The Commandant is a member of the Joint Chiefs of Staff, and reports to the Secretary of the Navy, but not to the Chief of Naval Operations. 
@@ -208,7 +208,7 @@ The funeral service was held Tuesday at 10 a.m. He has three surviving grandchil
 
 * [Official website](/http-www-usmc-mil)
 * [History of USMC](http://www.venus.net/jsouth-history.html)
-* [Code talker](https://en.wikipedia.org/wiki/code-talker)
+* [Code talker](https://en.wikipedia.org/wiki/Code_talker)
 * [The Last Codetalker](http://www.comanchenation.com/chibitty.html)
 * [Comanche Code Talker Charles Chibitty Dies](http://www.washingtonpost.com/wp-dyn-content-article-2005-07-25-ar2005072501542.html)
 * [Last WWII Comanche 'code talker' dies in Oklahoma](http://www.rednova.com/news-general-182675-last-wwii-comanche-code-talker-dies-in-oklahoma)

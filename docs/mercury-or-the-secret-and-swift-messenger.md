@@ -46,7 +46,7 @@ Thoughts to a Friend at any distance.
 
 Wilkins describes a large number of possible concepts as single words by first dividing all reality into forty different categories, each assigned to a different syllable, then sub-dividing these categories into sub-categories, and so on. The resulting words thus encode some of the semantics of their meanings into their spelling. Such a-priori languages were inspired by accounts of how the [Chinese writing system](https://en.wikipedia.org/wiki/chinese-character) worked. 
 
-**[Jorge Luis Borges](https://en.wikipedia.org/wiki/jorge-luis-borges)** wrote a critique of Wilkins' philosophical language in his essay *El idioma analítico de John Wilkins* (The Analytical Language of John Wilkins). 
+**[Jorge Luis Borges](https://en.wikipedia.org/wiki/Jorge_Luis_Borges)** wrote a critique of Wilkins' philosophical language in his essay *El idioma analítico de John Wilkins* (The Analytical Language of John Wilkins). 
 
 
 
@@ -87,17 +87,17 @@ This relates to the [philosophick Mercury](/quicksilver-or-mercury) in a way as 
 ### External links
 
 
-* [Wikipedia entry](https://en.wikipedia.org/wiki/john-wilkins)
+* [Wikipedia entry](https://en.wikipedia.org/wiki/John_Wilkins)
 * [Real Character and a Philosophical Language](http://www.alamut.com/subj-artiface-language-johnwilkins.html)
 * [Orthography](https://en.wikipedia.org/wiki/orthography)
 * [Ro](https://en.wikipedia.org/wiki/ro) - an artificial language
 * [Ro Language Profile - Langmaker.com](http://www.langmaker.com/outpost-ro.htm)
-* [Solresol](https://en.wikipedia.org/wiki/solresol-language) -another artificial language
+* [Solresol](https://en.wikipedia.org/wiki/Solresol) -another artificial language
 * [Langmaker.com about Solresol](http://www.langmaker.com/outpost-solresol.htm)
 * [Gajewski's *Grammar of Solresol*, a translation from the original French](http://www.ptialaska.net/srice-solresol-sorsoeng.htm)
-* [Jorge Luis Borges](https://en.wikipedia.org/wiki/jorge-luis-borges) He wrote about Wilkins
+* [Jorge Luis Borges](https://en.wikipedia.org/wiki/Jorge_Luis_Borges) He wrote about Wilkins
 * [Chinese character](https://en.wikipedia.org/wiki/chinese-character)
-* [John Wilkins on Wikipedia](https://en.wikipedia.org/wiki/john-wilkins)
+* [John Wilkins on Wikipedia](https://en.wikipedia.org/wiki/John_Wilkins)
 * [THE ANALYTICAL LANGUAGE OF JOHN WILKINS By Jorge Luis Borges](http://www.alamut.com/subj-artiface-language-johnwilkins.html)
 * [An Essay Toward a Real Character and a Philosophical Language](http://reliant.teknowledge.com/wilkins) - Full text
 * [MacTutor: John Wilkins](http://www.gap.dcs.st.and.ac.uk/history-mathematicians-wilkins.html)

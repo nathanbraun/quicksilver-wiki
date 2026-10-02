@@ -36,7 +36,7 @@ Somehow my original comment got zapped -- Peek at [Einstein's Principle of Equiv
 
 The mighty Wikipedia says Zeno. - [Sparky](/user-stsparky) 16:48, 2004 Jan 22 (PST)
 
-### [Zeno's Paradoxes](https://en.wikipedia.org/wiki/zeno-s-paradoxes)
+### [Zeno's Paradoxes](https://en.wikipedia.org/wiki/Zeno's_paradoxes)
 
 
 Zeno's paradoxes are a set of paradoxes conceived by Zeno of Elea to support Parmenides's doctrine that all evidence of the senses is misleading, and particularly that there is no motion. 

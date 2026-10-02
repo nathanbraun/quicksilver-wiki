@@ -15,7 +15,7 @@ This is an [Baroque Cycle](/baroque-cycle) page for **Charles Darwin**.
 
 ![HMSBeagle.jpeg](/images/HMSBeagle.jpeg)  
 HMS Beagle
-### [Wikipedia: Charles Darwin](https://en.wikipedia.org/wiki/charles-darwin)
+### [Wikipedia: Charles Darwin](https://en.wikipedia.org/wiki/Charles_Darwin)
 
 
 **Charles Robert Darwin** (February 12, 1809 - April 19, 1882) was a revolutionary British geologist and naturalist who laid the foundation for both the modern theory of evolution and the principle of common descent with his proposal of natural selection as a mechanism. He published this proposal in 1859 in the book Origin of Species, which remains his most famous work. A worldwide sea voyage aboard the H.M.S. Beagle and observations on the Galapagos Islands in particular provided inspiration and much of the data on which he based his theory. ![Charles_Darwin_1854.jpg](/images/Charles_Darwin_1854.jpg)  
@@ -77,7 +77,7 @@ Darwin presents a theory of evolution that is in most aspects identical to the t
 
 Darwin, as evidenced by his later work, *The Descent of Man*, was well aware of the implications such a theory would have on the study of the origins of humanity; consequently, he withheld publication of his accumulated evidence in favour of natural selection for more than a decade. He was eventually forced into publication because of the independent development of a similar theory by Alfred Russel Wallace, who sent Darwin his manuscript in 1858. A joint publication of Darwin/Wallace's theory of evolution was put forth the following year. It is felt by some that Wallace deserves as much credit as Darwin for the theory of natural selection, and that he has been rather unfairly marginalised from the history of its development.
 
-Although the theory is widely accepted by scientists today, it is still highly controversial in many countries, particularly in certain southern states of the United States  see [Scopes Monkey Trial](https://en.wikipedia.org/wiki/scopes-monkey-trial), and the psuedoscience of [creationism](https://en.wikipedia.org/wiki/creationism).
+Although the theory is widely accepted by scientists today, it is still highly controversial in many countries, particularly in certain southern states of the United States  see [Scopes Monkey Trial](https://en.wikipedia.org/wiki/Scopes_trial), and the psuedoscience of [creationism](https://en.wikipedia.org/wiki/creationism).
 
 It provoked an outraged response from the Church. A large meeting was organised in Oxford where 'Soapy Sam' Wilberforce, the Bishop of Oxford, numerous Clergy and Robert Fitzroy (the Captain of HMS Beagle) argued against Darwin, Thomas Huxley and their Evolutionist supporters. On being asked by Wilberforce, whether he was descended from monkeys on his grandfather's side or his grandmother's side, Huxley, recognizing the stupidity of the question, apparently muttered to himself: "The lord has delivered him into my hands", and then replied that he "would rather be descended from an ape than from a cultivated man who used his gifts of culture and eloquence in the service of prejudice and falsehood" [several alternative versions of this supposed quote exist, see Wilberforce and Huxley: A Legendary Encounter] - link below. 
 
@@ -172,9 +172,9 @@ This included statements such as:
 
 * [EvoWiki](https://en.wikipedia.org/wiki/evowiki)
 * [Chapter-indexed, searchable versions of Darwin's works](http://www.darwin.literature.com)
-* [The Origin of the Species](https://en.wikipedia.org/wiki/the-origin-of-species)
-* [Fitness Landscape](https://en.wikipedia.org/wiki/fitness-landscape)
-* [Evolutionary Biology](https://en.wikipedia.org/wiki/evolutionary-biology)
+* [The Origin of the Species](https://en.wikipedia.org/wiki/On_the_Origin_of_Species)
+* [Fitness Landscape](https://en.wikipedia.org/wiki/Fitness_landscape)
+* [Evolutionary Biology](https://en.wikipedia.org/wiki/Evolutionary_biology)
 
 
 ### External Texts

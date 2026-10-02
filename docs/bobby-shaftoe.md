@@ -194,7 +194,7 @@ These convoys and the land battle on Guadalcanal became magnets for naval activi
 
 These naval battles did not produce a victor, but the Japanese were unable to replace their losses. 
 
-The land battle hinged around the airfield which the Americans named [Henderson Field](https://en.wikipedia.org/wiki/henderson-field), a muddy airstrip hanging onto the edge of the island, and considered "an unsinkable aircraft carrier". The Japanese suffered 24,000 casualties, the Americans 6,000. 
+The land battle hinged around the airfield which the Americans named [Henderson Field](https://en.wikipedia.org/wiki/Henderson_Field), a muddy airstrip hanging onto the edge of the island, and considered "an unsinkable aircraft carrier". The Japanese suffered 24,000 casualties, the Americans 6,000. 
 
 Extreme desperation characterized the ground fighting; only three of the defenders surrendered. American authorities declared Guadalcanal secure on 9 February, 1943, after more than six months of combat.
 
@@ -258,7 +258,7 @@ The US Armed Forces were not integrated in WW2; although the French used America
 
 
 * [Author's site for Cryptonomicon](http://www.cryptonomicon.com)
-* [Battle of Guadalcanal](https://en.wikipedia.org/wiki/battle-of-guadalcanal)
+* [Battle of Guadalcanal](https://en.wikipedia.org/wiki/Guadalcanal_campaign)
 * [Ally Oop](https://en.wikipedia.org/wiki/alley-oop)
 * [The Codetalker Story](http://www.navajocodetalker.com/home.html)
 * [Aircraft Carrier codeword](http://www.usmint.gov/multimedia-audio-navajo-aircraft-carrier-wav)
@@ -267,7 +267,7 @@ The US Armed Forces were not integrated in WW2; although the French used America
 * [Roster of the NORTH CHINA MARINES as of DECEMBER 7, 1941](http://www.mansell.com/pow-resources-china-marines.html)
 * [4th Marines](http://www.txdirect.net/users-jeturner-usmc4-00.htm)
 * 1 [Fukuoka 3-B Prison Camp](http://www.northchinamarines.com/home-id17.html)
-* [Code talker](https://en.wikipedia.org/wiki/code-talker)
+* [Code talker](https://en.wikipedia.org/wiki/Code_talker)
 * [The Last Codetalker](http://www.comanchenation.com/chibitty.html)
 * [Comanche Code Talker Charles Chibitty Dies](http://www.washingtonpost.com/wp-dyn-content-article-2005-07-25-ar2005072501542.html)
 * [Last WWII Comanche 'code talker' dies in Oklahoma](http://www.rednova.com/news-general-182675-last-wwii-comanche-code-talker-dies-in-oklahoma)

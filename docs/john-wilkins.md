@@ -44,9 +44,9 @@ In the essay, Wilkins defines his "real character", which is a new [orthography]
 
 Wilkins describes a large number of possible concepts as single words by first dividing all reality into forty different categories, each assigned to a different syllable, then sub-dividing these categories into sub-categories, and so on. 
 
-The resulting words thus encode some of the [semantics](https://en.wikipedia.org/wiki/semantics) of their meanings into their spelling. Such a-priori languages were inspired by accounts of how the [Chinese writing system](https://en.wikipedia.org/wiki/chinese-writing-system) worked. 
+The resulting words thus encode some of the [semantics](https://en.wikipedia.org/wiki/semantics) of their meanings into their spelling. Such a-priori languages were inspired by accounts of how the [Chinese writing system](https://en.wikipedia.org/wiki/Written_Chinese) worked. 
 
-[Jorge Luis Borges](https://en.wikipedia.org/wiki/jorge-luis-borges) wrote a critique of Wilkins' philosophical language in his essay El idioma analítico de John Wilkins ([The Analytical Language of John Wilkins](http://www.alamut.com/subj-artiface-language-johnwilkins.html)). 
+[Jorge Luis Borges](https://en.wikipedia.org/wiki/Jorge_Luis_Borges) wrote a critique of Wilkins' philosophical language in his essay El idioma analítico de John Wilkins ([The Analytical Language of John Wilkins](http://www.alamut.com/subj-artiface-language-johnwilkins.html)). 
 
 More modern a-priori languages are [Solresol](https://en.wikipedia.org/wiki/solresol) and [Ro](https://en.wikipedia.org/wiki/ro). 
 
@@ -68,7 +68,7 @@ More modern a-priori languages are [Solresol](https://en.wikipedia.org/wiki/solr
 ### External links
 
 
-* [John Wilkins on Wikipedia](https://en.wikipedia.org/wiki/john-wilkins)
+* [John Wilkins on Wikipedia](https://en.wikipedia.org/wiki/John_Wilkins)
 * [THE ANALYTICAL LANGUAGE OF JOHN WILKINS By Jorge Luis Borges](http://www.alamut.com/subj-artiface-language-johnwilkins.html)
 * [An Essay Toward a Real Character and a Philosophical Language](http://reliant.teknowledge.com/wilkins) - Full text
 * [MacTutor: John Wilkins](http://www.gap.dcs.st.and.ac.uk/history-mathematicians-wilkins.html)

@@ -131,5 +131,5 @@ Another use is in imaging systems such as [telescopes](/telescope), [microscopes
 
 ### External links
 
-* [Fresnel lens](https://en.wikipedia.org/wiki/fresnel-lens)
-* [Augustin-Jean Fresnel](https://en.wikipedia.org/wiki/augustin-jean-fresnel) Edgar Allen Poe lookalike who helped in the wave theory of light
+* [Fresnel lens](https://en.wikipedia.org/wiki/Fresnel_lens)
+* [Augustin-Jean Fresnel](https://en.wikipedia.org/wiki/Augustin-Jean_Fresnel) Edgar Allen Poe lookalike who helped in the wave theory of light

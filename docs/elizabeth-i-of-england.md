@@ -85,7 +85,7 @@ Elizabeth is included in the top 10 of the 100 Greatest Britons poll sponsored b
 
 ### External links
 
-* **[Elizabeth R](https://en.wikipedia.org/wiki/elizabeth-r)**
-* **[Mary, Queen of Scots](https://en.wikipedia.org/wiki/mary-queen-of-scots-movie)**
-* **[Shakespeare in Love](https://en.wikipedia.org/wiki/shakespeare-in-love)**
+* **[Elizabeth R](https://en.wikipedia.org/wiki/Elizabeth_R)**
+* **[Mary, Queen of Scots](https://en.wikipedia.org/wiki/Mary,_Queen_of_Scots)**
+* **[Shakespeare in Love](https://en.wikipedia.org/wiki/Shakespeare_in_Love)**
 * **[Orlando](https://en.wikipedia.org/wiki/orlando)**

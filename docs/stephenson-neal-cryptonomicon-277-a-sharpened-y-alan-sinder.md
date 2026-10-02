@@ -149,7 +149,7 @@ Tigers are warm-blooded and maintain a constant body temperature at all times. T
 ### Historical Dragons
 
 
- ... In the main ports of call, Nikki [Alford] and the rest of the team are setting Rex [Warner] a quest based on the six hundred year old diary of Ma Huan, who sailed on three of [Zheng He](https://en.wikipedia.org/wiki/zheng-he)'s seven voyages. The second quest: In Melaka, to find what Ma Huan describes as an Iguana Dragon - an animal which is covered with scales, has a dragon's head, and which bites men! ...[[2]](http://www.dragonvoyage.com/news)
+ ... In the main ports of call, Nikki [Alford] and the rest of the team are setting Rex [Warner] a quest based on the six hundred year old diary of Ma Huan, who sailed on three of [Zheng He](https://en.wikipedia.org/wiki/Zheng_He)'s seven voyages. The second quest: In Melaka, to find what Ma Huan describes as an Iguana Dragon - an animal which is covered with scales, has a dragon's head, and which bites men! ...[[2]](http://www.dragonvoyage.com/news)
 
 ```
          
@@ -173,4 +173,4 @@ Tigers are warm-blooded and maintain a constant body temperature at all times. T
 * [Cryptozoology](https://en.wikipedia.org/wiki/cryptozoology)
 * [Flores](https://en.wikipedia.org/wiki/flores)
 * [Indonesia](https://en.wikipedia.org/wiki/indonesia)
-* [Zheng He](https://en.wikipedia.org/wiki/zheng-he)
+* [Zheng He](https://en.wikipedia.org/wiki/Zheng_He)

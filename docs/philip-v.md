@@ -42,6 +42,6 @@ He had a second wife Elizabeth Farnese, who bore him another succeesor, Charles 
 ### External links
 
 
-1. * [War of the Polish Succession](https://en.wikipedia.org/wiki/war-of-the-polish-succession)
-2. * [War of the Austrian Succession](https://en.wikipedia.org/wiki/war-of-the-austrian-succession)
-3. * [Charles III of Spain](https://en.wikipedia.org/wiki/charles-iii-of-spain)
+1. * [War of the Polish Succession](https://en.wikipedia.org/wiki/War_of_the_Polish_Succession)
+2. * [War of the Austrian Succession](https://en.wikipedia.org/wiki/War_of_the_Austrian_Succession)
+3. * [Charles III of Spain](https://en.wikipedia.org/wiki/Charles_III_of_Spain)

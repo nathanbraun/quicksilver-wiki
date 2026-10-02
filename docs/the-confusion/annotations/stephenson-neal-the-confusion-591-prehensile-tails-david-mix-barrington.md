@@ -22,8 +22,8 @@ This is [The Confusion](/the-confusion) page on **monkeys**
 
 
 This is surprising
-as **[Old World monkeys](https://en.wikipedia.org/wiki/old-world-monkey)** do not have prehensile tails -- only New World monkeys do. There are several possible ways to reconcile this:
-1. Jack is not using modern zoologists' definition of "[prehensile tail](https://en.wikipedia.org/wiki/prehensile-tail)". A lay observer of the Old World gibbon or siamang, for example, would see it use its tail in swinging around, but not to actually grasp things.
+as **[Old World monkeys](https://en.wikipedia.org/wiki/Old_World_monkey)** do not have prehensile tails -- only New World monkeys do. There are several possible ways to reconcile this:
+1. Jack is not using modern zoologists' definition of "[prehensile tail](https://en.wikipedia.org/wiki/Prehensile_tail)". A lay observer of the Old World gibbon or siamang, for example, would see it use its tail in swinging around, but not to actually grasp things.
 2. The wealthy and eccentric Pirate Queen has for some reason imported some New World monkeys.
 3. These monkeys are from a species (order? family?) unknown to modern zoologists.
 4. Stephenson did not know it.
@@ -58,14 +58,14 @@ Because they are not a single coherent group, monkeys do not have any important 
 				+ **Family [Pitheciidae](https://en.wikipedia.org/wiki/pitheciidae)**: titis, sakis and uakaris
 				+ **Family [Atelidae](https://en.wikipedia.org/wiki/atelidae)**: howler, spider and woolly monkeys
 			* [Catarrhini](https://en.wikipedia.org/wiki/catarrhini)
-				+ **Superfamily [Cercopithecoidea](https://en.wikipedia.org/wiki/old-world-monkey)**
-					- **Family [Cercopithecidae](https://en.wikipedia.org/wiki/old-world-monkey)**: Old World monkeys
+				+ **Superfamily [Cercopithecoidea](https://en.wikipedia.org/wiki/Old_World_monkey)**
+					- **Family [Cercopithecidae](https://en.wikipedia.org/wiki/Old_World_monkey)**: Old World monkeys
 				+ Superfamily [Hominoidea](https://en.wikipedia.org/wiki/hominoidea)
 					- Family [Hylobatidae](https://en.wikipedia.org/wiki/hylobatidae): gibbons
 					- Family [Hominidae](https://en.wikipedia.org/wiki/hominidae): great apes and humans
 
 
-### [Crab-eating Macaque](https://en.wikipedia.org/wiki/crab-eating-macaque)
+### [Crab-eating Macaque](https://en.wikipedia.org/wiki/Macaca_fascicularis)
 
 
 *The monkey most likely **Jack** observed* would be the **Crab-eating Macaque** (*Macaca fascicularis*) is an arboreal macaque native to South-East Asia. It is also called the Cynomolgus Monkey or Long-tailed Macaque.
@@ -108,7 +108,7 @@ The Old World monkeys are native to Africa and Asia today, but are also known fr
 
 ***Journey to the West*** (Traditional Chinese: 西遊記; Simplified Chinese: 西游记; pinyin: Xī Yóu Jì, WG: Hsi Yu Chi) is a classic of Chinese literature, and perhaps the most well-known amongst the younger generation. It was published anonymously in the 1590s, and no direct evidence of its authorship survives, but it is traditionally ascribed to the scholar Wu Cheng'en. The novel tells a fictionalized and mythologized version of the Buddhist monk Xuanzang's pilgrimage to India.
 
-In the novel, the monk [Xuanzang](https://en.wikipedia.org/wiki/xuanzang-fictional-character) (玄藏) is called by the Bodhisattva Guan Yin to travel to India to obtain copies of certain important Buddhist texts that are not available in China. He is accompanied on his journey by three disciples - the monkey king Sun Wukong (孫悟空), the pig-monster Zhu Wuneng (豬悟能), and the river monster Sha Wujing (沙悟淨) - who have agreed to help him along the way as an atonement for past sins. His horse is a reincarnation of a dragon prince.
+In the novel, the monk [Xuanzang](https://en.wikipedia.org/wiki/Tang_Sanzang) (玄藏) is called by the Bodhisattva Guan Yin to travel to India to obtain copies of certain important Buddhist texts that are not available in China. He is accompanied on his journey by three disciples - the monkey king Sun Wukong (孫悟空), the pig-monster Zhu Wuneng (豬悟能), and the river monster Sha Wujing (沙悟淨) - who have agreed to help him along the way as an atonement for past sins. His horse is a reincarnation of a dragon prince.
 
 The book is a reflection of how thoroughly Buddhism in [Chinese](https://en.wikipedia.org/wiki/china) Buddhism had combined with Daoism and Confucianism in China. 
 
@@ -124,7 +124,7 @@ Part of the novel's enduring popularity comes from the fact that it works on mul
 | [Japanese](https://en.wikipedia.org/wiki/japanese-language) 孫悟空
 | [Romaji](https://en.wikipedia.org/wiki/romaji) *Goku*| [Anime](https://en.wikipedia.org/wiki/anime) *Dragon Ball*| [DB Canon](https://en.wikipedia.org/wiki/dragon-ball-canon) original [Manga](https://en.wikipedia.org/wiki/manga)by Akira Toruyama
 | First Appearance Issue #1
-| Race [Saiyan](https://en.wikipedia.org/wiki/saiyan)| **Family Connections*** [Bardock](https://en.wikipedia.org/wiki/bardock) *(father)** [Raditz](https://en.wikipedia.org/wiki/raditz) *(brother)** [Chi-Chi](https://en.wikipedia.org/wiki/chi-chi) *(wife)** [Son Gohan](https://en.wikipedia.org/wiki/son-gohan) *(son)** [Son Goten](https://en.wikipedia.org/wiki/son-goten) *(son)*
+| Race [Saiyan](https://en.wikipedia.org/wiki/saiyan)| **Family Connections*** [Bardock](https://en.wikipedia.org/wiki/bardock) *(father)** [Raditz](https://en.wikipedia.org/wiki/raditz) *(brother)** [Chi-Chi](https://en.wikipedia.org/wiki/chi-chi) *(wife)** [Son Gohan](https://en.wikipedia.org/wiki/Gohan) *(son)** [Son Goten](https://en.wikipedia.org/wiki/List_of_Dragon_Ball_characters#Son_Goten) *(son)*
  |
  |
  |
@@ -136,7 +136,7 @@ Part of the novel's enduring popularity comes from the fact that it works on mul
 ### Zodiac
 
 
-The Monkey is the ninth in the 12-year cycle of animals which appear in the Chinese zodiac related to the Chinese calendar. See: [Monkey zodiac](https://en.wikipedia.org/wiki/monkey-zodiac).
+The Monkey is the ninth in the 12-year cycle of animals which appear in the Chinese zodiac related to the Chinese calendar. See: [Monkey zodiac](https://en.wikipedia.org/wiki/Monkey_%28zodiac%29).
 
 ### Related links
 
@@ -147,7 +147,7 @@ The Monkey is the ninth in the 12-year cycle of animals which appear in the Chin
 ### External links
 
 
-* *[Monkey](https://en.wikipedia.org/wiki/monkey-television)* - live action television series based on *Journey to the West*
+* *[Monkey](https://en.wikipedia.org/wiki/Monkey_%28TV_series%29)* - live action television series based on *Journey to the West*
 * *Dragon Ball*/*Dragon Ball Z* (Japanese manga series loosely inspired by *Journey to the West*)
 * *Dragon Ball (original series)|Dragon Ball*, *Dragon Ball Z*, *Dragon Ball GT*, anime versions of the Dragon Ball/Dragon Ball Z manga
 * *Gensomaden Saiyuki* (another anime inspired by the myth)

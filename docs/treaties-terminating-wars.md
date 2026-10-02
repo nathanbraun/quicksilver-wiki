@@ -49,5 +49,5 @@ Think of Drake and Morgan and how they advanced the English position. Both had '
 ### External Links
 
 
-* **[Treaties of Ultrecht](https://en.wikipedia.org/wiki/treaty-of-utrecht-1713)**
+* **[Treaties of Ultrecht](https://en.wikipedia.org/wiki/Peace_of_Utrecht)**
 * **[The Peace Banquet of 1649](/http-www-museen-nuernberg-de-english-fembohaus-e-pages-zeitreise-e-16-html)**

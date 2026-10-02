@@ -30,25 +30,25 @@ We return to **coffee**
 | **Coffee** |
 | --- |
 | Coffee_Bean_Structure.png |
-| [Scientific classification](https://en.wikipedia.org/wiki/scientific-classification) |
+| [Scientific classification](https://en.wikipedia.org/wiki/Taxonomy) |
 | 
 
 |  |  |
 | --- | --- |
-| [Kingdom](https://en.wikipedia.org/wiki/kingdom-biology): | [Plantae](https://en.wikipedia.org/wiki/plant) |
-| [Division](https://en.wikipedia.org/wiki/division-biology): | [Magnoliophyta](https://en.wikipedia.org/wiki/magnoliophyta) |
-| [Class](https://en.wikipedia.org/wiki/class-biology): | [Magnoliopsida](https://en.wikipedia.org/wiki/magnoliopsida) |
-| [Order](https://en.wikipedia.org/wiki/order-biology): | [Rubiales](https://en.wikipedia.org/wiki/rubiales) |
-| [Family](https://en.wikipedia.org/wiki/family-biology):  | [Rubiaceae](https://en.wikipedia.org/wiki/rubiaceae) |
+| [Kingdom](https://en.wikipedia.org/wiki/Kingdom_%28taxonomy%29): | [Plantae](https://en.wikipedia.org/wiki/plant) |
+| [Division](https://en.wikipedia.org/wiki/Division#Science): | [Magnoliophyta](https://en.wikipedia.org/wiki/magnoliophyta) |
+| [Class](https://en.wikipedia.org/wiki/Class_%28taxonomy%29): | [Magnoliopsida](https://en.wikipedia.org/wiki/magnoliopsida) |
+| [Order](https://en.wikipedia.org/wiki/Order_%28taxonomy%29): | [Rubiales](https://en.wikipedia.org/wiki/rubiales) |
+| [Family](https://en.wikipedia.org/wiki/Family_%28disambiguation%29):  | [Rubiaceae](https://en.wikipedia.org/wiki/rubiaceae) |
 | [Genus](https://en.wikipedia.org/wiki/genus): | ***Coffea*** |
 
 | **[Species](https://en.wikipedia.org/wiki/species)** |
-| *[Coffea arabica](https://en.wikipedia.org/wiki/coffea-arabica)*
-*[Coffea benghalensis](https://en.wikipedia.org/wiki/coffea-benghalensis)*
-*[Coffea canephora](https://en.wikipedia.org/wiki/coffea-canephora)* = *C. robusta*
+| *[Coffea arabica](https://en.wikipedia.org/wiki/Coffea_arabica)*
+*[Coffea benghalensis](https://en.wikipedia.org/wiki/Coffea_benghalensis)*
+*[Coffea canephora](https://en.wikipedia.org/wiki/Coffea_canephora)* = *C. robusta*
 *[Coffea congensis](https://en.wikipedia.org/wiki/coffea-congensis)*
-*[Coffea liberica](https://en.wikipedia.org/wiki/coffea-liberica)*
-*[Coffea stenophylla](https://en.wikipedia.org/wiki/coffea-stenophylla)* |
+*[Coffea liberica](https://en.wikipedia.org/wiki/Coffea_liberica)*
+*[Coffea stenophylla](https://en.wikipedia.org/wiki/Coffea_stenophylla)* |
 | Ref: [ITIS 35189](http://www.itis.usda.gov/servlet-singlerpt-singlerpt-search-topic-tsn-search-value-35189) 2003-01-03
  |
  |

@@ -78,5 +78,5 @@ An associated disorder, Wernicke's encephalopathy often accompanies Korsakoff's 
 
 
 * [Wikipedia entry](https://en.wikipedia.org/wiki/beriberi)
-* [Wernicke-Korsakoff syndrome](https://en.wikipedia.org/wiki/wernicke-korsakoff-syndrome)
-* [Korsakoff's syndrome](https://en.wikipedia.org/wiki/korsakoff-s-syndrome)
+* [Wernicke-Korsakoff syndrome](https://en.wikipedia.org/wiki/Wernicke–Korsakoff_syndrome)
+* [Korsakoff's syndrome](https://en.wikipedia.org/wiki/Korsakoff_syndrome)

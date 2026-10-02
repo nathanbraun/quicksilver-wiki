@@ -53,7 +53,7 @@ Thoughtful indexing, as you suggest, consists of organizing around stories - the
 
 Seems workable, a clue as to the index I envision might be the information from Neal Stephenson himself presented on the pages of the book. The headers on the right hand pages of [Quicksilver](/stephenson-neal-quicksilver) inform without being spoilers save for the instant when someone's sick bed becomes their deathbed. [Sparky](/user-stsparky) 01:12, 9 Nov 2003 (PST)
 
-As for software, a [wikitext standard](/wikitext-standard) and the [Simple Ideology of Wikitax](https://meta.wikipedia.org/wiki/simple-ideology-of-wikitax)], expressed in new software, is the only real answer. Blogs are a very big step backwards.
+As for software, a [wikitext standard](/wikitext-standard) and the [Simple Ideology of Wikitax](https://meta.wikimedia.org/wiki/Simple_ideology_of_Wikitax)], expressed in new software, is the only real answer. Blogs are a very big step backwards.
 
 
 

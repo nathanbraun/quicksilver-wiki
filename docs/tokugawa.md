@@ -16,21 +16,21 @@ This is a page for **Tokugawa Ieyasu** and the **Tokugawa Shogunate**
 * [Stephenson:Neal:Quicksilver:299:When you turn the crank?(Alan Sinder)](/stephenson-neal-quicksilver-299-when-you-turn-the-crank-alan-sinder)
 
 
-### [Tokugawa Ieyasu](https://en.wikipedia.org/wiki/tokugawa-ieyasu)
+### [Tokugawa Ieyasu](https://en.wikipedia.org/wiki/Tokugawa_Ieyasu)
 
 
 **Tokugawa Ieyasu** (徳川 家康 January 30, 1543 - June 1, 1616) was the most powerful man in Japan after Hideyoshi had died in 1598. Against his promises he did not respect Hideyoshi's successor Hideyori because he wanted to become the absolute ruler of Japan.![IeyasuMW.jpg](/images/IeyasuMW.jpg)  
 **Tokugawa Ieyasu  
-The [Napoleon](https://en.wikipedia.org/wiki/napoleon-bonaparte) of Japan**
+The [Napoleon](https://en.wikipedia.org/wiki/Napoleon) of Japan**
 
-In the [Battle of Sekigahara](https://en.wikipedia.org/wiki/battle-of-sekigahara) in 1600, Ieyasu defeated the Hideyori loyalists and other Western rivals. Hence, he achieved almost unlimited power and wealth. In 1603, Ieyasu was appointed Shogun by the emperor and established his government in Edo (Tokyo). The Tokugawa shoguns continued to rule Japan for over remarkable 250 years. 
+In the [Battle of Sekigahara](https://en.wikipedia.org/wiki/Battle_of_Sekigahara) in 1600, Ieyasu defeated the Hideyori loyalists and other Western rivals. Hence, he achieved almost unlimited power and wealth. In 1603, Ieyasu was appointed Shogun by the emperor and established his government in Edo (Tokyo). The Tokugawa shoguns continued to rule Japan for over remarkable 250 years. 
 
-### [Tokugawa Shogunate](https://en.wikipedia.org/wiki/tokugawa-shogunate)
+### [Tokugawa Shogunate](https://en.wikipedia.org/wiki/Tokugawa_shogunate)
 
 
 The Tokugawa shogunate or Tokugawa bakufu (徳川幕府) (also known as the Edo bakufu) was a feudal military dictatorship of Japan established in 1603 by Tokugawa Ieyasu and ruled by the shoguns of the Tokugawa family until 1868. This period is known as the Edo period and gets its name from the capital city of Edo, now Tokyo. 
 
-Following the Sengoku Period of "warring states", central government had been largely re-established by [Oda Nobunaga](https://en.wikipedia.org/wiki/oda-nobunaga) and [Toyotomi Hideyoshi](https://en.wikipedia.org/wiki/toyotomi-hideyoshi) during the Azuchi-Momoyama period. After the Battle of Sekigahara in 1600, central authority fell to Tokugawa Ieyasu who completed this process and received the title of shogun in 1603. His descendants were to hold the position, and the central authority that came with it, until the 19th century. 
+Following the Sengoku Period of "warring states", central government had been largely re-established by [Oda Nobunaga](https://en.wikipedia.org/wiki/Oda_Nobunaga) and [Toyotomi Hideyoshi](https://en.wikipedia.org/wiki/Toyotomi_Hideyoshi) during the Azuchi-Momoyama period. After the Battle of Sekigahara in 1600, central authority fell to Tokugawa Ieyasu who completed this process and received the title of shogun in 1603. His descendants were to hold the position, and the central authority that came with it, until the 19th century. 
 
 The Tokugawa period, unlike the shogunates before it, was based on the strict class hierarchy originally established by Toyotomi Hideyoshi. The warrior-caste of samurai were at the top, followed by farmers, artisans, and traders. Ironically, the very strictness of the caste system was to undermine these classes in the long run. Taxes on the peasantry were set to fixed amounts which did not account for inflation or other changes in monetary value. As a result, the tax revenues collected by the samurai landowners were worth less and less over time. This often led to confrontations between noble but impoverished samurai and well-to-do peasants. 
 
@@ -53,7 +53,7 @@ Ieyasu brought the whole country under tight control. He cleverly redistributed 
 
 Ieyasu continued to promote foreign trade. He established relations with the English and the Dutch. On the other hand, he enforced the suppression and persecution of [Christianity](/christianity) from 1614 on. 
 
-After the destruction of the Toyotomi clan in 1615 when Ieyasu captured [Osaka Castle](https://en.wikipedia.org/wiki/osaka-castle) (大坂城 *Ôsakajô*), he and his successors had practically no rivals anymore, and peace prevailed throughout the Edo period. Therefore, the warriors (samurai) were educating themselves not only in the martial arts but also in literature, philosophy and the arts, e.g. the tea ceremony.![Osaka-castleMW.jpg](/images/Osaka-castleMW.jpg)  
+After the destruction of the Toyotomi clan in 1615 when Ieyasu captured [Osaka Castle](https://en.wikipedia.org/wiki/Osaka_Castle) (大坂城 *Ôsakajô*), he and his successors had practically no rivals anymore, and peace prevailed throughout the Edo period. Therefore, the warriors (samurai) were educating themselves not only in the martial arts but also in literature, philosophy and the arts, e.g. the tea ceremony.![Osaka-castleMW.jpg](/images/Osaka-castleMW.jpg)  
 **Osaka Castle**
 
 In 1633, shogun Iemitsu forbade travelling abroad and almost completely isolated Japan in 1639 by reducing the contacts to the outside world to very limited trade relations with China and the Netherlands in the port of Nagasaki. In addition, all foreign books were banned.
@@ -74,7 +74,7 @@ Even though the Tokugawa government remained quite stable over several centuries
 ### The Opening of Japan
 
 
-In the end of the 18th century, external pressure started to be an increasingly important issue, when the Russians first tried to establish trade contacts with Japan without success. They were followed by other European nations and the Americans in the 19th century. It was eventually [Commodore Perry](https://en.wikipedia.org/wiki/matthew-perry-naval-officer) in 1853 and again in 1854 who forced the Tokugawa government to open a limited number of ports for international trade. However, the trade remained very limited until the Meiji restoration in 1868. 
+In the end of the 18th century, external pressure started to be an increasingly important issue, when the Russians first tried to establish trade contacts with Japan without success. They were followed by other European nations and the Americans in the 19th century. It was eventually [Commodore Perry](https://en.wikipedia.org/wiki/Matthew_C._Perry) in 1853 and again in 1854 who forced the Tokugawa government to open a limited number of ports for international trade. However, the trade remained very limited until the Meiji restoration in 1868. 
 
 All factors combined, the anti-government feelings were growing and caused other movements such as the demand for the restoration of imperial power and anti western feelings, especially among ultra-conservative samurai in increasingly independently acting domains such as Choshu and Satsuma. Many people, however, soon recognized the big advantages of the Western nations in science and military, and favoured a complete opening to the world. Finally, also the conservatives recognized this fact after being confronted with Western warships in several incidents. 
 

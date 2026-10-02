@@ -28,7 +28,7 @@ If [Newton](/isaac-newton) stood on the shoulders of giants in his field, [John 
 **CAROLUS LINNAEUS**  
 **The Orginizational Man**
 
-Carolus Linnaeus (or Carl von Linné) (May 23, 1707 - January 10, 1778) was a Swedish scientist who laid the foundations for the modern scheme of taxonomy. He is considered one of the father of modern ecology (see [History of ecology](https://en.wikipedia.org/wiki/ecology-history-of-ecology)). 
+Carolus Linnaeus (or Carl von Linné) (May 23, 1707 - January 10, 1778) was a Swedish scientist who laid the foundations for the modern scheme of taxonomy. He is considered one of the father of modern ecology (see [History of ecology](https://en.wikipedia.org/wiki/History_of_ecology)). 
 
 He was born at Stenbrohult, in the province of Smalandia in southern Sweden. As a boy Linnaeus was to be groomed for life as a churchman, as his father and maternal grandfather were, but he showed little enthusiasm for the profession. His interest in Botany, though, impressed a physician from his town and he was sent to study at Lund University, transferring to Uppsala University after one a year.
 
@@ -71,16 +71,16 @@ Carl Linnaeus was a very popular teacher and natural history was the fashion of 
 ### External links
 
 
-* [John Ray](https://en.wikipedia.org/wiki/john-ray)
-* [Linnean Society of London](https://en.wikipedia.org/wiki/linnean-society-of-london)
-* [Daniel Solander](https://en.wikipedia.org/wiki/daniel-solander)
-* [Jonas C. Dryander](https://en.wikipedia.org/wiki/jonas-c-dryander)
-* [Pehr Kalm](https://en.wikipedia.org/wiki/pehr-kalm)
-* [Carolus Linnaeus](https://en.wikipedia.org/wiki/carolus-linnaeus)
-* [Linnaean taxonomy](https://en.wikipedia.org/wiki/linnaean-taxonomy)
+* [John Ray](https://en.wikipedia.org/wiki/John_Ray)
+* [Linnean Society of London](https://en.wikipedia.org/wiki/Linnean_Society_of_London)
+* [Daniel Solander](https://en.wikipedia.org/wiki/Daniel_Solander)
+* [Jonas C. Dryander](https://en.wikipedia.org/wiki/Jonas_Carlsson_Dryander)
+* [Pehr Kalm](https://en.wikipedia.org/wiki/Pehr_Kalm)
+* [Carolus Linnaeus](https://en.wikipedia.org/wiki/Carl_Linnaeus)
+* [Linnaean taxonomy](https://en.wikipedia.org/wiki/Linnaean_taxonomy)
 * [Linnaeus Botanical Garden](/http-www-linnaeus-uu-se-lteng-html)
 * [Biography](/http-www-systbot-uu-se-history-linnaeus-html) at the Department of Systematic Botany
-* [University of Uppsala](https://en.wikipedia.org/wiki/uppsala-university)
+* [University of Uppsala](https://en.wikipedia.org/wiki/Uppsala_University)
 * [Biography](http://www.linnean.org/contents-history-linnaeus-biography.html) at The Linnean Society of London
 * [Biography](http://www.ucmp.berkeley.edu/history-linnaeus.html) at the University of California Museum of Paleontology
 * This page on the Swedish Riksbanks [100-kronor note](http://www.riksbank.com/templates-page-aspx-id-10571) has mini biography of the naturalist Carl von Linné.

@@ -83,7 +83,7 @@ Modern physicists have calculated that if the Plot had succeeded, it would have 
 ### In Fiction
 
 
-In the [dystopian](https://en.wikipedia.org/wiki/dystopia) [science fiction](https://en.wikipedia.org/wiki/science-fiction) [graphic novel](https://en.wikipedia.org/wiki/graphic-novel), [V for Vendetta](https://en.wikipedia.org/wiki/v-for-vendetta) by [Alan Moore](https://en.wikipedia.org/wiki/alan-moore), V, a mysterious [anarchist](https://en.wikipedia.org/wiki/anarchist) who disguises and models himself as a latter day Guy Fawkes, finally explodes the abandoned parliament buildings on a future November 5 as his first move to bring down a nightmarish [Thatcher](https://en.wikipedia.org/wiki/margaret-thatcher) inspired English nation's [Brownshirted](https://en.wikipedia.org/wiki/fascism) tyranny. It's also an element in [Diana Wynne Jones](https://en.wikipedia.org/wiki/diana-wynne-jones)' *Witch Week*.
+In the [dystopian](https://en.wikipedia.org/wiki/dystopia) [science fiction](https://en.wikipedia.org/wiki/science-fiction) [graphic novel](https://en.wikipedia.org/wiki/graphic-novel), [V for Vendetta](https://en.wikipedia.org/wiki/V_for_Vendetta) by [Alan Moore](https://en.wikipedia.org/wiki/Alan_Moore), V, a mysterious [anarchist](https://en.wikipedia.org/wiki/anarchist) who disguises and models himself as a latter day Guy Fawkes, finally explodes the abandoned parliament buildings on a future November 5 as his first move to bring down a nightmarish [Thatcher](https://en.wikipedia.org/wiki/Margaret_Thatcher) inspired English nation's [Brownshirted](https://en.wikipedia.org/wiki/fascism) tyranny. It's also an element in [Diana Wynne Jones](https://en.wikipedia.org/wiki/Diana_Wynne_Jones)' *Witch Week*.
 
 ### Related links
 
@@ -105,10 +105,10 @@ In the [dystopian](https://en.wikipedia.org/wiki/dystopia) [science fiction](htt
 * [dystopian](https://en.wikipedia.org/wiki/dystopia)
 * [science fiction](https://en.wikipedia.org/wiki/science-fiction)
 * [graphic novel](https://en.wikipedia.org/wiki/graphic-novel)
-* [V for Vendetta](http://www.amazon.com/exec-obidos-tg-detail-0930289528-103-8140691-3696657-v-glance) Amazon Listing of *[V for Vendatta](https://en.wikipedia.org/wiki/v-for-vendetta)*
-* [Alan Moore](https://en.wikipedia.org/wiki/alan-moore)
+* [V for Vendetta](http://www.amazon.com/exec-obidos-tg-detail-0930289528-103-8140691-3696657-v-glance) Amazon Listing of *[V for Vendatta](https://en.wikipedia.org/wiki/V_for_Vendetta)*
+* [Alan Moore](https://en.wikipedia.org/wiki/Alan_Moore)
 * [anarchist](https://en.wikipedia.org/wiki/anarchist)
 * [Friday](/), a [science fiction](/) novel by [Robert E. Henlein](/), mentioned as an example.
-* [Thatcher](https://en.wikipedia.org/wiki/margaret-thatcher)
+* [Thatcher](https://en.wikipedia.org/wiki/Margaret_Thatcher)
 * [Brownshirts](https://en.wikipedia.org/wiki/fascism)
-* [Diana Wynne Jones](https://en.wikipedia.org/wiki/diana-wynne-jones)
+* [Diana Wynne Jones](https://en.wikipedia.org/wiki/Diana_Wynne_Jones)

@@ -26,9 +26,9 @@ The cover of Zodiac
 
 ## External links
 
-* [Dioxins](https://en.wikipedia.org/wiki/dioxin) (and [Viktor Yushchenko](https://en.wikipedia.org/wiki/viktor-yushchenko))
-* [Polychlorinated biphenyls](https://en.wikipedia.org/wiki/polychlorinated-biphenyl)
-* [Agent Orange](https://en.wikipedia.org/wiki/agent-orange)
-* [Heavy metal](https://en.wikipedia.org/wiki/heavy-metal-music) and [heavy metals](https://en.wikipedia.org/wiki/heavy-metals) both make an appearance
+* [Dioxins](https://en.wikipedia.org/wiki/dioxin) (and [Viktor Yushchenko](https://en.wikipedia.org/wiki/Viktor_Yushchenko))
+* [Polychlorinated biphenyls](https://en.wikipedia.org/wiki/Polychlorinated_biphenyl)
+* [Agent Orange](https://en.wikipedia.org/wiki/Agent_Orange)
+* [Heavy metal](https://en.wikipedia.org/wiki/Heavy_metal_music) and [heavy metals](https://en.wikipedia.org/wiki/Heavy_metals) both make an appearance
 * [Organophosphates](https://en.wikipedia.org/wiki/organophosphate)
 * [Spectacle Island](http://www.bostonislands.org/isle-spectacle.html)

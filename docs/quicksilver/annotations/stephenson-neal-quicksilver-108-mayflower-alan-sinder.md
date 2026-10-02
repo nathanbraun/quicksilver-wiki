@@ -48,7 +48,7 @@ The first winter in the new colony was a terrible experience. Half the colonists
 
 William Bradford's second wife, Alice Carpenter, came to Plymouth on the Anne in July 1623, and married Governor Bradford on August 14, 1623 at Plymouth. They had three children, William, Mercy, and Joseph. Alice also helped to raise John, the son of his first marriage. William Bradford died at Plymouth and was interred at Plymouth Burial Hill. 
 
-### [Massachusetts Bay Colony](https://en.wikipedia.org/wiki/massachusetts-bay-colony)
+### [Massachusetts Bay Colony](https://en.wikipedia.org/wiki/Massachusetts_Bay_Colony)
 
 The **Massachusetts Bay Colony** (sometimes called by the name **Massachusetts Bay Company**, for the institution that founded it) was the direct predecessor of the Province of Massachusetts Bay and then the Commonwealth of Massachusetts, a State of the united States. 
 
@@ -81,7 +81,7 @@ In 1634, the issue of governance arose again, and a group headed by Thomas Dudle
 * John Leverett - 1673-1678
 * Simon Bradstreet - 1679-80
 
-### [Province of Massachusetts Bay](https://en.wikipedia.org/wiki/province-of-massachusetts-bay)
+### [Province of Massachusetts Bay](https://en.wikipedia.org/wiki/Province_of_Massachusetts_Bay)
 
 The Province of Massachusetts Bay was a crown colony organized October 7, 1691 in North America by the monarch of England. The charter was enacted May 14, 1692 and included Massachusetts Bay Colony, Plymouth Colony, Martha's Vineyard, Nantucket, the Province of Maine and what is now Nova Scotia. (Nova Scotia was separated out in 1696, and became the Province of Nova Scotia in 1713.) The Province of New Hampshire gained its independence from Massachusetts at the time of the creation of the Province of Massachusetts Bay. 
 
@@ -101,8 +101,8 @@ From 1691, the history of the Province of Massachusetts Bay is usually considere
 
 ### External links
 
-* [English Civil War](https://en.wikipedia.org/wiki/english-civil-war)
+* [English Civil War](https://en.wikipedia.org/wiki/English_Civil_War)
 * [An Enhanced Wikipedia entry on Charles I](http://www.dropbears.com/b-broughsbooks-history-articles-charles-i-england.htm)
 * [Oliver Cromwell](http://www.dropbears.com/b-broughsbooks-history-articles-oliver-cromwell.htm)
-* [Archbishop Laud](https://en.wikipedia.org/wiki/william-laud)
-* [William Prynne](https://en.wikipedia.org/wiki/william-prynne)
+* [Archbishop Laud](https://en.wikipedia.org/wiki/William_Laud)
+* [William Prynne](https://en.wikipedia.org/wiki/William_Prynne)

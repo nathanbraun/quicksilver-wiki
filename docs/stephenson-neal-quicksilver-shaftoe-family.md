@@ -92,7 +92,7 @@ Fueled by its growing reputation, Oconomowoc entered a new era marked by the tit
 * [Bobby Shaftoe](/bobby-shaftoe)
 * [America Shaftoe](/america-shaftoe)
 * [Douglas MacArthur Shaftoe](/douglas-macarthur-shaftoe)
-* Nimrod Shaftoe - [Nimrod](https://en.wikipedia.org/wiki/nimrod-king) is a mythic hunter (which is why ***Bugs Bunny*** calls ***Elmer Fudd*** that nickname) as well as the king who builds the [Tower of Babel](https://en.wikipedia.org/wiki/tower-of-babel) ; However, this links [Cryptonomicon](/cryptonomicon) with [Snow Crash](/stephenson-neal-snow-crash) in a small way. Maybe [Randy Waterhouse](/randy-waterhouse)'s and [America Shaftoe](/america-shaftoe)'s actions prevent that distopia from happening
+* Nimrod Shaftoe - [Nimrod](https://en.wikipedia.org/wiki/Nimrod) is a mythic hunter (which is why ***Bugs Bunny*** calls ***Elmer Fudd*** that nickname) as well as the king who builds the [Tower of Babel](https://en.wikipedia.org/wiki/Tower_of_Babel) ; However, this links [Cryptonomicon](/cryptonomicon) with [Snow Crash](/stephenson-neal-snow-crash) in a small way. Maybe [Randy Waterhouse](/randy-waterhouse)'s and [America Shaftoe](/america-shaftoe)'s actions prevent that distopia from happening
 * Robin Shaftoe
 * Marcus Aurelius Shaftoe
 * Uncle Jack Shaftoe
@@ -101,8 +101,8 @@ Fueled by its growing reputation, Oconomowoc entered a new era marked by the tit
 ### External links
 
 * [Tennessee Volunteer Infantry Regiment](http://home.freeuk.com/gazkhan-tenn-brief.htm)
-* [Tower of Babel](https://en.wikipedia.org/wiki/tower-of-babel)
-* [Nimrod](https://en.wikipedia.org/wiki/nimrod-king)
+* [Tower of Babel](https://en.wikipedia.org/wiki/Tower_of_Babel)
+* [Nimrod](https://en.wikipedia.org/wiki/Nimrod)
 
 #### Shaftoe folk songs and nursery rhymes
 

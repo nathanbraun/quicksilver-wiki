@@ -40,7 +40,7 @@ By 1598 Shakespeare had moved to the parish of St. Helen's, Bishopgate and appea
 
 Shakespeare became an actor, writer and ultimately part-owner of an acting company known as The Lord Chamberlain's Men - the company was named, like others of the period, for their aristocratic sponsor. It was sufficiently popular that after the death of Elizabeth I and the coronation of James I (1603), the new monarch adopted the company and it became known as The King's Men. Various documents recording legal affairs, and business transactions show that Shakespeare grew increasingly affluent in his London years. He did well enough to buy a property in Blackfriars, London, as well as the largest house in Stratford. He retired approximately 1611 and died in 1616, on April 23rd, perhaps the reason behind the tradition of his birthday being this same day. He remained married to Anne until his death. Of their three children, Hamnet, the only boy, died at the age of 11. There were two daughters, Susannah and Judith. Susannah married Dr John Hall, and was later the subject of a court case. 
 
-More **[here](https://en.wikipedia.org/wiki/william-shakespear)**.
+More **[here](https://en.wikipedia.org/wiki/William_Shakespeare)**.
 
 ### Related entries
 

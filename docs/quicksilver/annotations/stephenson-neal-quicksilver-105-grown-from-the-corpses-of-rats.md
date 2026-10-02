@@ -57,7 +57,7 @@ Like mice, rats (especially albino rattus norvegicus ) are frequently subjects o
 
 ### Rats as pets
 
-In Western countries, many people keep domestic rats as pets. Descendants of rats bred for research, these animals also are called "[fancy rats](https://en.wikipedia.org/wiki/fancy-rat)," "coloured rats" or "colour rats." Rat fanciers have developed many exotic varieties. Besides ones with unusual colouring, there have been rats bred that have bigger ears, no fur, no tails and oversized hind legs. Domesticated rats tend to be both more docile than their wild ancestors and more disease prone, presumably due to inbreeding.  
+In Western countries, many people keep domestic rats as pets. Descendants of rats bred for research, these animals also are called "[fancy rats](https://en.wikipedia.org/wiki/Fancy_rat)," "coloured rats" or "colour rats." Rat fanciers have developed many exotic varieties. Besides ones with unusual colouring, there have been rats bred that have bigger ears, no fur, no tails and oversized hind legs. Domesticated rats tend to be both more docile than their wild ancestors and more disease prone, presumably due to inbreeding.  
 **A Qwghlmian Super Rat**  
 **it is to a *ship rat* what  
 a grizzley bear is to a brown bear**  
@@ -67,7 +67,7 @@ are a separate species ***Rattus Qwghlmian***
 [evolutionary](/) paths available to an island  
 species  [giganticism](/).
 
-Fancy Rats have been exhibited in Britain for almost a hundred years. The originator of the first true domestic rats was [Jack Black](https://en.wikipedia.org/wiki/jack-black-rat-catcher), official Rat Catcher and Mole Destroyer by appointment to [Queen Victoria](https://en.wikipedia.org/wiki/queen-victoria). His rats were bred from rattus norvegicus stock. Pet rats became very popular in the 1970s when the National Fancy Rat Society was founded. Other rat societies have since sprung up in other countries as pet rats have gained in popularity worldwide. 
+Fancy Rats have been exhibited in Britain for almost a hundred years. The originator of the first true domestic rats was [Jack Black](https://en.wikipedia.org/wiki/Jack_Black_%28rat_catcher%29), official Rat Catcher and Mole Destroyer by appointment to [Queen Victoria](https://en.wikipedia.org/wiki/Queen_Victoria). His rats were bred from rattus norvegicus stock. Pet rats became very popular in the 1970s when the National Fancy Rat Society was founded. Other rat societies have since sprung up in other countries as pet rats have gained in popularity worldwide. 
 
 Pet rats live to around 2-3 years of age. Adult bucks weigh around 500g and adult does around 300g. Rats are naturally social animals, and, as pets, are much happier when kept in single sex pairs rather than on their own. Both bucks and does make good pets.
 

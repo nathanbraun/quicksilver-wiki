@@ -158,10 +158,10 @@ To be fair there were additional issues of excessive purging of felons from vote
 
 ### External links
 
-* [History of computing hardware](https://en.wikipedia.org/wiki/history-of-computing-hardware)
-* [computer storage](https://en.wikipedia.org/wiki/computer-storage)
+* [History of computing hardware](https://en.wikipedia.org/wiki/History_of_computing_hardware)
+* [computer storage](https://en.wikipedia.org/wiki/Computer_data_storage)
 * [memory](https://en.wikipedia.org/wiki/memory)
-* [Herman Hollerith](https://en.wikipedia.org/wiki/herman-hollerith)
+* [Herman Hollerith](https://en.wikipedia.org/wiki/Herman_Hollerith)
 * A [review](http://www.americanheritage.com/amher-2001-05-cutedge-shtml) of the book *IBM and the Holocaust* ([ISBN 0609808990](/)) by Edwin Black, an interesting take on IBM's involvement with Nazi Germany.
 * [Various punched card codes](/http-homepages-cwi-nl-dik-english-codes-80col-html)
 * [*The Undead* - Wired magazine article about modern day use of punch cards](http://www.wired.com/wired-archive-7-03-punchcards-pr.html)

@@ -56,4 +56,4 @@ The resulting words thus encode some of the semantics of their meanings into the
 
 * **[The Dream of a Perfect Language ,Part IV](http://www.aymara.org/biblio-dream4.html)** , by Umberto Eco
 * **[The Semantic Web: An Introduction](http://infomesh.net/2001-swintro)**
-* **[Wikipedia entry for Wilkins](https://en.wikipedia.org/wiki/john-wilkins)**
+* **[Wikipedia entry for Wilkins](https://en.wikipedia.org/wiki/John_Wilkins)**

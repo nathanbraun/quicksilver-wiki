@@ -7,9 +7,9 @@ This is a [Quicksilver](/quicksilver) page about **monsters**
 ### Stephensonia
 
 
-*The late author [Gerald Kersh](http://harlanellison.com/kersh-biog.htm) wrote of sentient automatia, as has [Tim Powers](https://en.wikipedia.org/wiki/tim-powers)  When the 26 year old [Daniel](/daniel-waterhouse) thinks of [Leibniz](/leibniz) as **Monstro** it almost conjures up the [Disney](https://en.wikipedia.org/wiki/walt-disney) Whale from [Pinnochio](https://en.wikipedia.org/wiki/pinocchio-1940-movie). Here be **monsters** is a mindset an older and wiser Daniel wants eliminated from maps...* ![PinocchiomonstroMW.jpg](/https://web.archive.org/images/PinocchiomonstroMW.jpg)  
+*The late author [Gerald Kersh](http://harlanellison.com/kersh-biog.htm) wrote of sentient automatia, as has [Tim Powers](https://en.wikipedia.org/wiki/Tim_Powers)  When the 26 year old [Daniel](/daniel-waterhouse) thinks of [Leibniz](/leibniz) as **Monstro** it almost conjures up the [Disney](https://en.wikipedia.org/wiki/Walt_Disney) Whale from [Pinnochio](https://en.wikipedia.org/wiki/Pinocchio_%281940_film%29). Here be **monsters** is a mindset an older and wiser Daniel wants eliminated from maps...* ![PinocchiomonstroMW.jpg](/https://web.archive.org/images/PinocchiomonstroMW.jpg)  
 **Monstro the Whale © Disney - Fair Use  
-See this [movie](https://en.wikipedia.org/wiki/pinocchio-1940-movie) with the kids *ASAP!***
+See this [movie](https://en.wikipedia.org/wiki/Pinocchio_%281940_film%29) with the kids *ASAP!***
 
 ### Authored entries
 
@@ -28,7 +28,7 @@ See this [movie](https://en.wikipedia.org/wiki/pinocchio-1940-movie) with the ki
 ### Monsters
 
 
-It is likely [Leibniz](/gottfried-wilhelm-von-leibniz) is a **monster**  to many  in the sense of being beyond, or exceeding, the power or laws of nature; miraculous. Which means Daniel also views [Isaac Newton](/isaac-newton) in the same light. [Robert Anton Wilson](/robert-anton-wilson) had Sigismundo Celine AKA [Adam Weishaupt](https://en.wikipedia.org/wiki/adam-weishaupt) refer to [Wolfgang Amadeus Mozart](https://en.wikipedia.org/wiki/wolfgang-amadeus-mozart) as a **monster**. He should not be viewed as the hideous confrontational antagonist of fiction. Daniel knows real human monsters such as Upnor and Jeffreys, he just has turned a *blind eye* to them for the moment.
+It is likely [Leibniz](/gottfried-wilhelm-von-leibniz) is a **monster**  to many  in the sense of being beyond, or exceeding, the power or laws of nature; miraculous. Which means Daniel also views [Isaac Newton](/isaac-newton) in the same light. [Robert Anton Wilson](/robert-anton-wilson) had Sigismundo Celine AKA [Adam Weishaupt](https://en.wikipedia.org/wiki/Adam_Weishaupt) refer to [Wolfgang Amadeus Mozart](https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart) as a **monster**. He should not be viewed as the hideous confrontational antagonist of fiction. Daniel knows real human monsters such as Upnor and Jeffreys, he just has turned a *blind eye* to them for the moment.
 
 ### The Dream Dictionary: Monster
 
@@ -42,7 +42,7 @@ Dreaming that you are followed by a monster means that grief and misfortune are 
 ***Saint George versus the Dragon*  
 *by Gustave Moreau, (1880)***
 
-Occasionally, there are monsters who act out of legitimate motives and their monsterous appearance leads to serious misunderstandings. One well known example is the [Horta](https://en.wikipedia.org/wiki/horta) in the *[Star Trek](https://en.wikipedia.org/wiki/star-trek)* episode, "The Devil in The Dark". It is an ugly looking, but fully sentient rock like monster that could spray a powerful acid and was killing miners in the mines of a planet. However, when Capt. Kirk and Mr. Spock investigated the situation, they discovered that the creature was really desperately attempting to defend her young which were being inadvertantly killed by the miners. They inform the miners and a mutually beneficial agreement with the creature was reached to peacefully resolve the situation. 
+Occasionally, there are monsters who act out of legitimate motives and their monsterous appearance leads to serious misunderstandings. One well known example is the [Horta](https://en.wikipedia.org/wiki/horta) in the *[Star Trek](https://en.wikipedia.org/wiki/Star_Trek)* episode, "The Devil in The Dark". It is an ugly looking, but fully sentient rock like monster that could spray a powerful acid and was killing miners in the mines of a planet. However, when Capt. Kirk and Mr. Spock investigated the situation, they discovered that the creature was really desperately attempting to defend her young which were being inadvertantly killed by the miners. They inform the miners and a mutually beneficial agreement with the creature was reached to peacefully resolve the situation. 
 
 Some well known monsters are:
 * Bigfoot
@@ -85,12 +85,12 @@ Some well known monsters are:
 * The *Odyssey*
 * The myth of Perseus
 * Theseus and the minotaur
-* Antagonists of [Doctor Who](https://en.wikipedia.org/wiki/doctor-who)![150px-DrWho4.jpg](/https://web.archive.org/web/20060725170706im_/http://en.wikipedia.org/upload/thumb/6/60/150px-DrWho4.jpg)  
+* Antagonists of [Doctor Who](https://en.wikipedia.org/wiki/Doctor_Who)![150px-DrWho4.jpg](/https://web.archive.org/web/20060725170706im_/http://en.wikipedia.org/upload/thumb/6/60/150px-DrWho4.jpg)  
 **Fourth Doctor played  
 by Tom Baker**
 
 
-It's not beyond the wit of certain British writers to invoke [The Doctor](/leibniz) as a precursor to **[Doctor Who](https://en.wikipedia.org/wiki/doctor-who)** the British science fiction television series, produced by the BBC and concerning the adventures of a mysterious time-travelling adventurer known only as 'The Doctor'. It is also the title of a 1996 television movie featuring the same character. The program was and remains a significant part of British popular culture, widely recognised for its creative storytelling, use of innovative music which was produced by the BBC Radiophonic Workshop, and low-budget special effects. The show has become a cult television favourite on par with Star Trek, and has influenced generations of British genre television writers, many of whom grew up watching the series. In a list of the 100 Greatest British Television Programmes of the 20th century drawn up by the British Film Institute in 2000, voted for by industry professionals, Doctor Who was placed third. A new series of Doctor Who television episodes is being produced by the BBC. It is scheduled to broadcast on BBC One in Spring 2005.
+It's not beyond the wit of certain British writers to invoke [The Doctor](/leibniz) as a precursor to **[Doctor Who](https://en.wikipedia.org/wiki/Doctor_Who)** the British science fiction television series, produced by the BBC and concerning the adventures of a mysterious time-travelling adventurer known only as 'The Doctor'. It is also the title of a 1996 television movie featuring the same character. The program was and remains a significant part of British popular culture, widely recognised for its creative storytelling, use of innovative music which was produced by the BBC Radiophonic Workshop, and low-budget special effects. The show has become a cult television favourite on par with Star Trek, and has influenced generations of British genre television writers, many of whom grew up watching the series. In a list of the 100 Greatest British Television Programmes of the 20th century drawn up by the British Film Institute in 2000, voted for by industry professionals, Doctor Who was placed third. A new series of Doctor Who television episodes is being produced by the BBC. It is scheduled to broadcast on BBC One in Spring 2005.
 
 
 ---
@@ -100,16 +100,16 @@ It's not beyond the wit of certain British writers to invoke [The Doctor](/leibn
 
 
 
-In [mathematics](/mathematics), the **Monster group** M is a [group](https://en.wikipedia.org/wiki/group-mathematics) of order
+In [mathematics](/mathematics), the **Monster group** M is a [group](https://en.wikipedia.org/wiki/Group_%28mathematics%29) of order
    246 · 320 · 59 · 76 · 112 · 133 · 17 · 19 · 23 · 29 · 31 · 41 · 47 · 59 · 71 
  = 808017424794512875886459904961710757005754368000000000
  ≈ 8 · 1053.
 
-It is a [simple group](https://en.wikipedia.org/wiki/group-mathematics), meaning it does not have any [normal subgroups](https://en.wikipedia.org/wiki/normal-subgroup) except for the subgroup consisting only of the identity element, and *M* itself. Despite the name, simple groups are far from "simple". The finite simple groups are important because in a certain sense they are the "basic building blocks" of all finite groups, somewhat similar to the way [prime numbers](https://en.wikipedia.org/wiki/prime-number) are the basic building blocks of the [integers](https://en.wikipedia.org/wiki/integer). This is expressed by the [Jordan-Hölder theorem](https://en.wikipedia.org/wiki/jordan-hölder-theorem).
+It is a [simple group](https://en.wikipedia.org/wiki/Group_%28mathematics%29), meaning it does not have any [normal subgroups](https://en.wikipedia.org/wiki/Normal_subgroup) except for the subgroup consisting only of the identity element, and *M* itself. Despite the name, simple groups are far from "simple". The finite simple groups are important because in a certain sense they are the "basic building blocks" of all finite groups, somewhat similar to the way [prime numbers](https://en.wikipedia.org/wiki/prime-number) are the basic building blocks of the [integers](https://en.wikipedia.org/wiki/integer). This is expressed by the [Jordan-Hölder theorem](https://en.wikipedia.org/wiki/jordan-hölder-theorem).
 
-The only simple groups which are [abelian](https://en.wikipedia.org/wiki/abelian-group) are the [cyclic groups](https://en.wikipedia.org/wiki/cyclic-group) whose order is a prime number. In a huge collaborative effort, the [classification of finite simple groups](https://en.wikipedia.org/wiki/classification-of-finite-simple-groups) was accomplished in 1982. 
+The only simple groups which are [abelian](https://en.wikipedia.org/wiki/Abelian_group) are the [cyclic groups](https://en.wikipedia.org/wiki/Cyclic_group) whose order is a prime number. In a huge collaborative effort, the [classification of finite simple groups](https://en.wikipedia.org/wiki/Classification_of_finite_simple_groups) was accomplished in 1982. 
 
-The [Monster](https://en.wikipedia.org/wiki/dimension-mathematical-dimensions) was found by B. Fischer and R. Griess in 1973. It can be constructed as a group of rotations in a space of [dimension](https://en.wikipedia.org/wiki/dimension) 196,883 over the [rational numbers](https://en.wikipedia.org/wiki/rational-number).
+The [Monster](https://en.wikipedia.org/wiki/dimension-mathematical-dimensions) was found by B. Fischer and R. Griess in 1973. It can be constructed as a group of rotations in a space of [dimension](https://en.wikipedia.org/wiki/dimension) 196,883 over the [rational numbers](https://en.wikipedia.org/wiki/Rational_number).
 
 The Monster group prominently features in the [http://www.berkeley.edu/news/media/releases/98legacy/08-19-1998a.html [Monstrous Moonshine conjecture](http://www.berkeley.edu/news-media-releases-98legacy-08-19-1998a.html) which relates discrete and non-discrete mathematics and was proven by Richard Borcherds in 1989. 
 
@@ -155,17 +155,17 @@ He was made a Fellow of the [Royal Society](/royal-society) in 1994, and also re
 * Richard Borcherds, "What is *The Monster*?", *Notices of the American Mathematical Society*, Volume 49, Number 9 (October 2002), electronic copy at [[4]](http://www.ams.org/notices-200209-what-is.pdf)
 * Richard Borcherds' web site [[5]](http://math.berkeley.edu/reb). (has links to some relatively informal lecture notes describing his work)
 * [cryptozoology](https://en.wikipedia.org/wiki/cryptozoology)
-* [legendary creature](https://en.wikipedia.org/wiki/legendary-creature)
+* [legendary creature](https://en.wikipedia.org/wiki/Legendary_creature)
 * [sea monster](https://en.wikipedia.org/wiki/sea-monster)
-* [lake monster](https://en.wikipedia.org/wiki/lake-monster)
+* [lake monster](https://en.wikipedia.org/wiki/Lake_monster)
 * [Frankenstein](https://en.wikipedia.org/wiki/frankenstein)
-* [Doctor Who](https://en.wikipedia.org/wiki/doctor-who)
+* [Doctor Who](https://en.wikipedia.org/wiki/Doctor_Who)
 * [Doctor Who](http://www.bbc.co.uk/cult-doctorwho) Image:*(Fair use. BBC Doctor Who website. [http://www.bbc.co.uk/cult/doctorwho/)](http://www.bbc.co.uk/cult-doctorwho)*
-* [Walt Disney](https://en.wikipedia.org/wiki/walt-disney)'s Monstro should be fair use as well.
+* [Walt Disney](https://en.wikipedia.org/wiki/Walt_Disney)'s Monstro should be fair use as well.
 
 
 
 ---
 
 
-*This article is about monsters as a kind of hostile [legendary creature](https://en.wikipedia.org/wiki/legendary-creatures). For other uses, see [Monster (disambiguation)](https://en.wikipedia.org/wiki/monster-disambiguation).*
+*This article is about monsters as a kind of hostile [legendary creature](https://en.wikipedia.org/wiki/Legendary_creature). For other uses, see [Monster (disambiguation)](https://en.wikipedia.org/wiki/Monster_%28disambiguation%29).*

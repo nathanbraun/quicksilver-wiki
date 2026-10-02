@@ -148,7 +148,7 @@ The Lord Protector and his Son**
 
 
 1. [Ironsides](https://en.wikipedia.org/wiki/ironside) Bless Raymond Burr!
-* [Oliver Cromwell (Wikipedia)](https://en.wikipedia.org/wiki/oliver-cromwell)
+* [Oliver Cromwell (Wikipedia)](https://en.wikipedia.org/wiki/Oliver_Cromwell)
 * [Cromwell's internet portal](http://www.cromwell.argonet.co.uk)
 * [Cromwell's ancestry (Rootsweb)](http://papayne.rootsweb.com/d0014-f0000021.html)
 * [The Cromwell family](http://www.tudorplace.com/ar-cromwell.htm)

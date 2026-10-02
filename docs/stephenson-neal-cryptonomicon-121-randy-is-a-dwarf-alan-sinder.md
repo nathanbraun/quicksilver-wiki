@@ -22,7 +22,7 @@ This page talks about why **Randy is a Dwarf** and examines **Dwarves and Wizard
 ### When One is in a *Middle-Earth* Mindset
 
 
-One can't *just* defeat **EVIL** every age like one's hero grandfather. One could find themselves blessed enough to live in a period of peace. The modern-era protagonist of [Cryptonomicon](/cryptonomicon), [Randy Waterhouse](/randy-waterhouse) views himself as a **Dwarf** in a [Tolkienian](https://en.wikipedia.org/wiki/j-r-r-tolkien) sense. He isn't going to use his axe on the professor who's stolen his *now* ex - Charlene  as a new business opportunity is beckoning far away from home. He's blessed that unlike his ancestor [Quicksilver](/stephenson-neal-quicksilver)'s [Daniel Waterhouse](/daniel-waterhouse); he is not a *lesser* Wizard made obscure by polymath genius level Wizards. You've got to wonder if Randy has *pigeonholed* himself in the *right* category.![HildebrandtMW.jpg](/images/HildebrandtMW.jpg)  
+One can't *just* defeat **EVIL** every age like one's hero grandfather. One could find themselves blessed enough to live in a period of peace. The modern-era protagonist of [Cryptonomicon](/cryptonomicon), [Randy Waterhouse](/randy-waterhouse) views himself as a **Dwarf** in a [Tolkienian](https://en.wikipedia.org/wiki/J._R._R._Tolkien) sense. He isn't going to use his axe on the professor who's stolen his *now* ex - Charlene  as a new business opportunity is beckoning far away from home. He's blessed that unlike his ancestor [Quicksilver](/stephenson-neal-quicksilver)'s [Daniel Waterhouse](/daniel-waterhouse); he is not a *lesser* Wizard made obscure by polymath genius level Wizards. You've got to wonder if Randy has *pigeonholed* himself in the *right* category.![HildebrandtMW.jpg](/images/HildebrandtMW.jpg)  
 **The Fellowship of the Ring  
 Pippin, Gimli, Legolas, Sam, Frodo, Gandalf, Aragorn, Merry, and Boromir**
 
@@ -160,7 +160,7 @@ In Norse mythology, ***Gandalf*** is a dwarvish name referenced in the "Catalogu
 ### External links
 
 
-* [LOTR](https://en.wikipedia.org/wiki/the-lord-of-the-rings)
+* [LOTR](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings)
 * [The Tolkien Wiki Community](http://www.thetolkienwiki.org)
 * [TheOneRing.net - forged by and for fans of J.R.R. Tolkien](http://www.theonering.net)
 * [The Lord of the Rings Fanatics Plaza - Tolkien Community](http://www.lotrplaza.com)

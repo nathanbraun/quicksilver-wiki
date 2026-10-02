@@ -36,7 +36,7 @@ Rabbi Hier is the founder of Moriah, the Center's film division, and is the reci
 
 Several years ago Rabbi Hier keynoted an historic conference on antisemitism and the struggle for tolerance which was co-sponsored by UNESCO (United Nations Educational, Scientific and Cultural Organization) and the Simon Wiesenthal Center, convened at UNESCO's international headquarters in Paris. He is the recipient of an honorary degree and many awards, in 1993 was made a Cheval
 
-### [Wikipedia: Simon Wiesenthal](https://en.wikipedia.org/wiki/simon-wiesenthal)
+### [Wikipedia: Simon Wiesenthal](https://en.wikipedia.org/wiki/Simon_Wiesenthal)
 
 Simon Wiesenthal, KBE (December 31, 1908  September 20, 2005), was an Austrian Nazi hunter. Wiesenthal dedicated most of his life to tracking down and gathering information on fugitive Nazi war criminals so that they could be brought to trial.
 ![Simon_Wiesenthal.jpg](/images/Simon_Wiesenthal.jpg)  

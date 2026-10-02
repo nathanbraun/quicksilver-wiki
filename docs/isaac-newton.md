@@ -168,8 +168,8 @@ F.Y.I.: The name Isaac -- son of Abraham in the TORAH -- means 'laughter.'
 
 * [Issac Newton may have had Asperger's Syndrome](http://www.wrongplanet.net), related to Autism
 * 1 [Agenda](http://www.cftech.com/brainbank-otherreference-biography-newtonian.html)
-* 2 [First Council of Nicea](https://en.wikipedia.org/wiki/first-council-of-nicaea)
-* **[Isaac Newton (Wikipedia)](https://en.wikipedia.org/wiki/isaac-newton)**
+* 2 [First Council of Nicea](https://en.wikipedia.org/wiki/First_Council_of_Nicaea)
+* **[Isaac Newton (Wikipedia)](https://en.wikipedia.org/wiki/Isaac_Newton)**
 * **[Wikipedia's In-Depth Article](https://en.wikipedia.org/wiki/isaac-newton-in-depth-biography)**
 * **[Principia:Book Two: Lemma II](/http-www-maths-tcd-ie-pub-histmath-people-newton-principia-bk2lem2)**
 * **[Opticks on CD (Octavo)](http://www.octavo.com/collections-projects-nwtopt-index.html)**

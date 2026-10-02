@@ -17,7 +17,7 @@ From Wikipedia, the free encyclopedia.
 n physics, kinetic energy is energy possessed by a body by virtue of its motion. In Newtonian mechanics, a body with mass m, moving in a straight line with velocity v, has a translational kinetic energy of 
 .
 
-More in [link](https://en.wikipedia.org/wiki/kinetic-energy).
+More in [link](https://en.wikipedia.org/wiki/Kinetic_energy).
 
 ### Related entries
 

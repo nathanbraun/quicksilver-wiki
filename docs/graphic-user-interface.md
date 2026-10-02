@@ -38,9 +38,9 @@ Because GUIs and TUIs tend to show most or all relevant categories of commands o
 ### See also:
 
 
-* **[History of the GUI](https://en.wikipedia.org/wiki/history-of-the-gui)**
-* **[UIML](https://en.wikipedia.org/wiki/uiml)**
-* **[Fitts' law](https://en.wikipedia.org/wiki/fitts-law)**
-* **[Alan Kay](https://en.wikipedia.org/wiki/alan-kay)** "The best way to predict the future is to invent it!" Inventor of SmallTalk
+* **[History of the GUI](https://en.wikipedia.org/wiki/History_of_the_graphical_user_interface)**
+* **[UIML](https://en.wikipedia.org/wiki/UIML)**
+* **[Fitts' law](https://en.wikipedia.org/wiki/Fitts's_law)**
+* **[Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay)** "The best way to predict the future is to invent it!" Inventor of SmallTalk
 * **[Anti-Mac](https://en.wikipedia.org/wiki/anti-mac)** The **Anti-Mac** is a hypothetical computer user interface that is not tied to the conventions of the Apple Macintosh graphical user interface. The term comes from an essay by Don Gentner and Jakob Nielsen.
-* **[Apple v. Microsoft](https://en.wikipedia.org/wiki/apple-v-microsoft)**
+* **[Apple v. Microsoft](https://en.wikipedia.org/wiki/Apple_Computer,_Inc._v._Microsoft_Corp.)**

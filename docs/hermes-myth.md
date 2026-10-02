@@ -154,7 +154,7 @@ King Atreus of Mycenae retook the throne from his brother, Thyestes using advice
 
 1. Daphnis
 
-### [English Wikipedia: Hermes Trismegistus](https://en.wikipedia.org/wiki/hermes-trismegistus)
+### [English Wikipedia: Hermes Trismegistus](https://en.wikipedia.org/wiki/Hermes_Trismegistus)
 
 
 **Hermes Trismegistus** is the latin name for "Hermes the thrice-greatest" derived from ????? ? *Ερμης ο Τρισμεγιστος*, the Greek name of the Egyptian god [Thoth](https://en.wikipedia.org/wiki/thoth) (the god of wisdom and writing). 
@@ -213,7 +213,7 @@ The acidic juice of pomegranates is used in Indian cookery; thickened and sweete
 
 Pomegranates are a symbol of fertility because of their many seeds, yet of death because of the vivid blood red of the pulp. (See [life-death-rebirth deity](https://en.wikipedia.org/wiki/life-death-rebirth-deity).) In mythology, **[Persephone](https://en.wikipedia.org/wiki/persephone)** was condemned to spend time in the Underworld every year because **[Hades](https://en.wikipedia.org/wiki/hades)** tricked her into eating six pomegranate seeds while she was his prisoner. 
 
-The pomegranate was a symbol of the Aegean [Triple Goddess](https://en.wikipedia.org/wiki/triple-goddess) who evolved into Olympian **[Hera](https://en.wikipedia.org/wiki/hera)**, who is represented offering the pomegranate. 
+The pomegranate was a symbol of the Aegean [Triple Goddess](https://en.wikipedia.org/wiki/Triple_deity) who evolved into Olympian **[Hera](https://en.wikipedia.org/wiki/hera)**, who is represented offering the pomegranate. 
 
 #### Astrology
 
@@ -238,22 +238,22 @@ It flowers in early summer.
 | **Pomegranate** |
 | --- |
 | Pomegranate.jpg |
-| **[Scientific classification](https://en.wikipedia.org/wiki/scientific-classification)** |
+| **[Scientific classification](https://en.wikipedia.org/wiki/Taxonomy)** |
 | 
 
 |  |  |
 | --- | --- |
-| [Kingdom](https://en.wikipedia.org/wiki/kingdom-biology):  | [Plantae](https://en.wikipedia.org/wiki/plantae) |
-| [Division](https://en.wikipedia.org/wiki/division-biology):  | [Magnoliophyta](https://en.wikipedia.org/wiki/magnoliophyta) |
-| [Class](https://en.wikipedia.org/wiki/class-biology):  | [Magnoliopsida](https://en.wikipedia.org/wiki/magnoliopsida) |
+| [Kingdom](https://en.wikipedia.org/wiki/Kingdom_%28taxonomy%29):  | [Plantae](https://en.wikipedia.org/wiki/plantae) |
+| [Division](https://en.wikipedia.org/wiki/Division#Science):  | [Magnoliophyta](https://en.wikipedia.org/wiki/magnoliophyta) |
+| [Class](https://en.wikipedia.org/wiki/Class_%28taxonomy%29):  | [Magnoliopsida](https://en.wikipedia.org/wiki/magnoliopsida) |
 | Subclass:
  | [Rosidae](https://en.wikipedia.org/wiki/rosidae) |
-| [Order](https://en.wikipedia.org/wiki/order-biology):  | [Myrtales](https://en.wikipedia.org/wiki/myrtales) |
-| [Family](https://en.wikipedia.org/wiki/family-biology):  | [Punicaceae](https://en.wikipedia.org/wiki/punicaceae) |
+| [Order](https://en.wikipedia.org/wiki/Order_%28taxonomy%29):  | [Myrtales](https://en.wikipedia.org/wiki/myrtales) |
+| [Family](https://en.wikipedia.org/wiki/Family_%28disambiguation%29):  | [Punicaceae](https://en.wikipedia.org/wiki/punicaceae) |
 | **[Genus](https://en.wikipedia.org/wiki/genus)**:  | ***Punica*** |
 
 | **Species** |
-| *[P. granatum](https://en.wikipedia.org/wiki/punica-granatum)*
+| *[P. granatum](https://en.wikipedia.org/wiki/Pomegranate)*
 *[P. proto-punica](https://en.wikipedia.org/wiki/punica-proto-punica)* |
  |
 
@@ -300,4 +300,4 @@ A decoction of the rind of the fruit cheeks diarrhoea and dysentery and, injecte
 1. [Hermes vs the Eyeball Kid](http://www.darkhorse.com/profile-profile-php-sku-92-440)
 * [more Hermes info](http://www.elolimpo.com/personajes-personaje-asp-idper-1)
 * **[Alchemy's Symbols](http://www.chemsoc.org/viselements-pages-alchemist-alchemy.html)**
-* [Orion (mythology)](https://en.wikipedia.org/wiki/orion-mythology)
+* [Orion (mythology)](https://en.wikipedia.org/wiki/Orion_%28mythology%29)

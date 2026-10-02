@@ -96,7 +96,7 @@ Boston enjoys an intense rivalry with New York City, New York. This rivalry is c
 
 #### External links
 
-* [Massachusetts Institute of Technology (MIT)](https://en.wikipedia.org/wiki/massachusetts-institute-of-technology) Seems Enoch can prognosticate with the best.
+* [Massachusetts Institute of Technology (MIT)](https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology) Seems Enoch can prognosticate with the best.
 * [City's official website](http://www.cityofboston.gov)
 * [Commercial portal](http://www.boston.com)
 * [City guide](http://yourtown.boston.com)

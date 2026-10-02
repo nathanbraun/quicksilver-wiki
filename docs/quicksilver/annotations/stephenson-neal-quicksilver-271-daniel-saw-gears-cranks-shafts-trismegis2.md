@@ -70,7 +70,7 @@ In some machines it is necessary to change the gear ratio to suit the task. Ther
 
 The tooth form used for most applications is involute but there are other tooth forms such as cycloidal (used in mechanical clocks) or rack (used in automobile steering).
 
-### [Wikipedia: Crank (mechanism)](https://en.wikipedia.org/wiki/crank)
+### [Wikipedia: Crank (mechanism)](https://en.wikipedia.org/wiki/Crank_%28mechanism%29)
 
 
 A crank is a bent portion of an axle, or shaft, or an arm keyed at right angles to the end of a shaft, by which motion is imparted to or received from it; also used to change circular into reciprocating motion, or reciprocating into circular motion. Familiar examples of a crank for manual use include the crank on a manual pencil sharpener and the cranks on the pedals that drive a bicycle.
@@ -131,5 +131,5 @@ In the Wankel engine, the rotors drive the eccentic shaft, which can be consider
 
 * [1670 GOTTFRIED VON LIEBNIZ CREATES A MORE RELIABLE ADDING MACHINE THAT ADDS, SUBTRACTS, MULTIPLIES, DIVIDES, AND CALCULATES SQUARE ROOTS.](http://www.cis.usouthal.edu/faculty-daigle-project1-70gott.htm)
 * [Leibniz Calculating Machine](http://www.1.ibm.com/ibm-history-exhibits-attic3-attic3-037.html)
-* [Antikythera mechanism](https://en.wikipedia.org/wiki/antikythera-mechanism)
-* [Epicyclic gearing](https://en.wikipedia.org/wiki/epicyclic-gearing)
+* [Antikythera mechanism](https://en.wikipedia.org/wiki/Antikythera_mechanism)
+* [Epicyclic gearing](https://en.wikipedia.org/wiki/Epicyclic_gearing)

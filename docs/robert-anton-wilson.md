@@ -28,7 +28,7 @@ In a 2003 interview with High Times magazine, R.A.W. called himself a "Model Agn
 * Wilson and Miriam Joan Hill also maintain [Blackops](http://www.cruzio.com/blackops), a website of conspiracies in which visitors can add their own.
 * [Robert Anton Wilson Online Library](http://www.deepleafproductions.com/wilsonlibrary-index.htm) - has every RAW interview and text on the web
 * Smoley, Richard and Jay Kinney, "Doubt!: The Gnosis Interview with Robert Anton Wilson," *Gnosis,* No. 50 (Winter 1999).
-* [Paul Krassner](https://en.wikipedia.org/wiki/paul-krassner), [A Paul Krassner Interview With R. A. W](http://www.newfalcon.com/author-articles-wilson-interview-pk-a.htm). *High Times,* some time in 2003 Please add details here.
+* [Paul Krassner](https://en.wikipedia.org/wiki/Paul_Krassner), [A Paul Krassner Interview With R. A. W](http://www.newfalcon.com/author-articles-wilson-interview-pk-a.htm). *High Times,* some time in 2003 Please add details here.
 * [Wilson, Robert Anton booklist from New Falcon Publications](http://www.newfalcon.com/alpha-by-author-htm-wilson)
 * [Robert Anton Wilson's political party](http://www.gunsanddope.com)
 
@@ -77,4 +77,4 @@ I also recommend
 ### Links
 
 
-* **[RAW on Wiki](https://en.wikipedia.org/wiki/robert-anton-wilson)**
+* **[RAW on Wiki](https://en.wikipedia.org/wiki/Robert_Anton_Wilson)**

@@ -3,7 +3,7 @@
 
 From the Quicksilver Metaweb.
 
-### [Wikipedia: Charles Anthoni Johnson Brooke](https://en.wikipedia.org/wiki/charles-anthoni-johnson-brooke)
+### [Wikipedia: Charles Anthoni Johnson Brooke](https://en.wikipedia.org/wiki/Charles_Brooke,_Rajah_of_Sarawak)
 
 
 
@@ -34,4 +34,4 @@ Charles was succeeded as Rajah by his son, Charles Vyner Brooke.
 ### External links
 
 
-* [Wikipedia: Charles Anthoni Johnson Brooke](https://en.wikipedia.org/wiki/charles-anthoni-johnson-brooke) - the basis for this entry
+* [Wikipedia: Charles Anthoni Johnson Brooke](https://en.wikipedia.org/wiki/Charles_Brooke,_Rajah_of_Sarawak) - the basis for this entry

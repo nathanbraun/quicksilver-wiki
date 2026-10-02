@@ -178,7 +178,7 @@ this is useful for:
 
 
 WARNING: If you make it wide,
-you [force the whole page to be wide](https://en.wikipedia.org/wiki/page-widening) and
+you [force the whole page to be wide](https://en.wikipedia.org/wiki/Wrapping_%28text%29) and
 hence less readable. Never start ordinary lines with spaces.
  | 
 ```
@@ -252,7 +252,7 @@ and this is below it.
 | What it looks like | What you type |
 | --- | --- |
 | London has good
-[public transport](https://en.wikipedia.org/wiki/public-transport).
+[public transport](https://en.wikipedia.org/wiki/Public_transport).
 * First letter of target is automatically capitalized.
 * Internally spaces are automatically represented as underscores (typing an underscore has the same effect as typing a space, but is not recommended).
 
@@ -260,7 +260,7 @@ Thus the link above is to http://www.metaweb.com/wiki/wiki.phtml?title=Public\_t
  | London has good
 [http://en.wikipedia.org/wiki/Public\_transport public transport]
 
-*Seems many think London has good [public transport](https://en.wikipedia.org/wiki/public-transport) but itdoesn't measure up to even a small city in [Japan](https://en.wikipedia.org/wiki/japan) like [Fukuoka](https://en.wikipedia.org/wiki/fukuoka)*.
+*Seems many think London has good [public transport](https://en.wikipedia.org/wiki/Public_transport) but itdoesn't measure up to even a small city in [Japan](https://en.wikipedia.org/wiki/japan) like [Fukuoka](https://en.wikipedia.org/wiki/fukuoka)*.
  |
 | 
 Link to a section on a page, e.g. 

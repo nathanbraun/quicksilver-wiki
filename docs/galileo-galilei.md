@@ -6,7 +6,7 @@ From the Quicksilver Metaweb.
 Placeholder for **Galileo**
 ### Stephensonia
 
-*The "Academy of the Lynxes" seem to be an early version of the [Royal Society](/royal-society); Shame Prince Cesi died before the publication of [Dialogue Concerning The Two Chief World Systems](https://en.wikipedia.org/wiki/dialogue-concerning-the-two-chief-world-systems).*
+*The "Academy of the Lynxes" seem to be an early version of the [Royal Society](/royal-society); Shame Prince Cesi died before the publication of [Dialogue Concerning The Two Chief World Systems](https://en.wikipedia.org/wiki/Dialogue_Concerning_the_Two_Chief_World_Systems).*
 
 ### Authored entries
 
@@ -86,7 +86,7 @@ This work, published in Florence in 1632, was Galileo 's scientific and literary
 ### External links
 
 * **[ISBN 0140280553](/) Dava Sobel's [Galileo's Daughter: A Historical Memoir of Science, Faith, and Love](http://www.amazon.com/exec-obidos-tg-detail-0140280553-qid-1071499704-ref-sr-8-xs-ap-i0-xgl14-002-8705843-0436068-v-glance-s-books-n-507846-product-details)**
-* **[The Lynxes](https://en.wikipedia.org/wiki/accademia-dei-lincei)**
-* **[Dialogue Concerning the Two Chief World Systems](https://en.wikipedia.org/wiki/dialogue-concerning-the-two-chief-world-systems)**
-* **[Galileo Galilei](https://en.wikipedia.org/wiki/galileo-galilei)**
-* **[Classical mechanics](https://en.wikipedia.org/wiki/classical-mechanics)**
+* **[The Lynxes](https://en.wikipedia.org/wiki/Accademia_dei_Lincei)**
+* **[Dialogue Concerning the Two Chief World Systems](https://en.wikipedia.org/wiki/Dialogue_Concerning_the_Two_Chief_World_Systems)**
+* **[Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei)**
+* **[Classical mechanics](https://en.wikipedia.org/wiki/Classical_mechanics)**

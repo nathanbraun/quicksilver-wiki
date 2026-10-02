@@ -40,13 +40,13 @@ It has been confused with [Malabar](/malabar), the domain of Queen Kottakal, whi
 
 
 * [WikiPedia:Spratly Islands](/) are a geographical neighbor of Queena-Kootah.
-	+ [Geography of the Spratly Islands](https://en.wikipedia.org/wiki/geography-of-the-spratly-islands)
-	+ [Economy of the Spratly Islands](https://en.wikipedia.org/wiki/economy-of-the-spratly-islands)
-	+ [Transportation in the Spratly Islands](https://en.wikipedia.org/wiki/transportation-in-the-spratly-islands)
-* [Paracel Islands](https://en.wikipedia.org/wiki/paracel-islands)
-* [Macclesfield Bank](https://en.wikipedia.org/wiki/macclesfield-bank)
-* [Pratas Islands](https://en.wikipedia.org/wiki/pratas-islands)
+	+ [Geography of the Spratly Islands](https://en.wikipedia.org/wiki/Spratly_Islands#Geographic_and_economic_overview)
+	+ [Economy of the Spratly Islands](https://en.wikipedia.org/wiki/Spratly_Islands#Geographic_and_economic_overview)
+	+ [Transportation in the Spratly Islands](https://en.wikipedia.org/wiki/Spratly_Islands#Transportation_and_communication)
+* [Paracel Islands](https://en.wikipedia.org/wiki/Paracel_Islands)
+* [Macclesfield Bank](https://en.wikipedia.org/wiki/Macclesfield_Bank)
+* [Pratas Islands](https://en.wikipedia.org/wiki/Pratas_Island#Pratas_Islands)
 * [Coming Attractions](http://www.comebackalive.com/df-attractn.htm)
-* [The Solomons](https://en.wikipedia.org/wiki/solomon-islands)
+* [The Solomons](https://en.wikipedia.org/wiki/Solomon_Islands)
 * [Sri Lanka](/sri-lanka) is geographically similar to Queena-Kootah.
 * [Serendipity](/serendipity) got its name from Sri Lanka's old Persian name.

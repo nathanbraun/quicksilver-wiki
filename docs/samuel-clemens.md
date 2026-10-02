@@ -94,7 +94,7 @@ The small town of Hannibal, Missouri is another town that features many Mark Twa
 ### External links
 
 
-* [Mark Twain quotes](https://quote.wikipedia.org/wiki/mark-twain) at [Wikiquote](http://wikiquote.org/wiki-list-of-literary-works)
+* [Mark Twain quotes](https://en.wikiquote.org/wiki/Mark_Twain) at [Wikiquote](http://wikiquote.org/wiki-list-of-literary-works)
 * [Ever the Twain Shall Meet](http://users.telerama.com/joseph-mtwain.html), A guide to Mark Twain on the Web
 * [Web directory of Mark Twain e-texts](http://dmoz.org/arts-literature-world-literature-american-19th-century-twain-mark-works) from [DMOZ](https://en.wikipedia.org/wiki/dmoz)
 * [The Works of Mark Twain](http://www.mtwain.com), Chapter-indexed, searchable versions of Twain's works.

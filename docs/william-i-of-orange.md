@@ -47,5 +47,5 @@ The *William of Orange* in [Stephenson:Neal:Quicksilver](/stephenson-neal-quicks
 
 
 
-* [http://wikipedia.org/wiki/William\_of\_Orange](http://wikipedia.org/wiki-william_of_orange)
+* [http://wikipedia.org/wiki/William\_of\_Orange](https://en.wikipedia.org/wiki/William_of_Orange)
 * [http://civ3.com/conq\_prof\_dutch.cfm](http://civ3.com/conq_prof_dutch-cfm)

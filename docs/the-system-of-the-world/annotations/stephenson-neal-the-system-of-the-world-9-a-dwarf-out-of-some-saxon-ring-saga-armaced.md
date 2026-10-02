@@ -35,10 +35,10 @@ Stories of dwarves may have a historical background: during the Bronze Age, tin 
 
 * [Sources of Lord of the Rings](http://www.sacred.texts.com/ring)
 * [Wikipedia: The Nibelungenlied](https://en.wikipedia.org/wiki/nibelungenlied)
-	+ [Wikipedia: The Ring of the Nibelung](https://en.wikipedia.org/wiki/der-ring-des-nibelungen)
-	+ [Volsunga saga](https://en.wikipedia.org/wiki/volsunga-saga) - [Norse Mythology](https://en.wikipedia.org/wiki/norse-mythology)
+	+ [Wikipedia: The Ring of the Nibelung](https://en.wikipedia.org/wiki/Der_Ring_des_Nibelungen)
+	+ [Volsunga saga](https://en.wikipedia.org/wiki/Völsunga_saga) - [Norse Mythology](https://en.wikipedia.org/wiki/Norse_mythology)
 * [Wikipedia: Beowulf](https://en.wikipedia.org/wiki/beowulf)
-* [Wikipedia: Plato's Ring of Gyges](https://en.wikipedia.org/wiki/ring-of-gyges)
+* [Wikipedia: Plato's Ring of Gyges](https://en.wikipedia.org/wiki/Ring_of_Gyges)
 * [Wikipedia: The Cursed Ring](https://en.wikipedia.org/wiki/the-cursed-ring)
 
 

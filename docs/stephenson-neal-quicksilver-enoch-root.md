@@ -15,7 +15,7 @@ This is an intermediate page for **Enoch Root**.
 
 
 [![BarbarossaMW.jpg](/images/BarbarossaMW.jpg)](barbarossamw-jpg)  
-**[The King in the Mountain](https://en.wikipedia.org/wiki/sleeping-hero)**  
+**[The King in the Mountain](https://en.wikipedia.org/wiki/King_asleep_in_the_mountain)**  
 *Could this be Enoch?*
 *Enoch's existence is Stephensonia illustrated. [Randy Waterhouse](/randy-waterhouse) seems to liken him to [Gandalf the White](/stephenson-neal-cryptonomicon-121-randy-is-a-dwarf-alan-sinder). Neal has been quoted that Enoch of [Cryptonomicon](/cryptonomicon), is the the same character in the [Baroque Cycle](/baroque-cycle); Though, his manifestations may have different corporal bases. 
 One also wonders how much Enoch's name owes to [Elihu Root](/)? ...*
@@ -83,7 +83,7 @@ Note that the Biblical character named Enoch is reported to have avoided death, 
 In the [Book of Genesis](https://en.wikipedia.org/wiki/genesis), **Enoch** ([Hebrew](https://en.wikipedia.org/wiki/hebrew-language) חנוך *Chanoch* or *Ḥănôkh*) is a name shared by two individuals.
 
 * The first was the son of [Cain](https://en.wikipedia.org/wiki/cain). Cain later founded a city which he named Enoch.
-* The second was the son of [Jared](https://en.wikipedia.org/wiki/jared), father of [Methuselah](https://en.wikipedia.org/wiki/methuselah) and the grandfather of [Noah](/noah), although Noah is thought to have taken the name 'Noah', post-flood, and was originally named "Enoch". Genesis 5:24 tells us, "Enoch walked with God; then he was no more, because God took him away". According to the [Hebrew](https://en.wikipedia.org/wiki/hebrew) [Book of Enoch](https://en.wikipedia.org/wiki/book-of-enoch), [God](https://en.wikipedia.org/wiki/god) took Enoch and transformed him into the [angel](https://en.wikipedia.org/wiki/angel) [Metatron](https://en.wikipedia.org/wiki/metatron). In the new testament [Jude](https://en.wikipedia.org/wiki/epistle-of-jude) quotes Enoch as prophesying a day of judgement. According to the **Church of Jesus Christ of Latter-day Saints's** [Pearl of Great Price](https://en.wikipedia.org/wiki/pearl-of-great-price) [[1]](http://www.metaweb.com/wiki-wiki-phtml-title-robert-hooke), this Enoch founded the righteous city of [Zion](https://en.wikipedia.org/wiki/zion) in a very wicked world. He and the entire city's inhabitants were "translated" by God and vanished from the presence of the earth before the [Great Flood](https://en.wikipedia.org/wiki/great-flood). Methuselah and his family (including Noah) were left behind so that righteous people could still populate the earth.
+* The second was the son of [Jared](https://en.wikipedia.org/wiki/jared), father of [Methuselah](https://en.wikipedia.org/wiki/methuselah) and the grandfather of [Noah](/noah), although Noah is thought to have taken the name 'Noah', post-flood, and was originally named "Enoch". Genesis 5:24 tells us, "Enoch walked with God; then he was no more, because God took him away". According to the [Hebrew](https://en.wikipedia.org/wiki/hebrew) [Book of Enoch](https://en.wikipedia.org/wiki/Book_of_Enoch), [God](https://en.wikipedia.org/wiki/god) took Enoch and transformed him into the [angel](https://en.wikipedia.org/wiki/angel) [Metatron](https://en.wikipedia.org/wiki/metatron). In the new testament [Jude](https://en.wikipedia.org/wiki/Epistle_of_Jude) quotes Enoch as prophesying a day of judgement. According to the **Church of Jesus Christ of Latter-day Saints's** [Pearl of Great Price](https://en.wikipedia.org/wiki/Pearl_of_Great_Price) [[1]](http://www.metaweb.com/wiki-wiki-phtml-title-robert-hooke), this Enoch founded the righteous city of [Zion](https://en.wikipedia.org/wiki/zion) in a very wicked world. He and the entire city's inhabitants were "translated" by God and vanished from the presence of the earth before the [Great Flood](https://en.wikipedia.org/wiki/Flood_myth). Methuselah and his family (including Noah) were left behind so that righteous people could still populate the earth.
 
 
 ### Wikipedia: Metatron
@@ -139,7 +139,7 @@ The German invasion of the Soviet Union in 1941 was codenamed Operation Barbaros
 
 Umberto Eco has his character *Baudolino* interact with Frederick.
 
-### Wikipedia: [The King in the Mountains](https://en.wikipedia.org/wiki/sleeping-hero)
+### Wikipedia: [The King in the Mountains](https://en.wikipedia.org/wiki/King_asleep_in_the_mountain)
 
 
 A **king in the mountain**, also known as a **sleeping hero**, is a repeated motif that appears in a number of folktales. 
@@ -193,7 +193,7 @@ The motif is interesting in that it combines the idea of a supernatural national
 * Of his youth — we've this quote (p. 524): "...Enoch shrugs modestly. 'Where I grew up, memorizing the digits of pi was the closest thing we had to entertainment.' "
 * on a beach (coming down from the mountains) working as a *spotter* for the *good guys* after the China Raider [Bobby Shaftoe](/bobby-shaftoe) seems to have had a nightmare encounter with a [big lizard](/megalania-prisca). [Enoch meets Bobby](/enoch-meets-bobby)
 * in the hospital where [Goto Dengo](/goto-dengo) is convalescing during WWII after Bobby convinces him to surrender ...
-* during the **[Second World War](https://en.wikipedia.org/wiki/world-war-ii)** as an Army chaplain-of-sorts, with Cpl. Bobby Shaftoe detailed to a special division Dept. 2702 acting on information massaged by [Lawrence Waterhouse](/stephenson-neal-cryptonomicon-lawrence-waterhouse).
+* during the **[Second World War](https://en.wikipedia.org/wiki/World_War_II)** as an Army chaplain-of-sorts, with Cpl. Bobby Shaftoe detailed to a special division Dept. 2702 acting on information massaged by [Lawrence Waterhouse](/stephenson-neal-cryptonomicon-lawrence-waterhouse).
 * is part of a gold pirating conspiracy with Bobby Shaftoe, the crew of the V-1 Million, and Rudi.
 * has some sort of family connection to Rudolf *Rudi* von Hacklheber seemingly based upon the *Societas Eruditorum*, and **now** most likely has the Leibniz Archives — that Göering collected for his escaped *slave*.
 * Enoch is pronounced dead from wounds inflicted by Germans. Bobby Shaftoe witnesses a body being hussled away afterwards. Later, Enoch is alive.
@@ -228,7 +228,7 @@ Who is Enoch? He is Neal Stephenson (or his alter ego).
 #### Johann Faust and John Dee:
 
 
-(I'm a little surprised this isn't mentioned yet...) The Enoch Root of Quicksilver seems connected to the legends of Johann Faust (a real character, fictionalised by Marlowe, Goethe and others). Marlowe's Faust was based on a [chapbook](http://lettersfromthedustbowl.com/fbk1.html) description, and also on [John Dee](https://en.wikipedia.org/wiki/john-dee), alchemist to Queen Mary and Elizabeth I, whose name means John *Black*. Dee promoted the idea of a *National Library* (as Enoch does throughout Quicksilver), travelled the courts of europe meeting the great minds of his day, and he also claimed to have been dictated books by angels in the *Enochian* language. John Dee seems to be a clear inspiration for the Enoch of Quicksilver, but his longevity may be another Faust connection: the contract of Goethe's Faust means he cannot die until he is satisfied with the state of the world. A perhaps more convincing 'Red/Rood/Root' connection with Dee is his association with the Rosicrucian order of alchemists ('Rose Cross').
+(I'm a little surprised this isn't mentioned yet...) The Enoch Root of Quicksilver seems connected to the legends of Johann Faust (a real character, fictionalised by Marlowe, Goethe and others). Marlowe's Faust was based on a [chapbook](http://lettersfromthedustbowl.com/fbk1.html) description, and also on [John Dee](https://en.wikipedia.org/wiki/John_Dee), alchemist to Queen Mary and Elizabeth I, whose name means John *Black*. Dee promoted the idea of a *National Library* (as Enoch does throughout Quicksilver), travelled the courts of europe meeting the great minds of his day, and he also claimed to have been dictated books by angels in the *Enochian* language. John Dee seems to be a clear inspiration for the Enoch of Quicksilver, but his longevity may be another Faust connection: the contract of Goethe's Faust means he cannot die until he is satisfied with the state of the world. A perhaps more convincing 'Red/Rood/Root' connection with Dee is his association with the Rosicrucian order of alchemists ('Rose Cross').
 
 #### The Wandering Jew
 
@@ -352,15 +352,15 @@ While the skill and cunning of many of Stephenson's characters is clearly a bit 
 #### Sleeping Heroes:
 
 
-* [Frederick Barbarossa](https://en.wikipedia.org/wiki/frederick-barbarossa) (probably the original) (Germany)
-* [Henry the Fowler](https://en.wikipedia.org/wiki/henry-the-fowler) (Germany)
+* [Frederick Barbarossa](https://en.wikipedia.org/wiki/Frederick_Barbarossa) (probably the original) (Germany)
+* [Henry the Fowler](https://en.wikipedia.org/wiki/Henry_the_Fowler) (Germany)
 * [Charlemagne](https://en.wikipedia.org/wiki/charlemagne) (Germany, France)
-* [William Tell](https://en.wikipedia.org/wiki/william-tell) (Switzerland)
-* [King Arthur](https://en.wikipedia.org/wiki/king-arthur) (England, Wales)
-* Sir [Francis Drake](https://en.wikipedia.org/wiki/francis-drake) (England)
-* [Ogier the Dane](https://en.wikipedia.org/wiki/ogier-the-dane) (Denmark)
+* [William Tell](https://en.wikipedia.org/wiki/William_Tell) (Switzerland)
+* [King Arthur](https://en.wikipedia.org/wiki/King_Arthur) (England, Wales)
+* Sir [Francis Drake](https://en.wikipedia.org/wiki/Francis_Drake) (England)
+* [Ogier the Dane](https://en.wikipedia.org/wiki/Ogier_the_Dane) (Denmark)
 * [Wenceslas](https://en.wikipedia.org/wiki/wenceslas) or Vaclav (Czech Republic)
-* [Theodore Roosevelt](https://en.wikipedia.org/wiki/theodore-roosevelt) (United States)
+* [Theodore Roosevelt](https://en.wikipedia.org/wiki/Theodore_Roosevelt) (United States)
 * An unnamed giant is supposed to sleep in Plynlimmon in [Wales](https://en.wikipedia.org/wiki/wales).
-* [Seven Sleepers](https://en.wikipedia.org/wiki/seven-sleepers)
-* [Rip van Winkle](https://en.wikipedia.org/wiki/rip-van-winkle)
+* [Seven Sleepers](https://en.wikipedia.org/wiki/Seven_Sleepers)
+* [Rip van Winkle](https://en.wikipedia.org/wiki/Rip_Van_Winkle)

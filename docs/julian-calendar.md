@@ -110,6 +110,6 @@ Likewise, the Proleptic Julian calendar is used to specify dates before its offi
 
 
 * [Calendar](https://en.wikipedia.org/wiki/calendar)
-* [Julian Date](https://en.wikipedia.org/wiki/julian-date)
-* [AD](https://en.wikipedia.org/wiki/anno-domini)
+* [Julian Date](https://en.wikipedia.org/wiki/Julian_day)
+* [AD](https://en.wikipedia.org/wiki/Anno_Domini)
 * [Guide to free calendars](http://www.smart.info.guide.com/free-calendars)

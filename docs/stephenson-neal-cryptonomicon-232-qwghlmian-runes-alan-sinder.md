@@ -21,7 +21,7 @@ A Possible Qwghlmian Alphabet
 
 created for Wikipedia for its  
 
-[Runic Alphabet entry](https://en.wikipedia.org/wiki/runic-alphabet)**
+[Runic Alphabet entry](https://en.wikipedia.org/wiki/Runes#Runic_alphabets)**
 
 #### Authored entries
 
@@ -48,4 +48,4 @@ created for Wikipedia for its
 * On [Omniglot](http://www.omniglot.com):
 	+ [Runic alphabet](http://www.omniglot.com/writing-runic.htm)
 	+ Tolkien's [Cirth runes](http://www.omniglot.com/writing-cirth.htm) (often used by [Dwarves](/stephenson-neal-cryptonomicon-121-randy-is-a-dwarf-alan-sinder))
-* [Siglas Poveiras](https://en.wikipedia.org/wiki/siglas-poveiras)
+* [Siglas Poveiras](https://en.wikipedia.org/wiki/Siglas_poveiras)

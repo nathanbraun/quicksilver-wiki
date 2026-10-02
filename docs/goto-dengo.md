@@ -8,7 +8,7 @@ a stub for **Goto Dengo** (ゴト・デンゴ)
 ### Stephensonia
 
 
- ***[N.T.S](/user-nealstephenson)**. stated that he can not be sure, but **Goto Dengo's** eating of the Raw Shark on his swim to New Guinea may have been inspired by [Alan Moore](https://en.wikipedia.org/wiki/alan-moore)'s **[The Watchmen](https://en.wikipedia.org/wiki/watchmen)** comic, which he certainly read.* **Berkeley, California on September 25th, 2003, Book reading and signing at Cody's on Telegraph.** 
+ ***[N.T.S](/user-nealstephenson)**. stated that he can not be sure, but **Goto Dengo's** eating of the Raw Shark on his swim to New Guinea may have been inspired by [Alan Moore](https://en.wikipedia.org/wiki/Alan_Moore)'s **[The Watchmen](https://en.wikipedia.org/wiki/watchmen)** comic, which he certainly read.* **Berkeley, California on September 25th, 2003, Book reading and signing at Cody's on Telegraph.** 
 
 ### Authored entries
 

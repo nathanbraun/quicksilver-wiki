@@ -25,5 +25,5 @@ k
 #### External links
 
 
-* [Wikipedia - Fermat's last theorem](https://en.wikipedia.org/wiki/fermat-s-last-theorem)
-* [Wikipedia - Fermat's little theorem](https://en.wikipedia.org/wiki/fermat-s-little-theorem)
+* [Wikipedia - Fermat's last theorem](https://en.wikipedia.org/wiki/Fermat's_Last_Theorem)
+* [Wikipedia - Fermat's little theorem](https://en.wikipedia.org/wiki/Fermat's_little_theorem)
