@@ -83,7 +83,7 @@ To help compare different orders of magnitude this page lists lengths between 1 
 ### External links
 
 
-* [SI](https://en.wikipedia.org/wiki/si)
+* [SI](https://en.wikipedia.org/wiki/International_System_of_Units)
 * [metre](https://en.wikipedia.org/wiki/metre)
 * [SI prefix](https://en.wikipedia.org/wiki/Metric_prefix)
 * [Orders of magnitude](https://en.wikipedia.org/wiki/Order_of_magnitude)

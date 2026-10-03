@@ -17,7 +17,7 @@ Some of us think this deserves a page of its own. - **Eliza and Abolition**
 * TBA
 
 
-### [Wikipedia: Haiti's Great Slave Rebellion of 1791](https://en.wikipedia.org/wiki/history-of-haiti-the-great-slave-rebellion-of-1791)
+### [Wikipedia: Haiti's Great Slave Rebellion of 1791](https://en.wikipedia.org/wiki/History_of_Haiti)
 
 
 

@@ -77,7 +77,7 @@ If all [ethical trolling](https://meta.wikimedia.org/wiki/What_is_a_troll%3F) su
 1. Phyles come across as tribes of a modern sort that are a temporary barrier to assimilation.
 2. Girls in China have it bad as always.
 3. Education is ***neutral*** when done right.
-4. [We're](https://en.wikipedia.org/wiki/Western_world) in [China](https://en.wikipedia.org/wiki/china); Blame that [Capitalist](https://en.wikipedia.org/wiki/capitalism) [Running Dog](https://en.wikipedia.org/wiki/communism-communism-and-religion) [Richard Nixon](https://en.wikipedia.org/wiki/Richard_Nixon) ***if you must***  *I do*.
+4. [We're](https://en.wikipedia.org/wiki/Western_world) in [China](https://en.wikipedia.org/wiki/china); Blame that [Capitalist](https://en.wikipedia.org/wiki/capitalism) [Running Dog](https://en.wikipedia.org/wiki/Communism) [Richard Nixon](https://en.wikipedia.org/wiki/Richard_Nixon) ***if you must***  *I do*.
 * As to the fictional ***mouse army***  their future will blend other phyles into the Celestial Kingdom and thus *neutralize* the threat while moving everyone into the future. - Eh? [Sparky](/user-stsparky)
   
 

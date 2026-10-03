@@ -24,7 +24,7 @@ There is a panopoly of French epithets based on "merde," a somewhat vulgar term 
 
 [Alta Vista's Babelfish](http://babelfish.altavista.com) translates Emmerdeur to "Bloody nuisance".
 
-Curiously - considering the Enoch Root character - there is something possibly bearing on *Emmerdeur* in the [Wikipedia article about the Biblical character *Enoch*](https://en.wikipedia.org/wiki/enoch-ancestor-of-noah):
+Curiously - considering the Enoch Root character - there is something possibly bearing on *Emmerdeur* in the [Wikipedia article about the Biblical character *Enoch*](https://en.wikipedia.org/wiki/Enoch):
 
 
 ```

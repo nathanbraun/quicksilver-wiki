@@ -120,7 +120,7 @@ For information about banknotes of particular countries or supranational entitie
 * [Australian banknotes](https://en.wikipedia.org/wiki/Banknotes_of_the_Australian_dollar)
 * [British banknotes](https://en.wikipedia.org/wiki/Banknotes_of_the_pound_sterling)
 * [Euro banknotes](https://en.wikipedia.org/wiki/Euro_banknotes)
-* [Turkish banknotes](https://en.wikipedia.org/wiki/lira-banknotes)
+* [Turkish banknotes](https://en.wikipedia.org/wiki/Lira)
 * [United States](https://en.wikipedia.org/wiki/United_States) banknotes ([Federal Reserve notes](https://en.wikipedia.org/wiki/Federal_Reserve_Note))
 
 

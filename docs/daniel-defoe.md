@@ -86,7 +86,7 @@ The latter has the largest congregation.
 ### Footnotes and External links
 
 
-* 1 [Selkirk](https://en.wikipedia.org/wiki/robinson-crusoe-selkirk-as-the-inspiration-for-crusoe)
+* 1 [Selkirk](https://en.wikipedia.org/wiki/Robinson_Crusoe)
 * [Crusoe](https://en.wikipedia.org/wiki/Robinson_Crusoe)
 * [Blackbeard](http://www.fortunecity.co.uk/amusement-golf-200-teach.html)
 * [e-texts of some of Daniel Defoe's works](http://onlinebooks.library.upenn.edu/webbin-gutbook-author-name-defoe-daniel)

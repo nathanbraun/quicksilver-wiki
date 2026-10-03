@@ -32,7 +32,7 @@ A characteristic aspect of his books is the "breakdown in events", a (conscious 
 	+ *[The Big U](https://en.wikipedia.org/wiki/The_Big_U)* (1984)
 	+ *[Zodiac](/stephenson-neal-zodiac)* (1988)
 	+ *[Snow Crash](/stephenson-neal-snow-crash)* (1992)
-	+ Short story: "[Spew](https://en.wikipedia.org/wiki/hackers-short-stories-spew)" (1994)
+	+ Short story: "[Spew](https://en.wikipedia.org/wiki/Hackers_%28anthology%29#%22Spew%22)" (1994)
 	+ *[The Diamond Age: or A Young Lady's Illustrated Primer](/the-diamond-age)* (1995)
 	+ *[Cryptonomicon](/cryptonomicon)* (1999)
 	+ *[Quicksilver](/stephenson-neal-quicksilver)* (2003)

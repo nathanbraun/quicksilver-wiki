@@ -45,7 +45,7 @@ Juanita's new-found powers at the conclusion of the novel are given relatively s
 ### Suitable Metaphors For Eden
 
 
-[Martin Buber](/) and his proteges have always maintained that **[Eden](https://en.wikipedia.org/wiki/Garden_of_Eden)** was a [kindergarten](https://en.wikipedia.org/wiki/kindergarten); And that it is consistent with the [origin myth](https://en.wikipedia.org/wiki/Creation_myth) God wanted Adam and Eve to have knowledge of [Good and Evil](https://en.wikipedia.org/wiki/original-sin-original-sin-in-the-torah). 
+[Martin Buber](/) and his proteges have always maintained that **[Eden](https://en.wikipedia.org/wiki/Garden_of_Eden)** was a [kindergarten](https://en.wikipedia.org/wiki/kindergarten); And that it is consistent with the [origin myth](https://en.wikipedia.org/wiki/Creation_myth) God wanted Adam and Eve to have knowledge of [Good and Evil](https://en.wikipedia.org/wiki/Original_sin). 
 
 ### [Catholic Guilt](/)?
 

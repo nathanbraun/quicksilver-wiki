@@ -36,9 +36,9 @@
 | [Speed of sound](https://en.wikipedia.org/wiki/Speed_of_sound) | 1407 [m/s](https://en.wikipedia.org/wiki/Metre_per_second) at 293.15 K |
 | **Miscellaneous** |
 | [Electronegativity](https://en.wikipedia.org/wiki/electronegativity) | 2.00 ([Pauling scale](https://en.wikipedia.org/wiki/Electronegativity#Pauling_electronegativity))  |
-| [Specific heat capacity](https://en.wikipedia.org/wiki/Specific_heat_capacity) | 140 [J/(kg*K)](https://en.wikipedia.org/wiki/joule-per-kilogram-kelvin) |
+| [Specific heat capacity](https://en.wikipedia.org/wiki/Specific_heat_capacity) | 140 [J/(kg*K)](https://en.wikipedia.org/wiki/Heat_capacity) |
 | [Electrical conductivity](https://en.wikipedia.org/wiki/Electrical_resistivity_and_conductivity) | 1.04 106/m [ohm](https://en.wikipedia.org/wiki/ohm) |
-| [Thermal conductivity](https://en.wikipedia.org/wiki/Thermal_conductivity_and_resistivity) | 8.34 [W/(m*K)](https://en.wikipedia.org/wiki/watt-per-metre-kelvin) |
+| [Thermal conductivity](https://en.wikipedia.org/wiki/Thermal_conductivity_and_resistivity) | 8.34 [W/(m*K)](https://en.wikipedia.org/wiki/Thermal_conductivity_and_resistivity) |
 | 1st [ionization potential](https://en.wikipedia.org/wiki/Ionization_energy) | 1007.1 kJ/mol |
 | 2nd ionization potential  | 1810 kJ/mol |
 | 3rd ionization potential  | 3300 kJ/mol |
@@ -57,7 +57,7 @@
 | 204Hg | 6.87% | Hg is stable with 124 neutrons |
 
  |
-| [SI](https://en.wikipedia.org/wiki/si) units & [STP](https://en.wikipedia.org/wiki/Standard_temperature_and_pressure) are used except where noted. |
+| [SI](https://en.wikipedia.org/wiki/International_System_of_Units) units & [STP](https://en.wikipedia.org/wiki/Standard_temperature_and_pressure) are used except where noted. |
 
 
 **Mercury** shows up 19 times throughout [Cryptonomicon](/cryptonomicon); Have yet to do a count re: quicksilver.

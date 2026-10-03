@@ -169,7 +169,7 @@ He was succeeded in his titles by his son by his second marriage to Dora Russell
 **|  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  Preceded by  Acted as  Followed by
-| [John Russell](https://en.wikipedia.org/wiki/john-francis-stanley-russell-2nd-earl-russell) [Earl Russell](https://en.wikipedia.org/wiki/Bertrand_Russell) [John Russell](https://en.wikipedia.org/wiki/john-conrad-russell-4th-earl-russell)|   2nd Earl   3rd Earl   4th Earl
+| [John Russell](https://en.wikipedia.org/wiki/Frank_Russell,_2nd_Earl_Russell) [Earl Russell](https://en.wikipedia.org/wiki/Bertrand_Russell) [John Russell](https://en.wikipedia.org/wiki/John_Russell,_4th_Earl_Russell)|   2nd Earl   3rd Earl   4th Earl
  | | |
  | | |
  | | |**
