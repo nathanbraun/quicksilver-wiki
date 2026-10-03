@@ -109,7 +109,7 @@ In Philip Pullman's His Dark Materials trilogy, Metatron is the Regent of Heaven
 
 In the [Quran](/), the prophet Enoch is known as Idris.
 
-### Wikipedia: [Holy Roman Emperor Frederick I](https://en.wikipedia.org/wiki/frederick-i-holy-roman-emperor)
+### Wikipedia: [Holy Roman Emperor Frederick I](https://en.wikipedia.org/wiki/Frederick_Barbarossa)
 
 
 

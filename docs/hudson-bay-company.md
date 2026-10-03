@@ -6,7 +6,7 @@ From the Quicksilver Metaweb.
 a page for the **Hudson Bay Company** which our resident troll holds is an early example of [corporate imperialism](/corporate-imperialism)
 ### Stephensonia
 
-*The **[Merry Monarch](/charles-ii)** was a busy man, as was **[Prince Rupert of the Rhine](https://en.wikipedia.org/wiki/Prince_Rupert_of_the_Rhine)** (1619-1682), soldier and inventor, a younger son of [Frederick V, Elector Palatine](https://en.wikipedia.org/wiki/frederick-v-elector-palatine) and [the Winter Queen](/elizabeth-of-bohemia), nephew of King [Charles I](/charles-i) of England and commander of the Royalist cavalry during the [English Civil War](/english-civil-war).*
+*The **[Merry Monarch](/charles-ii)** was a busy man, as was **[Prince Rupert of the Rhine](https://en.wikipedia.org/wiki/Prince_Rupert_of_the_Rhine)** (1619-1682), soldier and inventor, a younger son of [Frederick V, Elector Palatine](https://en.wikipedia.org/wiki/Frederick_V_of_the_Palatinate) and [the Winter Queen](/elizabeth-of-bohemia), nephew of King [Charles I](/charles-i) of England and commander of the Royalist cavalry during the [English Civil War](/english-civil-war).*
 
 ### Authored Pages
 
@@ -83,7 +83,7 @@ In December of 2003, Maple Leaf Heritage Investments, a Nova Scotia based compan
 * [Dutch West India Company](https://en.wikipedia.org/wiki/Dutch_West_India_Company)
 * [John McLoughlin](https://en.wikipedia.org/wiki/John_McLoughlin)
 * [British colonization of the Americas](https://en.wikipedia.org/wiki/British_colonization_of_the_Americas)
-* [British colonial grants in North America (1621-1639)](https://en.wikipedia.org/wiki/british-colonial-grants-in-north-america-1621-1639)
+* [British colonial grants in North America (1621-1639)](https://en.wikipedia.org/wiki/Historical_regions_of_the_United_States#Pre-Revolutionary_War_regions)
 * [Robert Bylot](https://en.wikipedia.org/wiki/Robert_Bylot) - Explorer
 * [Pig War](https://en.wikipedia.org/wiki/Pig_War)
 * [Aroostock War](https://en.wikipedia.org/wiki/Aroostook_War)
@@ -94,7 +94,7 @@ In December of 2003, Maple Leaf Heritage Investments, a Nova Scotia based compan
 
 * [Hudson's Bay Company Archives](/http-www-gov-mb-ca-chc-archives-hbca-index-html) held by the Government of Manitoba
 * [Prince Rupert of the Rhine](https://en.wikipedia.org/wiki/Prince_Rupert_of_the_Rhine)
-* [Frederick V, Elector Palatine](https://en.wikipedia.org/wiki/frederick-v-elector-palatine)
+* [Frederick V, Elector Palatine](https://en.wikipedia.org/wiki/Frederick_V_of_the_Palatinate)
 * [Montreal](https://en.wikipedia.org/wiki/montreal)
 * [St John](https://en.wikipedia.org/wiki/Saint_John,_New_Brunswick)
 * [New Brunswick](https://en.wikipedia.org/wiki/New_Brunswick)

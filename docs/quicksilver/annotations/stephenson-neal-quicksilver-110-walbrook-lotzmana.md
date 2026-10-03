@@ -61,6 +61,6 @@ The name Mithras was adapted from the Persian god Mithra, the mediator between A
 ### External links
 
 
-* [Roman sites in the UK](https://en.wikipedia.org/wiki/roman-sites-in-the-united-kingdom)
+* [Roman sites in the UK](https://en.wikipedia.org/wiki/Roman_sites_in_Great_Britain)
 * [http://www.channel4.com/history/microsites/H/history/a-b/boud3.html](http://www.channel4.com/history-microsites-h-history-a-b-boud3.html)
 * [The Mitraic Temple](http://www.museumoflondon.org.uk/molsite-learning-features-facts-digging-beliefs-s1.html)

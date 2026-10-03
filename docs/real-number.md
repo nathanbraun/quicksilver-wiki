@@ -114,7 +114,7 @@ He meant that the real numbers form the *largest* Archimedean field in the sense
 Thus **R** is "complete" in the sense that nothing further can be added to it without making it no longer an Archimedean field.
 This sense of completeness is most closely related to the construction of the reals from surreal numbers, since that construction starts with a proper class that contains every ordered field (the surreals) and then selects from it the largest Archimedean subfield.
 
-#### [Advanced properties](https://en.wikipedia.org/wiki/real-number-advanced-properties)
+#### [Advanced properties](https://en.wikipedia.org/wiki/Real_number)
 
 The reals are [uncountable](https://en.wikipedia.org/wiki/uncountable), that is, there are strictly more real numbers than [natural numbers](https://en.wikipedia.org/wiki/Natural_number) (even though both sets are [infinite](https://en.wikipedia.org/wiki/infinity)).
 This is proved with [Cantor's diagonal argument](https://en.wikipedia.org/wiki/Cantor's_diagonal_argument).

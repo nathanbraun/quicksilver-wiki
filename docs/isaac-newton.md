@@ -170,7 +170,7 @@ F.Y.I.: The name Isaac -- son of Abraham in the TORAH -- means 'laughter.'
 * 1 [Agenda](http://www.cftech.com/brainbank-otherreference-biography-newtonian.html)
 * 2 [First Council of Nicea](https://en.wikipedia.org/wiki/First_Council_of_Nicaea)
 * **[Isaac Newton (Wikipedia)](https://en.wikipedia.org/wiki/Isaac_Newton)**
-* **[Wikipedia's In-Depth Article](https://en.wikipedia.org/wiki/isaac-newton-in-depth-biography)**
+* **[Wikipedia's In-Depth Article](https://en.wikipedia.org/wiki/Early_life_of_Isaac_Newton)**
 * **[Principia:Book Two: Lemma II](/http-www-maths-tcd-ie-pub-histmath-people-newton-principia-bk2lem2)**
 * **[Opticks on CD (Octavo)](http://www.octavo.com/collections-projects-nwtopt-index.html)**
 * **[gap.dcs](http://www.gap.dcs.st.and.ac.uk/history-mathematicians-newton.html)**

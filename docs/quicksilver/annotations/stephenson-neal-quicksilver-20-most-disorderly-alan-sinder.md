@@ -38,7 +38,7 @@ In [physics](https://en.wikipedia.org/wiki/physics), the "[thought experiment](/
 ### Physics
 
  
-It should be noted that [Einstein's Special Theory of Relativity](https://en.wikipedia.org/wiki/Special_relativity) (and, by extension, [the General Theory](https://en.wikipedia.org/wiki/albert-einstein-generalized-theory)) very explicitly permits a kind of time dilation that would ordinarily be called time travel. The theory holds that time passes more slowly for faster-moving bodies: for example, a moving clock will run slow; as a clock approaches the speed of light its hands will nearly stop moving. However, this effect allows "time travel" only toward the future: only forward, never backward. It is not the most interesting kind, nor the kind typical of science fiction: hereafter "time travel" will refer to travel with some degree of freedom into the past or future. 
+It should be noted that [Einstein's Special Theory of Relativity](https://en.wikipedia.org/wiki/Special_relativity) (and, by extension, [the General Theory](https://en.wikipedia.org/wiki/Albert_Einstein)) very explicitly permits a kind of time dilation that would ordinarily be called time travel. The theory holds that time passes more slowly for faster-moving bodies: for example, a moving clock will run slow; as a clock approaches the speed of light its hands will nearly stop moving. However, this effect allows "time travel" only toward the future: only forward, never backward. It is not the most interesting kind, nor the kind typical of science fiction: hereafter "time travel" will refer to travel with some degree of freedom into the past or future. 
 
 Many in the scientific community believe that time travel is highly unlikely. This belief is largely due to [Occam's Razor](https://en.wikipedia.org/wiki/Occam's_razor). Any theory which would allow time travel would require that issues of [causality](https://en.wikipedia.org/wiki/causality) be resolved. What happens if you try to go back in time and kill your grandfather? -- see [grandfather paradox](https://en.wikipedia.org/wiki/Temporal_paradox#Consistency_paradox). Also, in the absence of any experimental evidence that time travel exists, it is theoretically simpler to assume that it does not happen. Indeed, [Stephen Hawking](/stephen-hawking) once suggested that the absence of tourists from the future constitutes a strong argument against the existence of time travel - a variant of the [Fermi paradox](https://en.wikipedia.org/wiki/Fermi_paradox), with time travelers instead of alien visitors. However assuming that time travel cannot happen is also interesting to physicists before it opens up the question of why and what physical laws exist to prevent time travel from occurring. 
 
@@ -188,7 +188,7 @@ Another reconstruction was made in 2002 by Michael Wright, mechanical engineerin
 * [general relativity](https://en.wikipedia.org/wiki/General_relativity)
 * [quantum mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics)
 * [Einstein's Special Theory of Relativity](https://en.wikipedia.org/wiki/Special_relativity)
-* [the General Theory](https://en.wikipedia.org/wiki/albert-einstein-generalized-theory)
+* [the General Theory](https://en.wikipedia.org/wiki/Albert_Einstein)
 * [Occam's Razor](https://en.wikipedia.org/wiki/Occam's_razor)
 * [causality](https://en.wikipedia.org/wiki/causality)
 * [grandfather paradox](https://en.wikipedia.org/wiki/Temporal_paradox#Consistency_paradox)

@@ -211,7 +211,7 @@ The acidic juice of pomegranates is used in Indian cookery; thickened and sweete
 #### In Myth
 
 
-Pomegranates are a symbol of fertility because of their many seeds, yet of death because of the vivid blood red of the pulp. (See [life-death-rebirth deity](https://en.wikipedia.org/wiki/life-death-rebirth-deity).) In mythology, **[Persephone](https://en.wikipedia.org/wiki/persephone)** was condemned to spend time in the Underworld every year because **[Hades](https://en.wikipedia.org/wiki/hades)** tricked her into eating six pomegranate seeds while she was his prisoner. 
+Pomegranates are a symbol of fertility because of their many seeds, yet of death because of the vivid blood red of the pulp. (See [life-death-rebirth deity](https://en.wikipedia.org/wiki/Dying-and-rising_god).) In mythology, **[Persephone](https://en.wikipedia.org/wiki/persephone)** was condemned to spend time in the Underworld every year because **[Hades](https://en.wikipedia.org/wiki/hades)** tricked her into eating six pomegranate seeds while she was his prisoner. 
 
 The pomegranate was a symbol of the Aegean [Triple Goddess](https://en.wikipedia.org/wiki/Triple_deity) who evolved into Olympian **[Hera](https://en.wikipedia.org/wiki/hera)**, who is represented offering the pomegranate. 
 

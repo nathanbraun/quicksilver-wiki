@@ -41,7 +41,7 @@ During his reign Israel enjoys great commercial prosperity. Extensive traffic is
 
 His decline and fall from his high estate is a sad record. Blamed for it are his polygamy and his great wealth, causing him to become decadent and involved in various forms of idol worship which are contrary to the religious law. Because of this idol worship, a prophet visits Solomon and tells him that after his death his kingdom would be split in two (Israel and Judah) and that his son, [Rehoboam](https://en.wikipedia.org/wiki/rehoboam), would suffer because of his sin. He dies, after a reign of forty years, and is buried in Jerusalem.
 
-Solomon also appears in the [Qur'an](https://en.wikipedia.org/wiki/qur-an), whererin he is called Sulayman (see [Similarities between the Torah and the Qur'an](https://en.wikipedia.org/wiki/similarities-between-the-bible-and-the-qur-an)).
+Solomon also appears in the [Qur'an](https://en.wikipedia.org/wiki/Quran), whererin he is called Sulayman (see [Similarities between the Torah and the Qur'an](https://en.wikipedia.org/wiki/Biblical_narratives_in_the_Quran)).
 
 ### George Rawlinson's Evaluation
 

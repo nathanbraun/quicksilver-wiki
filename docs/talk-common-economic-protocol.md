@@ -81,7 +81,7 @@ Nah, those French have a different word for everything. - [Ian Psuedonym](http:/
 Groups which advocate Alter-Globalization include [ATTAC](https://en.wikipedia.org/wiki/attac), an international trade reform network headquartered in France. 
 Advocates of Alter-Globalization have setup a global news network, [indymedia](http://indymedia.org) to report on and advocate for the alter-globalization movement.
 It's not new, and it's not that neutral.
-* Think [PETA](https://en.wikipedia.org/wiki/peta) and [Greenpeace](https://en.wikipedia.org/wiki/greenpeace) are popular these days? Haters most often become what they hate  ain't Karma poetic? - [Sparky](/user-stsparky) 22:57, 2004 Mar 26 (PST)
+* Think [PETA](https://en.wikipedia.org/wiki/People_for_the_Ethical_Treatment_of_Animals) and [Greenpeace](https://en.wikipedia.org/wiki/greenpeace) are popular these days? Haters most often become what they hate  ain't Karma poetic? - [Sparky](/user-stsparky) 22:57, 2004 Mar 26 (PST)
 
 
 Popularity is only relevant to those who think [democracy is God](/democracy-is-god). Not us [trolls](/trolls). And, [Greenpeace](https://en.wikipedia.org/wiki/greenpeace) is not an acronym. Jesus, Muhammad, Confucius, all quite unpopular in their time with the powers that were

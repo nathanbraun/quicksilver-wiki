@@ -198,7 +198,7 @@ Is there any reason why we can't just block off the entire 80.58.###.### and 220
 ---
 
 
-Do you have [nofollow](https://en.wikipedia.org/wiki/blog-spam-nofollow) tags on external links? - [70.18.36.47](/user-70-18-36-47) 10:31, 20 Aug 2005 (PDT)
+Do you have [nofollow](https://en.wikipedia.org/wiki/Spam_in_blogs) tags on external links? - [70.18.36.47](/user-70-18-36-47) 10:31, 20 Aug 2005 (PDT)
  No, and I don't know if our version of the Wiki software can use them. I'll inquire. It seems our spammer got bored or is taking a break - [Sparky](/user-stsparky) 13:48, 2005 Aug 20 (PDT)
 
 ### [Wikipedia: Link spam: nofollow](/)

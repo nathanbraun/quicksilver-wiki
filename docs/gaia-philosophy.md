@@ -92,7 +92,7 @@ More speculative versions of Gaia, including all versions in which it is held th
 * [gardening](https://en.wikipedia.org/wiki/gardening)
 * [Industrial ecology](https://en.wikipedia.org/wiki/Industrial_ecology)
 * [keystone species](https://en.wikipedia.org/wiki/Keystone_species)
-* [places to intervene in a system](https://en.wikipedia.org/wiki/donella-meadows-twelve-leverage-points-to-intervene-in-a-system)
+* [places to intervene in a system](https://en.wikipedia.org/wiki/Twelve_leverage_points)
 * [urban ecology](https://en.wikipedia.org/wiki/Urban_ecology)
 * [The Gaia Hypothesis](http://www.oceansonline.com/gaiaho.htm)
 * [Gaia: Argument over a single word](http://www.colorado.edu/iec-fall299rw-eco.html)

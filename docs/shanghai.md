@@ -7,7 +7,7 @@
 
 ### Stephensonia
 
-*What do you get when you have [Marines](https://en.wikipedia.org/wiki/u-s-marines), [prostitutes](https://en.wikipedia.org/wiki/prostitutes), [spies](https://en.wikipedia.org/wiki/espionage), **[Tintin](/stephenson-neal-cryptonomicon-1-shanghai-alan-sinder)**, **[Terry and the Pirates](/stephenson-neal-cryptonomicon-1-shanghai-alan-sinder)**, **[The Fugu Plan](/stephenson-neal-cryptonomicon-1-shanghai-alan-sinder)**, and [Jews](/judaism)? I guess every schoolboy was clued in to China's importance. Comics had more weight with the public. Note that [Lawrence](/lawrence-waterhouse) thinks in terms of **Superman** and **Ally Oop**. Shanghai takes center stage in [The Diamond Age](/the-diamond-age):
+*What do you get when you have [Marines](https://en.wikipedia.org/wiki/United_States_Marine_Corps), [prostitutes](https://en.wikipedia.org/wiki/prostitutes), [spies](https://en.wikipedia.org/wiki/espionage), **[Tintin](/stephenson-neal-cryptonomicon-1-shanghai-alan-sinder)**, **[Terry and the Pirates](/stephenson-neal-cryptonomicon-1-shanghai-alan-sinder)**, **[The Fugu Plan](/stephenson-neal-cryptonomicon-1-shanghai-alan-sinder)**, and [Jews](/judaism)? I guess every schoolboy was clued in to China's importance. Comics had more weight with the public. Note that [Lawrence](/lawrence-waterhouse) thinks in terms of **Superman** and **Ally Oop**. Shanghai takes center stage in [The Diamond Age](/the-diamond-age):
 ### A thete visits a mod parlor;
 
 #### noteworthy features of modern armaments.

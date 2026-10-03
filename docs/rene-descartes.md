@@ -127,4 +127,4 @@ Descartes's theory provided the basis for the calculus of [Newton](/isaac-newton
 * [dreams](https://en.wikipedia.org/wiki/dreaming)
 * [God's eye view](https://en.wikipedia.org/wiki/subject-object-problem) - In philosophy, the **subject-object problem** is a problem chiefly for Marxists, and for that idealistic revision of Marxism that supplies the background for *postmodernism*, social construction, and a constellation of related movements.
 * [cogito ergo sum](https://en.wikipedia.org/wiki/Cogito,_ergo_sum)
-* [anthropic bias](https://en.wikipedia.org/wiki/anthropic-principle-anthropic-bias-and-anthropic-reasoning)
+* [anthropic bias](https://en.wikipedia.org/wiki/Anthropic_principle)

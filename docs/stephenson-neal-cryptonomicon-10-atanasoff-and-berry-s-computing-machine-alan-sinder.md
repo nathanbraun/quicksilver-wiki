@@ -7,7 +7,7 @@ This is the [Cryptonomicon](/cryptonomicon) page for the **ABC - Atanasoff Berry
 ### Stephensonia
 
 
-*Like many, [Lawrence Waterhouse](/lawrence-waterhouse) misunderstands the super vision powers of [Superman](https://en.wikipedia.org/wiki/superman)  specifically his X-Ray Vision. Objects as dense or denser than lead can impede this ability. Contrary to some beliefs, lead objects are not invisible to [Superman's X-Ray Vision](https://en.wikipedia.org/wiki/superman-superman-27s-abilities); they simply appear opaque to him. Nor do his eyes actually emit X-rays.*![ABComputer.GIF](/images/ABComputer.GIF)  
+*Like many, [Lawrence Waterhouse](/lawrence-waterhouse) misunderstands the super vision powers of [Superman](https://en.wikipedia.org/wiki/superman)  specifically his X-Ray Vision. Objects as dense or denser than lead can impede this ability. Contrary to some beliefs, lead objects are not invisible to [Superman's X-Ray Vision](https://en.wikipedia.org/wiki/Superman); they simply appear opaque to him. Nor do his eyes actually emit X-rays.*![ABComputer.GIF](/images/ABComputer.GIF)  
 **Atanasoff Berry Computer**  
 
      *** When not marching back and forth on the flood plain of the [Skunk River](https://en.wikipedia.org/wiki/Skunk_River) making loud dinging noises, Lawrence was majoring in mechanical engineering. He ended up doing poorly in this area because he had fallen in with a Bulgarian professor named [John Vincent Atanasoff](https://en.wikipedia.org/wiki/John_Vincent_Atanasoff) and his graduate student, [Clifford Berry](https://en.wikipedia.org/wiki/Clifford_Berry), who were building a machine that was intended to automate the solution of some especially tedious differential equations.***  

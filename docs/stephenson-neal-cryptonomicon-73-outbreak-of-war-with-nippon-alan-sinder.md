@@ -133,7 +133,7 @@ Interestingly, the other common Yamamoto quote predicting the future outcome of 
 ### External links
 
 
-* [Purple](https://en.wikipedia.org/wiki/cryptography-world-war-ii-cryptography)
+* [Purple](https://en.wikipedia.org/wiki/Cryptography)
 * [The Quote](https://en.wikipedia.org/wiki/Isoroku_Yamamoto's_sleeping_giant_quote)
 * [Purple code](https://en.wikipedia.org/wiki/Type_B_Cipher_Machine)
 * [Tora! Tora! Tora!](http://us.imdb.com/title-tt0066473)

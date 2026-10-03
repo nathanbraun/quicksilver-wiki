@@ -109,7 +109,7 @@ It is a [simple group](https://en.wikipedia.org/wiki/Group_%28mathematics%29), m
 
 The only simple groups which are [abelian](https://en.wikipedia.org/wiki/Abelian_group) are the [cyclic groups](https://en.wikipedia.org/wiki/Cyclic_group) whose order is a prime number. In a huge collaborative effort, the [classification of finite simple groups](https://en.wikipedia.org/wiki/Classification_of_finite_simple_groups) was accomplished in 1982. 
 
-The [Monster](https://en.wikipedia.org/wiki/dimension-mathematical-dimensions) was found by B. Fischer and R. Griess in 1973. It can be constructed as a group of rotations in a space of [dimension](https://en.wikipedia.org/wiki/dimension) 196,883 over the [rational numbers](https://en.wikipedia.org/wiki/Rational_number).
+The [Monster](https://en.wikipedia.org/wiki/Dimension) was found by B. Fischer and R. Griess in 1973. It can be constructed as a group of rotations in a space of [dimension](https://en.wikipedia.org/wiki/dimension) 196,883 over the [rational numbers](https://en.wikipedia.org/wiki/Rational_number).
 
 The Monster group prominently features in the [http://www.berkeley.edu/news/media/releases/98legacy/08-19-1998a.html [Monstrous Moonshine conjecture](http://www.berkeley.edu/news-media-releases-98legacy-08-19-1998a.html) which relates discrete and non-discrete mathematics and was proven by Richard Borcherds in 1989. 
 
